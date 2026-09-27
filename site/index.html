@@ -87,6 +87,7 @@ button { background: var(--surface); color: var(--accent); border: 1px solid var
       <label class="check"><input type="checkbox" id="need-trailer"> Måste ha trailer</label>
       <label class="check"><input type="checkbox" id="known-engine"> Endast känt motorår</label>
       <label class="check"><input type="checkbox" id="hide-flags" checked> Dölj renoveringsobjekt/defekta</label>
+      <label class="check"><input type="checkbox" id="hide-unsure"> Dölj osäker båttyp (hytt eller öppen)</label>
     </div>
   </section>
 
@@ -105,7 +106,7 @@ const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "
 const EXTRA_LABELS = { trailer: "trailer", plotter: "plotter/GPS", ekolod: "ekolod", kapell: "kapell", vinterkapell: "vinterkapell", elmotor: "elmotor", hjalpmotor: "hjälpmotor", vhf: "VHF", stereo: "stereo", hydraulstyrning: "hydraulstyrning", landstrom: "landström" };
 const FLAG_LABELS = { project: "renoveringsobjekt", defect: "motorfel", leak: "läckage/spricka i skrov", untested: "otestad" };
 const SRC_LABELS = { "rule:spec": "annonsfält", "rule:text": "annonstext", "rule:original": "originalmotor", "llm": "lokal AI", "rule:text+llm": "text + AI", "rule:text?": "osäker" };
-const CONTROLS = ["w-value", "w-engine", "w-hp", "w-extras", "max-price", "min-engine", "min-hp", "class", "q", "need-trailer", "known-engine", "hide-flags"];
+const CONTROLS = ["w-value", "w-engine", "w-hp", "w-extras", "max-price", "min-engine", "min-hp", "class", "q", "need-trailer", "known-engine", "hide-flags", "hide-unsure"];
 let DATA = null;
 const PAGE = 100;
 let shown = PAGE;
@@ -131,6 +132,7 @@ function render() {
     (!$("need-trailer").checked || b.extras.includes("trailer")) &&
     (!$("known-engine").checked || b.engine_year) &&
     (!$("hide-flags").checked || b.red_flags.length === 0) &&
+    (!$("hide-unsure").checked || b.hull_certain) &&
     (!q || [b.heading, b.make, b.location, b.engine_maker, b.ad_id].join(" ").toLowerCase().includes(adQuery(q))));
 
   const zv = zscores(boats.map((b) => b.score));
@@ -155,7 +157,11 @@ function card(b, n) {
     .map((k) => `<span class="chip">${k === "trailer" ? trailerLabel() : EXTRA_LABELS[k]}</span>`)
     .concat(b.extras_excluded.map((k) => `<span class="chip no" title="ingår inte">${EXTRA_LABELS[k] || k}</span>`))
     .concat(b.red_flags.map((f) => `<span class="chip flag">${FLAG_LABELS[f] || f}</span>`))
-    .concat(b.swap_offered ? [`<span class="chip src">byte möjligt</span>`] : []).join("");
+    .concat(b.swap_offered ? [`<span class="chip src">byte möjligt</span>`] : [])
+    .concat(!b.hull_certain ? [`<span class="chip flag" title="Text, båttyp och bilder gav inget säkert besked">typ osäker${b.hull ? (b.hull === "cabin" ? " (trolig hytt)" : " (trolig öppen)") : ""}</span>`]
+      : b.hull_source === "bild" ? [`<span class="chip src" title="${esc(b.hull_evidence || "")}">hytt enligt bild</span>`] : [])
+    .concat(b.found_by.some((f) => f !== "kategori") && !b.found_by.includes("kategori") ? [`<span class="chip src" title="Hittad via modellistan (${esc(b.found_by.join(", "))}), annonsen ligger under annan båttyp">via modellista</span>`] : [])
+    .join("");
   const src = b.engine_year ? `<span class="chip src" title="${esc(b.engine_year_evidence)}">${SRC_LABELS[b.engine_year_source] || esc(b.engine_year_source)}</span>` : "";
   const hist = b.price_history.length > 1 ? `<span class="muted">tidigare ${b.price_history.slice(0, -1).map((p) => kr(p.price)).join(" → ")}</span>` : "";
   const rows = b.breakdown.map(([k, v]) => `<tr><td>${esc(k)}</td><td class="value ${v >= 0 ? "pos" : "neg"}">${pct(v)}</td></tr>`).join("");
@@ -166,7 +172,7 @@ function card(b, n) {
       <div class="facts">
         <span>Båt ${b.boat_year ?? `<span class='muted' title='Annonsens årtal (${b.boat_year_listed ?? "–"}) verkar vara en platshållare'>år okänt</span>`}</span>
         <span>Motor ${b.engine_year ?? (b.engine_year_est ? `<span class='muted' title='Uppskattat: ${esc(b.engine_year_est_reason)}'>≈${b.engine_year_est}?</span>` : "<span class='muted'>år okänt</span>")} ${src}</span>
-        <span>${b.hp} hk${b.engine_stroke ? ` ${b.engine_stroke}-takt` : ""}</span>
+        <span>${b.hp ?? "<span class='muted'>hk okänt</span>"}${b.hp ? " hk" : ""}${b.engine_stroke ? ` ${b.engine_stroke}-takt` : ""}${b.hp && b.hp_source && b.hp_source !== "annonsfält" ? ` <span class="chip src" title="${esc(b.hp_evidence || "")}">${esc(b.hp_source)}</span>` : ""}</span>
         ${b.engine_maker ? `<span>${esc(b.engine_maker)}</span>` : ""}
         ${b.engine_hours ? `<span>${b.engine_hours} h</span>` : ""}
         ${b.length_ft ? `<span>${b.length_ft} fot</span>` : ""}

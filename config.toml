@@ -2,9 +2,23 @@
 
 [search]
 # Any Blocket boat search URL; its filters are reused against the JSON search API.
-url = "https://www.blocket.se/mobility/search/boat?class=7962&class=6921&class=2186&class=3827&class=2258&dealer_segment=1&motor_size_to=80&price_to=300000"
+# Cabin boats like a Sandström 560 MC: Hyttbåt + Kabinbåt + Daycruiser, 17-21 ft, 40-100 hp, private, <= 300 000 kr.
+# The hp and length ranges are applied locally (Blocket's own range filters drop ads with the field left empty).
+url = "https://www.blocket.se/mobility/search/boat?class=7962&class=6923&class=2184&dealer_segment=1&length_feet_from=17&length_feet_to=21&motor_size_from=40&motor_size_to=100&price_to=300000"
 # Seconds between requests. Be polite: one sequential client, no parallelism.
 delay_s = 1.2
+# Exact models similar to the target, searched by name in every boat type (catches misfiled ads).
+# Only ads whose model family matches exactly are kept. Filters below apply to these searches.
+models = [
+  "Sandström 560", "Sandström 565",
+  "Ryds 550", "Ryds 568", "Ryds 530", "Ryds Camping",
+  "Uttern 5500", "Uttern 560", "Uttern 590",
+  "Yamarin 56", "Yamarin 5800", "Yamarin 575",
+  "Flipper 535", "Flipper 570", "Flipper 575", "Flipper 580",
+  "Örnvik 530", "Örnvik 540", "Örnvik 550", "Örnvik 555", "Örnvik 575",
+  "Bella 561", "Bella 572", "Crescent 535", "Grisslan 600", "Väddö 560", "Ideal 550",
+]
+model_filters = "dealer_segment=1&motor_size_from=40&motor_size_to=100&price_to=300000"
 # Refetch an ad page when the search result says it was updated, or when older than this.
 refetch_after_days = 7
 
@@ -19,6 +33,14 @@ ctx = 8192
 gpu_lock = "~/.local/state/investor/gpu.lock"
 gpu_lock_timeout_s = 1800
 
+# Last resort for ads whose text doesn't give the engine power: read the engine cowling in the photos.
+[vision]
+model = "~/models/qwen3-vl-8b/Qwen3VL-8B-Instruct-Q4_K_M.gguf"
+mmproj = "~/models/qwen3-vl-8b/mmproj-Qwen3VL-8B-Instruct-Q8_0.gguf"
+port = 8092
+ctx = 16384
+max_photos = 12
+
 [ranking]
 # Prices below this are placeholders ("0 kr", "1 kr", "bud").
 min_price = 5000
@@ -26,6 +48,11 @@ outboard_only = true
 # Score multiplier per red flag (renoveringsobjekt, defekt, läcker, ...).
 red_flag_penalty = 0.20
 ridge_lambda = 2.0
+# Prior strength (in ads) for model-level price effects: a model with n ads gets weight n / (n + k).
+model_prior = 4.0
+# Market ads the price model learns from: comparable motorboats, not sailboats, jet skis or yachts.
+market_classes = ["Hyttbåt", "Kabinbåt", "Daycruiser", "Styrpulpetbåt", "Bowrider", "Fiskebåt/Arbetsbåt"]
+market_length_ft = [14, 26]
 
 # Estimated used-market value (SEK) an included item adds to the deal.
 # Subtracted from the asking price before comparing boats against each other.

@@ -336,6 +336,56 @@ def extract_engine_type(heading: str, description: str, specs: dict, search_moto
     return {"engine_type": None, "source": None, "needs_llm": True, "reason": "engine type unknown"}
 
 
+HP = re.compile(r"(?<![\d.,])(\d{1,3}(?:[.,]\d)?)\s?(?:hk|hp|hästar|hästkrafter)\b", re.I)
+HP_MODEL = re.compile(r"\b(?:df|bf|ft|f|e-?tec\s?|etec\s?)\s?(\d{1,3}(?:[.,]\d)?)(?:[a-z]{0,6})\b", re.I)
+
+
+def extract_hp(heading: str, description: str, specs: dict) -> tuple[float | None, str | None]:
+    """Engine power when the Motorstorlek field is empty: "60 hk", then model codes (DF50, F9.9, E-TEC 60)."""
+    for source in (specs.get("Motortillverkare") or "", heading, description):
+        for rx in (HP, HP_MODEL):
+            for m in rx.finditer(source):
+                hp = float(m.group(1).replace(",", "."))
+                if 2 <= hp <= 450:
+                    return hp, _around(source, m.start(), 60)
+    return None, None
+
+
+CABIN_CLASSES = {"Hyttbåt", "Kabinbåt", "Daycruiser"}
+CABIN_CUE = re.compile(
+    r"\bhytt\w*|\w*hytt(?:en)?\b|\bkabin\w*|sovplats\w*|\bkoj(?:er|en|plats\w*)?\b|\bruff\w*|\btoalett\w*|\bwc\b|"
+    r"\bcuddy\w*|\bdaycruiser\w*|\bweekend\w*|\bövernatt\w*|låsbar\w*\s+(?:hytt|kabin|dörr)|\bhard\s*top\b", re.I)
+HULL_CODE_CABIN = re.compile(r"\d\s?(?:ht|ph|dc|wa|mc|hardtop|pilothouse)\b|\b(?:ht|ph|dc|wa|mc)\b", re.I)
+HULL_CODE_OPEN = re.compile(r"\d\s?(?:sc|gts|br|bowrider)\b|\b(?:sc|gts|br)\b", re.I)
+OPEN_CUE = re.compile(r"\bstyrpulpet\w*|\bmittpulpet\w*|\bsidopulpet\w*|\böppen\s+båt\b|\bconsole\b|\bbowrider\w*", re.I)
+
+
+def extract_hull(heading: str, description: str, boat_class: str | None) -> dict:
+    """Cabin ("hyttbåt") or open console boat, and whether that is certain.
+
+    Sellers file the same model under five boat types, so the class alone isn't trusted:
+    text cues and class must agree; anything else is left for the photos.
+    """
+    text = f"{heading}\n{description}"
+    cabin, open_ = CABIN_CUE.search(text), OPEN_CUE.search(text)
+    # Model designations in the heading: "Uttern 560 HT", "Yamarin 56 SC", "Ryds 568 GTS". CC is ambiguous.
+    code_cabin, code_open = HULL_CODE_CABIN.search(heading), HULL_CODE_OPEN.search(heading)
+    if code_cabin and not code_open and not open_:
+        return {"hull": "cabin", "source": "rule:model", "certain": True, "evidence": heading}
+    if code_open and not code_cabin and not cabin:
+        return {"hull": "open", "source": "rule:model", "certain": True, "evidence": heading}
+    cls_cabin = boat_class in CABIN_CLASSES
+    if cabin and not open_:
+        return {"hull": "cabin", "source": "rule:text", "certain": True, "evidence": _around(text, cabin.start(), 80)}
+    if open_ and not cabin and not cls_cabin:
+        return {"hull": "open", "source": "rule:text", "certain": True, "evidence": _around(text, open_.start(), 80)}
+    if cls_cabin and not open_:
+        return {"hull": "cabin", "source": "rule:spec", "certain": True, "evidence": f"Båttyp: {boat_class}"}
+    # Text and class disagree, or neither says anything useful: look at the photos.
+    guess = "cabin" if (cabin or cls_cabin) else "open" if (open_ or boat_class == "Styrpulpetbåt") else None
+    return {"hull": guess, "source": "rule:guess", "certain": False, "evidence": None}
+
+
 def extract_hours(text: str) -> int | None:
     for sent in sentences(text):
         if not re.search(r"gångtid|gått|timmar|tim\b|\d\s?h\b|drifttimmar", sent, re.I):
@@ -400,7 +450,8 @@ def swap_offered(text: str) -> bool:
     return bool(SWAP.search(text))
 
 
-def extract(heading: str, description: str, specs: dict, boat_year: int | None, search_motor_type: str | None) -> dict:
+def extract(heading: str, description: str, specs: dict, boat_year: int | None, search_motor_type: str | None,
+            boat_class: str | None = None) -> dict:
     text = f"{heading}\n{description}"
     etype = extract_engine_type(heading, description, specs, search_motor_type)
     eyear = extract_engine_year(heading, description, specs, boat_year)
@@ -425,8 +476,14 @@ def extract(heading: str, description: str, specs: dict, boat_year: int | None, 
         "engine_year_source": eyear["source"],
         "engine_year_evidence": eyear.get("evidence"),
         "engine_maker": maker or None,
+        "engine_hp": extract_hp(heading, description, specs)[0],
+        "engine_hp_source": "rule:text" if extract_hp(heading, description, specs)[0] else None,
         "engine_hours": extract_hours(text),
         "engine_stroke": extract_stroke(text, maker),
+        "hull": (hull := extract_hull(heading, description, boat_class or specs.get("Typ")))["hull"],
+        "hull_source": hull["source"],
+        "hull_certain": hull["certain"],
+        "hull_evidence": hull["evidence"],
         "engine_year_est": est["year"],
         "engine_year_est_reason": est["reason"],
         "equipment": equipment,

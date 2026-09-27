@@ -128,9 +128,12 @@ def gpu_lock(path: Path, timeout_s: float):
 
 
 @contextlib.contextmanager
-def server(cfg: dict):
-    """Start llama-server on the configured GPU (holding the shared GPU lock); yield its base URL."""
-    lcfg = cfg["llm"]
+def server(cfg: dict, section: str = "llm"):
+    """Start llama-server on the configured GPU (holding the shared GPU lock); yield its base URL.
+
+    `section` picks the model: "llm" (text) or "vision" (adds the multimodal projector).
+    """
+    lcfg = {**cfg["llm"], **cfg.get(section, {})}
     base = f"http://127.0.0.1:{lcfg['port']}"
     with contextlib.suppress(httpx.HTTPError):
         if httpx.get(f"{base}/health", timeout=2).status_code == 200:
@@ -143,7 +146,8 @@ def server(cfg: dict):
         log = open(expand("~/.cache/boats-llama-server.log"), "w")
         proc = subprocess.Popen(
             [str(bin_), "-m", str(expand(lcfg["model"])), "--device", device, "-ngl", "99",
-             "-c", str(lcfg["ctx"]), "--host", "127.0.0.1", "--port", str(lcfg["port"]), "-np", "1"],
+             "-c", str(lcfg["ctx"]), "--host", "127.0.0.1", "--port", str(lcfg["port"]), "-np", "1"]
+            + (["--mmproj", str(expand(lcfg["mmproj"]))] if lcfg.get("mmproj") else []),
             stdout=log, stderr=subprocess.STDOUT,
         )
         try:

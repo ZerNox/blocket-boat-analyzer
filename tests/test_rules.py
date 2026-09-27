@@ -277,3 +277,43 @@ def test_trailer_details(desc, year, kmh):
 def test_engine_year_estimate(text, boat_year, expected_max):
     est = rules.estimate_engine_year(text, "", boat_year)
     assert est["year"] == expected_max, est
+
+
+def test_vision_hp_must_be_printed():
+    from boats.vision import verify_hp
+
+    assert verify_hp({"hp": 50, "text_seen": "50 SUZUKI FOUR STROKE"}) == 50
+    assert verify_hp({"hp": 9.9, "text_seen": "Yamaha 9.9"}) == 9.9
+    assert verify_hp({"hp": 60, "text_seen": "SUZUKI FOUR STROKE"}) is None  # guessed, not read
+    assert verify_hp({"hp": 5, "text_seen": "150 PRO XS"}) is None  # 5 is only part of 150
+
+
+@pytest.mark.parametrize(
+    "heading,desc,specs,hp",
+    [("Båt", "Motor Mercury 60 hk.", {}, 60), ("Ryds 435 med Suzuki DF50", "", {}, 50),
+     ("Båt", "Yamaha F9.9 ", {}, 9.9), ("Båt", "Fin båt.", {"Motortillverkare": "Suzuki"}, None)],
+)
+def test_extract_hp(heading, desc, specs, hp):
+    assert rules.extract_hp(heading, desc, specs)[0] == hp
+
+
+@pytest.mark.parametrize(
+    "heading,desc,cls,hull,certain",
+    [
+        ("Sandström 560 MC", "Låsbar hytt med två sovplatser.", "Snipa", "cabin", True),
+        ("Sandström 565 Classic", "Styrpulpet med vindruta, öppen båt.", "Styrpulpetbåt", "open", True),
+        ("Sandström 560 MC", "Fin båt, Honda 60 hk.", "Hyttbåt", "cabin", True),
+        ("Sandström 565 CC", "Fin båt, Honda 60 hk.", "Powerboat", None, False),
+        ("Ryds 550", "Styrpulpet och liten hytt för förvaring.", "Styrpulpetbåt", "cabin", False),
+        ("Ryds 550", "Fin båt.", "Styrpulpetbåt", "open", False),
+        ("Uttern 560 HT", "Fin båt.", "Annat", "cabin", True),
+        ("Flipper 575 ht", "Fin båt.", "Fiskebåt/Arbetsbåt", "cabin", True),
+        ("Yamarin 56 SC / Yamaha F100", "Fin båt.", "Styrpulpetbåt", "open", True),
+        ("Uttern 5500 BR 2001", "Fin båt.", "Bowrider", "open", True),
+        ("Sandström 560MC m 60 Hk", "Fin båt.", "Powerboat", "cabin", True),
+        ("Sandström 565 CC Mercury 50hk", "Fin båt.", "Styrpulpetbåt", "open", False),
+    ],
+)
+def test_hull(heading, desc, cls, hull, certain):
+    r = rules.extract_hull(heading, desc, cls)
+    assert (r["hull"], r["certain"]) == (hull, certain), r

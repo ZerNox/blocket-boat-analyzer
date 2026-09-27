@@ -17,6 +17,7 @@ from urllib.parse import parse_qsl, urlencode, urlparse
 import httpx
 
 from . import store
+from .config import LOCAL_RANGES, in_range, local_ranges
 from .parse import parse_item, text_sha
 
 API = "https://www.blocket.se/mobility/search/api/search/{key}"
@@ -62,7 +63,8 @@ def _search_target(search_url: str) -> tuple[str, list[tuple[str, str]]]:
     u = urlparse(search_url)
     vertical = u.path.rstrip("/").rsplit("/", 1)[-1]
     key = SEARCH_KEYS.get(vertical, "SEARCH_ID_BOAT_USED")
-    params = [(k, v) for k, v in parse_qsl(u.query) if k != "page"]
+    local = {name for pair in LOCAL_RANGES.values() for name in pair}
+    params = [(k, v) for k, v in parse_qsl(u.query) if k != "page" and k not in local]
     return API.format(key=key), params
 
 
@@ -111,6 +113,33 @@ def search(client: Client, search_url: str) -> list[dict]:
     return list(docs.values())
 
 
+def search_models(client: Client, cfg: dict):
+    """Free-text search per listed model, in every boat type, kept only on an exact model-family match.
+
+    Catches ads the seller filed under the wrong type or length ("Annat", "8 ft"). Yields (model, doc).
+    """
+    from .market import model_keys  # market imports this module
+
+    extra = cfg["search"].get("model_filters", "")
+    for model in cfg["search"].get("models", []):
+        make = model.split()[0]
+        target, target_variant = model_keys(make, None, model)
+        if not target:
+            print(f"  model list: can't parse {model!r}", file=sys.stderr)
+            continue
+        family_query = " ".join(model.split()[:2])  # search broadly, match the variant locally
+        url = f"https://www.blocket.se/mobility/search/boat?{urlencode({'q': family_query})}&{extra}"
+        hits = 0
+        for d in search(client, url):
+            fam, var = model_keys(d.get("make"), None, d.get("heading"))
+            # "Sandström 560 MC" requires the MC variant; "Ryds 550" accepts any 550.
+            match = fam == target and (not target_variant or var == target_variant)
+            if match and all(in_range(d.get(f), rng) for f, rng in local_ranges(url).items()):
+                hits += 1
+                yield model, d
+        print(f"  model {model}: {hits} ads", file=sys.stderr)
+
+
 def _now() -> str:
     return dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
 
@@ -136,6 +165,7 @@ def _search_fields(d: dict) -> dict:
         "width_cm": d.get("width"),
         "max_speed": d.get("max_speed"),
         "image": (d.get("image") or {}).get("url"),
+        "image_urls": d.get("image_urls") or [],
         "changed_ts": d.get("timestamp"),
     }
 
@@ -147,12 +177,21 @@ def update(cfg: dict, fetch_pages: bool = True, limit: int | None = None) -> dic
     today = run_start[:10]
 
     print("searching…", file=sys.stderr)
-    docs = search(client, scfg["url"])
-    stats = {"seen": len(docs), "new": 0, "price_changes": 0, "gone": 0, "pages": 0}
+    found: dict[str, dict] = {}
+    for d in search(client, scfg["url"]):
+        if all(in_range(d.get(f), rng) for f, rng in local_ranges(scfg["url"]).items()):
+            found[d["id"]] = {**d, "_found_by": ["kategori"]}
+    for model, d in search_models(client, cfg):
+        entry = found.setdefault(d["id"], {**d, "_found_by": []})
+        entry["_found_by"].append(model)
+    docs = list(found.values())
+    stats = {"seen": len(docs), "new": 0, "price_changes": 0, "gone": 0, "pages": 0,
+             "found_by_model_only": sum(1 for d in docs if "kategori" not in d["_found_by"])}
 
     seen_ids = set()
     for d in docs:
         fields = _search_fields(d)
+        fields["found_by"] = d["_found_by"]
         seen_ids.add(fields["ad_id"])
         ad = store.load_ad(fields["ad_id"]) or {"first_seen": run_start, "price_history": []}
         if "ad_id" not in ad:
@@ -169,8 +208,9 @@ def update(cfg: dict, fetch_pages: bool = True, limit: int | None = None) -> dic
 
     for ad in store.all_ads():
         if ad.get("status") == "active" and ad["ad_id"] not in seen_ids:
-            ad["status"] = "gone"
-            ad["gone_since"] = today
+            # Sold, removed, or just outside the current search: db/market.jsonl tells which.
+            ad["status"] = "not_in_search"
+            ad["not_in_search_since"] = today
             store.save_ad(ad)
             stats["gone"] += 1
 
