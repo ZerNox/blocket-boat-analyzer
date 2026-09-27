@@ -1,0 +1,127 @@
+{
+ "ad_id": 26092409,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787900142000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1984,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 150.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury optimax 150 hk",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1984,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Ny servostyrningar",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 640 ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Flipper 640 ht",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26092409/214e5ade-fe65-4b0b-81c7-ada3281c69b5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26092409/214e5ade-fe65-4b0b-81c7-ada3281c69b5",
+  "https://images.blocketcdn.se/dynamic/default/item/26092409/02f5e8d3-37c7-4de6-a216-257da224c673",
+  "https://images.blocketcdn.se/dynamic/default/item/26092409/ace34431-5205-4253-832c-c6c4cd8da4af",
+  "https://images.blocketcdn.se/dynamic/default/item/26092409/534794fe-b185-476e-9a88-7588852dde63"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.34,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1984,
+   "engine_hours": null,
+   "engine_hp": 150,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Årsmodell 2000",
+   "engine_year_rejected": 2000,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7952771412b9b033"
+ },
+ "location": "Värmdö",
+ "lon": 18.56,
+ "make": "Flipper",
+ "max_speed": 43,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 727,
+  "fetched_ts": 1790523121053,
+  "text_sha": "7952771412b9b033"
+ },
+ "price": 84000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 84000
+  }
+ ],
+ "specs": {
+  "Bredd": "240 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit Blå",
+  "Längd i fot": "21 fot",
+  "Modell": "Flipper 640",
+  "Modellår": "1984",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercury optimax 150 hk",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "43 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26092409",
+ "width_cm": 240,
+ "year": 1984
+}

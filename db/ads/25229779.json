@@ -7,6 +7,8 @@
   "boat_year": 2007,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -38,8 +40,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Blesser 360 ink trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25229779/1b9c8357-b40b-48c8-852c-a630cee5e4f2",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.47923,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25229779/1b9c8357-b40b-48c8-852c-a630cee5e4f2",
+  "https://images.blocketcdn.se/dynamic/default/item/25229779/de38eccf-c072-4dcb-8662-3756f1279744",
+  "https://images.blocketcdn.se/dynamic/default/item/25229779/fafa8ec2-ba85-4c41-aaef-682b46fcd199",
+  "https://images.blocketcdn.se/dynamic/default/item/25229779/f86b6935-fd98-4799-8e47-2b972ba6cd17"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.48,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +77,13 @@
   "text_sha": "2a5d7d8e656d6759"
  },
  "location": "Lidköping",
- "lon": 13.14822,
+ "lon": 13.15,
  "make": "Blesser",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 215,
   "fetched_ts": 1790507673577,
@@ -106,7 +115,7 @@
   "Toppfart": "20 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25229779",
  "width_cm": 170,
  "year": 2007

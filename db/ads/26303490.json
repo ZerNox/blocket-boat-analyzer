@@ -7,6 +7,8 @@
   "boat_year": 1981,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 33.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yanmar",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -42,8 +44,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fiskebåt/fritidsbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26303490/c4c47f3d-33af-41a6-bcf7-652c3dc944da",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.25295,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26303490/c4c47f3d-33af-41a6-bcf7-652c3dc944da",
+  "https://images.blocketcdn.se/dynamic/default/item/26303490/1954982f-1342-495e-b895-81629ec7da1a",
+  "https://images.blocketcdn.se/dynamic/default/item/26303490/04d512e7-2ce0-4b89-b8ab-d0f5fe3745f7",
+  "https://images.blocketcdn.se/dynamic/default/item/26303490/d9ceff98-ea0f-4f5c-ba7b-4d0dc9044f8b",
+  "https://images.blocketcdn.se/dynamic/default/item/26303490/87df125b-991e-41a2-85f2-c137237b070c",
+  "https://images.blocketcdn.se/dynamic/default/item/26303490/58a0d1b9-337b-41fa-9ca3-5d1c76849352",
+  "https://images.blocketcdn.se/dynamic/default/item/26303490/002e45c2-e03e-45a6-acb7-2c8a756dd698",
+  "https://images.blocketcdn.se/dynamic/default/item/26303490/cc8fef62-993c-4357-84bf-834def17abda",
+  "https://images.blocketcdn.se/dynamic/default/item/26303490/e4622d69-2557-4196-bcec-7cc3e95c05d4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.25,
  "length_ft": 29,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +86,13 @@
   "text_sha": "b73d1e80ac0849a8"
  },
  "location": "Fågelmara",
- "lon": 16.05982,
+ "lon": 16.06,
  "make": "Övriga",
  "max_speed": 7,
  "motor_fuel": "Diesel",
  "motor_size": 33.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 604,
   "fetched_ts": 1790508586277,
@@ -109,7 +123,7 @@
   "Toppfart": "7 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26303490",
  "width_cm": 330,
  "year": 1981

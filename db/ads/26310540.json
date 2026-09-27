@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": 30,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -40,8 +42,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Robust 475 s",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26310540/323e84a5-0580-48f1-837d-7d9ed14f14a0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.29893,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26310540/323e84a5-0580-48f1-837d-7d9ed14f14a0",
+  "https://images.blocketcdn.se/dynamic/default/item/26310540/7ba000bc-bbf4-4cd1-88ca-bca79f848282",
+  "https://images.blocketcdn.se/dynamic/default/item/26310540/550d2b2b-73f9-4b14-9d8b-3b8a976f9681",
+  "https://images.blocketcdn.se/dynamic/default/item/26310540/d2c6c2d8-c8d2-43cf-a08e-9d54a1e19332",
+  "https://images.blocketcdn.se/dynamic/default/item/26310540/24797d61-5730-4a06-98ee-299f1a42264a",
+  "https://images.blocketcdn.se/dynamic/default/item/26310540/953f7e36-c3ee-49dd-970e-5162fcf59c39"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.3,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +81,13 @@
   "text_sha": "c2a83f4067ce68dd"
  },
  "location": "Dvärsätt",
- "lon": 14.49415,
+ "lon": 14.49,
  "make": "Ryds",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 111,
   "fetched_ts": 1790508591750,
@@ -101,7 +112,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26310540",
  "width_cm": 0,
  "year": 2021

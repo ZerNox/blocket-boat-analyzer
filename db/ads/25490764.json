@@ -7,6 +7,8 @@
   "boat_year": 1981,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4.5,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Lohi",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25490764/c213ebd8-cf18-4961-b412-d6ae613f19ae",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.58398,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25490764/c213ebd8-cf18-4961-b412-d6ae613f19ae",
+  "https://images.blocketcdn.se/dynamic/default/item/25490764/b34ac856-b171-4e8a-8791-4a916a1c61fb",
+  "https://images.blocketcdn.se/dynamic/default/item/25490764/720ebd37-7695-4dfc-962c-c99928ee1cb5",
+  "https://images.blocketcdn.se/dynamic/default/item/25490764/bf38a990-bf3d-4925-82fe-e9106d82d732",
+  "https://images.blocketcdn.se/dynamic/default/item/25490764/98d24091-a2a5-45a9-98e8-6dd86634b34b",
+  "https://images.blocketcdn.se/dynamic/default/item/25490764/19971903-4f21-46fb-a58c-dcb2ae5c2d59"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.58,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "953c816764177516"
  },
  "location": "Kolsva",
- "lon": 15.87004,
+ "lon": 15.87,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.5,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790507919041,
@@ -93,7 +104,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25490764",
  "width_cm": 152,
  "year": 1981

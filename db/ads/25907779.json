@@ -1,0 +1,124 @@
+{
+ "ad_id": 25907779,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787324729000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2012,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Örnvik 555 WA, ny trailer och lite annat kul",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 555 WA, ny trailer och lite annat kul",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Örnvik 555"
+ ],
+ "heading": "Örnvik 555 WA, ny trailer och lite annat kul",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25907779/3582954f-6444-426f-b1c3-c8196fe72052",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25907779/3582954f-6444-426f-b1c3-c8196fe72052",
+  "https://images.blocketcdn.se/dynamic/default/item/25907779/54ca8d56-6b31-46d9-a70a-a5442e22d22d",
+  "https://images.blocketcdn.se/dynamic/default/item/25907779/e727e9b9-8319-47da-819c-42b8cbb011d3",
+  "https://images.blocketcdn.se/dynamic/default/item/25907779/d750c65a-5f73-416d-86c1-c37238e0cc36",
+  "https://images.blocketcdn.se/dynamic/default/item/25907779/88a6ce02-660e-4082-b02e-b2551a0a3ba3"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 61.65,
+ "length_ft": 6,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2012,
+   "engine_hours": null,
+   "engine_hp": 100,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c85bae3bad3ddaae"
+ },
+ "location": "Iggesund",
+ "lon": 17.07,
+ "make": "Örnvik",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790523086754,
+  "text_sha": "c85bae3bad3ddaae"
+ },
+ "price": 199000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 199000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "6 fot",
+  "Modell": "555 WA",
+  "Modellår": "2012",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "4",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "600 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25907779",
+ "width_cm": 200,
+ "year": 2012
+}

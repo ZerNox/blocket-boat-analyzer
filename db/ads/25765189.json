@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha 4Takt",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Komplett Fiskebåt säljes Uttern 3700",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25765189/b3355e90-6ccd-412c-b488-eed7e2915d27",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 61.06119,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25765189/b3355e90-6ccd-412c-b488-eed7e2915d27",
+  "https://images.blocketcdn.se/dynamic/default/item/25765189/0cc77a66-32ca-4fd1-b4e5-1f7438902fe3",
+  "https://images.blocketcdn.se/dynamic/default/item/25765189/719e7d20-f1fa-4545-90bd-d7e1f339f6bf"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 61.06,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +73,13 @@
   "text_sha": "7eae4d897bc311ac"
  },
  "location": "Mora",
- "lon": 14.24336,
+ "lon": 14.24,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 216,
   "fetched_ts": 1790508168919,
@@ -98,7 +106,7 @@
   "Sittplatser": "3",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25765189",
  "width_cm": 0,
  "year": 1995

@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4,
+  "engine_hp_source": "llm",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Roddbåt med motor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26628948/0ab9e7bd-0cd4-4e82-ab52-7ce000b28498",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.32083,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26628948/0ab9e7bd-0cd4-4e82-ab52-7ce000b28498",
+  "https://images.blocketcdn.se/dynamic/default/item/26628948/b5e7df3c-fcda-4314-ae42-4a6c11b5cc03",
+  "https://images.blocketcdn.se/dynamic/default/item/26628948/b110f853-1967-490b-8fb9-8d96d487836b",
+  "https://images.blocketcdn.se/dynamic/default/item/26628948/84a33209-3662-417d-8326-e8a01e0be3cb",
+  "https://images.blocketcdn.se/dynamic/default/item/26628948/3b8da554-f9ee-4a35-be4f-9bdd11afde54"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.32,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "d6190b9d5500a7d3"
  },
  "location": "Lit",
- "lon": 14.84886,
+ "lon": 14.85,
  "make": "Lami",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 49,
   "fetched_ts": 1790508833534,
@@ -100,7 +110,7 @@
   "Typ": "Annat",
   "Vikt": "90 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26628948",
  "width_cm": 140,
  "year": 1990

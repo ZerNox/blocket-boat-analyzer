@@ -1,0 +1,124 @@
+{
+ "ad_id": 22873439,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788098708000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod, ny bränsletank.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapellet bör repareras eller bytas ut.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Inkluder Thule-trailer.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds Triss 52 ST",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22873439/db6e53dc-f79d-4387-b61e-b76a661e6e45",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22873439/db6e53dc-f79d-4387-b61e-b76a661e6e45",
+  "https://images.blocketcdn.se/dynamic/default/item/22873439/22f7b48c-61e8-4bf1-8e5a-c83ba7e2d312",
+  "https://images.blocketcdn.se/dynamic/default/item/22873439/c2215c29-8e19-4d0a-9759-070eacbbad68",
+  "https://images.blocketcdn.se/dynamic/default/item/22873439/1fde5e2a-5234-4d44-9834-6b065654273b",
+  "https://images.blocketcdn.se/dynamic/default/item/22873439/109ab05f-c9e7-428a-bef6-257430e28d3b",
+  "https://images.blocketcdn.se/dynamic/default/item/22873439/09a867ed-7ef5-48f2-8863-12547a253886"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.79,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1989,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "12V/90Ah Vartabatteri ombord.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b742cb44a4b96c3c"
+ },
+ "location": "Hovmantorp",
+ "lon": 15.2,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 308,
+  "fetched_ts": 1790522876537,
+  "text_sha": "b742cb44a4b96c3c"
+ },
+ "price": 49000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 49000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modellår": "1989",
+  "Motor inkluderad": "Ja",
+  "Märke": "Ryds",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22873439",
+ "width_cm": 0,
+ "year": 1989
+}

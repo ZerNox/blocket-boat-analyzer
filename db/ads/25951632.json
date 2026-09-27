@@ -1,0 +1,95 @@
+{
+ "ad_id": 25951632,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787469855000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": 300,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2023,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "* Elmotor: MotorGuide 3 (2023)",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "* Ekolod/Plotter: Lowrance HDS Live 9\" (3-i-1-givare, 2023)",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "* Elmotor: MotorGuide 3 (2023)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "* Ekolod/Plotter: Lowrance HDS Live 9\" (3-i-1-givare, 2023)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Alloycraft J455 40hk fiskemaskin",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25951632/531be4e3-dce3-413e-91d8-9938cd28a636",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25951632/531be4e3-dce3-413e-91d8-9938cd28a636",
+  "https://images.blocketcdn.se/dynamic/default/item/25951632/619a8c05-dcf6-4c84-bf5b-f4d5da6addb3",
+  "https://images.blocketcdn.se/dynamic/default/item/25951632/c9b6c40e-275d-4b7a-a711-f4c04201fb64",
+  "https://images.blocketcdn.se/dynamic/default/item/25951632/f80bd6ab-b1ac-44b4-a85b-380d330b73bc",
+  "https://images.blocketcdn.se/dynamic/default/item/25951632/6c865a60-b18b-47d6-af00-84c1dbda5813",
+  "https://images.blocketcdn.se/dynamic/default/item/25951632/9773a0e2-941d-4154-a0de-78584d74822f",
+  "https://images.blocketcdn.se/dynamic/default/item/25951632/fbe45260-f720-4efb-b959-2c1554e2a897"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.17,
+ "length_ft": 455,
+ "location": "Haninge",
+ "lon": 18.18,
+ "make": "Alloycraft",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1385,
+  "fetched_ts": 1790520863636,
+  "text_sha": "7bbb37633ba3b8b0"
+ },
+ "price": 129900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 129900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "455 fot",
+  "Modell": "J455",
+  "Modellår": "2019",
+  "Motortyp": "Utombordare",
+  "Märke": "Alloycraft",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25951632",
+ "width_cm": 0,
+ "year": 2019
+}

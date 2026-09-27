@@ -7,6 +7,8 @@
   "boat_year": 1960,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15,
+  "engine_hp_source": "llm",
   "engine_maker": "Honda 4-takt",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Småbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26506904/6db534f7-eca8-41ba-b4fe-6b93bd5dc74a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.17531,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26506904/6db534f7-eca8-41ba-b4fe-6b93bd5dc74a",
+  "https://images.blocketcdn.se/dynamic/default/item/26506904/14ce9f4a-ad52-4b76-8731-a2443866473d",
+  "https://images.blocketcdn.se/dynamic/default/item/26506904/30af3984-055f-485f-ad4c-59c1b1ee821b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.18,
  "length_ft": 420,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "7a115ff7867bc6f3"
  },
  "location": "Ellös",
- "lon": 11.53211,
+ "lon": 11.53,
  "make": "Askeladden",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 96,
   "fetched_ts": 1790508750161,
@@ -97,7 +105,7 @@
   "Sittplatser": "5",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26506904",
  "width_cm": 180,
  "year": 1960

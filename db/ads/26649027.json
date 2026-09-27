@@ -1,0 +1,121 @@
+{
+ "ad_id": 26649027,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789589140000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 85,
+  "engine_hp_source": "llm",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Medföljer: Nytt stort kapell och ett litet kapell.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Välbevarad Crescent DC",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Välbevarad Crescent DC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26649027/7ffef3c9-11e3-4e08-84ff-a56469ab922e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26649027/7ffef3c9-11e3-4e08-84ff-a56469ab922e",
+  "https://images.blocketcdn.se/dynamic/default/item/26649027/fbb646b3-5039-409f-96fd-33ed383a4466",
+  "https://images.blocketcdn.se/dynamic/default/item/26649027/2e92efe5-5c54-4b64-a292-d2c27e202deb",
+  "https://images.blocketcdn.se/dynamic/default/item/26649027/f6f6466c-b611-4afb-94c5-12c550c1d932",
+  "https://images.blocketcdn.se/dynamic/default/item/26649027/74515a19-ad5e-4dfe-bcbe-7c1d6a838024",
+  "https://images.blocketcdn.se/dynamic/default/item/26649027/7a05d628-cfd9-48ce-b1e1-bca8588debb3",
+  "https://images.blocketcdn.se/dynamic/default/item/26649027/7ed6eb55-d8ca-4441-ad5b-898faebfa930"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 62.94,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 85,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b395d8a5d6343c23"
+ },
+ "location": "Nordingrå",
+ "lon": 18.35,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 85.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 219,
+  "fetched_ts": 1790523199921,
+  "text_sha": "b395d8a5d6343c23"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "85 hk",
+  "Motortillverkare": "Yamaha",
+  "Märke": "Crescent",
+  "Sittplatser": "5",
+  "Sovplatser": "2",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26649027",
+ "width_cm": 0,
+ "year": 1978
+}

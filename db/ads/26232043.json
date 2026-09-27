@@ -7,6 +7,8 @@
   "boat_year": 2023,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Tohatsu - 25",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Micore 460 Fishing - 23",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26232043/15914be9-e147-41ad-b201-3a9541e51072",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.17089,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26232043/15914be9-e147-41ad-b201-3a9541e51072",
+  "https://images.blocketcdn.se/dynamic/default/item/26232043/b2779aab-36af-4ca2-bd23-5b7aa126a162"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.17,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +66,13 @@
   "text_sha": "5a93a4e30bbea95c"
  },
  "location": "Nykvarn",
- "lon": 17.42843,
+ "lon": 17.43,
  "make": "Micore",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508533950,
@@ -90,7 +97,7 @@
   "Märke": "Micore",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26232043",
  "width_cm": 0,
  "year": 2023

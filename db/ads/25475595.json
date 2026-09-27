@@ -1,0 +1,120 @@
+{
+ "ad_id": 25475595,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1787895342000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1982,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1982,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "En fint flipper 575 med stark motorn som startar lätt, fast tank på ca 60L samt ekolod",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 575"
+ ],
+ "heading": "Flipper 575 med 90hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25475595/553f7c5e-9609-452e-b316-b38ec4cedbfe",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25475595/553f7c5e-9609-452e-b316-b38ec4cedbfe",
+  "https://images.blocketcdn.se/dynamic/default/item/25475595/ddb7fc2b-92de-4bf2-9f94-d9ca3f57710f",
+  "https://images.blocketcdn.se/dynamic/default/item/25475595/5a6baed6-34d3-41f0-a3c2-d8c9a91ce5c9"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.5,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1982,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c89117a5b0c2bfb8"
+ },
+ "location": "Åkersberga",
+ "lon": 18.32,
+ "make": "Flipper",
+ "max_speed": 40,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 137,
+  "fetched_ts": 1790523002665,
+  "text_sha": "c89117a5b0c2bfb8"
+ },
+ "price": 49900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 49900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Grå",
+  "Längd i fot": "19 fot",
+  "Modell": "575",
+  "Modellår": "1982",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Toppfart": "40 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25475595",
+ "width_cm": 0,
+ "year": 1982
+}

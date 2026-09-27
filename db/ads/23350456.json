@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 5.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Marioner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Mindre glasfiberbåt med utombordare",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23350456/94d69779-eb12-4d8f-8e74-b210e56debaa",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.14033,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23350456/94d69779-eb12-4d8f-8e74-b210e56debaa",
+  "https://images.blocketcdn.se/dynamic/default/item/23350456/aeb3015f-f9b2-4c65-a726-e0f7f56bada2",
+  "https://images.blocketcdn.se/dynamic/default/item/23350456/02bc1648-1d2b-4b07-9cc2-7ad6a9c7e12c",
+  "https://images.blocketcdn.se/dynamic/default/item/23350456/6d4b406f-b6f5-42aa-8516-c4cae907d752",
+  "https://images.blocketcdn.se/dynamic/default/item/23350456/f4aba251-86ea-4d90-abea-81b4a24f810c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.14,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "f9a1b1bf1eb54076"
  },
  "location": "Österhaninge",
- "lon": 18.25033,
+ "lon": 18.25,
  "make": "Mariner",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 5.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 112,
   "fetched_ts": 1790507493208,
@@ -92,7 +102,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23350456",
  "width_cm": 0,
  "year": 1990

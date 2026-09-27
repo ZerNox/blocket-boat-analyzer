@@ -7,6 +7,8 @@
   "boat_year": 2019,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -38,8 +40,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "AMT 160 R 2019 – Suzuki 60 hk – välskött och sparsamt använd",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26408011/a72a8798-2f0b-4aa1-8295-8979e5fc3459",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.40849,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26408011/a72a8798-2f0b-4aa1-8295-8979e5fc3459",
+  "https://images.blocketcdn.se/dynamic/default/item/26408011/fd7adfa7-3e87-4b29-a6d1-ac982336e431",
+  "https://images.blocketcdn.se/dynamic/default/item/26408011/cd54cb6c-5fca-47cc-842b-7565efe203a3",
+  "https://images.blocketcdn.se/dynamic/default/item/26408011/f7c0b7a7-4e97-4ed6-a353-538024f8aa22"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.41,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +78,13 @@
   "text_sha": "f23416686580a0eb"
  },
  "location": "Danderyd",
- "lon": 18.01603,
+ "lon": 18.02,
  "make": "AMT",
  "max_speed": 33,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 115,
   "fetched_ts": 1790508667834,
@@ -105,7 +114,7 @@
   "Toppfart": "33 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26408011",
  "width_cm": 205,
  "year": 2019

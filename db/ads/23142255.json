@@ -1,0 +1,120 @@
+{
+ "ad_id": 23142255,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786079093000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 575"
+ ],
+ "heading": "Flipper 575",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23142255/ad9e1a7b-3dcd-4b5a-9c8d-71a59d4fd114",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23142255/ad9e1a7b-3dcd-4b5a-9c8d-71a59d4fd114",
+  "https://images.blocketcdn.se/dynamic/default/item/23142255/e6d42ad5-c6fb-40e8-88f3-cd1a2b94c24a",
+  "https://images.blocketcdn.se/dynamic/default/item/23142255/c68960a4-a746-4443-96e5-e48fd7b20436",
+  "https://images.blocketcdn.se/dynamic/default/item/23142255/0194c6fc-29ed-461b-b954-5558dbef59c1",
+  "https://images.blocketcdn.se/dynamic/default/item/23142255/1e5e7517-ad1e-4768-ab4a-3485c7adac5d"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 65.5,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 100,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8840f41152a482eb"
+ },
+ "location": "Luleå",
+ "lon": 22.08,
+ "make": "Flipper",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790522887053,
+  "text_sha": "8840f41152a482eb"
+ },
+ "price": 50000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 50000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "35 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "575",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Sovplatser": "2",
+  "Typ": "Daycruiser",
+  "Vikt": "520 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23142255",
+ "width_cm": 215,
+ "year": 1980
+}

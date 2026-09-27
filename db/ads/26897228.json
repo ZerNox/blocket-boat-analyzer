@@ -1,0 +1,79 @@
+{
+ "ad_id": 26897228,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790425923000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1988,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Liten styrpulpet utan motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26897228/9c7c4b52-595d-49b5-b588-a13c834857b8",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26897228/9c7c4b52-595d-49b5-b588-a13c834857b8",
+  "https://images.blocketcdn.se/dynamic/default/item/26897228/512a9bc1-a122-471a-908f-239108794be8",
+  "https://images.blocketcdn.se/dynamic/default/item/26897228/cacac800-2182-4849-ba03-f722a73d649b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.34,
+ "length_ft": 14,
+ "location": "Lidingö",
+ "lon": 18.15,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 75,
+  "fetched_ts": 1790521083190,
+  "text_sha": "30ad439a370d5c1e"
+ },
+ "price": 4000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "Tris 430GT",
+  "Modellår": "1988",
+  "Motor inkluderad": "Nej",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "230 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26897228",
+ "width_cm": 180,
+ "year": 1988
+}

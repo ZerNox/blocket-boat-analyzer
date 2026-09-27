@@ -1,0 +1,80 @@
+{
+ "ad_id": 25909928,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787329350000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "MV-Marin 485",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25909928/4cd8851f-3ffa-4f64-af14-cb380d84f8ae",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25909928/4cd8851f-3ffa-4f64-af14-cb380d84f8ae",
+  "https://images.blocketcdn.se/dynamic/default/item/25909928/eec9c0e2-f071-4a4f-b33c-93c6a80952c7",
+  "https://images.blocketcdn.se/dynamic/default/item/25909928/81bca6fd-4a75-4e68-bdc7-f3c0c5f70e3f",
+  "https://images.blocketcdn.se/dynamic/default/item/25909928/a4854882-2a8a-4250-8261-b1049361773b",
+  "https://images.blocketcdn.se/dynamic/default/item/25909928/ecdec60f-8d47-43c9-a236-1526470f4eaf",
+  "https://images.blocketcdn.se/dynamic/default/item/25909928/ac324cc9-176f-4e77-b4cf-9a59a8b21bc6",
+  "https://images.blocketcdn.se/dynamic/default/item/25909928/3c575078-41d6-4249-9ec8-0fdd7824386a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.34,
+ "length_ft": 16,
+ "location": "Bromma",
+ "lon": 17.95,
+ "make": "MV",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 311,
+  "fetched_ts": 1790520858516,
+  "text_sha": "a281903ddde25ea6"
+ },
+ "price": 9000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9000
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "vit",
+  "Längd i fot": "16 fot",
+  "Modell": "485",
+  "Modellår": "2000",
+  "Motor inkluderad": "Nej",
+  "Märke": "MV",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25909928",
+ "width_cm": 150,
+ "year": 2000
+}

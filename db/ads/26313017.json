@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 35.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnsson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fiskebåt 35hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26313017/a8bc3ebe-954f-47a5-8bb0-310156ea901c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.51323,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26313017/a8bc3ebe-954f-47a5-8bb0-310156ea901c",
+  "https://images.blocketcdn.se/dynamic/default/item/26313017/550506f4-35ff-4797-836e-6475a0785b4b",
+  "https://images.blocketcdn.se/dynamic/default/item/26313017/409908b8-b670-4b5c-aa0b-75dd07c589e3",
+  "https://images.blocketcdn.se/dynamic/default/item/26313017/71d0ed80-a171-4ecb-ab8d-44977a26d2b9",
+  "https://images.blocketcdn.se/dynamic/default/item/26313017/9fe31f96-9835-4e51-84f2-f13daae45151"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.51,
  "length_ft": 420,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +75,13 @@
   "text_sha": "d9c9ab10ace7803d"
  },
  "location": "Kil",
- "lon": 13.31016,
+ "lon": 13.31,
  "make": "Övriga",
  "max_speed": 22,
  "motor_fuel": "Bensin",
  "motor_size": 35.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 200,
   "fetched_ts": 1790508593339,
@@ -98,7 +108,7 @@
   "Toppfart": "22 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26313017",
  "width_cm": 185,
  "year": 2000

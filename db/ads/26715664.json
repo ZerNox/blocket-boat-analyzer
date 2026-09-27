@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 10.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "okänd",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 418 HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26715664/b15d7b83-effe-4e5f-a32b-0a76fad51d48",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.98847,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26715664/b15d7b83-effe-4e5f-a32b-0a76fad51d48",
+  "https://images.blocketcdn.se/dynamic/default/item/26715664/3f9307fd-73ea-4921-99b7-e944a8ce8f76",
+  "https://images.blocketcdn.se/dynamic/default/item/26715664/aadbe7e1-a227-4659-89c8-76daa93a6158",
+  "https://images.blocketcdn.se/dynamic/default/item/26715664/e508e59d-f19c-41a9-b199-659c050ec85f",
+  "https://images.blocketcdn.se/dynamic/default/item/26715664/642a5a05-f9ba-4472-ab0e-1347af672652",
+  "https://images.blocketcdn.se/dynamic/default/item/26715664/f4f45d78-a16b-4104-b353-116c5e6f9e93",
+  "https://images.blocketcdn.se/dynamic/default/item/26715664/6e7f4d3e-58e7-4481-875c-3f1a4bfa2e34",
+  "https://images.blocketcdn.se/dynamic/default/item/26715664/3c2c2252-ea0d-4047-8786-ff79076e0ea2",
+  "https://images.blocketcdn.se/dynamic/default/item/26715664/3b5abe43-7f47-46c1-ae6a-28c91c054bbe",
+  "https://images.blocketcdn.se/dynamic/default/item/26715664/5fa42997-2ac8-4f30-852e-90df40dfb9e9",
+  "https://images.blocketcdn.se/dynamic/default/item/26715664/80b46798-20cc-478e-931d-2e530047e24b",
+  "https://images.blocketcdn.se/dynamic/default/item/26715664/f0dda730-e923-42d6-a70a-b85cdbd70784"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.99,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +76,13 @@
   "text_sha": "16d9832476edebec"
  },
  "location": "Billingsfors",
- "lon": 12.24933,
+ "lon": 12.25,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 10.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 129,
   "fetched_ts": 1790508887068,
@@ -92,7 +109,7 @@
   "Märke": "Crescent",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26715664",
  "width_cm": 0,
  "year": 1978

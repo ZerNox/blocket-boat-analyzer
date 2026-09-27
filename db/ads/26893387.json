@@ -1,0 +1,96 @@
+{
+ "ad_id": 26893387,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790413766000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 135.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2008,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Båt i fint skick med dynor, bord och hydraulisk styrning.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "TK 1000kg släpvagn, ej reggad, kan säljas för 7000 kr.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Örnvik 540"
+ ],
+ "heading": "Örnvik 540 Cruiser",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26893387/e5d82106-64c2-4529-bb9a-8e1d479a650a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26893387/e5d82106-64c2-4529-bb9a-8e1d479a650a",
+  "https://images.blocketcdn.se/dynamic/default/item/26893387/a89803f3-c62b-4a27-80b4-1282d4a01683",
+  "https://images.blocketcdn.se/dynamic/default/item/26893387/3137a3b7-7b80-4163-a887-173f1619382b",
+  "https://images.blocketcdn.se/dynamic/default/item/26893387/dadfd83d-12d0-46f5-977f-44e08b89ab06",
+  "https://images.blocketcdn.se/dynamic/default/item/26893387/56c53003-eef8-44b8-9b84-6ea9ef8456b5",
+  "https://images.blocketcdn.se/dynamic/default/item/26893387/705c5e9d-ac17-44ea-904b-a5bf3b6e608e",
+  "https://images.blocketcdn.se/dynamic/default/item/26893387/f50f2d67-666e-4031-a78a-282600950cdc",
+  "https://images.blocketcdn.se/dynamic/default/item/26893387/bfaccc49-c3d9-4e5b-bdf1-881adfe7ad90",
+  "https://images.blocketcdn.se/dynamic/default/item/26893387/103d4fae-9f88-444f-b3d9-7bb837d40493",
+  "https://images.blocketcdn.se/dynamic/default/item/26893387/8b9c017a-1cd8-4ac2-8267-c1ef637d00bb",
+  "https://images.blocketcdn.se/dynamic/default/item/26893387/a75b080a-b46a-4eef-9220-68b0454852fd"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.49,
+ "length_ft": 18,
+ "location": "Borlänge",
+ "lon": 15.47,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 263,
+  "fetched_ts": 1790523232033,
+  "text_sha": "2ea9f4de44913cce"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "540 Cruiser",
+  "Modellår": "2008",
+  "Märke": "Örnvik",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26893387",
+ "width_cm": 0,
+ "year": 2008
+}

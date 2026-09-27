@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sportbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25548625/58a06fed-fb62-440c-b890-3f56660f8b05",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.61057,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25548625/58a06fed-fb62-440c-b890-3f56660f8b05",
+  "https://images.blocketcdn.se/dynamic/default/item/25548625/d7dd68de-c210-41e1-9241-00201c342c01",
+  "https://images.blocketcdn.se/dynamic/default/item/25548625/b1e4abf1-c0d4-4cd3-83a1-5466bd76148e",
+  "https://images.blocketcdn.se/dynamic/default/item/25548625/d261db89-97b6-4b57-8d9d-e1cf46625e46",
+  "https://images.blocketcdn.se/dynamic/default/item/25548625/43eb4c32-4e56-4e68-b947-6e61763e216e",
+  "https://images.blocketcdn.se/dynamic/default/item/25548625/3a2baf96-c5bc-461a-bce0-8f157ec82330"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.61,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +79,13 @@
   "text_sha": "8fbd15d0d7c5b33e"
  },
  "location": "Styrsö",
- "lon": 11.74877,
+ "lon": 11.75,
  "make": "Övriga",
  "max_speed": 38,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 319,
   "fetched_ts": 1790507982331,
@@ -103,7 +114,7 @@
   "Toppfart": "38 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25548625",
  "width_cm": 175,
  "year": 1985

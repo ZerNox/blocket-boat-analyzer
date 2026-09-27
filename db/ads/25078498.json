@@ -1,0 +1,124 @@
+{
+ "ad_id": 25078498,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1790516645000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 7.5,
+  "engine_hp_source": "llm",
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Följer med ett ekolod från garmin och en 30 kärra, på 30 kärran sitter det även monterat boatbuckles för ett smidigt oc…",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Vill man så kan man även köpa med en frontmonterad elmotor från motorguide med gps funktion för 10.00kr priset blir då …",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Vill man så kan man även köpa med en frontmonterad elmotor från motorguide med gps funktion för 10.00kr priset blir då …",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Följer med ett ekolod från garmin och en 30 kärra, på 30 kärran sitter det även monterat boatbuckles för ett smidigt oc…",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Fiskebåt med nybyggt kastdäck",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25078498/5f7ab99c-6764-4c14-99bf-2a16ac83a4fe",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25078498/5f7ab99c-6764-4c14-99bf-2a16ac83a4fe",
+  "https://images.blocketcdn.se/dynamic/default/item/25078498/ca56b4d4-639c-4b98-bbf0-6120172f807d",
+  "https://images.blocketcdn.se/dynamic/default/item/25078498/7ab43fdd-f67e-4ebd-b5dc-befb4e55d014",
+  "https://images.blocketcdn.se/dynamic/default/item/25078498/59f2bd4f-39b9-45fa-aee0-978438ef2190"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.37,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 7.5,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "66827e8a49703f9e"
+ },
+ "location": "Karlstad",
+ "lon": 13.52,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 7.5,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 408,
+  "fetched_ts": 1790520656055,
+  "text_sha": "66827e8a49703f9e"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modellår": "2000",
+  "Motorstorlek": "7.5 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25078498",
+ "width_cm": 180,
+ "year": 2000
+}

@@ -1,0 +1,83 @@
+{
+ "ad_id": 26878466,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790347693000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2016,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Roddbåt/Motorbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26878466/b51eddea-d2f8-49dc-a6c8-0406012fda30",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26878466/b51eddea-d2f8-49dc-a6c8-0406012fda30",
+  "https://images.blocketcdn.se/dynamic/default/item/26878466/781ebd18-d88c-409b-8156-7d554facaefc",
+  "https://images.blocketcdn.se/dynamic/default/item/26878466/12ec3579-d0f2-4232-92f8-2450b41874c0",
+  "https://images.blocketcdn.se/dynamic/default/item/26878466/860ba8ed-a9ae-4b4c-b55d-152af5e51697",
+  "https://images.blocketcdn.se/dynamic/default/item/26878466/764a6421-e592-444e-8b11-e7f95bfaee87"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.82,
+ "length_ft": 13,
+ "location": "Uppsala",
+ "lon": 17.61,
+ "make": "Kaisla",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 676,
+  "fetched_ts": 1790521074628,
+  "text_sha": "e8cdc1d50649692a"
+ },
+ "price": 6000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 6000
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "20 cm",
+  "Färg": "Vit",
+  "Längd i fot": "13 fot",
+  "Modell": "400",
+  "Modellår": "2016",
+  "Märke": "Kaisla",
+  "Sittplatser": "3",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "95 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26878466",
+ "width_cm": 150,
+ "year": 2016
+}

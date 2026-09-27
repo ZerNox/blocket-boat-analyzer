@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -47,8 +49,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 490 V Sport 2021",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26573940/fb97b96d-ad02-474f-a7b3-bf5d17d04455",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.22087,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26573940/fb97b96d-ad02-474f-a7b3-bf5d17d04455",
+  "https://images.blocketcdn.se/dynamic/default/item/26573940/aeef96cd-92ff-4e83-bf4e-bcd0a938309c",
+  "https://images.blocketcdn.se/dynamic/default/item/26573940/b5e8be5e-e332-4ed2-8a78-2888eae0f71e",
+  "https://images.blocketcdn.se/dynamic/default/item/26573940/15d9114a-8be0-41e3-a877-a101adba35a9",
+  "https://images.blocketcdn.se/dynamic/default/item/26573940/2c2b52bb-0ed9-4512-8990-2476dd6a2371",
+  "https://images.blocketcdn.se/dynamic/default/item/26573940/865e2b67-553c-4c0c-acf9-942246a8ad2b",
+  "https://images.blocketcdn.se/dynamic/default/item/26573940/af5c10d0-bc6a-4264-a7ac-808be57d6fe3",
+  "https://images.blocketcdn.se/dynamic/default/item/26573940/0b66ba31-3609-442e-8127-600fc982b5d4",
+  "https://images.blocketcdn.se/dynamic/default/item/26573940/4c0e6653-e082-4826-827a-9d0eb20ab129",
+  "https://images.blocketcdn.se/dynamic/default/item/26573940/55d13e54-7f60-4bc1-8736-b21c8fa289ec",
+  "https://images.blocketcdn.se/dynamic/default/item/26573940/aff74b30-fefe-47d4-bde6-30d4bcc51a79"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.22,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -79,12 +94,13 @@
   "text_sha": "93e4769d22f924c3"
  },
  "location": "Henån",
- "lon": 11.74718,
+ "lon": 11.75,
  "make": "Ryds",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 718,
   "fetched_ts": 1790508801649,
@@ -115,7 +131,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "370 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26573940",
  "width_cm": 192,
  "year": 2021

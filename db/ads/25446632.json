@@ -1,0 +1,75 @@
+{
+ "ad_id": 25446632,
+ "boat_class": "Annat",
+ "changed_ts": 1787818776000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2010,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Blekinge eka",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25446632/eb10f951-4278-4017-a714-63f8998544cb",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25446632/eb10f951-4278-4017-a714-63f8998544cb",
+  "https://images.blocketcdn.se/dynamic/default/item/25446632/fc962867-b8e2-4839-a474-4820d45b27fb",
+  "https://images.blocketcdn.se/dynamic/default/item/25446632/4ee3b172-c5a9-4e0c-903c-cb3c61bc6bc7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.17,
+ "length_ft": 15,
+ "location": "Ronneby",
+ "lon": 15.2,
+ "make": "Scandinavien",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 217,
+  "fetched_ts": 1790520698959,
+  "text_sha": "2a16fb8a64cdb22f"
+ },
+ "price": 16000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 16000
+  }
+ ],
+ "specs": {
+  "Bredd": "145 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Ekfärgad",
+  "Längd i fot": "15 fot",
+  "Modellår": "2010",
+  "Motor inkluderad": "Nej",
+  "Märke": "Scandinavien",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25446632",
+ "width_cm": 145,
+ "year": 2010
+}

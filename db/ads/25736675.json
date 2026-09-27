@@ -1,0 +1,78 @@
+{
+ "ad_id": 25736675,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786810009000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båtvagn ingår ej.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Uttern 4050",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25736675/6df2f05b-1bc4-4f3f-8927-c3a3fc3c4fa1",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25736675/6df2f05b-1bc4-4f3f-8927-c3a3fc3c4fa1",
+  "https://images.blocketcdn.se/dynamic/default/item/25736675/50375410-0272-4189-9546-d2435a01e50b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.64,
+ "length_ft": 13,
+ "location": "Färjestaden",
+ "lon": 16.45,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 72,
+  "fetched_ts": 1790520758728,
+  "text_sha": "caa38a52f9cabe41"
+ },
+ "price": 7500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "13 fot",
+  "Modellår": "1990",
+  "Motor inkluderad": "Nej",
+  "Märke": "Uttern",
+  "Sittplatser": "4",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25736675",
+ "width_cm": 0,
+ "year": 1990
+}

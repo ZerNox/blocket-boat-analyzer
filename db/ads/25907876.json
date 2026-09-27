@@ -1,0 +1,106 @@
+{
+ "ad_id": 25907876,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787327991000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Elmotor Deep sea Dc12",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2020,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Seahawk uppblåsbar båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25907876/11f11e2f-e85d-43fe-a067-c390b484da09",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25907876/11f11e2f-e85d-43fe-a067-c390b484da09",
+  "https://images.blocketcdn.se/dynamic/default/item/25907876/877b7f5e-c7d1-4cc7-a9a7-7a89dfd8478f",
+  "https://images.blocketcdn.se/dynamic/default/item/25907876/54a8df49-ddd4-4084-a574-3e3018939349",
+  "https://images.blocketcdn.se/dynamic/default/item/25907876/25d57932-e7cd-4a9f-b6cc-1ff2960671ff",
+  "https://images.blocketcdn.se/dynamic/default/item/25907876/8136af68-11cb-42c8-8caf-333dd0e62496"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.08,
+ "length_ft": 11,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2020,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Elmotor Deep sea Dc12",
+   "engine_type": "electric",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Utombordare",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "77b45939d0ae41b9"
+ },
+ "location": "Brandstorp",
+ "lon": 14.2,
+ "make": "Sea Hawk",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 162,
+  "fetched_ts": 1790520857286,
+  "text_sha": "77b45939d0ae41b9"
+ },
+ "price": 1500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 1500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "11 fot",
+  "Modellår": "2020",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Elmotor Deep sea Dc12",
+  "Motortyp": "Utombordare",
+  "Märke": "Sea Hawk",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "300 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25907876",
+ "width_cm": 0,
+ "year": 2020
+}

@@ -7,6 +7,8 @@
   "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 6,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Greatwhite 270 med glasfiberbotten och motor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25558548/201047d1-cfce-428f-bbb8-4af8e8c1a6df",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.39627,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25558548/201047d1-cfce-428f-bbb8-4af8e8c1a6df",
+  "https://images.blocketcdn.se/dynamic/default/item/25558548/807d71f3-ee4b-4c93-802d-0e7b95cd937e",
+  "https://images.blocketcdn.se/dynamic/default/item/25558548/41d1b720-1140-4062-9ea0-06f1ff5a5798",
+  "https://images.blocketcdn.se/dynamic/default/item/25558548/19961b51-053d-41b2-859a-92821e07291f",
+  "https://images.blocketcdn.se/dynamic/default/item/25558548/b649c185-f6a7-4d10-80d5-d9addb724ce7",
+  "https://images.blocketcdn.se/dynamic/default/item/25558548/5575f48a-d6fb-4916-ac01-ea55926a0b13"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.4,
  "length_ft": 9,
  "llm": {
   "at": "2026-09-27",
@@ -61,12 +71,13 @@
   "text_sha": "5f96ef709a4b9b80"
  },
  "location": "Eskilstuna",
- "lon": 16.5377,
+ "lon": 16.54,
  "make": "Greatwhite",
  "max_speed": 14,
  "motor_fuel": "Bensin",
  "motor_size": 6.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 285,
   "fetched_ts": 1790507994706,
@@ -93,7 +104,7 @@
   "Toppfart": "14 knop",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25558548",
  "width_cm": 0,
  "year": 2010

@@ -1,0 +1,119 @@
+{
+ "ad_id": 26035702,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1789050527000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer en Örnvik 555 WA , årsmodell 2007, med Mercury EFI 100 hk fyrtaktsmotor från 2008.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin echo 550c ekolod",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell: Kapellet lämnades förra året in till en kapellverkstad, där samtliga fönster i huvuddelen byttes och sömmarna s…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Raymarine plotter",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båttrailer med ny vinsch från 2026",
+    "included": true
+   },
+   "vhf": {
+    "evidence": "Handhållen VHF (Cobra HH600)",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 555 WA med Mercury 100HK 4-stroke EFI",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Örnvik 555"
+ ],
+ "heading": "Örnvik 555 WA med Mercury 100HK 4-stroke EFI",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26035702/15493e26-08ef-46db-b24e-2288926773b8",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26035702/15493e26-08ef-46db-b24e-2288926773b8",
+  "https://images.blocketcdn.se/dynamic/default/item/26035702/5e82253a-ccb1-4edf-a77e-f555c8e71a5c",
+  "https://images.blocketcdn.se/dynamic/default/item/26035702/73aa9f4e-c771-4a1a-b8d1-93374bdf8e68",
+  "https://images.blocketcdn.se/dynamic/default/item/26035702/a2955cb0-74ca-4bfe-87fc-8b6fbe2fecd3",
+  "https://images.blocketcdn.se/dynamic/default/item/26035702/ee945fd9-40d9-4355-bbb7-48273a8ff853"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.81,
+ "length_ft": 18,
+ "location": "Harestad",
+ "lon": 11.83,
+ "make": "Örnvik",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1902,
+  "fetched_ts": 1790523109496,
+  "text_sha": "ddb263746a1fd01a"
+ },
+ "price": 120000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 120000
+  }
+ ],
+ "specs": {
+  "Bredd": "229 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit/blå",
+  "Längd i fot": "18 fot",
+  "Modell": "Walkaround",
+  "Modellår": "2007",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "800 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26035702",
+ "width_cm": 229,
+ "year": 2007
+}

@@ -1,0 +1,123 @@
+{
+ "ad_id": 25689266,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786738203000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": 200,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2012,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "GPS/plotter GARMIN",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Kan köpas med en nybesiktad och servad TIKI 1000 Bromsad 80-kärra (Nypris: 34.800kr) Pris 15.000kr",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "RYDS F528 SPORT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25689266/dcbce16e-046e-4eb8-a537-12eb4f9cb079",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25689266/dcbce16e-046e-4eb8-a537-12eb4f9cb079",
+  "https://images.blocketcdn.se/dynamic/default/item/25689266/e3d42348-c555-44de-8939-8b2da53f2ba8",
+  "https://images.blocketcdn.se/dynamic/default/item/25689266/53fe09e7-a9d3-4ed6-8cbd-048b44575ad3",
+  "https://images.blocketcdn.se/dynamic/default/item/25689266/0a8a79c8-6012-40b9-bbbb-e73f10624b57",
+  "https://images.blocketcdn.se/dynamic/default/item/25689266/ff06a5c1-2896-44d0-a6b2-4c8d23b395e6",
+  "https://images.blocketcdn.se/dynamic/default/item/25689266/ddd48c1f-2317-40ba-80b7-4c156140ca22"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.34,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2012,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mercury 75HK OPTIMAX",
+   "engine_year_rejected": 2012,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2266ef9bd4ef1cc9"
+ },
+ "location": "Stenhamra",
+ "lon": 17.68,
+ "make": "Ryds",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 967,
+  "fetched_ts": 1790520751447,
+  "text_sha": "2266ef9bd4ef1cc9"
+ },
+ "price": 139000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 139000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "F528 SPORT",
+  "Modellår": "2012",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "32 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25689266",
+ "width_cm": 0,
+ "year": 2012
+}

@@ -1,0 +1,134 @@
+{
+ "ad_id": 22793574,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787478678000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Fint kapell",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Ny stereo",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Finns en 1250 kg 30 trailer att köpa till.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 570"
+ ],
+ "heading": "Flipper 570",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22793574/5ed35e38-1e72-42f5-a51d-8d54b2564c75",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22793574/5ed35e38-1e72-42f5-a51d-8d54b2564c75",
+  "https://images.blocketcdn.se/dynamic/default/item/22793574/5068bfd0-1e28-4afe-96fb-9c23e5ffb49a",
+  "https://images.blocketcdn.se/dynamic/default/item/22793574/402d6c3e-fa3e-486c-b402-7403db705212",
+  "https://images.blocketcdn.se/dynamic/default/item/22793574/25e4088c-a2f5-4e95-bafe-cfb2e30c2ef7",
+  "https://images.blocketcdn.se/dynamic/default/item/22793574/f5ae1980-5367-4564-9e66-322ff3b6a52b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.33,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor 70 hk 2 takt. 1990 årsmodell",
+   "engine_year_rejected": 1990,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c8bf21ad34d64ff2"
+ },
+ "location": "Skoghall",
+ "lon": 13.45,
+ "make": "Flipper",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 164,
+  "fetched_ts": 1790522875114,
+  "text_sha": "c8bf21ad34d64ff2"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "32 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22793574",
+ "width_cm": 220,
+ "year": 1980
+}

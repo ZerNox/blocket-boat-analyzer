@@ -7,6 +7,8 @@
   "boat_year": 2003,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnsson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bra båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26406521/f23f9e39-a6e8-46a7-bbf0-dbecccc2dee4",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.79744,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26406521/f23f9e39-a6e8-46a7-bbf0-dbecccc2dee4",
+  "https://images.blocketcdn.se/dynamic/default/item/26406521/59e7b9bd-fa87-4da2-b742-bea3ad3f20e5",
+  "https://images.blocketcdn.se/dynamic/default/item/26406521/ab3ea73a-dc9b-4416-a571-972492f8441e",
+  "https://images.blocketcdn.se/dynamic/default/item/26406521/cc7ddb40-ff6b-481c-b332-022407b9f557",
+  "https://images.blocketcdn.se/dynamic/default/item/26406521/49b5f25a-cc24-4c6c-a757-422cab243a7b",
+  "https://images.blocketcdn.se/dynamic/default/item/26406521/97c2960d-484c-442e-b5f8-f733aa43044e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.8,
  "length_ft": 480,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "96a3d7ff7fb70984"
  },
  "location": "Stenkullen",
- "lon": 12.32135,
+ "lon": 12.32,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 34,
   "fetched_ts": 1790508662425,
@@ -95,7 +106,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "370 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26406521",
  "width_cm": 180,
  "year": 2003

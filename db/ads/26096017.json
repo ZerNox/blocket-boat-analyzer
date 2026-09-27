@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet Delfin 510 med Yamaha 50HK 4-takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26096017/c72344fe-a90f-4226-8026-d7dbe7dff1cd",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.35677,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26096017/c72344fe-a90f-4226-8026-d7dbe7dff1cd",
+  "https://images.blocketcdn.se/dynamic/default/item/26096017/6c00091c-77b0-480e-bc73-b63693319d7d",
+  "https://images.blocketcdn.se/dynamic/default/item/26096017/7677dba6-ce7c-40ae-b787-320ec26e92e2",
+  "https://images.blocketcdn.se/dynamic/default/item/26096017/88c70319-d37a-400f-80c8-4c32ad0ad295",
+  "https://images.blocketcdn.se/dynamic/default/item/26096017/af2e3c41-f436-47c3-ab9d-503f38e7e146",
+  "https://images.blocketcdn.se/dynamic/default/item/26096017/249caa30-b741-42cd-904c-96a61ce30bff"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.36,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "5bfe93f89a35f66b"
  },
  "location": "Örebro",
- "lon": 15.20298,
+ "lon": 15.2,
  "make": "Dolphin",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508457210,
@@ -92,7 +103,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26096017",
  "width_cm": 0,
  "year": 2000

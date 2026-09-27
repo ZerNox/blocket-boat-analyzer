@@ -36,10 +36,11 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "Ryds 475 GTS + Yamaha 75hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26853198/f2cd6b5b-eb9a-487e-889a-6c241f0c0010",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.33775,
+ "lat": 59.34,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,7 +70,7 @@
   "text_sha": "6496fb3d2c38a0d5"
  },
  "location": "Gustavsberg",
- "lon": 18.39432,
+ "lon": 18.39,
  "make": "Ryds",
  "max_speed": 35,
  "motor_fuel": "Bensin",
@@ -100,7 +101,7 @@
   "Toppfart": "35 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/26853198",
  "width_cm": 0,
  "year": 1995

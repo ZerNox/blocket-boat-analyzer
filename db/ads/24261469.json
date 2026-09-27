@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Höstpris! Theri 435R med mercury 20hk ink 30 vagn",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24261469/4a7f1c98-ec8a-4c38-9f58-d8e1f2849c7d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.44261,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24261469/4a7f1c98-ec8a-4c38-9f58-d8e1f2849c7d",
+  "https://images.blocketcdn.se/dynamic/default/item/24261469/481079cb-c426-45d4-b1df-f9e556128374",
+  "https://images.blocketcdn.se/dynamic/default/item/24261469/48fb404a-ef7a-4f55-8ab8-d7a9fcc3d5f5",
+  "https://images.blocketcdn.se/dynamic/default/item/24261469/58676eb0-4c3c-49c9-968f-a3d03688de78",
+  "https://images.blocketcdn.se/dynamic/default/item/24261469/cf46ede7-40f4-40c7-98de-8021a9ad9d43",
+  "https://images.blocketcdn.se/dynamic/default/item/24261469/3b12a561-bc7d-4fcf-b5f7-1b7c91beee9b",
+  "https://images.blocketcdn.se/dynamic/default/item/24261469/008930a9-8043-4228-a016-40974f56d382",
+  "https://images.blocketcdn.se/dynamic/default/item/24261469/f9a41548-4450-42ff-8344-a68189c04511"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.44,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +77,13 @@
   "text_sha": "6646f63708add7db"
  },
  "location": "Söråker",
- "lon": 17.64797,
+ "lon": 17.65,
  "make": "Salman Theri",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 164,
   "fetched_ts": 1790507583136,
@@ -97,7 +110,7 @@
   "Toppfart": "20 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24261469",
  "width_cm": 0,
  "year": 2000

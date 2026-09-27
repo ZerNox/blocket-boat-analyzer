@@ -1,0 +1,125 @@
+{
+ "ad_id": 18591444,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1785747574000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": 50,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Utsticket från plattjärnen är kvar om nya ägaren vill montera spjutankare typ minnkota talon",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30km trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Fet sportfiskebåt ALU 4,7m Pilothouse",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/18591444/89c4344c-9161-4f56-9d1c-6fc17969856e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/18591444/89c4344c-9161-4f56-9d1c-6fc17969856e",
+  "https://images.blocketcdn.se/dynamic/default/item/18591444/a641e5e6-6182-44c8-83c8-dd64ba4bede4",
+  "https://images.blocketcdn.se/dynamic/default/item/18591444/a0def1a9-00d2-470e-85f3-0075cc96ccf8",
+  "https://images.blocketcdn.se/dynamic/default/item/18591444/f7ecae86-0e4b-4c0d-9664-395134dfeb9e",
+  "https://images.blocketcdn.se/dynamic/default/item/18591444/5ebc95b7-997c-4e67-a821-0553d126cd40",
+  "https://images.blocketcdn.se/dynamic/default/item/18591444/515fcff3-afca-462a-96ff-c7077ca8e3d5",
+  "https://images.blocketcdn.se/dynamic/default/item/18591444/169d7890-dfe8-45a4-b9b1-9f3cdbc62614",
+  "https://images.blocketcdn.se/dynamic/default/item/18591444/3fa51c49-16d9-4620-9015-01f91e66a595",
+  "https://images.blocketcdn.se/dynamic/default/item/18591444/54ee032a-1a95-4271-864c-b220f4079453",
+  "https://images.blocketcdn.se/dynamic/default/item/18591444/dbfa8e94-1ef2-4e9d-85bc-aab4257dfcbb",
+  "https://images.blocketcdn.se/dynamic/default/item/18591444/42fac0ca-2ec9-4f17-8f31-188845fb57e0",
+  "https://images.blocketcdn.se/dynamic/default/item/18591444/a3bf7d1b-7276-40be-af71-390d1915e9aa",
+  "https://images.blocketcdn.se/dynamic/default/item/18591444/aa655cb8-7c9e-4159-bf06-be04160e0bc8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.92,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2005,
+   "engine_hours": 50,
+   "engine_hp": 15,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "2011+2004. Båda servade med impeller, olja och kamrem.",
+   "engine_year_rejected": 2011,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7de29209d0f286e4"
+ },
+ "location": "Lagan",
+ "lon": 13.98,
+ "make": "Alufish",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 2205,
+  "fetched_ts": 1790520578674,
+  "text_sha": "7de29209d0f286e4"
+ },
+ "price": 120000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 120000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Märke": "Alufish",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/18591444",
+ "width_cm": 215,
+ "year": 2005
+}

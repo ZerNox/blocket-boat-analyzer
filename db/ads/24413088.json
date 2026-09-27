@@ -7,6 +7,8 @@
   "boat_year": 2001,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -36,8 +38,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 510 GT 70hk Johnson -01 + 80km/h trailer -10",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24413088/f3d6eb6c-78b4-4c18-84ec-c41bd063431e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.41915,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24413088/f3d6eb6c-78b4-4c18-84ec-c41bd063431e",
+  "https://images.blocketcdn.se/dynamic/default/item/24413088/4b0da931-ce0d-47e1-b25d-2234f0caf97e",
+  "https://images.blocketcdn.se/dynamic/default/item/24413088/912ef757-9a19-4686-b3f1-03690ccaea9f",
+  "https://images.blocketcdn.se/dynamic/default/item/24413088/859321cc-2713-46b4-9b92-9ccf78b1e0ff",
+  "https://images.blocketcdn.se/dynamic/default/item/24413088/26a3de06-4579-496e-9c59-92142459fdbe",
+  "https://images.blocketcdn.se/dynamic/default/item/24413088/d1b83b77-f148-487a-8f92-0421afea46ed"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.42,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -68,12 +78,13 @@
   "text_sha": "7e9476a4d9e34b2f"
  },
  "location": "Onsala",
- "lon": 12.02018,
+ "lon": 12.02,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 598,
   "fetched_ts": 1790507591365,
@@ -102,7 +113,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "510 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24413088",
  "width_cm": 220,
  "year": 2001

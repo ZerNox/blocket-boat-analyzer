@@ -7,6 +7,8 @@
   "boat_year": 2023,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -40,8 +42,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder arkip 460     (70hk)",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25718093/eb7078dd-bf92-480c-96b9-abc482e10d1d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.81181,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25718093/eb7078dd-bf92-480c-96b9-abc482e10d1d",
+  "https://images.blocketcdn.se/dynamic/default/item/25718093/acc66e7a-fe71-4741-8e53-61f6e6125c96",
+  "https://images.blocketcdn.se/dynamic/default/item/25718093/ef224e81-3616-4d06-adf2-8ecc552993a1",
+  "https://images.blocketcdn.se/dynamic/default/item/25718093/de17fc55-0f3d-4842-8353-9b294bf47f95",
+  "https://images.blocketcdn.se/dynamic/default/item/25718093/4b65a4df-2d7e-4591-8aec-b288a49cef56"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.81,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +80,13 @@
   "text_sha": "7988282a24cad033"
  },
  "location": "Hökerum",
- "lon": 13.26983,
+ "lon": 13.27,
  "make": "Linder",
  "max_speed": 37,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 292,
   "fetched_ts": 1790508126538,
@@ -103,7 +113,7 @@
   "Toppfart": "37 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25718093",
  "width_cm": 0,
  "year": 2023

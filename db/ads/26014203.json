@@ -1,0 +1,92 @@
+{
+ "ad_id": 26014203,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788283492000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1989,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Örnvik 535 HT med Mercury 90 hk 2-takt från ca 1989/90 säljes som projekt.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "En 30-kärra medföljer också.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 535 HT 90hk Projekt",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Örnvik 535 HT 90hk Projekt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26014203/976f8720-78c6-465b-ac9b-1b274e23e865",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26014203/976f8720-78c6-465b-ac9b-1b274e23e865",
+  "https://images.blocketcdn.se/dynamic/default/item/26014203/25a1a471-5d07-4d23-ba97-69de0b6fac6a",
+  "https://images.blocketcdn.se/dynamic/default/item/26014203/074800f8-dc62-41a6-b51e-17449ccaaf5a",
+  "https://images.blocketcdn.se/dynamic/default/item/26014203/715119c5-6d85-42af-b449-0e5e4e6cc7ac"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.8,
+ "length_ft": 18,
+ "location": "Hisings Kärra",
+ "lon": 12.0,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 428,
+  "fetched_ts": 1790523103713,
+  "text_sha": "937391cc53b5ec9d"
+ },
+ "price": 24900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 24900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "535 HT",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26014203",
+ "width_cm": 0,
+ "year": 1980
+}

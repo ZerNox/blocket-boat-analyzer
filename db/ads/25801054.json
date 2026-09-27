@@ -1,0 +1,109 @@
+{
+ "ad_id": 25801054,
+ "boat_class": "Annat",
+ "changed_ts": 1786985509000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Ingen båtvagn.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Roddbåt/segelbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25801054/2fbb3024-7f23-47f6-9330-48a06d4e8a80",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25801054/2fbb3024-7f23-47f6-9330-48a06d4e8a80",
+  "https://images.blocketcdn.se/dynamic/default/item/25801054/0d06754b-b13b-467f-a5b3-247600314312",
+  "https://images.blocketcdn.se/dynamic/default/item/25801054/a83ce540-556f-4000-ac23-11f28ad52fd9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.93,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c399cddb11c3672a"
+ },
+ "location": "Katrineholm",
+ "lon": 16.08,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 129,
+  "fetched_ts": 1790520835733,
+  "text_sha": "c399cddb11c3672a"
+ },
+ "price": 6500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 6500
+  }
+ ],
+ "specs": {
+  "Bredd": "183 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "455 kombinerad rodd och segelbåt",
+  "Modellår": "1980",
+  "Märke": "Crescent",
+  "Typ": "Annat",
+  "Vikt": "200 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25801054",
+ "width_cm": 183,
+ "year": 1980
+}

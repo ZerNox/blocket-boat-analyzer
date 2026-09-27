@@ -7,6 +7,8 @@
   "boat_year": 1997,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 8.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Eka med motor 8 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25249108/6e66f50f-1085-442a-985f-ed8d491fdddb",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.16448,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25249108/6e66f50f-1085-442a-985f-ed8d491fdddb",
+  "https://images.blocketcdn.se/dynamic/default/item/25249108/6e82d94e-5938-4e8b-9c3f-c18efe947711",
+  "https://images.blocketcdn.se/dynamic/default/item/25249108/5e1300b5-4958-469e-b510-a8c1ec4e1ad8",
+  "https://images.blocketcdn.se/dynamic/default/item/25249108/7fc9fc9a-239e-4417-959f-ef1c7e98b27f",
+  "https://images.blocketcdn.se/dynamic/default/item/25249108/2d67239a-990b-401d-8e7d-8ed307b3b184",
+  "https://images.blocketcdn.se/dynamic/default/item/25249108/dd61e40d-eed8-43d6-82d8-aa36b600c228"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.16,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "4555e8f0623618ac"
  },
  "location": "Frösön",
- "lon": 14.55382,
+ "lon": 14.55,
  "make": "Suvi",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 8.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790507690527,
@@ -91,7 +102,7 @@
   "Märke": "Suvi",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25249108",
  "width_cm": 0,
  "year": 1997

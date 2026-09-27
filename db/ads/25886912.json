@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Höga Rodd 410 Sport",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25886912/3a342073-95f8-4f2f-b9d8-1bc918f870c3",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.16356,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25886912/3a342073-95f8-4f2f-b9d8-1bc918f870c3",
+  "https://images.blocketcdn.se/dynamic/default/item/25886912/341397b3-ad6f-4864-8572-eeb85ef60048",
+  "https://images.blocketcdn.se/dynamic/default/item/25886912/8689ba4a-c857-4399-a1c6-a7db3f78193b",
+  "https://images.blocketcdn.se/dynamic/default/item/25886912/c8daceb4-3a75-475b-976e-7688755ba50e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.16,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "67364b73bdb1c2ff"
  },
  "location": "Ludvika",
- "lon": 15.21505,
+ "lon": 15.22,
  "make": "HR",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 336,
   "fetched_ts": 1790508276276,
@@ -101,7 +110,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "220 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25886912",
  "width_cm": 174,
  "year": 1985

@@ -1,0 +1,112 @@
+{
+ "ad_id": 25789029,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786964848000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båtkärran har gått en resa från Finland till Sverige.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Roddbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25789029/2b3b41a1-5435-45f3-b244-59a6eeecf757",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25789029/2b3b41a1-5435-45f3-b244-59a6eeecf757",
+  "https://images.blocketcdn.se/dynamic/default/item/25789029/76b16752-bcf5-45d0-83e9-0e6f2a928f4f",
+  "https://images.blocketcdn.se/dynamic/default/item/25789029/127c464a-06d8-4212-8c17-cc44a7ce3cb5",
+  "https://images.blocketcdn.se/dynamic/default/item/25789029/27bb70ba-e4cd-4073-905c-bc32c5df1619"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.39,
+ "length_ft": 5,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1995,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0660f1561a4dbddc"
+ },
+ "location": "Skövde",
+ "lon": 13.79,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Annat",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 198,
+  "fetched_ts": 1790520765947,
+  "text_sha": "0660f1561a4dbddc"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Bredd": "140 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Svart",
+  "Längd i fot": "5 fot",
+  "Modell": "Roddbåt",
+  "Modellår": "1995",
+  "Motortyp": "Annat",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Trä",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25789029",
+ "width_cm": 140,
+ "year": 1995
+}

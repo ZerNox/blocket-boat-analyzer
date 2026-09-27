@@ -7,6 +7,8 @@
   "boat_year": 1970,
   "boat_year_source": "spec",
   "engine_hours": 900,
+  "engine_hp": null,
+  "engine_hp_source": null,
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -23,6 +25,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -30,13 +36,24 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Arbetsbåt 6m",
  "image": "https://images.blocketcdn.se/dynamic/default/item/20085408/7e98791a-2848-4168-863a-739afc4721a5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.47519,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/20085408/7e98791a-2848-4168-863a-739afc4721a5",
+  "https://images.blocketcdn.se/dynamic/default/item/20085408/75cc8382-6bb7-4fb1-99ad-b3cc039e0105",
+  "https://images.blocketcdn.se/dynamic/default/item/20085408/862ea209-0584-420a-8f18-13b1411ee171",
+  "https://images.blocketcdn.se/dynamic/default/item/20085408/4ef9003f-06d8-4a84-8f0a-b1e374d1bce3",
+  "https://images.blocketcdn.se/dynamic/default/item/20085408/f1903eca-c9ec-489b-b9ba-02942caa335d",
+  "https://images.blocketcdn.se/dynamic/default/item/20085408/db853565-8ed9-4fcc-b6eb-8cd08210851e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.48,
  "length_ft": 20,
  "location": "Åkersberga",
- "lon": 18.30167,
+ "lon": 18.3,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",

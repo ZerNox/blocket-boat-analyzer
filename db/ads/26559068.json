@@ -1,0 +1,76 @@
+{
+ "ad_id": 26559068,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789304172000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2017,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Linder 410 fisching ink åror",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26559068/193780d2-3630-4601-9e93-3b3b72fb84af",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26559068/193780d2-3630-4601-9e93-3b3b72fb84af",
+  "https://images.blocketcdn.se/dynamic/default/item/26559068/1fa3fe61-5ffe-4003-9724-d8ab1cdcbbfd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.36,
+ "length_ft": 14,
+ "location": "Idkerberget",
+ "lon": 15.22,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 248,
+  "fetched_ts": 1790521003985,
+  "text_sha": "3cb6d5d5daa0679d"
+ },
+ "price": 16000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 16000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "410 fishing",
+  "Modellår": "2017",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "65 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26559068",
+ "width_cm": 0,
+ "year": 2017
+}

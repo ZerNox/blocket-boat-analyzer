@@ -1,0 +1,90 @@
+{
+ "ad_id": 26026036,
+ "boat_class": "Annat",
+ "changed_ts": 1787678523000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båten står på en hemmabyggd sjösättningsvagn \"husvagns chassi\", så båten måste transporteras på biltransport släp ellet…",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Jofa Stinger Sport. Projekt båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26026036/78b98729-e07e-4d4c-a396-4b3b528a52bc",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26026036/78b98729-e07e-4d4c-a396-4b3b528a52bc",
+  "https://images.blocketcdn.se/dynamic/default/item/26026036/e1b9de77-4c37-449e-b484-915314de7151",
+  "https://images.blocketcdn.se/dynamic/default/item/26026036/53888aa0-d9ae-4415-a6ff-c76e2ef97548",
+  "https://images.blocketcdn.se/dynamic/default/item/26026036/ace029d5-2c16-41c5-89e8-5795623b11b5",
+  "https://images.blocketcdn.se/dynamic/default/item/26026036/bf3ac5db-b6f7-48d7-b330-eeb989c19784",
+  "https://images.blocketcdn.se/dynamic/default/item/26026036/246ef981-6c80-4db6-9edb-3f62387b0f03",
+  "https://images.blocketcdn.se/dynamic/default/item/26026036/d1bc5810-ddb1-4aae-b1f7-b6cd3ddf63fd",
+  "https://images.blocketcdn.se/dynamic/default/item/26026036/3bbe3bed-3ee0-496d-a020-8f3c48d37c1c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.33,
+ "length_ft": 14,
+ "location": "Matfors",
+ "lon": 16.94,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 423,
+  "fetched_ts": 1790520875776,
+  "text_sha": "158f1fb404378977"
+ },
+ "price": 4000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4000
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit (omlackad)",
+  "Längd i fot": "14 fot",
+  "Modell": "Jofa Sting Sport",
+  "Modellår": "1970",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Annat",
+  "Vikt": "220 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26026036",
+ "width_cm": 170,
+ "year": 1970
+}

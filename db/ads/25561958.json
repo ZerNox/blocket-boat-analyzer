@@ -1,0 +1,125 @@
+{
+ "ad_id": 25561958,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786900310000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1992,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1992,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Badstege och kapell.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Motorbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25561958/21e5cc83-300a-49a2-b414-368aeeaf3953",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25561958/21e5cc83-300a-49a2-b414-368aeeaf3953",
+  "https://images.blocketcdn.se/dynamic/default/item/25561958/1eed70d3-08b4-4760-bf14-efa97f283db2",
+  "https://images.blocketcdn.se/dynamic/default/item/25561958/5b42cf67-1db4-4d45-8267-c1fe5a161547",
+  "https://images.blocketcdn.se/dynamic/default/item/25561958/8a6fea01-a410-44ff-afd4-1462bb4cba99",
+  "https://images.blocketcdn.se/dynamic/default/item/25561958/3a58e93d-1185-4b0c-b839-b8efca5c9cd1",
+  "https://images.blocketcdn.se/dynamic/default/item/25561958/54f19aeb-d663-49dd-b759-1bead80c0eff",
+  "https://images.blocketcdn.se/dynamic/default/item/25561958/8cd5c1a9-614e-4f81-90ac-59947d6db0ba",
+  "https://images.blocketcdn.se/dynamic/default/item/25561958/22b6d06c-ecd7-49c9-89a0-9f1a8b007b0b",
+  "https://images.blocketcdn.se/dynamic/default/item/25561958/47873dc2-3b24-454e-ac21-6472a666f411",
+  "https://images.blocketcdn.se/dynamic/default/item/25561958/8b9417ca-6714-4561-935a-3eb330542748"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 61.27,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1992,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5455771171c6d6c7"
+ },
+ "location": "Segersta",
+ "lon": 16.64,
+ "make": "Bowrider",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 135,
+  "fetched_ts": 1790523020735,
+  "text_sha": "5455771171c6d6c7"
+ },
+ "price": 47000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 47000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modellår": "1992",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Bowrider",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Plast",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25561958",
+ "width_cm": 0,
+ "year": 1992
+}

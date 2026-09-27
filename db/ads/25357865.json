@@ -1,0 +1,92 @@
+{
+ "ad_id": 25357865,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786361826000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 220.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercruiser 4.3 MPI, 220 hk, årsmodell 2010",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2010,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Mercruiser 4.3 MPI, 220 hk, årsmodell 2010",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "trailer": {
+    "evidence": "Besiktad trailer ingår i priset.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Genesis Daycruiser - sensommarpris!\nPassa på att förvärva vår fina motorbåt till ett fan",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Genesis Daycruiser - sensommarpris!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25357865/0073d97d-5662-43f1-a703-ad08c2cd82ae",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25357865/0073d97d-5662-43f1-a703-ad08c2cd82ae",
+  "https://images.blocketcdn.se/dynamic/default/item/25357865/65411091-58a4-4000-af88-2e08ccb1e010",
+  "https://images.blocketcdn.se/dynamic/default/item/25357865/8c886bcd-2f25-49ab-a142-6f9cbd22a361",
+  "https://images.blocketcdn.se/dynamic/default/item/25357865/5f2127ae-2421-4832-acf6-1cc3b0b57c6b",
+  "https://images.blocketcdn.se/dynamic/default/item/25357865/2bc27c69-20c8-4b87-9daa-794db0a0fc9d"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 62.92,
+ "length_ft": 20,
+ "location": "Kramfors",
+ "lon": 17.81,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 309,
+  "fetched_ts": 1790522972834,
+  "text_sha": "09ed2017b0b1d38d"
+ },
+ "price": 69000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69000
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "20 fot",
+  "Modellår": "2010",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercruiser 4.3 MPI, 220 hk, årsmodell 2010",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Typ": "Daycruiser",
+  "Vikt": "1 400 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25357865",
+ "width_cm": 230,
+ "year": 2010
+}

@@ -1,0 +1,90 @@
+{
+ "ad_id": 21286480,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789588233000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Finns hydraul styrning: rattpump och styrcylinder anpassad till motor brunnen",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Kan säljas med en registrerad 80 trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Mitt pulpet  sportfiske projekt ?",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21286480/a50f6c4b-082b-4eb9-9a74-d4f249418db3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21286480/a50f6c4b-082b-4eb9-9a74-d4f249418db3",
+  "https://images.blocketcdn.se/dynamic/default/item/21286480/411668d8-3ba0-4d2c-ad52-dab3970b0db3",
+  "https://images.blocketcdn.se/dynamic/default/item/21286480/e11568f4-15d8-46e4-ba19-0bdbbd6ad1a9",
+  "https://images.blocketcdn.se/dynamic/default/item/21286480/b490ac23-d254-462e-8893-b89756824f17",
+  "https://images.blocketcdn.se/dynamic/default/item/21286480/2223d758-fc8d-4bf3-af66-0f6f4d6c35ed",
+  "https://images.blocketcdn.se/dynamic/default/item/21286480/086f65d2-ddd5-4a67-9bf6-f614da36840b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.91,
+ "length_ft": 20,
+ "location": "Nynäshamn",
+ "lon": 17.95,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1383,
+  "fetched_ts": 1790520583967,
+  "text_sha": "98904be58b3dbedb"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Bredd": "250 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "20 fot",
+  "Modell": "665",
+  "Modellår": "1978",
+  "Motor inkluderad": "Nej",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/21286480",
+ "width_cm": 250,
+ "year": 1978
+}

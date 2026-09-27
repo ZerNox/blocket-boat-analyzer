@@ -31,13 +31,14 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "Crescent Flexi, Nyservad Yamaha 20hk (2011) inkl trailer (30km/h)",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25219968/6b52aceb-43d5-4f84-a396-49e7278aafe4",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.36207,
+ "lat": 59.36,
  "length_ft": 15,
  "location": "Djurhamn",
- "lon": 18.66371,
+ "lon": 18.66,
  "make": "Crescent",
  "max_speed": 22,
  "motor_fuel": "Bensin",
@@ -72,7 +73,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "240 kg"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/25219968",
  "width_cm": 180,
  "year": 2011

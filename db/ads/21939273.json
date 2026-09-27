@@ -1,0 +1,77 @@
+{
+ "ad_id": 21939273,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787058293000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Vator 14 R",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21939273/2f6d4316-ae3b-4bbb-ad5e-83e82a761626",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21939273/2f6d4316-ae3b-4bbb-ad5e-83e82a761626",
+  "https://images.blocketcdn.se/dynamic/default/item/21939273/c0ee48f2-89bd-44f8-9c5f-e1cac2a145b2",
+  "https://images.blocketcdn.se/dynamic/default/item/21939273/0e147bec-9c7e-4c9b-847a-7e396ba52ee0",
+  "https://images.blocketcdn.se/dynamic/default/item/21939273/4ef64217-6669-4784-a3b3-6cf3f72037b8",
+  "https://images.blocketcdn.se/dynamic/default/item/21939273/919ff865-5fba-448c-8182-48286c2dd651",
+  "https://images.blocketcdn.se/dynamic/default/item/21939273/d18d3f6b-6240-4889-b18d-7be08eb16c6b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.7,
+ "length_ft": 14,
+ "location": "Lidköping",
+ "lon": 13.1,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 398,
+  "fetched_ts": 1790520592451,
+  "text_sha": "eb9760175c5fc77d"
+ },
+ "price": 8000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 8000
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modellår": "1980",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "180 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/21939273",
+ "width_cm": 160,
+ "year": 1980
+}

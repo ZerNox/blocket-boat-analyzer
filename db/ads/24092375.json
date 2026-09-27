@@ -1,0 +1,128 @@
+{
+ "ad_id": 24092375,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789971937000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1979,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellvajrar är något skeva men fungerar",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ingen båtsläp/trailer ingår",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Draco 2000 HT – Klassisk hardtop med mycket potential",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "leak"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Draco 2000 HT – Klassisk hardtop med mycket potential",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24092375/aa706118-6f38-4cce-a6a2-677745c61465",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24092375/aa706118-6f38-4cce-a6a2-677745c61465",
+  "https://images.blocketcdn.se/dynamic/default/item/24092375/cd36efde-c0c5-4bc5-8413-6c9322a7e507",
+  "https://images.blocketcdn.se/dynamic/default/item/24092375/720888d3-df64-4e80-ac7a-6ea649e88346",
+  "https://images.blocketcdn.se/dynamic/default/item/24092375/02d4df6e-9d62-4af9-abd7-2ede007341e4"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.44,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1979,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Volvo Penta AQ131, 4-cylindrig bensinmotor (inombordare)",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b3db23d9e077ff1c"
+ },
+ "location": "Vaxholm",
+ "lon": 18.32,
+ "make": "Draco",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 793,
+  "fetched_ts": 1790522919629,
+  "text_sha": "b3db23d9e077ff1c"
+ },
+ "price": 16000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 16000
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "1000 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "20 fot",
+  "Modell": "Draco 2000HT",
+  "Modellår": "1979",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo",
+  "Motortyp": "Inombordare",
+  "Märke": "Draco",
+  "Sittplatser": "9",
+  "Sovplatser": "4",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24092375",
+ "width_cm": 230,
+ "year": 1979
+}

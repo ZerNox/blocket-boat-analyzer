@@ -1,0 +1,150 @@
+{
+ "ad_id": 26935334,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790518555000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1998,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Båten kan säljas utan ( ekolod, elmotor )",
+    "included": false
+   },
+   "elmotor": {
+    "evidence": "Ryds 530 GT fiskebåt Elmotor GPS Ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ryds 530 GT fiskebåt Elmotor GPS Ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtvagn 80km/h uttagen 2025 ( 20.000:- )",
+    "included": true,
+    "kmh": 80,
+    "year": 2025
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No roof, windows or door visible. Open cockpit with console.",
+  "hull_source": "bild",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Ryds 530"
+ ],
+ "heading": "Ryds 530 GT fiskebåt Elmotor GPS Ekolod",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26935334/8d65c137-e8db-499b-935c-b3ca5f421370",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26935334/8d65c137-e8db-499b-935c-b3ca5f421370",
+  "https://images.blocketcdn.se/dynamic/default/item/26935334/1c1977ec-8bd5-4975-bc2a-d370fe5379a7",
+  "https://images.blocketcdn.se/dynamic/default/item/26935334/f2d214a5-27de-4da3-8077-5764b783a9d7"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 62.46,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1998,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "65LBS elmotor med ankring och GPS + fjärrkontroll inköpt 2026 kvitto finns ( 15.000:- )",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "excluded",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "41fed575a662d7d3"
+ },
+ "location": "Alnö",
+ "lon": 17.44,
+ "make": "Ryds",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 336,
+  "fetched_ts": 1790523241640,
+  "text_sha": "41fed575a662d7d3"
+ },
+ "price": 65000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 65000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "530 GT",
+  "Modellår": "1998",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "35 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26935334",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "7d3d539408f58eec",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No roof, windows or door visible. Open cockpit with console.",
+   "hull_photo": 2
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 210,
+ "year": 1998
+}

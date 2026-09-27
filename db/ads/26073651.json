@@ -1,0 +1,122 @@
+{
+ "ad_id": 26073651,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787839959000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 55,
+  "engine_hp_source": "llm",
+  "engine_maker": "Jhonssn",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Mycket är i ordnin byt t elsystem lanternor motor renoverad med massa nya grejor vxlhus impell rigg packning oljor moto…",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Bra tur o fiske båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26073651/4e9bbe2c-fa4d-4394-a521-15eb336bf9be",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26073651/4e9bbe2c-fa4d-4394-a521-15eb336bf9be",
+  "https://images.blocketcdn.se/dynamic/default/item/26073651/6ec5972d-5908-4362-be1b-eac6b12e5e76",
+  "https://images.blocketcdn.se/dynamic/default/item/26073651/ab0241cd-0986-47d8-8127-10c8a7510c4a",
+  "https://images.blocketcdn.se/dynamic/default/item/26073651/eaac602c-b919-4a3b-b0dd-372d5f2ae157"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.4,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 55,
+   "engine_maker": "Jhonssn",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b9b3fda557bdefbe"
+ },
+ "location": "Onsala",
+ "lon": 12.03,
+ "make": "Finnsport",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": 55.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 184,
+  "fetched_ts": 1790523116586,
+  "text_sha": "b9b3fda557bdefbe"
+ },
+ "price": 20500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20500
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Gul",
+  "Längd i fot": "17 fot",
+  "Modell": "Ht båt",
+  "Modellår": "1980",
+  "Motorstorlek": "55 hk",
+  "Motortillverkare": "Jhonssn",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnsport",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "20 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26073651",
+ "width_cm": 170,
+ "year": 1980
+}

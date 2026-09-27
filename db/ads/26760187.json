@@ -7,6 +7,8 @@
   "boat_year": 1986,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -37,16 +39,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 52 St",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26760187/3a9b7625-8e17-41e5-8983-a24b8b9d1b15",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.754,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26760187/3a9b7625-8e17-41e5-8983-a24b8b9d1b15",
+  "https://images.blocketcdn.se/dynamic/default/item/26760187/df3296a3-7a9d-46ab-adbf-ce6aaade558f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.75,
  "length_ft": 17,
  "location": "Bohus-Björkö",
- "lon": 11.68676,
+ "lon": 11.69,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 365,
   "fetched_ts": 1790508925239,
@@ -74,7 +81,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26760187",
  "width_cm": 0,
  "year": 1986

@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -43,8 +45,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent Primo",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25459431/0eec4d04-39d6-40a2-a2b6-a6f2c0c6a6bc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.78628,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25459431/0eec4d04-39d6-40a2-a2b6-a6f2c0c6a6bc",
+  "https://images.blocketcdn.se/dynamic/default/item/25459431/c48f3a71-b8dc-418b-aa1a-b442cb2c5106",
+  "https://images.blocketcdn.se/dynamic/default/item/25459431/1dbd30e2-e11d-48b3-9f74-07a222bc9a93",
+  "https://images.blocketcdn.se/dynamic/default/item/25459431/16056a08-3b7b-4866-b68d-28b8add0932b",
+  "https://images.blocketcdn.se/dynamic/default/item/25459431/56d8ef71-cce9-4c64-b966-249855783e1a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.79,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -75,12 +84,13 @@
   "text_sha": "503cc20e7fea5ce0"
  },
  "location": "Rockneby",
- "lon": 16.44343,
+ "lon": 16.44,
  "make": "Crescent",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 173,
   "fetched_ts": 1790507887278,
@@ -106,7 +116,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25459431",
  "width_cm": 0,
  "year": 2006

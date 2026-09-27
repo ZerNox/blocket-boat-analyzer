@@ -1,0 +1,133 @@
+{
+ "ad_id": 25444584,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1785998636000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "En härlig liten kabinbåt med nytt kapell, helt nyservad motor som fått ny impeller samt ny växelhusolja av auktoriserad…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Bromsad 80kmh släpkärra (obesiktigad) ingår med handvinsch.",
+    "included": true,
+    "kmh": 80
+   },
+   "vinterkapell": {
+    "evidence": "Vinter kapell finns samt lite träställning och presenning för förvaring",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "rnvik 550\nEn härlig liten kabinbåt med nytt kapell, helt nyservad motor som fått ny impeller samt ny växel",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Örnvik 550"
+ ],
+ "heading": "Örnvik 550",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25444584/a96c4367-0c10-4f24-8268-062a71a93245",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25444584/a96c4367-0c10-4f24-8268-062a71a93245",
+  "https://images.blocketcdn.se/dynamic/default/item/25444584/bd20729a-f11c-437d-814e-6ae959f131df",
+  "https://images.blocketcdn.se/dynamic/default/item/25444584/f7fb6b22-3932-48b0-84b8-eae71d85a809",
+  "https://images.blocketcdn.se/dynamic/default/item/25444584/132e94c3-9e96-464c-ac31-6e3666ada29e",
+  "https://images.blocketcdn.se/dynamic/default/item/25444584/76ffc83f-8dc7-418d-8fec-bd3dda114a04"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.08,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny motor som fått ny impeller samt ny växelhusolja av auktoriserad båtfirma. (kvitto finns).",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "included"
+   }
+  },
+  "text_sha": "e67767eeaca0f9a8"
+ },
+ "location": "Stenungsund",
+ "lon": 11.82,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 495,
+  "fetched_ts": 1790522994073,
+  "text_sha": "e67767eeaca0f9a8"
+ },
+ "price": 29500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 29500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "550",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25444584",
+ "width_cm": 0,
+ "year": 1978
+}

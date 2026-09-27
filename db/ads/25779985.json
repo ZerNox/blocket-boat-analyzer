@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": 127,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -42,8 +44,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 490 VI",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25779985/fd71be54-ad63-4869-bd76-434a155745cf",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.60859,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25779985/fd71be54-ad63-4869-bd76-434a155745cf",
+  "https://images.blocketcdn.se/dynamic/default/item/25779985/ab69bade-72d1-451a-aaa6-8c7d4d513002",
+  "https://images.blocketcdn.se/dynamic/default/item/25779985/e9965ee5-c87c-4245-a6e5-1cb1cfcc1ab6",
+  "https://images.blocketcdn.se/dynamic/default/item/25779985/0cda2959-07a2-465e-bb90-b22b6e87153a",
+  "https://images.blocketcdn.se/dynamic/default/item/25779985/0ada899a-7ab4-46f4-8898-22a39c3d61ef",
+  "https://images.blocketcdn.se/dynamic/default/item/25779985/e64637b2-77db-49c8-8684-851290413c0d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.61,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +83,13 @@
   "text_sha": "32483202afd97525"
  },
  "location": "Yxlan",
- "lon": 18.83251,
+ "lon": 18.83,
  "make": "Ryds",
  "max_speed": 33,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 671,
   "fetched_ts": 1790508190211,
@@ -110,7 +121,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "370 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25779985",
  "width_cm": 192,
  "year": 2021

@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -37,8 +39,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden 16 fot med Johnson 30 hk & Brenderup 30-kärra",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25880976/16e28e5d-98e0-4129-aa32-fd9c2d15ed04",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.91196,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25880976/16e28e5d-98e0-4129-aa32-fd9c2d15ed04",
+  "https://images.blocketcdn.se/dynamic/default/item/25880976/2504aede-7d41-4e24-86f4-93a00d85b5a1"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.91,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -68,12 +74,13 @@
   "text_sha": "998322d6cc086d92"
  },
  "location": "Alvesta",
- "lon": 14.53309,
+ "lon": 14.53,
  "make": "Askeladden",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 525,
   "fetched_ts": 1790508270864,
@@ -98,7 +105,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25880976",
  "width_cm": 0,
  "year": 1980

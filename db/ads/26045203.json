@@ -7,6 +7,8 @@
   "boat_year": 2012,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury 50 hk",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Trevlig båt i bra skick inkl Thule båtkärra.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26045203/fbe0f746-b651-4f17-a2e2-d35773d100b3",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.69839,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26045203/fbe0f746-b651-4f17-a2e2-d35773d100b3",
+  "https://images.blocketcdn.se/dynamic/default/item/26045203/8af0b326-7a65-4445-968d-efec326c5537",
+  "https://images.blocketcdn.se/dynamic/default/item/26045203/830db3e7-ae50-4294-8347-77dbc3de1d0b",
+  "https://images.blocketcdn.se/dynamic/default/item/26045203/5d3b4fee-7ce8-43b1-acef-278d7386fa93",
+  "https://images.blocketcdn.se/dynamic/default/item/26045203/00eb9a2a-11a0-4f78-91e2-42339f5346cd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.7,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "41b4d22f8da909ac"
  },
  "location": "Villshärad",
- "lon": 12.69772,
+ "lon": 12.7,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 96,
   "fetched_ts": 1790508412347,
@@ -101,7 +111,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "350 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26045203",
  "width_cm": 195,
  "year": 2012

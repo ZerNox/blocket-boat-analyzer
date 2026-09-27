@@ -1,0 +1,75 @@
+{
+ "ad_id": 26199281,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788282403000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2026,
+  "boat_year_source": "spec",
+  "engine_hours": 12,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki DF6AS-CW",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2026,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt och motor nyinköpt april 2026",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Gummibåt Suzumar med Suzuki 6 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26199281/bdd684c1-88e1-4667-b64f-177023efcd13",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26199281/bdd684c1-88e1-4667-b64f-177023efcd13"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.15,
+ "length_ft": 9,
+ "location": "Karlskrona",
+ "lon": 15.62,
+ "make": "Suzumar",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 104,
+  "fetched_ts": 1790520920117,
+  "text_sha": "5005ac34d6e35f6b"
+ },
+ "price": 19900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 19900
+  }
+ ],
+ "specs": {
+  "Bredd": "153 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Mörkgrå",
+  "Längd i fot": "9 fot",
+  "Modell": "DS 265KIB",
+  "Modellår": "2026",
+  "Motortillverkare": "Suzuki DF6AS-CW",
+  "Motortyp": "Utombordare",
+  "Märke": "Suzumar",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26199281",
+ "width_cm": 153,
+ "year": 2026
+}

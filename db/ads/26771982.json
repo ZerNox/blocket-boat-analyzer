@@ -1,0 +1,120 @@
+{
+ "ad_id": 26771982,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1789990783000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 45.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Säljes med trailer och motor.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Superfin kabinbåt\nSäljes med trailer och motor.\nTrailer är en kraftig 30km\nMotor: Mariner",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Superfin kabinbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26771982/087bb4a2-d998-431c-a682-7eaf50904991",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26771982/087bb4a2-d998-431c-a682-7eaf50904991",
+  "https://images.blocketcdn.se/dynamic/default/item/26771982/714be0c1-034d-411a-ae9f-0c4522037421",
+  "https://images.blocketcdn.se/dynamic/default/item/26771982/d69ef128-e9ea-44e3-97d1-e41df8c4bd5f",
+  "https://images.blocketcdn.se/dynamic/default/item/26771982/eb29f8c2-90b3-44c6-ae86-d5afe4839cec",
+  "https://images.blocketcdn.se/dynamic/default/item/26771982/090283cb-4d3a-46ac-bc10-2f52c8fe3d1c",
+  "https://images.blocketcdn.se/dynamic/default/item/26771982/768b0eda-87e3-4385-b644-e7e73e11f37e",
+  "https://images.blocketcdn.se/dynamic/default/item/26771982/962723de-f71d-4fe9-b36a-393324350eb9",
+  "https://images.blocketcdn.se/dynamic/default/item/26771982/363afecc-c516-43b2-86bd-4b77dc69b90e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 55.44,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 45,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "ny motor 2023",
+   "engine_year_rejected": 2023,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "fb5451a9863032b6"
+ },
+ "location": "Ystad",
+ "lon": 13.83,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 302,
+  "fetched_ts": 1790523218059,
+  "text_sha": "fb5451a9863032b6"
+ },
+ "price": 18000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 18000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Märke": "Övriga",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26771982",
+ "width_cm": 0,
+ "year": 1980
+}

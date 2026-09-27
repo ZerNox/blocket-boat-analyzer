@@ -7,6 +7,8 @@
   "boat_year": 2026,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 8.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -38,8 +40,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 370, Aluminium",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26570419/dfb98332-6f27-4c50-8d60-9f561d2c326e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.61118,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26570419/dfb98332-6f27-4c50-8d60-9f561d2c326e",
+  "https://images.blocketcdn.se/dynamic/default/item/26570419/2a7514f5-3882-48c0-9cda-a492c7e87e4b",
+  "https://images.blocketcdn.se/dynamic/default/item/26570419/1e89f857-1eff-4aa3-b796-37ecc3300683",
+  "https://images.blocketcdn.se/dynamic/default/item/26570419/af4b7f4c-cb08-4688-a446-24f42f96c9bc",
+  "https://images.blocketcdn.se/dynamic/default/item/26570419/7fb5f4c9-3ebb-4abd-a8a8-1a5c9e43d9c3",
+  "https://images.blocketcdn.se/dynamic/default/item/26570419/77e693b1-fb7a-4e83-887c-dbab6695191e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.61,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +79,13 @@
   "text_sha": "3617b1ed6c1f0e22"
  },
  "location": "Sigtuna",
- "lon": 17.74185,
+ "lon": 17.74,
  "make": "Örnvik",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 8.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 572,
   "fetched_ts": 1790508790430,
@@ -104,7 +115,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "65 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26570419",
  "width_cm": 150,
  "year": 2026

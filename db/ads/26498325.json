@@ -1,0 +1,74 @@
+{
+ "ad_id": 26498325,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789124698000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Takacat T260S",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26498325/c1413b7d-9d70-44c2-b24d-a599beb52df8",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26498325/c1413b7d-9d70-44c2-b24d-a599beb52df8",
+  "https://images.blocketcdn.se/dynamic/default/item/26498325/83b226eb-1bb9-4162-8134-6929b7889412",
+  "https://images.blocketcdn.se/dynamic/default/item/26498325/cde687a8-5778-45ab-b1d7-cef3d8383ee2",
+  "https://images.blocketcdn.se/dynamic/default/item/26498325/a1efd361-78a8-4f94-8d59-b3dd604923ff"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.92,
+ "length_ft": 8,
+ "location": "Lagan",
+ "lon": 13.98,
+ "make": "Takacat",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 336,
+  "fetched_ts": 1790520984044,
+  "text_sha": "571f2db5d5569af9"
+ },
+ "price": 8000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 8000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "8 fot",
+  "Modell": "T260S",
+  "Modellår": "1800",
+  "Motor inkluderad": "Nej",
+  "Märke": "Takacat",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26498325",
+ "width_cm": 0,
+ "year": 1800
+}

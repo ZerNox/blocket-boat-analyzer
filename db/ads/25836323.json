@@ -7,6 +7,8 @@
   "boat_year": 2020,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 8.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -27,16 +29,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Suzumar 265 + Suzuki 8 hk – mycket fint skick, få gångtimmar",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25836323/1a7340fe-b6f9-4dd0-ab0f-b31fbccaa820",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.46684,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25836323/1a7340fe-b6f9-4dd0-ab0f-b31fbccaa820",
+  "https://images.blocketcdn.se/dynamic/default/item/25836323/9cd7debf-39fd-4d8c-981b-10f0c1cfed78",
+  "https://images.blocketcdn.se/dynamic/default/item/25836323/37be189f-f67f-4be1-97fe-4ca1fa687548"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.47,
  "length_ft": 9,
  "location": "Söderköping",
- "lon": 16.32119,
+ "lon": 16.32,
  "make": "Suzumar",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 8.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 726,
   "fetched_ts": 1790508241133,
@@ -62,7 +70,7 @@
   "Märke": "Suzumar",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25836323",
  "width_cm": 0,
  "year": 2020

@@ -1,0 +1,104 @@
+{
+ "ad_id": 26900933,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1790424438000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2012,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ömo 640 med Suzuki 100 4-takt från 2012.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellet är helt och hållet tätt men skulle behöva en tvätt likaså med dynor och båten skulle också behöva en polering.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Säljes utan trailer för 69000kr",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "t från 2012. \nVälplanerad hyttbåt med smarta lösningar för förvaring och övernattning som går väldigt stad",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ömo 640 Suzuki 100",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26900933/565cd689-90aa-4b38-8717-97491544e686",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26900933/565cd689-90aa-4b38-8717-97491544e686",
+  "https://images.blocketcdn.se/dynamic/default/item/26900933/2b0923f9-64dd-41d9-bf94-8c2aa70fb06a",
+  "https://images.blocketcdn.se/dynamic/default/item/26900933/b27284fe-8842-48df-b8e5-70d1df75f6dd",
+  "https://images.blocketcdn.se/dynamic/default/item/26900933/6490ebf8-de69-4e92-b880-1752bfaf764d",
+  "https://images.blocketcdn.se/dynamic/default/item/26900933/a3ee8b7e-c23b-4db8-acff-36516feeb8be",
+  "https://images.blocketcdn.se/dynamic/default/item/26900933/5e61fe95-3057-4649-bc71-b4ccb91a1269",
+  "https://images.blocketcdn.se/dynamic/default/item/26900933/bdb73e11-c8c3-46a0-bb00-b9702eafcc60",
+  "https://images.blocketcdn.se/dynamic/default/item/26900933/a5f13c93-4605-4472-b816-e37379811d9c",
+  "https://images.blocketcdn.se/dynamic/default/item/26900933/8512f2a0-a43e-463b-82eb-7b36c8b75e49",
+  "https://images.blocketcdn.se/dynamic/default/item/26900933/2d3d7dc7-f521-471d-afb4-636289c86421",
+  "https://images.blocketcdn.se/dynamic/default/item/26900933/bc46ef8c-800c-40b4-ab97-d3c4b102bf50",
+  "https://images.blocketcdn.se/dynamic/default/item/26900933/d11a2807-9103-4b4b-beef-29f19d426d62",
+  "https://images.blocketcdn.se/dynamic/default/item/26900933/7b2a4651-1435-4282-a546-84481456df6a",
+  "https://images.blocketcdn.se/dynamic/default/item/26900933/0b7ec56b-8c3a-48a8-8003-a858971448c8"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.37,
+ "length_ft": 21,
+ "location": "Värmdö",
+ "lon": 18.48,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 502,
+  "fetched_ts": 1790523233460,
+  "text_sha": "fc190860c7625f24"
+ },
+ "price": 69000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69000
+  }
+ ],
+ "specs": {
+  "Bredd": "255 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "21 fot",
+  "Modell": "Ömo 640",
+  "Modellår": "1980",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Kabinbåt",
+  "Vikt": "750 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26900933",
+ "width_cm": 255,
+ "year": 1980
+}

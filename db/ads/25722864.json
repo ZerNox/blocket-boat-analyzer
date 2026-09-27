@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -39,8 +41,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 495 HT 1980 Mercury 40hk 2006",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25722864/ecbad005-fa23-4255-af37-987c2c6ec903",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.48635,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25722864/ecbad005-fa23-4255-af37-987c2c6ec903",
+  "https://images.blocketcdn.se/dynamic/default/item/25722864/218007b0-1789-43a4-934b-390d686378c5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.49,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +77,13 @@
   "text_sha": "07dbed4b039ab413"
  },
  "location": "Halltorp",
- "lon": 16.13722,
+ "lon": 16.14,
  "make": "Uttern",
  "max_speed": 23,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 663,
   "fetched_ts": 1790508135397,
@@ -108,7 +115,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "400 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25722864",
  "width_cm": 190,
  "year": 1980

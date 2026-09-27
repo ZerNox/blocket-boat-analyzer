@@ -7,6 +7,8 @@
   "boat_year": 1999,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster L2 + Yamaha 50hk 4takt + trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26662431/0844253a-8544-4664-aee8-fda6f87f410f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.46644,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26662431/0844253a-8544-4664-aee8-fda6f87f410f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.47,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +72,13 @@
   "text_sha": "5eba24a582cab7eb"
  },
  "location": "Åkersberga",
- "lon": 18.25032,
+ "lon": 18.25,
  "make": "Buster",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 224,
   "fetched_ts": 1790508852854,
@@ -103,7 +109,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "338 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26662431",
  "width_cm": 197,
  "year": 1999

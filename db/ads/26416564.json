@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnsson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -36,8 +38,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 470  gt  samt 80 trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26416564/44774221-332f-4240-b133-beff69249908",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.93482,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26416564/44774221-332f-4240-b133-beff69249908",
+  "https://images.blocketcdn.se/dynamic/default/item/26416564/d9dc1af7-e585-4935-85b6-f1dda082562d",
+  "https://images.blocketcdn.se/dynamic/default/item/26416564/eceb8c15-e1d7-4786-9664-9b739ba3936c",
+  "https://images.blocketcdn.se/dynamic/default/item/26416564/d1c3e459-0ce1-4826-8a3b-5815054cf298",
+  "https://images.blocketcdn.se/dynamic/default/item/26416564/55394ece-5386-4435-bda5-1ab603dee737",
+  "https://images.blocketcdn.se/dynamic/default/item/26416564/7cace597-38a3-446d-b286-37bf496bcedb",
+  "https://images.blocketcdn.se/dynamic/default/item/26416564/1577595a-d60b-48fb-be2c-a195e9defcad",
+  "https://images.blocketcdn.se/dynamic/default/item/26416564/b9a6f729-28d5-4ab4-b87a-98a2e51d2185"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.93,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -68,12 +80,13 @@
   "text_sha": "93922b604dcf06e5"
  },
  "location": "Västerfärnebo",
- "lon": 16.18532,
+ "lon": 16.19,
  "make": "Ryds",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 158,
   "fetched_ts": 1790508676273,
@@ -103,7 +116,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26416564",
  "width_cm": 185,
  "year": 1995

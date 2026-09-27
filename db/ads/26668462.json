@@ -1,0 +1,95 @@
+{
+ "ad_id": 26668462,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790269129000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo Penta Kad 32",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "Volvo Penta slutade med utombordare kring 1990",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Ev kan boogie trailern köpas till för 25000:",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "leak"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Nimbus max 2",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26668462/274e4487-05e7-451a-aef7-28ac004a3489",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26668462/274e4487-05e7-451a-aef7-28ac004a3489",
+  "https://images.blocketcdn.se/dynamic/default/item/26668462/1c5012a0-8322-4e36-a3f6-a5bc81ba3783",
+  "https://images.blocketcdn.se/dynamic/default/item/26668462/8d06b0d3-1568-4bd9-b318-ae433f5bc3c2",
+  "https://images.blocketcdn.se/dynamic/default/item/26668462/ef78f8c0-6561-4989-adcb-54a06a71a133",
+  "https://images.blocketcdn.se/dynamic/default/item/26668462/ada0d624-2bc1-45e9-b553-7adeb7c77a15",
+  "https://images.blocketcdn.se/dynamic/default/item/26668462/b4b5f25a-50a5-4b85-849d-909b15827608",
+  "https://images.blocketcdn.se/dynamic/default/item/26668462/44d5f461-4f7b-4317-8142-dba4a9d10c9b",
+  "https://images.blocketcdn.se/dynamic/default/item/26668462/f200bebf-c533-4dd7-b69d-9a04104149b7",
+  "https://images.blocketcdn.se/dynamic/default/item/26668462/ee0158a7-7ce6-4e96-a2d9-bd51f1d56934",
+  "https://images.blocketcdn.se/dynamic/default/item/26668462/6faf9d80-0b40-4998-aa80-cc6f21287c51",
+  "https://images.blocketcdn.se/dynamic/default/item/26668462/622ceaae-b4fb-41e5-93c8-da70a0cf0860"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.47,
+ "length_ft": 26,
+ "location": "Åkersberga",
+ "lon": 18.25,
+ "make": "Nimbus",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 889,
+  "fetched_ts": 1790521032188,
+  "text_sha": "c60536c868b6236a"
+ },
+ "price": 285000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 285000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Färg": "Blå /vit",
+  "Längd i fot": "26 fot",
+  "Modell": "Max 2",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo Penta Kad 32",
+  "Motortyp": "Inombordare",
+  "Märke": "Nimbus",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26668462",
+ "width_cm": 0,
+ "year": 2001
+}

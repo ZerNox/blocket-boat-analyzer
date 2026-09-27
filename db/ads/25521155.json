@@ -7,6 +7,8 @@
   "boat_year": 1999,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 9.9,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 405",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25521155/c73b945e-412b-46e8-a766-6e9a5d01f27f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.70244,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25521155/c73b945e-412b-46e8-a766-6e9a5d01f27f",
+  "https://images.blocketcdn.se/dynamic/default/item/25521155/7fd0daf8-8ece-4362-ad82-fd42db04aa42",
+  "https://images.blocketcdn.se/dynamic/default/item/25521155/6e0eb907-8e91-4171-a067-eef264b1a41c",
+  "https://images.blocketcdn.se/dynamic/default/item/25521155/97e8f02b-c8ed-4c61-a895-69464a9c162f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.7,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "2a9a7480791af9b9"
  },
  "location": "Lidköping",
- "lon": 13.10321,
+ "lon": 13.1,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 9.899999618530273,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 76,
   "fetched_ts": 1790507953836,
@@ -98,7 +107,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25521155",
  "width_cm": 0,
  "year": 1999

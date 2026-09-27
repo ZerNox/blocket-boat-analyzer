@@ -1,0 +1,121 @@
+{
+ "ad_id": 25986446,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787560063000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2004,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Askeladden 515 freestyle 2004",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25986446/24b53d2e-f396-43bb-928b-7b3a46e62d9a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25986446/24b53d2e-f396-43bb-928b-7b3a46e62d9a",
+  "https://images.blocketcdn.se/dynamic/default/item/25986446/b50c0caf-a579-40df-bcc9-d41866012864",
+  "https://images.blocketcdn.se/dynamic/default/item/25986446/36141284-e969-47eb-8a80-08e0879e045e",
+  "https://images.blocketcdn.se/dynamic/default/item/25986446/0b188dd7-af6e-479f-b0bb-82b86aa3d4bd",
+  "https://images.blocketcdn.se/dynamic/default/item/25986446/17f3d76c-5324-49ad-91ee-857a16c93696",
+  "https://images.blocketcdn.se/dynamic/default/item/25986446/f5f5da26-3688-473f-9909-86a7350b9abf",
+  "https://images.blocketcdn.se/dynamic/default/item/25986446/7c2ea9cb-fc1d-41f1-9c58-ec9edc435ccb",
+  "https://images.blocketcdn.se/dynamic/default/item/25986446/935906d1-ec15-4454-8e60-51a88d3bd55c",
+  "https://images.blocketcdn.se/dynamic/default/item/25986446/92bcf883-1885-44df-8839-5a48d2ef9a25"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 62.4,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2004,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "fd8f1c526bb63c0d"
+ },
+ "location": "Sundsvall",
+ "lon": 17.35,
+ "make": "Askeladden",
+ "max_speed": 38,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 377,
+  "fetched_ts": 1790523099234,
+  "text_sha": "fd8f1c526bb63c0d"
+ },
+ "price": 89000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 89000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "515 Freestyle",
+  "Modellår": "2004",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Askeladden",
+  "Toppfart": "38 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "800 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25986446",
+ "width_cm": 215,
+ "year": 2004
+}

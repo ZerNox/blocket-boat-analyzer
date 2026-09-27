@@ -1,0 +1,87 @@
+{
+ "ad_id": 26936613,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790517737000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2013,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 480 RSI, Mercury 2013.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer obromsad 30 km/h, vinterkapell, ställning, åror, ankare, tampar och lås medföljer utan extra kostnad",
+    "included": true,
+    "kmh": 30
+   },
+   "vinterkapell": {
+    "evidence": "Trailer obromsad 30 km/h, vinterkapell, ställning, åror, ankare, tampar och lås medföljer utan extra kostnad",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds 480 RSI,  Mercury 2013",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26936613/01180842-b697-41f8-8936-fff934fbce66",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26936613/01180842-b697-41f8-8936-fff934fbce66",
+  "https://images.blocketcdn.se/dynamic/default/item/26936613/56d4e2fb-e793-4bd2-aaa9-45e919e51d4c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.65,
+ "length_ft": 16,
+ "location": "Västra Frölunda",
+ "lon": 11.89,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 320,
+  "fetched_ts": 1790521104553,
+  "text_sha": "af4f6dd461f6bc95"
+ },
+ "price": 49900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 49900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "480 RSI",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26936613",
+ "width_cm": 0,
+ "year": 2000
+}

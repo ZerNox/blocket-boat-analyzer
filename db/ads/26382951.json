@@ -1,0 +1,83 @@
+{
+ "ad_id": 26382951,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788725785000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Plastbåt med 30-trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Plastbåt med 30-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26382951/8de9ab2f-84f5-4bc1-978d-a580fbb6706b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26382951/8de9ab2f-84f5-4bc1-978d-a580fbb6706b",
+  "https://images.blocketcdn.se/dynamic/default/item/26382951/1b0110e0-1035-41dc-bd58-1010ab979b69",
+  "https://images.blocketcdn.se/dynamic/default/item/26382951/90d004f6-f04a-47ca-bc0a-b8398a61197f",
+  "https://images.blocketcdn.se/dynamic/default/item/26382951/c88ed68b-e87c-4ae4-a5d6-5c08bef29eec",
+  "https://images.blocketcdn.se/dynamic/default/item/26382951/95248c23-e52d-486c-b139-455e385401ee",
+  "https://images.blocketcdn.se/dynamic/default/item/26382951/b6cab605-138b-4492-a31f-0faa69824b53",
+  "https://images.blocketcdn.se/dynamic/default/item/26382951/880f0ded-6b82-48b5-9b5d-81b64f5ed8be"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.84,
+ "length_ft": 14,
+ "location": "Växjö",
+ "lon": 14.82,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 111,
+  "fetched_ts": 1790520954997,
+  "text_sha": "f5f73ac3b6f91428"
+ },
+ "price": 10500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26382951",
+ "width_cm": 0,
+ "year": 1980
+}

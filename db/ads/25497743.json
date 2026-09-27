@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 55.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -31,6 +33,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -40,10 +46,18 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Ryds camping",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25497743/976a7d22-af00-4169-ab3a-f3836c376709",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.38645,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25497743/976a7d22-af00-4169-ab3a-f3836c376709",
+  "https://images.blocketcdn.se/dynamic/default/item/25497743/28b94d91-2ed8-4fce-bff2-57ebd0bc4ad8",
+  "https://images.blocketcdn.se/dynamic/default/item/25497743/5378fed9-b700-4716-9fe5-35530789881f"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.39,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -73,7 +87,7 @@
   "text_sha": "5eb7445b064d348b"
  },
  "location": "Söderfors",
- "lon": 17.23804,
+ "lon": 17.24,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",

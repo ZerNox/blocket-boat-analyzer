@@ -1,0 +1,87 @@
+{
+ "ad_id": 26028959,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787671571000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "GPS -Garmin 421s",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Motorbåt Uttern 5201",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26028959/d7459a5e-c8e2-4494-ad2b-a18d9511097c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26028959/d7459a5e-c8e2-4494-ad2b-a18d9511097c",
+  "https://images.blocketcdn.se/dynamic/default/item/26028959/27d8779c-ce36-4aae-aa2f-90e9c69ed704",
+  "https://images.blocketcdn.se/dynamic/default/item/26028959/76189aba-7cb3-40ec-9cfc-6e87612ebdf3",
+  "https://images.blocketcdn.se/dynamic/default/item/26028959/3b1618ca-60ff-4818-aaaf-a49abc206493",
+  "https://images.blocketcdn.se/dynamic/default/item/26028959/aeb5caa3-307f-4555-9e8a-41e8307e68ac",
+  "https://images.blocketcdn.se/dynamic/default/item/26028959/f2009fed-e779-4de8-8c0b-e1e97ab6f525",
+  "https://images.blocketcdn.se/dynamic/default/item/26028959/4f8d2bbc-ad4d-4b70-a795-7b3d32439e1e",
+  "https://images.blocketcdn.se/dynamic/default/item/26028959/4be6c015-e39f-47aa-863a-60d70c0806d9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.27,
+ "length_ft": 17,
+ "location": "Piteå",
+ "lon": 21.81,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 298,
+  "fetched_ts": 1790520878273,
+  "text_sha": "aad36e18f3a4a2d2"
+ },
+ "price": 27000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 27000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "5201",
+  "Modellår": "1989",
+  "Märke": "Uttern",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "425 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26028959",
+ "width_cm": 210,
+ "year": 1989
+}

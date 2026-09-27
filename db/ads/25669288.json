@@ -7,6 +7,8 @@
   "boat_year": 2004,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "RYDS 485 DLI i toppskick med servostyrning",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25669288/ce765ea8-2484-485e-9d7d-bb680ead2b26",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.60859,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25669288/ce765ea8-2484-485e-9d7d-bb680ead2b26",
+  "https://images.blocketcdn.se/dynamic/default/item/25669288/661cec4e-49e0-4b1b-810b-a9c1384d4e49",
+  "https://images.blocketcdn.se/dynamic/default/item/25669288/f5a4e8c9-a10d-41e0-af30-4968e800e133",
+  "https://images.blocketcdn.se/dynamic/default/item/25669288/b8a982c6-e77d-4b84-8535-2e03abf314ee",
+  "https://images.blocketcdn.se/dynamic/default/item/25669288/1322ba5d-e247-4c6a-aae3-d6e6c2b4fa17"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.61,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +78,13 @@
   "text_sha": "8005ea2c128a21ab"
  },
  "location": "Yxlan",
- "lon": 18.83251,
+ "lon": 18.83,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 143,
   "fetched_ts": 1790508079178,
@@ -103,7 +113,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25669288",
  "width_cm": 203,
  "year": 2004

@@ -1,0 +1,112 @@
+{
+ "ad_id": 25666426,
+ "boat_class": "Annat",
+ "changed_ts": 1786610458000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "electric",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Släpet kan köpas till",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Linder 410",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25666426/6f5ee0ec-b4ce-4e4b-a541-92fef16a351d",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25666426/6f5ee0ec-b4ce-4e4b-a541-92fef16a351d",
+  "https://images.blocketcdn.se/dynamic/default/item/25666426/b32d1657-9f17-441b-8b96-569edcde21ab",
+  "https://images.blocketcdn.se/dynamic/default/item/25666426/bca3c7f3-eab6-4547-955b-33fb827f8496",
+  "https://images.blocketcdn.se/dynamic/default/item/25666426/7f8f2c6b-7f96-4c94-8765-3765c7437d67"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.9,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2025,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Endura",
+   "engine_type": "electric",
+   "engine_year": null,
+   "engine_year_evidence": "Motor inkluderad: Ja Släpet kan köpas till",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3e08d91608709067"
+ },
+ "location": "Askersund",
+ "lon": 14.81,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 90,
+  "fetched_ts": 1790520750174,
+  "text_sha": "3e08d91608709067"
+ },
+ "price": 32000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 32000
+  }
+ ],
+ "specs": {
+  "Bredd": "156 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "13 fot",
+  "Modell": "410",
+  "Modellår": "2025",
+  "Motor inkluderad": "Ja",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Annat",
+  "Vikt": "75 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25666426",
+ "width_cm": 156,
+ "year": 2025
+}

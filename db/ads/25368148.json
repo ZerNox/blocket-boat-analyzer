@@ -7,6 +7,8 @@
   "boat_year": 2007,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury Optimax",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -42,8 +44,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 510 GTI",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25368148/6a0063d0-72f2-4c17-8148-73c5f4bb04cf",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.6973,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25368148/6a0063d0-72f2-4c17-8148-73c5f4bb04cf",
+  "https://images.blocketcdn.se/dynamic/default/item/25368148/b39c7a6c-e001-496c-a91e-aa422344eb1f",
+  "https://images.blocketcdn.se/dynamic/default/item/25368148/accf2908-f71e-40b5-9dd7-e8e0f23a5e96",
+  "https://images.blocketcdn.se/dynamic/default/item/25368148/0dd3ef2a-a700-48f6-85c9-d41289d87447",
+  "https://images.blocketcdn.se/dynamic/default/item/25368148/1c382b8f-5f7e-42e8-9362-5fc3d9ce8ce0",
+  "https://images.blocketcdn.se/dynamic/default/item/25368148/4f2eed36-d3a3-404b-a01b-1c68ccf92d5e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.7,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +83,13 @@
   "text_sha": "27bbe080a55aba16"
  },
  "location": "Hönö",
- "lon": 11.62231,
+ "lon": 11.62,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 231,
   "fetched_ts": 1790507802762,
@@ -103,7 +114,7 @@
   "Märke": "Ryds",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25368148",
  "width_cm": 0,
  "year": 2007

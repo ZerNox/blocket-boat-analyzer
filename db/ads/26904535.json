@@ -1,0 +1,76 @@
+{
+ "ad_id": 26904535,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790429347000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Zodiac 250",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26904535/26f3a814-f6e4-4ecb-9a07-88c5a839bc6f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26904535/26f3a814-f6e4-4ecb-9a07-88c5a839bc6f",
+  "https://images.blocketcdn.se/dynamic/default/item/26904535/4fd1ac4b-182d-4e19-910c-178fc8d045b1",
+  "https://images.blocketcdn.se/dynamic/default/item/26904535/9ba0902d-bedb-47f7-a087-09ebccf96827",
+  "https://images.blocketcdn.se/dynamic/default/item/26904535/05b29288-02d1-467a-a8cc-11d4f2064d5a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.13,
+ "length_ft": 9,
+ "location": "Senoren",
+ "lon": 15.75,
+ "make": "Zodiac",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 177,
+  "fetched_ts": 1790521087097,
+  "text_sha": "d515306c1d31de22"
+ },
+ "price": 4000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "9 fot",
+  "Modell": "250",
+  "Modellår": "2000",
+  "Märke": "Zodiac",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26904535",
+ "width_cm": 0,
+ "year": 2000
+}

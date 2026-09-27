@@ -7,6 +7,8 @@
   "boat_year": 2024,
   "boat_year_source": "spec",
   "engine_hours": 13,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder 460 agip 13 timmar gångtid",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26640282/337f2247-d11d-4519-9ee2-29ca1f1600ee",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.9631,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26640282/337f2247-d11d-4519-9ee2-29ca1f1600ee",
+  "https://images.blocketcdn.se/dynamic/default/item/26640282/aad1c39b-9c4e-4340-b517-c0809ecc4b5c",
+  "https://images.blocketcdn.se/dynamic/default/item/26640282/45798951-e425-431d-8e67-d541c720e426",
+  "https://images.blocketcdn.se/dynamic/default/item/26640282/048209e0-9364-45d5-8cd1-f4532d9ce340",
+  "https://images.blocketcdn.se/dynamic/default/item/26640282/24346506-8bbb-41bc-97f3-70b09c863d95",
+  "https://images.blocketcdn.se/dynamic/default/item/26640282/d9d6e525-4c4f-4c3e-a60c-4074d7a31585",
+  "https://images.blocketcdn.se/dynamic/default/item/26640282/a514d5f2-7aa8-4ebb-90f9-0edda3edf141",
+  "https://images.blocketcdn.se/dynamic/default/item/26640282/fa9c9bcf-5ae7-450c-a2b3-45a1ac69b091"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.96,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +72,13 @@
   "text_sha": "2a4a869f1567747a"
  },
  "location": "Skebobruk",
- "lon": 18.61565,
+ "lon": 18.62,
  "make": "Linder",
  "max_speed": 36,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508843299,
@@ -93,7 +106,7 @@
   "Toppfart": "36 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26640282",
  "width_cm": 0,
  "year": 2024

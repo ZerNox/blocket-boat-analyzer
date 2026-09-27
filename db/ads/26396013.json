@@ -1,0 +1,131 @@
+{
+ "ad_id": 26396013,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788784992000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 115.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Jonsson",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Äldre par som haft båten i 20 år innan vi tog över den.underhåll och forvaring till en marina samtidig som den inte anv…",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "100ah batteri nytt 2025 Elektrisk Trim/tilt, tankmätare, torkare, belysning anternor, stereo med aux osv fungerar som d…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "fin och stabil 30km/h kärra Medföljer även lås, kätting , tampar, ankare osv Bvsa",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "ambiguous engine years [1990, 2024]"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Flipper 620",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26396013/796d8356-4257-4729-b246-cc388e94aa2e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26396013/796d8356-4257-4729-b246-cc388e94aa2e",
+  "https://images.blocketcdn.se/dynamic/default/item/26396013/c4806059-01f1-4cbd-bb88-efad1a808970",
+  "https://images.blocketcdn.se/dynamic/default/item/26396013/20443831-f770-411c-bb88-1a242d65e680",
+  "https://images.blocketcdn.se/dynamic/default/item/26396013/4fa4568b-d7af-4ab6-af9d-b1c2d304f501",
+  "https://images.blocketcdn.se/dynamic/default/item/26396013/0418cf7d-8071-48bc-9873-e7bf6848a2d7",
+  "https://images.blocketcdn.se/dynamic/default/item/26396013/4edd8386-8afc-4941-a181-cee197f265ae",
+  "https://images.blocketcdn.se/dynamic/default/item/26396013/943c4f6d-9890-4c1c-95cd-aa9384d39052",
+  "https://images.blocketcdn.se/dynamic/default/item/26396013/dd3a3363-e630-42f3-9880-a82fd3ca2c28",
+  "https://images.blocketcdn.se/dynamic/default/item/26396013/3a6dc977-001e-4f6d-a35f-d2e1d7d7a5bd",
+  "https://images.blocketcdn.se/dynamic/default/item/26396013/97d8935b-269e-4f0a-805b-d9228efee5a6",
+  "https://images.blocketcdn.se/dynamic/default/item/26396013/11cbfba0-8746-4ef8-9a76-40fea140cca0",
+  "https://images.blocketcdn.se/dynamic/default/item/26396013/abfc8187-1acf-4a5e-beae-6b53c951594f",
+  "https://images.blocketcdn.se/dynamic/default/item/26396013/b9bd2bf4-8ff9-4182-af9e-96d87cd7324c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.24,
+ "length_ft": 30,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 115,
+   "engine_maker": "Jonsson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Johnsson 115hk 2takt från mitter -90.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8fbe29efb2f9a906"
+ },
+ "location": "Boxholm",
+ "lon": 15.06,
+ "make": "Flipper",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 750,
+  "fetched_ts": 1790520957440,
+  "text_sha": "8fbe29efb2f9a906"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "30 fot",
+  "Modell": "620",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Jonsson",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sovplatser": "5",
+  "Typ": "Hyttbåt",
+  "Vikt": "850 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26396013",
+ "width_cm": 0,
+ "year": 1980
+}

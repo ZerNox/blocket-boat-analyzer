@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ockelbo B15",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26888062/73bd066c-c273-4a1f-9b87-cd5c427716f8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.639,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26888062/73bd066c-c273-4a1f-9b87-cd5c427716f8",
+  "https://images.blocketcdn.se/dynamic/default/item/26888062/98646693-0fe0-4a3b-b961-aee124528883",
+  "https://images.blocketcdn.se/dynamic/default/item/26888062/926ac217-bbf9-40e6-ba3d-ad50a830332a",
+  "https://images.blocketcdn.se/dynamic/default/item/26888062/e2817177-f9c9-4dd9-9ca8-052305cae044",
+  "https://images.blocketcdn.se/dynamic/default/item/26888062/7d384076-7d15-40fa-b890-d3dcd2079c97",
+  "https://images.blocketcdn.se/dynamic/default/item/26888062/e1f2f8fe-b862-4ecd-a51f-c2a80248354f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.64,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +80,13 @@
   "text_sha": "2e196cc9ff76a311"
  },
  "location": "Ljungbyholm",
- "lon": 15.99916,
+ "lon": 16.0,
  "make": "Ockelbo",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 361,
   "fetched_ts": 1790509002332,
@@ -106,7 +117,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "200 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26888062",
  "width_cm": 175,
  "year": 1985

@@ -7,6 +7,8 @@
   "boat_year": 2011,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -43,8 +45,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Väddö 540 m. Suzuki 60HK 4-takt & BT1000 trailer (80 km/h)",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26574503/b76d82d3-eed4-42a6-9e7b-2089d35aefc5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.20826,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26574503/b76d82d3-eed4-42a6-9e7b-2089d35aefc5",
+  "https://images.blocketcdn.se/dynamic/default/item/26574503/6bd51634-1800-4d6d-86ae-69ca547824b1",
+  "https://images.blocketcdn.se/dynamic/default/item/26574503/93f4d6aa-089e-4fc8-9aae-6188e402d8e0",
+  "https://images.blocketcdn.se/dynamic/default/item/26574503/f6a30fb4-a055-4def-b1eb-fa086854bc0b",
+  "https://images.blocketcdn.se/dynamic/default/item/26574503/addd22ad-fa83-4568-a0cb-684fa27b3c8a",
+  "https://images.blocketcdn.se/dynamic/default/item/26574503/4c4cf5a6-0395-470f-b349-7130c7b1b6fb",
+  "https://images.blocketcdn.se/dynamic/default/item/26574503/0b726847-9121-4d42-8142-c0a9ed03d4c9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.21,
  "length_ft": 20,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +85,13 @@
   "text_sha": "7e9c81ecdcb77fc7"
  },
  "location": "Östersund",
- "lon": 14.6299,
+ "lon": 14.63,
  "make": "Väddö",
  "max_speed": 28,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1171,
   "fetched_ts": 1790508803199,
@@ -112,7 +124,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "650 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26574503",
  "width_cm": 200,
  "year": 2011

@@ -1,0 +1,80 @@
+{
+ "ad_id": 26623022,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789499045000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 5.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2010,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår ej",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Motorbåt ca 4,5m",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26623022/e755354c-8ae4-4a5d-834c-3dcc6772cc13",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26623022/e755354c-8ae4-4a5d-834c-3dcc6772cc13",
+  "https://images.blocketcdn.se/dynamic/default/item/26623022/869a7b2d-9537-4e65-8d90-5937bbf7983c",
+  "https://images.blocketcdn.se/dynamic/default/item/26623022/097d4063-d5d3-4ea0-88b3-d4f18d0a4858"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.04,
+ "length_ft": 15,
+ "location": "Gnesta",
+ "lon": 17.31,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 273,
+  "fetched_ts": 1790521023956,
+  "text_sha": "49766e0349defbdf"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modellår": "2010",
+  "Märke": "Övriga",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26623022",
+ "width_cm": 150,
+ "year": 2010
+}

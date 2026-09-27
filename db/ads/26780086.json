@@ -7,6 +7,8 @@
   "boat_year": 1996,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 10,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26780086/d1828305-98ae-4508-b856-14597ef9c236",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.60515,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26780086/d1828305-98ae-4508-b856-14597ef9c236"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.61,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +65,13 @@
   "text_sha": "ac80afaa66d58d2e"
  },
  "location": "Dalstorp",
- "lon": 13.51809,
+ "lon": 13.52,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 10.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508934705,
@@ -92,7 +98,7 @@
   "Märke": "Övriga",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26780086",
  "width_cm": 0,
  "year": 1996

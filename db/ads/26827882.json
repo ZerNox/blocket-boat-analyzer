@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 55,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -31,6 +33,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 560 HT",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -40,10 +46,25 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Uttern 560"
+ ],
  "heading": "Uttern 560 HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26827882/fee2b061-0076-43e0-a09f-420a3abc9d73",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.55083,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26827882/fee2b061-0076-43e0-a09f-420a3abc9d73",
+  "https://images.blocketcdn.se/dynamic/default/item/26827882/637ceae4-ba8f-4b66-851f-237e8b62a8b1",
+  "https://images.blocketcdn.se/dynamic/default/item/26827882/8f7b798d-2fa5-41f5-ac02-20ccdda250c5",
+  "https://images.blocketcdn.se/dynamic/default/item/26827882/e7b10265-fa85-44ea-8913-5dba71fd5f15",
+  "https://images.blocketcdn.se/dynamic/default/item/26827882/7440fbad-1710-4bc6-89ab-dd53a325551e",
+  "https://images.blocketcdn.se/dynamic/default/item/26827882/a469fef6-43fa-4268-86c6-a616b2ada483",
+  "https://images.blocketcdn.se/dynamic/default/item/26827882/bc227dff-e275-49c3-b7af-ad8280e7b22d",
+  "https://images.blocketcdn.se/dynamic/default/item/26827882/376c2ff8-2e24-4100-9f69-f41da78e0bda",
+  "https://images.blocketcdn.se/dynamic/default/item/26827882/96179c81-1993-4833-a74c-22d1f231ede2",
+  "https://images.blocketcdn.se/dynamic/default/item/26827882/c8e9ad4b-c500-497c-8830-e73d3faa8fdf"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 62.55,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -73,7 +94,7 @@
   "text_sha": "eb4d08385d8c567c"
  },
  "location": "Ånge",
- "lon": 15.63585,
+ "lon": 15.64,
  "make": "Uttern",
  "max_speed": 24,
  "motor_fuel": "Bensin",

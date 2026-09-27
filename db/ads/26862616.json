@@ -7,6 +7,8 @@
   "boat_year": 2012,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -41,8 +43,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder 445 - komplett fiskeutrustad",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26862616/44749042-7b8b-460a-a3f1-b16b95531acd",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.58432,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26862616/44749042-7b8b-460a-a3f1-b16b95531acd",
+  "https://images.blocketcdn.se/dynamic/default/item/26862616/d3caa88d-5065-4c10-be42-1b77eab680a8",
+  "https://images.blocketcdn.se/dynamic/default/item/26862616/211b7415-f31f-42e3-82f4-5afe257c8a43",
+  "https://images.blocketcdn.se/dynamic/default/item/26862616/ca5e5d1d-6b6a-4374-9487-75c15904c640",
+  "https://images.blocketcdn.se/dynamic/default/item/26862616/a817120f-bb1c-47d9-8cbf-bbd8750b9bc3",
+  "https://images.blocketcdn.se/dynamic/default/item/26862616/1bbc8e69-7ae4-49dc-9ce3-069351807fc3"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.58,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -72,12 +82,13 @@
   "text_sha": "52b95d73f358808d"
  },
  "location": "Falun",
- "lon": 15.74576,
+ "lon": 15.75,
  "make": "Linder",
  "max_speed": 24,
  "motor_fuel": null,
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 665,
   "fetched_ts": 1790508985697,
@@ -103,7 +114,7 @@
   "Toppfart": "24 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26862616",
  "width_cm": 0,
  "year": 2012

@@ -7,6 +7,8 @@
   "boat_year": 2020,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -43,8 +45,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder 445 Catch & Mercury 30 HK ink, Garmin 9” -2020",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25776516/92e9611b-6bff-40a8-94fb-5859287cca79",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.81024,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25776516/92e9611b-6bff-40a8-94fb-5859287cca79",
+  "https://images.blocketcdn.se/dynamic/default/item/25776516/59469e29-d5cd-4ad3-a0b4-e9e0d45fc491",
+  "https://images.blocketcdn.se/dynamic/default/item/25776516/bef70b79-7d21-41bb-ba38-a1b86ecce20d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.81,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +81,13 @@
   "text_sha": "e8c9670673a14007"
  },
  "location": "Floda",
- "lon": 12.37607,
+ "lon": 12.38,
  "make": "Linder",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 648,
   "fetched_ts": 1790508183142,
@@ -107,7 +115,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "230 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25776516",
  "width_cm": 175,
  "year": 2020

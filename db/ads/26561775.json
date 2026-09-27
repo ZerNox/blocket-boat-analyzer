@@ -1,0 +1,75 @@
+{
+ "ad_id": 26561775,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789916734000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Minn kota",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Suvi 490",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26561775/365c670b-d77f-430e-bc15-1c143e6161ca",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26561775/365c670b-d77f-430e-bc15-1c143e6161ca"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.14,
+ "length_ft": 16,
+ "location": "Östersund",
+ "lon": 14.76,
+ "make": "Suvi",
+ "max_speed": null,
+ "motor_fuel": "Elektrisk",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790521006867,
+  "text_sha": "adebff75b195693d"
+ },
+ "price": 12000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Elektrisk",
+  "Längd i fot": "16 fot",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Minn kota",
+  "Motortyp": "Utombordare",
+  "Märke": "Suvi",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26561775",
+ "width_cm": 0,
+ "year": 2000
+}

@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fin Crescent 505 med trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26080791/85a7b1c2-19c7-4f7a-8790-4f071792a6c8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.99159,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26080791/85a7b1c2-19c7-4f7a-8790-4f071792a6c8",
+  "https://images.blocketcdn.se/dynamic/default/item/26080791/ec6c0141-416a-4d0b-bc60-d12a31629736",
+  "https://images.blocketcdn.se/dynamic/default/item/26080791/a255ae0f-5654-401e-b179-a25283cbaad6",
+  "https://images.blocketcdn.se/dynamic/default/item/26080791/411b5ded-0d8e-40b5-af1d-1ea639f2be75"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.99,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +77,13 @@
   "text_sha": "cd53208ed2a199a4"
  },
  "location": "Mora",
- "lon": 14.43834,
+ "lon": 14.44,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 159,
   "fetched_ts": 1790508438702,
@@ -100,7 +109,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26080791",
  "width_cm": 203,
  "year": 1980

@@ -7,6 +7,8 @@
   "boat_year": 1986,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 495, Johnson 50 hk, 30-kärra",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25383504/c0fea3da-d7ba-4a6a-9c07-3c40487e265f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.07235,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25383504/c0fea3da-d7ba-4a6a-9c07-3c40487e265f",
+  "https://images.blocketcdn.se/dynamic/default/item/25383504/6fd2fd90-60e2-4afb-a8cd-a967d755159b",
+  "https://images.blocketcdn.se/dynamic/default/item/25383504/b1e89f1a-9807-498f-b478-7f6204b1bf61",
+  "https://images.blocketcdn.se/dynamic/default/item/25383504/226fedc6-6a8f-49fe-9d30-90c61da8dfe6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.07,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +74,13 @@
   "text_sha": "d0506c7125da681f"
  },
  "location": "Björnlunda",
- "lon": 17.16336,
+ "lon": 17.16,
  "make": "Uttern",
  "max_speed": 28,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 96,
   "fetched_ts": 1790507825574,
@@ -98,7 +107,7 @@
   "Toppfart": "28 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25383504",
  "width_cm": 0,
  "year": 1986

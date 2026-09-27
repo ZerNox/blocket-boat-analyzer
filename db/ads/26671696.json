@@ -7,6 +7,8 @@
   "boat_year": 1999,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "evenrude",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fin 14-fots båt med Evinrude 6 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26671696/bd098045-64d9-4d33-a0fa-fdffff5d1db0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.99913,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26671696/bd098045-64d9-4d33-a0fa-fdffff5d1db0",
+  "https://images.blocketcdn.se/dynamic/default/item/26671696/9ce46ecc-3044-47cf-a47c-d91c782de2d2",
+  "https://images.blocketcdn.se/dynamic/default/item/26671696/36e54eb0-5018-4253-8d42-8b285840234f",
+  "https://images.blocketcdn.se/dynamic/default/item/26671696/1d9a28b9-54ca-4ec5-8bda-c61bb94a131f",
+  "https://images.blocketcdn.se/dynamic/default/item/26671696/efbdaff6-9a60-47a9-b87c-714ba3a13334"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.0,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "6541bee7659ea63f"
  },
  "location": "Moheda",
- "lon": 14.58267,
+ "lon": 14.58,
  "make": "Caravelle",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 6.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 434,
   "fetched_ts": 1790508861955,
@@ -94,7 +104,7 @@
   "Märke": "Caravelle",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26671696",
  "width_cm": 0,
  "year": 1999

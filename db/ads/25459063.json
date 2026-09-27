@@ -1,0 +1,117 @@
+{
+ "ad_id": 25459063,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786025055000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha 50 hk 2takt",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "GPS, tampar, ankare, ny Impeller och propeller m m.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80-kärra.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Bella 512 Europa",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25459063/6ca72c2f-7108-49fb-b23c-e7b7968f58f3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25459063/6ca72c2f-7108-49fb-b23c-e7b7968f58f3",
+  "https://images.blocketcdn.se/dynamic/default/item/25459063/69299e1c-fcad-478b-8354-44d25c3cd702",
+  "https://images.blocketcdn.se/dynamic/default/item/25459063/9d0b77f0-b787-4560-8dca-79a42590865a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.91,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1995,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "485e4075c79a6b5d"
+ },
+ "location": "Kareby",
+ "lon": 11.93,
+ "make": "Bella",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 61,
+  "fetched_ts": 1790520703235,
+  "text_sha": "485e4075c79a6b5d"
+ },
+ "price": 57000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 57000
+  }
+ ],
+ "specs": {
+  "Bredd": "512 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "512",
+  "Modellår": "1995",
+  "Motortillverkare": "Yamaha 50 hk 2takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25459063",
+ "width_cm": 512,
+ "year": 1995
+}

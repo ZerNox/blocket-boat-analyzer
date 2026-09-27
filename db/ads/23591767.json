@@ -1,0 +1,72 @@
+{
+ "ad_id": 23591767,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788697221000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Bortskänkes",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23591767/207c942a-8bc9-4447-bb2e-5f85132cadde",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23591767/207c942a-8bc9-4447-bb2e-5f85132cadde"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.8,
+ "length_ft": 26,
+ "location": "Rånäs",
+ "lon": 18.28,
+ "make": "Sea Ray",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 127,
+  "fetched_ts": 1790520610576,
+  "text_sha": "1fa244a9ffdbcbdb"
+ },
+ "price": 0,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 0
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "26 fot",
+  "Modellår": "1995",
+  "Motor inkluderad": "Nej",
+  "Motortyp": "Inombordare",
+  "Märke": "Sea Ray",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23591767",
+ "width_cm": 0,
+ "year": 1995
+}

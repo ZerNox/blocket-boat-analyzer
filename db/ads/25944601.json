@@ -7,6 +7,8 @@
   "boat_year": 2004,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -18,6 +20,10 @@
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {},
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space, only open cockpit and console visible.",
+  "hull_source": "bild",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -27,10 +33,23 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Ideal 550"
+ ],
  "heading": "Ideal 550 S med evinrude 40hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25944601/edfc53a9-34f3-4454-84c2-02a28e764218",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.99557,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25944601/edfc53a9-34f3-4454-84c2-02a28e764218",
+  "https://images.blocketcdn.se/dynamic/default/item/25944601/86c64305-77f6-4f49-bd73-16c3acdc42b5",
+  "https://images.blocketcdn.se/dynamic/default/item/25944601/cecb653f-e30d-44cb-a5b1-9d48275195f7",
+  "https://images.blocketcdn.se/dynamic/default/item/25944601/fd269643-5dda-44fc-8cce-cb102824f306",
+  "https://images.blocketcdn.se/dynamic/default/item/25944601/7e6c9ca2-b8a5-490f-ab30-afcc765f03ff",
+  "https://images.blocketcdn.se/dynamic/default/item/25944601/114c278d-c3a9-45be-b5d2-44e81be33de9",
+  "https://images.blocketcdn.se/dynamic/default/item/25944601/36e89ed1-d984-4453-ba27-bc34cc67381c",
+  "https://images.blocketcdn.se/dynamic/default/item/25944601/26ce343f-7fd8-4d81-a28b-9c9e32720c40"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.0,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -60,7 +79,7 @@
   "text_sha": "df2b215e570cfd75"
  },
  "location": "Vårgårda",
- "lon": 12.72665,
+ "lon": 12.73,
  "make": "Ideal",
  "max_speed": null,
  "motor_fuel": "Bensin",
@@ -95,6 +114,19 @@
  },
  "status": "active",
  "url": "https://www.blocket.se/mobility/item/25944601",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "35e8ebace5848e34",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed space, only open cockpit and console visible.",
+   "hull_photo": 4
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 194,
  "year": 2004
 }

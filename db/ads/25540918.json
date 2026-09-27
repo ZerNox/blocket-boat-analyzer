@@ -1,0 +1,112 @@
+{
+ "ad_id": 25540918,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786282072000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 8.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": "Honda Honwave T27-IE1 gummibåt Längd: 2,67 m Kategori: C Antal personer: 3 (varav 1 vuxen)",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Honda Honwave T27-IE1 gummibåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25540918/266dbabb-38f1-45a1-b41b-6b54524dc93f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25540918/266dbabb-38f1-45a1-b41b-6b54524dc93f",
+  "https://images.blocketcdn.se/dynamic/default/item/25540918/60c67fbe-7274-44be-af54-f1df3a4d02ac",
+  "https://images.blocketcdn.se/dynamic/default/item/25540918/aca8b046-1cb1-40e2-b7c1-462294c34469",
+  "https://images.blocketcdn.se/dynamic/default/item/25540918/69e7ca7c-238d-4b42-8af5-0cadec883e41",
+  "https://images.blocketcdn.se/dynamic/default/item/25540918/d2f14da3-2a00-4326-8c29-b96d69af33c3",
+  "https://images.blocketcdn.se/dynamic/default/item/25540918/9c9f61bf-091e-4198-b0fc-796309cbaf29",
+  "https://images.blocketcdn.se/dynamic/default/item/25540918/1b585f3c-2516-459b-bf9b-ba35ca772ed4",
+  "https://images.blocketcdn.se/dynamic/default/item/25540918/d65f08a5-3b48-4af1-ad8a-669d4530d1da",
+  "https://images.blocketcdn.se/dynamic/default/item/25540918/bca8de42-22ef-49ea-9509-f0f5ebf66ee7",
+  "https://images.blocketcdn.se/dynamic/default/item/25540918/105b9d48-28e1-4da8-b1c1-1f8f3fd71c0a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.87,
+ "length_ft": 8,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Honda",
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9867a18fd9804690"
+ },
+ "location": "Torsö",
+ "lon": 13.65,
+ "make": "Honda",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 181,
+  "fetched_ts": 1790520726162,
+  "text_sha": "9867a18fd9804690"
+ },
+ "price": 3000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 3000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Grå/blå",
+  "Längd i fot": "8 fot",
+  "Modell": "Honwave T27-IE1",
+  "Modellår": "2006",
+  "Motor inkluderad": "Nej",
+  "Märke": "Honda",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25540918",
+ "width_cm": 0,
+ "year": 2006
+}

@@ -7,6 +7,8 @@
   "boat_year": 2018,
   "boat_year_source": "spec",
   "engine_hours": 85,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -24,6 +26,10 @@
     "kmh": 30
    }
   },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "att hantera. Mittmonterad styrpulpet för enkel hantering.\n2 stolar bakom stora vindruta - soffa i akter. 2",
+  "hull_source": "rule:text",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -33,10 +39,22 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Sandström 565"
+ ],
  "heading": "Sandström 565 CC Mercury 50hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26794243/bb52a6e5-a03b-4d97-8b05-a0e1a1b9ee31",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.42055,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26794243/bb52a6e5-a03b-4d97-8b05-a0e1a1b9ee31",
+  "https://images.blocketcdn.se/dynamic/default/item/26794243/80852eff-4868-43cf-b818-666f6145cbf4",
+  "https://images.blocketcdn.se/dynamic/default/item/26794243/baaf2265-b0a1-4a62-a7e0-43fe21c32759",
+  "https://images.blocketcdn.se/dynamic/default/item/26794243/334c1039-0bce-4958-9365-ba4d2e526d35",
+  "https://images.blocketcdn.se/dynamic/default/item/26794243/474a465a-fdc9-445b-a407-46eb4df6ff91",
+  "https://images.blocketcdn.se/dynamic/default/item/26794243/35cc5d4f-ae7d-4f89-bc29-4371f977fa24",
+  "https://images.blocketcdn.se/dynamic/default/item/26794243/d8a9f259-c68c-4722-8357-4ce4f94a1fc1"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.42,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -67,7 +85,7 @@
   "text_sha": "7d5e328ccf36426f"
  },
  "location": "Täby",
- "lon": 18.10571,
+ "lon": 18.11,
  "make": "Sandström",
  "max_speed": null,
  "motor_fuel": null,

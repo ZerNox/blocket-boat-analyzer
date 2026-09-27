@@ -1,0 +1,104 @@
+{
+ "ad_id": 25890007,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1787256379000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1983,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten drivs av en pigg och pålitlig Mercury 90hk 2-taktsmotor från 2004 som flyttar båten fint i vattnet.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod medföljer (ej monterat).",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nytt kapell (2021)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Raymarine plotter medföljer med karta för hela Sverige.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "dagsutflykter och längre övernattningar. Vi har \"utan problem\" sovit 2 vuxna och 3 barn i den.\nBåten driv",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Flipper 620 (-83) med Mercury 90hk 2-takt (-04) – Perfekt familjebåt!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25890007/62fdbcde-5f3a-4ac4-a207-a7a13e7c6be8",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25890007/62fdbcde-5f3a-4ac4-a207-a7a13e7c6be8",
+  "https://images.blocketcdn.se/dynamic/default/item/25890007/3180139a-5757-40ea-833f-0abd87c34822",
+  "https://images.blocketcdn.se/dynamic/default/item/25890007/3c1ba6ef-326a-4140-ae64-890ea27f0ebb",
+  "https://images.blocketcdn.se/dynamic/default/item/25890007/0bb4a2a9-705e-49ca-a588-6385a97f4a16",
+  "https://images.blocketcdn.se/dynamic/default/item/25890007/66392b55-a9a6-4300-9947-5a1e234c0626",
+  "https://images.blocketcdn.se/dynamic/default/item/25890007/2f566862-b763-465b-ab85-cd93d76800ad",
+  "https://images.blocketcdn.se/dynamic/default/item/25890007/a9a26c52-7d55-44e2-b8ef-2421bb1e7dd9",
+  "https://images.blocketcdn.se/dynamic/default/item/25890007/6e430c98-3ce9-4eae-b12d-84cba377dbd1"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.48,
+ "length_ft": 20,
+ "location": "Täby",
+ "lon": 18.12,
+ "make": "Flipper",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1258,
+  "fetched_ts": 1790523082958,
+  "text_sha": "dd9e5bd082f4b209"
+ },
+ "price": 59000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 59000
+  }
+ ],
+ "specs": {
+  "Bredd": "240 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit Röd",
+  "Längd i fot": "20 fot",
+  "Modell": "620",
+  "Modellår": "1983",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25890007",
+ "width_cm": 240,
+ "year": 1983
+}

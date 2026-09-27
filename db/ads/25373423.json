@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 3.3,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Murcury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Gummibåt 240 cm",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25373423/75f6eb55-faaf-41ae-9713-c2f4964868c8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.69234,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25373423/75f6eb55-faaf-41ae-9713-c2f4964868c8",
+  "https://images.blocketcdn.se/dynamic/default/item/25373423/a79c59b8-0d3a-4693-9943-a2db704b6909",
+  "https://images.blocketcdn.se/dynamic/default/item/25373423/a6abaa71-55e4-4863-a93f-342b9b63d080",
+  "https://images.blocketcdn.se/dynamic/default/item/25373423/9dc16aff-7263-422b-b9b0-509ac7a812d8",
+  "https://images.blocketcdn.se/dynamic/default/item/25373423/de813bcd-69d4-401c-9cbe-044c1b7d533d",
+  "https://images.blocketcdn.se/dynamic/default/item/25373423/f33fc90c-afdf-4d3a-b339-0be19a8ffafd",
+  "https://images.blocketcdn.se/dynamic/default/item/25373423/89e7ccbd-84dc-45bb-812c-70915827003b",
+  "https://images.blocketcdn.se/dynamic/default/item/25373423/dc752b8b-66ce-4f28-ae92-31b99ae97ad8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.69,
  "length_ft": 8,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +72,13 @@
   "text_sha": "d212ed4420997cd2"
  },
  "location": "Grebbestad",
- "lon": 11.19342,
+ "lon": 11.19,
  "make": "Quicksilver",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 3.299999952316284,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 367,
   "fetched_ts": 1790507815140,
@@ -94,7 +107,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25373423",
  "width_cm": 154,
  "year": 2006

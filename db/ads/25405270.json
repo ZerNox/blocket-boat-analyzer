@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Cresent 498 med mittenstyrpulpit",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25405270/12476b54-5e71-415a-9d63-c2150a895d77",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.2071,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25405270/12476b54-5e71-415a-9d63-c2150a895d77",
+  "https://images.blocketcdn.se/dynamic/default/item/25405270/11c96901-79eb-4746-bbc7-fbde5df6bceb",
+  "https://images.blocketcdn.se/dynamic/default/item/25405270/d322f757-ec6c-48d3-845b-87f4c50aa7f6",
+  "https://images.blocketcdn.se/dynamic/default/item/25405270/2e1b4d96-a17e-4cfe-b18b-8fdb6df0b0d6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.21,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +74,13 @@
   "text_sha": "a4af86419ae56a27"
  },
  "location": "Domsjö",
- "lon": 18.79759,
+ "lon": 18.8,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 191,
   "fetched_ts": 1790507840562,
@@ -98,7 +107,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25405270",
  "width_cm": 0,
  "year": 1980

@@ -7,6 +7,8 @@
   "boat_year": 1974,
   "boat_year_source": "spec",
   "engine_hours": 30,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -27,6 +29,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "gsutflykter eller kortare övernattningar. \nMotor ny 2016 och har därefter gått straxt över 30 timmar. \nNya",
+  "hull_source": "rule:text",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -34,13 +40,22 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Ryds Camping Honda bf60",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26658638/da73785c-022a-413b-b4da-2a6a86c8d075",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.44814,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26658638/da73785c-022a-413b-b4da-2a6a86c8d075",
+  "https://images.blocketcdn.se/dynamic/default/item/26658638/ffbd5795-ebd4-47cd-a7f1-acd574eea92c",
+  "https://images.blocketcdn.se/dynamic/default/item/26658638/5746b543-0ec1-4a0c-897e-2ad977a7d173",
+  "https://images.blocketcdn.se/dynamic/default/item/26658638/4b2d64fe-b0d0-4134-b2d0-b8193fc44cb5"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.45,
  "length_ft": 19,
  "location": "Vadstena",
- "lon": 14.87974,
+ "lon": 14.88,
  "make": "Ryds",
  "max_speed": 26,
  "motor_fuel": "Bensin",

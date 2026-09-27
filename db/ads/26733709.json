@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Plastbåt, motor och vagn",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26733709/eaa05ae1-d6c1-4db5-b1f3-3ae96227af3b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.88096,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26733709/eaa05ae1-d6c1-4db5-b1f3-3ae96227af3b",
+  "https://images.blocketcdn.se/dynamic/default/item/26733709/56eb476f-b4a6-45a7-9bbf-0467ba1c69b4",
+  "https://images.blocketcdn.se/dynamic/default/item/26733709/4c7f2d24-2a22-4d94-af5f-deb9b2a9fe37"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.88,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "1c72a95d715b1739"
  },
  "location": "Hamrångefjärden",
- "lon": 17.03538,
+ "lon": 17.04,
  "make": "Ockelbo",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 101,
   "fetched_ts": 1790508897942,
@@ -97,7 +105,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26733709",
  "width_cm": 155,
  "year": 1980

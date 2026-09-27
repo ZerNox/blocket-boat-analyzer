@@ -7,6 +7,8 @@
   "boat_year": 1970,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sportbåt Stinger",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26137960/166a7b47-ec22-4200-b4a5-b863e29f64ab",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.17804,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26137960/166a7b47-ec22-4200-b4a5-b863e29f64ab",
+  "https://images.blocketcdn.se/dynamic/default/item/26137960/176effb8-d89a-4917-bfa8-6e6448054980",
+  "https://images.blocketcdn.se/dynamic/default/item/26137960/77ab9cd5-7ce4-4cce-b3ee-f0f70f1b4466",
+  "https://images.blocketcdn.se/dynamic/default/item/26137960/b3363a26-dad9-4dc3-9296-158469da5372",
+  "https://images.blocketcdn.se/dynamic/default/item/26137960/54ac06e0-f037-45e9-9d54-a134fe55bb42"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.18,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +75,13 @@
   "text_sha": "a44afe7718ff2471"
  },
  "location": "Örbyhus",
- "lon": 17.69202,
+ "lon": 17.69,
  "make": "Johnson",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 63,
   "fetched_ts": 1790508482090,
@@ -98,7 +108,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26137960",
  "width_cm": 0,
  "year": 1970

@@ -7,6 +7,8 @@
   "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -39,8 +41,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 478 GTI Mercury F50",
  "image": "https://images.blocketcdn.se/dynamic/default/item/18135052/4ccefb8f-e622-4768-a33c-2d68d97d6e4c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.27156,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/18135052/4ccefb8f-e622-4768-a33c-2d68d97d6e4c",
+  "https://images.blocketcdn.se/dynamic/default/item/18135052/f7a345e2-02b6-4da2-a37b-26d7cf58ee9a",
+  "https://images.blocketcdn.se/dynamic/default/item/18135052/c171e120-232f-4620-a5f9-e150c3402ec0",
+  "https://images.blocketcdn.se/dynamic/default/item/18135052/0eac0646-4656-4422-bb47-ed081a6625e5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.27,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +78,13 @@
   "text_sha": "a6c00cf60d8d90bf"
  },
  "location": "Ängelholm",
- "lon": 12.84411,
+ "lon": 12.84,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 371,
   "fetched_ts": 1790507323954,
@@ -99,7 +108,7 @@
   "Märke": "Ryds",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/18135052",
  "width_cm": 0,
  "year": 2010

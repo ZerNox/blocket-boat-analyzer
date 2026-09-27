@@ -1,0 +1,107 @@
+{
+ "ad_id": 26332580,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788875677000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1979,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Roddbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26332580/b3316aa8-095e-4524-a905-9d4f267ee20e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26332580/b3316aa8-095e-4524-a905-9d4f267ee20e",
+  "https://images.blocketcdn.se/dynamic/default/item/26332580/b8aa34dc-a02a-4d3f-a5ed-1a5bf79d0174",
+  "https://images.blocketcdn.se/dynamic/default/item/26332580/f0dddc27-f5ce-4b1b-ac1f-6b5f5f5878dd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.27,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1979,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "561ed4a1998087bf"
+ },
+ "location": "Ås",
+ "lon": 14.63,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 44,
+  "fetched_ts": 1790520943743,
+  "text_sha": "561ed4a1998087bf"
+ },
+ "price": 6500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 6500
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Flerfärgad",
+  "Längd i fot": "13 fot",
+  "Modell": "Roddbåt m. åror  + båt- vagga för släpvagn m. spel",
+  "Modellår": "1979",
+  "Motor inkluderad": "Ja",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "105 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26332580",
+ "width_cm": 150,
+ "year": 1979
+}

@@ -1,0 +1,75 @@
+{
+ "ad_id": 26253954,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788357278000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Tollare skrov",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26253954/202844b6-7e4e-4bdd-8aa2-1e4ad756d91a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26253954/202844b6-7e4e-4bdd-8aa2-1e4ad756d91a",
+  "https://images.blocketcdn.se/dynamic/default/item/26253954/b2f6f026-5a35-415c-8fd5-5f56bad37138",
+  "https://images.blocketcdn.se/dynamic/default/item/26253954/b86a97f3-d460-4b5c-a4ff-8cd8e67563e0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.34,
+ "length_ft": 28,
+ "location": "Djurhamn",
+ "lon": 18.73,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 12,
+  "fetched_ts": 1790520932229,
+  "text_sha": "7bfed3b1bd960531"
+ },
+ "price": 3000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 3000
+  }
+ ],
+ "specs": {
+  "Bredd": "290 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "28 fot",
+  "Modell": "Tollare",
+  "Modellår": "1978",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26253954",
+ "width_cm": 290,
+ "year": 1978
+}

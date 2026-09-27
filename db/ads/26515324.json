@@ -7,6 +7,8 @@
   "boat_year": 1969,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -36,8 +38,23 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Weedo GT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26515324/8a0ac2bf-8999-432f-ac58-f1a76643468b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.09547,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26515324/8a0ac2bf-8999-432f-ac58-f1a76643468b",
+  "https://images.blocketcdn.se/dynamic/default/item/26515324/902e0af0-ec34-4a5e-b8bd-4200ac7c617a",
+  "https://images.blocketcdn.se/dynamic/default/item/26515324/03ca965a-9fc7-4f62-8188-3a65eff28c41",
+  "https://images.blocketcdn.se/dynamic/default/item/26515324/059af20a-52d8-4e39-8ae7-523f3e197ab7",
+  "https://images.blocketcdn.se/dynamic/default/item/26515324/eef19e7e-7e79-46e6-bde1-59dedff10205",
+  "https://images.blocketcdn.se/dynamic/default/item/26515324/c6802d0b-5d99-4cdc-b34a-ca22bab5d77e",
+  "https://images.blocketcdn.se/dynamic/default/item/26515324/794d4705-4cdf-4868-987c-33ebaf2a2e9a",
+  "https://images.blocketcdn.se/dynamic/default/item/26515324/3287316a-509e-40c1-bd08-f6f035120788",
+  "https://images.blocketcdn.se/dynamic/default/item/26515324/9fce102a-1ac1-467a-a599-2e538186afe8",
+  "https://images.blocketcdn.se/dynamic/default/item/26515324/b7ce85c0-5eb5-4997-8cca-36468b6e0aff",
+  "https://images.blocketcdn.se/dynamic/default/item/26515324/175170cf-8ed3-4c2a-b99c-f853da7ec88a",
+  "https://images.blocketcdn.se/dynamic/default/item/26515324/7b287443-4717-4f96-b034-fab45cc7747b",
+  "https://images.blocketcdn.se/dynamic/default/item/26515324/fecf8898-e64d-4a62-a714-7d28bb9e82c6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.1,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +84,13 @@
   "text_sha": "e49bd28823696f87"
  },
  "location": "Varberg",
- "lon": 12.23336,
+ "lon": 12.23,
  "make": "Johnson",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 355,
   "fetched_ts": 1790508753015,
@@ -97,7 +115,7 @@
   "Märke": "Johnson",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26515324",
  "width_cm": 0,
  "year": 1969

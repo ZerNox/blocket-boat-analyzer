@@ -7,6 +7,8 @@
   "boat_year": 2018,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -40,8 +42,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 442SC",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25801190/17127fed-aab1-48e7-ad85-3c103a243dcb",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.89938,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25801190/17127fed-aab1-48e7-ad85-3c103a243dcb",
+  "https://images.blocketcdn.se/dynamic/default/item/25801190/48269d0d-80ee-4e3d-8d96-c3cb3ff940e8",
+  "https://images.blocketcdn.se/dynamic/default/item/25801190/d5a91194-4d2a-4d85-ad16-6aec5de9498a",
+  "https://images.blocketcdn.se/dynamic/default/item/25801190/d1d8b704-3f47-4fb7-805c-70f6f9d0683d",
+  "https://images.blocketcdn.se/dynamic/default/item/25801190/c7b66eb7-1e5d-45e0-97aa-38b0fa544b53"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.9,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +80,13 @@
   "text_sha": "5dc286db15dcbd4f"
  },
  "location": "Hova",
- "lon": 14.19338,
+ "lon": 14.19,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 517,
   "fetched_ts": 1790508203802,
@@ -105,7 +115,7 @@
   "Sittplatser": "5",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25801190",
  "width_cm": 188,
  "year": 2018

@@ -7,6 +7,8 @@
   "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": 28,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha F30",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -46,8 +48,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster Scc-16 med Yamaha F30 28tim",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22267311/57cc3d40-0118-43ea-9e46-d180b9482567",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.13683,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22267311/57cc3d40-0118-43ea-9e46-d180b9482567",
+  "https://images.blocketcdn.se/dynamic/default/item/22267311/151acf59-0338-422a-8e1d-4959f1ec5db1",
+  "https://images.blocketcdn.se/dynamic/default/item/22267311/6e017889-eeff-4a13-b483-12d6f785e590",
+  "https://images.blocketcdn.se/dynamic/default/item/22267311/60c2bc52-d1fa-429c-85e9-fa2ad61d3996",
+  "https://images.blocketcdn.se/dynamic/default/item/22267311/eef4894c-8523-47b8-b741-b05f91e8ece1",
+  "https://images.blocketcdn.se/dynamic/default/item/22267311/f2e1630f-d3a5-423d-8403-98b9de748874",
+  "https://images.blocketcdn.se/dynamic/default/item/22267311/39e51fe9-d48e-41d4-93aa-fd25f98e8b25",
+  "https://images.blocketcdn.se/dynamic/default/item/22267311/a5cf2fe4-9cab-4298-a827-0602780d0579"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.14,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -77,12 +89,13 @@
   "text_sha": "40445a333cbe4f95"
  },
  "location": "Kristinehamn",
- "lon": 13.88824,
+ "lon": 13.89,
  "make": "Buster",
  "max_speed": 24,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 454,
   "fetched_ts": 1790507443014,
@@ -113,7 +126,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "275 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/22267311",
  "width_cm": 182,
  "year": 2016

@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson Seahorse",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent Hanö 390",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26725881/8fde6a22-c508-445b-b2fd-bc932f8ee89c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.91246,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26725881/8fde6a22-c508-445b-b2fd-bc932f8ee89c",
+  "https://images.blocketcdn.se/dynamic/default/item/26725881/3004776b-0a0c-4664-b074-5341353cba16"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.91,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +72,13 @@
   "text_sha": "b3a3ab53119753bf"
  },
  "location": "Alvesta",
- "lon": 14.55705,
+ "lon": 14.56,
  "make": "Crescent",
  "max_speed": 10,
  "motor_fuel": "Bensin",
  "motor_size": 6.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 586,
   "fetched_ts": 1790508893676,
@@ -100,7 +107,7 @@
   "Typ": "Annat",
   "Vikt": "100 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26725881",
  "width_cm": 150,
  "year": 1995

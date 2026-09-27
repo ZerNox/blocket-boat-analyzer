@@ -1,0 +1,106 @@
+{
+ "ad_id": 25526967,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786205271000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": 289,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "-Raymarine Element 7S GPS/Ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "-Akterkapell (okej skick)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Båten är utrustad med en modern och ljusstark Raymarine Element 7Splotter/navigator som gör navigeringen enkel och säke…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Dessutom ingår en smidig, obromsad trailer (30-vagn) vilket gör upptagning och vinterförvaring till en lek.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Bella 561 HT – 2005 | Yamaha 80hk (4-takt, 289 tim)",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Bella 561"
+ ],
+ "heading": "Bella 561 HT – 2005 | Yamaha 80hk (4-takt, 289 tim)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25526967/32f50ed9-2a3c-4999-a161-d202d210f9d7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25526967/32f50ed9-2a3c-4999-a161-d202d210f9d7",
+  "https://images.blocketcdn.se/dynamic/default/item/25526967/78799dc8-c6c8-4fc8-9bf7-e08c758e60b9",
+  "https://images.blocketcdn.se/dynamic/default/item/25526967/f66fa04c-801e-4bd6-9752-e773bdc7d72a"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.36,
+ "length_ft": 17,
+ "location": "Solna",
+ "lon": 18.03,
+ "make": "Bella",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1370,
+  "fetched_ts": 1790523015284,
+  "text_sha": "605a59ff17049aa0"
+ },
+ "price": 129000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 129000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "561 HT",
+  "Modellår": "2005",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "570 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25526967",
+ "width_cm": 0,
+ "year": 2005
+}

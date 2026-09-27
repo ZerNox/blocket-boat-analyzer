@@ -7,6 +7,8 @@
   "boat_year": 2002,
   "boat_year_source": "spec",
   "engine_hours": 14,
+  "engine_hp": null,
+  "engine_hp_source": null,
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -27,16 +29,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Master 500 Mercury 40 2024 14 timmar",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26816360/d2c82ee6-f6dc-4af2-8945-5e350bf36009",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.87145,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26816360/d2c82ee6-f6dc-4af2-8945-5e350bf36009",
+  "https://images.blocketcdn.se/dynamic/default/item/26816360/ea198842-bf92-411b-ab08-86eefca43073",
+  "https://images.blocketcdn.se/dynamic/default/item/26816360/4799daa6-69b4-44e5-872e-fa01102dcef4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.87,
  "length_ft": 17,
  "location": "Järlåsa",
- "lon": 17.16928,
+ "lon": 17.17,
  "make": "Master",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 198,
   "fetched_ts": 1790508953453,
@@ -63,7 +71,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26816360",
  "width_cm": 0,
  "year": 2002

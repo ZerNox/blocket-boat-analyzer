@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -43,8 +45,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ultra Marin Fiskebåt med 80-släp",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26330235/48ad2208-5354-41b9-b1a4-3a5cc3f7ae51",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.31759,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26330235/48ad2208-5354-41b9-b1a4-3a5cc3f7ae51",
+  "https://images.blocketcdn.se/dynamic/default/item/26330235/b06db448-8439-4073-8d88-0f75a8c7d4f4",
+  "https://images.blocketcdn.se/dynamic/default/item/26330235/4324ae28-1460-48a1-b04f-774e93cedf12",
+  "https://images.blocketcdn.se/dynamic/default/item/26330235/5f2c0ae9-bd28-49c5-b891-d94c91772dc8",
+  "https://images.blocketcdn.se/dynamic/default/item/26330235/846b5c46-4371-4051-a48e-f6d3451bc92d",
+  "https://images.blocketcdn.se/dynamic/default/item/26330235/c1617dd3-3ccc-49ea-9a86-95dfeda3f6c7",
+  "https://images.blocketcdn.se/dynamic/default/item/26330235/4bacc2f8-fd31-4041-8292-9f9aa9560569",
+  "https://images.blocketcdn.se/dynamic/default/item/26330235/88452050-acb3-4d10-8803-8f81b6e0274d",
+  "https://images.blocketcdn.se/dynamic/default/item/26330235/e43acaf9-17a7-42d5-87a0-01e90232744a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +87,13 @@
   "text_sha": "2d89620e2801a893"
  },
  "location": "Skoghall",
- "lon": 13.49723,
+ "lon": 13.5,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 181,
   "fetched_ts": 1790508604238,
@@ -106,7 +120,7 @@
   "Märke": "Övriga",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26330235",
  "width_cm": 200,
  "year": 1995

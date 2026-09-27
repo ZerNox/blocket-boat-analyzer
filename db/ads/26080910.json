@@ -7,6 +7,8 @@
   "boat_year": 1973,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -24,6 +26,10 @@
     "kmh": 80
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -33,10 +39,20 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26080910/3b224f09-8df0-4580-8d76-eaaa4ba16b6d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.66071,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26080910/3b224f09-8df0-4580-8d76-eaaa4ba16b6d",
+  "https://images.blocketcdn.se/dynamic/default/item/26080910/1683b88f-a255-4863-9f77-82bfa7094fd7",
+  "https://images.blocketcdn.se/dynamic/default/item/26080910/ab2936ea-19b6-46d9-91a6-fe31916dbf33",
+  "https://images.blocketcdn.se/dynamic/default/item/26080910/5d7e08b3-8c6f-4f6e-a66c-0609a7eb5401",
+  "https://images.blocketcdn.se/dynamic/default/item/26080910/146ff315-0d6e-436d-8344-1ca360085a42"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.66,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -66,7 +82,7 @@
   "text_sha": "a30fa3b852b106ab"
  },
  "location": "Nässjö",
- "lon": 14.69045,
+ "lon": 14.69,
  "make": "Ryds",
  "max_speed": 24,
  "motor_fuel": "Bensin",

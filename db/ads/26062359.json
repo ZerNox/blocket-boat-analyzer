@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Motorbåt 4hk Yamaha",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26062359/dcd0081e-b8a8-4c6b-aae9-459f3abd4aab",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.63408,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26062359/dcd0081e-b8a8-4c6b-aae9-459f3abd4aab",
+  "https://images.blocketcdn.se/dynamic/default/item/26062359/b4a8b5c4-1ebb-4b3d-ab06-c562171f9382",
+  "https://images.blocketcdn.se/dynamic/default/item/26062359/2702dbe8-e62f-49ac-a35d-0fca0c720044",
+  "https://images.blocketcdn.se/dynamic/default/item/26062359/b9dc6e3e-464f-4dd9-94e5-671d138b46e6",
+  "https://images.blocketcdn.se/dynamic/default/item/26062359/ca0f5088-ee2a-4da5-8bc2-50d477db65d7",
+  "https://images.blocketcdn.se/dynamic/default/item/26062359/293b4a8b-de00-4d60-952b-88795d72dfe0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.63,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +75,13 @@
   "text_sha": "6c6091009c5be609"
  },
  "location": "Visby",
- "lon": 18.2986,
+ "lon": 18.3,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 63,
   "fetched_ts": 1790508424869,
@@ -96,7 +107,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26062359",
  "width_cm": 155,
  "year": 2000

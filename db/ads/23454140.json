@@ -1,0 +1,81 @@
+{
+ "ad_id": 23454140,
+ "boat_class": "Annat",
+ "changed_ts": 1785484969000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "30trailer 1000kg fogelstad kan köpas till för 6000kr.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Hansvik 18 obs ingen motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23454140/e1c10f11-5d40-4c74-96c8-a5012c402c95",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23454140/e1c10f11-5d40-4c74-96c8-a5012c402c95",
+  "https://images.blocketcdn.se/dynamic/default/item/23454140/0e9fbd24-c5d8-454e-be61-44abf28a8936",
+  "https://images.blocketcdn.se/dynamic/default/item/23454140/8eb6972a-35a2-47de-bb94-118f8a51fc97",
+  "https://images.blocketcdn.se/dynamic/default/item/23454140/c2cf2221-dfd4-4150-91a5-ffa6717b7696",
+  "https://images.blocketcdn.se/dynamic/default/item/23454140/a6147eb0-bcc4-4a0c-95f6-caaf421dba99"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.36,
+ "length_ft": 18,
+ "location": "Idkerberget",
+ "lon": 15.22,
+ "make": "Hansvik",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 212,
+  "fetched_ts": 1790520603740,
+  "text_sha": "77bb020f02c0ec74"
+ },
+ "price": 7000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "18 fisher",
+  "Modellår": "1995",
+  "Motor inkluderad": "Nej",
+  "Märke": "Hansvik",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23454140",
+ "width_cm": 210,
+ "year": 1995
+}

@@ -7,6 +7,8 @@
   "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": 170,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -39,8 +41,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent Arrow 518",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26408198/1300a974-070d-4d3c-9871-b243bc138f6f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.49237,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26408198/1300a974-070d-4d3c-9871-b243bc138f6f",
+  "https://images.blocketcdn.se/dynamic/default/item/26408198/4a13d610-9ab9-4750-ad62-a6ecaa00b6b9",
+  "https://images.blocketcdn.se/dynamic/default/item/26408198/e4991d7e-7f3f-4e11-a31c-cea3f7e6cc33",
+  "https://images.blocketcdn.se/dynamic/default/item/26408198/676ead45-7994-431f-b66b-37d4cb19a82f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.49,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +79,13 @@
   "text_sha": "e2096baa70061ff1"
  },
  "location": "Vellinge",
- "lon": 13.01171,
+ "lon": 13.01,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 118,
   "fetched_ts": 1790508669014,
@@ -100,7 +109,7 @@
   "Märke": "Crescent",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26408198",
  "width_cm": 0,
  "year": 2016

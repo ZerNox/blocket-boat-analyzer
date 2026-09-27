@@ -1,0 +1,112 @@
+{
+ "ad_id": 25481063,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786096997000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 5.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Greenworks 55",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Gummibåt och elmotor",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Gummibåt och elmotor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25481063/971e0a5e-df7b-436a-becf-d8dfb8887e12",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25481063/971e0a5e-df7b-436a-becf-d8dfb8887e12",
+  "https://images.blocketcdn.se/dynamic/default/item/25481063/274b59a4-ff16-409b-9eea-96f69ca10d38",
+  "https://images.blocketcdn.se/dynamic/default/item/25481063/6b0be4ad-5eb8-4a7f-b32d-f5e948ee2f40",
+  "https://images.blocketcdn.se/dynamic/default/item/25481063/9142aa4e-394e-45f2-b19e-dcc8e4b82bea",
+  "https://images.blocketcdn.se/dynamic/default/item/25481063/ff383064-c069-46a3-be2b-462e69f0f02f",
+  "https://images.blocketcdn.se/dynamic/default/item/25481063/70a09ae0-c5ce-4fff-a30a-427bef48c751",
+  "https://images.blocketcdn.se/dynamic/default/item/25481063/fa377e7a-9e47-4e56-9854-c64342972d36"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.22,
+ "length_ft": 230,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 5,
+   "engine_maker": "Greenworks",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Greenworks Glider 55 elektrisk utombordsmotor med 12V system.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "da0831b00757103f"
+ },
+ "location": "Skogås",
+ "lon": 18.15,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 584,
+  "fetched_ts": 1790520711869,
+  "text_sha": "da0831b00757103f"
+ },
+ "price": 3000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 3000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "230 fot",
+  "Modellår": "2000",
+  "Motortillverkare": "Greenworks 55",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25481063",
+ "width_cm": 0,
+ "year": 2000
+}

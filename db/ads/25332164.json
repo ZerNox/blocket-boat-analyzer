@@ -1,0 +1,137 @@
+{
+ "ad_id": 25332164,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785680505000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo Penta Md 11",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Den perfekta familjebåten, för semester, bad och fiske och härliga havsturer och segling, med rymlig ruff med 2 fulläng…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "GPS Raymarine C80 8 tum",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtkärra",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Winga 25 motorseglare Göteborg",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25332164/191eb425-aa79-4678-be73-0b52bfc2cb56",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25332164/191eb425-aa79-4678-be73-0b52bfc2cb56",
+  "https://images.blocketcdn.se/dynamic/default/item/25332164/237a4d09-cae3-4f3b-bcb9-c5a0a93f2455",
+  "https://images.blocketcdn.se/dynamic/default/item/25332164/322709c1-4452-4884-80d8-ad83a1e41566",
+  "https://images.blocketcdn.se/dynamic/default/item/25332164/83d01b99-6963-4d50-bec9-d346b49cf503",
+  "https://images.blocketcdn.se/dynamic/default/item/25332164/4cb342a8-70df-4bcd-a6d8-58adb71a3b42",
+  "https://images.blocketcdn.se/dynamic/default/item/25332164/526c9c33-461a-4349-82f5-d35f21a03b84",
+  "https://images.blocketcdn.se/dynamic/default/item/25332164/d33e6609-1f31-4bd8-b728-b0e5da8eae9c",
+  "https://images.blocketcdn.se/dynamic/default/item/25332164/d0f8f56a-b120-4dbf-9572-4d48dcad06c4",
+  "https://images.blocketcdn.se/dynamic/default/item/25332164/fa65948b-c726-4db7-8ea4-63ac1141e9a3",
+  "https://images.blocketcdn.se/dynamic/default/item/25332164/d08341df-22f2-4547-a505-02f70a873387",
+  "https://images.blocketcdn.se/dynamic/default/item/25332164/8f9c1a5d-c657-448e-8de6-0c3286b4b8d6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.74,
+ "length_ft": 25,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b7bb145b9fc8317f"
+ },
+ "location": "Torslanda",
+ "lon": 11.94,
+ "make": "Winga",
+ "max_speed": 8,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1124,
+  "fetched_ts": 1790520681158,
+  "text_sha": "b7bb145b9fc8317f"
+ },
+ "price": 43000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 43000
+  }
+ ],
+ "specs": {
+  "Bredd": "280 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "90 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit/beige",
+  "Längd i fot": "25 fot",
+  "Modell": "Winga 25 motorseglare",
+  "Modellår": "1980",
+  "Motortillverkare": "Volvo Penta Md 11",
+  "Motortyp": "Inombordare",
+  "Märke": "Winga",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "4",
+  "Toppfart": "8 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "2 500 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25332164",
+ "width_cm": 280,
+ "year": 1980
+}

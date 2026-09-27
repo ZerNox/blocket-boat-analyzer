@@ -7,6 +7,8 @@
   "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 442 SC 50 hk Evinrude",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26006535/dda1bf5f-4f9a-4dfb-b5b2-aa5fd1d846ec",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.22758,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26006535/dda1bf5f-4f9a-4dfb-b5b2-aa5fd1d846ec",
+  "https://images.blocketcdn.se/dynamic/default/item/26006535/8f0a89f2-8c6a-4858-b48e-0aefdd0f78b1",
+  "https://images.blocketcdn.se/dynamic/default/item/26006535/7b30753c-d07b-49f2-89f7-1e6027f96852"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.23,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "b7e0476aaf9dfc6c"
  },
  "location": "Östhammar",
- "lon": 18.54999,
+ "lon": 18.55,
  "make": "HR",
  "max_speed": 27,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 672,
   "fetched_ts": 1790508374431,
@@ -103,7 +111,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "310 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26006535",
  "width_cm": 190,
  "year": 2016

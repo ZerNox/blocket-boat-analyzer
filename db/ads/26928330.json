@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,15 @@
  "first_seen": "2026-09-27T11:37:28+00:00",
  "heading": "Fin styrpulpet båt, med utrustning",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26928330/7ac84312-9ded-446e-9fa7-83fb8018eaaf",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.50007,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26928330/7ac84312-9ded-446e-9fa7-83fb8018eaaf",
+  "https://images.blocketcdn.se/dynamic/default/item/26928330/3313859c-4a16-4033-8633-a611f34deac5",
+  "https://images.blocketcdn.se/dynamic/default/item/26928330/a5c2bfdd-1bea-43ef-971f-33b870fcc3c4",
+  "https://images.blocketcdn.se/dynamic/default/item/26928330/bb5187e9-5d5f-4a8d-b2df-b3f3c645b543",
+  "https://images.blocketcdn.se/dynamic/default/item/26928330/0d2e56d6-89ad-4f40-af82-672d142a65c8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.5,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +75,13 @@
   "text_sha": "a7f352b9c5ad9dc7"
  },
  "location": "Lidköping",
- "lon": 13.17328,
+ "lon": 13.17,
  "make": "Övriga",
  "max_speed": 22,
  "motor_fuel": null,
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 297,
   "fetched_ts": 1790509082441,
@@ -98,7 +108,7 @@
   "Toppfart": "22 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26928330",
  "width_cm": 170,
  "year": 1990

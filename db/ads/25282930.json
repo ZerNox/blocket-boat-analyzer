@@ -1,0 +1,104 @@
+{
+ "ad_id": 25282930,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786845511000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Lohi styrpulpet",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25282930/7a6d298f-b8b6-4290-8cf8-78435b2aa8be",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25282930/7a6d298f-b8b6-4290-8cf8-78435b2aa8be",
+  "https://images.blocketcdn.se/dynamic/default/item/25282930/e504785b-17a9-4b27-a892-21e5900ebce4",
+  "https://images.blocketcdn.se/dynamic/default/item/25282930/843af2f5-1e26-4256-8eed-7424048bfbf0",
+  "https://images.blocketcdn.se/dynamic/default/item/25282930/4d440ec7-e0bd-4c45-bd01-c8eca5a0ad57"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.54,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0be75f85b7bc8bc7"
+ },
+ "location": "Älmhult",
+ "lon": 14.2,
+ "make": "Absolute",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790520670265,
+  "text_sha": "0be75f85b7bc8bc7"
+ },
+ "price": 18000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 18000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modellår": "1990",
+  "Märke": "Absolute",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "500 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25282930",
+ "width_cm": 180,
+ "year": 1990
+}

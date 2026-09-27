@@ -1,0 +1,130 @@
+{
+ "ad_id": 22209311,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1788690546000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury OptiMax",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2010,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båten kan ta väldigt grov sjö bra och är ändå tillräckligt enkel att ta upp och ned på trailer.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "fiska från.\nBåten har en ruff med sovplats för 2 vuxna. Tillräckligt höjd för att kunna stå lite böjd och",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Quicksilver 540 active cabin cruiser",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22209311/0988fc89-26e6-4e76-b426-a7d3789c6cf3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22209311/0988fc89-26e6-4e76-b426-a7d3789c6cf3",
+  "https://images.blocketcdn.se/dynamic/default/item/22209311/b0c3af1e-370f-47f3-aa5a-0cd98a4157a2",
+  "https://images.blocketcdn.se/dynamic/default/item/22209311/5d53b6cf-9010-492c-a5f0-8dc8d9728a1a",
+  "https://images.blocketcdn.se/dynamic/default/item/22209311/b1f8b616-2c5f-4cca-9d2e-5aa02d65464a",
+  "https://images.blocketcdn.se/dynamic/default/item/22209311/ff36d2c3-6064-44d4-831f-01cbf50f4cc4",
+  "https://images.blocketcdn.se/dynamic/default/item/22209311/aa89f0cd-5c4a-45a9-864e-1d7019101b0c",
+  "https://images.blocketcdn.se/dynamic/default/item/22209311/d10218bf-b8df-4c10-83c6-ac6ac01ed06b",
+  "https://images.blocketcdn.se/dynamic/default/item/22209311/73adc71b-c826-4a36-9f9d-0103fc4a71fc",
+  "https://images.blocketcdn.se/dynamic/default/item/22209311/9bcc1eec-c22b-487d-9596-4c82ffff31aa"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.95,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2010,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury OptiMax",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f3a134004be6f069"
+ },
+ "location": "Katrineholm",
+ "lon": 16.32,
+ "make": "Quicksilver",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 509,
+  "fetched_ts": 1790522866847,
+  "text_sha": "f3a134004be6f069"
+ },
+ "price": 159000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 159000
+  }
+ ],
+ "specs": {
+  "Bredd": "247 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "42 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "540 active cabin cruiser",
+  "Modellår": "2010",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury OptiMax",
+  "Motortyp": "Utombordare",
+  "Märke": "Quicksilver",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "35 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "820 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22209311",
+ "width_cm": 247,
+ "year": 2010
+}

@@ -7,6 +7,8 @@
   "boat_year": 1992,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -32,6 +34,10 @@
     "kmh": 30
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 535ht",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -41,10 +47,21 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 535"
+ ],
  "heading": "Flipper 535ht",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26761236/810942e4-c30d-4fe0-800a-c97dd2c75e88",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.51018,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26761236/810942e4-c30d-4fe0-800a-c97dd2c75e88",
+  "https://images.blocketcdn.se/dynamic/default/item/26761236/332bc28b-ca18-455f-8cc0-c5c4e32ff821",
+  "https://images.blocketcdn.se/dynamic/default/item/26761236/6be7ba18-b229-4ab3-a320-a47b9a20c83e",
+  "https://images.blocketcdn.se/dynamic/default/item/26761236/28193191-e32f-4049-9830-710bec4c3eb3",
+  "https://images.blocketcdn.se/dynamic/default/item/26761236/f9558671-88c5-4b2d-b9f5-8e0cb972c3ee"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.51,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -74,7 +91,7 @@
   "text_sha": "f571f673027ee407"
  },
  "location": "Vallentuna",
- "lon": 18.05358,
+ "lon": 18.05,
  "make": "Flipper",
  "max_speed": 28,
  "motor_fuel": "Bensin",

@@ -7,6 +7,8 @@
   "boat_year": 1989,
   "boat_year_source": "spec",
   "engine_hours": 150,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster RS med Mercury 50hk motor och trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26554488/6636a5f9-c496-4d5d-92cb-bdbc1da0d698",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.47969,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26554488/6636a5f9-c496-4d5d-92cb-bdbc1da0d698",
+  "https://images.blocketcdn.se/dynamic/default/item/26554488/075b8d15-f252-4599-ac7f-87ee6dec5416",
+  "https://images.blocketcdn.se/dynamic/default/item/26554488/02108371-cee6-4d73-91a6-48b046b863c2",
+  "https://images.blocketcdn.se/dynamic/default/item/26554488/9a4330f7-f8f7-4336-83ab-431b41a0fda3",
+  "https://images.blocketcdn.se/dynamic/default/item/26554488/eca1051f-5185-4bd0-89f3-ebbe3358aae2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.48,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +78,13 @@
   "text_sha": "7014284e6c9c34fd"
  },
  "location": "Sollentuna",
- "lon": 17.90528,
+ "lon": 17.91,
  "make": "Buster",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 197,
   "fetched_ts": 1790508783445,
@@ -106,7 +116,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "230 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26554488",
  "width_cm": 172,
  "year": 1989

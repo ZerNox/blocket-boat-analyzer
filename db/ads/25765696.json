@@ -7,6 +7,8 @@
   "boat_year": 2003,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -47,8 +49,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern R43",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25765696/6b4f1b53-0bf8-44b2-b889-ef9781af315c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 67.14616,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25765696/6b4f1b53-0bf8-44b2-b889-ef9781af315c",
+  "https://images.blocketcdn.se/dynamic/default/item/25765696/ba3924fe-64b3-456d-87b6-dbae075bff39",
+  "https://images.blocketcdn.se/dynamic/default/item/25765696/6f9ff858-8e59-4318-94f7-d9ec0bd79bd4",
+  "https://images.blocketcdn.se/dynamic/default/item/25765696/7d63a5ac-ef8a-41b2-ac86-495988cace8c",
+  "https://images.blocketcdn.se/dynamic/default/item/25765696/1423e1ad-538d-4e1b-977a-0d458870af83"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 67.15,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -79,12 +88,13 @@
   "text_sha": "edf71fcc963fa7e6"
  },
  "location": "Gällivare",
- "lon": 20.61944,
+ "lon": 20.62,
  "make": "Uttern",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 619,
   "fetched_ts": 1790508170346,
@@ -113,7 +123,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "275 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25765696",
  "width_cm": 180,
  "year": 2003

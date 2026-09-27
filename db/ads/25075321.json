@@ -1,0 +1,126 @@
+{
+ "ad_id": 25075321,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1790103286000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 150.0,
+  "engine_hp_evidence": "Foto 0: YAMAHA 150",
+  "engine_hp_source": "bild",
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Önskas köpa",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25075321/62b3fe9c-642d-4bdf-bcb9-d9e39de9a2e8",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25075321/62b3fe9c-642d-4bdf-bcb9-d9e39de9a2e8"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.16,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2026,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Yamarin",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7079c1eb52202bad"
+ },
+ "location": "Ludvika",
+ "lon": 15.2,
+ "make": "Yamarin",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790520654815,
+  "text_sha": "7079c1eb52202bad"
+ },
+ "price": 12000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modell": "5940 - 59c",
+  "Modellår": "2026",
+  "Motor inkluderad": "Ja",
+  "Märke": "Yamarin",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25075321",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "2e49f385696d774c",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "brand": "YAMAHA",
+   "engine_photos": [
+    0
+   ],
+   "four_stroke": true,
+   "hp": 150.0,
+   "photo": 0,
+   "text_seen": "YAMAHA 150"
+  },
+  "tasks": [
+   "hp"
+  ]
+ },
+ "width_cm": 0,
+ "year": 2026
+}

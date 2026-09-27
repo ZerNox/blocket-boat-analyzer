@@ -38,10 +38,13 @@ def _merge(rule: dict, llm_res: dict | None) -> dict:
     return out
 
 
-def _apply_vision(ext: dict, res: dict | None) -> dict:
+def _apply_vision(ext: dict, res: dict | None, boat_class: str | None = None) -> dict:
     """Photo reading only fills what the text left empty."""
-    if res and res.get("hull") in ("cabin", "open") and not ext.get("hull_certain"):
-        ext = {**ext, "hull": res["hull"], "hull_source": "bild", "hull_certain": True,
+    if res and res.get("hull") in ("cabin", "open") and (not ext.get("hull_certain") or ext.get("hull_source") == "bild"):
+        # A small cuddy under the foredeck is easy to miss in photos: if the seller filed it as a cabin
+        # type and the photos say open, keep it (marked uncertain) rather than risk dropping a match.
+        disagrees = res["hull"] == "open" and boat_class in rules.CABIN_CLASSES
+        ext = {**ext, "hull": res["hull"], "hull_source": "bild", "hull_certain": not disagrees,
                "hull_evidence": store.scrub(res.get("hull_evidence"), 120)}
     if not res or not res.get("hp") or (ext.get("engine_hp") and ext.get("engine_hp_source") != "bild"):
         return ext
@@ -97,7 +100,8 @@ def run(cfg: dict, use_llm: bool = True, llm_all: bool = False, limit: int | Non
         if (rule["needs_llm"] or llm_all) and cached_llm is None and sha:
             queue.append((ad, rule, text))
         cached_vision = (ad.get("vision") or {}).get("result")
-        ad["extraction"] = _public(_apply_vision(_merge(rule, (cached_llm or {}).get("result")), cached_vision))
+        ad["extraction"] = _public(_apply_vision(_merge(rule, (cached_llm or {}).get("result")), cached_vision,
+                                                 ad.get("boat_class")))
         store.patch_ad(ad["ad_id"], extraction=ad["extraction"])
         stats["extracted"] += 1
 
@@ -166,7 +170,7 @@ def run_vision(cfg: dict, stats: dict, limit: int | None = None, only: list[int]
                 continue
             tasks = sorted(set(prev.get("tasks") or []) | set(todo)) if prev.get("images_sha") == sha else todo
             rec = {"images_sha": sha, "model": model_name, "at": dt.date.today().isoformat(), "tasks": tasks, "result": res}
-            store.patch_ad(ad["ad_id"], vision=rec, extraction=_apply_vision(ad["extraction"], res))
+            store.patch_ad(ad["ad_id"], vision=rec, extraction=_apply_vision(ad["extraction"], res, ad.get("boat_class")))
             stats["vision_hp_found"] = stats.get("vision_hp_found", 0) + bool("hp" in todo and res.get("hp"))
             rate = (dt.datetime.now() - t0).total_seconds() / n
             print(f"  vision {n}/{len(queue)} ({rate:.0f}s/ad) {ad['ad_id']}: {todo} -> hp={res.get('hp')} hull={res.get('hull')}",

@@ -7,6 +7,8 @@
   "boat_year": 2003,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bella 510r med suzuki 50 hk 4takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26037333/051e8b2f-dec6-4b87-982c-fceb21e87e0f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.98052,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26037333/051e8b2f-dec6-4b87-982c-fceb21e87e0f",
+  "https://images.blocketcdn.se/dynamic/default/item/26037333/8a0fbe6d-b781-4c1b-9482-fe04ab9ac139",
+  "https://images.blocketcdn.se/dynamic/default/item/26037333/fc35434d-c347-4813-b772-fd377a64e955",
+  "https://images.blocketcdn.se/dynamic/default/item/26037333/5a5c412f-d4a8-4939-95cf-527e50ca6ef6",
+  "https://images.blocketcdn.se/dynamic/default/item/26037333/d12ff37a-0254-4e51-b1cf-a82e0d9f41b6",
+  "https://images.blocketcdn.se/dynamic/default/item/26037333/a9fb63cb-f869-4392-8021-3cb313cdb7f3",
+  "https://images.blocketcdn.se/dynamic/default/item/26037333/0b9af295-8642-46c0-b835-55da5aaf943e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.98,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +77,13 @@
   "text_sha": "5598fd67a21512ff"
  },
  "location": "Skärhamn",
- "lon": 11.53202,
+ "lon": 11.53,
  "make": "Bella",
  "max_speed": 22,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 465,
   "fetched_ts": 1790508406539,
@@ -98,7 +110,7 @@
   "Toppfart": "22 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26037333",
  "width_cm": 0,
  "year": 2003

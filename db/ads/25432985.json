@@ -1,0 +1,139 @@
+{
+ "ad_id": 25432985,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1786550834000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": 270,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Båten är utrustad med Garmin Echomap 70 s, hydraulstyrning samt trimplan",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Båten är utrustad med Garmin Echomap 70 s, hydraulstyrning samt trimplan",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Båten är utrustad med Garmin Echomap 70 s, hydraulstyrning samt trimplan",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "TG 5900",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25432985/729020c5-eb1d-46e7-a0e4-447553f8b237",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25432985/729020c5-eb1d-46e7-a0e4-447553f8b237",
+  "https://images.blocketcdn.se/dynamic/default/item/25432985/d1283437-2f7e-429b-be8e-af6ffd131abb",
+  "https://images.blocketcdn.se/dynamic/default/item/25432985/6524deb7-12e9-4376-b29a-90b36acc553e",
+  "https://images.blocketcdn.se/dynamic/default/item/25432985/a7ed2d1f-6862-4c7e-b544-7497d2f1d36b",
+  "https://images.blocketcdn.se/dynamic/default/item/25432985/d5200eee-69a4-4df8-a154-493fa11b5d0f",
+  "https://images.blocketcdn.se/dynamic/default/item/25432985/ab2e565b-b5db-46a3-82bd-da088777b1f6",
+  "https://images.blocketcdn.se/dynamic/default/item/25432985/3d7261cb-5b46-4c32-8a58-7daa52b566a9",
+  "https://images.blocketcdn.se/dynamic/default/item/25432985/84cbc57b-76e5-4c7d-803d-394717e5b289",
+  "https://images.blocketcdn.se/dynamic/default/item/25432985/bf53f644-4565-430a-a2e3-d851a9afb652"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.53,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": 270,
+   "engine_hp": 60,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorstorlek: 60 hk, Motortyp: Utombordare, Yamaha, Motor har gått 270 timmar.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e78365080a0608bf"
+ },
+ "location": "Ljusterö",
+ "lon": 18.7,
+ "make": "TG-Boat",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 203,
+  "fetched_ts": 1790522992478,
+  "text_sha": "e78365080a0608bf"
+ },
+ "price": 140000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 140000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "45 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "19 fot",
+  "Modell": "5900",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "TG-Boat",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "530 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25432985",
+ "width_cm": 210,
+ "year": 2006
+}

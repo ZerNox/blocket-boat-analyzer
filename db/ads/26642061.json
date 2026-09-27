@@ -1,0 +1,93 @@
+{
+ "ad_id": 26642061,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1789572051000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": 130,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Uttern 630 Honda 90 hk 2007 130 timmar..",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Uttern 630 Honda 90 hk 2007 130 timmar.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26642061/0c806979-7be7-4095-967d-b6d9dfba327d",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26642061/0c806979-7be7-4095-967d-b6d9dfba327d",
+  "https://images.blocketcdn.se/dynamic/default/item/26642061/dc6d192f-90bc-4605-b3b5-39d9f7f074c1",
+  "https://images.blocketcdn.se/dynamic/default/item/26642061/03dada10-6c89-4789-88f3-ad480de311a8",
+  "https://images.blocketcdn.se/dynamic/default/item/26642061/42a4feb6-f440-424b-81b3-e1bc646a6763",
+  "https://images.blocketcdn.se/dynamic/default/item/26642061/6db7b594-b9aa-49f7-b60f-322359b9caa2",
+  "https://images.blocketcdn.se/dynamic/default/item/26642061/5d5153fa-4ac3-41eb-96af-5ec65d0f90db",
+  "https://images.blocketcdn.se/dynamic/default/item/26642061/2b01bd99-2a6f-43a8-81f8-9b90af52b1cb",
+  "https://images.blocketcdn.se/dynamic/default/item/26642061/c15242cb-188d-4c35-a243-2b82e6c158ff",
+  "https://images.blocketcdn.se/dynamic/default/item/26642061/9dac1bc6-07db-4f9b-9102-550087a17724",
+  "https://images.blocketcdn.se/dynamic/default/item/26642061/9a79e9ca-0902-42fc-9434-29d04a762246",
+  "https://images.blocketcdn.se/dynamic/default/item/26642061/7e0833bf-f154-47f3-af30-b9f5106b1e9f",
+  "https://images.blocketcdn.se/dynamic/default/item/26642061/5f4d8abf-70b9-4fbc-8311-f13af202fa29"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 61.73,
+ "length_ft": 21,
+ "location": "Delsbo",
+ "lon": 16.59,
+ "make": "Uttern",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 172,
+  "fetched_ts": 1790523198689,
+  "text_sha": "6bcc4e1532ca5e72"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "21 fot",
+  "Modell": "630",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Toppfart": "28 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26642061",
+ "width_cm": 0,
+ "year": 1980
+}

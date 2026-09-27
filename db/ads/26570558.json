@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -38,8 +40,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Klassisk kvalitetsbåt Jofa Winth 485",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26570558/2ef489c6-09cf-4ff7-a41c-473fc580d38c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.30667,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26570558/2ef489c6-09cf-4ff7-a41c-473fc580d38c",
+  "https://images.blocketcdn.se/dynamic/default/item/26570558/ed3bf788-b48a-4b37-936d-f3888713f6ae",
+  "https://images.blocketcdn.se/dynamic/default/item/26570558/8284598c-d0b7-4718-b98c-ee5b26e22803",
+  "https://images.blocketcdn.se/dynamic/default/item/26570558/496237fd-e133-4df0-93aa-90a2ccc17305",
+  "https://images.blocketcdn.se/dynamic/default/item/26570558/e0c166bd-cbad-421d-b921-96d237613c63"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.31,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +78,13 @@
   "text_sha": "207d0b925e73cc3f"
  },
  "location": "Saltsjöbaden",
- "lon": 18.18215,
+ "lon": 18.18,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 444,
   "fetched_ts": 1790508793228,
@@ -100,7 +110,7 @@
   "Märke": "Övriga",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26570558",
  "width_cm": 0,
  "year": 1980

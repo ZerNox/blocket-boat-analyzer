@@ -1,0 +1,122 @@
+{
+ "ad_id": 23522840,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1787314643000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2024,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds Natica -78 nr 2021 Mercury 90hk 2003 autolube , -22 nytt kapell (gamla följer med), -24 Ny prop 4-bladig bättre grepp/ekonomi (gamla 3-bladig finns), -24 Baystar hydraulstyrn…",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "-25 solpanel monokristallin med Victron MPPT regulator, -25 Ny kemtoa (oanvänd) 5kg Bruceankare 30m blyad lina, hyfsad …",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Ryds Natica -78 nr 2021 Mercury 90hk 2003 autolube , -22 nytt kapell (gamla följer med), -24 Ny prop 4-bladig bättre gr…",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Ryds Natica -78 nr 2021 Mercury 90hk 2003 autolube , -22 nytt kapell (gamla följer med), -24 Ny prop 4-bladig bättre gr…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "-25 solpanel monokristallin med Victron MPPT regulator, -25 Ny kemtoa (oanvänd) 5kg Bruceankare 30m blyad lina, hyfsad …",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "-25 solpanel monokristallin med Victron MPPT regulator, -25 Ny kemtoa (oanvänd) 5kg Bruceankare 30m blyad lina, hyfsad …",
+    "included": true,
+    "kmh": 30
+   },
+   "vinterkapell": {
+    "evidence": "-25 solpanel monokristallin med Victron MPPT regulator, -25 Ny kemtoa (oanvänd) 5kg Bruceankare 30m blyad lina, hyfsad …",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "t att bädda upp över hela kabinen.",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds Natica",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23522840/05d3f2b3-b10d-4301-9b91-81512baf94c6",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23522840/05d3f2b3-b10d-4301-9b91-81512baf94c6",
+  "https://images.blocketcdn.se/dynamic/default/item/23522840/20672592-f622-4a82-8251-a58779cb8cee",
+  "https://images.blocketcdn.se/dynamic/default/item/23522840/1bb487d8-8393-4cc6-9678-411becf9c6f5",
+  "https://images.blocketcdn.se/dynamic/default/item/23522840/0e55a7a7-9934-480d-8e17-973320b5cb06",
+  "https://images.blocketcdn.se/dynamic/default/item/23522840/6b73f83b-567b-4589-993b-a893bf643936",
+  "https://images.blocketcdn.se/dynamic/default/item/23522840/2643cfbf-557f-4b52-93e3-9e486baf1600",
+  "https://images.blocketcdn.se/dynamic/default/item/23522840/2614086f-8604-4e10-a87e-bc5bbc5ddcde",
+  "https://images.blocketcdn.se/dynamic/default/item/23522840/98b539ce-85e7-4572-89d6-9ea91a6c3904",
+  "https://images.blocketcdn.se/dynamic/default/item/23522840/fde1d80c-ff19-4d83-bbb3-f24958e99015",
+  "https://images.blocketcdn.se/dynamic/default/item/23522840/ec3a6885-6fb1-4653-a684-572566df9383",
+  "https://images.blocketcdn.se/dynamic/default/item/23522840/29709377-65e3-43be-a69f-70143574d0b2",
+  "https://images.blocketcdn.se/dynamic/default/item/23522840/2cd20aa6-d64a-4e17-a123-dfef6a27ca51"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.12,
+ "length_ft": 21,
+ "location": "Hasslö",
+ "lon": 15.48,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 630,
+  "fetched_ts": 1790522900654,
+  "text_sha": "eb1410971a91563e"
+ },
+ "price": 50000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 50000
+  }
+ ],
+ "specs": {
+  "Bredd": "250 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "Ryds Natica",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Plast",
+  "Typ": "Kabinbåt",
+  "Vikt": "950 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23522840",
+ "width_cm": 250,
+ "year": 1978
+}

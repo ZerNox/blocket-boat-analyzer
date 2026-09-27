@@ -7,6 +7,8 @@
   "boat_year": 1991,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -41,8 +43,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 504",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26545567/16ef12fc-159d-46ba-96a6-e33461c49788",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.57574,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26545567/16ef12fc-159d-46ba-96a6-e33461c49788",
+  "https://images.blocketcdn.se/dynamic/default/item/26545567/193610c6-16f9-4c11-8b03-836318b76322",
+  "https://images.blocketcdn.se/dynamic/default/item/26545567/eed76880-c5b5-49ec-bc12-286e627c7e9e",
+  "https://images.blocketcdn.se/dynamic/default/item/26545567/5ddf79ea-512f-42dc-b3e9-245a23188848",
+  "https://images.blocketcdn.se/dynamic/default/item/26545567/9e2ac499-3224-4243-b99a-fba230e77b14",
+  "https://images.blocketcdn.se/dynamic/default/item/26545567/966e318b-b76b-47c2-bea5-4be776e6b71a",
+  "https://images.blocketcdn.se/dynamic/default/item/26545567/3b2f460f-5601-4906-87c2-f601dd7c47f6",
+  "https://images.blocketcdn.se/dynamic/default/item/26545567/9f757ff9-be05-4e1c-8adc-6478e0a0b465",
+  "https://images.blocketcdn.se/dynamic/default/item/26545567/5944668c-4908-42d9-9b02-9bc569ae57a7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.58,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -72,12 +85,13 @@
   "text_sha": "0dfaed10eeeeb2fc"
  },
  "location": "Lindome",
- "lon": 12.09703,
+ "lon": 12.1,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 168,
   "fetched_ts": 1790508776440,
@@ -105,7 +119,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26545567",
  "width_cm": 0,
  "year": 1991

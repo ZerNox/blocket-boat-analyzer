@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 18,
+  "engine_hp_source": "llm",
   "engine_maker": "Watersnake",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Gummibåt inkl elmotor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25422489/c3f81a3e-55a0-464b-944e-3b533f8a4a6e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.98138,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25422489/c3f81a3e-55a0-464b-944e-3b533f8a4a6e",
+  "https://images.blocketcdn.se/dynamic/default/item/25422489/cf027c0a-cb23-442d-8032-fa0e6ec74686"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.98,
  "length_ft": 10,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +71,13 @@
   "text_sha": "5f1e3b2b4f1326cd"
  },
  "location": "Ösmo",
- "lon": 17.90646,
+ "lon": 17.91,
  "make": "Aquapro",
  "max_speed": null,
  "motor_fuel": "Elektrisk",
  "motor_size": 18.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 57,
   "fetched_ts": 1790507854717,
@@ -102,7 +109,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "10 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25422489",
  "width_cm": 130,
  "year": 2000

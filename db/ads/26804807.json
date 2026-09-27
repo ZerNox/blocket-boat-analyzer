@@ -7,6 +7,8 @@
   "boat_year": 2015,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude E-Tech 75 hk",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -39,8 +41,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Brig N520 Evinrude E-tech 75 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26804807/6a08592e-096c-49d4-bfce-cff124ae6d6e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.35634,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26804807/6a08592e-096c-49d4-bfce-cff124ae6d6e",
+  "https://images.blocketcdn.se/dynamic/default/item/26804807/f709b87a-4c54-4321-894f-cec5718e296d",
+  "https://images.blocketcdn.se/dynamic/default/item/26804807/14a2bf9b-c69a-4928-824f-66c80a8fa054"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.36,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +77,13 @@
   "text_sha": "1f5ec81449741b23"
  },
  "location": "Gnosjö",
- "lon": 13.73177,
+ "lon": 13.73,
  "make": "BRIG",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 262,
   "fetched_ts": 1790508949248,
@@ -105,7 +113,7 @@
   "Skrovmaterial": "Annat",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26804807",
  "width_cm": 230,
  "year": 2015

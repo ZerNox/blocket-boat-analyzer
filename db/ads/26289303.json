@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu 4-takt",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt Katamaran Tohatsu 4hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26289303/dd970448-95d6-41d9-868b-85982b8a8ae3",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 67.86514,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26289303/dd970448-95d6-41d9-868b-85982b8a8ae3",
+  "https://images.blocketcdn.se/dynamic/default/item/26289303/c168915a-0f78-42f3-8030-2df41dcd6aaf",
+  "https://images.blocketcdn.se/dynamic/default/item/26289303/7dc76ac3-9656-4270-b3da-75afe97d2d9a",
+  "https://images.blocketcdn.se/dynamic/default/item/26289303/1bda7b93-e80a-45e9-9245-0d21229d3197",
+  "https://images.blocketcdn.se/dynamic/default/item/26289303/7156e6ee-c421-40d0-ae85-1a199cfab903"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 67.87,
  "length_ft": 8,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "e86ac6e22fc26145"
  },
  "location": "Kiruna",
- "lon": 20.22568,
+ "lon": 20.23,
  "make": "Ockelbo",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 95,
   "fetched_ts": 1790508575210,
@@ -93,7 +103,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26289303",
  "width_cm": 160,
  "year": 1980

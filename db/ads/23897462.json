@@ -1,0 +1,110 @@
+{
+ "ad_id": 23897462,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786045167000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Står på en anpassad 30kärra.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Stor arbetsbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23897462/05a24ba9-2317-469e-8f87-9a85c1fb8dca",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23897462/05a24ba9-2317-469e-8f87-9a85c1fb8dca",
+  "https://images.blocketcdn.se/dynamic/default/item/23897462/b8803bc6-188d-4b81-a7d5-bffd4d2eb9dd",
+  "https://images.blocketcdn.se/dynamic/default/item/23897462/79f2f171-2b4f-4d87-a6c1-fdc070062ca5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.63,
+ "length_ft": 24,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "28b4ba1890d1b7a8"
+ },
+ "location": "Diö",
+ "lon": 14.2,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 209,
+  "fetched_ts": 1790520625156,
+  "text_sha": "28b4ba1890d1b7a8"
+ },
+ "price": 79000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 79000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Längd i fot": "24 fot",
+  "Modellår": "2000",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23897462",
+ "width_cm": 220,
+ "year": 2000
+}

@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -42,8 +44,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds camping",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25965111/b849f49a-24d6-409c-9647-285952f41414",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.50717,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25965111/b849f49a-24d6-409c-9647-285952f41414",
+  "https://images.blocketcdn.se/dynamic/default/item/25965111/84014063-4d27-4424-992c-902399f16795",
+  "https://images.blocketcdn.se/dynamic/default/item/25965111/9f688b10-89f7-411f-bd00-372c965e0425",
+  "https://images.blocketcdn.se/dynamic/default/item/25965111/3e1b19cc-5008-48ec-aaaf-2b2743dbba5d",
+  "https://images.blocketcdn.se/dynamic/default/item/25965111/4b2bc664-0efe-4ce6-96da-7f762b9e4136"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.51,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +82,13 @@
   "text_sha": "653a047a5515990c"
  },
  "location": "Vikbolandet",
- "lon": 16.57284,
+ "lon": 16.57,
  "make": "Ryds",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 165,
   "fetched_ts": 1790508331431,
@@ -105,7 +115,7 @@
   "Toppfart": "20 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25965111",
  "width_cm": 0,
  "year": 1978

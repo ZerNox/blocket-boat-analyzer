@@ -7,6 +7,8 @@
   "boat_year": 1994,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -35,8 +37,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet med 30hk Mercury och trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25885756/443ad4bd-76e4-44ee-96fd-c6c320f0c6a7",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.59984,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25885756/443ad4bd-76e4-44ee-96fd-c6c320f0c6a7",
+  "https://images.blocketcdn.se/dynamic/default/item/25885756/ef7d6593-d4d3-4a0a-bed0-2ce4c6cefc05",
+  "https://images.blocketcdn.se/dynamic/default/item/25885756/a47fe3b1-8c5e-44fb-a0e0-d6a5f4a2d86b",
+  "https://images.blocketcdn.se/dynamic/default/item/25885756/eab226d2-e4dc-4ff3-9796-709310781916",
+  "https://images.blocketcdn.se/dynamic/default/item/25885756/0a987d6d-ddbe-4d95-88e1-859574070a06",
+  "https://images.blocketcdn.se/dynamic/default/item/25885756/a1b41c90-b270-48ae-9e4b-f6c97555ccfe"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.6,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +77,13 @@
   "text_sha": "fa508735f827789b"
  },
  "location": "Länghem",
- "lon": 13.23642,
+ "lon": 13.24,
  "make": "Övriga",
  "max_speed": 23,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 179,
   "fetched_ts": 1790508273711,
@@ -98,7 +109,7 @@
   "Toppfart": "23 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25885756",
  "width_cm": 170,
  "year": 1994

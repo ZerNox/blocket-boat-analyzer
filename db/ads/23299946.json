@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -23,6 +25,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 560 HT",
+  "hull_source": "rule:model",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -30,13 +36,25 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Uttern 560"
+ ],
  "heading": "Uttern 560 HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23299946/fa59f615-4289-424e-a493-415fafe0de3b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.75336,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23299946/fa59f615-4289-424e-a493-415fafe0de3b",
+  "https://images.blocketcdn.se/dynamic/default/item/23299946/ef881309-e0b6-47d1-a5b7-58ca19e8862e",
+  "https://images.blocketcdn.se/dynamic/default/item/23299946/394d7685-ae97-4f4b-9e1c-364d401dff73",
+  "https://images.blocketcdn.se/dynamic/default/item/23299946/fd0cfbd6-7612-4bd6-aee2-cb5a028713d1",
+  "https://images.blocketcdn.se/dynamic/default/item/23299946/64dd3a63-c722-432a-aab7-71e78da4e8c2",
+  "https://images.blocketcdn.se/dynamic/default/item/23299946/669c33ef-35ac-4bcc-8ffe-84435063f882",
+  "https://images.blocketcdn.se/dynamic/default/item/23299946/681fc3a4-2b0e-43f2-a237-52266cec3fae"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.75,
  "length_ft": 18,
  "location": "Nyköping",
- "lon": 17.00739,
+ "lon": 17.01,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",

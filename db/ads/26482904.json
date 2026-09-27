@@ -7,6 +7,8 @@
   "boat_year": 2002,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -43,8 +45,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster Xs",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26482904/e9b4170d-4ef5-4802-a474-ce68b9d6dda9",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.61612,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26482904/e9b4170d-4ef5-4802-a474-ce68b9d6dda9",
+  "https://images.blocketcdn.se/dynamic/default/item/26482904/9490027e-9821-4b40-8fc8-faed72e78c14",
+  "https://images.blocketcdn.se/dynamic/default/item/26482904/c315038d-322a-4967-a6c0-63d8a486103a",
+  "https://images.blocketcdn.se/dynamic/default/item/26482904/e4a2ab69-b8b5-448b-907a-12028f2bb5f0",
+  "https://images.blocketcdn.se/dynamic/default/item/26482904/94fbc851-8d62-45fa-9613-b5f1f23575b2",
+  "https://images.blocketcdn.se/dynamic/default/item/26482904/8a8b25f2-be56-4f98-beb2-4f3771644949"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.62,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +84,13 @@
   "text_sha": "2e9d04610afacb20"
  },
  "location": "Gävle",
- "lon": 17.26901,
+ "lon": 17.27,
  "make": "Buster",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 442,
   "fetched_ts": 1790508719587,
@@ -108,7 +119,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26482904",
  "width_cm": 165,
  "year": 2002

@@ -1,0 +1,119 @@
+{
+ "ad_id": 26254811,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788358609000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo",
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": "Volvo penta b20 hard topp",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1977,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Volvo penta b20 hard topp",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26254811/20bbc5b5-b3d8-4914-8516-2222f4f377cb",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26254811/20bbc5b5-b3d8-4914-8516-2222f4f377cb",
+  "https://images.blocketcdn.se/dynamic/default/item/26254811/48b5bc84-1233-4526-9864-b0bdf3d835dd",
+  "https://images.blocketcdn.se/dynamic/default/item/26254811/3f3437fa-e2e6-4006-bfbb-05c5d9525758",
+  "https://images.blocketcdn.se/dynamic/default/item/26254811/f594a89f-3d87-41b6-85a2-cf2a7472ecdb"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.96,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1977,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo",
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "319e23e3f3531564"
+ },
+ "location": "Vagnhärad",
+ "lon": 17.51,
+ "make": "Uttern",
+ "max_speed": 25,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790523138696,
+  "text_sha": "319e23e3f3531564"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Bredd": "2500 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "80 cm",
+  "Färg": "Blå me röd vattenlinje",
+  "Längd i fot": "18 fot",
+  "Modell": "Volvo penta",
+  "Modellår": "1977",
+  "Motor inkluderad": "Nej",
+  "Motortillverkare": "Volvo",
+  "Märke": "Uttern",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "1",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "900 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26254811",
+ "width_cm": 2500,
+ "year": 1977
+}

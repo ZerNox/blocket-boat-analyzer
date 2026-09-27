@@ -7,6 +7,8 @@
   "boat_year": 2002,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ny jolle till båten?",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25506768/54ad9a06-3665-4be3-949b-1266c33c9d8e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.57955,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25506768/54ad9a06-3665-4be3-949b-1266c33c9d8e",
+  "https://images.blocketcdn.se/dynamic/default/item/25506768/29915b66-63a4-46cd-8c13-fc533f2b3888",
+  "https://images.blocketcdn.se/dynamic/default/item/25506768/0feb8bb7-dce2-4293-8cab-8a22399f32a8",
+  "https://images.blocketcdn.se/dynamic/default/item/25506768/fb641780-ae0c-4502-be8c-5d9569f8c031",
+  "https://images.blocketcdn.se/dynamic/default/item/25506768/83807006-546b-47db-a555-a2671132fbad",
+  "https://images.blocketcdn.se/dynamic/default/item/25506768/8c8bad83-e3c7-48a7-9a7a-cb87a9d1f2ca",
+  "https://images.blocketcdn.se/dynamic/default/item/25506768/f519d013-7330-443b-a6c9-dbda00153fcb",
+  "https://images.blocketcdn.se/dynamic/default/item/25506768/72c035f6-4e51-4b3c-a60c-cde02d08b4bf",
+  "https://images.blocketcdn.se/dynamic/default/item/25506768/61cd2abf-7580-40f4-b854-20dff158f721",
+  "https://images.blocketcdn.se/dynamic/default/item/25506768/f5672d61-9871-4d6a-80d3-1f9de85acba6",
+  "https://images.blocketcdn.se/dynamic/default/item/25506768/970ec8f1-8555-4dc6-bfba-f92ad9564ddd",
+  "https://images.blocketcdn.se/dynamic/default/item/25506768/d2b2ebd7-f91b-47b8-974a-3b8ae2df20d9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.58,
  "length_ft": 8,
  "llm": {
   "at": "2026-09-27",
@@ -61,12 +77,13 @@
   "text_sha": "9fc4496c0acbf7ea"
  },
  "location": "Norrköping",
- "lon": 16.22819,
+ "lon": 16.23,
  "make": "Quicksilver",
  "max_speed": 12,
  "motor_fuel": "Bensin",
  "motor_size": 6.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 748,
   "fetched_ts": 1790507935181,
@@ -93,7 +110,7 @@
   "Toppfart": "12 knop",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25506768",
  "width_cm": 0,
  "year": 2002

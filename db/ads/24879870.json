@@ -1,0 +1,107 @@
+{
+ "ad_id": 24879870,
+ "boat_class": "Annat",
+ "changed_ts": 1789472966000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercruiser",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Nya fönster kapell",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Sea Ray",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24879870/16f755ab-af00-45b7-8dff-48c225b5946b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24879870/16f755ab-af00-45b7-8dff-48c225b5946b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 66.12,
+ "length_ft": 33,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1989,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny förgasare, Ny startmotor",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3e5b9c96dc2cdc80"
+ },
+ "location": "Boden",
+ "lon": 21.34,
+ "make": "Sea Ray",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 71,
+  "fetched_ts": 1790520648017,
+  "text_sha": "3e5b9c96dc2cdc80"
+ },
+ "price": 72000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 72000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "33 fot",
+  "Modell": "Sevilla",
+  "Modellår": "1989",
+  "Motortillverkare": "Mercruiser",
+  "Motortyp": "Inombordare",
+  "Märke": "Sea Ray",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/24879870",
+ "width_cm": 0,
+ "year": 1989
+}

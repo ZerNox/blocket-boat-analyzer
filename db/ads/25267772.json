@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 434 med Yamaha 20 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25267772/f643301a-0327-4991-b05f-565fcf6089c6",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.25706,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25267772/f643301a-0327-4991-b05f-565fcf6089c6",
+  "https://images.blocketcdn.se/dynamic/default/item/25267772/66f226b9-77e7-482c-bb7a-f1e05ad3cee9",
+  "https://images.blocketcdn.se/dynamic/default/item/25267772/d3d9e38c-04d1-44a0-83c6-82d39319e356",
+  "https://images.blocketcdn.se/dynamic/default/item/25267772/28a6b973-5844-4fb4-9ed7-4daee53b3b30",
+  "https://images.blocketcdn.se/dynamic/default/item/25267772/1ed7d727-ea45-4a6c-87f8-f96fbccac175",
+  "https://images.blocketcdn.se/dynamic/default/item/25267772/f5f50e16-3ba2-45f6-8a37-2b05b7c98217"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.26,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "8479a28e9477b115"
  },
  "location": "Saltsjöbaden",
- "lon": 18.35086,
+ "lon": 18.35,
  "make": "Crescent",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 239,
   "fetched_ts": 1790507706351,
@@ -94,7 +105,7 @@
   "Toppfart": "20 knop",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25267772",
  "width_cm": 0,
  "year": 1990

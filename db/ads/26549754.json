@@ -1,0 +1,74 @@
+{
+ "ad_id": 26549754,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789306022000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds camping båt Värmdö",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26549754/eee266b1-cfca-471a-b619-aeb2f922f6bb",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26549754/eee266b1-cfca-471a-b619-aeb2f922f6bb",
+  "https://images.blocketcdn.se/dynamic/default/item/26549754/d56f19ab-4dcb-4b2d-afdd-797867e3df3f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.39,
+ "length_ft": 16,
+ "location": "Värmdö",
+ "lon": 18.53,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790520998586,
+  "text_sha": "5e661ac05b47b017"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Märke": "Ryds",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26549754",
+ "width_cm": 0,
+ "year": 1978
+}

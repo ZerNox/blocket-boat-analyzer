@@ -1,0 +1,99 @@
+{
+ "ad_id": 26035369,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787682482000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Båt med kapell",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "radio och högtalare funkar bra.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "enklare motor går att köpa till likaså släp om intresse finns.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Båt med kapell",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26035369/0364f867-4973-4b23-bb85-b6b6ceb8b751",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/0364f867-4973-4b23-bb85-b6b6ceb8b751",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/ef2e929f-2abf-4901-82f5-de2ec61d603a",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/567cd2eb-90ce-4e27-a917-e8d151af516b",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/98ca6dac-b49d-4469-8a45-85812aa1ea12",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/85a01cc4-8017-403b-88c3-ca7f51c7b715",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/8a211f87-58ca-413d-a63a-b1014bacdc52",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/5a71c335-7db5-471f-9ab3-7d81d43b2bf2",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/1916af5b-e0b7-4ff2-8867-e2d0299f55b6",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/bfad82dd-4005-4cda-a525-472165015721",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/63289354-a4f4-4dae-83a4-2acd5a7dd291",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/205c135c-deec-4d93-8c51-7d81de38352c",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/7947e8ca-3ea3-4a93-8ef5-3d81f05a56f9",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/271e17b3-9450-4435-bd19-0445af12bcbe",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/ffe09c90-861d-43fe-834d-e7c5a1456f0f",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/b7727341-1b84-408f-af5e-23667e58f8f0",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/be1fd567-6d3c-4a53-b33c-0bee217332cc",
+  "https://images.blocketcdn.se/dynamic/default/item/26035369/92827207-3b1f-4c7c-9a7a-32309a418b23"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.59,
+ "length_ft": 14,
+ "location": "Norrköping",
+ "lon": 16.2,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 520,
+  "fetched_ts": 1790520880991,
+  "text_sha": "dee436256d6a4764"
+ },
+ "price": 3300,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 3300
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modellår": "1990",
+  "Motor inkluderad": "Nej",
+  "Märke": "Örnvik",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26035369",
+ "width_cm": 0,
+ "year": 1990
+}

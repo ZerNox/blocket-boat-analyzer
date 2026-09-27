@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 9.9,
+  "engine_hp_source": "rule:text",
   "engine_maker": "mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25435331/ed4a919e-aa89-4f65-aad3-4b5bc2e9b32e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.92372,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25435331/ed4a919e-aa89-4f65-aad3-4b5bc2e9b32e",
+  "https://images.blocketcdn.se/dynamic/default/item/25435331/5c3092e9-f2bf-4e3f-9da4-757c1c1e4930",
+  "https://images.blocketcdn.se/dynamic/default/item/25435331/9d73301f-a7ec-4efd-9a31-287a024b53e7",
+  "https://images.blocketcdn.se/dynamic/default/item/25435331/1de9898a-e7ce-4753-be57-fc0984981c72",
+  "https://images.blocketcdn.se/dynamic/default/item/25435331/7f1c924f-d223-4e02-8da7-26c16a2541b8",
+  "https://images.blocketcdn.se/dynamic/default/item/25435331/d3869887-95e1-4f48-9f7e-57bdc961bcd1",
+  "https://images.blocketcdn.se/dynamic/default/item/25435331/4d22cdc9-f66b-4802-a6ca-684f9e15f339",
+  "https://images.blocketcdn.se/dynamic/default/item/25435331/559744b7-247e-42c0-9786-aad7a02f1e89",
+  "https://images.blocketcdn.se/dynamic/default/item/25435331/b713937f-33cd-41e1-9b33-01c4eefdd997"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.92,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +78,13 @@
   "text_sha": "f522ca7cbbc184f1"
  },
  "location": "Kramfors",
- "lon": 17.80629,
+ "lon": 17.81,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 9.899999618530273,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 641,
   "fetched_ts": 1790507866602,
@@ -100,7 +114,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "125 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25435331",
  "width_cm": 155,
  "year": 1980

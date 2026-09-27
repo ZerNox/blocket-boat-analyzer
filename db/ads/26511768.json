@@ -1,0 +1,105 @@
+{
+ "ad_id": 26511768,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789152973000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Örnvik 480 & Yamaha 40hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26511768/fafc6f73-647b-48af-9575-0462857d71f7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26511768/fafc6f73-647b-48af-9575-0462857d71f7",
+  "https://images.blocketcdn.se/dynamic/default/item/26511768/a1845871-15b5-4c56-99a2-8d6bae2b673e",
+  "https://images.blocketcdn.se/dynamic/default/item/26511768/889762a8-a6d7-4fab-9616-337bf82f66e0",
+  "https://images.blocketcdn.se/dynamic/default/item/26511768/a614e8fb-276a-4d53-a162-d7c9d451d833"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.68,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor är en Yamaha 40hk 2-takt från 97",
+   "engine_year_rejected": 1997,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "dc4456e9aaa57d6a"
+ },
+ "location": "Hönö",
+ "lon": 11.63,
+ "make": "Örnvik",
+ "max_speed": 27,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 219,
+  "fetched_ts": 1790520986939,
+  "text_sha": "dc4456e9aaa57d6a"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "480",
+  "Modellår": "1985",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Toppfart": "27 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26511768",
+ "width_cm": 0,
+ "year": 1985
+}

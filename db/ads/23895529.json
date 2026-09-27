@@ -1,0 +1,128 @@
+{
+ "ad_id": 23895529,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790350534000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 250.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mericruser",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "stereo": {
+    "evidence": "Sitter 8st 8tums högtalare i båten och även 2st 6,5 på bågen.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "En stabil 30 kärra medföljer.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Bayliner Capri 2050",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23895529/2445216a-85a5-40ef-ac6d-7675ab17ad05",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23895529/2445216a-85a5-40ef-ac6d-7675ab17ad05",
+  "https://images.blocketcdn.se/dynamic/default/item/23895529/e972a4a1-373f-475e-9644-7365ddc21818",
+  "https://images.blocketcdn.se/dynamic/default/item/23895529/639fcc1d-5808-44da-9cba-a9b29adb954f",
+  "https://images.blocketcdn.se/dynamic/default/item/23895529/f67190ee-723f-4488-af2c-461e0552f2a8",
+  "https://images.blocketcdn.se/dynamic/default/item/23895529/eeab06bd-9272-4490-b111-da6e896e6799",
+  "https://images.blocketcdn.se/dynamic/default/item/23895529/00dbf995-dd56-4507-9271-7fd60eb12177",
+  "https://images.blocketcdn.se/dynamic/default/item/23895529/1050c478-47cf-4a7d-bd5e-b3910e8b0f66",
+  "https://images.blocketcdn.se/dynamic/default/item/23895529/5f849952-9602-4756-8a52-d71ba3f15d10"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.12,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1995,
+   "engine_hours": null,
+   "engine_hp": 250,
+   "engine_maker": "Mericruser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Sen dess har den inte gått många timmar.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "653c6ff21adf3edb"
+ },
+ "location": "Kumla",
+ "lon": 15.05,
+ "make": "Bayliner",
+ "max_speed": 40,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 732,
+  "fetched_ts": 1790522915455,
+  "text_sha": "653c6ff21adf3edb"
+ },
+ "price": 99000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 99000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit/blå",
+  "Längd i fot": "21 fot",
+  "Modell": "Capri 2050",
+  "Modellår": "1995",
+  "Motortillverkare": "Mericruser",
+  "Motortyp": "Inombordare",
+  "Märke": "Bayliner",
+  "Sittplatser": "8",
+  "Toppfart": "40 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23895529",
+ "width_cm": 0,
+ "year": 1995
+}

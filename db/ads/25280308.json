@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": 2,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Hangkai",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -36,8 +38,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt med släp och motor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25280308/fef5c30f-ad8a-4351-a008-9b50fa38736d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.2161,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25280308/fef5c30f-ad8a-4351-a008-9b50fa38736d",
+  "https://images.blocketcdn.se/dynamic/default/item/25280308/4636fcbd-3477-49d9-b5ed-b1271f96e884",
+  "https://images.blocketcdn.se/dynamic/default/item/25280308/def731b9-0490-4e9e-b6b8-4199e6a02368",
+  "https://images.blocketcdn.se/dynamic/default/item/25280308/4a9a6cf9-596c-4ab2-a947-7460384374a5",
+  "https://images.blocketcdn.se/dynamic/default/item/25280308/bc835b65-445a-4570-aa68-20782256b275",
+  "https://images.blocketcdn.se/dynamic/default/item/25280308/5a519009-6ccf-429c-9187-6bd81695bb08",
+  "https://images.blocketcdn.se/dynamic/default/item/25280308/17fbcc83-8f31-47cf-a591-8bfe35acd0b5",
+  "https://images.blocketcdn.se/dynamic/default/item/25280308/0c5270da-04e6-4f86-97af-f3e6e0c3050d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.22,
  "length_ft": 380,
  "llm": {
   "at": "2026-09-27",
@@ -68,12 +80,13 @@
   "text_sha": "284282f0a9008f31"
  },
  "location": "Berga",
- "lon": 16.03401,
+ "lon": 16.03,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 6.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 253,
   "fetched_ts": 1790507720443,
@@ -99,7 +112,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25280308",
  "width_cm": 160,
  "year": 2000

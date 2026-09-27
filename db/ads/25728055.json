@@ -7,6 +7,8 @@
   "boat_year": 1976,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -47,8 +49,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 495 ht",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25728055/cd4bc8df-ba4e-4c45-bf69-57dee19bc1cb",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.43958,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25728055/cd4bc8df-ba4e-4c45-bf69-57dee19bc1cb",
+  "https://images.blocketcdn.se/dynamic/default/item/25728055/77828e15-fac2-45f8-b458-677e7aead29c",
+  "https://images.blocketcdn.se/dynamic/default/item/25728055/fdccb7a6-068c-4167-8dd1-fd6e87264d9a",
+  "https://images.blocketcdn.se/dynamic/default/item/25728055/7bc247f9-b131-4167-9d6d-be5c48bed994",
+  "https://images.blocketcdn.se/dynamic/default/item/25728055/0a2d24c0-b1b5-429a-a192-cf49b36a1cf3"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.44,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -78,12 +87,13 @@
   "text_sha": "a833c6e129566119"
  },
  "location": "Vadstena",
- "lon": 14.90619,
+ "lon": 14.91,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1289,
   "fetched_ts": 1790508142539,
@@ -110,7 +120,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25728055",
  "width_cm": 0,
  "year": 1976

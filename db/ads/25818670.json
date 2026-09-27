@@ -1,0 +1,73 @@
+{
+ "ad_id": 25818670,
+ "boat_class": "Annat",
+ "changed_ts": 1787052190000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Roddbåt TERHI",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25818670/529c5817-55fc-44d0-a967-61f36563b358",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25818670/529c5817-55fc-44d0-a967-61f36563b358",
+  "https://images.blocketcdn.se/dynamic/default/item/25818670/8ac7da0c-c8ee-4b61-bdd4-436f85d572a1",
+  "https://images.blocketcdn.se/dynamic/default/item/25818670/a9421bc5-53f6-4fc3-a24b-c4e357b1a719"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.85,
+ "length_ft": 9,
+ "location": "Linghed",
+ "lon": 15.91,
+ "make": "Terhi",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 255,
+  "fetched_ts": 1790520841599,
+  "text_sha": "66ef59499df79d95"
+ },
+ "price": 3500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 3500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "9 fot",
+  "Modellår": "1985",
+  "Motor inkluderad": "Nej",
+  "Märke": "Terhi",
+  "Sittplatser": "3",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25818670",
+ "width_cm": 0,
+ "year": 1985
+}

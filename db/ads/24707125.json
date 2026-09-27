@@ -1,0 +1,125 @@
+{
+ "ad_id": 24707125,
+ "boat_class": "Annat",
+ "changed_ts": 1788881700000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1977,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Utrustning som ingår: Ekolod och brandsläckare.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell: Behöver lite kärlek",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Komplett båtpaket: Ryds Camping + Yamaha 90hk & Registrerad trailer (2009)",
+    "included": true,
+    "kmh": 80,
+    "year": 2009
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Komplett båtpaket: Ryds Camping + Yamaha 90hk & Registrerad trailer (2009)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24707125/5a93ca62-4aeb-4504-87fc-97f6c0ac7fdf",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24707125/5a93ca62-4aeb-4504-87fc-97f6c0ac7fdf",
+  "https://images.blocketcdn.se/dynamic/default/item/24707125/07dc5fdd-43f0-4675-9a1a-01862381750a",
+  "https://images.blocketcdn.se/dynamic/default/item/24707125/68cf1008-f5c4-4a27-a54f-4ab45bd1c1d6",
+  "https://images.blocketcdn.se/dynamic/default/item/24707125/97c46b05-4779-4720-ac54-dc4b6b596a09",
+  "https://images.blocketcdn.se/dynamic/default/item/24707125/f402e7db-00c3-4024-9915-d816da94d529",
+  "https://images.blocketcdn.se/dynamic/default/item/24707125/3d547525-391d-4a20-9341-f38aaccd17b5",
+  "https://images.blocketcdn.se/dynamic/default/item/24707125/18bd0b17-2e13-498c-8552-a21c1aaab48c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.01,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1977,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor: Yamaha 90hk Årsmodell: 1985",
+   "engine_year_rejected": 1985,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "43a7e778d1d7ddb7"
+ },
+ "location": "Gullspång",
+ "lon": 14.18,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1291,
+  "fetched_ts": 1790520641949,
+  "text_sha": "43a7e778d1d7ddb7"
+ },
+ "price": 32000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 32000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Blå vit",
+  "Längd i fot": "18 fot",
+  "Modell": "Camping",
+  "Modellår": "1977",
+  "Motor inkluderad": "Ja",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/24707125",
+ "width_cm": 0,
+ "year": 1977
+}

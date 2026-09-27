@@ -7,6 +7,8 @@
   "boat_year": 1979,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -29,8 +31,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds Hajen HT 495",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25523734/4f9d33e6-261b-4a75-b644-8cf7fbe9e322",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.73101,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25523734/4f9d33e6-261b-4a75-b644-8cf7fbe9e322",
+  "https://images.blocketcdn.se/dynamic/default/item/25523734/48d5dd0d-7665-4b51-ad10-737008220703",
+  "https://images.blocketcdn.se/dynamic/default/item/25523734/2163269b-d227-48d2-85f4-3b7cbf317e26",
+  "https://images.blocketcdn.se/dynamic/default/item/25523734/a9dbde86-f5d2-45bc-b228-fba1fef69b8e",
+  "https://images.blocketcdn.se/dynamic/default/item/25523734/a40d7ae4-da1d-4c02-bb41-a8e5cde5b179",
+  "https://images.blocketcdn.se/dynamic/default/item/25523734/36461b4d-9df3-4edf-90bb-20848dc4df5c",
+  "https://images.blocketcdn.se/dynamic/default/item/25523734/de2bb0a4-6448-4fd7-a1e7-fb705640da7a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.73,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +71,13 @@
   "text_sha": "ff88a9bdd338a1c2"
  },
  "location": "Annerstad",
- "lon": 13.65116,
+ "lon": 13.65,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 83,
   "fetched_ts": 1790507959223,
@@ -91,7 +103,7 @@
   "Märke": "Ryds",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25523734",
  "width_cm": 0,
  "year": 1979

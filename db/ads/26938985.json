@@ -1,0 +1,75 @@
+{
+ "ad_id": 26938985,
+ "boat_class": "Annat",
+ "changed_ts": 1790520678000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:53:04+00:00",
+ "heading": "Askeladden 15",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26938985/07b49867-cbf1-473d-86ee-7cb19d46edc5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26938985/07b49867-cbf1-473d-86ee-7cb19d46edc5",
+  "https://images.blocketcdn.se/dynamic/default/item/26938985/c81dc606-d8bb-4dbd-a515-452d9b39a28b",
+  "https://images.blocketcdn.se/dynamic/default/item/26938985/1eb82547-2e7d-4bff-a6e2-686bcbd5164c",
+  "https://images.blocketcdn.se/dynamic/default/item/26938985/60bfa49f-ce27-4867-9d1c-46980be9c017"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.39,
+ "length_ft": 15,
+ "location": "Årjäng",
+ "lon": 12.13,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790521107229,
+  "text_sha": "6864ac888254e88a"
+ },
+ "price": 7500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modellår": "1985",
+  "Motor inkluderad": "Nej",
+  "Märke": "Askeladden",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Annat",
+  "Vikt": "350 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26938985",
+ "width_cm": 0,
+ "year": 1985
+}

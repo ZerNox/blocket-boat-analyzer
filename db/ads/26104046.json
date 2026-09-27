@@ -7,6 +7,8 @@
   "boat_year": 2001,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -36,16 +38,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent Trader m 30hk Mercury 4-takt -2016",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26104046/fad69af1-e775-404b-ab75-9c0e185a99a2",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.3725,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26104046/fad69af1-e775-404b-ab75-9c0e185a99a2",
+  "https://images.blocketcdn.se/dynamic/default/item/26104046/8bdf85ee-df2e-4c13-841c-e478578a9344",
+  "https://images.blocketcdn.se/dynamic/default/item/26104046/e6e37140-4e2d-45f2-9ab0-4b77941e98f2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.37,
  "length_ft": 15,
  "location": "Strängnäs",
- "lon": 17.03153,
+ "lon": 17.03,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 535,
   "fetched_ts": 1790508462996,
@@ -71,7 +79,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26104046",
  "width_cm": 0,
  "year": 2001

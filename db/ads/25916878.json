@@ -7,6 +7,8 @@
   "boat_year": 2018,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -38,8 +40,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern S45 50hk fyrtakt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25916878/ee806365-a5ba-48db-af7d-586c153145c0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.48349,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25916878/ee806365-a5ba-48db-af7d-586c153145c0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.48,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +74,13 @@
   "text_sha": "bb45ad704cd4744a"
  },
  "location": "Munkedal",
- "lon": 11.74383,
+ "lon": 11.74,
  "make": "Uttern",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 315,
   "fetched_ts": 1790508297648,
@@ -101,7 +107,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25916878",
  "width_cm": 185,
  "year": 2018

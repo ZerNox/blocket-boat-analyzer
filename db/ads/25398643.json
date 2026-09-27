@@ -1,0 +1,108 @@
+{
+ "ad_id": 25398643,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785936621000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1968,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1968,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Äldre Trissjolle",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25398643/d478e381-9594-497a-ae15-50ae95dcfe1f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25398643/d478e381-9594-497a-ae15-50ae95dcfe1f",
+  "https://images.blocketcdn.se/dynamic/default/item/25398643/742b6c9f-6e43-4501-8110-de4014e77f94",
+  "https://images.blocketcdn.se/dynamic/default/item/25398643/db3b080f-f202-4448-a844-7107e2cbcc17"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.21,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1968,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "06f93a4346e52280"
+ },
+ "location": "Farsta",
+ "lon": 18.08,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 142,
+  "fetched_ts": 1790520690500,
+  "text_sha": "06f93a4346e52280"
+ },
+ "price": 3000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 3000
+  }
+ ],
+ "specs": {
+  "Bredd": "155 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "15 cm",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "Trissjolle typ 2",
+  "Modellår": "1968",
+  "Motor inkluderad": "Ja",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "150 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25398643",
+ "width_cm": 155,
+ "year": 1968
+}

@@ -1,0 +1,128 @@
+{
+ "ad_id": 23723986,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1785529200000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": 458,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo Penta",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "Volvo Penta slutade med utombordare kring 1990",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Fast tank 120 liter, Gångvärme/defroster, Wallas 1300 värmare, Garmin GPS typ 182 och kompass.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Välutrustad Finnmaster 6400 med Volvo Penta D3-130 Säljes!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23723986/aac2be70-72c5-4bef-b5e6-d6509bdb0817",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23723986/aac2be70-72c5-4bef-b5e6-d6509bdb0817",
+  "https://images.blocketcdn.se/dynamic/default/item/23723986/72844082-d446-4295-a9aa-1e231627f8fe",
+  "https://images.blocketcdn.se/dynamic/default/item/23723986/516ee4af-d519-48d2-99c4-4bcb6ca9a6c6",
+  "https://images.blocketcdn.se/dynamic/default/item/23723986/f2778c91-ee97-40c5-8ec9-5c8ec7c0d911",
+  "https://images.blocketcdn.se/dynamic/default/item/23723986/7557da97-dc28-4efd-94eb-6390ea41bd79",
+  "https://images.blocketcdn.se/dynamic/default/item/23723986/1cbb1b7a-cd1e-4c48-96d4-84d0adf13b0c",
+  "https://images.blocketcdn.se/dynamic/default/item/23723986/2baca94f-db13-4704-b51d-708b91fe8251",
+  "https://images.blocketcdn.se/dynamic/default/item/23723986/11c25066-066b-4715-8fa9-f979b44eee1b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.09,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2004,
+   "engine_hours": 458,
+   "engine_hp": null,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn har gått 458 timmar.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ca0dc059a84ec763"
+ },
+ "location": "Askerön",
+ "lon": 11.77,
+ "make": "Finnmaster",
+ "max_speed": 30,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 646,
+  "fetched_ts": 1790522905755,
+  "text_sha": "ca0dc059a84ec763"
+ },
+ "price": 210000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 210000
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "6400 MC",
+  "Modellår": "2004",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo Penta",
+  "Motortyp": "Inombordare",
+  "Märke": "Finnmaster",
+  "Sittplatser": "6",
+  "Sovplatser": "3",
+  "Toppfart": "30 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "1 450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23723986",
+ "width_cm": 230,
+ "year": 2004
+}

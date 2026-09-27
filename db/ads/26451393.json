@@ -7,6 +7,8 @@
   "boat_year": 1987,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Lohi",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26451393/8b4e028e-7234-483e-ae9f-f7a88e47ee54",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.10252,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26451393/8b4e028e-7234-483e-ae9f-f7a88e47ee54",
+  "https://images.blocketcdn.se/dynamic/default/item/26451393/4ec6c93b-a38a-4363-9216-e9ec89d7a3ee",
+  "https://images.blocketcdn.se/dynamic/default/item/26451393/157f9825-cb0d-444d-ba3c-885fbc82e154",
+  "https://images.blocketcdn.se/dynamic/default/item/26451393/121f0020-4a10-4416-91e0-628bdf7ae774",
+  "https://images.blocketcdn.se/dynamic/default/item/26451393/b61f66bf-8bee-4e31-9d5e-29189ee1db37",
+  "https://images.blocketcdn.se/dynamic/default/item/26451393/4a14fe69-456f-4157-94f2-c6c1aa1565fd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.1,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +79,13 @@
   "text_sha": "d5397a15f5699ab6"
  },
  "location": "Gnesta",
- "lon": 17.22473,
+ "lon": 17.22,
  "make": "LN",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 179,
   "fetched_ts": 1790508695309,
@@ -99,7 +110,7 @@
   "Märke": "LN",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26451393",
  "width_cm": 165,
  "year": 1987

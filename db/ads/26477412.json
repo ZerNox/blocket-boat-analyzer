@@ -7,6 +7,8 @@
   "boat_year": 2022,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 6,
+  "engine_hp_source": "llm",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Höstfynd",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26477412/4f7114b4-cf25-41a4-85eb-8a7c51ad31ca",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.28266,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26477412/4f7114b4-cf25-41a4-85eb-8a7c51ad31ca",
+  "https://images.blocketcdn.se/dynamic/default/item/26477412/f7d38707-14a1-4e8e-b46c-3afb5307303d",
+  "https://images.blocketcdn.se/dynamic/default/item/26477412/da015259-9aba-4e92-bae6-66848ad87d27"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.28,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "6111bf2c5862f552"
  },
  "location": "Örebro",
- "lon": 15.21792,
+ "lon": 15.22,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 6.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508715445,
@@ -93,7 +101,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26477412",
  "width_cm": 0,
  "year": 2022

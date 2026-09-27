@@ -1,0 +1,106 @@
+{
+ "ad_id": 26276314,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789052980000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "YAMAHA",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2026,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor Yamaha 100 hk årsmodell 2017, ny kamrem 2026",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Ny hydraulisk styrning installerad 2026",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin gps",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Hyttbåt Yamarin 5800 inklusive trailer",
+    "included": true,
+    "kmh": 80,
+    "year": 2024
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Hyttbåt Yamarin 5800 inklusive trailer\nUtrustning\nGarmin gps\nWallas värmare\nMoto",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Yamarin 5800"
+ ],
+ "heading": "Hyttbåt Yamarin 5800 inklusive trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26276314/ced56cd1-ec0e-43eb-9c35-8beda4284df1",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26276314/ced56cd1-ec0e-43eb-9c35-8beda4284df1",
+  "https://images.blocketcdn.se/dynamic/default/item/26276314/59a12962-cd20-4f0c-9cea-1a6fad3adb8a",
+  "https://images.blocketcdn.se/dynamic/default/item/26276314/cf79d681-e641-4b3d-a8cc-a9c5b2b22fc6",
+  "https://images.blocketcdn.se/dynamic/default/item/26276314/e7cb15cc-0c1d-4fab-a5ea-1c866f62f340",
+  "https://images.blocketcdn.se/dynamic/default/item/26276314/7c069830-4bad-4d03-b84d-9a730ed4b941"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.41,
+ "length_ft": 19,
+ "location": "Karlstad",
+ "lon": 13.53,
+ "make": "Yamarin",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 182,
+  "fetched_ts": 1790523140047,
+  "text_sha": "bd20e646f7d76ccc"
+ },
+ "price": 230000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 230000
+  }
+ ],
+ "specs": {
+  "Bredd": "2180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "5800 Big Catch",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "YAMAHA",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Sittplatser": "5",
+  "Sovplatser": "2",
+  "Toppfart": "35 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "720 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26276314",
+ "width_cm": 2180,
+ "year": 2001
+}

@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 35.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnsson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -46,8 +48,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Finsk fiskebåt med alla tillbehör+trailer+ekolod",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25605019/f86773af-b944-415f-9906-b4e56a4265d6",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.17145,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25605019/f86773af-b944-415f-9906-b4e56a4265d6",
+  "https://images.blocketcdn.se/dynamic/default/item/25605019/31ebd025-2ba7-488a-a303-4569bfeba7cf",
+  "https://images.blocketcdn.se/dynamic/default/item/25605019/2192dd43-753a-45d6-b721-05cde503fbca",
+  "https://images.blocketcdn.se/dynamic/default/item/25605019/5694b890-7810-469a-9866-86f65b0b19fb",
+  "https://images.blocketcdn.se/dynamic/default/item/25605019/25a25039-32c5-40d3-8efb-041faac40189",
+  "https://images.blocketcdn.se/dynamic/default/item/25605019/79d62d87-744d-44aa-9247-83d806e90d9b",
+  "https://images.blocketcdn.se/dynamic/default/item/25605019/85e0adde-87d7-4e48-b98a-56b475116a6d",
+  "https://images.blocketcdn.se/dynamic/default/item/25605019/d79f9d81-bf92-48c3-b5d0-af7e42a24b01",
+  "https://images.blocketcdn.se/dynamic/default/item/25605019/f7bd5436-cb1b-4658-b758-95a5be818892",
+  "https://images.blocketcdn.se/dynamic/default/item/25605019/a0358851-bb88-41a6-bf9e-a270bdfe544e",
+  "https://images.blocketcdn.se/dynamic/default/item/25605019/38ad266c-2b20-40ad-8376-f86bd02158f0",
+  "https://images.blocketcdn.se/dynamic/default/item/25605019/3d58e5eb-04a5-475d-b2c8-e9934f4a3c6c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.17,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -77,12 +93,13 @@
   "text_sha": "da92e2a9a6650bf8"
  },
  "location": "Tärnsjö",
- "lon": 16.92858,
+ "lon": 16.93,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 35.150001525878906,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 566,
   "fetched_ts": 1790508043360,
@@ -108,7 +125,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25605019",
  "width_cm": 200,
  "year": 1990

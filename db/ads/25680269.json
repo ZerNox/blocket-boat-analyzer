@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 15,
+  "engine_hp_source": "llm",
   "engine_maker": "Solo",
   "engine_stroke": 4,
   "engine_type": "inboard",
@@ -29,8 +31,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Passbåt med solomotor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25680269/ec7963a3-8877-426e-85b9-5e9917bfd050",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.87894,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25680269/ec7963a3-8877-426e-85b9-5e9917bfd050",
+  "https://images.blocketcdn.se/dynamic/default/item/25680269/e2d824c6-1a8d-4260-9cec-314025f3bf2c",
+  "https://images.blocketcdn.se/dynamic/default/item/25680269/355d246c-d49f-45a2-af55-262118489ea4",
+  "https://images.blocketcdn.se/dynamic/default/item/25680269/5dc13682-94c5-47df-8680-5fd3204ef66b",
+  "https://images.blocketcdn.se/dynamic/default/item/25680269/d947e153-6165-494b-8aa9-fd4c93521693",
+  "https://images.blocketcdn.se/dynamic/default/item/25680269/57a5adfb-9dbf-4098-aafc-52a40c906133",
+  "https://images.blocketcdn.se/dynamic/default/item/25680269/15d3b394-c1e3-4c82-bfcd-8b90cd7737fc",
+  "https://images.blocketcdn.se/dynamic/default/item/25680269/b16b128f-7663-4ec2-9c77-4662f12d8f06",
+  "https://images.blocketcdn.se/dynamic/default/item/25680269/ddd315b6-37a0-4be7-84b2-f1237575657d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.88,
  "length_ft": 21,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +73,13 @@
   "text_sha": "d26ccc7f7d98f8a3"
  },
  "location": "Rättvik",
- "lon": 15.13431,
+ "lon": 15.13,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 290,
   "fetched_ts": 1790508090534,
@@ -94,7 +108,7 @@
   "Skrovmaterial": "Trä",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25680269",
  "width_cm": 180,
  "year": 1940

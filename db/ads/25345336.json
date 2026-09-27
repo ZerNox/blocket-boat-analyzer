@@ -1,0 +1,118 @@
+{
+ "ad_id": 25345336,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785705890000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn, en Mercury Optimax 90 hk från 2008, är nyservad inför iläggning, går otroligt fint och startar alltid.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell i fint skick, inlämnat för nya sömmar hösten 2024.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Välutrustad med GPS, spritkök Origo samt kylskåp som drivs på batteri.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "OBS, trailer saknas.",
+    "included": false
+   },
+   "vinterkapell": {
+    "evidence": "Täckställning med stor presenning.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Flipper 620 - Mercury Optimax 90 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25345336/a1e1d2cf-4e26-495c-843a-fcbe443c4026",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25345336/a1e1d2cf-4e26-495c-843a-fcbe443c4026",
+  "https://images.blocketcdn.se/dynamic/default/item/25345336/1145c00c-0616-41e0-8de5-290109508369",
+  "https://images.blocketcdn.se/dynamic/default/item/25345336/fca371cd-a611-4bf8-b3a6-5d25ca48705d",
+  "https://images.blocketcdn.se/dynamic/default/item/25345336/bea9f286-1ae5-4b2e-8594-c8e0c40a1446",
+  "https://images.blocketcdn.se/dynamic/default/item/25345336/d949dde8-29cd-449a-b8aa-93f67192f151",
+  "https://images.blocketcdn.se/dynamic/default/item/25345336/a7cd14e7-b157-4344-ae26-6784ec1703ab",
+  "https://images.blocketcdn.se/dynamic/default/item/25345336/8377847d-38cb-4d9f-a85d-7daf57653b89",
+  "https://images.blocketcdn.se/dynamic/default/item/25345336/65bbd79f-d88f-4508-bbea-8c7d8dfa52cf",
+  "https://images.blocketcdn.se/dynamic/default/item/25345336/246b5246-3dd8-4680-b6ae-262a4760af10",
+  "https://images.blocketcdn.se/dynamic/default/item/25345336/d1dac9e7-0ef2-45c3-866a-c06703f50a7e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.58,
+ "length_ft": 20,
+ "location": "Norrköping",
+ "lon": 16.13,
+ "make": "Flipper",
+ "max_speed": 36,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 989,
+  "fetched_ts": 1790522968533,
+  "text_sha": "34c4ab99cf305179"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Bredd": "248 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit / Blå",
+  "Längd i fot": "20 fot",
+  "Modell": "620",
+  "Modellår": "1980",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "36 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "1 050 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25345336",
+ "width_cm": 248,
+ "year": 1980
+}

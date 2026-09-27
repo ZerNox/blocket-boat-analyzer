@@ -1,0 +1,97 @@
+{
+ "ad_id": 25883302,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787955553000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury 60 Efi",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "60 hk efi Mercury 4-takt, 2006",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell behövs rengöras eller bytas.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Tank, rep, ankare, plotter medföljer.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtkärra 30km/h",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 570"
+ ],
+ "heading": "Flipper 570  60hk efi, fyrtakt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25883302/c818febd-eaa4-42dd-a7d4-d754f0d99c39",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25883302/c818febd-eaa4-42dd-a7d4-d754f0d99c39",
+  "https://images.blocketcdn.se/dynamic/default/item/25883302/a01c2a56-0f95-4205-90d9-7baf0e0bef1f",
+  "https://images.blocketcdn.se/dynamic/default/item/25883302/f2ab6a38-c0ae-4be6-8b81-da300c8af207"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.9,
+ "length_ft": 19,
+ "location": "Trosa",
+ "lon": 17.54,
+ "make": "Flipper",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 321,
+  "fetched_ts": 1790523080149,
+  "text_sha": "3ea46c41f8793a0c"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Grå",
+  "Längd i fot": "19 fot",
+  "Modell": "570",
+  "Modellår": "1975",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury 60 Efi",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25883302",
+ "width_cm": 0,
+ "year": 1975
+}

@@ -7,6 +7,8 @@
   "boat_year": 1982,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 6,
+  "engine_hp_source": "llm",
   "engine_maker": "Mast och bom finns med och segel",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Norsk dagseglare",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26367126/dda3844a-74dd-477f-ba95-ea9f646ed995",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.46487,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26367126/dda3844a-74dd-477f-ba95-ea9f646ed995",
+  "https://images.blocketcdn.se/dynamic/default/item/26367126/8aa918fd-48c4-4e58-87f1-92cd460c80e0",
+  "https://images.blocketcdn.se/dynamic/default/item/26367126/a3658594-64f0-4983-a1fd-f760b59ec89d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.46,
  "length_ft": 20,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "6c6e9fe5fec6f16c"
  },
  "location": "Järfälla",
- "lon": 17.80424,
+ "lon": 17.8,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 6.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508630107,
@@ -94,7 +102,7 @@
   "Typ": "Annat",
   "Vikt": "150 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26367126",
  "width_cm": 0,
  "year": 1982

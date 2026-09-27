@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 8.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -27,16 +29,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 4,95 m med Honda 8 HK motor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26383798/da1a0a96-b1cf-41e6-9efd-9b37e34c1c2f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.69472,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26383798/da1a0a96-b1cf-41e6-9efd-9b37e34c1c2f",
+  "https://images.blocketcdn.se/dynamic/default/item/26383798/c91d1222-28c8-4685-ad60-c32b7243250c",
+  "https://images.blocketcdn.se/dynamic/default/item/26383798/c68d9df5-5cf7-44de-b940-bb2a0cae15d5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.69,
  "length_ft": 16,
  "location": "Gävle",
- "lon": 17.14979,
+ "lon": 17.15,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 8.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 283,
   "fetched_ts": 1790508650134,
@@ -62,7 +70,7 @@
   "Märke": "Ryds",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26383798",
  "width_cm": 185,
  "year": 1980

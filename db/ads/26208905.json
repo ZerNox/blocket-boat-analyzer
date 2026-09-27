@@ -1,0 +1,74 @@
+{
+ "ad_id": 26208905,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788203422000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2016,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Jolle Walker Bay",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26208905/32f9e6bb-45a0-45ed-9d22-8cd3192b4352",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26208905/32f9e6bb-45a0-45ed-9d22-8cd3192b4352",
+  "https://images.blocketcdn.se/dynamic/default/item/26208905/67351827-4e4b-4dc5-882d-4952295a65c8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.05,
+ "length_ft": 8,
+ "location": "Helsingborg",
+ "lon": 12.69,
+ "make": "Walker Bay",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 522,
+  "fetched_ts": 1790520921574,
+  "text_sha": "2b1c168d671d5cad"
+ },
+ "price": 4500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "8 fot",
+  "Modell": "Walker Bay 8",
+  "Modellår": "2016",
+  "Motor inkluderad": "Nej",
+  "Märke": "Walker Bay",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26208905",
+ "width_cm": 0,
+ "year": 2016
+}

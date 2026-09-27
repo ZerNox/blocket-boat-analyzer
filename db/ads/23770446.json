@@ -1,0 +1,129 @@
+{
+ "ad_id": 23770446,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1787479578000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "S\nSjösäker båt med dubbel ruff, bäddbar för 4 st , botten målad 1 år sen..Ev byte ...Finns i Kiruna.",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Crescent 560 SÄNKT PRIS",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23770446/0cf430ec-1967-497d-8fe1-f63bfb41ede4",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23770446/0cf430ec-1967-497d-8fe1-f63bfb41ede4",
+  "https://images.blocketcdn.se/dynamic/default/item/23770446/3786898b-bf7b-42ae-84df-5ea6c525eb61",
+  "https://images.blocketcdn.se/dynamic/default/item/23770446/53600766-0b38-43e0-8b16-b986d9e69b2d",
+  "https://images.blocketcdn.se/dynamic/default/item/23770446/2126a0f6-a9e8-4395-9677-248840125e41"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 67.87,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "35afdbedd50791f3"
+ },
+ "location": "Kiruna",
+ "lon": 20.23,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 98,
+  "fetched_ts": 1790522907343,
+  "text_sha": "35afdbedd50791f3"
+ },
+ "price": 7500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7500
+  }
+ ],
+ "specs": {
+  "Bredd": "193 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "560 Hardtop",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Kabinbåt",
+  "Vikt": "600 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23770446",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "d5f14f53e052db93",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "brand": null,
+   "engine_photos": [],
+   "four_stroke": null,
+   "hp": null,
+   "photo": null,
+   "text_seen": null
+  },
+  "tasks": [
+   "hp"
+  ]
+ },
+ "width_cm": 193,
+ "year": 1985
+}

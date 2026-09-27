@@ -1,0 +1,87 @@
+{
+ "ad_id": 23116328,
+ "boat_class": "Annat",
+ "changed_ts": 1786110758000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1958,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1958,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Roddbåt i trä med dubbla årpar",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23116328/69f66b03-7393-44b6-87c2-11b9cb38ce05",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23116328/69f66b03-7393-44b6-87c2-11b9cb38ce05",
+  "https://images.blocketcdn.se/dynamic/default/item/23116328/8c45d4d9-d925-4c0e-9001-06cf7300cc09",
+  "https://images.blocketcdn.se/dynamic/default/item/23116328/ee43ced1-9a26-4843-8150-fb9350d23ff2",
+  "https://images.blocketcdn.se/dynamic/default/item/23116328/971c14bf-09ac-46d5-88ae-423f70a85d46",
+  "https://images.blocketcdn.se/dynamic/default/item/23116328/194df0c4-ea6e-4269-b037-053f42a08bd1",
+  "https://images.blocketcdn.se/dynamic/default/item/23116328/60fec959-2707-4423-84d5-d1a6a308c593",
+  "https://images.blocketcdn.se/dynamic/default/item/23116328/ea819f26-bc95-4375-a9fb-6cffa83c6aba",
+  "https://images.blocketcdn.se/dynamic/default/item/23116328/6360cbd0-589e-4f72-9b4c-0228cbeb2d40",
+  "https://images.blocketcdn.se/dynamic/default/item/23116328/fc0457cb-c61f-4383-9d6e-55fbeae68926",
+  "https://images.blocketcdn.se/dynamic/default/item/23116328/c647de99-b568-4cb7-a988-a39f56b96f67",
+  "https://images.blocketcdn.se/dynamic/default/item/23116328/5c9a3c2e-4e55-4b7a-a109-ac9578ad7dd2",
+  "https://images.blocketcdn.se/dynamic/default/item/23116328/8374f9cf-f940-4cb0-8a4f-88d597f46091",
+  "https://images.blocketcdn.se/dynamic/default/item/23116328/3f6cbfe5-3384-4a69-ad35-1f7546fdb139"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.82,
+ "length_ft": 13,
+ "location": "Västerljung",
+ "lon": 17.48,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1807,
+  "fetched_ts": 1790520601106,
+  "text_sha": "8421fa9c4b7dd444"
+ },
+ "price": 6000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 6000
+  }
+ ],
+ "specs": {
+  "Bredd": "146 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "13 fot",
+  "Modell": "Roddbåt i trä",
+  "Modellår": "1958",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Trä",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23116328",
+ "width_cm": 146,
+ "year": 1958
+}

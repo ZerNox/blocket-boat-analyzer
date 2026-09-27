@@ -1,0 +1,81 @@
+{
+ "ad_id": 26885939,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1790368792000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Merkery",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2022,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt o motor el start( 4 år gammal och servad varje år på båtservice) åror,fendrar samt laddstation för mob.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Hard topp båt säljes plus motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26885939/ecf4fd1d-594e-456d-9227-a9da91d7d688",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26885939/ecf4fd1d-594e-456d-9227-a9da91d7d688",
+  "https://images.blocketcdn.se/dynamic/default/item/26885939/5e4c19fb-e1b4-47df-a66e-c4adb3e03fd7",
+  "https://images.blocketcdn.se/dynamic/default/item/26885939/d69c4976-318e-4bbe-a809-ebde3c6e4982",
+  "https://images.blocketcdn.se/dynamic/default/item/26885939/6331e9cb-c82b-4132-9ec6-e0a6431aa79b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.65,
+ "length_ft": 480,
+ "location": "Mölndal",
+ "lon": 11.96,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 488,
+  "fetched_ts": 1790521077533,
+  "text_sha": "e9c72756675bea15"
+ },
+ "price": 24000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 24000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Ljus gul",
+  "Längd i fot": "480 fot",
+  "Modell": "Tummlare",
+  "Modellår": "1970",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Merkery",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26885939",
+ "width_cm": 0,
+ "year": 1970
+}

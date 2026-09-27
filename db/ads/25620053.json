@@ -1,0 +1,111 @@
+{
+ "ad_id": 25620053,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786460399000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2025,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "oanvänd roddbåt med plats för utombordare säljes. Båten inköpt 2026 och har endast legat i vattnet totalt tre veckor. Bå",
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2025,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår ej.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Roddbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25620053/0e4550fb-5aca-4a61-aa58-294e75f4c49d",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25620053/0e4550fb-5aca-4a61-aa58-294e75f4c49d",
+  "https://images.blocketcdn.se/dynamic/default/item/25620053/abfeade2-bdd9-40a4-8ff4-602e02d7c9a1",
+  "https://images.blocketcdn.se/dynamic/default/item/25620053/0179325c-6a88-47aa-b11b-026457886802",
+  "https://images.blocketcdn.se/dynamic/default/item/25620053/dc9fa30f-7b85-4d65-aa9e-1a94b9f812a5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.16,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2025,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Övriga",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "köpt 2026",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ba22cc192ee8d3e3"
+ },
+ "location": "Handen",
+ "lon": 18.15,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 168,
+  "fetched_ts": 1790520744315,
+  "text_sha": "ba22cc192ee8d3e3"
+ },
+ "price": 22000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 22000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Blått skrov",
+  "Längd i fot": "14 fot",
+  "Modell": "Amber 450E",
+  "Modellår": "2025",
+  "Märke": "Övriga",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25620053",
+ "width_cm": 0,
+ "year": 2025
+}

@@ -1,0 +1,90 @@
+{
+ "ad_id": 26929767,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1790517525000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1967,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 10.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Sabb",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1986,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Sabb dieselmotor 10hk från Norge 1986.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Stor och kraftig båttrailer medföljer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Mysig traditionell motorbåt med hytt och styrhus",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26929767/b3634ba0-69bb-4aa9-94de-0f2aad3aa706",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26929767/b3634ba0-69bb-4aa9-94de-0f2aad3aa706",
+  "https://images.blocketcdn.se/dynamic/default/item/26929767/59e32ee6-ccba-4f34-bf7a-613fc75b66e7",
+  "https://images.blocketcdn.se/dynamic/default/item/26929767/bc6fcdcb-b646-4958-b6a8-2a8dc80b0a47",
+  "https://images.blocketcdn.se/dynamic/default/item/26929767/5b50e397-2f39-4111-85d9-c8783370aa93",
+  "https://images.blocketcdn.se/dynamic/default/item/26929767/320ce910-4437-4628-9a85-698a5e13d613",
+  "https://images.blocketcdn.se/dynamic/default/item/26929767/25ec7560-0298-421a-b1d0-7f00f834b3b3"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.24,
+ "length_ft": 21,
+ "location": "Oskarshamn",
+ "lon": 16.5,
+ "make": "Snipe",
+ "max_speed": 6,
+ "motor_fuel": "Diesel",
+ "motor_size": 10.0,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 275,
+  "fetched_ts": 1790521097245,
+  "text_sha": "ce27861f19a2fa78"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Djupgående": "85 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "Nystedjolle 21 fot",
+  "Modellår": "1967",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "10 hk",
+  "Motortillverkare": "Sabb",
+  "Motortyp": "Inombordare",
+  "Märke": "Snipe",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "6 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26929767",
+ "width_cm": 0,
+ "year": 1967
+}

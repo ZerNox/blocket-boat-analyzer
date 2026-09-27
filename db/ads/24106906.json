@@ -1,0 +1,108 @@
+{
+ "ad_id": 24106906,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1786993585000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": 20,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury 60",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2010,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Monark / Crescent 555 Årsmodell 1977 med Mercury 60 Hk fyrtakt 2010.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod finns och följer med ett Humminbird.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Båten är ifrån 1977, hel i kapellet, lite små gelcoatskador inget som märks, fin i botten inga problem.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Monark / Crescent 555 Årsmodell 1977 med Mercury 60 Hk fyrtakt 2010",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24106906/e5b7cd76-395a-42a0-a53a-0ef1a22c3922",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24106906/e5b7cd76-395a-42a0-a53a-0ef1a22c3922",
+  "https://images.blocketcdn.se/dynamic/default/item/24106906/d7215c9a-2dec-4b84-9f14-d14b64db205a",
+  "https://images.blocketcdn.se/dynamic/default/item/24106906/7b7c3b48-68be-4565-a845-ced6c79637dc",
+  "https://images.blocketcdn.se/dynamic/default/item/24106906/39f8a077-1c6f-4eb2-987f-72b22f9863a4",
+  "https://images.blocketcdn.se/dynamic/default/item/24106906/b174d479-2311-49f3-a139-35223f3abafc",
+  "https://images.blocketcdn.se/dynamic/default/item/24106906/98877216-89d5-4188-b022-ed210616e1fb",
+  "https://images.blocketcdn.se/dynamic/default/item/24106906/3eb77d33-2e0c-48bd-b309-ad4d9116d1da",
+  "https://images.blocketcdn.se/dynamic/default/item/24106906/9f56e226-4980-49fc-9c1c-088e84f456ab",
+  "https://images.blocketcdn.se/dynamic/default/item/24106906/a7eae2bf-9ee9-4fcb-b4e5-367d54d603eb",
+  "https://images.blocketcdn.se/dynamic/default/item/24106906/8a97ea58-ec69-4bfa-8f66-a4cbdcde52c3",
+  "https://images.blocketcdn.se/dynamic/default/item/24106906/631d8c9a-8bea-4a19-91d0-d559a9cb6714",
+  "https://images.blocketcdn.se/dynamic/default/item/24106906/6765b680-d6eb-4f3e-878f-42f30be48f75"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.7,
+ "length_ft": 18,
+ "location": "Härryda",
+ "lon": 12.34,
+ "make": "Crescent",
+ "max_speed": 26,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 880,
+  "fetched_ts": 1790522920822,
+  "text_sha": "5927e78d0876d3be"
+ },
+ "price": 54000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 54000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Ljusbrun / Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "Monark  555",
+  "Modellår": "1977",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercury 60",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "4",
+  "Toppfart": "26 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24106906",
+ "width_cm": 205,
+ "year": 1977
+}

@@ -1,0 +1,132 @@
+{
+ "ad_id": 24149933,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1786899464000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
+  "engine_maker": "Johnsson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1979,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Stereo och ekolod.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapellet är förstärknings sytt och genomgånget på sy&fixa.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Stereo och ekolod.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Står på stabil 30 släp som följer med.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Jofa winth 555",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24149933/dad16071-d893-4985-8ed4-0d081b577351",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24149933/dad16071-d893-4985-8ed4-0d081b577351",
+  "https://images.blocketcdn.se/dynamic/default/item/24149933/bd96e77a-e54e-4492-9f96-a465890ab1be",
+  "https://images.blocketcdn.se/dynamic/default/item/24149933/a616b0e6-45af-47b7-9ffe-d9e5b9c01466",
+  "https://images.blocketcdn.se/dynamic/default/item/24149933/492c10c8-9dab-404d-b6b5-8e50e07b7c94",
+  "https://images.blocketcdn.se/dynamic/default/item/24149933/10bfe438-dabf-4a8f-b626-d955213ab043"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.42,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1979,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Johnsson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "969f88fa630021c2"
+ },
+ "location": "Årjäng",
+ "lon": 12.2,
+ "make": "Övriga",
+ "max_speed": 25,
+ "motor_fuel": null,
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 501,
+  "fetched_ts": 1790522925059,
+  "text_sha": "969f88fa630021c2"
+ },
+ "price": 29000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 29000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modellår": "1979",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Johnsson",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24149933",
+ "width_cm": 0,
+ "year": 1979
+}

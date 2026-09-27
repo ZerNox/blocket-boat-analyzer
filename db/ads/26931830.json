@@ -1,0 +1,96 @@
+{
+ "ad_id": 26931830,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790520162000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": 5,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Garmin plotter 5 tum medföljer.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Respo.",
+    "included": true,
+    "kmh": 80,
+    "year": 2015
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Utter A46",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26931830/714853be-82ff-433c-b893-95227269c24d",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26931830/714853be-82ff-433c-b893-95227269c24d",
+  "https://images.blocketcdn.se/dynamic/default/item/26931830/433b3741-6932-4bd5-9499-ce2433010747",
+  "https://images.blocketcdn.se/dynamic/default/item/26931830/a1f3bbf5-675e-4eb0-a9db-16e285d73a91",
+  "https://images.blocketcdn.se/dynamic/default/item/26931830/ee021056-b11d-470b-99c7-568d61bcac58",
+  "https://images.blocketcdn.se/dynamic/default/item/26931830/a9b80e82-35f2-4ebb-90f0-88818eb597d7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.32,
+ "length_ft": 15,
+ "location": "Östhammar",
+ "lon": 18.35,
+ "make": "Uttern",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 334,
+  "fetched_ts": 1790521098625,
+  "text_sha": "50ab18c657384fa9"
+ },
+ "price": 59000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 59000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "A46",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26931830",
+ "width_cm": 185,
+ "year": 2000
+}

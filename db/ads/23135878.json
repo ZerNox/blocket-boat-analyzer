@@ -1,0 +1,119 @@
+{
+ "ad_id": 23135878,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788167803000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": 21,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2023,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Sandström 560mc. 60 hk Honda. 2023",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Sandström 560"
+ ],
+ "heading": "Sandström 560mc. 60 hk Honda. 2023",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23135878/280cc948-8ea0-4b8c-a4ae-85a75b464d3b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23135878/280cc948-8ea0-4b8c-a4ae-85a75b464d3b",
+  "https://images.blocketcdn.se/dynamic/default/item/23135878/65b209fa-ffa6-4682-8989-77642a2cd9e9",
+  "https://images.blocketcdn.se/dynamic/default/item/23135878/6ed27626-db88-41d7-9700-4b624305b72a",
+  "https://images.blocketcdn.se/dynamic/default/item/23135878/e81b9424-d22e-45d7-a666-db7821844a6e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.71,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2023,
+   "engine_hours": 21,
+   "engine_hp": 60,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Gångtid 21 tim. Juni 26.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e38f49d851a455ca"
+ },
+ "location": "Gräddö",
+ "lon": 19.26,
+ "make": "Sandström",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 290,
+  "fetched_ts": 1790522885450,
+  "text_sha": "e38f49d851a455ca"
+ },
+ "price": 236000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 236000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "560mc",
+  "Modellår": "2023",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Sandström",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "32 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "530 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23135878",
+ "width_cm": 205,
+ "year": 2023
+}

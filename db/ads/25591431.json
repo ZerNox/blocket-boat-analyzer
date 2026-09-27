@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -18,6 +20,10 @@
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern Hyttbåt\nPrissänkt från 65 000kr\nNu ej prutbart.\nPraktisk transportbåt\nModellår ä",
+  "hull_source": "rule:text",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -27,10 +33,20 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Uttern Hyttbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25591431/54a29e3d-ab98-450c-a55e-79bc5b6b5f6f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.15392,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25591431/54a29e3d-ab98-450c-a55e-79bc5b6b5f6f",
+  "https://images.blocketcdn.se/dynamic/default/item/25591431/53ca305f-aeb5-431c-9ab1-65f652a09942",
+  "https://images.blocketcdn.se/dynamic/default/item/25591431/67ceaeff-492d-4988-8519-5b56ad4d1ebb",
+  "https://images.blocketcdn.se/dynamic/default/item/25591431/8bc889c2-296c-4b06-8a0d-085a290fe3e8",
+  "https://images.blocketcdn.se/dynamic/default/item/25591431/d712bb52-633d-4045-95ff-88ebf1f77887"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.15,
  "length_ft": 20,
  "llm": {
   "at": "2026-09-27",
@@ -60,7 +76,7 @@
   "text_sha": "58573e06b0cd6527"
  },
  "location": "Smedjebacken",
- "lon": 15.39098,
+ "lon": 15.39,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",

@@ -7,6 +7,8 @@
   "boat_year": 1955,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 10,
+  "engine_hp_source": "llm",
   "engine_maker": "Seffle S15 BFV",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -31,8 +33,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Lidwalls BVV - 10 nr 254  SIGVARD med Sefflemotor och spel. K-märkt HÖSTPRIS",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22886766/ce9fdd56-e325-4755-a9ca-174702da69d8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.78463,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22886766/ce9fdd56-e325-4755-a9ca-174702da69d8",
+  "https://images.blocketcdn.se/dynamic/default/item/22886766/777a843e-a968-4931-9970-81f75d24004a",
+  "https://images.blocketcdn.se/dynamic/default/item/22886766/c79506b7-0959-4df6-9371-a00808c9fcdf",
+  "https://images.blocketcdn.se/dynamic/default/item/22886766/bdbdf852-1bf3-4897-a106-4dcf3f3da147"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.78,
  "length_ft": 21,
  "llm": {
   "at": "2026-09-27",
@@ -62,12 +70,13 @@
   "text_sha": "908cd943695a9c6d"
  },
  "location": "Leksand",
- "lon": 15.09967,
+ "lon": 15.1,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Diesel",
  "motor_size": 10.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 540,
   "fetched_ts": 1790507469515,
@@ -95,7 +104,7 @@
   "Skrovmaterial": "Annat",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/22886766",
  "width_cm": 220,
  "year": 1955

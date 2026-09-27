@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 5.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Parson 5HK 4takt",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Roddbåt med motor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26260044/89b66253-e793-44f0-8c18-8fb598a6363c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.31971,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26260044/89b66253-e793-44f0-8c18-8fb598a6363c",
+  "https://images.blocketcdn.se/dynamic/default/item/26260044/25c1fa6f-a18a-4f68-a4bd-95fbead5b925",
+  "https://images.blocketcdn.se/dynamic/default/item/26260044/0fd3ed02-05f4-4416-b47a-a1166b57d2ed"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "6fa42700e615cca1"
  },
  "location": "Mariefred",
- "lon": 17.23936,
+ "lon": 17.24,
  "make": "Pardo",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 5.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 127,
   "fetched_ts": 1790508561767,
@@ -99,7 +107,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26260044",
  "width_cm": 175,
  "year": 1980

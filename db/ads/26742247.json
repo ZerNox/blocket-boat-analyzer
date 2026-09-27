@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha Feto",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 5000 Säljes",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26742247/1e9027c2-86ad-4e9d-8551-5b3bb8e124bf",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.05387,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26742247/1e9027c2-86ad-4e9d-8551-5b3bb8e124bf",
+  "https://images.blocketcdn.se/dynamic/default/item/26742247/59632a9d-467b-4754-9ac5-df622286edf0",
+  "https://images.blocketcdn.se/dynamic/default/item/26742247/7ecb15f9-3f8b-4e8a-b618-1beb6740bad5",
+  "https://images.blocketcdn.se/dynamic/default/item/26742247/fd35eae0-973e-48f9-9420-8239031000ab"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.05,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +78,13 @@
   "text_sha": "9723860c53f23125"
  },
  "location": "Helsingborg",
- "lon": 12.69866,
+ "lon": 12.7,
  "make": "Uttern",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 121,
   "fetched_ts": 1790508906138,
@@ -104,7 +113,7 @@
   "Toppfart": "25 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26742247",
  "width_cm": 0,
  "year": 1990

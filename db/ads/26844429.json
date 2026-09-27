@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -33,16 +35,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 478 GTI med Mercury 60 hk och Fogelsta-trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26844429/ab0793f9-d97c-4f4c-99e1-2cc658260b29",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.01532,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26844429/ab0793f9-d97c-4f4c-99e1-2cc658260b29",
+  "https://images.blocketcdn.se/dynamic/default/item/26844429/d8012d83-1f2d-414a-877d-611b6c96b4b4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.02,
  "length_ft": 16,
  "location": "Sölvesborg",
- "lon": 14.69928,
+ "lon": 14.7,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 762,
   "fetched_ts": 1790508977285,
@@ -68,7 +75,7 @@
   "Märke": "Ryds",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26844429",
  "width_cm": 0,
  "year": 2006

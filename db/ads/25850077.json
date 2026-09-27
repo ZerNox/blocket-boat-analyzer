@@ -1,0 +1,127 @@
+{
+ "ad_id": 25850077,
+ "boat_class": "Annat",
+ "changed_ts": 1789411517000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "VolvoPenta",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "Volvo Penta slutade med utombordare kring 1990",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell i bra skick, nya sömmar i år, även mindre kapell över styrhytt finns",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter Garmin 62cv",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Radio/CD",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Fin Nimbus 22 Nova säljes",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25850077/469bfc7f-5a45-4f8e-a360-73e5f066f9c7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25850077/469bfc7f-5a45-4f8e-a360-73e5f066f9c7",
+  "https://images.blocketcdn.se/dynamic/default/item/25850077/f5176e4e-2aab-4bc3-a048-059ab8bf3bb4",
+  "https://images.blocketcdn.se/dynamic/default/item/25850077/9f3ab197-5689-4153-b44d-a75e083a018b",
+  "https://images.blocketcdn.se/dynamic/default/item/25850077/3aa4a2cc-8e89-4c61-a6b0-f8f471fc7f42",
+  "https://images.blocketcdn.se/dynamic/default/item/25850077/610907b0-472f-4fb5-a9e1-434094321b8c",
+  "https://images.blocketcdn.se/dynamic/default/item/25850077/4c947f95-055e-4158-aa63-c680012376b8",
+  "https://images.blocketcdn.se/dynamic/default/item/25850077/0dcd9f54-428d-40c2-83d0-e56063a72a96",
+  "https://images.blocketcdn.se/dynamic/default/item/25850077/4716827b-5294-42c2-ad20-a03202ab5818",
+  "https://images.blocketcdn.se/dynamic/default/item/25850077/f1e7c3ce-b555-4165-b5f3-b570c4d5f523",
+  "https://images.blocketcdn.se/dynamic/default/item/25850077/d97d9d69-5fd2-4b60-87a9-31c4f0fb2947"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.35,
+ "length_ft": 22,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "VolvoPenta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ompackat drev. Lågfriktionsvajer gas/växel. Bränslefilter 2024",
+   "engine_year_rejected": 2024,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2c7156c1fc653113"
+ },
+ "location": "Kungshamn",
+ "lon": 11.26,
+ "make": "Nimbus",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 646,
+  "fetched_ts": 1790520847303,
+  "text_sha": "2c7156c1fc653113"
+ },
+ "price": 240000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 240000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "22 fot",
+  "Modell": "22 Nova",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "VolvoPenta",
+  "Motortyp": "Inombordare",
+  "Märke": "Nimbus",
+  "Sovplatser": "2",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25850077",
+ "width_cm": 0,
+ "year": 2000
+}

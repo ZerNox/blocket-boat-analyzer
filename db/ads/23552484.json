@@ -7,6 +7,8 @@
   "boat_year": 1989,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sun Buster R",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23552484/5b786b4a-1003-41dd-ac56-8ce6fa0fa44d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.73573,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23552484/5b786b4a-1003-41dd-ac56-8ce6fa0fa44d",
+  "https://images.blocketcdn.se/dynamic/default/item/23552484/d5d029a4-bb53-4b58-85bd-cf70624a741f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.74,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +66,13 @@
   "text_sha": "83dabe5100762a16"
  },
  "location": "Gävle",
- "lon": 17.40185,
+ "lon": 17.4,
  "make": "Buster",
  "max_speed": 35,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790507516022,
@@ -93,7 +100,7 @@
   "Toppfart": "35 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23552484",
  "width_cm": 0,
  "year": 1989

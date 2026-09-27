@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 2,
+  "engine_hp_source": "llm",
   "engine_maker": "\"Grästorpare\", Forss motor",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -29,8 +31,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Jaktkanot",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26460126/ccd2d26e-4b64-4d5b-b972-15f9a74d815e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.57813,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26460126/ccd2d26e-4b64-4d5b-b972-15f9a74d815e",
+  "https://images.blocketcdn.se/dynamic/default/item/26460126/8419de2c-704e-4b09-ae48-cde6466ff5a4",
+  "https://images.blocketcdn.se/dynamic/default/item/26460126/a766e190-3d3a-4712-acc0-4df6772b32e5",
+  "https://images.blocketcdn.se/dynamic/default/item/26460126/f91ffb18-b105-4c07-bf37-482cfe8e05a9",
+  "https://images.blocketcdn.se/dynamic/default/item/26460126/8f5eedb3-098f-4b74-b0ac-faa80ff19cb5",
+  "https://images.blocketcdn.se/dynamic/default/item/26460126/8499a75a-b5d7-4ed5-b920-7b9a916f1d16",
+  "https://images.blocketcdn.se/dynamic/default/item/26460126/d71bee99-fe40-471e-9c08-765eadd00e5c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.58,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +71,13 @@
   "text_sha": "66799ef1991f58a2"
  },
  "location": "Simrishamn",
- "lon": 14.29753,
+ "lon": 14.3,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 2.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 291,
   "fetched_ts": 1790508707076,
@@ -91,7 +103,7 @@
   "Märke": "Övriga",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26460126",
  "width_cm": 0,
  "year": 1940

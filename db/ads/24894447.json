@@ -7,6 +7,8 @@
   "boat_year": 2019,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -46,8 +48,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Tracker grizzly 1648sc mercury40",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24894447/ebed6bec-ed37-4b7a-b696-0b4ba7aeb548",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.57988,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24894447/ebed6bec-ed37-4b7a-b696-0b4ba7aeb548",
+  "https://images.blocketcdn.se/dynamic/default/item/24894447/60a1b4a7-d0f9-471b-b682-1f36e0b4319e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.58,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -77,12 +83,13 @@
   "text_sha": "6fe1a28dc64dd270"
  },
  "location": "Norrköping",
- "lon": 16.18905,
+ "lon": 16.19,
  "make": "Tracker",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 503,
   "fetched_ts": 1790507626168,
@@ -108,7 +115,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24894447",
  "width_cm": 0,
  "year": 2019

@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 7.5,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Robin",
   "engine_stroke": 4,
   "engine_type": "inboard",
@@ -34,8 +36,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Jaktkanot 15fot med inombordare 7,5hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/21504660/1590621a-2be0-4f55-8143-63c7431da675",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.16262,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21504660/1590621a-2be0-4f55-8143-63c7431da675",
+  "https://images.blocketcdn.se/dynamic/default/item/21504660/538b48b6-c516-4ac6-aa6f-6b79d255dc3f",
+  "https://images.blocketcdn.se/dynamic/default/item/21504660/01db0645-5ce1-4faa-bbde-3923648e873d",
+  "https://images.blocketcdn.se/dynamic/default/item/21504660/9b09d280-445e-448b-afef-116b3331baf9",
+  "https://images.blocketcdn.se/dynamic/default/item/21504660/7073c50b-779c-4bf2-8c92-0c317c006fcd",
+  "https://images.blocketcdn.se/dynamic/default/item/21504660/55eb7c30-3cd3-4152-9e4b-808eee722122",
+  "https://images.blocketcdn.se/dynamic/default/item/21504660/0003d2a6-249c-4888-8d0c-74e479d5139a",
+  "https://images.blocketcdn.se/dynamic/default/item/21504660/4674201d-253b-4bf0-9997-88f51b022e8b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.16,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +77,13 @@
   "text_sha": "21ac8528e6af383f"
  },
  "location": "Ramdala",
- "lon": 15.7349,
+ "lon": 15.73,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 7.5,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 675,
   "fetched_ts": 1790507426050,
@@ -97,7 +110,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/21504660",
  "width_cm": 0,
  "year": 1980

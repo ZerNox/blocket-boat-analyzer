@@ -7,6 +7,8 @@
   "boat_year": 1991,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -45,8 +47,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 440GT + Johnson 40hk -91 + Tiki 600 släp (2024, nyskick)",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26367806/92256798-c925-471e-a7b3-110fbc965680",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.42391,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26367806/92256798-c925-471e-a7b3-110fbc965680",
+  "https://images.blocketcdn.se/dynamic/default/item/26367806/bc5b3b58-e324-484b-889f-eb6731008d68",
+  "https://images.blocketcdn.se/dynamic/default/item/26367806/b4663bb2-8084-4725-b12f-16376efe9383",
+  "https://images.blocketcdn.se/dynamic/default/item/26367806/1509d307-c1bd-4a28-a06e-bd5eac4c3864"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.42,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -76,12 +84,13 @@
   "text_sha": "5fe5b4a41bf0ab32"
  },
  "location": "Karlstad",
- "lon": 13.43929,
+ "lon": 13.44,
  "make": "Ryds",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 662,
   "fetched_ts": 1790508631412,
@@ -113,7 +122,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "280 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26367806",
  "width_cm": 180,
  "year": 1991

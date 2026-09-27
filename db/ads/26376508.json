@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 55.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Archimedes Penta/ MCB",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Vator 15 R, 55 hk - höstklipp",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26376508/7b96a688-30e4-4d4e-be49-21a47aab3928",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.90101,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26376508/7b96a688-30e4-4d4e-be49-21a47aab3928",
+  "https://images.blocketcdn.se/dynamic/default/item/26376508/063417c5-f7e6-4982-a787-c216a5a4e4ef",
+  "https://images.blocketcdn.se/dynamic/default/item/26376508/57227dd8-a87b-4317-96cc-7008b76c97e8",
+  "https://images.blocketcdn.se/dynamic/default/item/26376508/31e7edec-d27f-4398-9583-3dfe9120ae22",
+  "https://images.blocketcdn.se/dynamic/default/item/26376508/dc43a964-e9f1-40d4-ae6e-4a9a2971d943",
+  "https://images.blocketcdn.se/dynamic/default/item/26376508/086f3e7e-3904-404e-8b77-014ab8b6c341"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.9,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +75,13 @@
   "text_sha": "98cb3ff57ac44b12"
  },
  "location": "Växjö",
- "lon": 14.73744,
+ "lon": 14.74,
  "make": "Vator",
  "max_speed": 26,
  "motor_fuel": "Bensin",
  "motor_size": 55.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 303,
   "fetched_ts": 1790508640479,
@@ -101,7 +112,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "285 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26376508",
  "width_cm": 175,
  "year": 1980

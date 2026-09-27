@@ -1,0 +1,109 @@
+{
+ "ad_id": 26905242,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1790432044000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1989,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Den har en Johnson 70hk från ca 1989.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Det ingår en gps ”Humminbird Helix7”, täckställning och presenning.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapellet är i helt ok skick, tvättat och inpregnerat i våras.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Det ingår en gps ”Humminbird Helix7”, täckställning och presenning.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer ingår ej, men kan köpas till.",
+    "included": false
+   },
+   "vinterkapell": {
+    "evidence": "Det ingår en gps ”Humminbird Helix7”, täckställning och presenning.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 570ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 570"
+ ],
+ "heading": "Flipper 570ht",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26905242/3b884d0f-fe5f-4e50-8d6d-99aef3392063",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26905242/3b884d0f-fe5f-4e50-8d6d-99aef3392063",
+  "https://images.blocketcdn.se/dynamic/default/item/26905242/b90e7439-db9d-4f31-945d-2e99a12c182b",
+  "https://images.blocketcdn.se/dynamic/default/item/26905242/924626ef-8c34-4fd2-85ce-de282fb85bed",
+  "https://images.blocketcdn.se/dynamic/default/item/26905242/c9410c62-7415-464f-bfec-94609a88b632",
+  "https://images.blocketcdn.se/dynamic/default/item/26905242/213b913b-b1fb-4080-b9eb-fad8783a7a94",
+  "https://images.blocketcdn.se/dynamic/default/item/26905242/52a67b69-a470-4a42-8db3-eca90700bd7d",
+  "https://images.blocketcdn.se/dynamic/default/item/26905242/a6c64717-b939-4bb9-9c1f-41fb7ae63f70"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.2,
+ "length_ft": 18,
+ "location": "Vendelsö",
+ "lon": 18.19,
+ "make": "Flipper",
+ "max_speed": 29,
+ "motor_fuel": null,
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 417,
+  "fetched_ts": 1790523236176,
+  "text_sha": "cba110383b0fa742"
+ },
+ "price": 23000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 23000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "570 HT",
+  "Modellår": "1979",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sovplatser": "2",
+  "Toppfart": "29 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26905242",
+ "width_cm": 0,
+ "year": 1979
+}

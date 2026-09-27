@@ -1,0 +1,130 @@
+{
+ "ad_id": 25324435,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788673287000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2014,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 15,
+  "engine_hp_source": "llm",
+  "engine_maker": null,
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": "rnativ finns om så önskas. En Mariner 15 hkr är nyservad med eluttag. Startar på första rycket. Då gör den 22 knop. Går",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "Evinrude utan E-TEC tillverkades till 2007",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Båten är mycket uppskattad av sportfiskare då den mycket enkelt kan förses med kastdäck och elmotor.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Det finns även registrerad 80-trailer.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Terhi 400",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25324435/a1409dbb-1a56-4789-80a4-937e87003730",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25324435/a1409dbb-1a56-4789-80a4-937e87003730",
+  "https://images.blocketcdn.se/dynamic/default/item/25324435/10a0be6f-8e27-4751-88b9-ed77f3866af7",
+  "https://images.blocketcdn.se/dynamic/default/item/25324435/383a4d1b-02b2-46ba-b9f9-b47371bfa048",
+  "https://images.blocketcdn.se/dynamic/default/item/25324435/6e877586-ea66-46d8-be13-026de38f8200",
+  "https://images.blocketcdn.se/dynamic/default/item/25324435/68dda09d-e985-413a-851c-a82cd9dd030e",
+  "https://images.blocketcdn.se/dynamic/default/item/25324435/41cd244b-2b15-4075-ad13-97e646f90f42",
+  "https://images.blocketcdn.se/dynamic/default/item/25324435/222e6d64-e0f4-4d8a-affd-286b2b8edc9d",
+  "https://images.blocketcdn.se/dynamic/default/item/25324435/93d12aa2-d5eb-4976-9ff5-374ece529c83",
+  "https://images.blocketcdn.se/dynamic/default/item/25324435/76beee2d-222c-489c-a029-f58203111c80",
+  "https://images.blocketcdn.se/dynamic/default/item/25324435/311625e1-3990-4652-9844-c1e2eb703a5a",
+  "https://images.blocketcdn.se/dynamic/default/item/25324435/afa8deca-56f2-4308-822f-b1c01f8d2d56",
+  "https://images.blocketcdn.se/dynamic/default/item/25324435/3679429a-aa62-4d37-9f01-4326efb99cc6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.38,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2014,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mariner 15 hkr är nyservad med eluttag.",
+   "engine_year_rejected": 2023,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "eb7254027eec75a2"
+ },
+ "location": "Lidingö",
+ "lon": 18.18,
+ "make": "Terhi",
+ "max_speed": 22,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1467,
+  "fetched_ts": 1790520678377,
+  "text_sha": "eb7254027eec75a2"
+ },
+ "price": 17000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 17000
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "Terhi 400",
+  "Modellår": "2014",
+  "Motor inkluderad": "Nej",
+  "Motortyp": "Utombordare",
+  "Märke": "Terhi",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "22 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "120 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25324435",
+ "width_cm": 150,
+ "year": 2014
+}

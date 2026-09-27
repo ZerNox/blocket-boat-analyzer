@@ -7,6 +7,8 @@
   "boat_year": 1970,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 9.9,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Motorbåt säljes",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25712568/2b5eafa9-11e6-4580-b0fa-9c899392a75f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.56333,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25712568/2b5eafa9-11e6-4580-b0fa-9c899392a75f",
+  "https://images.blocketcdn.se/dynamic/default/item/25712568/abad2434-8a8f-4682-99db-10503b2e6142",
+  "https://images.blocketcdn.se/dynamic/default/item/25712568/12026b6c-51b4-4384-83ba-0c7a625c9dab",
+  "https://images.blocketcdn.se/dynamic/default/item/25712568/8e8d82a0-ac51-4605-bd57-0b9f2374b34f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.56,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "701dfac99e326d56"
  },
  "location": "Älvkarleby",
- "lon": 17.47856,
+ "lon": 17.48,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 9.899999618530273,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 327,
   "fetched_ts": 1790508113621,
@@ -93,7 +102,7 @@
   "Sittplatser": "3",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25712568",
  "width_cm": 0,
  "year": 1970

@@ -1,0 +1,126 @@
+{
+ "ad_id": 26372932,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788714799000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": 400,
+  "engine_hp": 4,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercruiser 4,3 EFI",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Hyttbåt / bobåt\nEn enkel och praktisk Hyttbåt med två (tre) sovplatser innehålla",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Hyttbåt / bobåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26372932/07945459-ae01-4d23-b0a6-49c344350a42",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26372932/07945459-ae01-4d23-b0a6-49c344350a42",
+  "https://images.blocketcdn.se/dynamic/default/item/26372932/40851936-40d4-4988-aff2-7c463474852e",
+  "https://images.blocketcdn.se/dynamic/default/item/26372932/236cb956-ce3f-48f1-b30a-7334f8471c32",
+  "https://images.blocketcdn.se/dynamic/default/item/26372932/61a19bb9-3fe8-4e1b-9034-fa7f2f59bc22",
+  "https://images.blocketcdn.se/dynamic/default/item/26372932/0045802b-86b7-44af-85d0-1dc97ae6cc7d",
+  "https://images.blocketcdn.se/dynamic/default/item/26372932/1829493f-5c1b-4d1d-9ecd-98ccc9eb034f",
+  "https://images.blocketcdn.se/dynamic/default/item/26372932/b082806f-7eea-4018-b066-f791ea3d67b2",
+  "https://images.blocketcdn.se/dynamic/default/item/26372932/e81408c0-a0ff-42ca-adaa-1672867e5c0a",
+  "https://images.blocketcdn.se/dynamic/default/item/26372932/a448670f-08c3-4f4a-aa57-922e375fa2e4",
+  "https://images.blocketcdn.se/dynamic/default/item/26372932/1ddf5666-1e71-4584-9b18-f8b76d268530",
+  "https://images.blocketcdn.se/dynamic/default/item/26372932/51b699e5-7bdc-4d8f-86c9-bd184491dc3d",
+  "https://images.blocketcdn.se/dynamic/default/item/26372932/9c1c0ef3-4efb-4132-b007-ad3a3f8832fb",
+  "https://images.blocketcdn.se/dynamic/default/item/26372932/bb51b898-162e-40ad-ba80-57499af287c1",
+  "https://images.blocketcdn.se/dynamic/default/item/26372932/4a7733af-8db0-4cda-b2c3-82c5de7e6936"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.31,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 4,
+   "engine_maker": "Mercruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn har endast c:a 400 gångtimmar sedan ny.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c32472d91f131748"
+ },
+ "location": "Värmdö",
+ "lon": 18.61,
+ "make": "Bella",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 490,
+  "fetched_ts": 1790520950721,
+  "text_sha": "c32472d91f131748"
+ },
+ "price": 210000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 210000
+  }
+ ],
+ "specs": {
+  "Bredd": "242 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "80 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "21 fot",
+  "Modell": "655",
+  "Modellår": "2000",
+  "Motortillverkare": "Mercruiser 4,3 EFI",
+  "Motortyp": "Inombordare",
+  "Märke": "Bella",
+  "Sittplatser": "5",
+  "Sovplatser": "3",
+  "Toppfart": "35 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26372932",
+ "width_cm": 242,
+ "year": 2000
+}

@@ -1,0 +1,109 @@
+{
+ "ad_id": 26331939,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1788777059000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury 2-takt 2003",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Mercury 2-takt 2003",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod Humminbird 250DX med knopmätare och vattentemp (visar dock 5 gr för lite)",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapellet är från 2009.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Skibsplast 550HT med trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Skibsplast 550HT med trailer",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Skibsplast 550HT med trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26331939/6be3a86f-2bc1-4511-a285-085ee3a18e2f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26331939/6be3a86f-2bc1-4511-a285-085ee3a18e2f",
+  "https://images.blocketcdn.se/dynamic/default/item/26331939/997c9fee-3e21-47e3-bd83-8bf603698eec",
+  "https://images.blocketcdn.se/dynamic/default/item/26331939/44977afc-893d-443b-b696-b11aa10d333a",
+  "https://images.blocketcdn.se/dynamic/default/item/26331939/17279209-6ea9-4fe6-ada2-72a861522d55",
+  "https://images.blocketcdn.se/dynamic/default/item/26331939/67c6db5a-aecf-4681-8135-3c8628c40339",
+  "https://images.blocketcdn.se/dynamic/default/item/26331939/88b22532-5026-49f4-baf4-2a9d297f3dfb",
+  "https://images.blocketcdn.se/dynamic/default/item/26331939/975c49b4-ad68-478b-a4dc-ebe6f80677ca",
+  "https://images.blocketcdn.se/dynamic/default/item/26331939/1dff8229-2600-4459-a6cd-4dc3e7d38a5a",
+  "https://images.blocketcdn.se/dynamic/default/item/26331939/d6458003-27b0-4fe6-a5d4-8806c42bf696",
+  "https://images.blocketcdn.se/dynamic/default/item/26331939/e5085c1b-afc8-4f3f-b0e0-7cf74b8e925f"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.93,
+ "length_ft": 18,
+ "location": "Romelanda",
+ "lon": 12.03,
+ "make": "Skibsplast",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1862,
+  "fetched_ts": 1790523145828,
+  "text_sha": "e59fecb0d43fff2a"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "18 fot",
+  "Modell": "550HT",
+  "Modellår": "1988",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury 2-takt 2003",
+  "Motortyp": "Utombordare",
+  "Märke": "Skibsplast",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "32 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "800 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26331939",
+ "width_cm": 210,
+ "year": 1988
+}

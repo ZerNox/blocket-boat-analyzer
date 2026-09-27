@@ -7,6 +7,8 @@
   "boat_year": 2012,
   "boat_year_source": "spec",
   "engine_hours": 145,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -40,8 +42,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Micore 500cc -12",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25209609/02648165-9bac-4c35-8853-723831f19eb7",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.66442,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25209609/02648165-9bac-4c35-8853-723831f19eb7",
+  "https://images.blocketcdn.se/dynamic/default/item/25209609/e701875b-36ff-4e9b-8b46-8bf92f8c16c4",
+  "https://images.blocketcdn.se/dynamic/default/item/25209609/78492679-880f-4e38-b8d6-911df610e67e",
+  "https://images.blocketcdn.se/dynamic/default/item/25209609/92ae83a3-c94c-4821-b0db-1d8725e8c88f",
+  "https://images.blocketcdn.se/dynamic/default/item/25209609/6f344e80-d498-4fff-a877-589bbc1ebd2a",
+  "https://images.blocketcdn.se/dynamic/default/item/25209609/8de0e0ce-4c62-499e-a24f-12ee7c1a4cd6",
+  "https://images.blocketcdn.se/dynamic/default/item/25209609/225df341-6475-4b25-be07-84981d43b566",
+  "https://images.blocketcdn.se/dynamic/default/item/25209609/bcd15fbe-9ce4-4c16-8106-40fdf573fc96"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.66,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -72,12 +84,13 @@
   "text_sha": "3b6dda33b69bd7bd"
  },
  "location": "Nyköping",
- "lon": 16.90588,
+ "lon": 16.91,
  "make": "Micore",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 361,
   "fetched_ts": 1790507649387,
@@ -104,7 +117,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25209609",
  "width_cm": 0,
  "year": 2012

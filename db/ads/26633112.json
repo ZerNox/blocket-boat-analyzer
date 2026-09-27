@@ -7,6 +7,8 @@
   "boat_year": 1998,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "crescent 465 styrpulpet",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26633112/17e2a976-bb72-466c-81b6-ab91fdeacc5d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.28488,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26633112/17e2a976-bb72-466c-81b6-ab91fdeacc5d",
+  "https://images.blocketcdn.se/dynamic/default/item/26633112/6075a6cb-370a-46dd-b382-88ee33bd9504",
+  "https://images.blocketcdn.se/dynamic/default/item/26633112/1f8ef3d5-5f37-4a66-8c61-3e51ecf11587",
+  "https://images.blocketcdn.se/dynamic/default/item/26633112/8d9bfdc8-ac8b-42f4-ac54-750dca37dccf",
+  "https://images.blocketcdn.se/dynamic/default/item/26633112/13278f20-8ee6-45b0-96ca-cdbb1f659bca",
+  "https://images.blocketcdn.se/dynamic/default/item/26633112/8c38ecd2-d066-42ca-b6e1-7af3ada84f96",
+  "https://images.blocketcdn.se/dynamic/default/item/26633112/7776cb95-dd84-45a9-b8c5-b0bd1ca06aa0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.28,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +81,13 @@
   "text_sha": "247148c8623f23a3"
  },
  "location": "Hästveda",
- "lon": 13.8818,
+ "lon": 13.88,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 153,
   "fetched_ts": 1790508837555,
@@ -103,7 +115,7 @@
   "Sittplatser": "5",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26633112",
  "width_cm": 180,
  "year": 1998

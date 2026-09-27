@@ -7,6 +7,8 @@
   "boat_year": 2017,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -32,16 +34,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 4,25 Mercyr",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26633975/65c6f0da-f499-4d4a-bcc8-894d639cf07b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.10197,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26633975/65c6f0da-f499-4d4a-bcc8-894d639cf07b",
+  "https://images.blocketcdn.se/dynamic/default/item/26633975/c1eacd58-600d-460d-a82c-3b046c4673da"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.1,
  "length_ft": 15,
  "location": "Värnamo",
- "lon": 14.07947,
+ "lon": 14.08,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 218,
   "fetched_ts": 1790508838964,
@@ -68,7 +75,7 @@
   "Märke": "Ryds",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26633975",
  "width_cm": 0,
  "year": 2017

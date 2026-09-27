@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": 80,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -23,6 +25,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "r en Örnvik 5.60 med stor akterhytt, bromsat släp och en 50 hk Honda utombordare köpt 2020. \nStor akterhyt",
+  "hull_source": "rule:text",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -32,10 +38,19 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Örnvik 5.60 med bromsat släp och 50 hk motor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25885220/00083536-1760-418e-a4cc-13adee3c3c5b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.39534,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25885220/00083536-1760-418e-a4cc-13adee3c3c5b",
+  "https://images.blocketcdn.se/dynamic/default/item/25885220/d6b820ea-eb09-4707-8b60-7a716e3831e4",
+  "https://images.blocketcdn.se/dynamic/default/item/25885220/74efee75-3760-46b1-9825-6238e57a8362",
+  "https://images.blocketcdn.se/dynamic/default/item/25885220/f1a67e10-f6cc-406d-ba1b-5a8fd57a2e43"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 62.4,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -66,7 +81,7 @@
   "text_sha": "7df2779b7d3f6213"
  },
  "location": "Sundsvall",
- "lon": 17.2913,
+ "lon": 17.29,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",

@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 5.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Terhi 440",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26481435/840a57b7-9e1e-4f4f-b9d6-3d8f86783066",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.72152,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26481435/840a57b7-9e1e-4f4f-b9d6-3d8f86783066",
+  "https://images.blocketcdn.se/dynamic/default/item/26481435/775dc71a-2456-464c-b899-dc124d226723",
+  "https://images.blocketcdn.se/dynamic/default/item/26481435/c82ed95d-e871-4e61-a0e1-63fac4f12911"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.72,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "e5dba2e164bd63d6"
  },
  "location": "Ankarsrum",
- "lon": 16.27221,
+ "lon": 16.27,
  "make": "Terhi",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 5.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 78,
   "fetched_ts": 1790508718393,
@@ -94,7 +102,7 @@
   "Märke": "Terhi",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26481435",
  "width_cm": 0,
  "year": 2006

@@ -1,0 +1,81 @@
+{
+ "ad_id": 26175185,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788711376000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2022,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Terhi 440 roddbåt till vrakpris.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26175185/c0c12f26-1654-476f-9a60-6da145b2db73",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26175185/c0c12f26-1654-476f-9a60-6da145b2db73",
+  "https://images.blocketcdn.se/dynamic/default/item/26175185/502acba3-9763-42fc-9042-4d0e546678d3",
+  "https://images.blocketcdn.se/dynamic/default/item/26175185/5662b478-d34a-445b-8ebd-7380b42aabcd",
+  "https://images.blocketcdn.se/dynamic/default/item/26175185/2180a764-bbf8-4787-9310-2c91fd2ece3f",
+  "https://images.blocketcdn.se/dynamic/default/item/26175185/1ca18531-3a23-4101-a059-6ef8631bc419",
+  "https://images.blocketcdn.se/dynamic/default/item/26175185/da9737ba-5df5-496c-a82c-97cd2b5e0e15"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.37,
+ "length_ft": 14,
+ "location": "Lidingö",
+ "lon": 18.24,
+ "make": "Terhi",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 448,
+  "fetched_ts": 1790520914443,
+  "text_sha": "d6e82728d3b7e5c2"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "20 cm",
+  "Färg": "Ljusgrå",
+  "Längd i fot": "14 fot",
+  "Modell": "440",
+  "Modellår": "2022",
+  "Motor inkluderad": "Nej",
+  "Märke": "Terhi",
+  "Sittplatser": "4",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "150 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26175185",
+ "width_cm": 175,
+ "year": 2022
+}

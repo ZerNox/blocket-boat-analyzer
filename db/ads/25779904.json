@@ -7,6 +7,8 @@
   "boat_year": 2018,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Evenrude e-tec",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -35,8 +37,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sting 470 2018",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25779904/82581f58-48c4-4058-bb2c-8e99f97f817b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.84733,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25779904/82581f58-48c4-4058-bb2c-8e99f97f817b",
+  "https://images.blocketcdn.se/dynamic/default/item/25779904/9a77af81-5944-483e-af6a-671de301b18e",
+  "https://images.blocketcdn.se/dynamic/default/item/25779904/5cbdb126-0900-484c-b171-651fd22d269a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.85,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +73,13 @@
   "text_sha": "ca6e4b48872150cd"
  },
  "location": "Kärna",
- "lon": 11.79348,
+ "lon": 11.79,
  "make": "Sting",
  "max_speed": 27,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 104,
   "fetched_ts": 1790508188840,
@@ -104,7 +112,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "380 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25779904",
  "width_cm": 189,
  "year": 2018

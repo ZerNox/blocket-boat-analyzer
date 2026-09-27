@@ -7,6 +7,8 @@
   "boat_year": 2019,
   "boat_year_source": "spec",
   "engine_hours": 2,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -40,8 +42,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet Sandström 495 S med 80km trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26532037/31819240-494e-4661-8462-4c05c0e04fe1",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.82323,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26532037/31819240-494e-4661-8462-4c05c0e04fe1",
+  "https://images.blocketcdn.se/dynamic/default/item/26532037/c8909b3a-7ade-44c6-9ebe-fef2bb33fd07",
+  "https://images.blocketcdn.se/dynamic/default/item/26532037/89a7a887-368b-44be-b0a3-77c69bf13842",
+  "https://images.blocketcdn.se/dynamic/default/item/26532037/88eb6169-8ca7-42bb-969a-1dcfd0dcd052"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.82,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +79,13 @@
   "text_sha": "885f539ee184715c"
  },
  "location": "Bredared",
- "lon": 12.85417,
+ "lon": 12.85,
  "make": "Sandström",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 263,
   "fetched_ts": 1790508766915,
@@ -100,7 +109,7 @@
   "Märke": "Sandström",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26532037",
  "width_cm": 0,
  "year": 2019

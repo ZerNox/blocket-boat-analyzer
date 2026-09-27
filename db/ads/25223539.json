@@ -35,13 +35,14 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "Buster Big med Yamaha 50hk 4t",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25223539/4977b153-1473-4f2b-856b-3cc8bd2abba7",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.66211,
+ "lat": 60.66,
  "length_ft": 16,
  "location": "Furuvik",
- "lon": 17.37344,
+ "lon": 17.37,
  "make": "Buster",
  "max_speed": null,
  "motor_fuel": "Bensin",
@@ -74,7 +75,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/25223539",
  "width_cm": 190,
  "year": 1990

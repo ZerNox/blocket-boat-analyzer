@@ -7,6 +7,8 @@
   "boat_year": 1977,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4,
+  "engine_hp_source": "llm",
   "engine_maker": "Selva Gold fish 4-taktare",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -39,8 +41,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt med kapell",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25448853/42bb6f4c-bd86-4e81-9e4b-8101bf5b5e43",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.64488,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25448853/42bb6f4c-bd86-4e81-9e4b-8101bf5b5e43",
+  "https://images.blocketcdn.se/dynamic/default/item/25448853/c109baec-250e-469e-b969-d86528737e3c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.64,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +76,13 @@
   "text_sha": "87644313337cb544"
  },
  "location": "Visby",
- "lon": 18.54485,
+ "lon": 18.54,
  "make": "Selva",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 124,
   "fetched_ts": 1790507877487,
@@ -102,7 +109,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25448853",
  "width_cm": 0,
  "year": 1977

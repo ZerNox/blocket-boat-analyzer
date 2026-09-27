@@ -1,0 +1,99 @@
+{
+ "ad_id": 26462508,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788981213000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1997,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "- Evinrude 70 hk, årsmodell 1997",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "-Kapell",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båttrailer ingår.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Bella 551 med Evinrude 70 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26462508/84bf4f00-ca8a-4547-b773-17ce6b291128",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26462508/84bf4f00-ca8a-4547-b773-17ce6b291128",
+  "https://images.blocketcdn.se/dynamic/default/item/26462508/70628efa-5d67-4d93-8881-d09db5b5e8c6",
+  "https://images.blocketcdn.se/dynamic/default/item/26462508/c3c6a06b-61fb-4280-ad4f-bb7eff421d7a",
+  "https://images.blocketcdn.se/dynamic/default/item/26462508/34609f60-fd4f-45c7-9f84-719eac81eb68",
+  "https://images.blocketcdn.se/dynamic/default/item/26462508/e4b64993-e057-4d3d-bd58-e1939834be89",
+  "https://images.blocketcdn.se/dynamic/default/item/26462508/827dd5d1-e32e-44da-9b04-4efa5581207e",
+  "https://images.blocketcdn.se/dynamic/default/item/26462508/f41e784a-1297-43a9-977f-e43b66cbc4dd",
+  "https://images.blocketcdn.se/dynamic/default/item/26462508/090b92d3-20df-43db-8652-c6582c0d8094"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.28,
+ "length_ft": 18,
+ "location": "Ingarö",
+ "lon": 18.49,
+ "make": "Bella",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 627,
+  "fetched_ts": 1790523175240,
+  "text_sha": "e19434e1a554b42f"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Bredd": "206 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "551HT",
+  "Modellår": "1995",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26462508",
+ "width_cm": 206,
+ "year": 1995
+}

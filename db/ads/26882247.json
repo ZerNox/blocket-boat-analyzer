@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Cresent",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt av okänd model",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26882247/0bfe869c-831f-488b-95da-5f514c80b9b6",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.95431,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26882247/0bfe869c-831f-488b-95da-5f514c80b9b6",
+  "https://images.blocketcdn.se/dynamic/default/item/26882247/f0ea5696-8407-40b4-bdc6-ce635acef208",
+  "https://images.blocketcdn.se/dynamic/default/item/26882247/8482b199-5866-49df-b289-d36d0a7fe92a",
+  "https://images.blocketcdn.se/dynamic/default/item/26882247/23f59ae2-9dbb-4814-ab84-8d8ec5dc1bd2",
+  "https://images.blocketcdn.se/dynamic/default/item/26882247/29060e16-5d04-4e2f-89f0-02aec8393be6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.95,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "004dc9af5f81a968"
  },
  "location": "Mörkö",
- "lon": 17.67656,
+ "lon": 17.68,
  "make": "Övriga",
  "max_speed": 18,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 207,
   "fetched_ts": 1790508999598,
@@ -98,7 +108,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "1 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26882247",
  "width_cm": 160,
  "year": 2000

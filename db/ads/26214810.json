@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Cresent 465 komplett båtpaket med Yamaha 20 hk och Br Fransson/Fågelsta trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26214810/fafc5db2-dc89-4c18-8872-9b3c7dca2986",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.94252,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26214810/fafc5db2-dc89-4c18-8872-9b3c7dca2986",
+  "https://images.blocketcdn.se/dynamic/default/item/26214810/a085d61e-04af-4000-8e1b-57c9418651fb",
+  "https://images.blocketcdn.se/dynamic/default/item/26214810/fb173376-759e-48b7-860c-e0224fbb62f7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.94,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "8493975fd3d3f832"
  },
  "location": "Gärds Köpinge",
- "lon": 14.15424,
+ "lon": 14.15,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 175,
   "fetched_ts": 1790508524196,
@@ -98,7 +106,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26214810",
  "width_cm": 0,
  "year": 1990

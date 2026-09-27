@@ -1,0 +1,79 @@
+{
+ "ad_id": 26565124,
+ "boat_class": "Annat",
+ "changed_ts": 1789313229000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1960,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1960,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Bohusjulle halvdäckad 16 fot",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26565124/9930909b-90f7-4719-a76b-011eb29bd96a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26565124/9930909b-90f7-4719-a76b-011eb29bd96a",
+  "https://images.blocketcdn.se/dynamic/default/item/26565124/bb28868d-643b-4b5b-9bf5-da3d33940e9c",
+  "https://images.blocketcdn.se/dynamic/default/item/26565124/4cba94cc-3f60-4e8b-8464-a7355d8f9aae",
+  "https://images.blocketcdn.se/dynamic/default/item/26565124/95f14e81-979a-4fda-8a3a-cb4502f3d420"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.96,
+ "length_ft": 16,
+ "location": "Kode",
+ "lon": 11.78,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 151,
+  "fetched_ts": 1790521009610,
+  "text_sha": "f992cada47ed8c1b"
+ },
+ "price": 0,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 0
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Färg": "trä",
+  "Längd i fot": "16 fot",
+  "Modell": "Bohusjulle 16 fot",
+  "Modellår": "1960",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Trä",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26565124",
+ "width_cm": 0,
+ "year": 1960
+}

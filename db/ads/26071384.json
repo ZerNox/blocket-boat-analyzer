@@ -1,0 +1,91 @@
+{
+ "ad_id": 26071384,
+ "boat_class": "Annat",
+ "changed_ts": 1790185650000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1976,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Nya sidolanernor ej kopplade, fina kapellbågar.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds camping inkl Laxåtrailer, utan motor",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds camping inkl Laxåtrailer, utan motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26071384/85697718-7142-4da2-835c-8d8837ba45c4",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26071384/85697718-7142-4da2-835c-8d8837ba45c4",
+  "https://images.blocketcdn.se/dynamic/default/item/26071384/e3da87df-8fed-4ca6-9bb6-ce7523ee368b",
+  "https://images.blocketcdn.se/dynamic/default/item/26071384/43dd1e16-40ce-448b-b56f-a76a8f3b7f82",
+  "https://images.blocketcdn.se/dynamic/default/item/26071384/162a6b57-d61b-444b-9fe3-043f0074aa64",
+  "https://images.blocketcdn.se/dynamic/default/item/26071384/3515020b-5579-43e8-bbf8-938cc1d5e6bb",
+  "https://images.blocketcdn.se/dynamic/default/item/26071384/358dfd3b-11f6-4dbe-b3fc-9e3e829e4c51",
+  "https://images.blocketcdn.se/dynamic/default/item/26071384/b8adafb5-11ef-4b4d-8512-1023f4510488",
+  "https://images.blocketcdn.se/dynamic/default/item/26071384/eb243e0c-8a91-4d20-a586-15c375c5bda7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.74,
+ "length_ft": 19,
+ "location": "Norrtälje",
+ "lon": 18.71,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 527,
+  "fetched_ts": 1790520890791,
+  "text_sha": "b93b97bbe856b49f"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "Camping",
+  "Modellår": "1976",
+  "Märke": "Ryds",
+  "Sittplatser": "7",
+  "Sovplatser": "3",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26071384",
+ "width_cm": 220,
+ "year": 1976
+}

@@ -7,6 +7,8 @@
   "boat_year": 1996,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "JOHNSON",
   "engine_stroke": null,
   "engine_type": null,
@@ -30,8 +32,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Stabil, sjösäker båt. Godkänd för 8 personer.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25476112/de5ea91d-b589-4a4b-8892-dd611c86c6ab",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.63972,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25476112/de5ea91d-b589-4a4b-8892-dd611c86c6ab",
+  "https://images.blocketcdn.se/dynamic/default/item/25476112/762f981f-c427-4dae-b0f7-65ea1729ed3b",
+  "https://images.blocketcdn.se/dynamic/default/item/25476112/3cf4283d-c9ec-480d-a1ec-8711d80fb5ab",
+  "https://images.blocketcdn.se/dynamic/default/item/25476112/8a9ce74a-da09-46db-8003-d5c394578d54",
+  "https://images.blocketcdn.se/dynamic/default/item/25476112/62813227-8050-48c6-99e3-aaeb93764df1"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.64,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -61,12 +70,13 @@
   "text_sha": "90352c62f65dbafb"
  },
  "location": "Västerås",
- "lon": 16.54167,
+ "lon": 16.54,
  "make": "Ryds",
  "max_speed": 30,
  "motor_fuel": null,
  "motor_size": 60.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 308,
   "fetched_ts": 1790507904361,
@@ -94,7 +104,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25476112",
  "width_cm": 220,
  "year": 1996

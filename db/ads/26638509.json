@@ -1,0 +1,133 @@
+{
+ "ad_id": 26638509,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789568443000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": 132,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1998,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Nya dynor,kapellet i bruksskick .",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Hydralstyrning 2st lösa bränsletankar Garmin GPS fendrar ankare plätt mm.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Säljer vår fina motobåt.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26638509/ecc6a67c-0012-4f3a-b59e-32c298df568e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26638509/ecc6a67c-0012-4f3a-b59e-32c298df568e",
+  "https://images.blocketcdn.se/dynamic/default/item/26638509/c35ed2d7-0cc3-4ae8-a297-91a63545dbff",
+  "https://images.blocketcdn.se/dynamic/default/item/26638509/0cdad303-0de9-485f-8b9f-9d8808f657a4",
+  "https://images.blocketcdn.se/dynamic/default/item/26638509/a62dc8ad-fa50-4bf8-afde-e9fac7a1597a",
+  "https://images.blocketcdn.se/dynamic/default/item/26638509/e8abbdec-2a95-4f2a-9c7c-fca0c942237a",
+  "https://images.blocketcdn.se/dynamic/default/item/26638509/0cea26b3-dd11-4105-937e-23c210539758",
+  "https://images.blocketcdn.se/dynamic/default/item/26638509/86311a67-a22e-4b4f-88bd-f974cc548296",
+  "https://images.blocketcdn.se/dynamic/default/item/26638509/2f7fa139-cffd-4846-956b-92c2264e9bba",
+  "https://images.blocketcdn.se/dynamic/default/item/26638509/e1ccdc7a-69cf-4e6c-a450-ec33b2a2eada",
+  "https://images.blocketcdn.se/dynamic/default/item/26638509/1eca73fb-b5fe-4eb8-82cf-7330e6c75e8d",
+  "https://images.blocketcdn.se/dynamic/default/item/26638509/662f5e64-7ff8-4665-aaa8-0e6381b7c1a7"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.21,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1998,
+   "engine_hours": 132,
+   "engine_hp": 90,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Hondamotor ny servad hos Marinkompaniet i Karlshamn all dokumentation finns. Årsm 2007 gått endast 132timmar ny propeller.",
+   "engine_year_rejected": 2007,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "edf0e3c40a760bc7"
+ },
+ "location": "Asarum",
+ "lon": 14.83,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 281,
+  "fetched_ts": 1790523196273,
+  "text_sha": "edf0e3c40a760bc7"
+ },
+ "price": 90000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 90000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "Dc 525",
+  "Modellår": "1998",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26638509",
+ "width_cm": 0,
+ "year": 1998
+}

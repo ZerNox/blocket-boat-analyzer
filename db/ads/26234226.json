@@ -1,0 +1,116 @@
+{
+ "ad_id": 26234226,
+ "boat_class": "Annat",
+ "changed_ts": 1788452384000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1964,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo B18",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1964,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Träbåt Fortuna",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26234226/e25c7075-8797-476b-a5f9-2264cdfa3a3a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26234226/e25c7075-8797-476b-a5f9-2264cdfa3a3a",
+  "https://images.blocketcdn.se/dynamic/default/item/26234226/7a01b0e2-872d-41ef-9fb4-9016710a4564",
+  "https://images.blocketcdn.se/dynamic/default/item/26234226/6b6ebf59-0684-47d7-9097-a91401c9dba2",
+  "https://images.blocketcdn.se/dynamic/default/item/26234226/17d7dad8-196b-49ea-8232-56d3a97cee8e",
+  "https://images.blocketcdn.se/dynamic/default/item/26234226/175879df-8f3e-4da6-a666-ab6c89f1e8da",
+  "https://images.blocketcdn.se/dynamic/default/item/26234226/bc9eadc1-1d86-4274-a9f7-8a879f4aff06"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.21,
+ "length_ft": 24,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1964,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2a8ba6da04688d21"
+ },
+ "location": "Södertälje",
+ "lon": 17.61,
+ "make": "Övriga",
+ "max_speed": 9,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 298,
+  "fetched_ts": 1790520924215,
+  "text_sha": "2a8ba6da04688d21"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Bredd": "250 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "90 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "brun",
+  "Längd i fot": "24 fot",
+  "Modell": "Träbåt Fortuna",
+  "Modellår": "1964",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo B18",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Trä",
+  "Sovplatser": "3",
+  "Toppfart": "9 knop",
+  "Typ": "Annat",
+  "Vikt": "1 000 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26234226",
+ "width_cm": 250,
+ "year": 1964
+}

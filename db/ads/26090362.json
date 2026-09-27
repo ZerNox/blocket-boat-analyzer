@@ -7,6 +7,8 @@
   "boat_year": 1998,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -43,8 +45,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 4602 Mercury 50hk 4-takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26090362/969624c2-9889-4aa5-9aba-134f360f8a50",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.22357,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26090362/969624c2-9889-4aa5-9aba-134f360f8a50",
+  "https://images.blocketcdn.se/dynamic/default/item/26090362/8af3730b-4b55-4d7d-b365-da9726a54983",
+  "https://images.blocketcdn.se/dynamic/default/item/26090362/c1282f0a-c34f-41f5-8242-a18716e8dcd4",
+  "https://images.blocketcdn.se/dynamic/default/item/26090362/b235c5a9-cf3d-445c-b4cb-4aef0d297f05",
+  "https://images.blocketcdn.se/dynamic/default/item/26090362/29b3b12f-fb5d-4a45-a136-83a286ff73e3"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.22,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +83,13 @@
   "text_sha": "5d71f5fe6686f5e2"
  },
  "location": "Vara",
- "lon": 12.88578,
+ "lon": 12.89,
  "make": "Uttern",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 481,
   "fetched_ts": 1790508450092,
@@ -110,7 +120,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "340 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26090362",
  "width_cm": 185,
  "year": 1998

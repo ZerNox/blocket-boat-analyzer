@@ -1,0 +1,144 @@
+{
+ "ad_id": 17683239,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788725060000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Bränsletank 90Lt,Bredd:254 2005 i fint skick, ink:Raymarin GPS plotter axion 9(ny) Raymarine ekolod axion 9RV (ny) Kape…",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Bränsletank 90Lt,Bredd:254 2005 i fint skick, ink:Raymarin GPS plotter axion 9(ny) Raymarine ekolod axion 9RV (ny) Kape…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Bränsletank 90Lt,Bredd:254 2005 i fint skick, ink:Raymarin GPS plotter axion 9(ny) Raymarine ekolod axion 9RV (ny) Kape…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Bränsletank 90Lt,Bredd:254 2005 i fint skick, ink:Raymarin GPS plotter axion 9(ny) Raymarine ekolod axion 9RV (ny) Kape…",
+    "included": true,
+    "kmh": 80,
+    "year": 2006
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Örnvik-Pilothause",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/17683239/ca353cd7-7218-4bef-b389-728d48fe2e04",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/17683239/ca353cd7-7218-4bef-b389-728d48fe2e04",
+  "https://images.blocketcdn.se/dynamic/default/item/17683239/3faabaf2-7ce2-4285-85ea-e5adca9e0682",
+  "https://images.blocketcdn.se/dynamic/default/item/17683239/82cfd829-7cfb-46a0-9a80-afd44f15d2b4",
+  "https://images.blocketcdn.se/dynamic/default/item/17683239/19fb14ba-ac8f-45de-b19b-8925298c281f",
+  "https://images.blocketcdn.se/dynamic/default/item/17683239/651704f2-c6fc-4261-8a54-3b1413fd4223",
+  "https://images.blocketcdn.se/dynamic/default/item/17683239/052f2577-12d2-49ae-9111-ceff2db49e4a",
+  "https://images.blocketcdn.se/dynamic/default/item/17683239/0f11408e-56de-4507-89ff-de48aa53d674",
+  "https://images.blocketcdn.se/dynamic/default/item/17683239/48f808e4-77fa-4c7b-a15a-7fe85b3a4225",
+  "https://images.blocketcdn.se/dynamic/default/item/17683239/1d392cca-331d-46bc-ba0b-9aea1f10ea96"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.85,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2005,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Raymarine ekolod axion 9RV (ny)",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e6f6a8435b2302e3"
+ },
+ "location": "Gråbo",
+ "lon": 12.22,
+ "make": "Örnvik",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 424,
+  "fetched_ts": 1790522850165,
+  "text_sha": "e6f6a8435b2302e3"
+ },
+ "price": 159000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 159000
+  }
+ ],
+ "specs": {
+  "Bredd": "254 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "19 fot",
+  "Modell": "580",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "4",
+  "Sovplatser": "2",
+  "Toppfart": "35 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "1 100 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/17683239",
+ "width_cm": 254,
+ "year": 2005
+}

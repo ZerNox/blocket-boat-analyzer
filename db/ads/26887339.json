@@ -7,6 +7,8 @@
   "boat_year": 2019,
   "boat_year_source": "spec",
   "engine_hours": 1,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -33,16 +35,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 442 SC + Evinrude E-tec 50hp 2019",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26887339/0a71743c-2bc3-4772-96ed-41d62a5a6d83",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.36133,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26887339/0a71743c-2bc3-4772-96ed-41d62a5a6d83"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.36,
  "length_ft": 15,
  "location": "Eskilstuna",
- "lon": 16.52173,
+ "lon": 16.52,
  "make": "HR",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 651,
   "fetched_ts": 1790509001032,
@@ -75,7 +81,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "310 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26887339",
  "width_cm": 188,
  "year": 2019

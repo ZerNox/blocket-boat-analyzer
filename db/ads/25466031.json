@@ -7,6 +7,8 @@
   "boat_year": 1970,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 5.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Roddbåt/Motorbåt med Mariner 5 hk, trailer och åror",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25466031/3b0753c2-cf07-4ca9-957e-9bf87c618d86",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.31649,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25466031/3b0753c2-cf07-4ca9-957e-9bf87c618d86",
+  "https://images.blocketcdn.se/dynamic/default/item/25466031/4baee136-0407-44dc-acdc-b19b78d597fd",
+  "https://images.blocketcdn.se/dynamic/default/item/25466031/be128f42-3072-4cfd-9ba0-7a7bd147e7c8",
+  "https://images.blocketcdn.se/dynamic/default/item/25466031/2a9ad987-6185-4fee-b0e7-7d07aa0533dc"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +74,13 @@
   "text_sha": "bc6b6f4ffbbc9317"
  },
  "location": "Kristinehamn",
- "lon": 14.12145,
+ "lon": 14.12,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 5.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 427,
   "fetched_ts": 1790507896096,
@@ -96,7 +105,7 @@
   "Märke": "Övriga",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25466031",
  "width_cm": 120,
  "year": 1970

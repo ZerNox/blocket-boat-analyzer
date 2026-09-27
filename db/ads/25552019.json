@@ -7,6 +7,8 @@
   "boat_year": 2008,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Silver Colibri 405 – Mercury 25 hk 2021",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25552019/c8376c0d-0990-4c65-976e-381f0d5c730a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.30923,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25552019/c8376c0d-0990-4c65-976e-381f0d5c730a",
+  "https://images.blocketcdn.se/dynamic/default/item/25552019/bd3568b4-f1de-4da6-8f93-9759a7d84f48",
+  "https://images.blocketcdn.se/dynamic/default/item/25552019/93d1cbf8-f9fd-4e94-9f62-a7977a5bd4d9",
+  "https://images.blocketcdn.se/dynamic/default/item/25552019/0fde4a91-f9b9-42b9-b393-c1f087c42993",
+  "https://images.blocketcdn.se/dynamic/default/item/25552019/da58f8de-7b16-4e87-a341-611f875be9f0",
+  "https://images.blocketcdn.se/dynamic/default/item/25552019/b7d21463-b88f-4d91-9c3b-2e8bb8b641f9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.31,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +75,13 @@
   "text_sha": "1af7e82ae55c95fb"
  },
  "location": "Stockholm",
- "lon": 18.07959,
+ "lon": 18.08,
  "make": "Silver",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 418,
   "fetched_ts": 1790507986724,
@@ -97,7 +108,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25552019",
  "width_cm": 180,
  "year": 2008

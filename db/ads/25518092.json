@@ -7,6 +7,8 @@
   "boat_year": 2015,
   "boat_year_source": "spec",
   "engine_hours": 5,
+  "engine_hp": 2.5,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Utombordare 2,5 hk (gångtid max 5 tim) med tillhörande gummibåt och dävertar",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25518092/22be9e8f-2e8d-4f0c-adfd-39468a4522fa",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.04266,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25518092/22be9e8f-2e8d-4f0c-adfd-39468a4522fa",
+  "https://images.blocketcdn.se/dynamic/default/item/25518092/cfc17782-5d2b-4d86-bcce-1f4c59db2ae5",
+  "https://images.blocketcdn.se/dynamic/default/item/25518092/02a90d79-5ec5-4e80-bf49-402b6d43ecab",
+  "https://images.blocketcdn.se/dynamic/default/item/25518092/30577933-06d2-4051-abae-d9681c61983c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.04,
  "length_ft": 9,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "4cd5a0ed69343c42"
  },
  "location": "Tranås",
- "lon": 14.98881,
+ "lon": 14.99,
  "make": "Zodiac",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 2.5,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 436,
   "fetched_ts": 1790507948080,
@@ -94,7 +103,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25518092",
  "width_cm": 160,
  "year": 2015

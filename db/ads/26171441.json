@@ -1,0 +1,132 @@
+{
+ "ad_id": 26171441,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1788709285000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": 200,
+  "engine_hp": 135.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell inför säsong 2024",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer (30 km/tim) medföljer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Uttern D55 Exclusive, Mercruiser 3,0",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26171441/57adc1e8-778c-4da5-b799-00f57e5e72c5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26171441/57adc1e8-778c-4da5-b799-00f57e5e72c5",
+  "https://images.blocketcdn.se/dynamic/default/item/26171441/f31740e7-17a2-474d-9227-2d27c0ac04d5",
+  "https://images.blocketcdn.se/dynamic/default/item/26171441/3ed8cf7a-6868-4699-b1cb-cede1ee777f3",
+  "https://images.blocketcdn.se/dynamic/default/item/26171441/187be35e-aa81-4952-ae7e-5556adea1763",
+  "https://images.blocketcdn.se/dynamic/default/item/26171441/6aa809cc-b7f1-46a4-a97c-e0e6e8c1a9a9",
+  "https://images.blocketcdn.se/dynamic/default/item/26171441/41e11927-1954-4f25-9911-8e7a8aa4fa20",
+  "https://images.blocketcdn.se/dynamic/default/item/26171441/cfc905f8-73b9-4e14-aeb3-5013b5c43053",
+  "https://images.blocketcdn.se/dynamic/default/item/26171441/60eeff13-45ab-4389-96b2-a17f6c0af52e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.01,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": 200,
+   "engine_hp": 135,
+   "engine_maker": "Mercruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "135 hk inombords bensinmotor Mercruiser 3,0",
+   "engine_year_rejected": 2006,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "fc1bb976257e71fc"
+ },
+ "location": "Stora Höga",
+ "lon": 11.8,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 388,
+  "fetched_ts": 1790523130320,
+  "text_sha": "fc1bb976257e71fc"
+ },
+ "price": 130000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 130000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Mörkblå",
+  "Längd i fot": "18 fot",
+  "Modell": "D55 Exclusive",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motortyp": "Inombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Typ": "Daycruiser",
+  "Vikt": "720 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26171441",
+ "width_cm": 220,
+ "year": 2006
+}

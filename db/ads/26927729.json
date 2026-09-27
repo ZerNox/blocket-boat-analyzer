@@ -7,6 +7,8 @@
   "boat_year": 1989,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -32,16 +34,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Westfjord 430 med yamaha 30hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26927729/e347d967-ad78-4ed6-8a4a-a96169fb53fe",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.84733,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26927729/e347d967-ad78-4ed6-8a4a-a96169fb53fe",
+  "https://images.blocketcdn.se/dynamic/default/item/26927729/3fbae8a4-b7bc-48f6-94f6-1dac9fa7fab1",
+  "https://images.blocketcdn.se/dynamic/default/item/26927729/149b22c6-0e76-4afb-bbb7-3561d02b51d0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.85,
  "length_ft": 14,
  "location": "Kärna",
- "lon": 11.79348,
+ "lon": 11.79,
  "make": "Övriga",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 161,
   "fetched_ts": 1790509039930,
@@ -71,7 +79,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "150 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26927729",
  "width_cm": 168,
  "year": 1989

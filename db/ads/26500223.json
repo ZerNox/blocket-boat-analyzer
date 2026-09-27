@@ -7,6 +7,8 @@
   "boat_year": 2007,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bella 512 Europa",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26500223/ece49ea9-476d-401f-a941-788eff2423e3",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.37357,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26500223/ece49ea9-476d-401f-a941-788eff2423e3",
+  "https://images.blocketcdn.se/dynamic/default/item/26500223/f2a61b8f-a3df-47bc-b76e-100c3b3bae6a",
+  "https://images.blocketcdn.se/dynamic/default/item/26500223/08f6a981-5a98-4e28-8be9-424329dd3e98",
+  "https://images.blocketcdn.se/dynamic/default/item/26500223/224320b4-3218-4595-a98a-d3a36636ed63",
+  "https://images.blocketcdn.se/dynamic/default/item/26500223/ef60da58-b4e9-4c68-a596-70bc53471398"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.37,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +75,13 @@
   "text_sha": "51165bcc2a74aa69"
  },
  "location": "Lidingö",
- "lon": 18.16535,
+ "lon": 18.17,
  "make": "Bella",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 419,
   "fetched_ts": 1790508740567,
@@ -98,7 +108,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26500223",
  "width_cm": 0,
  "year": 2007

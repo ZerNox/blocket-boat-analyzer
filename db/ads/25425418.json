@@ -7,6 +7,8 @@
   "boat_year": 2011,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude E-tec",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sandström 495 classic",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25425418/940beb5a-2084-4e13-a229-dfce7f24dba0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.8582,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25425418/940beb5a-2084-4e13-a229-dfce7f24dba0",
+  "https://images.blocketcdn.se/dynamic/default/item/25425418/44c30363-c9e1-4052-83f6-17e0279683b1",
+  "https://images.blocketcdn.se/dynamic/default/item/25425418/d3f1e8e3-772a-43ea-b430-81efaa8e6618"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.86,
  "length_ft": 495,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "a09a4462cac31fd4"
  },
  "location": "Falkenberg",
- "lon": 12.56989,
+ "lon": 12.57,
  "make": "Sandström",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 127,
   "fetched_ts": 1790507857394,
@@ -100,7 +108,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25425418",
  "width_cm": 0,
  "year": 2011

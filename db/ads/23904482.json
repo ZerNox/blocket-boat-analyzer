@@ -7,6 +7,8 @@
   "boat_year": 2015,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -46,8 +48,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Quicksilver 505 open",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23904482/5ea1da3c-d8c9-4be3-a967-7f97f3b67167",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.10754,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23904482/5ea1da3c-d8c9-4be3-a967-7f97f3b67167",
+  "https://images.blocketcdn.se/dynamic/default/item/23904482/f408015e-5de8-4b05-9eeb-14a944fb34d6",
+  "https://images.blocketcdn.se/dynamic/default/item/23904482/43e40743-3015-458f-94bb-ecfb2b60398d",
+  "https://images.blocketcdn.se/dynamic/default/item/23904482/a301a1fd-931b-4fca-8e0c-c4b511ec5f8d",
+  "https://images.blocketcdn.se/dynamic/default/item/23904482/bda4deab-42ce-4061-a929-111c0e28a7a0",
+  "https://images.blocketcdn.se/dynamic/default/item/23904482/2204bb0f-22c4-4ed5-9e2e-a16bab76de8d",
+  "https://images.blocketcdn.se/dynamic/default/item/23904482/67d3a64c-5861-4333-81ec-a46474228684",
+  "https://images.blocketcdn.se/dynamic/default/item/23904482/6565520f-5576-4635-b56b-35b5b2f2c6aa"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.11,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -77,12 +89,13 @@
   "text_sha": "d83ff6e21b68df74"
  },
  "location": "Grödinge",
- "lon": 17.73396,
+ "lon": 17.73,
  "make": "Quicksilver",
  "max_speed": 33,
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 667,
   "fetched_ts": 1790507547181,
@@ -114,7 +127,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "582 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23904482",
  "width_cm": 212,
  "year": 2015

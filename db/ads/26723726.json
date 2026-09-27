@@ -1,0 +1,74 @@
+{
+ "ad_id": 26723726,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789838196000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds 425",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26723726/2ac313ff-1419-489d-899e-8941b025eae2",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26723726/2ac313ff-1419-489d-899e-8941b025eae2",
+  "https://images.blocketcdn.se/dynamic/default/item/26723726/0c9af1bc-082d-4f8f-abb5-3d7f1f8603b9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.77,
+ "length_ft": 14,
+ "location": "Norrtälje",
+ "lon": 18.72,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 52,
+  "fetched_ts": 1790521043681,
+  "text_sha": "d0d7ce44e6f8eb8c"
+ },
+ "price": 3000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 3000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Nej",
+  "Märke": "Ryds",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26723726",
+ "width_cm": 0,
+ "year": 1980
+}

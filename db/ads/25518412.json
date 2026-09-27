@@ -1,0 +1,103 @@
+{
+ "ad_id": 25518412,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786193390000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Johnsson",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2002,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är en Johnsson 70hk 4-takt från -02.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "2020 byttes rutorna i kapellet.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Crescent 535 Classic HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Crescent 535"
+ ],
+ "heading": "Crescent 535 Classic HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25518412/5268764d-8dc0-4343-87cd-f06db2ea50ec",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25518412/5268764d-8dc0-4343-87cd-f06db2ea50ec",
+  "https://images.blocketcdn.se/dynamic/default/item/25518412/fd9d70a6-214e-44fa-a64d-a3521f829265",
+  "https://images.blocketcdn.se/dynamic/default/item/25518412/79aaa61c-7509-4bd2-9682-60c308f3ff62",
+  "https://images.blocketcdn.se/dynamic/default/item/25518412/b0bdb95d-3791-4122-97b6-b5b185c93f53",
+  "https://images.blocketcdn.se/dynamic/default/item/25518412/1e85b094-9578-4710-97a9-73baec5e11fd",
+  "https://images.blocketcdn.se/dynamic/default/item/25518412/b7526fc3-0047-4a08-9435-52620f77136c",
+  "https://images.blocketcdn.se/dynamic/default/item/25518412/2054f394-2135-4484-8fa4-2408ff33eb38",
+  "https://images.blocketcdn.se/dynamic/default/item/25518412/7a5312db-e247-4471-8a10-a5aae693aea9",
+  "https://images.blocketcdn.se/dynamic/default/item/25518412/5325039d-d490-4614-87e1-c42650ba65af",
+  "https://images.blocketcdn.se/dynamic/default/item/25518412/57d55347-8553-4c83-87d6-8390f9c62deb",
+  "https://images.blocketcdn.se/dynamic/default/item/25518412/1f2a966b-a210-48e8-98b9-d1978ee2f063",
+  "https://images.blocketcdn.se/dynamic/default/item/25518412/c2adf3aa-86ac-4c3b-a048-9b74481e91c8",
+  "https://images.blocketcdn.se/dynamic/default/item/25518412/fd0cbe09-186c-47fe-9a9c-8b2199b0a5f3",
+  "https://images.blocketcdn.se/dynamic/default/item/25518412/2dbece2c-05af-4544-99f2-9d0f89f2ce96"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.47,
+ "length_ft": 18,
+ "location": "Borlänge",
+ "lon": 15.59,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 846,
+  "fetched_ts": 1790523013902,
+  "text_sha": "1e73aeb0481cc3bf"
+ },
+ "price": 58000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 58000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "535 Classic",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Johnsson",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Daycruiser",
+  "Vikt": "510 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25518412",
+ "width_cm": 210,
+ "year": 2001
+}

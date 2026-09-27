@@ -1,0 +1,144 @@
+{
+ "ad_id": 23156449,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787769792000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1998,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "- Garmin Striker Vivid 9sv (värde 6000kr)",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Corall 6000 med elmotor Minn Kota Terrova",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "- Kapell i ljust tyg (lätt missfärgat så mer grått och lite rostigt idag).",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "- Batteri 12V AGM 100Ah inkl. laddare och batterilåda från Minn Kota (värde 5000kr).",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "- Garmin GPSmap 525s.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Det finns också möjligheten att köpa med en båtkärra av modell ”Bromsad Tiki 1000 (80km/h)” för 15 000:-.",
+    "included": true,
+    "kmh": 80
+   },
+   "vinterkapell": {
+    "evidence": "- Täckställning (lite defekta fästen) i aluminium med presenning för vinterförvaring.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Corall 6000 med elmotor Minn Kota Terrova",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23156449/2451dddd-7c4d-4332-a773-d2e1e37d84f5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23156449/2451dddd-7c4d-4332-a773-d2e1e37d84f5",
+  "https://images.blocketcdn.se/dynamic/default/item/23156449/8ad7b8fe-d66f-4379-824a-89ccf7298ffe",
+  "https://images.blocketcdn.se/dynamic/default/item/23156449/f85f806e-2032-4675-8e90-a5e7ea6d984b",
+  "https://images.blocketcdn.se/dynamic/default/item/23156449/88124e61-dc7d-4304-a729-a875e29e2971",
+  "https://images.blocketcdn.se/dynamic/default/item/23156449/d59af046-4bfc-411d-ae67-ebfc46b34df3"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.41,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1998,
+   "engine_hours": null,
+   "engine_hp": 55,
+   "engine_maker": "Minn Kota",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Elmotor Minn Kota Terrova BT 55 / 54” inkl. kopplingar och säkring (värde 23000kr)",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "included"
+   }
+  },
+  "text_sha": "09ac7b8b3f5a28e9"
+ },
+ "location": "Karlstad",
+ "lon": 13.51,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 2669,
+  "fetched_ts": 1790522888286,
+  "text_sha": "09ac7b8b3f5a28e9"
+ },
+ "price": 100000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 100000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modellår": "1998",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "8",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23156449",
+ "width_cm": 0,
+ "year": 1998
+}

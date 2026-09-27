@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
   "engine_maker": "Mercury, Optimax 2008",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -27,16 +29,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "ÖRNVIK 525 fLAMINGO OPEN",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25829087/dd9aa6f3-1ae3-42c2-9d16-f0c82151ea28",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.32144,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25829087/dd9aa6f3-1ae3-42c2-9d16-f0c82151ea28"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.32,
  "length_ft": 17,
  "location": "Lysekil",
- "lon": 11.43487,
+ "lon": 11.43,
  "make": "Örnvik",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 380,
   "fetched_ts": 1790508231423,
@@ -69,7 +75,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "800 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25829087",
  "width_cm": 229,
  "year": 2006

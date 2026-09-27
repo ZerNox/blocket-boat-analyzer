@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -47,8 +49,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 5202/S52 mercury 75hk fyrtakt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25260762/9077e585-a57c-45a4-aa83-1ff6fc62fbee",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.33334,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25260762/9077e585-a57c-45a4-aa83-1ff6fc62fbee",
+  "https://images.blocketcdn.se/dynamic/default/item/25260762/b0c904a9-d724-4755-a614-f91a18d66c56",
+  "https://images.blocketcdn.se/dynamic/default/item/25260762/8d094a43-e12f-4331-a0cc-f79d960a5797",
+  "https://images.blocketcdn.se/dynamic/default/item/25260762/5acdfa85-1b2d-49fb-8781-79b36e69137a",
+  "https://images.blocketcdn.se/dynamic/default/item/25260762/077979ac-5a57-43a2-8513-85a87c6bef19",
+  "https://images.blocketcdn.se/dynamic/default/item/25260762/f12fe603-d1a2-4a7b-9496-d26df16210fa",
+  "https://images.blocketcdn.se/dynamic/default/item/25260762/d3e20c2f-0f33-4cad-880f-105bd5f53720"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.33,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -79,12 +90,13 @@
   "text_sha": "698053e4c8b42d5c"
  },
  "location": "Uddevalla",
- "lon": 11.8437,
+ "lon": 11.84,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 388,
   "fetched_ts": 1790507697815,
@@ -111,7 +123,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25260762",
  "width_cm": 0,
  "year": 2000

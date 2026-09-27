@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 38,
+  "engine_hp_source": "llm",
   "engine_maker": "Volvo penta",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -54,8 +56,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Albin 25 Deluxe",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23459206/e63cfcc4-c0e1-4d21-8a5a-f2a1f120bb6d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.41062,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23459206/e63cfcc4-c0e1-4d21-8a5a-f2a1f120bb6d",
+  "https://images.blocketcdn.se/dynamic/default/item/23459206/f94772b8-155e-49d2-a102-6f08626855c0",
+  "https://images.blocketcdn.se/dynamic/default/item/23459206/e6fd9704-22b7-44cb-935f-ed9af3b9614b",
+  "https://images.blocketcdn.se/dynamic/default/item/23459206/477edafd-2f89-4f94-b31e-1a668962c746",
+  "https://images.blocketcdn.se/dynamic/default/item/23459206/d50cab1a-b46b-4527-b031-6dd96f0b9ad6",
+  "https://images.blocketcdn.se/dynamic/default/item/23459206/52905b6d-fa3b-429e-b4ac-23216fde5e60",
+  "https://images.blocketcdn.se/dynamic/default/item/23459206/5fc19111-d993-472c-a171-0d33db4c0f27",
+  "https://images.blocketcdn.se/dynamic/default/item/23459206/3607a364-ff8d-43e2-b3f4-2ac1a034807e",
+  "https://images.blocketcdn.se/dynamic/default/item/23459206/1e596222-2bc1-469b-b46b-9e2d79903fb3",
+  "https://images.blocketcdn.se/dynamic/default/item/23459206/08a0b8da-0785-433b-b4b8-2f60fe70c5d9",
+  "https://images.blocketcdn.se/dynamic/default/item/23459206/5d485e52-103f-4050-949c-8c71f607a59f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.41,
  "length_ft": 25,
  "llm": {
   "at": "2026-09-27",
@@ -85,12 +100,13 @@
   "text_sha": "6301974f0ae2d6a8"
  },
  "location": "Sollentuna",
- "lon": 17.96693,
+ "lon": 17.97,
  "make": "Albin",
  "max_speed": 8,
  "motor_fuel": "Diesel",
  "motor_size": 38.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 496,
   "fetched_ts": 1790507506185,
@@ -120,7 +136,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "2 000 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23459206",
  "width_cm": 260,
  "year": 1978

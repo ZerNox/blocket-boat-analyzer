@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": 151,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -35,8 +37,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Norrbyskär 460 med Evinrude Etec 50hk - HÖSTPRIS",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25536622/ba907ac0-9440-4098-af76-6f4967ed2cb0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.64009,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25536622/ba907ac0-9440-4098-af76-6f4967ed2cb0",
+  "https://images.blocketcdn.se/dynamic/default/item/25536622/40361aff-1f67-4778-be0d-76db86186af6",
+  "https://images.blocketcdn.se/dynamic/default/item/25536622/983c04e7-a4ce-484d-8e91-2e0190699e2b",
+  "https://images.blocketcdn.se/dynamic/default/item/25536622/4ef35c17-d1a2-4b76-bc1d-66bb973b24c3",
+  "https://images.blocketcdn.se/dynamic/default/item/25536622/a1fb30b0-ddc8-4dbd-99df-14dcb7f7e5b9",
+  "https://images.blocketcdn.se/dynamic/default/item/25536622/5a3aaa0e-b790-4b04-a30c-1cf81a8719b0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.64,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +76,13 @@
   "text_sha": "c84158af10e1e0ab"
  },
  "location": "Nässjö",
- "lon": 14.70758,
+ "lon": 14.71,
  "make": "Sandström",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 686,
   "fetched_ts": 1790507972499,
@@ -102,7 +113,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "350 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25536622",
  "width_cm": 0,
  "year": 2006

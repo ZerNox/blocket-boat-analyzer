@@ -1,0 +1,137 @@
+{
+ "ad_id": 24956045,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1790084315000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": 260,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "mercury optimax",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "ett oanvänt kapell och ett gammalt vinterförvaringskapell, 7-tums garminplotter från 2023 med ekolod, förtöjningsutrust…",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "ett oanvänt kapell och ett gammalt vinterförvaringskapell, 7-tums garminplotter från 2023 med ekolod, förtöjningsutrust…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "ett oanvänt kapell och ett gammalt vinterförvaringskapell, 7-tums garminplotter från 2023 med ekolod, förtöjningsutrust…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båten kördes upp till Östhammar i helgen och ligger där på kärra över vintern.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "t – redo för sjön.\nEn fin övernattningsbar båt i smidig storlek, perfekt för dagsturer, bad, fiske och enk",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Örnvik 510 med rätt motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24956045/84c7546c-5ba3-4abe-afd1-a74d1923618a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24956045/84c7546c-5ba3-4abe-afd1-a74d1923618a",
+  "https://images.blocketcdn.se/dynamic/default/item/24956045/677fc9cf-d2b0-467c-9129-981474fb568f",
+  "https://images.blocketcdn.se/dynamic/default/item/24956045/3cb31f1e-5622-4e26-867d-dc8cc11574ca",
+  "https://images.blocketcdn.se/dynamic/default/item/24956045/bab949c0-3283-4240-a304-3c8a8ca8e2ff",
+  "https://images.blocketcdn.se/dynamic/default/item/24956045/6fe2aee1-e767-4b01-bd37-a3f65633b52b",
+  "https://images.blocketcdn.se/dynamic/default/item/24956045/b4c6fcba-ccf6-480f-9e5a-fd411869ee5c"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.26,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2005,
+   "engine_hours": 260,
+   "engine_hp": 90,
+   "engine_maker": "mercury optimax",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn har gått ca 260 timmar och är löpande underhållen med bland annat bytt, impeller, oljor, tändstift.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "excluded"
+   }
+  },
+  "text_sha": "462689334e46718d"
+ },
+ "location": "Östhammar",
+ "lon": 18.38,
+ "make": "Örnvik",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1259,
+  "fetched_ts": 1790522941738,
+  "text_sha": "462689334e46718d"
+ },
+ "price": 79000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 79000
+  }
+ ],
+ "specs": {
+  "Bredd": "233 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "510",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "mercury optimax",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24956045",
+ "width_cm": 233,
+ "year": 2005
+}

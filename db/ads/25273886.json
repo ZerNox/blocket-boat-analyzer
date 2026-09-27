@@ -7,6 +7,8 @@
   "boat_year": 2020,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Smartliner 170",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25273886/9459da84-87ba-4489-914a-7983b9c39d78",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.47584,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25273886/9459da84-87ba-4489-914a-7983b9c39d78",
+  "https://images.blocketcdn.se/dynamic/default/item/25273886/88669e62-7cb9-4021-846e-65a166c19052",
+  "https://images.blocketcdn.se/dynamic/default/item/25273886/1d9ffb7b-363f-481e-adbb-14c4940717db"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.48,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +73,13 @@
   "text_sha": "e2597265c2858a36"
  },
  "location": "Söderköping",
- "lon": 16.30056,
+ "lon": 16.3,
  "make": "Smartliner",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 148,
   "fetched_ts": 1790507716345,
@@ -97,7 +105,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25273886",
  "width_cm": 0,
  "year": 2020

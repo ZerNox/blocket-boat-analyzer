@@ -1,0 +1,115 @@
+{
+ "ad_id": 26019625,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787652679000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2014,
+  "boat_year_source": "spec",
+  "engine_hours": 140,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury F50",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2014,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Båten är välutrustad med Hummibbird GPS.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30 upptagningskärra ingår i priset.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Uttern s45 2014 Mercury F50 140h",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26019625/0250b240-fb84-4f21-8cc1-87f64df0563d",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26019625/0250b240-fb84-4f21-8cc1-87f64df0563d",
+  "https://images.blocketcdn.se/dynamic/default/item/26019625/161b2cc8-e889-441f-a452-942d61f3fbcc",
+  "https://images.blocketcdn.se/dynamic/default/item/26019625/8a7d2f4a-c7e8-4d5e-9968-69763a215ee8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.98,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2014,
+   "engine_hours": 140,
+   "engine_hp": 140,
+   "engine_maker": "Mercury F50",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Knappt gått 140h.",
+   "engine_year_rejected": 2014,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1397adc908fc3b61"
+ },
+ "location": "Fagerfjäll",
+ "lon": 11.68,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 258,
+  "fetched_ts": 1790520874367,
+  "text_sha": "1397adc908fc3b61"
+ },
+ "price": 110000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 110000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "S45",
+  "Modellår": "2014",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercury F50",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "5",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26019625",
+ "width_cm": 0,
+ "year": 2014
+}

@@ -1,0 +1,120 @@
+{
+ "ad_id": 25979781,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787510082000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Johnsson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "ar perfekt för dagsturer, övernattningar, badutflykter, fiske och vattensport.\nDenna HT båt är i bra skick",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Crescent 590 Crown",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25979781/c58396a7-9ca5-4f8a-8cb6-9869bbbe9fff",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25979781/c58396a7-9ca5-4f8a-8cb6-9869bbbe9fff",
+  "https://images.blocketcdn.se/dynamic/default/item/25979781/d8fed1c4-9843-4aed-ac0c-411598b67471",
+  "https://images.blocketcdn.se/dynamic/default/item/25979781/bbbcee80-e926-4f18-b550-da3c080e5780",
+  "https://images.blocketcdn.se/dynamic/default/item/25979781/1f0b1a81-9cca-4ef0-936d-cf35e66114cb"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.55,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1995,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Johnsson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9568d647c2dfc8f3"
+ },
+ "location": "Västerås",
+ "lon": 16.49,
+ "make": "Crescent",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 268,
+  "fetched_ts": 1790523095352,
+  "text_sha": "9568d647c2dfc8f3"
+ },
+ "price": 79000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 79000
+  }
+ ],
+ "specs": {
+  "Bredd": "235 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "590 Crown Celest HT",
+  "Modellår": "1995",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Johnsson",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "650 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25979781",
+ "width_cm": 235,
+ "year": 1995
+}

@@ -7,6 +7,8 @@
   "boat_year": 2014,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude E-tec",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -46,8 +48,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sting 530 till salu",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25874259/626b45b7-fa33-495a-935c-62dec2f96dfd",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.41551,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25874259/626b45b7-fa33-495a-935c-62dec2f96dfd",
+  "https://images.blocketcdn.se/dynamic/default/item/25874259/ecfd53a7-36c7-4c73-9b1a-4650a16a2da1",
+  "https://images.blocketcdn.se/dynamic/default/item/25874259/35c79523-5b36-4d39-a183-cb0d31a7b044",
+  "https://images.blocketcdn.se/dynamic/default/item/25874259/a4d8e286-9e24-415e-832b-796d73151c9b",
+  "https://images.blocketcdn.se/dynamic/default/item/25874259/efd0644d-7235-45b4-9fe7-2430aa14ac78"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.42,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -77,12 +86,13 @@
   "text_sha": "e18546d7727f501b"
  },
  "location": "Skövde",
- "lon": 13.80129,
+ "lon": 13.8,
  "make": "Sting",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 450,
   "fetched_ts": 1790508269651,
@@ -113,7 +123,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "510 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25874259",
  "width_cm": 215,
  "year": 2014

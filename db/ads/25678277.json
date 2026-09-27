@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 13.6,
+  "engine_hp_source": "llm",
   "engine_maker": "Nissan",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Plasteka",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25678277/bbc9a3ec-e6af-4da8-b9ec-6e84b5447d02",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.34032,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25678277/bbc9a3ec-e6af-4da8-b9ec-6e84b5447d02",
+  "https://images.blocketcdn.se/dynamic/default/item/25678277/9ef1ecaa-9720-451f-b6fc-55c2759c1e27",
+  "https://images.blocketcdn.se/dynamic/default/item/25678277/9103e1a1-0124-423d-a1ba-a1fa5c1c06dc",
+  "https://images.blocketcdn.se/dynamic/default/item/25678277/6ac01aa9-689d-428c-b8b5-c077fea39781"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.34,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "6ff9477a1ea8391f"
  },
  "location": "Onsala",
- "lon": 11.95897,
+ "lon": 11.96,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 13.600000381469727,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 89,
   "fetched_ts": 1790508089049,
@@ -97,7 +106,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25678277",
  "width_cm": 175,
  "year": 1990

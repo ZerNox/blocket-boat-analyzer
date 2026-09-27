@@ -7,6 +7,8 @@
   "boat_year": 2004,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 480 rsi 25 hk tohatsu med 80km/h vagn.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26673424/3923b73a-e394-4398-95b0-f51864670f98",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.70251,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26673424/3923b73a-e394-4398-95b0-f51864670f98",
+  "https://images.blocketcdn.se/dynamic/default/item/26673424/27cbc563-0469-4aae-9aa0-1e2a80fffeb9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.7,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +66,13 @@
   "text_sha": "8f476065908b7c59"
  },
  "location": "Trekanten",
- "lon": 16.11639,
+ "lon": 16.12,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 149,
   "fetched_ts": 1790508863215,
@@ -90,7 +97,7 @@
   "Märke": "Ryds",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26673424",
  "width_cm": 0,
  "year": 2004

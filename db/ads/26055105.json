@@ -7,6 +7,8 @@
   "boat_year": 1983,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Parsun",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster R",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26055105/5993b853-70ca-42cf-b5ad-5ce43b57a678",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.6518,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26055105/5993b853-70ca-42cf-b5ad-5ce43b57a678"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.65,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +65,13 @@
   "text_sha": "0e296629272f36a7"
  },
  "location": "Sandviken",
- "lon": 16.69398,
+ "lon": 16.69,
  "make": "Buster",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508420962,
@@ -92,7 +98,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26055105",
  "width_cm": 0,
  "year": 1983

@@ -7,6 +7,8 @@
   "boat_year": 2014,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern S51 – Mercury 60 hk – välutrust",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26078488/13779454-7936-4567-9d2f-74ea4872a438",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.25522,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26078488/13779454-7936-4567-9d2f-74ea4872a438",
+  "https://images.blocketcdn.se/dynamic/default/item/26078488/af78685a-c2cd-41df-97fc-8e5124b2ce4e",
+  "https://images.blocketcdn.se/dynamic/default/item/26078488/6adda95f-9947-4482-80c6-95200a2aa136",
+  "https://images.blocketcdn.se/dynamic/default/item/26078488/27023636-f57b-4f45-9165-ea13c500106e",
+  "https://images.blocketcdn.se/dynamic/default/item/26078488/af71f525-9b09-4842-82a1-02e378c4b0fa",
+  "https://images.blocketcdn.se/dynamic/default/item/26078488/6887cf0e-f3b2-48ca-b98f-a37a0a5fe12d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.26,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +80,13 @@
   "text_sha": "5f5b27975453325b"
  },
  "location": "Norsborg",
- "lon": 17.86502,
+ "lon": 17.87,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 885,
   "fetched_ts": 1790508437399,
@@ -102,7 +113,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26078488",
  "width_cm": 0,
  "year": 2014

@@ -1,0 +1,123 @@
+{
+ "ad_id": 26434710,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788891380000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo penta",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båtkärra ingår.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "äl genomgången\nNya glas i hytten\nHelt redo att segla! \nSkriv för mer info. \nMast och segel finns till båte",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Motorseglare typ Skota",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26434710/17b902bc-efdc-4dd8-8b64-a409f4052366",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26434710/17b902bc-efdc-4dd8-8b64-a409f4052366",
+  "https://images.blocketcdn.se/dynamic/default/item/26434710/08f98ef1-9f4a-4d12-b5e2-a295b95ec5c1",
+  "https://images.blocketcdn.se/dynamic/default/item/26434710/2a09008e-388f-4e01-8390-4440d4d58b8f",
+  "https://images.blocketcdn.se/dynamic/default/item/26434710/d6cf0bda-b1bd-4d3e-9f6c-f346c2d97e5f",
+  "https://images.blocketcdn.se/dynamic/default/item/26434710/f160df49-665b-46d1-a7a5-26bd0226087b",
+  "https://images.blocketcdn.se/dynamic/default/item/26434710/01354290-1695-45cc-bf92-85967e4802be"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.24,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1975,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3e6441736de14262"
+ },
+ "location": "Jonstorp",
+ "lon": 12.65,
+ "make": "Saga",
+ "max_speed": 7,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 224,
+  "fetched_ts": 1790520967575,
+  "text_sha": "3e6441736de14262"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "202 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modellår": "1975",
+  "Motortillverkare": "Volvo penta",
+  "Motortyp": "Inombordare",
+  "Märke": "Saga",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "7 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26434710",
+ "width_cm": 202,
+ "year": 1975
+}

@@ -7,6 +7,8 @@
   "boat_year": 1991,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "YAMAHA",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sea Star 600S",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26429659/5ad28ce3-7ecb-4f65-b344-2b69264a9b46",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.41361,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26429659/5ad28ce3-7ecb-4f65-b344-2b69264a9b46",
+  "https://images.blocketcdn.se/dynamic/default/item/26429659/5dcd1f72-0073-44f7-a03c-fc1ed104c54a",
+  "https://images.blocketcdn.se/dynamic/default/item/26429659/69b85df7-e776-464d-98e9-8058d3292628",
+  "https://images.blocketcdn.se/dynamic/default/item/26429659/0abb5207-d51c-4cd2-8c6a-b710f2b1e627",
+  "https://images.blocketcdn.se/dynamic/default/item/26429659/c8ae0a2c-0581-48fa-9b22-c2718ffe0574",
+  "https://images.blocketcdn.se/dynamic/default/item/26429659/7cf33218-1e86-4a1f-9e11-adfd3e86589d",
+  "https://images.blocketcdn.se/dynamic/default/item/26429659/57ddd389-15b8-4ccb-ba88-4abf71b49dfb"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.41,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +77,13 @@
   "text_sha": "3ac76c5fa6474592"
  },
  "location": "Vaxholm",
- "lon": 18.30457,
+ "lon": 18.3,
  "make": "Sea Star",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 324,
   "fetched_ts": 1790508684584,
@@ -105,7 +117,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "650 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26429659",
  "width_cm": 220,
  "year": 1991

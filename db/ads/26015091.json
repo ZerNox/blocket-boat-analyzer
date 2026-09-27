@@ -7,6 +7,8 @@
   "boat_year": 2009,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
   "engine_maker": null,
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Quicksilver 505",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26015091/62d0d9af-62eb-401b-bf4a-fe7af62c4d18",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.33188,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26015091/62d0d9af-62eb-401b-bf4a-fe7af62c4d18",
+  "https://images.blocketcdn.se/dynamic/default/item/26015091/361acad5-8e0b-4d05-8e06-2a40065c08dd",
+  "https://images.blocketcdn.se/dynamic/default/item/26015091/7ae35b73-5656-4001-86a7-ea14d78181df",
+  "https://images.blocketcdn.se/dynamic/default/item/26015091/777fcdac-3f30-4111-b4dc-228597047260"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.33,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "8e6caf6cc0e7359c"
  },
  "location": "Hammarö",
- "lon": 13.50555,
+ "lon": 13.51,
  "make": "Quicksilver",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508390833,
@@ -89,7 +98,7 @@
   "Märke": "Quicksilver",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26015091",
  "width_cm": 0,
  "year": 2009

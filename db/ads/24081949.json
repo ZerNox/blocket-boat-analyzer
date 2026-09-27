@@ -7,6 +7,8 @@
   "boat_year": 2017,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Husbåten Frideborg",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24081949/95ee9054-98b9-49cb-b4a5-78760262822d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.46791,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24081949/95ee9054-98b9-49cb-b4a5-78760262822d",
+  "https://images.blocketcdn.se/dynamic/default/item/24081949/5762defb-6274-42ac-96b2-ef8328316152",
+  "https://images.blocketcdn.se/dynamic/default/item/24081949/0c3f8a57-5ddd-42d5-9866-91b2b3855b97",
+  "https://images.blocketcdn.se/dynamic/default/item/24081949/7d23e197-d367-4f50-b8b2-eac551a3098f",
+  "https://images.blocketcdn.se/dynamic/default/item/24081949/f5596430-70d9-4c35-beb0-094a1a42157b",
+  "https://images.blocketcdn.se/dynamic/default/item/24081949/93c3189f-be01-482c-a841-09ff9770b635",
+  "https://images.blocketcdn.se/dynamic/default/item/24081949/1969959a-ec31-47da-a3d5-bc935bb58a5a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.47,
  "length_ft": 30,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +71,13 @@
   "text_sha": "59a418bb72aae765"
  },
  "location": "Strängnäs",
- "lon": 17.06072,
+ "lon": 17.06,
  "make": "Övriga",
  "max_speed": 6,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1787,
   "fetched_ts": 1790507567906,
@@ -97,7 +109,7 @@
   "Toppfart": "6 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24081949",
  "width_cm": 500,
  "year": 2017

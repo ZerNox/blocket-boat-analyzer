@@ -7,6 +7,8 @@
   "boat_year": 2004,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -42,8 +44,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 500 CLX Commander inklusive trailer ",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26876789/04cd77d1-7dd3-4e75-b0bd-f9ee168756e9",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.80585,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26876789/04cd77d1-7dd3-4e75-b0bd-f9ee168756e9",
+  "https://images.blocketcdn.se/dynamic/default/item/26876789/cfdf2626-dbd2-479d-bcd8-2b12aa8971c3",
+  "https://images.blocketcdn.se/dynamic/default/item/26876789/1e1d7853-d3a4-448d-9a4c-ed3f72557dad",
+  "https://images.blocketcdn.se/dynamic/default/item/26876789/124cdc29-b89b-4c7a-a299-94e5a62db21f",
+  "https://images.blocketcdn.se/dynamic/default/item/26876789/c4e0d7e6-adc3-41f7-a5d1-2304f76dbcaf",
+  "https://images.blocketcdn.se/dynamic/default/item/26876789/ad646c5c-0d69-4356-abf2-1adb8ad4e3b0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.81,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +83,13 @@
   "text_sha": "5bbbf80f115905ce"
  },
  "location": "Västervik",
- "lon": 16.43529,
+ "lon": 16.44,
  "make": "Örnvik",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 607,
   "fetched_ts": 1790508996760,
@@ -108,7 +119,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "480 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26876789",
  "width_cm": 220,
  "year": 2004

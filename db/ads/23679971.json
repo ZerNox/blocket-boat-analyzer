@@ -7,6 +7,8 @@
   "boat_year": 2001,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -43,8 +45,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Electra 520 styrpulpet - Mercury 60hk 2-takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23679971/912541d6-cb78-40e5-a854-8f754cce0e38",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.48654,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23679971/912541d6-cb78-40e5-a854-8f754cce0e38",
+  "https://images.blocketcdn.se/dynamic/default/item/23679971/c163cac4-4c61-4285-b516-e21721d153f3",
+  "https://images.blocketcdn.se/dynamic/default/item/23679971/626bb77d-de46-4ed3-8706-f237a78a0743",
+  "https://images.blocketcdn.se/dynamic/default/item/23679971/18002af9-19b7-4408-87c3-d4d5688a6d96",
+  "https://images.blocketcdn.se/dynamic/default/item/23679971/d61025a0-3895-46c0-80fa-4601ced9f047"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.49,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +83,13 @@
   "text_sha": "0e6d54171f7b51a2"
  },
  "location": "Åkersberga",
- "lon": 18.40824,
+ "lon": 18.41,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 105,
   "fetched_ts": 1790507524231,
@@ -106,7 +116,7 @@
   "Märke": "Övriga",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23679971",
  "width_cm": 0,
  "year": 2001

@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Tohatsu 02",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet Dixie 450",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25971514/fa68102f-cc70-49d3-b687-caa80db98131",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.30219,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25971514/fa68102f-cc70-49d3-b687-caa80db98131",
+  "https://images.blocketcdn.se/dynamic/default/item/25971514/ff983208-6493-407e-b007-3636716f22ac",
+  "https://images.blocketcdn.se/dynamic/default/item/25971514/36cd8e51-fd27-4413-b3b5-f34ec03b72f8",
+  "https://images.blocketcdn.se/dynamic/default/item/25971514/43bf19df-eb43-4899-8753-96c6959016eb",
+  "https://images.blocketcdn.se/dynamic/default/item/25971514/ca4124f6-a6eb-4c58-acaf-4b923d29b79c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.3,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "467d143d5cfe4dae"
  },
  "location": "Årjäng",
- "lon": 12.36794,
+ "lon": 12.37,
  "make": "Dixie",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508336723,
@@ -91,7 +101,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25971514",
  "width_cm": 0,
  "year": 1985

@@ -7,6 +7,8 @@
   "boat_year": 2013,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -44,8 +46,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sting 530 S 2013 med 75 hk Evinrude E-tec",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26019321/fc98584e-e919-4b55-b598-841a0e706ccd",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.64362,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26019321/fc98584e-e919-4b55-b598-841a0e706ccd",
+  "https://images.blocketcdn.se/dynamic/default/item/26019321/ca204717-e3a1-4f8f-9738-fd72fad0d168",
+  "https://images.blocketcdn.se/dynamic/default/item/26019321/26cfe002-f74a-4fc5-afa5-ad0c7eb33986"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.64,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -76,12 +83,13 @@
   "text_sha": "dd0dc2c1c5ed9aea"
  },
  "location": "Mariestad",
- "lon": 13.69788,
+ "lon": 13.7,
  "make": "Sting",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 282,
   "fetched_ts": 1790508395013,
@@ -107,7 +115,7 @@
   "Märke": "Sting",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26019321",
  "width_cm": 0,
  "year": 2013

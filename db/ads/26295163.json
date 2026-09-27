@@ -1,0 +1,106 @@
+{
+ "ad_id": 26295163,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1788506322000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Limestone 18 eller 20 Cuddy köpes\nJag söker en Limestone /Medeiros 20 Cuddy Cabin. Även 18 fots modell",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Limestone 18 eller 20 Cuddy köpes",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26295163/5c34d24e-6c14-448e-8e95-36a9a45aa45c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26295163/5c34d24e-6c14-448e-8e95-36a9a45aa45c"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.31,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1900,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2b50ba33cbcf3762"
+ },
+ "location": "Saltsjö-Boo",
+ "lon": 18.26,
+ "make": "Limestone",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 175,
+  "fetched_ts": 1790523142856,
+  "text_sha": "2b50ba33cbcf3762"
+ },
+ "price": 123456,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 123456
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "20 fot",
+  "Modell": "18 eller 20 Cuddy",
+  "Modellår": "1900",
+  "Motortyp": "Inombordare",
+  "Märke": "Limestone",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26295163",
+ "width_cm": 0,
+ "year": 1900
+}

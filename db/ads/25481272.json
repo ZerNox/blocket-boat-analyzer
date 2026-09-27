@@ -1,0 +1,130 @@
+{
+ "ad_id": 25481272,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1786449306000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1986,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1992,
+  "engine_year_est": 1986,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": "Motor: Evinrude 2-takt, årsmodell 1992, nyservad med nya tändstift 2026",
+  "engine_year_source": "llm",
+  "equipment": {
+   "trailer": {
+    "evidence": "stabil och sjöduglig klassiker inklusive trailer",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 535 HT med Evinrude 100hk",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "ambiguous engine years [1992, 2026]"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 535"
+ ],
+ "heading": "Flipper 535 HT med Evinrude 100hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25481272/80fcd977-9430-4322-a5b1-33fe34578a3a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25481272/80fcd977-9430-4322-a5b1-33fe34578a3a",
+  "https://images.blocketcdn.se/dynamic/default/item/25481272/731093b0-6da1-4d5f-a721-b7f2a9ca3661",
+  "https://images.blocketcdn.se/dynamic/default/item/25481272/cb9cc7c8-1ddc-4f08-839d-4d8e01fa2ed1",
+  "https://images.blocketcdn.se/dynamic/default/item/25481272/8ebda62a-2b62-45c2-bec1-856dcc663e82",
+  "https://images.blocketcdn.se/dynamic/default/item/25481272/d4b2caab-f1bd-4c41-bae2-0221adfebab8",
+  "https://images.blocketcdn.se/dynamic/default/item/25481272/ecff3f8e-76b8-4974-922b-1ffd905a1f91",
+  "https://images.blocketcdn.se/dynamic/default/item/25481272/68ab0840-237e-46d1-99f9-b27ff45525ee"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.26,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1986,
+   "engine_hours": null,
+   "engine_hp": 100,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": 1992,
+   "engine_year_evidence": "Motor: Evinrude 2-takt, årsmodell 1992, nyservad med nya tändstift 2026",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9ab3c2cbce36aefe"
+ },
+ "location": "Saltsjöbaden",
+ "lon": 18.35,
+ "make": "Flipper",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 314,
+  "fetched_ts": 1790523005491,
+  "text_sha": "9ab3c2cbce36aefe"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Bredd": "202 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "45 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vitt skrov",
+  "Längd i fot": "18 fot",
+  "Modell": "535 HT",
+  "Modellår": "1986",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "25 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "440 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25481272",
+ "width_cm": 202,
+ "year": 1986
+}

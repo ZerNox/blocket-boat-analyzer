@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 3,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Pioner 8",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24201426/6d8e8bca-0275-44b3-8bd3-ec568a815e6a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.07242,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24201426/6d8e8bca-0275-44b3-8bd3-ec568a815e6a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.07,
  "length_ft": 8,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +65,13 @@
   "text_sha": "cb55fc8a1c2b4bf6"
  },
  "location": "Stenungsund",
- "lon": 11.82964,
+ "lon": 11.83,
  "make": "Pioner",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 3.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 218,
   "fetched_ts": 1790507575873,
@@ -92,7 +98,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24201426",
  "width_cm": 0,
  "year": 1995

@@ -7,6 +7,8 @@
   "boat_year": 2022,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -18,6 +20,10 @@
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {},
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No roof, windows or door visible. Open cockpit with console.",
+  "hull_source": "bild",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -27,10 +33,17 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Sandström 565"
+ ],
  "heading": "Sandström classic 565",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23052481/935455a6-70d9-4ed4-9120-2d29b960b317",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.5206,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23052481/935455a6-70d9-4ed4-9120-2d29b960b317",
+  "https://images.blocketcdn.se/dynamic/default/item/23052481/8c5edd0b-822c-4b87-8ac9-61f99fa5f815"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 55.52,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -60,7 +73,7 @@
   "text_sha": "88fa2c24edb42833"
  },
  "location": "Tygelsjö",
- "lon": 13.00358,
+ "lon": 13.0,
  "make": "Sandström",
  "max_speed": 24,
  "motor_fuel": "Bensin",
@@ -99,6 +112,19 @@
  },
  "status": "active",
  "url": "https://www.blocket.se/mobility/item/23052481",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "89e5232cef014437",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No roof, windows or door visible. Open cockpit with console.",
+   "hull_photo": 0
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 0,
  "year": 2022
 }

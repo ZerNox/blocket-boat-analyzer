@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,6 +37,10 @@
     "included": false
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 520 HT (ny motor 2001, nytt 80km/h släp)",
+  "hull_source": "rule:model",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -42,13 +48,22 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Uttern 520 HT (ny motor 2001, nytt 80km/h släp)",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25295261/17e9341e-7bd4-4d76-ae26-c71a00787d11",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.05085,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25295261/17e9341e-7bd4-4d76-ae26-c71a00787d11",
+  "https://images.blocketcdn.se/dynamic/default/item/25295261/f098ef1f-3ed6-416a-969c-c306f94986e3",
+  "https://images.blocketcdn.se/dynamic/default/item/25295261/020d51ee-b7da-49bc-b97a-acdcc3d36b3b",
+  "https://images.blocketcdn.se/dynamic/default/item/25295261/fd5d3072-1ee5-4f8a-805f-7f79cd413bd7"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.05,
  "length_ft": 17,
  "location": "Valdemarsvik",
- "lon": 16.71329,
+ "lon": 16.71,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",

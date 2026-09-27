@@ -1,0 +1,86 @@
+{
+ "ad_id": 25588983,
+ "boat_class": "Annat",
+ "changed_ts": 1786377131000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Välskött laserjolle (tillverkningsår osäkert) med sjösättningsvagn och anpassat bilsläp/trailer (2021) säljes.",
+    "included": true,
+    "year": 2021
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Laserjolle",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25588983/a2dcd1a2-90cf-4bf0-8c6b-2349afab212a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25588983/a2dcd1a2-90cf-4bf0-8c6b-2349afab212a",
+  "https://images.blocketcdn.se/dynamic/default/item/25588983/4ea6571e-5072-4919-aa81-d722889797c0",
+  "https://images.blocketcdn.se/dynamic/default/item/25588983/9a5f42c7-fc12-4cfc-b9de-7c82c2982150",
+  "https://images.blocketcdn.se/dynamic/default/item/25588983/d8c814c6-c9c7-4d3c-889f-c3e1a09c047b",
+  "https://images.blocketcdn.se/dynamic/default/item/25588983/be544b1c-8e0d-4cd6-9b08-890b04b0d05f",
+  "https://images.blocketcdn.se/dynamic/default/item/25588983/fc280f5b-3278-4f01-8c59-2f6620bf8571",
+  "https://images.blocketcdn.se/dynamic/default/item/25588983/d79f2d6d-d690-4d87-8d0a-eb9a03547fd4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.2,
+ "length_ft": 6,
+ "location": "Tullinge",
+ "lon": 17.92,
+ "make": "Laser",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 438,
+  "fetched_ts": 1790520734640,
+  "text_sha": "a0ba2907b1372776"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "6 fot",
+  "Modellår": "1985",
+  "Motor inkluderad": "Nej",
+  "Märke": "Laser",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25588983",
+ "width_cm": 0,
+ "year": 1985
+}

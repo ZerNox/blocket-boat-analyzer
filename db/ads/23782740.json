@@ -7,6 +7,8 @@
   "boat_year": 2003,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Terhi Nordic 6020 15hk Yamaha 15hk fyrtakt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23782740/1217d836-6fd9-467e-94d7-29b8b88c1fdf",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.61806,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23782740/1217d836-6fd9-467e-94d7-29b8b88c1fdf",
+  "https://images.blocketcdn.se/dynamic/default/item/23782740/bd4c8bbe-9112-4979-ba04-02229acd1ab0",
+  "https://images.blocketcdn.se/dynamic/default/item/23782740/2e8eddf0-08d9-4e0c-8711-e0e2e57d583a",
+  "https://images.blocketcdn.se/dynamic/default/item/23782740/b2885299-3ecf-4b53-8fc6-7ca8eabf7f0f",
+  "https://images.blocketcdn.se/dynamic/default/item/23782740/a164b337-666b-471c-9180-b437d163a040",
+  "https://images.blocketcdn.se/dynamic/default/item/23782740/42f4332e-a7d2-4f6f-975e-2b08c91b8f79",
+  "https://images.blocketcdn.se/dynamic/default/item/23782740/9320c089-7d49-4583-ab69-682b0c020a55"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.62,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +76,13 @@
   "text_sha": "1cda972b6d9245f1"
  },
  "location": "Västra Frölunda",
- "lon": 11.87763,
+ "lon": 11.88,
  "make": "Terhi",
  "max_speed": 14,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 249,
   "fetched_ts": 1790507536516,
@@ -102,7 +114,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "225 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23782740",
  "width_cm": 187,
  "year": 2003

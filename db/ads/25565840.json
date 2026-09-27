@@ -7,6 +7,8 @@
   "boat_year": 2002,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -35,8 +37,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sahla 495 med 60 hk 2-takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25565840/a14e5f90-1b7e-408b-86fb-58e945b458d5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.15436,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25565840/a14e5f90-1b7e-408b-86fb-58e945b458d5",
+  "https://images.blocketcdn.se/dynamic/default/item/25565840/8ba9d715-70f7-4841-b8ab-eeeb2ea10357",
+  "https://images.blocketcdn.se/dynamic/default/item/25565840/09d5b799-eff4-4ce5-9f60-ecf144e43c91",
+  "https://images.blocketcdn.se/dynamic/default/item/25565840/8cf8ab7c-b736-443f-9752-fc0488b6eac1",
+  "https://images.blocketcdn.se/dynamic/default/item/25565840/ce6fac23-1ce3-4e61-8018-d2b96868be7c",
+  "https://images.blocketcdn.se/dynamic/default/item/25565840/38f4d46e-96c6-477b-ac1c-eb735636fec5",
+  "https://images.blocketcdn.se/dynamic/default/item/25565840/280c0db1-9ef3-44d1-94c3-cd2b6421eb53"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.15,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +77,13 @@
   "text_sha": "b256ad087ca5108f"
  },
  "location": "Ellös",
- "lon": 11.43462,
+ "lon": 11.43,
  "make": "Övriga",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 204,
   "fetched_ts": 1790508012058,
@@ -99,7 +111,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25565840",
  "width_cm": 200,
  "year": 2002

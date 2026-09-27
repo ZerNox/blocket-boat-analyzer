@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -24,6 +26,10 @@
     "kmh": 30
    }
   },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No roof, windows or door visible. Open cockpit design.",
+  "hull_source": "bild",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -31,13 +37,21 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Örnvik 540"
+ ],
  "heading": "Örnvik 540",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26267916/a238d492-b6c9-40cb-9de9-bf14726d40af",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.62359,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26267916/a238d492-b6c9-40cb-9de9-bf14726d40af",
+  "https://images.blocketcdn.se/dynamic/default/item/26267916/eee5a858-0e04-405e-8fb1-9d6e6f0772bc",
+  "https://images.blocketcdn.se/dynamic/default/item/26267916/3c9ff0be-492c-418f-87b4-04a35d00dbff"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.62,
  "length_ft": 17,
  "location": "Fjällbacka",
- "lon": 11.30301,
+ "lon": 11.3,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",
@@ -70,6 +84,19 @@
  },
  "status": "active",
  "url": "https://www.blocket.se/mobility/item/26267916",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "7cd87214c24ec638",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No roof, windows or door visible. Open cockpit design.",
+   "hull_photo": 1
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 0,
  "year": 1980
 }

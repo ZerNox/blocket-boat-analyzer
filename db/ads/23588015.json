@@ -7,6 +7,8 @@
   "boat_year": 2019,
   "boat_year_source": "spec",
   "engine_hours": 18,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Parsun (Yamaha)",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -23,6 +25,10 @@
     "included": true
    }
   },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space visible, only open cockpit and steering console.",
+  "hull_source": "bild",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -32,10 +38,18 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Sandström 565"
+ ],
  "heading": "Sandström Classic 565",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23588015/4c316a89-c449-47e4-9456-62dda4901367",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.73573,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23588015/4c316a89-c449-47e4-9456-62dda4901367",
+  "https://images.blocketcdn.se/dynamic/default/item/23588015/8e55ec78-3a77-47ea-ab00-8b68c779832b",
+  "https://images.blocketcdn.se/dynamic/default/item/23588015/01ff8a43-b1a0-4938-98b6-4b3215e7e30a"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.74,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -65,7 +79,7 @@
   "text_sha": "1e3c512d6bc47bef"
  },
  "location": "Gävle",
- "lon": 17.40185,
+ "lon": 17.4,
  "make": "Sandström",
  "max_speed": 33,
  "motor_fuel": "Bensin",
@@ -104,6 +118,19 @@
  },
  "status": "active",
  "url": "https://www.blocket.se/mobility/item/23588015",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "4f0b9667bf5bed09",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed space visible, only open cockpit and steering console.",
+   "hull_photo": 1
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 205,
  "year": 2019
 }

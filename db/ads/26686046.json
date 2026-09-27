@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -47,8 +49,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 465 Fishing – 2021 – Välutrustad ink 80-trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26686046/bae0d165-a27c-426e-ba3a-1defb5027595",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.30142,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26686046/bae0d165-a27c-426e-ba3a-1defb5027595",
+  "https://images.blocketcdn.se/dynamic/default/item/26686046/85a85743-20c0-4389-b0b7-bb6817bdef6b",
+  "https://images.blocketcdn.se/dynamic/default/item/26686046/153ba4bf-64dc-4b2f-959e-aa116fa757cc"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.3,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -78,12 +85,13 @@
   "text_sha": "e66d01ba3c676c5d"
  },
  "location": "Saltsjö-Boo",
- "lon": 18.2324,
+ "lon": 18.23,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 256,
   "fetched_ts": 1790508871842,
@@ -109,7 +117,7 @@
   "Märke": "HR",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26686046",
  "width_cm": 0,
  "year": 2021

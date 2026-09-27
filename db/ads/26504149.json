@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Roddbåt plasteka",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26504149/d69d2ea2-4817-47f1-b3a5-52a43ba94cc1",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.67931,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26504149/d69d2ea2-4817-47f1-b3a5-52a43ba94cc1",
+  "https://images.blocketcdn.se/dynamic/default/item/26504149/42dd9e26-199b-4e9f-b90b-f104f9461b2e",
+  "https://images.blocketcdn.se/dynamic/default/item/26504149/33ebf8a5-f64f-49b0-b923-8b28dcbd6ec1",
+  "https://images.blocketcdn.se/dynamic/default/item/26504149/49ea2fa2-3160-40de-a661-00f5790cdea1"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.68,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "21a5f12e4087eb79"
  },
  "location": "Norrtälje",
- "lon": 18.6897,
+ "lon": 18.69,
  "make": "Askeladden",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 47,
   "fetched_ts": 1790508747592,
@@ -93,7 +102,7 @@
   "Märke": "Askeladden",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26504149",
  "width_cm": 0,
  "year": 1990

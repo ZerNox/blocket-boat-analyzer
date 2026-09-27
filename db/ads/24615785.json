@@ -1,0 +1,88 @@
+{
+ "ad_id": 24615785,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786012796000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1967,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1967,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Monark 460 (Crescent) med motor och trailer säljes",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24615785/acb58bf8-5904-44ae-ac9b-35484421eeee",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24615785/acb58bf8-5904-44ae-ac9b-35484421eeee",
+  "https://images.blocketcdn.se/dynamic/default/item/24615785/93e14ad6-5645-4898-8008-11b3d0e35ae1",
+  "https://images.blocketcdn.se/dynamic/default/item/24615785/19b8ba03-8e1a-4ff0-9758-2d2f23c5f5b0",
+  "https://images.blocketcdn.se/dynamic/default/item/24615785/24d2de67-b379-4eb5-bf21-28ac8bbae5dc",
+  "https://images.blocketcdn.se/dynamic/default/item/24615785/c8f1cc0f-9770-472a-ab54-9c8667819586",
+  "https://images.blocketcdn.se/dynamic/default/item/24615785/82d0d172-b17a-45cf-97eb-754a198b2950",
+  "https://images.blocketcdn.se/dynamic/default/item/24615785/cf68ffa7-8cf2-4c35-8dac-2749db28839e",
+  "https://images.blocketcdn.se/dynamic/default/item/24615785/0c19e533-3076-4294-8cfe-007f05e7c960"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.63,
+ "length_ft": 15,
+ "location": "Västerås",
+ "lon": 16.61,
+ "make": "Monark",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 513,
+  "fetched_ts": 1790520639400,
+  "text_sha": "263a1355a15d12b3"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Längd i fot": "15 fot",
+  "Modell": "Monark 460 (crescent)",
+  "Modellår": "1967",
+  "Motor inkluderad": "Nej",
+  "Märke": "Monark",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "330 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/24615785",
+ "width_cm": 180,
+ "year": 1967
+}

@@ -1,0 +1,84 @@
+{
+ "ad_id": 26416296,
+ "boat_class": "Annat",
+ "changed_ts": 1788857169000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1960,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1960,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Retro Sportbåt Lone Star Capri -60",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26416296/f58a5b01-1c8b-4a48-ad9a-f62c04f34a5e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26416296/f58a5b01-1c8b-4a48-ad9a-f62c04f34a5e",
+  "https://images.blocketcdn.se/dynamic/default/item/26416296/179130e3-4e85-4a66-882f-0412d5dd86af",
+  "https://images.blocketcdn.se/dynamic/default/item/26416296/f931a1ac-7a53-432b-8498-2add14783051",
+  "https://images.blocketcdn.se/dynamic/default/item/26416296/caa8f48a-f4af-4ae9-a04b-e1202be47418",
+  "https://images.blocketcdn.se/dynamic/default/item/26416296/8266851e-4d5c-4b23-bbaf-4d1fea211ced",
+  "https://images.blocketcdn.se/dynamic/default/item/26416296/89fe5687-a416-46f1-8ae1-d2d4a7a536b7",
+  "https://images.blocketcdn.se/dynamic/default/item/26416296/2e979461-dbc8-4f0a-bb24-6baac54e023c",
+  "https://images.blocketcdn.se/dynamic/default/item/26416296/b403750c-8536-428f-adf8-fa7cf711dac6",
+  "https://images.blocketcdn.se/dynamic/default/item/26416296/b794fbe0-1a97-4033-a5d8-c98a85edf794",
+  "https://images.blocketcdn.se/dynamic/default/item/26416296/51d5f50f-e52e-44de-9582-372a0ce8e506"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.27,
+ "length_ft": 14,
+ "location": "Lysekil",
+ "lon": 11.42,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 275,
+  "fetched_ts": 1790520963167,
+  "text_sha": "af75f947a2387c9c"
+ },
+ "price": 9500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vitt skrov Rött däck",
+  "Längd i fot": "14 fot",
+  "Modell": "Lone Star Capri",
+  "Modellår": "1960",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26416296",
+ "width_cm": 0,
+ "year": 1960
+}

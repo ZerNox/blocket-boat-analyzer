@@ -1,0 +1,107 @@
+{
+ "ad_id": 25390505,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1785856939000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Suzuki 4",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1996,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Linder 440 Fishing",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25390505/8f187d03-64a4-4030-a202-0e8a20611261",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25390505/8f187d03-64a4-4030-a202-0e8a20611261",
+  "https://images.blocketcdn.se/dynamic/default/item/25390505/e98c0eb8-8885-4f31-9c49-b489947a5053",
+  "https://images.blocketcdn.se/dynamic/default/item/25390505/97990926-7f64-4609-a243-87236a6aada0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 61.25,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1996,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "null",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2f395b567a1261c0"
+ },
+ "location": "Söderala",
+ "lon": 16.99,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 259,
+  "fetched_ts": 1790520688945,
+  "text_sha": "2f395b567a1261c0"
+ },
+ "price": 23000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 23000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "440 Fishing",
+  "Modellår": "1996",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Suzuki 4",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "94 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25390505",
+ "width_cm": 0,
+ "year": 1996
+}

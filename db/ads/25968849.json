@@ -7,6 +7,8 @@
   "boat_year": 1992,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -36,6 +38,10 @@
     "kmh": 30
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -45,10 +51,22 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Uttern 5000AC",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25968849/f74e02aa-df67-48b3-ac76-521e202e2c87",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.33631,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25968849/f74e02aa-df67-48b3-ac76-521e202e2c87",
+  "https://images.blocketcdn.se/dynamic/default/item/25968849/b4076419-9f56-4edb-97b0-2a53fac509ba",
+  "https://images.blocketcdn.se/dynamic/default/item/25968849/2fe50476-fa6e-4b45-9ca1-21775c986435",
+  "https://images.blocketcdn.se/dynamic/default/item/25968849/d948faf7-2e89-436c-8c0f-aad8296ae2da",
+  "https://images.blocketcdn.se/dynamic/default/item/25968849/d6c41b14-309e-4286-9161-0603eba04676",
+  "https://images.blocketcdn.se/dynamic/default/item/25968849/37cd11e4-9cd7-4e0f-b71f-3998443a6bc0",
+  "https://images.blocketcdn.se/dynamic/default/item/25968849/94e07cf3-c821-4dfe-8b7c-42083cae1e87"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.34,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -79,7 +97,7 @@
   "text_sha": "2a373b353651e7df"
  },
  "location": "Öregrund",
- "lon": 18.45119,
+ "lon": 18.45,
  "make": "Uttern",
  "max_speed": 25,
  "motor_fuel": "Bensin",

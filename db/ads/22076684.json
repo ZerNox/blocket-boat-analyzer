@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -32,16 +34,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 430",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22076684/0552bd4a-faee-415d-99b4-cd5ce34dcf2c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.8409,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22076684/0552bd4a-faee-415d-99b4-cd5ce34dcf2c",
+  "https://images.blocketcdn.se/dynamic/default/item/22076684/399ac2de-8ec5-4f3f-af3d-8b62c015846a",
+  "https://images.blocketcdn.se/dynamic/default/item/22076684/0ab00672-3958-4be0-8279-e4fc95aa480e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.84,
  "length_ft": 14,
  "location": "Kungälv",
- "lon": 11.9773,
+ "lon": 11.98,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 139,
   "fetched_ts": 1790507434323,
@@ -74,7 +82,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "210 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/22076684",
  "width_cm": 190,
  "year": 1980

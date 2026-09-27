@@ -7,6 +7,8 @@
   "boat_year": 2013,
   "boat_year_source": "spec",
   "engine_hours": 495,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -45,16 +47,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Starweld 1600 PRO SC Ready2Fish",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25366503/8947e986-c06b-40cf-b16a-0240aff5b165",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.43278,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25366503/8947e986-c06b-40cf-b16a-0240aff5b165",
+  "https://images.blocketcdn.se/dynamic/default/item/25366503/f9ccfceb-bf22-4a99-9b34-113034fedcfc"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.43,
  "length_ft": 16,
  "location": "Stora Skedvi",
- "lon": 15.77921,
+ "lon": 15.78,
  "make": "Starcraft",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1085,
   "fetched_ts": 1790507800121,
@@ -84,7 +91,7 @@
   "Toppfart": "30 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25366503",
  "width_cm": 208,
  "year": 2013

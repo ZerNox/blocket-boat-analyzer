@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Volvo Penta",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Motorbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22477918/758b4044-5013-431c-a671-0b2acf891422",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.23523,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22477918/758b4044-5013-431c-a671-0b2acf891422",
+  "https://images.blocketcdn.se/dynamic/default/item/22477918/b0af4a49-4f4e-42b4-b8c0-c44ef22db595",
+  "https://images.blocketcdn.se/dynamic/default/item/22477918/719a0a78-6351-4f63-bd04-b79f553b8543",
+  "https://images.blocketcdn.se/dynamic/default/item/22477918/4e362e46-226f-4f8e-a608-77ecb859e0c9",
+  "https://images.blocketcdn.se/dynamic/default/item/22477918/45272aa6-cdce-4220-a64d-3af202af7067",
+  "https://images.blocketcdn.se/dynamic/default/item/22477918/730fc2fc-75f7-4928-9f57-489a518ee912",
+  "https://images.blocketcdn.se/dynamic/default/item/22477918/9e620189-2f21-4566-a8f5-c82fdb97f709",
+  "https://images.blocketcdn.se/dynamic/default/item/22477918/a13ebc4e-7528-4d6c-9eb4-c4e00a7ebe8e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.24,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +77,13 @@
   "text_sha": "9f5e689c9622e8c1"
  },
  "location": "Tyresö",
- "lon": 18.28426,
+ "lon": 18.28,
  "make": "Övriga",
  "max_speed": 40,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 142,
   "fetched_ts": 1790507456804,
@@ -98,7 +111,7 @@
   "Toppfart": "40 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/22477918",
  "width_cm": 190,
  "year": 1990

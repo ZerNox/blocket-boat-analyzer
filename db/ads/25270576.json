@@ -1,0 +1,104 @@
+{
+ "ad_id": 25270576,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788255735000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1987,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2023,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "* Suzuki 90 hk, 3 år gammal, med trollingläge",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "* Garmin ECHOMAP UHD 72sv med givare (transducer)",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "* Kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "* Garmin ECHOMAP UHD 72sv med givare (transducer)",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 570"
+ ],
+ "heading": "Flipper 570 med Suzuki 90 hk – mycket fint skick",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25270576/d0064960-7269-4c0e-be19-5f45476c73ec",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25270576/d0064960-7269-4c0e-be19-5f45476c73ec",
+  "https://images.blocketcdn.se/dynamic/default/item/25270576/d15bc91a-7dbb-4e28-bf96-3e0ad7c7bd29",
+  "https://images.blocketcdn.se/dynamic/default/item/25270576/88577e58-c783-47f0-9dbc-1c7102ee222b",
+  "https://images.blocketcdn.se/dynamic/default/item/25270576/1c28dc75-ae36-4e82-8375-60bef82acba6",
+  "https://images.blocketcdn.se/dynamic/default/item/25270576/e8ca4b4f-24fd-4407-bc91-875e75b50175"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.47,
+ "length_ft": 18,
+ "location": "Österskär",
+ "lon": 18.31,
+ "make": "Flipper",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 591,
+  "fetched_ts": 1790522955722,
+  "text_sha": "848d05e94f2f3e38"
+ },
+ "price": 120000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 120000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "570",
+  "Modellår": "1987",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Sovplatser": "4",
+  "Toppfart": "35 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "950 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25270576",
+ "width_cm": 220,
+ "year": 1987
+}

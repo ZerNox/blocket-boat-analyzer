@@ -1,0 +1,75 @@
+{
+ "ad_id": 26659065,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789643801000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Jofa Havsbris",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26659065/a38d6b4b-99fd-4e46-87d3-e50e13022a42",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26659065/a38d6b4b-99fd-4e46-87d3-e50e13022a42",
+  "https://images.blocketcdn.se/dynamic/default/item/26659065/4b331dc2-3915-4585-9c24-613de4a9c885",
+  "https://images.blocketcdn.se/dynamic/default/item/26659065/f29c80d5-c354-4317-904c-f84991214e6c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.08,
+ "length_ft": 15,
+ "location": "Sturkö",
+ "lon": 15.68,
+ "make": "AMT",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 38,
+  "fetched_ts": 1790521028323,
+  "text_sha": "ff98342007c35feb"
+ },
+ "price": 9000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "Jofa Havsbris",
+  "Modellår": "2000",
+  "Märke": "AMT",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26659065",
+ "width_cm": 0,
+ "year": 2000
+}

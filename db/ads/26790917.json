@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -30,8 +32,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster RS Yamaha 40 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26790917/2abb6e73-dc26-48ab-9fc2-7c3e3f299ca0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.31227,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26790917/2abb6e73-dc26-48ab-9fc2-7c3e3f299ca0",
+  "https://images.blocketcdn.se/dynamic/default/item/26790917/c4cc569b-9348-4697-8711-cb7114a1e44d",
+  "https://images.blocketcdn.se/dynamic/default/item/26790917/8370433d-2840-42dc-8aa9-b16e86a9157d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.31,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -61,12 +68,13 @@
   "text_sha": "9921ddaf58dba03b"
  },
  "location": "Saltsjö-Boo",
- "lon": 18.29657,
+ "lon": 18.3,
  "make": "Buster",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 269,
   "fetched_ts": 1790508942207,
@@ -94,7 +102,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26790917",
  "width_cm": 172,
  "year": 1990

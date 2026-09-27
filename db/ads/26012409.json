@@ -7,6 +7,8 @@
   "boat_year": 2018,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -48,8 +50,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Marino Alex 450 Deluxe",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26012409/5f85059c-f37f-4bcd-a053-9204ded80f8c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.66829,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26012409/5f85059c-f37f-4bcd-a053-9204ded80f8c",
+  "https://images.blocketcdn.se/dynamic/default/item/26012409/a70452d5-f4d1-48a4-a74b-bf478afd5cae",
+  "https://images.blocketcdn.se/dynamic/default/item/26012409/5f64f8a8-00a5-4ac4-8011-fb02d1538f1f",
+  "https://images.blocketcdn.se/dynamic/default/item/26012409/679d69eb-2dee-412f-9718-b5c574be6b17",
+  "https://images.blocketcdn.se/dynamic/default/item/26012409/a6667f31-52ab-42f7-8d7f-a809ee9c8bf4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.67,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -80,12 +89,13 @@
   "text_sha": "2ea8a917d07fdaa1"
  },
  "location": "Arvika",
- "lon": 12.54083,
+ "lon": 12.54,
  "make": "Marino",
  "max_speed": 27,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1625,
   "fetched_ts": 1790508384165,
@@ -117,7 +127,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "300 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26012409",
  "width_cm": 193,
  "year": 2018

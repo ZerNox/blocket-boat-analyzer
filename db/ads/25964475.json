@@ -7,6 +7,8 @@
   "boat_year": 1996,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 8.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Marine r",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fiske båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25964475/aed7f5b3-1f5e-43ff-8036-33e889db41d9",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.85332,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25964475/aed7f5b3-1f5e-43ff-8036-33e889db41d9",
+  "https://images.blocketcdn.se/dynamic/default/item/25964475/0e54b021-0bd1-4356-8477-0a518a74f3f2",
+  "https://images.blocketcdn.se/dynamic/default/item/25964475/a8a2fa74-f7fc-4be2-a68a-379a28948c5a",
+  "https://images.blocketcdn.se/dynamic/default/item/25964475/011bb814-f357-4389-81db-8e7bce229425",
+  "https://images.blocketcdn.se/dynamic/default/item/25964475/0d006aaa-3b07-4cc8-b0ef-6146a407b851",
+  "https://images.blocketcdn.se/dynamic/default/item/25964475/8f5e7b49-bcdb-4f9b-a794-317eb59e12c4",
+  "https://images.blocketcdn.se/dynamic/default/item/25964475/869050a5-c762-4ac5-a06d-db52ec76d3dc"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.85,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +77,13 @@
   "text_sha": "f4b9780a375b3cf8"
  },
  "location": "Gråbo",
- "lon": 12.27275,
+ "lon": 12.27,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 8.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 263,
   "fetched_ts": 1790508330194,
@@ -97,7 +109,7 @@
   "Märke": "Övriga",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25964475",
  "width_cm": 150,
  "year": 1996

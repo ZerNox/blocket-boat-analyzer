@@ -7,6 +7,8 @@
   "boat_year": 2014,
   "boat_year_source": "spec",
   "engine_hours": 80,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -42,8 +44,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 468 sport",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26225964/244097ee-6af4-4b61-8f2c-a77e51723161",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.00676,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26225964/244097ee-6af4-4b61-8f2c-a77e51723161",
+  "https://images.blocketcdn.se/dynamic/default/item/26225964/33374b43-e2f6-4897-b41d-db9e4aa62a80",
+  "https://images.blocketcdn.se/dynamic/default/item/26225964/4e37b399-9262-451f-b51d-2fc29ecf2010",
+  "https://images.blocketcdn.se/dynamic/default/item/26225964/19847b48-4799-4e7d-9ce8-49ca8aa3c716",
+  "https://images.blocketcdn.se/dynamic/default/item/26225964/83770c53-2ca0-4523-a384-83bebddcdfa9",
+  "https://images.blocketcdn.se/dynamic/default/item/26225964/df369edc-e94c-4aa1-8316-933145370437"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.01,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +83,13 @@
   "text_sha": "bc5b690f29b4d9b9"
  },
  "location": "Fagersta",
- "lon": 15.79032,
+ "lon": 15.79,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 255,
   "fetched_ts": 1790508531086,
@@ -107,7 +118,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "350 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26225964",
  "width_cm": 190,
  "year": 2014

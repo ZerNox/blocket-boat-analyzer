@@ -7,6 +7,8 @@
   "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 5.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Smidig tryggt bränslesnålt båtpaket",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26811892/f62dc9f0-498d-4604-9749-0a7d0a6c8787",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.19446,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26811892/f62dc9f0-498d-4604-9749-0a7d0a6c8787"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.19,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +71,13 @@
   "text_sha": "b7ee026a6cc7768a"
  },
  "location": "Södertälje",
- "lon": 17.61843,
+ "lon": 17.62,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 5.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1242,
   "fetched_ts": 1790508950622,
@@ -102,7 +108,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "180 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26811892",
  "width_cm": 170,
  "year": 2016

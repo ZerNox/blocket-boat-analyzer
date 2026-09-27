@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 495 med 30hk Yamaha och nybesiktad trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25505793/e732dee2-7008-4962-a511-8cb19fde64fb",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.59907,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25505793/e732dee2-7008-4962-a511-8cb19fde64fb",
+  "https://images.blocketcdn.se/dynamic/default/item/25505793/26bb4066-f501-436a-b91b-d289ccf7496f",
+  "https://images.blocketcdn.se/dynamic/default/item/25505793/f84bdf4c-061e-4f9f-86c5-8775f928f38f",
+  "https://images.blocketcdn.se/dynamic/default/item/25505793/7d3ff315-bf62-4ae3-b8cc-187a3b8e8392",
+  "https://images.blocketcdn.se/dynamic/default/item/25505793/0c58c713-0824-4646-b944-9d7a827e6192",
+  "https://images.blocketcdn.se/dynamic/default/item/25505793/ecdaa301-255c-4fb9-b17b-686387178431"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.6,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +79,13 @@
   "text_sha": "557666613348de17"
  },
  "location": "Kinnarumma",
- "lon": 12.90538,
+ "lon": 12.91,
  "make": "Uttern",
  "max_speed": 23,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 443,
   "fetched_ts": 1790507932345,
@@ -102,7 +113,7 @@
   "Toppfart": "23 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25505793",
  "width_cm": 190,
  "year": 1990

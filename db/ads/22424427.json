@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": 67,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "KG Vene Ninja",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22424427/d05340a8-ffb0-48d9-84a4-e376ffbfff6d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.83798,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22424427/d05340a8-ffb0-48d9-84a4-e376ffbfff6d",
+  "https://images.blocketcdn.se/dynamic/default/item/22424427/60504830-be89-4394-bee7-a4a3d2a17049",
+  "https://images.blocketcdn.se/dynamic/default/item/22424427/119e4685-dfb3-4f0b-8f3d-3fb852b86080",
+  "https://images.blocketcdn.se/dynamic/default/item/22424427/4911dfb9-eadc-4b84-8444-7be06904c10a",
+  "https://images.blocketcdn.se/dynamic/default/item/22424427/013bfa8d-06da-401d-a359-9ad8142931bf",
+  "https://images.blocketcdn.se/dynamic/default/item/22424427/29e39a91-e1d3-4620-b939-8c0fccb3a755",
+  "https://images.blocketcdn.se/dynamic/default/item/22424427/8f32b720-dffe-4ce5-a225-1d1cc9003180",
+  "https://images.blocketcdn.se/dynamic/default/item/22424427/87921fb3-12fd-45a3-94f1-855dcd2e6ae8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.84,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +82,13 @@
   "text_sha": "0ef7fdf2cdf0aff5"
  },
  "location": "Uppsala",
- "lon": 17.63782,
+ "lon": 17.64,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 82,
   "fetched_ts": 1790507454028,
@@ -103,7 +116,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/22424427",
  "width_cm": 0,
  "year": 1995

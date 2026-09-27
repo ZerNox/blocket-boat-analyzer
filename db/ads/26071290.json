@@ -1,0 +1,78 @@
+{
+ "ad_id": 26071290,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787821557000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Fräsch och stabil båt 4,20",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26071290/1361e04e-a852-46f1-8fb9-de4f9052fc36",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26071290/1361e04e-a852-46f1-8fb9-de4f9052fc36",
+  "https://images.blocketcdn.se/dynamic/default/item/26071290/41948271-08ae-4fd7-939e-74449e553137",
+  "https://images.blocketcdn.se/dynamic/default/item/26071290/6d529caf-58b6-4140-af37-62dc87da0f52",
+  "https://images.blocketcdn.se/dynamic/default/item/26071290/d0230736-9bf8-40dd-b494-2a1077796dde",
+  "https://images.blocketcdn.se/dynamic/default/item/26071290/b65f3b3f-8943-4042-b7ac-050160dd47e3",
+  "https://images.blocketcdn.se/dynamic/default/item/26071290/d2a24205-be68-46ba-aa8c-aaca64522f93",
+  "https://images.blocketcdn.se/dynamic/default/item/26071290/29037da5-fb24-48ac-8000-581cb0cfa60c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.2,
+ "length_ft": 14,
+ "location": "Bjästa",
+ "lon": 18.51,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 77,
+  "fetched_ts": 1790520889496,
+  "text_sha": "27fd4e94ac5ad98a"
+ },
+ "price": 9500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Orange",
+  "Längd i fot": "14 fot",
+  "Modellår": "1990",
+  "Motor inkluderad": "Nej",
+  "Märke": "Askeladden",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26071290",
+ "width_cm": 0,
+ "year": 1990
+}

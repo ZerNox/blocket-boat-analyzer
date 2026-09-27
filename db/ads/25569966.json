@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 55.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpetbåt + Suzuki 55 hk 2-takt + trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25569966/45ae6c1c-8a7c-493f-9f08-a02ce3055753",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.21262,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25569966/45ae6c1c-8a7c-493f-9f08-a02ce3055753",
+  "https://images.blocketcdn.se/dynamic/default/item/25569966/a0287cfe-5ead-4bf5-a775-3cb0bbf5c6a9",
+  "https://images.blocketcdn.se/dynamic/default/item/25569966/22be2faf-1b1a-446b-8729-50137dbaf33d",
+  "https://images.blocketcdn.se/dynamic/default/item/25569966/bf08111d-e3d4-46d4-b1b2-ec20f2bbd26f",
+  "https://images.blocketcdn.se/dynamic/default/item/25569966/77305408-5714-4a10-bf77-4ddbb24c8ab2",
+  "https://images.blocketcdn.se/dynamic/default/item/25569966/049bd006-2d10-41c1-b9e0-6a2671e118db",
+  "https://images.blocketcdn.se/dynamic/default/item/25569966/882f9909-ad35-4036-bdc1-5d6bc37b8d33",
+  "https://images.blocketcdn.se/dynamic/default/item/25569966/6826ed1b-b4f9-43af-b2e3-75bac0d5264c",
+  "https://images.blocketcdn.se/dynamic/default/item/25569966/8d0dfe1a-d87a-4021-9aac-90a2ed81faf9",
+  "https://images.blocketcdn.se/dynamic/default/item/25569966/d0fb8e05-1a3a-4af1-826f-5bc1e563f25d",
+  "https://images.blocketcdn.se/dynamic/default/item/25569966/86e77a4a-4f51-4106-96a4-6cbdac678954",
+  "https://images.blocketcdn.se/dynamic/default/item/25569966/517c21e3-c7ac-4063-80e0-c299da1b0365"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.21,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +81,13 @@
   "text_sha": "006f6fa9ab4c2c72"
  },
  "location": "Södertälje",
- "lon": 17.58256,
+ "lon": 17.58,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 55.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 840,
   "fetched_ts": 1790508017550,
@@ -96,7 +113,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "400 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25569966",
  "width_cm": 0,
  "year": 1980

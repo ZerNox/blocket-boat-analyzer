@@ -7,6 +7,8 @@
   "boat_year": 2015,
   "boat_year_source": "spec",
   "engine_hours": 156,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha F60FETL",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -42,8 +44,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Finnmaster 52 SC + Yamaha F60FETL",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25596760/e099cae4-7b6c-4058-8a34-6fbccf0bd32c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.74116,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25596760/e099cae4-7b6c-4058-8a34-6fbccf0bd32c",
+  "https://images.blocketcdn.se/dynamic/default/item/25596760/f3dd3dda-9fcc-4083-9ac0-cdb72bc95429",
+  "https://images.blocketcdn.se/dynamic/default/item/25596760/dd7ab839-8838-4cb3-83f4-ec7dd0fa7b6c",
+  "https://images.blocketcdn.se/dynamic/default/item/25596760/5dca6068-cafd-4706-b242-46d64daadcb4",
+  "https://images.blocketcdn.se/dynamic/default/item/25596760/2304fb08-4c48-425c-a3d8-bebd95c85455",
+  "https://images.blocketcdn.se/dynamic/default/item/25596760/fff5db7b-8151-447c-a17b-dfe567580a4d",
+  "https://images.blocketcdn.se/dynamic/default/item/25596760/f8e9b3e7-f5d2-4efe-926f-b4c715b57d56",
+  "https://images.blocketcdn.se/dynamic/default/item/25596760/6be73557-e20d-4462-a8cc-8c9653ae2ca1"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.74,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +86,13 @@
   "text_sha": "e2a7a78bd5cfd9f9"
  },
  "location": "Norrtälje",
- "lon": 18.94242,
+ "lon": 18.94,
  "make": "Finnmaster",
  "max_speed": 29,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 601,
   "fetched_ts": 1790508037789,
@@ -110,7 +123,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "580 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25596760",
  "width_cm": 200,
  "year": 2015

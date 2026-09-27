@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fin styrpulpet",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25270071/6518bb1a-f530-4b3c-810d-c19b3614ff1d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.78397,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25270071/6518bb1a-f530-4b3c-810d-c19b3614ff1d",
+  "https://images.blocketcdn.se/dynamic/default/item/25270071/442d1390-5fd2-4518-b157-0af4ad5ac8c3",
+  "https://images.blocketcdn.se/dynamic/default/item/25270071/39a264dd-6e50-4fcb-8101-c0989d05fd4d",
+  "https://images.blocketcdn.se/dynamic/default/item/25270071/19107ad9-3867-4436-b510-9c593690c227",
+  "https://images.blocketcdn.se/dynamic/default/item/25270071/ee356c1a-a582-438b-bdd1-bf74a123c6ce",
+  "https://images.blocketcdn.se/dynamic/default/item/25270071/ffd10a30-6240-45ab-bb13-a4b0d4d4612f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.78,
  "length_ft": 420,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +80,13 @@
   "text_sha": "0bf518d158b39a5f"
  },
  "location": "Ljungby",
- "lon": 13.90459,
+ "lon": 13.9,
  "make": "Övriga",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 295,
   "fetched_ts": 1790507713621,
@@ -103,7 +114,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "460 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25270071",
  "width_cm": 165,
  "year": 1985

@@ -33,10 +33,11 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "Terhi 400",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26343168/e5fbf23b-8acf-4c99-953e-b635e9c4b71c",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.65646,
+ "lat": 59.66,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -66,7 +67,7 @@
   "text_sha": "8ac72db9e4df1978"
  },
  "location": "Arvika",
- "lon": 12.59339,
+ "lon": 12.59,
  "make": "Terhi",
  "max_speed": null,
  "motor_fuel": "Bensin",
@@ -96,7 +97,7 @@
   "Märke": "Terhi",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/26343168",
  "width_cm": 0,
  "year": 2016

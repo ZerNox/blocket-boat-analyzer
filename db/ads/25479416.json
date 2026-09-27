@@ -1,0 +1,126 @@
+{
+ "ad_id": 25479416,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1786106707000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1991,
+  "boat_year_source": "spec",
+  "engine_hours": 240,
+  "engine_hp": 115,
+  "engine_hp_source": "llm",
+  "engine_maker": "Yamaha 115F 2012",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": 2012,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Yamaha 115F 2012",
+  "engine_year_source": "rule:spec+llm",
+  "equipment": {
+   "plotter": {
+    "evidence": "Garmin GPS.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Stereo VHF.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Stor båtvagn.",
+    "included": true
+   },
+   "vhf": {
+    "evidence": "Stereo VHF.",
+    "included": true
+   },
+   "vinterkapell": {
+    "evidence": "Presenning.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Shippy 680 AC Yamaha 115F",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25479416/703f106b-6eaa-4515-b5a9-65f43456c670",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25479416/703f106b-6eaa-4515-b5a9-65f43456c670",
+  "https://images.blocketcdn.se/dynamic/default/item/25479416/5236d971-4bc5-46d9-aa20-3144e070ec57",
+  "https://images.blocketcdn.se/dynamic/default/item/25479416/4dddab01-44b4-4ed8-8d42-cbd1b46b8281",
+  "https://images.blocketcdn.se/dynamic/default/item/25479416/3a2f5c65-375e-466d-a615-cefb707e3ad6",
+  "https://images.blocketcdn.se/dynamic/default/item/25479416/5c79a2b7-f99b-42b9-af51-829d7bee8eaa"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.49,
+ "length_ft": 22,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1991,
+   "engine_hours": 240,
+   "engine_hp": 115,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": 2012,
+   "engine_year_evidence": "Motortillverkare: Yamaha 115F 2012",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "not_mentioned",
+    "vhf": "included",
+    "vinterkapell": "excluded"
+   }
+  },
+  "text_sha": "9e9c32b99367a969"
+ },
+ "location": "Luleå",
+ "lon": 22.57,
+ "make": "SL",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 398,
+  "fetched_ts": 1790520709031,
+  "text_sha": "9e9c32b99367a969"
+ },
+ "price": 175000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 175000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "22 fot",
+  "Modell": "Shippy 680 AC",
+  "Modellår": "1991",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Yamaha 115F 2012",
+  "Märke": "SL",
+  "Typ": "Hyttbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25479416",
+ "width_cm": 0,
+ "year": 1991
+}

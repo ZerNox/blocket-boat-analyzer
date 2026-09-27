@@ -7,6 +7,8 @@
   "boat_year": 1981,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -33,8 +35,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Finnsport 410",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25423368/f07369eb-139e-45e6-a42a-6a2b1f11183c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.2449,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25423368/f07369eb-139e-45e6-a42a-6a2b1f11183c",
+  "https://images.blocketcdn.se/dynamic/default/item/25423368/ec87e48c-c5e6-4f74-a670-744af154583f",
+  "https://images.blocketcdn.se/dynamic/default/item/25423368/d1c6bba2-7a4b-4f6f-a109-6ed98d42ef3d",
+  "https://images.blocketcdn.se/dynamic/default/item/25423368/beb90f39-8760-4956-a708-879549185df5",
+  "https://images.blocketcdn.se/dynamic/default/item/25423368/9df44799-298e-4169-b62c-67f565c1dc44"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.24,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -64,12 +73,13 @@
   "text_sha": "612a4400ce2c4bca"
  },
  "location": "Oskarshamn",
- "lon": 16.46856,
+ "lon": 16.47,
  "make": "Finnsport",
  "max_speed": 22,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 266,
   "fetched_ts": 1790507856145,
@@ -97,7 +107,7 @@
   "Toppfart": "22 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25423368",
  "width_cm": 160,
  "year": 1981

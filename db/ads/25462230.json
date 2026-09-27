@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -23,6 +25,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 500 ht",
+  "hull_source": "rule:model",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -30,13 +36,23 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Ryds 500 ht",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25462230/6082b5fc-6df3-45cb-b7cb-074ad7562f65",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.75023,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25462230/6082b5fc-6df3-45cb-b7cb-074ad7562f65",
+  "https://images.blocketcdn.se/dynamic/default/item/25462230/a5a151ce-f2c2-433f-9a0f-8e607acf9cd0",
+  "https://images.blocketcdn.se/dynamic/default/item/25462230/5846d252-2e61-4aab-9b60-98e08d49df71",
+  "https://images.blocketcdn.se/dynamic/default/item/25462230/773c8244-59e2-4a73-aec3-b79b72eb0fef",
+  "https://images.blocketcdn.se/dynamic/default/item/25462230/2af72e98-efec-43b9-b855-794fb2b98d83"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.75,
  "length_ft": 17,
  "location": "Finspång",
- "lon": 15.66103,
+ "lon": 15.66,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",

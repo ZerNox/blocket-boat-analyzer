@@ -1,0 +1,83 @@
+{
+ "ad_id": 25051540,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790514553000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 10.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1980,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "10hk 2-tact (1980) mercury-motor med styrpulpet. (Båten är av okänt märke)",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "30km/h-kärra ingår plus en del tillbehör.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Styrpulpetbåt med 10hk mercury.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25051540/3c19caaf-f6c2-44bf-977b-ceee3292fb70",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25051540/3c19caaf-f6c2-44bf-977b-ceee3292fb70",
+  "https://images.blocketcdn.se/dynamic/default/item/25051540/98f749f1-3536-48aa-8dae-36d50cb35650",
+  "https://images.blocketcdn.se/dynamic/default/item/25051540/b5b15767-f9e3-4b2b-97ab-73b03e637c2c",
+  "https://images.blocketcdn.se/dynamic/default/item/25051540/c25c9c8c-3e65-44c3-9e03-409d253bfaa9",
+  "https://images.blocketcdn.se/dynamic/default/item/25051540/176db1e9-b276-4c04-b73f-9667d053c617"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.14,
+ "length_ft": 16,
+ "location": "Upphärad",
+ "lon": 12.3,
+ "make": "Water Fun",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 10.0,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 264,
+  "fetched_ts": 1790520653556,
+  "text_sha": "1f62da2281c5aec3"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modellår": "1980",
+  "Motorstorlek": "10 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Water Fun",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25051540",
+ "width_cm": 0,
+ "year": 1980
+}

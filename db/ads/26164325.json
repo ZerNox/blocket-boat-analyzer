@@ -1,0 +1,111 @@
+{
+ "ad_id": 26164325,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788095620000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": 109,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha 70 hk",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2014,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamaha 70 hk 4-takt -14",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Ny bakruta i kapellet",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer medföljer",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": ". En charmig och praktisk kabinbåt med gott om plats för både dagsturer och övernattning.\nBåten har genom",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Jofa Winth 555 – Yamaha 70 hk 4-takt -14 – 109 timmar",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26164325/abce0092-aeeb-4330-8c4b-4c41e5185501",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26164325/abce0092-aeeb-4330-8c4b-4c41e5185501",
+  "https://images.blocketcdn.se/dynamic/default/item/26164325/ec199ca3-9c67-494a-ac3e-4405901cb077",
+  "https://images.blocketcdn.se/dynamic/default/item/26164325/9a53c94c-225e-4d2f-a321-f967af15ac46",
+  "https://images.blocketcdn.se/dynamic/default/item/26164325/cbf72c5f-dbba-4aee-9b01-e57abf1c76b0",
+  "https://images.blocketcdn.se/dynamic/default/item/26164325/4b43ca82-b6fe-4f49-a2ef-c88737382969",
+  "https://images.blocketcdn.se/dynamic/default/item/26164325/508cc69c-00f0-4c5c-bc11-25bbf4af2d72",
+  "https://images.blocketcdn.se/dynamic/default/item/26164325/05ee1a09-31f6-4e4d-aa53-440b9276eb26",
+  "https://images.blocketcdn.se/dynamic/default/item/26164325/f19a8c10-28d2-411f-87cc-b6b809ef9e59",
+  "https://images.blocketcdn.se/dynamic/default/item/26164325/b64906d2-4fc1-4e2a-8aa3-12eecc9ace97",
+  "https://images.blocketcdn.se/dynamic/default/item/26164325/633d11d4-4e61-497d-835d-3b97c956544e",
+  "https://images.blocketcdn.se/dynamic/default/item/26164325/8180edf4-4bbd-45f4-994f-5b2803ba48a1",
+  "https://images.blocketcdn.se/dynamic/default/item/26164325/4e782b3b-e81e-48ea-9a90-fb70b48c399b",
+  "https://images.blocketcdn.se/dynamic/default/item/26164325/e3e7bd40-c1b4-4edd-bc62-9d612030e71b",
+  "https://images.blocketcdn.se/dynamic/default/item/26164325/8bd1e32b-1d1b-4412-8f8e-1e1b3b89f4fa"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.91,
+ "length_ft": 19,
+ "location": "Trosa",
+ "lon": 17.57,
+ "make": "Övriga",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 2166,
+  "fetched_ts": 1790523126168,
+  "text_sha": "64e33a42fc478cde"
+ },
+ "price": 76000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 76000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "Jofa Winth 555",
+  "Modellår": "1979",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Yamaha 70 hk",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "5",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "600 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26164325",
+ "width_cm": 215,
+ "year": 1979
+}

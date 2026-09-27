@@ -1,0 +1,83 @@
+{
+ "ad_id": 25757394,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786879872000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2010,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "’Går att köpa till frontmonterad Minn kota edge motor.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Säljes inkl 30 trailer, utan motor..",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds 425",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25757394/9b259580-47f3-4b40-b1e1-94b3b5f000e2",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25757394/9b259580-47f3-4b40-b1e1-94b3b5f000e2",
+  "https://images.blocketcdn.se/dynamic/default/item/25757394/fd7ce2f1-60d4-49e3-90f2-f0d40982299d",
+  "https://images.blocketcdn.se/dynamic/default/item/25757394/7bec3ab1-5b54-4456-a176-7847291aba6c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.32,
+ "length_ft": 425,
+ "location": "Östhammar",
+ "lon": 18.35,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 228,
+  "fetched_ts": 1790520763064,
+  "text_sha": "b6f41f6037556ac7"
+ },
+ "price": 9000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "425 fot",
+  "Modell": "425",
+  "Modellår": "2010",
+  "Motor inkluderad": "Nej",
+  "Märke": "Ryds",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25757394",
+ "width_cm": 0,
+ "year": 2010
+}

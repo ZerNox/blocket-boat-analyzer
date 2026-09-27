@@ -1,0 +1,81 @@
+{
+ "ad_id": 25338301,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785687319000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Släpet, med motorvinch säljes också, för 5000 :- till.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Båt säljes",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25338301/7a270ea6-ca34-40a5-8bab-fee7e82ba0e5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25338301/7a270ea6-ca34-40a5-8bab-fee7e82ba0e5",
+  "https://images.blocketcdn.se/dynamic/default/item/25338301/168265d5-6acd-4a85-84d1-6dea8aac0917",
+  "https://images.blocketcdn.se/dynamic/default/item/25338301/f21984b8-8650-4ed3-9e41-97c5b0ce4694",
+  "https://images.blocketcdn.se/dynamic/default/item/25338301/2b80cd6c-0749-4a66-a667-97800f31485b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.24,
+ "length_ft": 16,
+ "location": "Tyresö",
+ "lon": 18.34,
+ "make": "Fantasi",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 172,
+  "fetched_ts": 1790520683668,
+  "text_sha": "72c9a8dff2c8f469"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Grön/ vit",
+  "Längd i fot": "16 fot",
+  "Modell": "490",
+  "Modellår": "1978",
+  "Motor inkluderad": "Nej",
+  "Märke": "Fantasi",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25338301",
+ "width_cm": 0,
+ "year": 1978
+}

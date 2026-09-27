@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 520 ST",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23493540/3195dbeb-a298-46ac-9087-d87c8214db6d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.24914,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23493540/3195dbeb-a298-46ac-9087-d87c8214db6d",
+  "https://images.blocketcdn.se/dynamic/default/item/23493540/3e398c38-d6a2-4038-bc60-e8cae1a6628e",
+  "https://images.blocketcdn.se/dynamic/default/item/23493540/dfcf1e9e-91d2-4afa-b359-eaa64ef0f9b7",
+  "https://images.blocketcdn.se/dynamic/default/item/23493540/0adc82c9-996e-47b6-935c-dac80a18281f",
+  "https://images.blocketcdn.se/dynamic/default/item/23493540/709ba977-ae5e-4574-a5ac-f47399109dcb"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.25,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "a73dcf39537ffff4"
  },
  "location": "Oskarshamn",
- "lon": 16.43223,
+ "lon": 16.43,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 134,
   "fetched_ts": 1790507508919,
@@ -92,7 +102,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "575 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23493540",
  "width_cm": 0,
  "year": 1995

@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -35,8 +37,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt med 80 km/h trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26835333/a03282ee-fbf7-4d2e-8a67-93f4fab57b21",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.66013,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26835333/a03282ee-fbf7-4d2e-8a67-93f4fab57b21",
+  "https://images.blocketcdn.se/dynamic/default/item/26835333/f3215b40-72f9-42e2-838b-99dddf21b6e3",
+  "https://images.blocketcdn.se/dynamic/default/item/26835333/fd9c2409-21b3-4f58-bb95-f8504d7b9e3e",
+  "https://images.blocketcdn.se/dynamic/default/item/26835333/91b864e9-c968-427d-a912-0407d6b44a96",
+  "https://images.blocketcdn.se/dynamic/default/item/26835333/79b0ef1d-e75e-4a77-8369-fc12cbebf078",
+  "https://images.blocketcdn.se/dynamic/default/item/26835333/a2842b87-3b1a-4a90-9c84-4558373f247b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.66,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +76,13 @@
   "text_sha": "4175f00f8f2d0459"
  },
  "location": "Rydboholm",
- "lon": 12.89444,
+ "lon": 12.89,
  "make": "Marieholm",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 572,
   "fetched_ts": 1790508967419,
@@ -98,7 +109,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26835333",
  "width_cm": 0,
  "year": 2000

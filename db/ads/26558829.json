@@ -1,0 +1,81 @@
+{
+ "ad_id": 26558829,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789303747000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2017,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "30trailer kan köpas till vid behov och hemtransport ordnas",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Linder 440 fishing i mkt fint skick",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26558829/817b8369-9df4-4f9e-8c77-9c870d868515",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26558829/817b8369-9df4-4f9e-8c77-9c870d868515",
+  "https://images.blocketcdn.se/dynamic/default/item/26558829/9cae1182-ffcc-4f6d-a116-568094237934"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.36,
+ "length_ft": 15,
+ "location": "Idkerberget",
+ "lon": 15.22,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 216,
+  "fetched_ts": 1790521002743,
+  "text_sha": "bb4f711d1556e720"
+ },
+ "price": 18000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 18000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "440",
+  "Modellår": "2017",
+  "Märke": "Linder",
+  "Sittplatser": "5",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "80 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26558829",
+ "width_cm": 0,
+ "year": 2017
+}

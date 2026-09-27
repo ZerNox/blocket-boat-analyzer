@@ -7,6 +7,8 @@
   "boat_year": 2007,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent Cosmos",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26664275/58c79fef-9ecb-4975-9849-e0b3eeb004af",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.9203,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26664275/58c79fef-9ecb-4975-9849-e0b3eeb004af"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.92,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +71,13 @@
   "text_sha": "7f6e6e4b98fcea2c"
  },
  "location": "Alingsås",
- "lon": 12.56622,
+ "lon": 12.57,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 309,
   "fetched_ts": 1790508855306,
@@ -96,7 +102,7 @@
   "Märke": "Crescent",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26664275",
  "width_cm": 0,
  "year": 2007

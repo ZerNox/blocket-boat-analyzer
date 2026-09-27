@@ -1,0 +1,110 @@
+{
+ "ad_id": 24426652,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787963125000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 4.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": "samt årtullar. Vi har haft en 4 hk motor, men fungerar fint upp till 8 hk. Båten finns strax utanför Uppsala. Bara att h",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Glasfiberbåt med båtupptagningsvagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24426652/46c17cff-216b-417e-a978-8ebf8195cd13",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24426652/46c17cff-216b-417e-a978-8ebf8195cd13",
+  "https://images.blocketcdn.se/dynamic/default/item/24426652/39bf87c3-4cae-42ba-a3df-a6efa6ad4220",
+  "https://images.blocketcdn.se/dynamic/default/item/24426652/9dc7c82e-c89e-4171-8716-4f7afe64b4d2",
+  "https://images.blocketcdn.se/dynamic/default/item/24426652/23cba4e7-485a-4b20-abd8-d08a1da47477",
+  "https://images.blocketcdn.se/dynamic/default/item/24426652/0b58a8d6-66ec-40e7-b968-40be5d131695",
+  "https://images.blocketcdn.se/dynamic/default/item/24426652/5f7eb39f-890d-477e-ada3-1bd86a9bc711",
+  "https://images.blocketcdn.se/dynamic/default/item/24426652/194c5bad-a6d5-440d-b24a-9ccd95888952",
+  "https://images.blocketcdn.se/dynamic/default/item/24426652/27b4e0c1-8aba-4563-9127-9bcf0be7f0b8",
+  "https://images.blocketcdn.se/dynamic/default/item/24426652/2d393006-b198-4fd2-81ab-eaa9140e0402"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.85,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "eef33465824a318c"
+ },
+ "location": "Uppsala",
+ "lon": 17.85,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 367,
+  "fetched_ts": 1790520634960,
+  "text_sha": "eef33465824a318c"
+ },
+ "price": 8000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 8000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modellår": "1985",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/24426652",
+ "width_cm": 0,
+ "year": 1985
+}

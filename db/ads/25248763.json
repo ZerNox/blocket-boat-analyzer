@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnsson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpupetbåt med 40hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25248763/353fd00b-3f14-41f5-a22c-5abe8e61b633",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.77173,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25248763/353fd00b-3f14-41f5-a22c-5abe8e61b633",
+  "https://images.blocketcdn.se/dynamic/default/item/25248763/54f4b51a-f6cd-42f6-adbd-8dcc9b75d830",
+  "https://images.blocketcdn.se/dynamic/default/item/25248763/9ffd02cb-1964-4cfa-b178-7cff18873fa3",
+  "https://images.blocketcdn.se/dynamic/default/item/25248763/a3a74dcd-cf4b-44f2-b48f-c6efa448f572"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.77,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "c6f51e312de1c4b2"
  },
  "location": "Skultuna",
- "lon": 16.34368,
+ "lon": 16.34,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790507689182,
@@ -89,7 +98,7 @@
   "Sittplatser": "4",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25248763",
  "width_cm": 0,
  "year": 1995

@@ -1,0 +1,108 @@
+{
+ "ad_id": 23456813,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790006735000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1994,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": "med plats för 6 personer. Max 20 hk motor. Perfekt för fiske och fritid. Svensktillverkad och väl omhändertagen.",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1994,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Örnvik 495",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23456813/b05e8c67-b617-4659-a00c-d36b987d975a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23456813/b05e8c67-b617-4659-a00c-d36b987d975a",
+  "https://images.blocketcdn.se/dynamic/default/item/23456813/6566879a-99dc-443a-b439-eac5a4777094",
+  "https://images.blocketcdn.se/dynamic/default/item/23456813/57f2614d-3de2-4203-a742-0af584696cf4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.02,
+ "length_ft": 4,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1994,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "228515f50ea7b2ff"
+ },
+ "location": "Påarp",
+ "lon": 12.84,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 158,
+  "fetched_ts": 1790520605278,
+  "text_sha": "228515f50ea7b2ff"
+ },
+ "price": 9900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9900
+  }
+ ],
+ "specs": {
+  "Bredd": "190 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Färg": "vit",
+  "Längd i fot": "4 fot",
+  "Modell": "495",
+  "Modellår": "1994",
+  "Motor inkluderad": "Nej",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "400 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23456813",
+ "width_cm": 190,
+ "year": 1994
+}

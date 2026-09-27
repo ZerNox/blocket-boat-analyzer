@@ -1,0 +1,122 @@
+{
+ "ad_id": 26010783,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787602412000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2008,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Bromsad trailer ingår",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Yamarin 56 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Yamarin 56"
+ ],
+ "heading": "Yamarin 56 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26010783/89bbab36-2a73-4607-b6a6-b50210811b56",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26010783/89bbab36-2a73-4607-b6a6-b50210811b56",
+  "https://images.blocketcdn.se/dynamic/default/item/26010783/4dd90c47-3f14-4671-86f1-26097102d3c3",
+  "https://images.blocketcdn.se/dynamic/default/item/26010783/b356baa6-0bc2-4248-b6d1-50b43996da66",
+  "https://images.blocketcdn.se/dynamic/default/item/26010783/a247fd38-98a0-4d66-a06b-78bf7786311e",
+  "https://images.blocketcdn.se/dynamic/default/item/26010783/1a66f181-e545-4c7c-a9ac-9eef769ec814",
+  "https://images.blocketcdn.se/dynamic/default/item/26010783/39624ce4-f2e8-4609-a34a-aa970d502a95",
+  "https://images.blocketcdn.se/dynamic/default/item/26010783/aba66b9d-7d1d-4533-bc08-fc465569372e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.29,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2008,
+   "engine_hours": null,
+   "engine_hp": 80,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor Yamaha 80 hk fyrtakt gått få timmar",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0f3abfcb641ba149"
+ },
+ "location": "Ekerö",
+ "lon": 17.8,
+ "make": "Yamarin",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 90,
+  "fetched_ts": 1790523102117,
+  "text_sha": "0f3abfcb641ba149"
+ },
+ "price": 130000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 130000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "56 HT",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26010783",
+ "width_cm": 0,
+ "year": 2008
+}

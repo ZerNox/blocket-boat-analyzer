@@ -1,0 +1,85 @@
+{
+ "ad_id": 24817891,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786374226000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "30 släp ingår i priset.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Shetland motorbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24817891/123e84b9-5e5d-4409-86a7-045c98970652",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24817891/123e84b9-5e5d-4409-86a7-045c98970652",
+  "https://images.blocketcdn.se/dynamic/default/item/24817891/dc0fab46-0491-4f84-8344-609137c827b5",
+  "https://images.blocketcdn.se/dynamic/default/item/24817891/54436d5a-66e5-4106-83f2-42a775622c64",
+  "https://images.blocketcdn.se/dynamic/default/item/24817891/b2ae8868-d3b3-4e10-83e2-667cbb52cb8e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 55.63,
+ "length_ft": 18,
+ "location": "Malmö",
+ "lon": 13.02,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 180,
+  "fetched_ts": 1790522940138,
+  "text_sha": "c280112bcc883bf9"
+ },
+ "price": 12500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24817891",
+ "width_cm": 0,
+ "year": 1980
+}

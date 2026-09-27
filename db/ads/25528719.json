@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 55.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Stor rejäl styrpulpet båt byte?",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25528719/6d17fe1b-3525-47de-8493-1a6cbc95818e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.55204,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25528719/6d17fe1b-3525-47de-8493-1a6cbc95818e",
+  "https://images.blocketcdn.se/dynamic/default/item/25528719/cba063a7-f518-4fba-94ac-e05ac35b8edf",
+  "https://images.blocketcdn.se/dynamic/default/item/25528719/25f472f6-c619-436f-95c1-96a471f43298",
+  "https://images.blocketcdn.se/dynamic/default/item/25528719/90bf6cb8-d87c-4073-be57-e1da2ee10966",
+  "https://images.blocketcdn.se/dynamic/default/item/25528719/a4a5af21-b3ce-40fc-a9d2-e0f4dad00bd0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.55,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "33fdf2c119453f4c"
  },
  "location": "Älvkarleby",
- "lon": 17.36738,
+ "lon": 17.37,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 55.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 592,
   "fetched_ts": 1790507968279,
@@ -93,7 +103,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25528719",
  "width_cm": 190,
  "year": 1990

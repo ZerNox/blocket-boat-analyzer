@@ -1,0 +1,116 @@
+{
+ "ad_id": 26712403,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1790424468000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 200.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Perkins",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "landstrom": {
+    "evidence": "Utrustningen är omfattande: landström, batteriladdare, brandsläckare, gasvarnare, länspump, lanternor, tryckvatten, kom…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Utrustningen är omfattande: landström, batteriladdare, brandsläckare, gasvarnare, länspump, lanternor, tryckvatten, kom…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer ingår , vilket gör transport och vinterförvaring betydligt enklare.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Becker Marine 39",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26712403/0075af8a-a473-49be-b9af-54fe794e3cd7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/0075af8a-a473-49be-b9af-54fe794e3cd7",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/2ec81799-24bd-4077-8dc9-0318203a053a",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/d3b7bc3a-52f4-4519-9e70-bb4bb5ad7421",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/d402f18d-ffa2-46a0-b4fe-e1f23abe9fce",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/210ec4cf-2c7f-48b1-a5b9-6870b5da272e",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/d5707396-6ce2-4e32-9210-7bec13de72cd",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/a42e9bd7-852c-46c4-9ed4-cd90ae53b4d1",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/2a522846-c8c6-4809-b189-6a59caf41787",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/29d5c220-2d6a-431c-bb08-7bc9b4c1d7eb",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/d2c7faa9-e208-4886-b932-c0145169b3a6",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/412880b2-dbb8-4e9e-8ca0-20a422e79395",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/ea3555f4-9864-40bd-afa8-a54462dd4d44",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/63097260-f2c7-49c2-b7c8-c4e30eab03b8",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/ae1e5aed-c80a-42cd-9887-45e94df6298a",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/ec13e2fb-0acd-4988-b097-dcd708bf2319",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/6ccee0d5-f9d5-4d0a-8145-665d99175d86",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/46c84adb-ffb7-48eb-bc54-469d3d0f8650",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/1d08b606-2656-486c-861f-3efd2c3bf909",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/e842a9ed-8769-4eeb-b49f-e7a97f9312b5",
+  "https://images.blocketcdn.se/dynamic/default/item/26712403/196604c9-2f8a-498d-9e3e-5fc92e53340b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.44,
+ "length_ft": 37,
+ "location": "Sundsbruk",
+ "lon": 17.38,
+ "make": "Becker",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 911,
+  "fetched_ts": 1790521039692,
+  "text_sha": "a4c4df5da63c6c3e"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Bredd": "340 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "80 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Deep Ocean Blue",
+  "Längd i fot": "37 fot",
+  "Modell": "39",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Perkins",
+  "Motortyp": "Inombordare",
+  "Märke": "Becker",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "6",
+  "Typ": "Hyttbåt",
+  "Vikt": "7 000 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26712403",
+ "width_cm": 340,
+ "year": 1980
+}

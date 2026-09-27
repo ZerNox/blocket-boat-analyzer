@@ -1,0 +1,78 @@
+{
+ "ad_id": 25288566,
+ "boat_class": "Annat",
+ "changed_ts": 1786145543000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1971,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1971,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Stjärnbåt weekend",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25288566/fe32729f-cba0-426a-b984-f4cf2b01ba34",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25288566/fe32729f-cba0-426a-b984-f4cf2b01ba34",
+  "https://images.blocketcdn.se/dynamic/default/item/25288566/3f4f3ad7-5099-4025-a9f8-79576c77dde4",
+  "https://images.blocketcdn.se/dynamic/default/item/25288566/0c5f7a1a-e0dd-4679-b082-6b7e4064d4cb",
+  "https://images.blocketcdn.se/dynamic/default/item/25288566/e72e7392-fe66-4e62-a348-915eea518ae7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.53,
+ "length_ft": 15,
+ "location": "Vallentuna",
+ "lon": 18.09,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 4,
+  "fetched_ts": 1790520671671,
+  "text_sha": "155d7da7fcf794de"
+ },
+ "price": 8000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 8000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Röd",
+  "Längd i fot": "15 fot",
+  "Modellår": "1971",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25288566",
+ "width_cm": 185,
+ "year": 1971
+}

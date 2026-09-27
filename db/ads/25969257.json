@@ -7,6 +7,8 @@
   "boat_year": 2022,
   "boat_year_source": "spec",
   "engine_hours": 25,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Terhi 450",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25969257/8abbf8bb-6ba3-4230-96ba-6de4b0bf8360",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.8722,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25969257/8abbf8bb-6ba3-4230-96ba-6de4b0bf8360",
+  "https://images.blocketcdn.se/dynamic/default/item/25969257/b17b7c47-d856-4a83-9392-fb237af269cc",
+  "https://images.blocketcdn.se/dynamic/default/item/25969257/596d50ad-63e3-4acf-be29-551a644568bc",
+  "https://images.blocketcdn.se/dynamic/default/item/25969257/c2b8f003-1501-4be4-b104-11e1b8cbace9",
+  "https://images.blocketcdn.se/dynamic/default/item/25969257/2fb4e003-806d-46e3-aff8-28183858313c",
+  "https://images.blocketcdn.se/dynamic/default/item/25969257/7fce93f7-92df-4b6a-bbcc-89fba68dda8d",
+  "https://images.blocketcdn.se/dynamic/default/item/25969257/aad94de7-a5ff-4600-943f-ce77ea23d5d3"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.87,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +81,13 @@
   "text_sha": "e6bd2df97c83bd4e"
  },
  "location": "Alvesta",
- "lon": 14.5762,
+ "lon": 14.58,
  "make": "Terhi",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 940,
   "fetched_ts": 1790508335232,
@@ -102,7 +114,7 @@
   "Sittplatser": "5",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25969257",
  "width_cm": 0,
  "year": 2022

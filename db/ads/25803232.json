@@ -1,0 +1,129 @@
+{
+ "ad_id": 25803232,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789920513000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 250,
+  "engine_hp_source": "llm",
+  "engine_maker": "Volvo Penta 250A",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Körkapell",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "- Ny usb-laddare",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "tenmålad\n- Ny usb-laddare\nSovplats för 2 pers. \nKörkapell\nHandfat\nSpritkök\nSolbädd\nFinns i Lysekil.\nSökord",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "HÖSTPRIS! Skibsplast 560 VS",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25803232/b90d98f0-ce39-4a4a-aa32-588bf89d61a1",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25803232/b90d98f0-ce39-4a4a-aa32-588bf89d61a1",
+  "https://images.blocketcdn.se/dynamic/default/item/25803232/3388380d-b47f-4201-8496-336317d143bb",
+  "https://images.blocketcdn.se/dynamic/default/item/25803232/210e967c-4718-4bce-8c2f-c2688d85caf7",
+  "https://images.blocketcdn.se/dynamic/default/item/25803232/e2a6028f-659f-475f-b64f-de4aee642909",
+  "https://images.blocketcdn.se/dynamic/default/item/25803232/8eb11e49-378a-4d02-abee-0333b0422a10",
+  "https://images.blocketcdn.se/dynamic/default/item/25803232/a8fd1f11-74e7-45a4-bc5f-30533a7feef4",
+  "https://images.blocketcdn.se/dynamic/default/item/25803232/5d4cbfad-a642-4f10-b881-f7e73ad56daa",
+  "https://images.blocketcdn.se/dynamic/default/item/25803232/fbde7d1a-1382-4a67-a531-86153c8ca6b2"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.28,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1989,
+   "engine_hours": null,
+   "engine_hp": 250,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn renoverades (finns dokumenterat med bilder/kvitton). - Nyslipad vevaxel - Nya vev och ramlager - Nya beg. vevstakar - Nya packningar samt tätningsringar - Ny oljetrycksgiva…",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9e139e1017950365"
+ },
+ "location": "Lysekil",
+ "lon": 11.44,
+ "make": "Skibsplast",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 1387,
+  "fetched_ts": 1790523068150,
+  "text_sha": "9e139e1017950365"
+ },
+ "price": 67000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 67000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit/röd",
+  "Längd i fot": "18 fot",
+  "Modell": "560 VS",
+  "Modellår": "1989",
+  "Motortillverkare": "Volvo Penta 250A",
+  "Motortyp": "Inombordare",
+  "Märke": "Skibsplast",
+  "Sittplatser": "6",
+  "Sovplatser": "2",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25803232",
+ "width_cm": 220,
+ "year": 1989
+}

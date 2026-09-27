@@ -1,0 +1,110 @@
+{
+ "ad_id": 25426419,
+ "boat_class": "Annat",
+ "changed_ts": 1787325877000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": "ller brygga. Passande motor 5-90hk. Frakt kan ordnas.",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Pontonbåt/Pontonbrygga",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25426419/75423b11-7757-4740-b2ec-a41194f40067",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25426419/75423b11-7757-4740-b2ec-a41194f40067",
+  "https://images.blocketcdn.se/dynamic/default/item/25426419/e2181c43-e340-490c-88e5-5e04d6348d3c",
+  "https://images.blocketcdn.se/dynamic/default/item/25426419/16d8ae2c-511d-4241-894d-fabd504ec342",
+  "https://images.blocketcdn.se/dynamic/default/item/25426419/d5e53f54-9a60-4391-bf4c-e45b3999ad60",
+  "https://images.blocketcdn.se/dynamic/default/item/25426419/be72b4ba-8a9e-42d0-955d-41f6f720a9c8",
+  "https://images.blocketcdn.se/dynamic/default/item/25426419/fddaeed5-2c5d-4a9f-a218-f041172512e0",
+  "https://images.blocketcdn.se/dynamic/default/item/25426419/f9c360c2-8b16-4706-b673-746463b43230",
+  "https://images.blocketcdn.se/dynamic/default/item/25426419/51e5954d-b350-4bd1-8c32-d5d5a9295cd5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.56,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2026,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "bc0ab316ec91613a"
+ },
+ "location": "Älvkarleby",
+ "lon": 17.48,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 241,
+  "fetched_ts": 1790520694759,
+  "text_sha": "bc0ab316ec91613a"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Bredd": "280 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "20 fot",
+  "Modell": "Pontonbåt",
+  "Modellår": "2026",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25426419",
+ "width_cm": 280,
+ "year": 2026
+}

@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -43,8 +45,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 430/440 styrpulpet",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26104920/ae917a2f-7bb1-482b-8b43-30c3fcef8743",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.24969,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26104920/ae917a2f-7bb1-482b-8b43-30c3fcef8743",
+  "https://images.blocketcdn.se/dynamic/default/item/26104920/0c4ed16c-ccf6-4100-9e9b-9b549aecc889",
+  "https://images.blocketcdn.se/dynamic/default/item/26104920/02c69bcc-72f0-4f97-848f-517fb48fbfee",
+  "https://images.blocketcdn.se/dynamic/default/item/26104920/7a229364-51e3-40fa-8cf7-858634b46d26",
+  "https://images.blocketcdn.se/dynamic/default/item/26104920/fdea5ac3-c2e9-4b95-a419-cbdb1ecf79f4",
+  "https://images.blocketcdn.se/dynamic/default/item/26104920/2f2180ee-020c-4ff8-aa19-5606375b8563",
+  "https://images.blocketcdn.se/dynamic/default/item/26104920/387d4452-4b64-47dd-b94c-549d3340b23e",
+  "https://images.blocketcdn.se/dynamic/default/item/26104920/ba8520b4-e340-4f6a-9496-2b29764059bc",
+  "https://images.blocketcdn.se/dynamic/default/item/26104920/01e57081-74a1-4d04-b2b8-1158ea9899bf",
+  "https://images.blocketcdn.se/dynamic/default/item/26104920/0db74925-cc50-4fa3-83c5-6203a21b6e60"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.25,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +88,13 @@
   "text_sha": "0c85c85c0936f7e4"
  },
  "location": "Tyresö",
- "lon": 18.24818,
+ "lon": 18.25,
  "make": "Crescent",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 307,
   "fetched_ts": 1790508465550,
@@ -105,7 +120,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26104920",
  "width_cm": 0,
  "year": 1900

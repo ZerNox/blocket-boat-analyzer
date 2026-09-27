@@ -33,10 +33,11 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "HR 470 Tohatsu 20hk 4 t",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26536036/a971d87e-282f-4188-8a4c-b1df5a0eabc2",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.70254,
+ "lat": 56.7,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,7 +67,7 @@
   "text_sha": "e368a99e05c650fe"
  },
  "location": "Kalmar",
- "lon": 16.35392,
+ "lon": 16.35,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
@@ -96,7 +97,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/26536036",
  "width_cm": 0,
  "year": 2009

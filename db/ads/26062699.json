@@ -7,6 +7,8 @@
   "boat_year": 2004,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury 4-Stroke",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -28,6 +30,10 @@
     "kmh": 80
    }
   },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 550 GTS Blueline 75hk Fyrtakt",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -37,10 +43,19 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Ryds 550"
+ ],
  "heading": "Ryds 550 GTS Blueline 75hk Fyrtakt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26062699/64b516d6-3bac-4f91-ad45-030eb37e5a17",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.19779,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26062699/64b516d6-3bac-4f91-ad45-030eb37e5a17",
+  "https://images.blocketcdn.se/dynamic/default/item/26062699/771194dd-5829-42e8-9765-8dc5c0e20e38",
+  "https://images.blocketcdn.se/dynamic/default/item/26062699/13d27936-79a0-4043-81f5-a6a3a69b19d1",
+  "https://images.blocketcdn.se/dynamic/default/item/26062699/90374b5c-3c1a-4bd7-a89d-ee794a6aad3b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.2,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -71,7 +86,7 @@
   "text_sha": "7136c26700f64be6"
  },
  "location": "Karlskrona",
- "lon": 15.60932,
+ "lon": 15.61,
  "make": "Ryds",
  "max_speed": 32,
  "motor_fuel": "Bensin",

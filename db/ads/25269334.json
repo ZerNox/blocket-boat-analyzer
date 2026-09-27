@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Motorbåt 30hk ink kärra",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25269334/1f9a7a23-a65f-425a-884b-31be97121b07",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.94752,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25269334/1f9a7a23-a65f-425a-884b-31be97121b07",
+  "https://images.blocketcdn.se/dynamic/default/item/25269334/d74d1494-8ecb-4461-b806-7d3e086d8089",
+  "https://images.blocketcdn.se/dynamic/default/item/25269334/96294915-883c-4a44-8d69-987e678806cf",
+  "https://images.blocketcdn.se/dynamic/default/item/25269334/f427ae7b-db32-46db-82b2-d291e29e2e55"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.95,
  "length_ft": 4,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "1e5455cd6a26d6d8"
  },
  "location": "Gränna",
- "lon": 14.34846,
+ "lon": 14.35,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 149,
   "fetched_ts": 1790507709336,
@@ -95,7 +104,7 @@
   "Märke": "Övriga",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25269334",
  "width_cm": 1,
  "year": 1900

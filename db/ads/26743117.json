@@ -1,0 +1,120 @@
+{
+ "ad_id": 26743117,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1789916673000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Säljer ryds camping LÄS beskrivning",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26743117/634671ba-4f9d-4ae8-a5c3-3f764ba0b3f6",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26743117/634671ba-4f9d-4ae8-a5c3-3f764ba0b3f6",
+  "https://images.blocketcdn.se/dynamic/default/item/26743117/d10b1465-3f43-4e14-ad08-b6c1a6806825",
+  "https://images.blocketcdn.se/dynamic/default/item/26743117/7eb3cb62-a2eb-4caf-936a-fb3b56629730",
+  "https://images.blocketcdn.se/dynamic/default/item/26743117/18a1bde9-847e-4c55-99d1-617925b41031",
+  "https://images.blocketcdn.se/dynamic/default/item/26743117/a2965531-b5c3-4260-ae83-cddddb52be79"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.01,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1995,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d091d0a1268c14f1"
+ },
+ "location": "Hölö",
+ "lon": 17.49,
+ "make": "Ryds",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 270,
+  "fetched_ts": 1790523212335,
+  "text_sha": "d091d0a1268c14f1"
+ },
+ "price": 12500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "Ryds camping",
+  "Modellår": "1995",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "1",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "600 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26743117",
+ "width_cm": 0,
+ "year": 1995
+}

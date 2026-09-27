@@ -1,0 +1,107 @@
+{
+ "ad_id": 26670433,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789667532000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": 35,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury F80 4-takt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2020,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Flipper 575 ht med nyare Mercury F80 4-takt från 2020 (endast 35 gångtimmar).",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin Echomap Plus 72CV plotter från 2019 medföljer.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin Echomap Plus 72CV plotter från 2019 medföljer.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30-kärra kan ingå vid smidig affär.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 575 ht med nyare Mercury F80 4-takt från 2020 (endast 35 gångtimmar)",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 575"
+ ],
+ "heading": "Flipper 575 ht med nyare Mercury F80 4-takt från 2020 (endast 35 gångtimmar)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26670433/cb89625d-2f9c-4f24-9c01-5090d4d27d5f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26670433/cb89625d-2f9c-4f24-9c01-5090d4d27d5f",
+  "https://images.blocketcdn.se/dynamic/default/item/26670433/29cb2322-f1a9-4095-8273-0133a68fe7f9",
+  "https://images.blocketcdn.se/dynamic/default/item/26670433/72225587-dc36-4705-977a-159abebcd689",
+  "https://images.blocketcdn.se/dynamic/default/item/26670433/9e7ca334-6764-4c08-98a0-ab127f2cd706",
+  "https://images.blocketcdn.se/dynamic/default/item/26670433/a2bc247f-4e71-4298-b705-c8bb498016ee",
+  "https://images.blocketcdn.se/dynamic/default/item/26670433/327e8680-4834-40f2-8d8e-e27063562696",
+  "https://images.blocketcdn.se/dynamic/default/item/26670433/cf590808-af33-48b4-904f-50853a02bc84",
+  "https://images.blocketcdn.se/dynamic/default/item/26670433/8396bf77-ad25-4335-bee7-50261441d04e",
+  "https://images.blocketcdn.se/dynamic/default/item/26670433/53bf9030-38a9-44c2-af82-9563cf61e650"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.67,
+ "length_ft": 19,
+ "location": "Västra Frölunda",
+ "lon": 11.88,
+ "make": "Flipper",
+ "max_speed": 38,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 361,
+  "fetched_ts": 1790523201449,
+  "text_sha": "abe1f8c886f93fc5"
+ },
+ "price": 95000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 95000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "575 ht",
+  "Modellår": "1980",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury F80 4-takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sovplatser": "2",
+  "Toppfart": "38 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "520 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26670433",
+ "width_cm": 215,
+ "year": 1980
+}

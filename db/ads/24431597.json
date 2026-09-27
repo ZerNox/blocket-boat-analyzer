@@ -1,0 +1,119 @@
+{
+ "ad_id": 24431597,
+ "boat_class": "Annat",
+ "changed_ts": 1787992277000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1950,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo penta md 70c",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1950,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Stålbåt bobåt flytande sommarställe",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24431597/4adb963a-d5e3-4db3-9fe8-b6028cad81b9",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24431597/4adb963a-d5e3-4db3-9fe8-b6028cad81b9",
+  "https://images.blocketcdn.se/dynamic/default/item/24431597/8feaff1a-3818-4300-925e-59ac7d0e51ef",
+  "https://images.blocketcdn.se/dynamic/default/item/24431597/f1358f4e-2e57-47e4-88b8-1e7226ee6b96",
+  "https://images.blocketcdn.se/dynamic/default/item/24431597/8b53b7be-cad1-4ad7-915f-55b83f889aba",
+  "https://images.blocketcdn.se/dynamic/default/item/24431597/b3d991da-dae2-4774-83be-f55551ed3ca5",
+  "https://images.blocketcdn.se/dynamic/default/item/24431597/37a6d349-deec-41d6-847e-119407f541a2",
+  "https://images.blocketcdn.se/dynamic/default/item/24431597/783d1275-8a4e-44b2-b24d-c4918b2da88c",
+  "https://images.blocketcdn.se/dynamic/default/item/24431597/26daff30-0ac9-4c7b-a46f-18471171436e",
+  "https://images.blocketcdn.se/dynamic/default/item/24431597/55694202-0a94-4075-9c35-e3b7a4cb4562",
+  "https://images.blocketcdn.se/dynamic/default/item/24431597/b04029da-ee75-468b-ad88-a7a2636e8473",
+  "https://images.blocketcdn.se/dynamic/default/item/24431597/a4a446a2-52cc-4059-9f85-dea78060e174",
+  "https://images.blocketcdn.se/dynamic/default/item/24431597/401656bb-5446-49ad-bfc1-49ad19195091",
+  "https://images.blocketcdn.se/dynamic/default/item/24431597/c234e937-6aaf-44ee-83bc-cd993c42b682",
+  "https://images.blocketcdn.se/dynamic/default/item/24431597/0c783646-b4b1-44dd-8ec4-68cf99e09210"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.38,
+ "length_ft": 47,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1950,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c9086d5f5cac2f9b"
+ },
+ "location": "Lidingö",
+ "lon": 18.18,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 241,
+  "fetched_ts": 1790520636262,
+  "text_sha": "c9086d5f5cac2f9b"
+ },
+ "price": 100000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 100000
+  }
+ ],
+ "specs": {
+  "Bredd": "420 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "120 cm",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "47 fot",
+  "Modell": "Dykbåt1309",
+  "Modellår": "1950",
+  "Motortillverkare": "Volvo penta md 70c",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Annat",
+  "Typ": "Annat",
+  "Vikt": "20 000 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/24431597",
+ "width_cm": 420,
+ "year": 1950
+}

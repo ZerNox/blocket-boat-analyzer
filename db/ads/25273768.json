@@ -1,0 +1,137 @@
+{
+ "ad_id": 25273768,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785502038000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "All förtöjning, flytvästar enkelt Ekolod medföljer.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapellet är slitet men håller tätt.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Bra allrondbåt med tillhörande 30 kärra.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Uttern 590"
+ ],
+ "heading": "Uttern 590",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25273768/a8d3c8d1-3886-443a-ae3c-c9581c40a2a0",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25273768/a8d3c8d1-3886-443a-ae3c-c9581c40a2a0",
+  "https://images.blocketcdn.se/dynamic/default/item/25273768/208bd827-7d7a-4dd4-9c39-a742d62164ec",
+  "https://images.blocketcdn.se/dynamic/default/item/25273768/3f1aadb8-50df-4c24-929e-d21d30405fc5",
+  "https://images.blocketcdn.se/dynamic/default/item/25273768/d6c1639d-486a-4485-b247-899d55c0339c"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.06,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor från hösten 2013",
+   "engine_year_rejected": 2013,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "acb0de6e551309b5"
+ },
+ "location": "Myggenäs",
+ "lon": 11.75,
+ "make": "Uttern",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 215,
+  "fetched_ts": 1790522958627,
+  "text_sha": "acb0de6e551309b5"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Bredd": "250 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "65 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "19 fot",
+  "Modell": "590",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "4",
+  "Toppfart": "25 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "805 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25273768",
+ "width_cm": 250,
+ "year": 1985
+}

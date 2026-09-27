@@ -1,0 +1,112 @@
+{
+ "ad_id": 26513370,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789163723000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": 225,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Selva",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2009,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Selva 50 hk år 2009 fyrtaktsmotor med insprutning, samma som Yamaha F50 men made in EU.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin Echomap 50s plotter med ekolod.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin Echomap 50s plotter med ekolod.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Smidig att sjösätta och ta upp på båtvagnen.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Crescent 535 HT Classic",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Crescent 535"
+ ],
+ "heading": "Crescent 535 HT Classic",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26513370/2c199724-954e-4e8e-b882-4eab4a3e5a1e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26513370/2c199724-954e-4e8e-b882-4eab4a3e5a1e",
+  "https://images.blocketcdn.se/dynamic/default/item/26513370/d11a3a13-6662-4fd0-a1d4-ac3f88fde4d5",
+  "https://images.blocketcdn.se/dynamic/default/item/26513370/583bb836-5b58-4bf1-9141-229ae8d280ac",
+  "https://images.blocketcdn.se/dynamic/default/item/26513370/4c769a7f-ef64-47c7-b0bf-31246a191062",
+  "https://images.blocketcdn.se/dynamic/default/item/26513370/9ae8c955-f722-4f80-a39f-1e4b0fe8f189",
+  "https://images.blocketcdn.se/dynamic/default/item/26513370/63f654c5-80c3-454f-8892-8c0385648bf6",
+  "https://images.blocketcdn.se/dynamic/default/item/26513370/f9079578-65a5-450a-9aaa-ba5e2f28c377",
+  "https://images.blocketcdn.se/dynamic/default/item/26513370/8b075db0-8ae2-4440-9a73-6be260af08bd",
+  "https://images.blocketcdn.se/dynamic/default/item/26513370/1ecb53f0-973e-4ff3-baee-0bf97a5c16f2",
+  "https://images.blocketcdn.se/dynamic/default/item/26513370/4fbfe24f-84eb-46ce-ba4a-219b7355c0f7",
+  "https://images.blocketcdn.se/dynamic/default/item/26513370/ef0198ee-4b91-418a-b3a0-cd810de356d5"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.33,
+ "length_ft": 18,
+ "location": "Värmdö",
+ "lon": 18.63,
+ "make": "Crescent",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 733,
+  "fetched_ts": 1790523182150,
+  "text_sha": "8ee753b548c70333"
+ },
+ "price": 65000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 65000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "21 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "535 HT Classic",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Selva",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "6",
+  "Sovplatser": "4",
+  "Toppfart": "27 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26513370",
+ "width_cm": 210,
+ "year": 2001
+}

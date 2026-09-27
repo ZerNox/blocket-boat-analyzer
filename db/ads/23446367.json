@@ -1,0 +1,132 @@
+{
+ "ad_id": 23446367,
+ "boat_class": "Annat",
+ "changed_ts": 1786713923000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": "toppar ca 37 knop. Motor och drev är nyservade 2025 och skrovet är bottenmålat nu 2026. Lite oklart vilken årsmodell bå",
+  "engine_type_source": "llm",
+  "engine_year": 1989,
+  "engine_year_est": 1977,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": "Motorn är från 1989 och är en välskött och driftsäker Yamaha 90hk AETO, 2-taktare med automatisk oljeinblandning samt trim- och tiltfunktion.",
+  "engine_year_source": "llm",
+  "equipment": {
+   "kapell": {
+    "evidence": "- Nytt kapell 2021 i Sunbrella Plus kapellduk (12.000kr)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Örnvik 530HT, Yamaha 90hk + trailer",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 530HT, Yamaha 90hk + trailer",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "declared outboard but text says 'drev'",
+   "ambiguous engine years [1989, 2025]"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Örnvik 530"
+ ],
+ "heading": "Örnvik 530HT, Yamaha 90hk + trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23446367/55c64988-f1d3-4bf1-8459-a7dfea0d1b7c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23446367/55c64988-f1d3-4bf1-8459-a7dfea0d1b7c",
+  "https://images.blocketcdn.se/dynamic/default/item/23446367/540ea657-cbec-4672-8d9a-95ecc048dba5",
+  "https://images.blocketcdn.se/dynamic/default/item/23446367/a715ec71-b746-4c05-af21-8c41bcc351a4",
+  "https://images.blocketcdn.se/dynamic/default/item/23446367/239d0fd5-f5d4-4e4f-a3df-6144dd66d375",
+  "https://images.blocketcdn.se/dynamic/default/item/23446367/02390df6-392f-4f89-8a87-464f6c56211b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.32,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": null,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": 1989,
+   "engine_year_evidence": "Motorn är från 1989 och är en välskött och driftsäker Yamaha 90hk AETO, 2-taktare med automatisk oljeinblandning samt trim- och tiltfunktion.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0e36d3f566734747"
+ },
+ "location": "Skå",
+ "lon": 17.76,
+ "make": "Örnvik",
+ "max_speed": 37,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1564,
+  "fetched_ts": 1790522896349,
+  "text_sha": "0e36d3f566734747"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "530HT",
+  "Modellår": "1977",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "3",
+  "Toppfart": "37 knop",
+  "Typ": "Annat",
+  "Vikt": "650 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23446367",
+ "width_cm": 210,
+ "year": 1977
+}

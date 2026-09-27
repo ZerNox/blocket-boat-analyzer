@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fantastiskt kul båt med 60hk evinrude",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26766134/9bed2bbf-0545-4b00-a2f2-d7f74fcfe06a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.50625,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26766134/9bed2bbf-0545-4b00-a2f2-d7f74fcfe06a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.51,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +65,13 @@
   "text_sha": "bc05c3b96d797b80"
  },
  "location": "Årsunda",
- "lon": 16.81897,
+ "lon": 16.82,
  "make": "Övriga",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508929029,
@@ -92,7 +98,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26766134",
  "width_cm": 18,
  "year": 1980

@@ -32,10 +32,11 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "Bra fiskebåt inklusive trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25221789/1bfdc161-6f76-4c48-be32-f5838f7291c1",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.19027,
+ "lat": 56.19,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -65,7 +66,7 @@
   "text_sha": "a7cd5c348976179f"
  },
  "location": "Listerby",
- "lon": 15.40324,
+ "lon": 15.4,
  "make": "Övriga",
  "max_speed": 23,
  "motor_fuel": "Bensin",
@@ -100,7 +101,7 @@
   "Toppfart": "23 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/25221789",
  "width_cm": 200,
  "year": 2026

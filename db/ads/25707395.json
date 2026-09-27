@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 430 m Suzuki 40hk och trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25707395/6dc81074-4880-43e3-a09a-45338c806416",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.5839,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25707395/6dc81074-4880-43e3-a09a-45338c806416",
+  "https://images.blocketcdn.se/dynamic/default/item/25707395/744dab65-53d0-45bc-aaec-c20bd28cac72",
+  "https://images.blocketcdn.se/dynamic/default/item/25707395/d4cfb169-af50-438f-89e4-07a8f8becc1f",
+  "https://images.blocketcdn.se/dynamic/default/item/25707395/4810db6d-beec-49d9-b223-33d6203ec5b3",
+  "https://images.blocketcdn.se/dynamic/default/item/25707395/bf511b6d-e04c-4bc3-9246-945b82ba4a34",
+  "https://images.blocketcdn.se/dynamic/default/item/25707395/90b7d0c0-2374-4b32-9abe-4b6d7b7cf24e",
+  "https://images.blocketcdn.se/dynamic/default/item/25707395/1f832337-1aa4-4771-a960-a86f5534a678",
+  "https://images.blocketcdn.se/dynamic/default/item/25707395/0f57dc91-e5c4-4a9e-9ae9-77aadb90f445",
+  "https://images.blocketcdn.se/dynamic/default/item/25707395/4d67ea31-4e66-4a09-bb6b-623af0854802"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.58,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +78,13 @@
   "text_sha": "d8a5127ad0d0377e"
  },
  "location": "Brottby",
- "lon": 18.30343,
+ "lon": 18.3,
  "make": "Ryds",
  "max_speed": 29,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 592,
   "fetched_ts": 1790508110568,
@@ -99,7 +113,7 @@
   "Toppfart": "29 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25707395",
  "width_cm": 180,
  "year": 1995

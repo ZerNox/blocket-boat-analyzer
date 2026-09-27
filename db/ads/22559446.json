@@ -1,0 +1,128 @@
+{
+ "ad_id": 22559446,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787778941000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 3.0,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury Mercruiser 3.0L",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "trailer & Garmin plotter",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "trailer & Garmin plotter",
+    "included": true,
+    "kmh": 30,
+    "year": 2006
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds 18 GTS – 2006",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22559446/5016b128-c541-43ed-8a33-5e875277acb9",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22559446/5016b128-c541-43ed-8a33-5e875277acb9",
+  "https://images.blocketcdn.se/dynamic/default/item/22559446/99128c1b-6a3b-4b47-aa26-579ce4fcacf5",
+  "https://images.blocketcdn.se/dynamic/default/item/22559446/7ce9ea9e-898f-4d34-ba94-e5ce4125254a",
+  "https://images.blocketcdn.se/dynamic/default/item/22559446/9b3f60bd-6210-47a4-886d-6a67558104b9",
+  "https://images.blocketcdn.se/dynamic/default/item/22559446/0b4d5334-bb10-4b51-a438-163fa4aaf34b",
+  "https://images.blocketcdn.se/dynamic/default/item/22559446/d7c87a6e-29c6-437f-9b76-bbe5bf5d7f6d",
+  "https://images.blocketcdn.se/dynamic/default/item/22559446/ecb85def-d00f-49b9-b241-393dee4c6bdb",
+  "https://images.blocketcdn.se/dynamic/default/item/22559446/48a3a170-4410-406a-94eb-1289e00aff55",
+  "https://images.blocketcdn.se/dynamic/default/item/22559446/785e9ed0-9466-47cb-a512-0275aac6b02b",
+  "https://images.blocketcdn.se/dynamic/default/item/22559446/aff53442-3def-4506-a452-ed631aa0a7dd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.73,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": 3.0,
+   "engine_maker": "Mercury Mercruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Inombordare, Motor: 3.0L Mercury bensin",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "49fbc72b871432ce"
+ },
+ "location": "Göteborg",
+ "lon": 11.94,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 985,
+  "fetched_ts": 1790520596662,
+  "text_sha": "49fbc72b871432ce"
+ },
+ "price": 110000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 110000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "80 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit/blå",
+  "Längd i fot": "18 fot",
+  "Modell": "18GTS",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercury Mercruiser 3.0L",
+  "Motortyp": "Inombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "800 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/22559446",
+ "width_cm": 220,
+ "year": 2006
+}

@@ -1,0 +1,95 @@
+{
+ "ad_id": 26439665,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1788928171000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercury Optimax",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt och motor från 2011",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell 2022",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Vid smidig och snabb affär följer en Fogelsta båtvagn med",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Silver Hawk 540",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26439665/c0f4445a-3275-4822-a20a-1d0a94af9443",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26439665/c0f4445a-3275-4822-a20a-1d0a94af9443",
+  "https://images.blocketcdn.se/dynamic/default/item/26439665/8bdfe8ba-9cf8-4287-aace-1909180f9607",
+  "https://images.blocketcdn.se/dynamic/default/item/26439665/8a803007-66a4-436b-adba-bbad3129e7b9",
+  "https://images.blocketcdn.se/dynamic/default/item/26439665/3aa88a4c-7dfa-4893-8b00-51ac68251780",
+  "https://images.blocketcdn.se/dynamic/default/item/26439665/aeb44ac2-3f74-47cb-bbeb-bf8777e66ec3",
+  "https://images.blocketcdn.se/dynamic/default/item/26439665/1d426069-9fac-446d-a32a-c2ac61042d96",
+  "https://images.blocketcdn.se/dynamic/default/item/26439665/7a882b1c-f3f0-41ec-a77c-b4c9b301dd3d"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 65.49,
+ "length_ft": 17,
+ "location": "Luleå",
+ "lon": 22.57,
+ "make": "Silver",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 182,
+  "fetched_ts": 1790523167752,
+  "text_sha": "e2b6ea1ac52d529d"
+ },
+ "price": 195000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 195000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "Hawk 540",
+  "Modellår": "2011",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury Optimax",
+  "Motortyp": "Utombordare",
+  "Märke": "Silver",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26439665",
+ "width_cm": 0,
+ "year": 2011
+}

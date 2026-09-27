@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 7.5,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 370",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25338265/f6a7b5d5-31a0-49c4-9dd3-47fdfeb83c0a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.63962,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25338265/f6a7b5d5-31a0-49c4-9dd3-47fdfeb83c0a",
+  "https://images.blocketcdn.se/dynamic/default/item/25338265/9f9b2ca8-35b6-4807-bca6-02d319d6dd78",
+  "https://images.blocketcdn.se/dynamic/default/item/25338265/5caea88f-a9fe-44bb-98bc-b719d6a966f3"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.64,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "b989a36501c07775"
  },
  "location": "Luleå",
- "lon": 22.30071,
+ "lon": 22.3,
  "make": "Uttern",
  "max_speed": 15,
  "motor_fuel": "Bensin",
  "motor_size": 7.5,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 241,
   "fetched_ts": 1790507776420,
@@ -93,7 +101,7 @@
   "Toppfart": "15 knop",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25338265",
  "width_cm": 0,
  "year": 1985

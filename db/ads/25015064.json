@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 9.9,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Praktiskt plastbåt med trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25015064/292df280-4029-451c-b5e5-bd5b5408aab2",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.42832,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25015064/292df280-4029-451c-b5e5-bd5b5408aab2",
+  "https://images.blocketcdn.se/dynamic/default/item/25015064/4f9748fd-6820-4ee6-8804-99a1d6a45bd7",
+  "https://images.blocketcdn.se/dynamic/default/item/25015064/cd67af56-0e24-4557-852d-9f991e03eb16",
+  "https://images.blocketcdn.se/dynamic/default/item/25015064/174d75c9-9d6a-4133-a135-a8c022fc244b",
+  "https://images.blocketcdn.se/dynamic/default/item/25015064/4ad4f752-de35-489a-835e-9258329a5e5d",
+  "https://images.blocketcdn.se/dynamic/default/item/25015064/73cc7dcb-9721-4e7e-bde9-94034085296e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.43,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +75,13 @@
   "text_sha": "202bd68b0527fe17"
  },
  "location": "Hunnebostrand",
- "lon": 11.38355,
+ "lon": 11.38,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 9.899999618530273,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 438,
   "fetched_ts": 1790507635637,
@@ -100,7 +111,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25015064",
  "width_cm": 190,
  "year": 2000

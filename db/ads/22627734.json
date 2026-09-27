@@ -1,0 +1,106 @@
+{
+ "ad_id": 22627734,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786186677000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": 49,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2024,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 530 DC och yamaha 70HK 4-takt 2024.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellet är gammalt och slitet men funkar",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "En stor rejäl bromsad 80/km kärra ingår som är nybesiktigad",
+    "included": true,
+    "year": 2026
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 530 DC och yamaha 70HK 4-takt 2024",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Ryds 530"
+ ],
+ "heading": "Ryds 530 DC och yamaha 70HK 4-takt 2024",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22627734/006162fc-587d-480e-81a3-159bcbbcb3af",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22627734/006162fc-587d-480e-81a3-159bcbbcb3af",
+  "https://images.blocketcdn.se/dynamic/default/item/22627734/b13701b5-ca31-4a9c-9536-5c3703129602",
+  "https://images.blocketcdn.se/dynamic/default/item/22627734/05ca67e9-8bf4-41b1-bb30-81cae0cba7f2",
+  "https://images.blocketcdn.se/dynamic/default/item/22627734/ffdd1926-6ead-4644-8a97-2854419aa37e",
+  "https://images.blocketcdn.se/dynamic/default/item/22627734/0938c4a0-3563-4820-b717-e6bf73c1a10e",
+  "https://images.blocketcdn.se/dynamic/default/item/22627734/b8d2c38f-734c-40c2-8677-7101148f3492",
+  "https://images.blocketcdn.se/dynamic/default/item/22627734/1659df69-ecd9-4a88-9551-c7eb33393a4b",
+  "https://images.blocketcdn.se/dynamic/default/item/22627734/bedd66fb-886a-4cfe-8019-f530c48467f7"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.22,
+ "length_ft": 17,
+ "location": "Ljungskile",
+ "lon": 11.93,
+ "make": "Ryds",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1012,
+  "fetched_ts": 1790522869606,
+  "text_sha": "5374ee9e96696be1"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "17 fot",
+  "Modell": "530 DC",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "28 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "660 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22627734",
+ "width_cm": 220,
+ "year": 1990
+}

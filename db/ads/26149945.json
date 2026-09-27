@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 15,
+  "engine_hp_source": "llm",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26149945/4571ba61-1239-4bcf-9ba8-411d5718f92c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.87402,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26149945/4571ba61-1239-4bcf-9ba8-411d5718f92c",
+  "https://images.blocketcdn.se/dynamic/default/item/26149945/411f25d3-f467-48cc-87ee-014b393a3530",
+  "https://images.blocketcdn.se/dynamic/default/item/26149945/fd145ced-2a38-4a71-831f-e2c8b9d04ea6",
+  "https://images.blocketcdn.se/dynamic/default/item/26149945/1fa8ad51-e35b-46ea-82dd-de3c5a6a575f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.87,
  "length_ft": 7,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "2a482670295c67b7"
  },
  "location": "Torsö",
- "lon": 13.64738,
+ "lon": 13.65,
  "make": "Terhi",
  "max_speed": 18,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 91,
   "fetched_ts": 1790508486423,
@@ -102,7 +111,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "150 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26149945",
  "width_cm": 120,
  "year": 1900

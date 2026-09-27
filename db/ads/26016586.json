@@ -1,0 +1,86 @@
+{
+ "ad_id": 26016586,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787648025000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1983,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1983,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Rymlig daycruiser för bekväma båtturer i skärgården, utrustad med fällbart kapell och extra skyddskåpa i aktern för mot…",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "ca 6 meter, 1983. Rymlig daycruiser för bekväma båtturer i skärgården, utrustad med fällbart kapell och e",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Skibsplast 18",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26016586/468205d8-af4e-4d79-9c59-822006abb36a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26016586/468205d8-af4e-4d79-9c59-822006abb36a",
+  "https://images.blocketcdn.se/dynamic/default/item/26016586/1f4f7ef8-5974-4936-8073-df619cc916c0",
+  "https://images.blocketcdn.se/dynamic/default/item/26016586/dcd07902-871b-4008-9c5f-948a005df22e",
+  "https://images.blocketcdn.se/dynamic/default/item/26016586/d3c68193-caa6-480c-a77e-812ea15eca35",
+  "https://images.blocketcdn.se/dynamic/default/item/26016586/7fafb1dd-2306-4249-b5f9-8a038d4d61be"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 66.61,
+ "length_ft": 18,
+ "location": "Jokkmokk",
+ "lon": 19.8,
+ "make": "Skibsplast",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 268,
+  "fetched_ts": 1790523105277,
+  "text_sha": "6a78ae1e7654641a"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "18",
+  "Modellår": "1983",
+  "Motor inkluderad": "Nej",
+  "Märke": "Skibsplast",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26016586",
+ "width_cm": 0,
+ "year": 1983
+}

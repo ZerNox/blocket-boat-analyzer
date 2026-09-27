@@ -1,0 +1,111 @@
+{
+ "ad_id": 25756852,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787725652000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2026,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 10.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": "en utombordsmotor på upp till 10 hk. 💰 Pris: 49 900 kr inkl. moms Båten säljs i det skick som visas på bilderna och är k",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2026,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ny Giant 400 – årsmodell 2026 Styrpulpet",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25756852/01db22e7-78df-4921-8cb4-ab4c9cab4535",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25756852/01db22e7-78df-4921-8cb4-ab4c9cab4535",
+  "https://images.blocketcdn.se/dynamic/default/item/25756852/de461f66-93b4-46f0-9ab0-fed7027aadec",
+  "https://images.blocketcdn.se/dynamic/default/item/25756852/db726942-b75b-48cf-9491-77d021816354",
+  "https://images.blocketcdn.se/dynamic/default/item/25756852/2a7a657c-ab94-4c76-b325-86520eef42a5",
+  "https://images.blocketcdn.se/dynamic/default/item/25756852/2abd1e56-e4be-4477-850f-4981ec5b7a7e",
+  "https://images.blocketcdn.se/dynamic/default/item/25756852/8a3f7a8b-7451-4dc6-bd2d-c6b3afbd8542",
+  "https://images.blocketcdn.se/dynamic/default/item/25756852/e76fcb8c-a6fc-4c08-b6f4-05463efa3173",
+  "https://images.blocketcdn.se/dynamic/default/item/25756852/d7114f5c-f115-41b2-973c-fc43725cd74a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.36,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2026,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "4f120e0104448afb"
+ },
+ "location": "Torsås",
+ "lon": 15.9,
+ "make": "J-boats",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 966,
+  "fetched_ts": 1790520761614,
+  "text_sha": "4f120e0104448afb"
+ },
+ "price": 49900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 49900
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Svart/vit",
+  "Längd i fot": "13 fot",
+  "Modell": "Giant 400",
+  "Modellår": "2026",
+  "Motor inkluderad": "Nej",
+  "Märke": "J-boats",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "150 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25756852",
+ "width_cm": 150,
+ "year": 2026
+}

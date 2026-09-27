@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -35,8 +37,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 470GT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25565044/e76a0c95-5e70-4e88-8fff-8b6cdbb80ea1",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.25278,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25565044/e76a0c95-5e70-4e88-8fff-8b6cdbb80ea1",
+  "https://images.blocketcdn.se/dynamic/default/item/25565044/744ffa37-4e33-4b19-b00d-e2796c7790c7",
+  "https://images.blocketcdn.se/dynamic/default/item/25565044/9a3e5141-0da3-4823-a9c3-6c44b459e892",
+  "https://images.blocketcdn.se/dynamic/default/item/25565044/f3485313-eabb-467f-a174-6f6055baaf67",
+  "https://images.blocketcdn.se/dynamic/default/item/25565044/039b9c41-eeff-4a28-89a9-b1ccb1f93612",
+  "https://images.blocketcdn.se/dynamic/default/item/25565044/3d9580e6-1cc3-4ef8-bf36-b7e03c4f2b37"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.25,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +76,13 @@
   "text_sha": "f6a60a36f3bec536"
  },
  "location": "Ängelholm",
- "lon": 12.86538,
+ "lon": 12.87,
  "make": "Ryds",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 525,
   "fetched_ts": 1790508006379,
@@ -100,7 +111,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "300 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25565044",
  "width_cm": 0,
  "year": 1980

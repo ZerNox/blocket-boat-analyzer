@@ -1,0 +1,89 @@
+{
+ "ad_id": 25486976,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1786104741000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1973,
+  "boat_year_source": "spec",
+  "engine_hours": 220,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercruiser",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2012,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "2X Mercruiser 5,7l Horizon, -2012 (ca 220 timmar)",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell, 2018",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter Raychart 435, -2014",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Bertram 28 Moppie -73",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25486976/3ac7fe41-d986-4c2a-8da0-f6f529ffeed0",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25486976/3ac7fe41-d986-4c2a-8da0-f6f529ffeed0",
+  "https://images.blocketcdn.se/dynamic/default/item/25486976/82e4f22a-fc7e-4feb-82ca-19023730f574",
+  "https://images.blocketcdn.se/dynamic/default/item/25486976/5d9f826f-2b01-4733-9bce-0e0c5b88cf25",
+  "https://images.blocketcdn.se/dynamic/default/item/25486976/ca1dd0ef-c991-4edc-9905-e60dfbd0a82e",
+  "https://images.blocketcdn.se/dynamic/default/item/25486976/606aa1a3-180b-447e-8576-7cbec89ae3c2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
+ "length_ft": 28,
+ "location": "Stockholm",
+ "lon": 18.01,
+ "make": "Bertram",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 662,
+  "fetched_ts": 1790520716262,
+  "text_sha": "0731ab6e3b4b68ef"
+ },
+ "price": 250000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 250000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "28 fot",
+  "Modell": "Moppie",
+  "Modellår": "1973",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercruiser",
+  "Motortyp": "Inombordare",
+  "Märke": "Bertram",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Hyttbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25486976",
+ "width_cm": 0,
+ "year": 1973
+}

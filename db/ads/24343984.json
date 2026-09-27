@@ -1,0 +1,139 @@
+{
+ "ad_id": 24343984,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788788989000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": 400,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "VW TDI 100-5",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "GPS Plotter samt ekolod med givare på insidan skrovet.",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "GPS Plotter samt ekolod med givare på insidan skrovet.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "ack vare den asymmetriska hytten (walkaround på båda sidor) rör man sig tryggt och enkelt fram till fördäc",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Arvor 215 – Perfekt fiske- och transportbåt (100 hk Diesel)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24343984/976194b7-9af1-4921-9834-f54d929f5049",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24343984/976194b7-9af1-4921-9834-f54d929f5049",
+  "https://images.blocketcdn.se/dynamic/default/item/24343984/60c03f31-cdef-48f1-b977-29e9366a8d87",
+  "https://images.blocketcdn.se/dynamic/default/item/24343984/83d3a1f3-c2fa-4d88-b825-ba5473ab55c5",
+  "https://images.blocketcdn.se/dynamic/default/item/24343984/61d1e334-47cd-4a3f-9552-4e81ff612696",
+  "https://images.blocketcdn.se/dynamic/default/item/24343984/d97e3d5a-533e-41b7-b3db-ff03237f3f7b",
+  "https://images.blocketcdn.se/dynamic/default/item/24343984/b1e43b5b-b155-42ae-a053-13ae8e4c78df",
+  "https://images.blocketcdn.se/dynamic/default/item/24343984/9e0e42fd-840c-4ca7-b7c6-a0258782e848",
+  "https://images.blocketcdn.se/dynamic/default/item/24343984/612f78bc-0ae2-4459-9aca-1302fd853024",
+  "https://images.blocketcdn.se/dynamic/default/item/24343984/26545d6a-93f7-4533-a770-121a1440d039"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.27,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": 400,
+   "engine_hp": 100,
+   "engine_maker": "VW TDI 100-5",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Gångtimmar: 400 timmar",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "db9aa9b7652675b0"
+ },
+ "location": "Lysekil",
+ "lon": 11.42,
+ "make": "Arvor",
+ "max_speed": 21,
+ "motor_fuel": "Diesel",
+ "motor_size": 100.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 1073,
+  "fetched_ts": 1790522928893,
+  "text_sha": "db9aa9b7652675b0"
+ },
+ "price": 190000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 190000
+  }
+ ],
+ "specs": {
+  "Bredd": "254 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "75 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "vit",
+  "Längd i fot": "21 fot",
+  "Modell": "215",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "VW TDI 100-5",
+  "Motortyp": "Inombordare",
+  "Märke": "Arvor",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "21 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "1 600 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24343984",
+ "width_cm": 254,
+ "year": 2006
+}

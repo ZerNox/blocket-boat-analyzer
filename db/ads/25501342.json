@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 5.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Selva",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -39,8 +41,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25501342/a6fa25f8-2560-4549-8226-a958e9b718ae",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.7566,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25501342/a6fa25f8-2560-4549-8226-a958e9b718ae",
+  "https://images.blocketcdn.se/dynamic/default/item/25501342/7babad08-5669-4337-9f0f-9d9b01956971",
+  "https://images.blocketcdn.se/dynamic/default/item/25501342/9e75415e-d4bd-4b2a-a638-f08567296350",
+  "https://images.blocketcdn.se/dynamic/default/item/25501342/a494c4a4-0d0c-496a-b9aa-0be2c38f1fa4",
+  "https://images.blocketcdn.se/dynamic/default/item/25501342/1c74dacc-bd5c-4f87-991f-0ee7092f588e",
+  "https://images.blocketcdn.se/dynamic/default/item/25501342/c498dcc9-b61c-489b-8a40-4b5999af9a59"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.76,
  "length_ft": 4,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +80,13 @@
   "text_sha": "8cd3ceea9db5c4a4"
  },
  "location": "Göteborg",
- "lon": 12.05495,
+ "lon": 12.05,
  "make": "Askeladden",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 5.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 476,
   "fetched_ts": 1790507928334,
@@ -99,7 +110,7 @@
   "Märke": "Askeladden",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25501342",
  "width_cm": 0,
  "year": 2026

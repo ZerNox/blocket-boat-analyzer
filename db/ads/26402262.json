@@ -1,0 +1,111 @@
+{
+ "ad_id": 26402262,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788796956000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki df 2008",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Suzuki df 2008",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin GPS med givare",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Stereo",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Kan köpas till Tiki båttrailer 80km/h 1000kg YYO438.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "GPS med givare\nStereo \n2 kojplatser \nKapell \nKan köpas till Tiki båttrailer 80km/h 1000kg YYO438.\nTranspo",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Olympic 520 c",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26402262/de87b26d-7faa-495a-82d9-2c562e7d0fd6",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26402262/de87b26d-7faa-495a-82d9-2c562e7d0fd6",
+  "https://images.blocketcdn.se/dynamic/default/item/26402262/067ae5bd-96e0-4a3b-8710-ad57d10beaa4",
+  "https://images.blocketcdn.se/dynamic/default/item/26402262/07f3902b-0cc7-4ab4-80eb-1095352d656c",
+  "https://images.blocketcdn.se/dynamic/default/item/26402262/38d1f4cd-8d30-4e29-98e6-51eaa63f020d",
+  "https://images.blocketcdn.se/dynamic/default/item/26402262/9bf98fe3-e91e-4581-9ca6-e20389418b40",
+  "https://images.blocketcdn.se/dynamic/default/item/26402262/98c4ab79-d098-492f-a2e9-3b133741fa25",
+  "https://images.blocketcdn.se/dynamic/default/item/26402262/8a1c2693-d2e6-4a15-94bf-622be3b9d910",
+  "https://images.blocketcdn.se/dynamic/default/item/26402262/e7606172-cf6c-42a3-a168-38f1462d1f27",
+  "https://images.blocketcdn.se/dynamic/default/item/26402262/b2b775da-c005-408c-9f1f-cd07e3173f1e",
+  "https://images.blocketcdn.se/dynamic/default/item/26402262/a823eadb-e896-440a-8d97-65d6132ab36b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 63.15,
+ "length_ft": 17,
+ "location": "Östersund",
+ "lon": 14.72,
+ "make": "Olympic",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 309,
+  "fetched_ts": 1790523160839,
+  "text_sha": "be9ec52674092864"
+ },
+ "price": 128000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 128000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "520c",
+  "Modellår": "2012",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Suzuki df 2008",
+  "Motortyp": "Utombordare",
+  "Märke": "Olympic",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Typ": "Kabinbåt",
+  "Vikt": "660 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26402262",
+ "width_cm": 0,
+ "year": 2012
+}

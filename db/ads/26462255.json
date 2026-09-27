@@ -7,6 +7,8 @@
   "boat_year": 2008,
   "boat_year_source": "spec",
   "engine_hours": 300,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -46,8 +48,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Välvårdad Ryds 535 DL (18 fot) - Mercury 60hk 4-takt (300h) + Trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26462255/f94931dd-9176-4e89-96e0-51fa4c7ba188",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.94386,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26462255/f94931dd-9176-4e89-96e0-51fa4c7ba188",
+  "https://images.blocketcdn.se/dynamic/default/item/26462255/98fac4d1-35eb-4e19-a558-45633c30781f",
+  "https://images.blocketcdn.se/dynamic/default/item/26462255/44a516b1-f5b6-4029-baea-4caecd8ec830",
+  "https://images.blocketcdn.se/dynamic/default/item/26462255/34df5e7b-9730-4674-8b26-d6c7e6c5d0c2",
+  "https://images.blocketcdn.se/dynamic/default/item/26462255/45a0fc4d-bb6c-40e4-ab6b-9882442691a4",
+  "https://images.blocketcdn.se/dynamic/default/item/26462255/62a4e152-4090-4cda-b11a-d3a0fd13e68b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.94,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -77,12 +87,13 @@
   "text_sha": "4ba422fd5c603465"
  },
  "location": "Kode",
- "lon": 11.84468,
+ "lon": 11.84,
  "make": "Ryds",
  "max_speed": 28,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1519,
   "fetched_ts": 1790508709753,
@@ -115,7 +126,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "475 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26462255",
  "width_cm": 215,
  "year": 2008

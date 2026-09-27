@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": 2,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -32,6 +34,10 @@
     "kmh": 30
    }
   },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space, open cockpit with steering console visible.",
+  "hull_source": "bild",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -39,13 +45,23 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Örnvik 540"
+ ],
  "heading": "Örnvik 540",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25927758/2416671e-111b-41a0-8058-1144fbb0cf01",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.57813,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25927758/2416671e-111b-41a0-8058-1144fbb0cf01",
+  "https://images.blocketcdn.se/dynamic/default/item/25927758/a31f4f32-f45c-44c4-8877-da1616463250",
+  "https://images.blocketcdn.se/dynamic/default/item/25927758/593445c5-d63d-4694-9438-8eceeb6bee15",
+  "https://images.blocketcdn.se/dynamic/default/item/25927758/1df5cfd3-3c07-421e-a49a-8ec97fd04aaa",
+  "https://images.blocketcdn.se/dynamic/default/item/25927758/adbd9d24-26a5-461c-97ca-2aae1646ccd3"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 55.58,
  "length_ft": 18,
  "location": "Simrishamn",
- "lon": 14.29753,
+ "lon": 14.3,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",
@@ -81,6 +97,19 @@
  },
  "status": "active",
  "url": "https://www.blocket.se/mobility/item/25927758",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "08e479ded3e96ca4",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed space, open cockpit with steering console visible.",
+   "hull_photo": 1
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 203,
  "year": 1975
 }

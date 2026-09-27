@@ -7,6 +7,8 @@
   "boat_year": 1970,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
   "engine_maker": null,
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Äldre motorbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25353127/92faeffc-d863-4f99-aeac-96471d34e0ef",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.48495,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25353127/92faeffc-d863-4f99-aeac-96471d34e0ef",
+  "https://images.blocketcdn.se/dynamic/default/item/25353127/8b22090f-f6b7-4832-90b9-07172f336b2a",
+  "https://images.blocketcdn.se/dynamic/default/item/25353127/5d439100-fd1e-4af7-97fc-f77a5a6b62b4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.48,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +76,13 @@
   "text_sha": "315c3a718ba4f6f3"
  },
  "location": "Munkedal",
- "lon": 11.68571,
+ "lon": 11.69,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 239,
   "fetched_ts": 1790507792023,
@@ -96,7 +104,7 @@
   "Märke": "Övriga",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25353127",
  "width_cm": 0,
  "year": 1970

@@ -7,6 +7,8 @@
   "boat_year": 2025,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -23,6 +25,10 @@
     "included": true
    }
   },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space, open cockpit with canopy, no windows or doors.",
+  "hull_source": "bild",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -30,13 +36,22 @@
   "swap_offered": true
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Ryds 550"
+ ],
  "heading": "Ryds 550 VI Mid C, S-Line Årsmodell 2025/26 - Nyskick / Byte vattenskotter, bil",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25719358/f3fe69c9-6e1e-48ec-a7ca-8ad9a7fe883f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.34679,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25719358/f3fe69c9-6e1e-48ec-a7ca-8ad9a7fe883f",
+  "https://images.blocketcdn.se/dynamic/default/item/25719358/3aed5abf-981a-4149-962f-4f39682ffa54",
+  "https://images.blocketcdn.se/dynamic/default/item/25719358/e6fe71f1-b203-4bad-a22c-9e886d03e34f",
+  "https://images.blocketcdn.se/dynamic/default/item/25719358/49d93d60-d619-4d3f-b6c4-9103a554237c"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.35,
  "length_ft": 18,
  "location": "Stockholm",
- "lon": 18.06197,
+ "lon": 18.06,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
@@ -69,6 +84,19 @@
  },
  "status": "active",
  "url": "https://www.blocket.se/mobility/item/25719358",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "c47c8a8893a9ccad",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed space, open cockpit with canopy, no windows or doors.",
+   "hull_photo": 1
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 0,
  "year": 2025
 }

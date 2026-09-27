@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt m styrpulpet,motor och kärra",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25997718/41b4514c-9daf-40ba-b601-df863e515984",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.65999,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25997718/41b4514c-9daf-40ba-b601-df863e515984",
+  "https://images.blocketcdn.se/dynamic/default/item/25997718/2cf04b2e-f408-4e08-91c2-24cb90f05769"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.66,
  "length_ft": 165,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +71,13 @@
   "text_sha": "e9ecdc985ab690ba"
  },
  "location": "Svärtinge",
- "lon": 16.02236,
+ "lon": 16.02,
  "make": "Mercury",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508370519,
@@ -96,7 +103,7 @@
   "Märke": "Mercury",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25997718",
  "width_cm": 170,
  "year": 1980

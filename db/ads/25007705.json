@@ -1,0 +1,110 @@
+{
+ "ad_id": 25007705,
+ "boat_class": "Annat",
+ "changed_ts": 1786814598000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2020,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Linder 525 cm lång",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25007705/d57870c4-a82c-4813-9ed4-a05d645c1500",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25007705/d57870c4-a82c-4813-9ed4-a05d645c1500",
+  "https://images.blocketcdn.se/dynamic/default/item/25007705/05b9a69c-b625-4bee-88fa-bd6d92fe6c1f",
+  "https://images.blocketcdn.se/dynamic/default/item/25007705/daf1cdf6-73d0-40bb-ac18-6de27fda33ca",
+  "https://images.blocketcdn.se/dynamic/default/item/25007705/43f57c19-eadc-443e-9182-daebc1caf323",
+  "https://images.blocketcdn.se/dynamic/default/item/25007705/cded1d64-028f-4118-8850-f7fdabd61a32",
+  "https://images.blocketcdn.se/dynamic/default/item/25007705/96de1287-45c9-4471-b52a-e86ace841773",
+  "https://images.blocketcdn.se/dynamic/default/item/25007705/b785026b-33c5-45ef-ad34-4f66b916e2d7",
+  "https://images.blocketcdn.se/dynamic/default/item/25007705/9eba2484-14a0-4fa0-afe4-63f686dc2e76",
+  "https://images.blocketcdn.se/dynamic/default/item/25007705/5049cd97-5844-4032-a649-6022579368af"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.47,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2020,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b82a2520bb855a88"
+ },
+ "location": "Figeholm",
+ "lon": 16.66,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790520652303,
+  "text_sha": "b82a2520bb855a88"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "90 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modellår": "2020",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Annat",
+  "Vikt": "38 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25007705",
+ "width_cm": 90,
+ "year": 2020
+}

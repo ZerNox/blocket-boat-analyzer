@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -43,8 +45,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 435 HONDA 50HK 80km/h kärra",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25719314/6d9431db-232f-4665-bef8-c5362ffa548c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.02674,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25719314/6d9431db-232f-4665-bef8-c5362ffa548c",
+  "https://images.blocketcdn.se/dynamic/default/item/25719314/5dfa8a8e-9530-4f7c-83ea-2a3ec5127be0",
+  "https://images.blocketcdn.se/dynamic/default/item/25719314/371e0b2d-4c3b-4bc7-8316-a22c9d9498a6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.03,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +81,13 @@
   "text_sha": "b19f4d55e45f3ad9"
  },
  "location": "Åmål",
- "lon": 12.73339,
+ "lon": 12.73,
  "make": "HR",
  "max_speed": 32,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 578,
   "fetched_ts": 1790508129489,
@@ -108,7 +116,7 @@
   "Toppfart": "32 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25719314",
  "width_cm": 184,
  "year": 2000

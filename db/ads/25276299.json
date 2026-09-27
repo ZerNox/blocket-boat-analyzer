@@ -1,0 +1,115 @@
+{
+ "ad_id": 25276299,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785506639000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Minn Kota",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2012,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "perfekta båten att slänga med i bilen, fotpump, Minn Kota motor med nytt batteri,",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Suzumar 360AL",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25276299/eeaa679f-7c7e-4c38-ad5f-04e4eb584d4a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25276299/eeaa679f-7c7e-4c38-ad5f-04e4eb584d4a",
+  "https://images.blocketcdn.se/dynamic/default/item/25276299/4f463d36-b0c9-4ded-a5e9-8a0eb9edbc95",
+  "https://images.blocketcdn.se/dynamic/default/item/25276299/aa67f4fb-de7e-414c-8c5e-7a05dab66cab",
+  "https://images.blocketcdn.se/dynamic/default/item/25276299/839c7e9b-315a-4974-ab8d-a08a2a93a3dc",
+  "https://images.blocketcdn.se/dynamic/default/item/25276299/3bf11f18-df56-4851-8d9c-89ffc3bda2ed",
+  "https://images.blocketcdn.se/dynamic/default/item/25276299/3e038ffd-30d2-417d-8318-61e157b8f076"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.68,
+ "length_ft": 12,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2012,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Minn Kota",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Minn Kota motor med nytt batteri",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c180285d4bac5538"
+ },
+ "location": "Hjärup",
+ "lon": 13.13,
+ "make": "Suzumar",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 81,
+  "fetched_ts": 1790520667354,
+  "text_sha": "c180285d4bac5538"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Djupgående": "10 cm",
+  "Färg": "Vit",
+  "Längd i fot": "12 fot",
+  "Modell": "360 AL",
+  "Modellår": "2012",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Minn Kota",
+  "Motortyp": "Utombordare",
+  "Märke": "Suzumar",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "45 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25276299",
+ "width_cm": 0,
+ "year": 2012
+}

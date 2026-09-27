@@ -7,6 +7,8 @@
   "boat_year": 1991,
   "boat_year_source": "spec",
   "engine_hours": 300,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 495 , Suzuki med elstart.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26623006/df33e4aa-5019-4a9e-82b2-1cb3b3f5ad03",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.01406,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26623006/df33e4aa-5019-4a9e-82b2-1cb3b3f5ad03",
+  "https://images.blocketcdn.se/dynamic/default/item/26623006/9a4c9873-7f2e-4a43-9ab4-767141508a3b",
+  "https://images.blocketcdn.se/dynamic/default/item/26623006/1a99cc82-3db0-49df-ba36-3654bbd18fc7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.01,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "fedf59c0d242a8ef"
  },
  "location": "Mönsterås",
- "lon": 16.45686,
+ "lon": 16.46,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 110,
   "fetched_ts": 1790508832102,
@@ -90,7 +98,7 @@
   "Märke": "Uttern",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26623006",
  "width_cm": 0,
  "year": 1991

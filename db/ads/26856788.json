@@ -1,0 +1,93 @@
+{
+ "ad_id": 26856788,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790268766000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1986,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 4.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": "g har kört båten med elmotor. 4 hk och 9 hk alla gick väldigt bra. Båtens trä är slipad ordentligt och oljad 5 gånger.",
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 1986,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Jag har kört båten med elmotor.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Aluminium båt all trä är slipad oljad",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26856788/06106318-2f1a-47cd-bc06-4b858ee971d5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26856788/06106318-2f1a-47cd-bc06-4b858ee971d5",
+  "https://images.blocketcdn.se/dynamic/default/item/26856788/b84be7fc-3df1-4638-bc7c-89b2edb9820e",
+  "https://images.blocketcdn.se/dynamic/default/item/26856788/f2bd8944-aa9f-4760-9fc7-7cbaad2058d0",
+  "https://images.blocketcdn.se/dynamic/default/item/26856788/aea07b05-03ca-4408-8811-4bdbb2687a86",
+  "https://images.blocketcdn.se/dynamic/default/item/26856788/f162b39e-1052-4652-852b-399f71e57d36",
+  "https://images.blocketcdn.se/dynamic/default/item/26856788/73a8c4d0-e2da-40fc-823e-f51afcd05ac8",
+  "https://images.blocketcdn.se/dynamic/default/item/26856788/94beb08c-cf70-4c25-99d5-25b47793a9fe",
+  "https://images.blocketcdn.se/dynamic/default/item/26856788/c39f0d2f-ad9a-4b36-b625-d673407236a1",
+  "https://images.blocketcdn.se/dynamic/default/item/26856788/5bf56360-48b4-4a49-885b-f7121860417a",
+  "https://images.blocketcdn.se/dynamic/default/item/26856788/90a18168-155e-465a-af87-c322ada0d715",
+  "https://images.blocketcdn.se/dynamic/default/item/26856788/ef5ffe9e-54ae-4f85-acde-86027c331226",
+  "https://images.blocketcdn.se/dynamic/default/item/26856788/fa1b7968-0ead-4d6e-a8d1-29ad3da2a901"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.36,
+ "length_ft": 13,
+ "location": "Hässelby",
+ "lon": 17.82,
+ "make": "Avon",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 382,
+  "fetched_ts": 1790521070687,
+  "text_sha": "6479b608bd065020"
+ },
+ "price": 9900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9900
+  }
+ ],
+ "specs": {
+  "Bredd": "125 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "13 fot",
+  "Modellår": "1986",
+  "Motor inkluderad": "Nej",
+  "Märke": "Avon",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "95 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26856788",
+ "width_cm": 125,
+ "year": 1986
+}

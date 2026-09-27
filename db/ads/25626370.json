@@ -1,0 +1,122 @@
+{
+ "ad_id": 25626370,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786472339000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": 50,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Tohatsu",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Klassisk daycruiser / styrpulpet i bra skick med sina knappa 50 år (motor 2006) känd för och planar otroligt fint och skrovformen används fortfarande på modernare båtar.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Enklare ekolod men fungerar bra",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Saknar 2-3 kapellfästen",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båttrailer:",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "open",
+  "hull_certain": false,
+  "hull_evidence": "No enclosed cabin, only open cockpit and console area visible.",
+  "hull_source": "bild",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Crescent 56 DC daycruiser",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25626370/6c62256f-2562-41d6-bc00-aa6b3dba24d2",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25626370/6c62256f-2562-41d6-bc00-aa6b3dba24d2",
+  "https://images.blocketcdn.se/dynamic/default/item/25626370/b5003f12-160c-4938-b90c-0ae10fd75e59",
+  "https://images.blocketcdn.se/dynamic/default/item/25626370/0a053f7c-9cce-474e-9d95-3ac62287666b",
+  "https://images.blocketcdn.se/dynamic/default/item/25626370/bdcf9d46-4986-4090-a780-0bd6e7329a80",
+  "https://images.blocketcdn.se/dynamic/default/item/25626370/645ab1fd-eae0-4ccd-82c3-491e253c74c4",
+  "https://images.blocketcdn.se/dynamic/default/item/25626370/0e86fb4d-ffe7-480f-9b6d-47e3d5f4163c",
+  "https://images.blocketcdn.se/dynamic/default/item/25626370/d2a07fc7-aa5d-45cb-ba6b-7f63343401d1",
+  "https://images.blocketcdn.se/dynamic/default/item/25626370/db858e7d-d536-4440-b6b0-1e9b0ee90203"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.63,
+ "length_ft": 18,
+ "location": "Västerås",
+ "lon": 16.54,
+ "make": "Crescent",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1277,
+  "fetched_ts": 1790523035176,
+  "text_sha": "364c63a9546912dd"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "56 DC",
+  "Modellår": "1978",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "27 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25626370",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "b9ddd3ee0de54156",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed cabin, only open cockpit and console area visible.",
+   "hull_photo": 4
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 200,
+ "year": 1978
+}

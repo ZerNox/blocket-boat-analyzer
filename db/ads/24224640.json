@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -32,8 +34,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Cremo 490 sc",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24224640/8e5c2fa7-8424-49d9-9d75-b9c9f0db2b4e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.40183,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24224640/8e5c2fa7-8424-49d9-9d75-b9c9f0db2b4e",
+  "https://images.blocketcdn.se/dynamic/default/item/24224640/aacd15fe-5d2a-4510-b380-0e8e001be834",
+  "https://images.blocketcdn.se/dynamic/default/item/24224640/d6f233ca-4809-42ac-ba69-d2511348e573",
+  "https://images.blocketcdn.se/dynamic/default/item/24224640/4229aa2a-5b6c-41d2-8428-6afaaf446f89",
+  "https://images.blocketcdn.se/dynamic/default/item/24224640/9cc362b3-932c-4a61-8f65-150ea3927034",
+  "https://images.blocketcdn.se/dynamic/default/item/24224640/fa21bfa3-c5ff-488d-90aa-b60d021a7d94",
+  "https://images.blocketcdn.se/dynamic/default/item/24224640/a39b6da1-9823-43ff-9ae2-9b4adb1b1941",
+  "https://images.blocketcdn.se/dynamic/default/item/24224640/d6955df9-fbd2-49f6-84ff-d7c5968aeed0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.4,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -64,12 +76,13 @@
   "text_sha": "8b3854b85a926bac"
  },
  "location": "Onsala",
- "lon": 12.00772,
+ "lon": 12.01,
  "make": "Cremo",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 281,
   "fetched_ts": 1790507578974,
@@ -99,7 +112,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "370 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24224640",
  "width_cm": 203,
  "year": 2021

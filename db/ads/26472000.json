@@ -1,0 +1,120 @@
+{
+ "ad_id": 26472000,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1789034730000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1984,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
+  "engine_maker": "Johnsdon(Suzuki)",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1984,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Uttern 590"
+ ],
+ "heading": "UTTERN 590",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26472000/1b05a14c-16d4-4e01-973e-1fa208202e6b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26472000/1b05a14c-16d4-4e01-973e-1fa208202e6b",
+  "https://images.blocketcdn.se/dynamic/default/item/26472000/c9755bb6-0478-4493-99dd-e618d505d81c",
+  "https://images.blocketcdn.se/dynamic/default/item/26472000/0d80b28a-fa1d-4d18-8869-de77155f8947",
+  "https://images.blocketcdn.se/dynamic/default/item/26472000/68559054-0e05-4ccb-b63e-8b596180815f",
+  "https://images.blocketcdn.se/dynamic/default/item/26472000/ed0926e9-e202-43df-ada3-78768862b7ac"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.07,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1984,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Johnsdon(Suzuki)",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e53b14af766c555d"
+ },
+ "location": "Åmål",
+ "lon": 12.7,
+ "make": "Uttern",
+ "max_speed": 18,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790523178036,
+  "text_sha": "e53b14af766c555d"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "590",
+  "Modellår": "1984",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Johnsdon(Suzuki)",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "6",
+  "Toppfart": "18 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26472000",
+ "width_cm": 0,
+ "year": 1984
+}

@@ -1,0 +1,85 @@
+{
+ "ad_id": 26598260,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789415300000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Gärna med GPS/Ekolod & trailer (önskemål).",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Gärna med GPS/Ekolod & trailer (önskemål).",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Gärna med GPS/Ekolod & trailer (önskemål).",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Styrpulpetbåt köpes",
+ "image": null,
+ "image_urls": [],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.65,
+ "length_ft": 18,
+ "location": "Västra Frölunda",
+ "lon": 11.89,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 114,
+  "fetched_ts": 1790521018385,
+  "text_sha": "bf6844ec93a8f1ec"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "510, 568 GTI Köpes",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26598260",
+ "width_cm": 0,
+ "year": 2005
+}

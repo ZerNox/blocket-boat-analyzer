@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet Grisslan 475 med 70hk Evinrude",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25603146/c189b6d5-0ce6-40fe-bf3b-4b841e536f20",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.21624,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25603146/c189b6d5-0ce6-40fe-bf3b-4b841e536f20",
+  "https://images.blocketcdn.se/dynamic/default/item/25603146/4794da60-8931-4b94-9a60-baef9b78a659",
+  "https://images.blocketcdn.se/dynamic/default/item/25603146/57c25491-6a59-48ce-bfc2-8d3ccde9ea25",
+  "https://images.blocketcdn.se/dynamic/default/item/25603146/412dddbe-9b96-41e9-b63e-0dcba4d5036f",
+  "https://images.blocketcdn.se/dynamic/default/item/25603146/7831f2a3-78d0-4c1b-99d7-e31598e9cc38",
+  "https://images.blocketcdn.se/dynamic/default/item/25603146/1fb00d46-7efb-467c-8710-0cf3719956b8",
+  "https://images.blocketcdn.se/dynamic/default/item/25603146/4040b759-7171-40f7-9d91-2e3c38b3a922"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.22,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +80,13 @@
   "text_sha": "4fc865a1ede36643"
  },
  "location": "Nykvarn",
- "lon": 17.42121,
+ "lon": 17.42,
  "make": "Grisslan",
  "max_speed": 30,
  "motor_fuel": null,
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 674,
   "fetched_ts": 1790508041863,
@@ -100,7 +112,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "250 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25603146",
  "width_cm": 0,
  "year": 1985

@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": 22,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha 2017",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -44,8 +46,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden-95, Yamaha-2017",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25919648/d0028a98-b4e7-4494-a3c5-0354a335c5c8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.11924,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25919648/d0028a98-b4e7-4494-a3c5-0354a335c5c8",
+  "https://images.blocketcdn.se/dynamic/default/item/25919648/a8c95079-ce7c-4589-8a6f-555584587357",
+  "https://images.blocketcdn.se/dynamic/default/item/25919648/cb420df8-5967-4b76-9f04-1e5c0a38ca3e",
+  "https://images.blocketcdn.se/dynamic/default/item/25919648/b47b0fa0-5647-41cb-83df-f9a0a59e540b",
+  "https://images.blocketcdn.se/dynamic/default/item/25919648/aff684a0-f48b-449b-9b33-508f99aa0299"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.12,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -75,12 +84,13 @@
   "text_sha": "30d06c82ed32ff37"
  },
  "location": "Skeppshult",
- "lon": 13.42565,
+ "lon": 13.43,
  "make": "Askeladden",
  "max_speed": 33,
  "motor_fuel": null,
  "motor_size": 80.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 324,
   "fetched_ts": 1790508300395,
@@ -107,7 +117,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "475 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25919648",
  "width_cm": 215,
  "year": 1995

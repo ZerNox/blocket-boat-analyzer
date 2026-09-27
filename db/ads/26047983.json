@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": 20,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -33,16 +35,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 435S, Mercury 15 hk , 30-trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26047983/dcbe7c1f-0661-4fdf-a878-e00bf7f13170",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.17766,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26047983/dcbe7c1f-0661-4fdf-a878-e00bf7f13170",
+  "https://images.blocketcdn.se/dynamic/default/item/26047983/35f33ccf-80a3-4ee3-9818-ab5889f0c911",
+  "https://images.blocketcdn.se/dynamic/default/item/26047983/2297ecaf-bf57-4822-b517-2970cd4638df"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.18,
  "length_ft": 14,
  "location": "Lyckeby",
- "lon": 15.66229,
+ "lon": 15.66,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 283,
   "fetched_ts": 1790508415367,
@@ -68,7 +76,7 @@
   "Märke": "Ryds",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26047983",
  "width_cm": 186,
  "year": 1995

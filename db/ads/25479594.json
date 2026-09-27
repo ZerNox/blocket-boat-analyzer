@@ -1,0 +1,121 @@
+{
+ "ad_id": 25479594,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786093550000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Minn Kota",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2010,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "AquaSmart gummibåt med elmotor och batteri",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "AquaSmart gummibåt med elmotor och batteri – komplett paket",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25479594/b3db8a90-855a-4605-9a2b-eb20a1b50367",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25479594/b3db8a90-855a-4605-9a2b-eb20a1b50367",
+  "https://images.blocketcdn.se/dynamic/default/item/25479594/9559028b-23aa-4e52-be87-9540c9271e63",
+  "https://images.blocketcdn.se/dynamic/default/item/25479594/b35ddd01-7486-4890-bc25-28c861d96580",
+  "https://images.blocketcdn.se/dynamic/default/item/25479594/ce72cc15-bbbb-4203-bed3-759d5c755e51",
+  "https://images.blocketcdn.se/dynamic/default/item/25479594/c4f2164f-88f1-41b3-af47-42e85784d0f5",
+  "https://images.blocketcdn.se/dynamic/default/item/25479594/361a9285-0d73-44bb-ae1e-fc79b626ff85",
+  "https://images.blocketcdn.se/dynamic/default/item/25479594/a6bcfff4-8a48-4baa-8179-8cad19802553",
+  "https://images.blocketcdn.se/dynamic/default/item/25479594/47825074-f29a-481d-9af0-de6ef00e46e9",
+  "https://images.blocketcdn.se/dynamic/default/item/25479594/7dff84b2-a9c0-48c5-b4ee-6ed41a3cb99e",
+  "https://images.blocketcdn.se/dynamic/default/item/25479594/e8f0619c-22c4-4d16-bfb0-04c8ff7b455f",
+  "https://images.blocketcdn.se/dynamic/default/item/25479594/564363f3-c5a5-4652-84d0-6c87680eab59"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.35,
+ "length_ft": 8,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2010,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Minn Kota",
+   "engine_type": "electric",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a7871ba15b91a498"
+ },
+ "location": "Bromma",
+ "lon": 17.91,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Elektrisk",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 666,
+  "fetched_ts": 1790520710329,
+  "text_sha": "a7871ba15b91a498"
+ },
+ "price": 4500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Elektrisk",
+  "Färg": "Grå",
+  "Längd i fot": "8 fot",
+  "Modell": "AquaSmart 240SL",
+  "Modellår": "2010",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Minn Kota",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "3",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25479594",
+ "width_cm": 0,
+ "year": 2010
+}

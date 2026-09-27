@@ -1,0 +1,122 @@
+{
+ "ad_id": 26369714,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788704284000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Det finns även en ekolod som medföljer.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Selco 18HT med 60hk yamaha och släp",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Selco 18HT med 60hk yamaha och släp",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Selco 18HT med 60hk yamaha och släp",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26369714/8f499036-f8de-4799-95c5-9466a3b2cc6a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26369714/8f499036-f8de-4799-95c5-9466a3b2cc6a",
+  "https://images.blocketcdn.se/dynamic/default/item/26369714/38d2be9e-24db-44a2-aabd-e7c20be498eb",
+  "https://images.blocketcdn.se/dynamic/default/item/26369714/5162a36f-3ec3-461d-b973-931dba0155bc",
+  "https://images.blocketcdn.se/dynamic/default/item/26369714/b7438cbb-b825-4884-a702-b3ffb07e52f9",
+  "https://images.blocketcdn.se/dynamic/default/item/26369714/ac8298a8-6aad-4b56-ac89-b8bff013a3cf"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.3,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b9b7d7dc38ba9373"
+ },
+ "location": "Hållsta",
+ "lon": 16.46,
+ "make": "Selco",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 268,
+  "fetched_ts": 1790523153898,
+  "text_sha": "b9b7d7dc38ba9373"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "18HT",
+  "Modellår": "1990",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Selco",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26369714",
+ "width_cm": 0,
+ "year": 1990
+}

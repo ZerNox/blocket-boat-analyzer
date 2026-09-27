@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 2.5,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden 14 segelkombi med motor, prissänkt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25321538/af2a19bd-7640-4491-a94b-a3cb2c6eefc9",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.65926,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25321538/af2a19bd-7640-4491-a94b-a3cb2c6eefc9",
+  "https://images.blocketcdn.se/dynamic/default/item/25321538/182ab462-641e-4f26-b89b-f9a2c6f03591",
+  "https://images.blocketcdn.se/dynamic/default/item/25321538/24a467e8-dd98-40f8-b9ee-0e5465a5e991",
+  "https://images.blocketcdn.se/dynamic/default/item/25321538/0f792066-c0e5-4bd5-97a0-07f16a7a9c33"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.66,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "fd4d4f06324b46ee"
  },
  "location": "Furusund",
- "lon": 18.86994,
+ "lon": 18.87,
  "make": "Askeladden",
  "max_speed": 5,
  "motor_fuel": "Bensin",
  "motor_size": 2.5,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 84,
   "fetched_ts": 1790507757005,
@@ -93,7 +102,7 @@
   "Toppfart": "5 knop",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25321538",
  "width_cm": 0,
  "year": 1975

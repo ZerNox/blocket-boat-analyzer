@@ -1,0 +1,77 @@
+{
+ "ad_id": 24727136,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790149894000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1972,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1972,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Trissjolle nr 3146",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24727136/03b39a73-0db4-4ed1-85f5-693742e46862",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24727136/03b39a73-0db4-4ed1-85f5-693742e46862",
+  "https://images.blocketcdn.se/dynamic/default/item/24727136/87e22951-879f-4b6b-9987-7136263fe1df"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.05,
+ "length_ft": 15,
+ "location": "Hjälteby",
+ "lon": 11.71,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 88,
+  "fetched_ts": 1790520643441,
+  "text_sha": "04defa9d8b95aeb4"
+ },
+ "price": 4500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4500
+  }
+ ],
+ "specs": {
+  "Bredd": "1 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "80 cm",
+  "Färg": "Vit/blå",
+  "Längd i fot": "15 fot",
+  "Modell": "Trissjolle",
+  "Modellår": "1972",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "120 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/24727136",
+ "width_cm": 1,
+ "year": 1972
+}

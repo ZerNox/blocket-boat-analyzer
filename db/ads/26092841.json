@@ -7,6 +7,8 @@
   "boat_year": 1976,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 36,
+  "engine_hp_source": "llm",
   "engine_maker": "MD3",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -36,8 +38,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Vi säljer nu vår Albin 25 DL då tiden tyvärr inte räcker till.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26092841/26fce9ee-d0b8-46d9-b494-0302b76fedd4",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.29128,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26092841/26fce9ee-d0b8-46d9-b494-0302b76fedd4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.29,
  "length_ft": 25,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +72,13 @@
   "text_sha": "d3156f6b0faab8d6"
  },
  "location": "Årjäng",
- "lon": 11.98366,
+ "lon": 11.98,
  "make": "Albin",
  "max_speed": null,
  "motor_fuel": "Diesel",
  "motor_size": 36.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 819,
   "fetched_ts": 1790508454660,
@@ -98,7 +104,7 @@
   "Märke": "Albin",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26092841",
  "width_cm": 260,
  "year": 1976

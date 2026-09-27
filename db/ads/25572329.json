@@ -1,0 +1,110 @@
+{
+ "ad_id": 25572329,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786347189000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Lite fix för den hendige. ei motor. ei trailer. för övrig i fint skick.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Fiske/ vattenskid båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25572329/2180694c-6924-4f11-8931-ccd8df53fa24",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25572329/2180694c-6924-4f11-8931-ccd8df53fa24",
+  "https://images.blocketcdn.se/dynamic/default/item/25572329/463a1eda-1020-4af9-9857-51e5a614bd9e",
+  "https://images.blocketcdn.se/dynamic/default/item/25572329/6fb54c75-1191-47d7-880f-955e9d7e3e63",
+  "https://images.blocketcdn.se/dynamic/default/item/25572329/0c72c935-a1dc-400b-9fef-a85d1210171c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.23,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "547f705cf5691ea1"
+ },
+ "location": "Huddinge",
+ "lon": 17.93,
+ "make": "Aspen",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 116,
+  "fetched_ts": 1790520731999,
+  "text_sha": "547f705cf5691ea1"
+ },
+ "price": 1900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 1900
+  }
+ ],
+ "specs": {
+  "Bredd": "187 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modellår": "1990",
+  "Märke": "Aspen",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25572329",
+ "width_cm": 187,
+ "year": 1990
+}

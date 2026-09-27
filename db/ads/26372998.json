@@ -1,0 +1,74 @@
+{
+ "ad_id": 26372998,
+ "boat_class": "Annat",
+ "changed_ts": 1788708194000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1991,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1991,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26372998/ffef0b4b-0ec9-4d78-a2e1-2e55b8831436",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26372998/ffef0b4b-0ec9-4d78-a2e1-2e55b8831436",
+  "https://images.blocketcdn.se/dynamic/default/item/26372998/951bbd44-362d-4b14-91cf-62d021388b49"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.36,
+ "length_ft": 13,
+ "location": "Öjebyn",
+ "lon": 21.4,
+ "make": "Lema",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 7,
+  "fetched_ts": 1790520952280,
+  "text_sha": "a40cc89313476b75"
+ },
+ "price": 6000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 6000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Röd",
+  "Längd i fot": "13 fot",
+  "Modell": "555",
+  "Modellår": "1991",
+  "Motor inkluderad": "Nej",
+  "Märke": "Lema",
+  "Sittplatser": "4",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26372998",
+ "width_cm": 0,
+ "year": 1991
+}

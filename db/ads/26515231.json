@@ -1,0 +1,90 @@
+{
+ "ad_id": 26515231,
+ "boat_class": "Annat",
+ "changed_ts": 1789192986000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Albin",
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Albin-motor O-11.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Segel och kapell med tillbehör finns.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailern är inte besiktigat.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project",
+   "untested"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Rånäsjulle 15",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26515231/de5c75c8-ba00-4fdd-984b-72303d556bf3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26515231/de5c75c8-ba00-4fdd-984b-72303d556bf3",
+  "https://images.blocketcdn.se/dynamic/default/item/26515231/ec6faf59-e26c-4d9a-833d-3c18c4129a02",
+  "https://images.blocketcdn.se/dynamic/default/item/26515231/750e5133-c850-4223-819d-c6db3e5dbfa2",
+  "https://images.blocketcdn.se/dynamic/default/item/26515231/dd2e2bd8-4b5f-4f3f-80d4-b43aa4aa22cc"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.37,
+ "length_ft": 15,
+ "location": "Osby",
+ "lon": 13.99,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 271,
+  "fetched_ts": 1790520991241,
+  "text_sha": "5d526011d3f1e189"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "Rånäsjulle 15",
+  "Modellår": "1970",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Albin",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26515231",
+ "width_cm": 0,
+ "year": 1970
+}

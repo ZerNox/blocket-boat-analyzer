@@ -7,6 +7,8 @@
   "boat_year": 1979,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Monark 555",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25866616/ad17028a-6d71-4a2b-8061-94e7d5209a42",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.65329,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25866616/ad17028a-6d71-4a2b-8061-94e7d5209a42",
+  "https://images.blocketcdn.se/dynamic/default/item/25866616/cc210eec-2105-4e7c-8119-cc077759e6b2",
+  "https://images.blocketcdn.se/dynamic/default/item/25866616/a7a910e1-c828-4b8d-bfb2-ecbd781398ef",
+  "https://images.blocketcdn.se/dynamic/default/item/25866616/6865de92-247e-460c-a6e3-d5aab23c38f3"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.65,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "0adc75686192c5bb"
  },
  "location": "Enköping",
- "lon": 17.0821,
+ "lon": 17.08,
  "make": "Monark",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 174,
   "fetched_ts": 1790508262799,
@@ -98,7 +107,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "510 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25866616",
  "width_cm": 0,
  "year": 1979

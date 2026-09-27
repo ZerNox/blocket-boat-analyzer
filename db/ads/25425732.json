@@ -1,0 +1,132 @@
+{
+ "ad_id": 25425732,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1790338096000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": 96,
+  "engine_hp": 100,
+  "engine_hp_source": "llm",
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning monterad 2019.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter Eagle 6 tum med Stockholms skärgårds sjökort ingår.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "tfynd ! Transport båt med hytt till salu\nEn perfekt båt för hantverkaren eller husägaren som behöver en ri",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Höstfynd ! Transport båt med hytt till salu",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25425732/74f81079-2251-4e4c-9ac3-f0c39cb49721",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25425732/74f81079-2251-4e4c-9ac3-f0c39cb49721",
+  "https://images.blocketcdn.se/dynamic/default/item/25425732/deee7ca3-0dba-430d-ba8b-4be95bd07c57",
+  "https://images.blocketcdn.se/dynamic/default/item/25425732/c09aafd9-5776-4465-883f-91d10a4f0f62",
+  "https://images.blocketcdn.se/dynamic/default/item/25425732/3994e2d6-82ce-45a4-9a7e-3f901b358c0d",
+  "https://images.blocketcdn.se/dynamic/default/item/25425732/efbd0736-2a45-4c73-be0b-c48cc939df1b",
+  "https://images.blocketcdn.se/dynamic/default/item/25425732/390ec0fc-916c-497f-b551-7d9840be3ee1",
+  "https://images.blocketcdn.se/dynamic/default/item/25425732/3746772b-ea7c-4a21-a86e-8591f2b18f3b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.33,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": 96,
+   "engine_hp": 100,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Utombordare, köpt 2022",
+   "engine_year_rejected": 2022,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "78a144c57ad574e7"
+ },
+ "location": "Saltsjö-Boo",
+ "lon": 18.27,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 500,
+  "fetched_ts": 1790522989581,
+  "text_sha": "78a144c57ad574e7"
+ },
+ "price": 155000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 155000
+  }
+ ],
+ "specs": {
+  "Bredd": "250 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "21 fot",
+  "Modell": "Waxholmstransport",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Typ": "Hyttbåt",
+  "Vikt": "800 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25425732",
+ "width_cm": 250,
+ "year": 2000
+}

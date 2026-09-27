@@ -1,0 +1,98 @@
+{
+ "ad_id": 24503650,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1788243244000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1981,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo Penta AQ 225 D / 305 V8",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2012,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Helrenoverad motor 2012",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell från 2016",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Fjord 21 DC 1981",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Fjord 21 DC 1981",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24503650/b29520f0-366c-4ccd-aa3c-d6d019830270",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24503650/b29520f0-366c-4ccd-aa3c-d6d019830270",
+  "https://images.blocketcdn.se/dynamic/default/item/24503650/a83a0ad0-372d-4ca4-ba6b-928b1fdacded",
+  "https://images.blocketcdn.se/dynamic/default/item/24503650/c03c1771-60b2-4293-9963-d7c5ebe3e2ab",
+  "https://images.blocketcdn.se/dynamic/default/item/24503650/4c851f06-9daa-4792-8083-9e5dd0be20a1",
+  "https://images.blocketcdn.se/dynamic/default/item/24503650/32912294-70da-447b-a23c-7050b66d1f7e",
+  "https://images.blocketcdn.se/dynamic/default/item/24503650/90178cb8-eeab-4494-88ae-adf1ae9548d7",
+  "https://images.blocketcdn.se/dynamic/default/item/24503650/7fda7702-0b8a-47fb-bcb4-180417f41172",
+  "https://images.blocketcdn.se/dynamic/default/item/24503650/313816b7-fe67-49f1-85b1-a65e1e121153",
+  "https://images.blocketcdn.se/dynamic/default/item/24503650/38e60ec7-3cf5-4ef3-9f87-42b6593b31a6"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.83,
+ "length_ft": 21,
+ "location": "Norrtälje",
+ "lon": 18.9,
+ "make": "Fjord",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 158,
+  "fetched_ts": 1790522934567,
+  "text_sha": "084885c77ce7f140"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Bredd": "250 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modellår": "1981",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo Penta AQ 225 D / 305 V8",
+  "Motortyp": "Inombordare",
+  "Märke": "Fjord",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "1 250 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24503650",
+ "width_cm": 250,
+ "year": 1981
+}

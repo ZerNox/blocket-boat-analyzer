@@ -1,0 +1,102 @@
+{
+ "ad_id": 23753061,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785741553000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2026,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 5.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "electric",
+  "engine_type_evidence": "or eller utombordare upp till 5 hk .",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2026,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Linder 440 Fishing 2026",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23753061/7128e23f-ae89-4271-971e-439c53665d50",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23753061/7128e23f-ae89-4271-971e-439c53665d50"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.14,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2026,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "not_mentioned",
+   "engine_type": "electric",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "848236b831ddb8b5"
+ },
+ "location": "Säffle",
+ "lon": 12.93,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 114,
+  "fetched_ts": 1790520619159,
+  "text_sha": "848236b831ddb8b5"
+ },
+ "price": 39900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 39900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "13 fot",
+  "Modell": "440 Fishing",
+  "Modellår": "2026",
+  "Motor inkluderad": "Nej",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23753061",
+ "width_cm": 0,
+ "year": 2026
+}

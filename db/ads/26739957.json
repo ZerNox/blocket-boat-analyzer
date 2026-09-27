@@ -1,0 +1,80 @@
+{
+ "ad_id": 26739957,
+ "boat_class": "Annat",
+ "changed_ts": 1789901964000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båtvagnen är nedslipad och nylackad",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Örnvik 480",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26739957/359dc689-a1f5-4d37-bef1-ed50be755a4f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26739957/359dc689-a1f5-4d37-bef1-ed50be755a4f",
+  "https://images.blocketcdn.se/dynamic/default/item/26739957/d5df83db-2eab-4e2c-9425-474c5ccbc6bb",
+  "https://images.blocketcdn.se/dynamic/default/item/26739957/7d8a7f51-a7aa-4265-8412-31cc57c8189d",
+  "https://images.blocketcdn.se/dynamic/default/item/26739957/ebb8881b-4654-4672-8337-66d222c567c1",
+  "https://images.blocketcdn.se/dynamic/default/item/26739957/d3588f0f-ea27-4807-bdbf-d021f49f8359"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.8,
+ "length_ft": 5,
+ "location": "Stenkullen",
+ "lon": 12.32,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 801,
+  "fetched_ts": 1790521046500,
+  "text_sha": "840c51c9fdde2660"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "5 fot",
+  "Modell": "480",
+  "Modellår": "2000",
+  "Motor inkluderad": "Nej",
+  "Märke": "Örnvik",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26739957",
+ "width_cm": 0,
+ "year": 2000
+}

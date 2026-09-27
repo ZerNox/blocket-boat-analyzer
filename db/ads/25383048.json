@@ -7,6 +7,8 @@
   "boat_year": 2012,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mecury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern S51, en smidig och smart planerad familjebåt i gott skick",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25383048/c72d8755-b8c8-4fa3-8d12-de556c71fb37",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.595,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25383048/c72d8755-b8c8-4fa3-8d12-de556c71fb37",
+  "https://images.blocketcdn.se/dynamic/default/item/25383048/3ad7f009-f6bc-42ab-a5db-7750e17eb3b1",
+  "https://images.blocketcdn.se/dynamic/default/item/25383048/973203f2-df99-4687-ba96-b7bf0a7a9ad7",
+  "https://images.blocketcdn.se/dynamic/default/item/25383048/7615007f-ada3-4470-a26d-564c0121b935"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.59,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +77,13 @@
   "text_sha": "fc8900f49d6c74b1"
  },
  "location": "Hovås",
- "lon": 11.90154,
+ "lon": 11.9,
  "make": "Uttern",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1045,
   "fetched_ts": 1790507824320,
@@ -104,7 +113,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25383048",
  "width_cm": 208,
  "year": 2012

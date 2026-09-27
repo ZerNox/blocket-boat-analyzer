@@ -7,6 +7,8 @@
   "boat_year": 2015,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 3,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 325 mindre båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26616720/6ff21412-8376-422e-9815-92ff32dfcca9",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 61.23034,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26616720/6ff21412-8376-422e-9815-92ff32dfcca9",
+  "https://images.blocketcdn.se/dynamic/default/item/26616720/7691fb9e-334e-419c-9031-241b5d795570",
+  "https://images.blocketcdn.se/dynamic/default/item/26616720/fd120078-25aa-4379-8fd4-9929d630adb2",
+  "https://images.blocketcdn.se/dynamic/default/item/26616720/83ba6cff-c308-407e-a649-e9fd0ef3486f",
+  "https://images.blocketcdn.se/dynamic/default/item/26616720/9e4ebdce-6ae4-430a-bddb-3ad957348903"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 61.23,
  "length_ft": 11,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "c60e9adf3e0495a6"
  },
  "location": "Kilafors",
- "lon": 16.58124,
+ "lon": 16.58,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 3.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 209,
   "fetched_ts": 1790508826676,
@@ -100,7 +110,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "65 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26616720",
  "width_cm": 135,
  "year": 2015

@@ -7,6 +7,8 @@
   "boat_year": 2018,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Micore 480 SC",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25480715/fa37f230-646f-425f-aebc-384c85bb3ccf",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.64708,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25480715/fa37f230-646f-425f-aebc-384c85bb3ccf",
+  "https://images.blocketcdn.se/dynamic/default/item/25480715/25cb0efc-2f1d-47e4-a6a4-91f76ff09d30",
+  "https://images.blocketcdn.se/dynamic/default/item/25480715/0a00b3b2-fe48-4371-b032-58cd50a7fd40",
+  "https://images.blocketcdn.se/dynamic/default/item/25480715/4e8f541c-0c2a-4201-8477-01cbb8f182c2",
+  "https://images.blocketcdn.se/dynamic/default/item/25480715/8c7b3652-0b42-4e2a-9cf5-8fd9d25346e1",
+  "https://images.blocketcdn.se/dynamic/default/item/25480715/bd112c0a-7ed1-4a13-9abe-91031d39697c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.65,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +75,13 @@
   "text_sha": "7b749f0defe1aa37"
  },
  "location": "Valbo",
- "lon": 17.00929,
+ "lon": 17.01,
  "make": "Micore",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 157,
   "fetched_ts": 1790507909843,
@@ -99,7 +110,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25480715",
  "width_cm": 200,
  "year": 2018

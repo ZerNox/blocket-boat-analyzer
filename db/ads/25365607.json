@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": null,
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 465",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25365607/d355b7e1-82c7-44cc-93fc-62dab59b6f34",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.69234,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25365607/d355b7e1-82c7-44cc-93fc-62dab59b6f34",
+  "https://images.blocketcdn.se/dynamic/default/item/25365607/6fac88b4-2a33-4235-9351-85730caa024c",
+  "https://images.blocketcdn.se/dynamic/default/item/25365607/7de08d69-2a4b-422f-858e-e5ab54f50c61",
+  "https://images.blocketcdn.se/dynamic/default/item/25365607/79869cf3-0427-426e-a993-ae101138bc34"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.69,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "3194ed98f6418284"
  },
  "location": "Grebbestad",
- "lon": 11.19342,
+ "lon": 11.19,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 184,
   "fetched_ts": 1790507797368,
@@ -95,7 +104,7 @@
   "Märke": "Ryds",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25365607",
  "width_cm": 0,
  "year": 1995

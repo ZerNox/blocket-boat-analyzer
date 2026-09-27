@@ -1,0 +1,126 @@
+{
+ "ad_id": 26080248,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787842165000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1983,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 85.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1983,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Idag sitter endast ett regnskydd på, men det fungerar bra som tillfälligt kapell.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Det följer även med en fin 30-kärra med nya axlar, så båten är enkel att transportera.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Hard Top Båt\nNu får någon annan chansen att färdigställa det sista på ett riktig",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Hard Top Båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26080248/2b2cda16-4abd-4570-9fd6-972b89440cd2",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26080248/2b2cda16-4abd-4570-9fd6-972b89440cd2",
+  "https://images.blocketcdn.se/dynamic/default/item/26080248/370ea9b6-7fa2-4ebc-938a-3e066b2c081d",
+  "https://images.blocketcdn.se/dynamic/default/item/26080248/2ef358c3-258d-47e6-ab54-c4d023e097c2",
+  "https://images.blocketcdn.se/dynamic/default/item/26080248/1e618867-b36c-44a0-8ea2-9aab820b8974",
+  "https://images.blocketcdn.se/dynamic/default/item/26080248/315724e3-0d81-4635-8508-a854dbba3c1b",
+  "https://images.blocketcdn.se/dynamic/default/item/26080248/ddaa9280-94a9-4d54-be23-8c2e7086a0e6",
+  "https://images.blocketcdn.se/dynamic/default/item/26080248/dd985718-15f6-48c2-9bdb-01a833bdf7d9"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.4,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1983,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2886d34f317113be"
+ },
+ "location": "Onsala",
+ "lon": 12.03,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 659,
+  "fetched_ts": 1790523118174,
+  "text_sha": "2886d34f317113be"
+ },
+ "price": 10500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "Ht båt",
+  "Modellår": "1983",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26080248",
+ "width_cm": 0,
+ "year": 1983
+}

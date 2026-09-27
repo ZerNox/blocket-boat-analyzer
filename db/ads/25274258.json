@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -39,8 +41,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet Ryds",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25274258/d820c4cc-245e-44c3-8066-ba504bbe03aa",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.94873,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25274258/d820c4cc-245e-44c3-8066-ba504bbe03aa",
+  "https://images.blocketcdn.se/dynamic/default/item/25274258/43102243-6f79-4d3f-928f-86ef3a8793d5",
+  "https://images.blocketcdn.se/dynamic/default/item/25274258/03f6dab2-3eee-458f-91cf-4fac37d35246",
+  "https://images.blocketcdn.se/dynamic/default/item/25274258/04cbca93-4ff9-440a-b0d5-593a09e136a3",
+  "https://images.blocketcdn.se/dynamic/default/item/25274258/b3b6ceab-ebd1-477e-ac87-741cdf2bab60"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.95,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +79,13 @@
   "text_sha": "a869d75ec26fcd41"
  },
  "location": "Älvängen",
- "lon": 12.12397,
+ "lon": 12.12,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 834,
   "fetched_ts": 1790507717640,
@@ -104,7 +114,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "250 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25274258",
  "width_cm": 180,
  "year": 1980

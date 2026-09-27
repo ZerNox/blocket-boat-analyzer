@@ -7,6 +7,8 @@
   "boat_year": 1970,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Selco",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25494880/451d1d0c-06bf-422e-a2bf-8ee430de3ba4",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 61.65146,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25494880/451d1d0c-06bf-422e-a2bf-8ee430de3ba4",
+  "https://images.blocketcdn.se/dynamic/default/item/25494880/5807a33a-62d2-446b-9fac-bb87abee6e95",
+  "https://images.blocketcdn.se/dynamic/default/item/25494880/e1bae101-7636-400c-af03-534399a5d560",
+  "https://images.blocketcdn.se/dynamic/default/item/25494880/280daa21-b6fd-4660-9dc1-9039a9824bd7",
+  "https://images.blocketcdn.se/dynamic/default/item/25494880/e6f973ab-4736-4f41-9b03-63a713ba1892",
+  "https://images.blocketcdn.se/dynamic/default/item/25494880/d9a5ac3f-96c4-4696-b0c0-14783d6eec51",
+  "https://images.blocketcdn.se/dynamic/default/item/25494880/e7612921-d843-461a-af21-3fbb626f9b25",
+  "https://images.blocketcdn.se/dynamic/default/item/25494880/a282b906-48a2-4879-933a-72b3ed366a60",
+  "https://images.blocketcdn.se/dynamic/default/item/25494880/7b6d7c4e-4966-4dd7-bd9a-ba268493d228",
+  "https://images.blocketcdn.se/dynamic/default/item/25494880/2c75efa5-4d6d-4172-9eee-ea30d9fd4e89"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 61.65,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +74,13 @@
   "text_sha": "af064dafd58062d5"
  },
  "location": "Iggesund",
- "lon": 17.06655,
+ "lon": 17.07,
  "make": "Selco",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790507923094,
@@ -91,7 +106,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25494880",
  "width_cm": 0,
  "year": 1970

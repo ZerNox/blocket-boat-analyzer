@@ -1,0 +1,126 @@
+{
+ "ad_id": 23524963,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785918003000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1994,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1994,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "* Kapell",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "* Trailer",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Starcraft 565 HT med Mariner 75 hk",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Starcraft 565 HT med Mariner 75 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23524963/ea78dcb1-46d6-4ce5-bac3-ece475d9009b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23524963/ea78dcb1-46d6-4ce5-bac3-ece475d9009b",
+  "https://images.blocketcdn.se/dynamic/default/item/23524963/d05b137f-7f6f-419f-8fbf-081822eda5bc",
+  "https://images.blocketcdn.se/dynamic/default/item/23524963/e72baf01-1931-4204-9a78-c35a84efc57e",
+  "https://images.blocketcdn.se/dynamic/default/item/23524963/54a81ace-3b03-43ff-9c7e-88a08821f502",
+  "https://images.blocketcdn.se/dynamic/default/item/23524963/19be1b71-0175-4cc8-bf9f-c351117847af"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.29,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1994,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "19179e5acc7ea132"
+ },
+ "location": "Ekerö",
+ "lon": 17.83,
+ "make": "Starcraft",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 822,
+  "fetched_ts": 1790522901981,
+  "text_sha": "19179e5acc7ea132"
+ },
+ "price": 57000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 57000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "565 HT",
+  "Modellår": "1994",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Starcraft",
+  "Typ": "Daycruiser",
+  "Vikt": "600 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23524963",
+ "width_cm": 215,
+ "year": 1994
+}

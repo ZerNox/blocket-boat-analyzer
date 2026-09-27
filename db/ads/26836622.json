@@ -1,0 +1,135 @@
+{
+ "ad_id": 26836622,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790195404000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Flipper 515HT byggår 2005 med Mercury 60HK ,trycktank, Batteri, Sjökortsplotter.Ekolod.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Logg Kompl, med fina Dynor och med ett kompl, och bra kapell,",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Flipper 515HT byggår 2005 med Mercury 60HK ,trycktank, Batteri, Sjökortsplotter.Ekolod.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 515HT - HÖSTFYNDA!",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Flipper 515HT - HÖSTFYNDA!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26836622/1c5ada64-1845-47b7-9e47-a4cf81a17526",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26836622/1c5ada64-1845-47b7-9e47-a4cf81a17526",
+  "https://images.blocketcdn.se/dynamic/default/item/26836622/e2859b43-deef-4407-9289-ab93b45c16d2",
+  "https://images.blocketcdn.se/dynamic/default/item/26836622/f887e72e-1566-470f-bf8f-288500377888",
+  "https://images.blocketcdn.se/dynamic/default/item/26836622/984b8b7e-b72c-4e85-b80e-b9f869da61d2",
+  "https://images.blocketcdn.se/dynamic/default/item/26836622/11560ac6-aacc-4b4f-a711-989f28baa5e2",
+  "https://images.blocketcdn.se/dynamic/default/item/26836622/83e5d077-389f-4e56-9647-00b90892fe46",
+  "https://images.blocketcdn.se/dynamic/default/item/26836622/fdb421ba-70c8-488e-a7f5-e9958aa2cd8b",
+  "https://images.blocketcdn.se/dynamic/default/item/26836622/29422663-e876-4d48-b7bc-a863a453f2ce"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.17,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2005,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mercury 60HK ,trycktank, Batteri, Sjökortsplotter.Ekolod. Logg Kompl, med fina Dynor och med ett kompl, och bra kapell",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "777cff4e21dfdab7"
+ },
+ "location": "Södertälje",
+ "lon": 17.65,
+ "make": "Flipper",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 263,
+  "fetched_ts": 1790523226285,
+  "text_sha": "777cff4e21dfdab7"
+ },
+ "price": 89000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 89000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "515 HT",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Daycruiser",
+  "Vikt": "570 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26836622",
+ "width_cm": 205,
+ "year": 2005
+}

@@ -7,6 +7,8 @@
   "boat_year": 1999,
   "boat_year_source": "spec",
   "engine_hours": 95,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden 505 Freestyle med Yamaha 4takt 70hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25430442/c064ea0e-4284-4177-b091-47aeb532f837",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.46267,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25430442/c064ea0e-4284-4177-b091-47aeb532f837",
+  "https://images.blocketcdn.se/dynamic/default/item/25430442/c702fec7-4f49-40b1-848f-1f56052aeb18",
+  "https://images.blocketcdn.se/dynamic/default/item/25430442/af6abf0f-b731-4959-8d62-553e211f8340",
+  "https://images.blocketcdn.se/dynamic/default/item/25430442/c9cd5b96-4f46-44d2-b34b-3d3516e45933",
+  "https://images.blocketcdn.se/dynamic/default/item/25430442/75d80f9c-7e21-4fd1-81ab-d58fda7a61ce",
+  "https://images.blocketcdn.se/dynamic/default/item/25430442/482e3da4-2c87-4e13-992a-e65b9b0b3934",
+  "https://images.blocketcdn.se/dynamic/default/item/25430442/65cf0be7-bf0e-4e67-9381-c55e0bfc900d",
+  "https://images.blocketcdn.se/dynamic/default/item/25430442/643fcc73-15ca-4840-924e-2074c1fde3c8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.46,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -61,12 +73,13 @@
   "text_sha": "394200adc9c2c393"
  },
  "location": "Åkersberga",
- "lon": 18.37734,
+ "lon": 18.38,
  "make": "Askeladden",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 286,
   "fetched_ts": 1790507860033,
@@ -92,7 +105,7 @@
   "Märke": "Askeladden",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25430442",
  "width_cm": 0,
  "year": 1999

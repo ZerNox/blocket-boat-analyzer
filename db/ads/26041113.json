@@ -7,6 +7,8 @@
   "boat_year": 1989,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnsson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds HT med en Johnsson 60hk och Brenderup 850 30vagn – Välutrustad och servad",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26041113/1b698211-e686-46c2-8789-201b99b464ff",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.65683,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26041113/1b698211-e686-46c2-8789-201b99b464ff",
+  "https://images.blocketcdn.se/dynamic/default/item/26041113/e9fc7cb4-2c1e-44f1-a5a9-1ab48a3f27e6",
+  "https://images.blocketcdn.se/dynamic/default/item/26041113/0e648ad6-e4d5-44ec-b791-dfd97688b32e",
+  "https://images.blocketcdn.se/dynamic/default/item/26041113/f272f339-11f2-48e4-a536-844bf9b09975",
+  "https://images.blocketcdn.se/dynamic/default/item/26041113/184fcb8a-da1c-4094-bbed-7c2ba216e066"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.66,
  "length_ft": 480,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +80,13 @@
   "text_sha": "6a13af79d2707ea0"
  },
  "location": "Valbo",
- "lon": 17.05848,
+ "lon": 17.06,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 776,
   "fetched_ts": 1790508410884,
@@ -100,7 +110,7 @@
   "Märke": "Ryds",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26041113",
  "width_cm": 0,
  "year": 1989

@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 434",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25612769/b45f9ed4-2972-4c31-9764-2a7648ddd47f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.64971,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25612769/b45f9ed4-2972-4c31-9764-2a7648ddd47f",
+  "https://images.blocketcdn.se/dynamic/default/item/25612769/7ac410dc-171c-4fc0-9a25-8e6b719d42c2",
+  "https://images.blocketcdn.se/dynamic/default/item/25612769/d4b00dcb-9641-4749-bbba-4a5bd0030bca",
+  "https://images.blocketcdn.se/dynamic/default/item/25612769/71417246-3634-48c8-86e7-e4c0bfa88119",
+  "https://images.blocketcdn.se/dynamic/default/item/25612769/7857f376-6858-48b6-9031-8e2fa1f49672"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.65,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "f10c1e192d26687d"
  },
  "location": "Kalmar",
- "lon": 16.28299,
+ "lon": 16.28,
  "make": "Crescent",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 209,
   "fetched_ts": 1790508049429,
@@ -95,7 +105,7 @@
   "Toppfart": "25 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25612769",
  "width_cm": 172,
  "year": 1985

@@ -1,0 +1,73 @@
+{
+ "ad_id": 24773889,
+ "boat_class": "Annat",
+ "changed_ts": 1789115537000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2015,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Allmogeräser",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24773889/9dd63f33-ec92-496a-8b62-9f8c365eda9b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24773889/9dd63f33-ec92-496a-8b62-9f8c365eda9b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.84,
+ "length_ft": 15,
+ "location": "Trosa",
+ "lon": 17.6,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 228,
+  "fetched_ts": 1790520644942,
+  "text_sha": "fed7169541a51a27"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Grå",
+  "Längd i fot": "15 fot",
+  "Modell": "Allmogebåt",
+  "Modellår": "2015",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Trä",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/24773889",
+ "width_cm": 0,
+ "year": 2015
+}

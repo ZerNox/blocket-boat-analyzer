@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 480 med 20hk Johnson",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25828052/5e421a1e-b27b-4680-a6c3-9b548a26df34",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.25096,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25828052/5e421a1e-b27b-4680-a6c3-9b548a26df34",
+  "https://images.blocketcdn.se/dynamic/default/item/25828052/e21d5aa4-db25-446a-ad4c-68777388a205",
+  "https://images.blocketcdn.se/dynamic/default/item/25828052/757f9be9-aab0-495e-b2b0-3bffa67ff9fe",
+  "https://images.blocketcdn.se/dynamic/default/item/25828052/de18e689-fd1c-47a4-9186-07e4147c54be",
+  "https://images.blocketcdn.se/dynamic/default/item/25828052/989f64cc-59b6-4d8a-b7a2-f73fabb366a9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.25,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "176c716ad01f0921"
  },
  "location": "Arnäsvall",
- "lon": 18.96057,
+ "lon": 18.96,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508228350,
@@ -96,7 +106,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "215 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25828052",
  "width_cm": 186,
  "year": 1980

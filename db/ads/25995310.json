@@ -7,6 +7,8 @@
   "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -30,8 +32,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "fiskebåt och liten familjebåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25995310/9650be50-e46a-4063-8733-4bdfa401a370",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.55282,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25995310/9650be50-e46a-4063-8733-4bdfa401a370",
+  "https://images.blocketcdn.se/dynamic/default/item/25995310/b2e484a5-4385-430b-ae42-2bf19c45db7a",
+  "https://images.blocketcdn.se/dynamic/default/item/25995310/43957522-957b-4aed-b7b0-b6bc64609b74",
+  "https://images.blocketcdn.se/dynamic/default/item/25995310/f9339792-0f99-4f21-bd86-9bd795f2f3a7",
+  "https://images.blocketcdn.se/dynamic/default/item/25995310/c08084e2-7db6-4080-8285-caf0ece78b34",
+  "https://images.blocketcdn.se/dynamic/default/item/25995310/3abd877f-b185-4273-9856-fcc67cc50a17"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.55,
  "length_ft": 480,
  "llm": {
   "at": "2026-09-27",
@@ -62,12 +72,13 @@
   "text_sha": "d1e6d8377a8e890e"
  },
  "location": "Bålsta",
- "lon": 17.55858,
+ "lon": 17.56,
  "make": "HR",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 142,
   "fetched_ts": 1790508366654,
@@ -97,7 +108,7 @@
   "Toppfart": "30 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25995310",
  "width_cm": 210,
  "year": 2010

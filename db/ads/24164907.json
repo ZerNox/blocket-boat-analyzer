@@ -1,0 +1,119 @@
+{
+ "ad_id": 24164907,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1789902389000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1974,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1974,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Lillskär 19-HÖSTPRIS INKL BÅTSLÄP",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24164907/2dab12c0-a438-45cf-a1a9-1483c5c41bdf",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24164907/2dab12c0-a438-45cf-a1a9-1483c5c41bdf",
+  "https://images.blocketcdn.se/dynamic/default/item/24164907/129dddf7-3dba-46f0-98e5-20d728f95b5e",
+  "https://images.blocketcdn.se/dynamic/default/item/24164907/7d024fea-a703-4988-b6dd-4812d3a90f1b",
+  "https://images.blocketcdn.se/dynamic/default/item/24164907/cda6df77-d0ab-4196-9551-193bfb9687a7",
+  "https://images.blocketcdn.se/dynamic/default/item/24164907/3fa35e08-490c-4763-96d2-74277fe8c217",
+  "https://images.blocketcdn.se/dynamic/default/item/24164907/41e94c22-47f2-47f6-b333-486a6401eeeb"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.2,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1974,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "124a2727e9767423"
+ },
+ "location": "Karlskrona",
+ "lon": 15.63,
+ "make": "Johnson",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 209,
+  "fetched_ts": 1790522927638,
+  "text_sha": "124a2727e9767423"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modellår": "1974",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Johnson",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "3",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24164907",
+ "width_cm": 220,
+ "year": 1974
+}

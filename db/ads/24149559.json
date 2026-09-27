@@ -1,0 +1,138 @@
+{
+ "ad_id": 24149559,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1786958694000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2004,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod raymarine.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Delbart kapell( tyvärr ett litet hål i taket 2x2cm..",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Båten har autopilot raymarine.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Kärra respo 1200kg 2020 årsmodell.",
+    "included": true,
+    "year": 2020
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Scorpio 540 aluminiumbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24149559/ac7a760d-35d2-49e6-aba8-c25bd095effd",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24149559/ac7a760d-35d2-49e6-aba8-c25bd095effd",
+  "https://images.blocketcdn.se/dynamic/default/item/24149559/40257c11-6771-4c2f-a41d-33d3086c5c6f",
+  "https://images.blocketcdn.se/dynamic/default/item/24149559/6b686ac0-fd5b-4c0d-9c43-46552819ba71",
+  "https://images.blocketcdn.se/dynamic/default/item/24149559/b793bd64-e084-4a07-a591-bf5acc66d557",
+  "https://images.blocketcdn.se/dynamic/default/item/24149559/03d7e013-40c3-48f3-a4c9-80e4cdff31b2",
+  "https://images.blocketcdn.se/dynamic/default/item/24149559/f1da10a9-58f1-4a7f-9a53-657575157d4c",
+  "https://images.blocketcdn.se/dynamic/default/item/24149559/06f34ccd-8e5e-4a2d-9ee7-16a3c8a45712",
+  "https://images.blocketcdn.se/dynamic/default/item/24149559/fdc69663-3d15-40ad-a612-07db73b3adf3"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.34,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2004,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Kjärra respo 1200kg 2020 årsmodell. Ny besiktad. Motor vet ej exakt men 96-97.a.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "66718d232b8de88b"
+ },
+ "location": "Karlskoga",
+ "lon": 14.5,
+ "make": "Scorpion",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 545,
+  "fetched_ts": 1790522923670,
+  "text_sha": "66718d232b8de88b"
+ },
+ "price": 95000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 95000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "540",
+  "Modellår": "2004",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Scorpion",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Aluminium",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24149559",
+ "width_cm": 0,
+ "year": 2004
+}

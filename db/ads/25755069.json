@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -37,16 +39,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 465 Trader (Cremo ) Tohatsu 25 hp elstart,  årsmodell 2000.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25755069/bf56d675-48f9-4b14-a1e3-ce2fa3b037e3",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.35968,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25755069/bf56d675-48f9-4b14-a1e3-ce2fa3b037e3",
+  "https://images.blocketcdn.se/dynamic/default/item/25755069/7f225ba7-9037-423c-a8d8-76aba6ad8347"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.36,
  "length_ft": 15,
  "location": "Vänersborg",
- "lon": 12.31751,
+ "lon": 12.32,
  "make": "Crescent",
  "max_speed": 22,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 459,
   "fetched_ts": 1790508155995,
@@ -76,7 +83,7 @@
   "Toppfart": "22 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25755069",
  "width_cm": 200,
  "year": 2000

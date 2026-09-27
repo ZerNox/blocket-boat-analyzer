@@ -1,0 +1,116 @@
+{
+ "ad_id": 22169573,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1787492916000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Örnvik 530 Flamingo med Mercury 60hk 2007.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Komradio Cobra, Lowrance LMS-330 Gps/plotter/ekolod, radio och cd.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Komradio Cobra, Lowrance LMS-330 Gps/plotter/ekolod, radio och cd.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Komradio Cobra, Lowrance LMS-330 Gps/plotter/ekolod, radio och cd.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Tikitrailer 80/kmh -2008.",
+    "included": true,
+    "year": 2008
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Örnvik 530"
+ ],
+ "heading": "Örnvik 530 Flamingo med Mercury 60hk 2007",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22169573/c9b91f29-ff15-4161-bc9f-bf6fe48a1ed3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22169573/c9b91f29-ff15-4161-bc9f-bf6fe48a1ed3",
+  "https://images.blocketcdn.se/dynamic/default/item/22169573/9557f6d0-d358-4ad5-8480-81a5275280df",
+  "https://images.blocketcdn.se/dynamic/default/item/22169573/df91ba01-b3f3-4585-a02c-7e051af45cd9",
+  "https://images.blocketcdn.se/dynamic/default/item/22169573/87f57e51-2c7e-4c93-8352-71340f7f55dd",
+  "https://images.blocketcdn.se/dynamic/default/item/22169573/c9e61299-3f80-48c1-a86d-3a9f01c9178c",
+  "https://images.blocketcdn.se/dynamic/default/item/22169573/3166aeaa-bc46-4282-b1fe-1acc58a9eac7",
+  "https://images.blocketcdn.se/dynamic/default/item/22169573/95eda6cf-8c47-4824-bf11-40d8dade2abe",
+  "https://images.blocketcdn.se/dynamic/default/item/22169573/8c5816a8-ad99-4816-9b86-0f6ef102d52b",
+  "https://images.blocketcdn.se/dynamic/default/item/22169573/8c2a4f63-a916-4ee7-a268-694cd8ea1c1a",
+  "https://images.blocketcdn.se/dynamic/default/item/22169573/ebdb25ef-da0b-487e-b834-878911a99787",
+  "https://images.blocketcdn.se/dynamic/default/item/22169573/024a9b78-45b8-4d2c-865f-e6ecef283895",
+  "https://images.blocketcdn.se/dynamic/default/item/22169573/52edf967-b4d5-41cb-80d1-30f948a32761"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.53,
+ "length_ft": 18,
+ "location": "Västerås",
+ "lon": 16.55,
+ "make": "Örnvik",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 168,
+  "fetched_ts": 1790522865514,
+  "text_sha": "6e6a3442d78607d6"
+ },
+ "price": 165000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 165000
+  }
+ ],
+ "specs": {
+  "Bredd": "215239 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "530 Flamingo",
+  "Modellår": "2007",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22169573",
+ "width_cm": 215239,
+ "year": 2007
+}

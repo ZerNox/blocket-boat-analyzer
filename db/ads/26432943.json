@@ -1,0 +1,101 @@
+{
+ "ad_id": 26432943,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788889354000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1984,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "honda bf 90 -1997",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1997,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: honda bf 90 -1997",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell: Stora akterkapellet är i mycket fint skick, endast kört 2 säsonger. (Det mindre kapellet över förruffen/luckan …",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Honda bf-90hk 4-takt -1997 & nybesiktigad 80-trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "änger säsongen och håller ruffen varm och torr under kyliga nätter.\nPentry: Spritkök för enkel och säker m",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Flipper 620 (1984) – Honda bf-90hk 4-takt -1997 & nybesiktigad 80-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26432943/5803860c-9b3b-4232-a0f1-9a416b127077",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26432943/5803860c-9b3b-4232-a0f1-9a416b127077",
+  "https://images.blocketcdn.se/dynamic/default/item/26432943/d86a7d09-127d-4231-8f31-b464acb961ee",
+  "https://images.blocketcdn.se/dynamic/default/item/26432943/87d27fda-6fa6-49da-b1ee-a938f00be87b",
+  "https://images.blocketcdn.se/dynamic/default/item/26432943/cffb7fc3-5dcc-4bf3-8378-af18674e5145",
+  "https://images.blocketcdn.se/dynamic/default/item/26432943/abb592d7-7a1c-44ac-8a70-bb16e7f7d732"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.9,
+ "length_ft": 20,
+ "location": "Trosa",
+ "lon": 17.54,
+ "make": "Flipper",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1317,
+  "fetched_ts": 1790523166467,
+  "text_sha": "ca6b5ef4e201380a"
+ },
+ "price": 69000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69000
+  }
+ ],
+ "specs": {
+  "Bredd": "240 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modell": "620",
+  "Modellår": "1984",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "honda bf 90 -1997",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Toppfart": "28 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "1 000 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26432943",
+ "width_cm": 240,
+ "year": 1984
+}

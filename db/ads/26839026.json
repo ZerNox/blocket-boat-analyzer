@@ -7,6 +7,8 @@
   "boat_year": 2008,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 435 DL",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26839026/36608e2b-a7ea-46bc-939a-3900f302f9c1",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.38658,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26839026/36608e2b-a7ea-46bc-939a-3900f302f9c1",
+  "https://images.blocketcdn.se/dynamic/default/item/26839026/14a56999-85cd-4a93-a520-4317d461c1b6",
+  "https://images.blocketcdn.se/dynamic/default/item/26839026/8fa586f7-82b9-43d1-9068-58e6c1776080",
+  "https://images.blocketcdn.se/dynamic/default/item/26839026/64a8021b-f9ae-4947-b7e7-52fd330fee69"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.39,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "aad2851fe4265c2f"
  },
  "location": "Vänersborg",
- "lon": 12.32589,
+ "lon": 12.33,
  "make": "Ryds",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 198,
   "fetched_ts": 1790508971805,
@@ -96,7 +105,7 @@
   "Toppfart": "20 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26839026",
  "width_cm": 0,
  "year": 2008

@@ -1,0 +1,79 @@
+{
+ "ad_id": 26791903,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790063879000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Jolle med kärra",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Jolle med kärra",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26791903/03e54397-923b-4d59-a468-f2a089c77b19",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26791903/03e54397-923b-4d59-a468-f2a089c77b19",
+  "https://images.blocketcdn.se/dynamic/default/item/26791903/4df25f7a-fe20-4c1a-9109-fd4fe9a71613",
+  "https://images.blocketcdn.se/dynamic/default/item/26791903/7fe95383-d46e-41b4-a326-b21c79a16036"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.72,
+ "length_ft": 8,
+ "location": "Knivsta",
+ "lon": 17.81,
+ "make": "Europajolle",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 223,
+  "fetched_ts": 1790521059292,
+  "text_sha": "e6719c23aa316f3c"
+ },
+ "price": 2000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 2000
+  }
+ ],
+ "specs": {
+  "Bredd": "135 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "8 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Nej",
+  "Märke": "Europajolle",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26791903",
+ "width_cm": 135,
+ "year": 1980
+}

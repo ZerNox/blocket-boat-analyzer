@@ -1,0 +1,120 @@
+{
+ "ad_id": 25973348,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1787498991000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": 70,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercery",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Flipper 515",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25973348/2452dace-7e26-447b-b50e-9f38ff234459",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25973348/2452dace-7e26-447b-b50e-9f38ff234459",
+  "https://images.blocketcdn.se/dynamic/default/item/25973348/aab78c30-3295-4a5c-b99a-23952fcd4d1c",
+  "https://images.blocketcdn.se/dynamic/default/item/25973348/289b8f4b-d56d-4c7c-becc-42645fc3b632",
+  "https://images.blocketcdn.se/dynamic/default/item/25973348/bc3308aa-9608-4624-9715-dc0772f1f842"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.17,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": 70,
+   "engine_hp": 60,
+   "engine_maker": "Mercery",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "932bfeebe3837144"
+ },
+ "location": "Brandbergen",
+ "lon": 18.18,
+ "make": "Flipper",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 57,
+  "fetched_ts": 1790523092482,
+  "text_sha": "932bfeebe3837144"
+ },
+ "price": 99000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 99000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit/blå",
+  "Längd i fot": "17 fot",
+  "Modell": "515",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercery",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "27 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25973348",
+ "width_cm": 205,
+ "year": 2006
+}

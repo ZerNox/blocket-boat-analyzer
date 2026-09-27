@@ -1,0 +1,76 @@
+{
+ "ad_id": 21722917,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786356683000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "leak"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Helt ny Gummibåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21722917/ae2ecc39-db1a-4870-8aa0-5c940778f7a0",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21722917/ae2ecc39-db1a-4870-8aa0-5c940778f7a0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.24,
+ "length_ft": 7,
+ "location": "Ingarö",
+ "lon": 18.47,
+ "make": "Seabird",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 296,
+  "fetched_ts": 1790520589573,
+  "text_sha": "5c533af7003f351a"
+ },
+ "price": 4000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Grå,Vit,Svart",
+  "Längd i fot": "7 fot",
+  "Modell": "230",
+  "Modellår": "2025",
+  "Motor inkluderad": "Nej",
+  "Märke": "Seabird",
+  "Sittplatser": "1",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/21722917",
+ "width_cm": 0,
+ "year": 2025
+}

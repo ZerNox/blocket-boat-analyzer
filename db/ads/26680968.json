@@ -1,0 +1,112 @@
+{
+ "ad_id": 26680968,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789801747000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": 327,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Grisslan 600 AC (1976) med Mercury 60 hk 4-takt (2018).",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "obust Grisslan 600 AC med akterhytt med modern Mercury 60 hk fyrtaktsmotor från 2018. Ett bra alternativ f",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "engine type unknown"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori",
+  "Grisslan 600"
+ ],
+ "heading": "Grisslan 600 AC (1976) med Mercury 60 hk 4-takt (2018)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26680968/97aa1ac1-a8d6-4f32-9b2d-c8882f3a32a7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26680968/97aa1ac1-a8d6-4f32-9b2d-c8882f3a32a7",
+  "https://images.blocketcdn.se/dynamic/default/item/26680968/cd1a2c02-0014-4a02-94e9-595ce36e9aaf",
+  "https://images.blocketcdn.se/dynamic/default/item/26680968/e1f2b518-a617-4761-a151-4e404c7db950",
+  "https://images.blocketcdn.se/dynamic/default/item/26680968/3b52e694-91b0-42eb-8c65-a0a76eba07c4",
+  "https://images.blocketcdn.se/dynamic/default/item/26680968/96abcaa5-cd11-4c93-a449-96cf53ff66ed",
+  "https://images.blocketcdn.se/dynamic/default/item/26680968/98de5f89-31d1-4f9a-9df8-ef2bb658a2ee"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.71,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1976,
+   "engine_hours": 327,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": 2018,
+   "engine_year_evidence": "Mercury 60 hk ELPT, 4-takt, årsmodell 2018",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5548b8959cf7d994"
+ },
+ "location": "Gräddö",
+ "lon": 19.26,
+ "make": "Grisslan",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 1044,
+  "fetched_ts": 1790521033742,
+  "text_sha": "5548b8959cf7d994"
+ },
+ "price": 74000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 74000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "20 fot",
+  "Modell": "600 AC",
+  "Modellår": "1976",
+  "Motor inkluderad": "Ja",
+  "Märke": "Grisslan",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26680968",
+ "width_cm": 0,
+ "year": 1976
+}

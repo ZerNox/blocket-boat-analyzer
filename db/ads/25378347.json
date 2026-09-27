@@ -7,6 +7,8 @@
   "boat_year": 2007,
   "boat_year_source": "spec",
   "engine_hours": 227,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -38,8 +40,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Yamarin 50SC/Yamaha 60hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25378347/9dd5c228-776c-4bdd-a687-822ceba2e3a2",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.52214,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25378347/9dd5c228-776c-4bdd-a687-822ceba2e3a2",
+  "https://images.blocketcdn.se/dynamic/default/item/25378347/97f5301b-805a-4586-867e-2fd79ae3f1cf",
+  "https://images.blocketcdn.se/dynamic/default/item/25378347/8019a709-374a-497e-8e41-c1823f9043c9",
+  "https://images.blocketcdn.se/dynamic/default/item/25378347/37d3cedc-71c1-4049-b9c3-06c7308b64ee",
+  "https://images.blocketcdn.se/dynamic/default/item/25378347/b12b5b39-a68f-44ee-8174-b254e1864da1",
+  "https://images.blocketcdn.se/dynamic/default/item/25378347/45c0693e-c628-402c-bcf4-c14daae2cf90"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.52,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +79,13 @@
   "text_sha": "7463865005fdae3b"
  },
  "location": "Kinna",
- "lon": 12.72569,
+ "lon": 12.73,
  "make": "Yamarin",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 935,
   "fetched_ts": 1790507821590,
@@ -103,7 +114,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "500 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25378347",
  "width_cm": 204,
  "year": 2007

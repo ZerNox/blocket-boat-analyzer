@@ -1,0 +1,73 @@
+{
+ "ad_id": 26210219,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788264517000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2016,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "AquaSmart Light 2.40 m Gummibåt med pump. åror och väska.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26210219/1c27d9bc-7e2a-4b49-aed1-41f82b07d67d",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26210219/1c27d9bc-7e2a-4b49-aed1-41f82b07d67d",
+  "https://images.blocketcdn.se/dynamic/default/item/26210219/1085d2d9-38c0-4c97-9cbe-c54062a7732d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.42,
+ "length_ft": 8,
+ "location": "Djursholm",
+ "lon": 18.08,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 103,
+  "fetched_ts": 1790520922999,
+  "text_sha": "05e157a0157d2fd7"
+ },
+ "price": 3000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 3000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "8 fot",
+  "Modell": "AquaSmart Light 2.40 m Gummibåt med pump. åror och väska",
+  "Modellår": "2016",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Sittplatser": "3",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26210219",
+ "width_cm": 0,
+ "year": 2016
+}

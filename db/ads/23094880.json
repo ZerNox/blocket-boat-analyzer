@@ -1,0 +1,123 @@
+{
+ "ad_id": 23094880,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788535761000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Plotter",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Stabil 30 Trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Uttern 590"
+ ],
+ "heading": "Uttern 590",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23094880/6c030ef4-b76b-4929-9c87-1696fdb819cf",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23094880/6c030ef4-b76b-4929-9c87-1696fdb819cf",
+  "https://images.blocketcdn.se/dynamic/default/item/23094880/25358cc9-bd48-4781-ab20-14f2ece10247",
+  "https://images.blocketcdn.se/dynamic/default/item/23094880/8a5e2418-ce21-434c-870a-e1577154c204",
+  "https://images.blocketcdn.se/dynamic/default/item/23094880/bc57f1b5-f27d-4f6b-ba20-d08cfa7f43a7",
+  "https://images.blocketcdn.se/dynamic/default/item/23094880/ab929cce-05fa-480a-8d35-33c54d24a38f"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.2,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9fbe29bdea5e3bfb"
+ },
+ "location": "Mörrum",
+ "lon": 14.74,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 60,
+  "fetched_ts": 1790522884101,
+  "text_sha": "9fbe29bdea5e3bfb"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modell": "590",
+  "Modellår": "1985",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23094880",
+ "width_cm": 0,
+ "year": 1985
+}

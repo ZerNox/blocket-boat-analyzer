@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -46,8 +48,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Hardtopbåt i Strängnäs",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25384144/a348d452-a076-4213-8067-14d074c3b7e0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.37362,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25384144/a348d452-a076-4213-8067-14d074c3b7e0",
+  "https://images.blocketcdn.se/dynamic/default/item/25384144/59c47d79-debc-4af2-9b83-7325bffbc4ac",
+  "https://images.blocketcdn.se/dynamic/default/item/25384144/bae4de1a-7c94-4925-bc4d-48270f92b433",
+  "https://images.blocketcdn.se/dynamic/default/item/25384144/1098e26a-b990-4173-8651-fa45f31abf45",
+  "https://images.blocketcdn.se/dynamic/default/item/25384144/685bb1b7-fdaa-4598-aa22-d3772cd08ab7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.37,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -77,12 +86,13 @@
   "text_sha": "905a57ceb8fabf8e"
  },
  "location": "Strängnäs",
- "lon": 17.01929,
+ "lon": 17.02,
  "make": "Lami",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 899,
   "fetched_ts": 1790507827112,
@@ -110,7 +120,7 @@
   "Sovplatser": "2",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25384144",
  "width_cm": 185,
  "year": 1980

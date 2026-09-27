@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 478 GT med 80-släp. Mercury 60 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26334238/de185ef1-798c-45b8-828a-fdaa49d3e7ff",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.2212,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26334238/de185ef1-798c-45b8-828a-fdaa49d3e7ff",
+  "https://images.blocketcdn.se/dynamic/default/item/26334238/e38ce12f-90bf-4702-bb27-a59047ded971",
+  "https://images.blocketcdn.se/dynamic/default/item/26334238/4a39cb2f-2c38-46e8-bf10-81733a56a702",
+  "https://images.blocketcdn.se/dynamic/default/item/26334238/7bb48986-92eb-4f77-9def-ad03cda827f6",
+  "https://images.blocketcdn.se/dynamic/default/item/26334238/33c9a168-1c9d-48ac-81f6-f427db7f691c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.22,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +79,13 @@
   "text_sha": "5bbd048d1bc04cbd"
  },
  "location": "Brokind",
- "lon": 15.68001,
+ "lon": 15.68,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 468,
   "fetched_ts": 1790508607136,
@@ -102,7 +112,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26334238",
  "width_cm": 0,
  "year": 2006

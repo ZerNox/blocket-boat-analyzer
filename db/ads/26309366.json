@@ -7,6 +7,8 @@
   "boat_year": 2022,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fiskebåt Alloycraft J410 Yamaha 25hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26309366/68b0b1f6-1be0-4106-b741-b59ee6bbeb94",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.39214,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26309366/68b0b1f6-1be0-4106-b741-b59ee6bbeb94",
+  "https://images.blocketcdn.se/dynamic/default/item/26309366/276e6071-67ce-499b-8ea3-9f510db8094a",
+  "https://images.blocketcdn.se/dynamic/default/item/26309366/8aa11bd5-e298-4153-af0f-fc4f80b7e8a6",
+  "https://images.blocketcdn.se/dynamic/default/item/26309366/f85360ab-603f-439a-a273-6a6e1cec674c",
+  "https://images.blocketcdn.se/dynamic/default/item/26309366/cb1269a8-6724-4cfe-97fc-a84bf82c6a15",
+  "https://images.blocketcdn.se/dynamic/default/item/26309366/02aa9e8c-a23d-4142-b30d-c087e3e9014f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.39,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "cf58d6b9ed33530c"
  },
  "location": "Sundsvall",
- "lon": 17.28719,
+ "lon": 17.29,
  "make": "Alloycraft",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508590400,
@@ -93,7 +104,7 @@
   "Toppfart": "25 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26309366",
  "width_cm": 0,
  "year": 2022

@@ -1,0 +1,103 @@
+{
+ "ad_id": 26598290,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789416146000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo Penta 2003T",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Volvo Penta 2003T",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "ekolod": {
+    "evidence": "* Navigation: Garmin echomap 720 med ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "* Kapell: Kapellet är slitet och kan behöva ses över eller bytas på sikt.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "* Navigation: Garmin echomap 720 med ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "* Tillval: Möjlighet finns att köpa till en nytillverkad kärra för 5 000 kr.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "n fantastisk bruksbåt med hytt, rymlig ruff och god komfort som förlänger båtsäsongen tack vare den inbygg",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Pollux 21.  Fiskeversion",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26598290/b5a0a77f-3758-407f-ae4c-d5faf93aa105",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26598290/b5a0a77f-3758-407f-ae4c-d5faf93aa105",
+  "https://images.blocketcdn.se/dynamic/default/item/26598290/cb6cd07c-7922-4f18-95e9-3b90f4da2a70",
+  "https://images.blocketcdn.se/dynamic/default/item/26598290/7883f2f4-8069-4f3b-bfba-9d591d2d019a"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.85,
+ "length_ft": 21,
+ "location": "Kärna",
+ "lon": 11.81,
+ "make": "Övriga",
+ "max_speed": 6,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 1191,
+  "fetched_ts": 1790521019730,
+  "text_sha": "14194424f3d7b528"
+ },
+ "price": 50000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 50000
+  }
+ ],
+ "specs": {
+  "Bredd": "240 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "21 fot",
+  "Modell": "Pollux 21",
+  "Modellår": "1979",
+  "Motortillverkare": "Volvo Penta 2003T",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "6 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26598290",
+ "width_cm": 240,
+ "year": 1979
+}

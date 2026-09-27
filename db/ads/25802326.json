@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -18,6 +20,10 @@
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -27,10 +33,25 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Ryds Camping 70 HK Johnson",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25802326/c8410976-87b1-4636-bf60-37fbd90742bc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.58223,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25802326/c8410976-87b1-4636-bf60-37fbd90742bc",
+  "https://images.blocketcdn.se/dynamic/default/item/25802326/b779e1d4-bfeb-4d1a-a16b-0e36fcbcb970",
+  "https://images.blocketcdn.se/dynamic/default/item/25802326/1ec1f0d7-c404-4e93-9a6e-1efd0326cf10",
+  "https://images.blocketcdn.se/dynamic/default/item/25802326/dbd38130-4b46-4e23-9bd9-89620bddb81b",
+  "https://images.blocketcdn.se/dynamic/default/item/25802326/a7874dc6-3c66-408d-bd85-019de00833db",
+  "https://images.blocketcdn.se/dynamic/default/item/25802326/d5f16793-040d-463d-9a9f-f55a8033cceb",
+  "https://images.blocketcdn.se/dynamic/default/item/25802326/a562e33e-c449-4546-9428-13f5027f2a1a",
+  "https://images.blocketcdn.se/dynamic/default/item/25802326/97513380-31a0-4a05-ae71-c136e942e973",
+  "https://images.blocketcdn.se/dynamic/default/item/25802326/d3cd3fec-f759-4910-9a0a-55ac08acd6b1",
+  "https://images.blocketcdn.se/dynamic/default/item/25802326/868fb782-703c-4689-928f-f6261c45cb71"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.58,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -60,7 +81,7 @@
   "text_sha": "3d20516d66905d19"
  },
  "location": "Rosersberg",
- "lon": 17.88614,
+ "lon": 17.89,
  "make": "Ryds",
  "max_speed": 20,
  "motor_fuel": "Bensin",

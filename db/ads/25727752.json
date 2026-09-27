@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Jhonson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sportbåt/Styrpulpet inkl motor 70HK",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25727752/90f31794-3f72-4ffb-8327-7fb2d7d70333",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.53326,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25727752/90f31794-3f72-4ffb-8327-7fb2d7d70333",
+  "https://images.blocketcdn.se/dynamic/default/item/25727752/b2cae52d-0d69-4655-b3a5-7abc0a400807",
+  "https://images.blocketcdn.se/dynamic/default/item/25727752/f85adbce-7e32-4ccc-82f1-4f4c5164441c",
+  "https://images.blocketcdn.se/dynamic/default/item/25727752/415e9bde-56db-414d-81ed-eda90c8025b8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.53,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "f1711d89a842d134"
  },
  "location": "Tingsryd",
- "lon": 14.9651,
+ "lon": 14.97,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 395,
   "fetched_ts": 1790508141254,
@@ -97,7 +106,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25727752",
  "width_cm": 205,
  "year": 1985

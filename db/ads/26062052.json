@@ -1,0 +1,102 @@
+{
+ "ad_id": 26062052,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787768794000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Bayliner 2755 Ciera Sunbridge",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26062052/b770d273-5017-4bd1-b787-1ca6ad48ee0b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26062052/b770d273-5017-4bd1-b787-1ca6ad48ee0b",
+  "https://images.blocketcdn.se/dynamic/default/item/26062052/50437142-4de7-406e-a0e4-3a49164eba65",
+  "https://images.blocketcdn.se/dynamic/default/item/26062052/ddeb3e2b-429c-44fb-b4ca-56f2aaaef560"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.18,
+ "length_ft": 27,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1989,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "null",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "efdd1a2fef20bbf1"
+ },
+ "location": "Ramsjö",
+ "lon": 15.6,
+ "make": "Bayliner",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 98,
+  "fetched_ts": 1790520885209,
+  "text_sha": "efdd1a2fef20bbf1"
+ },
+ "price": 89000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 89000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "27 fot",
+  "Modellår": "1989",
+  "Motortyp": "Inombordare",
+  "Märke": "Bayliner",
+  "Typ": "Hyttbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26062052",
+ "width_cm": 0,
+ "year": 1989
+}

@@ -7,6 +7,8 @@
   "boat_year": 2022,
   "boat_year_source": "spec",
   "engine_hours": 20,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Micore XW 48",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24231513/da9b1e6a-77a2-4d6a-9ee4-499edc31ba98",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.63601,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24231513/da9b1e6a-77a2-4d6a-9ee4-499edc31ba98",
+  "https://images.blocketcdn.se/dynamic/default/item/24231513/ac286c88-c22e-4dee-afe5-185a0104437f",
+  "https://images.blocketcdn.se/dynamic/default/item/24231513/7bbfcd7b-abf6-42c4-9505-af87c085360e",
+  "https://images.blocketcdn.se/dynamic/default/item/24231513/da6efab7-b64a-4de3-b733-2dff2ef546a4",
+  "https://images.blocketcdn.se/dynamic/default/item/24231513/2b58490b-2656-42be-9d25-b60d1fb93b24"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.64,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +79,13 @@
   "text_sha": "615f012c8f382f52"
  },
  "location": "Ljungbyholm",
- "lon": 16.18755,
+ "lon": 16.19,
  "make": "Micore",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 171,
   "fetched_ts": 1790507580397,
@@ -106,7 +116,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "400 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24231513",
  "width_cm": 200,
  "year": 2022

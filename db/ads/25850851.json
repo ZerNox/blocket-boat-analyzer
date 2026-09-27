@@ -1,0 +1,116 @@
+{
+ "ad_id": 25850851,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787145351000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2024,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "MinnKota terrova BT55",
+  "engine_stroke": null,
+  "engine_type": "electric",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2024,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Har en frontmonterad Minnkota terrova (BT 55 US2 IPLINK 54 ipilot) med snabbfäste till och batteri 115ah (Nordmax).",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Utan trailer eller sjösättnings vagn.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Nakhoda NJ1450 BASS",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25850851/f809e378-f6f1-4667-84bf-0bd97eafabdd",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25850851/f809e378-f6f1-4667-84bf-0bd97eafabdd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.55,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2024,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "MinnKota",
+   "engine_type": "electric",
+   "engine_year": null,
+   "engine_year_evidence": "Rek. Motor 40 hk. lång rigg. Vikt 160 kg Längd 4,30m Bredd 1,70m",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "62551f696584ce4f"
+ },
+ "location": "Sätila",
+ "lon": 12.43,
+ "make": "Nakhoda",
+ "max_speed": null,
+ "motor_fuel": "Elektrisk",
+ "motor_size": null,
+ "motor_type": "Annat",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 510,
+  "fetched_ts": 1790520848761,
+  "text_sha": "62551f696584ce4f"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Elektrisk",
+  "Längd i fot": "14 fot",
+  "Modell": "NJ1450 BASS",
+  "Modellår": "2024",
+  "Motortillverkare": "MinnKota terrova BT55",
+  "Motortyp": "Annat",
+  "Märke": "Nakhoda",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "160 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25850851",
+ "width_cm": 170,
+ "year": 2024
+}

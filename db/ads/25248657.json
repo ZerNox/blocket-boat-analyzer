@@ -7,6 +7,8 @@
   "boat_year": 2015,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Pacific Craft Open 500",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25248657/ca23c525-89c5-4573-bb5b-7c8f2169511b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.77173,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25248657/ca23c525-89c5-4573-bb5b-7c8f2169511b",
+  "https://images.blocketcdn.se/dynamic/default/item/25248657/a5567850-c24a-4425-81f7-cb153758b543",
+  "https://images.blocketcdn.se/dynamic/default/item/25248657/d26ba846-cd1b-4a2d-b957-ad1bd00a31e6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.77,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "d7b09aa3598ec7ee"
  },
  "location": "Skultuna",
- "lon": 16.34368,
+ "lon": 16.34,
  "make": "Pacific Craft",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790507687655,
@@ -89,7 +97,7 @@
   "Sittplatser": "5",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25248657",
  "width_cm": 0,
  "year": 2015

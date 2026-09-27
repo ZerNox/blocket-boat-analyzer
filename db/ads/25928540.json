@@ -7,6 +7,8 @@
   "boat_year": 1960,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -36,8 +38,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Kråken båt från Nordmaling",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25928540/6b5820d1-69a5-4515-ad90-2d28134a917d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.54387,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25928540/6b5820d1-69a5-4515-ad90-2d28134a917d",
+  "https://images.blocketcdn.se/dynamic/default/item/25928540/8e93ffa8-79f0-46d4-9d1b-0c24d911d4ec",
+  "https://images.blocketcdn.se/dynamic/default/item/25928540/3fc1ab9a-5cb7-4124-8994-14a9b55358f7",
+  "https://images.blocketcdn.se/dynamic/default/item/25928540/0246de8f-6ccc-43fb-afd9-3a6617333d2a",
+  "https://images.blocketcdn.se/dynamic/default/item/25928540/1fcc83b8-e66e-44d2-9fd2-8178618665d1"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.54,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +76,13 @@
   "text_sha": "c46ceddcb792f364"
  },
  "location": "Hörnefors",
- "lon": 19.8557,
+ "lon": 19.86,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 30.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 938,
   "fetched_ts": 1790508312920,
@@ -97,7 +107,7 @@
   "Skrovmaterial": "Trä",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25928540",
  "width_cm": 0,
  "year": 1960

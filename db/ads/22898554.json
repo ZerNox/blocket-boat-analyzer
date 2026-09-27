@@ -1,0 +1,124 @@
+{
+ "ad_id": 22898554,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1786095785000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 580 kabin\nNu säljer vi våran Flipper pga tidsbrist. Flippers unika trimaranskrov gör",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 580"
+ ],
+ "heading": "Flipper 580 kabin",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22898554/b1285f7d-a16d-4bbf-b4e1-68f7721680f7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22898554/b1285f7d-a16d-4bbf-b4e1-68f7721680f7",
+  "https://images.blocketcdn.se/dynamic/default/item/22898554/45168586-8581-4fcd-967b-6546d3bc1de6",
+  "https://images.blocketcdn.se/dynamic/default/item/22898554/b4bccb40-3dfe-4057-82cd-db340274656c",
+  "https://images.blocketcdn.se/dynamic/default/item/22898554/675d1b0f-e282-4968-ae7f-6a658a4ed84f",
+  "https://images.blocketcdn.se/dynamic/default/item/22898554/433633bf-95fa-4ef9-b42d-930051ef1fb9",
+  "https://images.blocketcdn.se/dynamic/default/item/22898554/f7083af7-1522-4240-9f90-113bbd91b168",
+  "https://images.blocketcdn.se/dynamic/default/item/22898554/1b70e66b-4439-4848-a7ff-83e6dab09aa6",
+  "https://images.blocketcdn.se/dynamic/default/item/22898554/19f2321c-564c-41c2-870f-8efabd174e86"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.15,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "769e89c9459ce258"
+ },
+ "location": "Torsby",
+ "lon": 13.12,
+ "make": "Flipper",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 397,
+  "fetched_ts": 1790522878103,
+  "text_sha": "769e89c9459ce258"
+ },
+ "price": 69000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69000
+  }
+ ],
+ "specs": {
+  "Bredd": "225 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "580 kabin",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "8",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "750 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22898554",
+ "width_cm": 225,
+ "year": 2000
+}

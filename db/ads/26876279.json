@@ -1,0 +1,81 @@
+{
+ "ad_id": 26876279,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790344397000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Bålstasläpet 30-släp inkluderad",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Terhi 430r styrpulpet",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26876279/8627a98d-439d-4320-9731-89dcf1c5a7a3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26876279/8627a98d-439d-4320-9731-89dcf1c5a7a3",
+  "https://images.blocketcdn.se/dynamic/default/item/26876279/3962c2f3-fdac-4c9f-ae61-732ed66f58c3",
+  "https://images.blocketcdn.se/dynamic/default/item/26876279/d2191b81-00ac-486d-9d45-7340033daf81"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.36,
+ "length_ft": 14,
+ "location": "Djurhamn",
+ "lon": 18.66,
+ "make": "Terhi",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1162,
+  "fetched_ts": 1790521073291,
+  "text_sha": "b9c2caf2e0688e3d"
+ },
+ "price": 14000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 14000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "430R",
+  "Modellår": "1980",
+  "Märke": "Terhi",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26876279",
+ "width_cm": 0,
+ "year": 1980
+}

@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 55.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fletcher",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26407956/5faa40d3-5345-4062-bfa4-46354db22a56",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.37579,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26407956/5faa40d3-5345-4062-bfa4-46354db22a56",
+  "https://images.blocketcdn.se/dynamic/default/item/26407956/4eb1d711-e6ea-47eb-bd84-563c46d737fb",
+  "https://images.blocketcdn.se/dynamic/default/item/26407956/06c7435f-412a-4272-af85-889b03343245",
+  "https://images.blocketcdn.se/dynamic/default/item/26407956/a3a001a6-9e1d-44ed-9298-4b9462d87d61"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.38,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "adb441181f460239"
  },
  "location": "Östra Ryd",
- "lon": 16.19021,
+ "lon": 16.19,
  "make": "Fletcher",
  "max_speed": 29,
  "motor_fuel": "Bensin",
  "motor_size": 55.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 330,
   "fetched_ts": 1790508665273,
@@ -97,7 +106,7 @@
   "Toppfart": "29 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26407956",
  "width_cm": 0,
  "year": 2000

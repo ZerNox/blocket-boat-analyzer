@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -23,6 +25,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 510HT",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "ambiguous engine years [1991, 2025]"
   ],
@@ -32,10 +38,24 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Örnvik 510HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25436542/16bfa577-3233-463f-b975-7a7f645b973a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.88543,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25436542/16bfa577-3233-463f-b975-7a7f645b973a",
+  "https://images.blocketcdn.se/dynamic/default/item/25436542/a3a04baa-fa02-4a59-954d-c87623bbc667",
+  "https://images.blocketcdn.se/dynamic/default/item/25436542/0d7986bc-8ebd-4573-9717-27b056a3b26f",
+  "https://images.blocketcdn.se/dynamic/default/item/25436542/9a7d19a4-acfc-48c1-bead-9b368647ccfb",
+  "https://images.blocketcdn.se/dynamic/default/item/25436542/4f40d5d3-c894-4b2d-9728-df884e2cbc60",
+  "https://images.blocketcdn.se/dynamic/default/item/25436542/a0e53362-acca-436a-a1f7-b2660b28dcd4",
+  "https://images.blocketcdn.se/dynamic/default/item/25436542/dab16195-dac8-413c-9d1a-cf7e98fe58a2",
+  "https://images.blocketcdn.se/dynamic/default/item/25436542/b4f11e87-ae2f-4656-9753-29c0d13ab949",
+  "https://images.blocketcdn.se/dynamic/default/item/25436542/4f40d2c3-81ea-4763-80c1-39219d488fda"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.89,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -66,7 +86,7 @@
   "text_sha": "176d3dc6241fe769"
  },
  "location": "Uppsala",
- "lon": 17.60494,
+ "lon": 17.6,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",

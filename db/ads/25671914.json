@@ -7,6 +7,8 @@
   "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Highfield UL 260",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25671914/2d984269-143c-446f-a77d-4e60a7821415",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.20379,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25671914/2d984269-143c-446f-a77d-4e60a7821415",
+  "https://images.blocketcdn.se/dynamic/default/item/25671914/13f36a32-2521-4804-8d16-f0743e134fd6",
+  "https://images.blocketcdn.se/dynamic/default/item/25671914/ad781b0b-27bc-402b-8ae1-ed735f1eb519",
+  "https://images.blocketcdn.se/dynamic/default/item/25671914/592a6c00-9f04-4e24-8ef1-6f4b2fe5c2ad",
+  "https://images.blocketcdn.se/dynamic/default/item/25671914/13a9488c-a08c-4a1a-b140-36fd41668b1b",
+  "https://images.blocketcdn.se/dynamic/default/item/25671914/2331c706-c333-454d-b930-954da52f22b1"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.2,
  "length_ft": 9,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "a68b6c7ee8cf4901"
  },
  "location": "Rönninge",
- "lon": 17.77675,
+ "lon": 17.78,
  "make": "Highfield",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 6.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 134,
   "fetched_ts": 1790508084785,
@@ -91,7 +102,7 @@
   "Märke": "Highfield",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25671914",
  "width_cm": 0,
  "year": 2010

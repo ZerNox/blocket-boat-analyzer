@@ -1,0 +1,105 @@
+{
+ "ad_id": 22630301,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1785945468000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1984,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Honda 90 hk, 4-takt (2006)",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell i bra skick",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer ingår",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Runnö 22 HT - Honda 90 hk",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Runnö 22 HT - Honda 90 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22630301/4f75d088-fd9e-47b0-856d-7fe34ec87803",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22630301/4f75d088-fd9e-47b0-856d-7fe34ec87803",
+  "https://images.blocketcdn.se/dynamic/default/item/22630301/d2f2d5ed-0fd0-4aef-9d9e-6ca37b013cf7",
+  "https://images.blocketcdn.se/dynamic/default/item/22630301/569fd00f-fe62-4970-997d-a7b091bd1003",
+  "https://images.blocketcdn.se/dynamic/default/item/22630301/52a8c062-eefa-48d6-ad51-c1cff6004e52",
+  "https://images.blocketcdn.se/dynamic/default/item/22630301/955a9891-51ab-4f52-85fc-10f39af810f3",
+  "https://images.blocketcdn.se/dynamic/default/item/22630301/3fa3861f-9577-44fa-8f6d-3654a4142e79",
+  "https://images.blocketcdn.se/dynamic/default/item/22630301/9e5c03c7-7bab-427d-93a8-37388dc2bb1b",
+  "https://images.blocketcdn.se/dynamic/default/item/22630301/b23507dc-c06e-428f-a09c-976432959882",
+  "https://images.blocketcdn.se/dynamic/default/item/22630301/0674aff9-9140-40cf-a996-d58543a34e12",
+  "https://images.blocketcdn.se/dynamic/default/item/22630301/e4e28f3c-1de3-4698-9132-dd75e7d78968"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.62,
+ "length_ft": 21,
+ "location": "Sandviken",
+ "lon": 16.84,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 601,
+  "fetched_ts": 1790522871046,
+  "text_sha": "bc3c0291f124b07a"
+ },
+ "price": 69900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69900
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Gul, vit",
+  "Längd i fot": "21 fot",
+  "Modell": "Runnö 22 HT",
+  "Modellår": "1984",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Typ": "Kabinbåt",
+  "Vikt": "1 200 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22630301",
+ "width_cm": 230,
+ "year": 1984
+}

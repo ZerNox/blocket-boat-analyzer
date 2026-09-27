@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 35.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 425 med 35hk + Nybesiktad 80 Trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25830867/ece076b3-56e9-4b11-af81-68f3fadd6055",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.49551,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25830867/ece076b3-56e9-4b11-af81-68f3fadd6055",
+  "https://images.blocketcdn.se/dynamic/default/item/25830867/eee81e53-f959-4a95-9d44-9ecdbe722173",
+  "https://images.blocketcdn.se/dynamic/default/item/25830867/29704ebe-cf7f-465e-8b76-ecb9d6bd117c",
+  "https://images.blocketcdn.se/dynamic/default/item/25830867/9c61a2cf-0e64-4aad-b963-b1afab47efa3"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.5,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +78,13 @@
   "text_sha": "c58faff925ecac4e"
  },
  "location": "Norrköping",
- "lon": 16.14422,
+ "lon": 16.14,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 35.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 315,
   "fetched_ts": 1790508235490,
@@ -101,7 +110,7 @@
   "Märke": "Crescent",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25830867",
  "width_cm": 180,
  "year": 1980

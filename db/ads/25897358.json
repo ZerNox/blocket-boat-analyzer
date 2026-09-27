@@ -7,6 +7,8 @@
   "boat_year": 1950,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 10.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "SABB",
   "engine_stroke": null,
   "engine_type": "none",
@@ -43,8 +45,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Träjulle plastad",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25897358/be166e10-239f-415c-92c1-cc1f62a26cec",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.98713,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25897358/be166e10-239f-415c-92c1-cc1f62a26cec",
+  "https://images.blocketcdn.se/dynamic/default/item/25897358/54ae342a-7d4c-43d0-8137-4fb8ca0cd995",
+  "https://images.blocketcdn.se/dynamic/default/item/25897358/fc7687a0-6f5e-4e24-87c8-c1233ef883fc",
+  "https://images.blocketcdn.se/dynamic/default/item/25897358/bb50fa0c-c0e1-4f46-9441-7b50c4f0959f",
+  "https://images.blocketcdn.se/dynamic/default/item/25897358/46f4a644-d7a7-406b-bc0c-6df2901882ed",
+  "https://images.blocketcdn.se/dynamic/default/item/25897358/3fc880c6-7e10-49c3-aebd-19bedcc3d801"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.99,
  "length_ft": 20,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +84,13 @@
   "text_sha": "03b716bfd8af26a2"
  },
  "location": "Skärhamn",
- "lon": 11.54331,
+ "lon": 11.54,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Diesel",
  "motor_size": 10.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 318,
   "fetched_ts": 1790508288094,
@@ -105,7 +116,7 @@
   "Märke": "Övriga",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25897358",
  "width_cm": 280,
  "year": 1950

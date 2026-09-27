@@ -1,0 +1,102 @@
+{
+ "ad_id": 25893097,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787296214000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mariner",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 568 GT, Mariner 90hk 2005.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space, only open cockpit and console visible.",
+  "hull_source": "bild",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "Ryds 568"
+ ],
+ "heading": "Ryds 568 GT, Mariner 90hk 2005",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25893097/41635300-b565-42b2-a45c-e29d986a94d2",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25893097/41635300-b565-42b2-a45c-e29d986a94d2",
+  "https://images.blocketcdn.se/dynamic/default/item/25893097/7c2bfcac-7488-4da8-9dee-465c5abd11b9",
+  "https://images.blocketcdn.se/dynamic/default/item/25893097/3a44ea8f-7dc7-45b8-85f4-0f34fb1fecd5",
+  "https://images.blocketcdn.se/dynamic/default/item/25893097/0e0ffce0-3c15-4bd9-bf40-fd31ccf25a21",
+  "https://images.blocketcdn.se/dynamic/default/item/25893097/568ce986-03b8-4bda-a03c-62590bff02fb"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.18,
+ "length_ft": 19,
+ "location": "Ronneby",
+ "lon": 15.28,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 71,
+  "fetched_ts": 1790520854505,
+  "text_sha": "90c0eb67c4b0e0a5"
+ },
+ "price": 115000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 115000
+  }
+ ],
+ "specs": {
+  "Bredd": "225 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "90 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "568 GT",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "550 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25893097",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "6e85a5d434334f27",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed space, only open cockpit and console visible.",
+   "hull_photo": 2
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 225,
+ "year": 2005
+}

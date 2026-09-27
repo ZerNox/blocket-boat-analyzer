@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki 2005",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -37,16 +39,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "MV-Marin 4600 40hk 4-takt inkl. 80km/h trailer (nybes.)",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25285012/3fa312e6-4096-41e4-afdf-3535281ac3d7",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.27543,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25285012/3fa312e6-4096-41e4-afdf-3535281ac3d7",
+  "https://images.blocketcdn.se/dynamic/default/item/25285012/3e697c63-3fb9-4a8d-84cd-d49b428415e9",
+  "https://images.blocketcdn.se/dynamic/default/item/25285012/920935c9-8af6-4a12-8946-e7b4d9a25bad"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.28,
  "length_ft": 15,
  "location": "Örebro",
- "lon": 15.20048,
+ "lon": 15.2,
  "make": "MV",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 235,
   "fetched_ts": 1790507725703,
@@ -77,7 +85,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "320 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25285012",
  "width_cm": 195,
  "year": 2006

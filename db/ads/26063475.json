@@ -1,0 +1,121 @@
+{
+ "ad_id": 26063475,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788381334000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "electric",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": 2020,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "MotorGuide Xi3 från 2020 (Handkontroll)",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "elmotor": {
+    "evidence": "MotorGuide Xi3 från 2020 (Handkontroll)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance Hook Reveal 9 med standardgivare från 2020",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Valeryds bromsad 80-trailer, besiktigad till 2[tel]",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Scandica 440 VP",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26063475/79bd5f2e-d111-4d5e-a094-6649276045a1",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26063475/79bd5f2e-d111-4d5e-a094-6649276045a1",
+  "https://images.blocketcdn.se/dynamic/default/item/26063475/47a28aca-46c9-4f6b-b3e6-e4d0fc1c8f01",
+  "https://images.blocketcdn.se/dynamic/default/item/26063475/61007aa7-7344-4d14-b93b-1088e66c38f6",
+  "https://images.blocketcdn.se/dynamic/default/item/26063475/9d2a2523-0018-4d74-947e-29ee4a54ff42",
+  "https://images.blocketcdn.se/dynamic/default/item/26063475/55eb0b5b-349f-46ab-ad51-5d7f3a231672",
+  "https://images.blocketcdn.se/dynamic/default/item/26063475/99f199f4-0833-433f-8fc0-66e58b0a22fa",
+  "https://images.blocketcdn.se/dynamic/default/item/26063475/3691c0b1-ed24-4593-8cca-676480d8177d",
+  "https://images.blocketcdn.se/dynamic/default/item/26063475/727acc8c-c454-4cf8-966f-f85155de37ab"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.49,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2020,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "MotorGuide",
+   "engine_type": "electric",
+   "engine_year": 2020,
+   "engine_year_evidence": "MotorGuide Xi3 från 2020 (Handkontroll)",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "dd661711053d02a7"
+ },
+ "location": "Tranemo",
+ "lon": 13.36,
+ "make": "Scandica",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 417,
+  "fetched_ts": 1790520886698,
+  "text_sha": "dd661711053d02a7"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "440 VP",
+  "Modellår": "2020",
+  "Motor inkluderad": "Ja",
+  "Märke": "Scandica",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26063475",
+ "width_cm": 0,
+ "year": 2020
+}

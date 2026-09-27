@@ -7,6 +7,8 @@
   "boat_year": 1994,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt med trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26678557/12f48daf-f97e-4cf4-8451-3adb456dedff",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.17377,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26678557/12f48daf-f97e-4cf4-8451-3adb456dedff",
+  "https://images.blocketcdn.se/dynamic/default/item/26678557/21dd44b3-1bc3-4a13-a272-c68062864b69",
+  "https://images.blocketcdn.se/dynamic/default/item/26678557/40a4a6ea-c0a4-4554-9ac3-816522f2b736",
+  "https://images.blocketcdn.se/dynamic/default/item/26678557/85bef89e-d5e5-4eeb-98c8-73b7d4529bd5",
+  "https://images.blocketcdn.se/dynamic/default/item/26678557/704c3f98-2bb6-4158-8696-1baa952c533c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.17,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +79,13 @@
   "text_sha": "b3b48f1c0ba8009b"
  },
  "location": "Fjugesta",
- "lon": 14.87883,
+ "lon": 14.88,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 169,
   "fetched_ts": 1790508865988,
@@ -102,7 +112,7 @@
   "Sittplatser": "6",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26678557",
  "width_cm": 195,
  "year": 1994

@@ -33,10 +33,11 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "Terhi 385 + motor Mercury 4hk + Båtvagn 30km/h",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25221346/9af8a63d-7d47-4238-b00e-e66d1ee74533",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.9685,
+ "lat": 65.97,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -66,7 +67,7 @@
   "text_sha": "311e903d93078407"
  },
  "location": "Moskosel",
- "lon": 19.39184,
+ "lon": 19.39,
  "make": "Terhi",
  "max_speed": 6,
  "motor_fuel": "Bensin",
@@ -103,7 +104,7 @@
   "Typ": "Annat",
   "Vikt": "98 kg"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/25221346",
  "width_cm": 150,
  "year": 2000

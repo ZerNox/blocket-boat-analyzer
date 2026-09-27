@@ -7,6 +7,8 @@
   "boat_year": 1979,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 33.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yanmar",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -34,8 +36,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 660",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26912452/364dedff-f8ec-478f-a81c-2be37c7e8e9f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.09278,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26912452/364dedff-f8ec-478f-a81c-2be37c7e8e9f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.09,
  "length_ft": 21,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +70,13 @@
   "text_sha": "47f5508597e461dd"
  },
  "location": "Järna",
- "lon": 17.62296,
+ "lon": 17.62,
  "make": "Örnvik",
  "max_speed": 8,
  "motor_fuel": "Diesel",
  "motor_size": 33.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1344,
   "fetched_ts": 1790509020651,
@@ -103,7 +109,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "1 500 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26912452",
  "width_cm": 240,
  "year": 1979

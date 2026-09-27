@@ -7,6 +7,8 @@
   "boat_year": 2004,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 23,
+  "engine_hp_source": "llm",
   "engine_maker": "Volvo md11 c",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -42,8 +44,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Nösundsjulle",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22592358/8946dcdc-7ec3-42db-9b25-1f3cb1c0b948",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.41915,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22592358/8946dcdc-7ec3-42db-9b25-1f3cb1c0b948",
+  "https://images.blocketcdn.se/dynamic/default/item/22592358/684bfd2d-717b-4a9a-b8f9-e56a087a08fc",
+  "https://images.blocketcdn.se/dynamic/default/item/22592358/3eab5096-25be-43da-b8e0-8de3dc7fef04",
+  "https://images.blocketcdn.se/dynamic/default/item/22592358/76489194-dfd9-4fa1-800f-49f0c3f28e02",
+  "https://images.blocketcdn.se/dynamic/default/item/22592358/2d250056-31b5-48ed-b56f-cda3dea2cb97",
+  "https://images.blocketcdn.se/dynamic/default/item/22592358/da72905c-e25e-4111-a112-3eb1002357de",
+  "https://images.blocketcdn.se/dynamic/default/item/22592358/7432b46a-5c7b-4be5-99cf-596bac013121",
+  "https://images.blocketcdn.se/dynamic/default/item/22592358/7597d5e7-0d23-432f-9db2-4f8e3da6c072",
+  "https://images.blocketcdn.se/dynamic/default/item/22592358/1a654e83-8e11-44ce-a6f7-6e24e94b9fff"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.42,
  "length_ft": 24,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +86,13 @@
   "text_sha": "08ae5aecac781a18"
  },
  "location": "Onsala",
- "lon": 12.02018,
+ "lon": 12.02,
  "make": "Övriga",
  "max_speed": 7,
  "motor_fuel": "Diesel",
  "motor_size": 23.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 476,
   "fetched_ts": 1790507461092,
@@ -111,7 +125,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "3 100 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/22592358",
  "width_cm": 275,
  "year": 2004

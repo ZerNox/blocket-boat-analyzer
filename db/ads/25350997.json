@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bonum 410 med 30hk Yamaha",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25350997/19fecff1-9e66-4b0a-9bfc-0864175945ae",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.38442,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25350997/19fecff1-9e66-4b0a-9bfc-0864175945ae",
+  "https://images.blocketcdn.se/dynamic/default/item/25350997/0837db34-1e34-44cf-a015-0d2a64802a12",
+  "https://images.blocketcdn.se/dynamic/default/item/25350997/f704ffdc-1f23-4ca3-b29d-40d5bab7a1e2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.38,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +73,13 @@
   "text_sha": "6dd7776d60eebb76"
  },
  "location": "Lidköping",
- "lon": 13.11373,
+ "lon": 13.11,
  "make": "Yamaha",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 164,
   "fetched_ts": 1790507786596,
@@ -96,7 +104,7 @@
   "Märke": "Yamaha",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25350997",
  "width_cm": 0,
  "year": 2026

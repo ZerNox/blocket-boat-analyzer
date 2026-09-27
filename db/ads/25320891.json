@@ -7,6 +7,8 @@
   "boat_year": 1989,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -36,16 +38,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 440 med yamaha elstart",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25320891/b8920467-64eb-4fd5-b25e-98302a00ca3c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.70159,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25320891/b8920467-64eb-4fd5-b25e-98302a00ca3c",
+  "https://images.blocketcdn.se/dynamic/default/item/25320891/74bb5426-6b1b-43b7-b30e-bbf168252792",
+  "https://images.blocketcdn.se/dynamic/default/item/25320891/1babeed6-f5bb-4662-b665-fbf76bfe76a0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.7,
  "length_ft": 14,
  "location": "Göteborg",
- "lon": 11.95927,
+ "lon": 11.96,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 193,
   "fetched_ts": 1790507755426,
@@ -74,7 +82,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25320891",
  "width_cm": 0,
  "year": 1989

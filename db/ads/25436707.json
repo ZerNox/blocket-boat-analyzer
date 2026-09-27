@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -32,6 +34,10 @@
     "kmh": 80
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -39,13 +45,25 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Uttern 6000",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25436707/e064916b-12b5-406b-930a-fa657eea1b03",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.62727,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25436707/e064916b-12b5-406b-930a-fa657eea1b03",
+  "https://images.blocketcdn.se/dynamic/default/item/25436707/7665b799-c07e-4fd1-b889-22b25ece4522",
+  "https://images.blocketcdn.se/dynamic/default/item/25436707/55706fbe-4f9f-4485-a165-237875e9c01b",
+  "https://images.blocketcdn.se/dynamic/default/item/25436707/23826544-314d-427b-9c6b-5e93c85b864f",
+  "https://images.blocketcdn.se/dynamic/default/item/25436707/62603d97-c77a-4cf0-a2ab-9eba8588cbce",
+  "https://images.blocketcdn.se/dynamic/default/item/25436707/a8400b88-1581-45cc-b430-e72d545fefa5",
+  "https://images.blocketcdn.se/dynamic/default/item/25436707/32a7797e-9e73-4aba-bee9-e6988b072067"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 65.63,
  "length_ft": 19,
  "location": "Luleå",
- "lon": 21.55212,
+ "lon": 21.55,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",

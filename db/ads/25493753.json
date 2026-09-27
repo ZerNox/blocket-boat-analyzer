@@ -1,0 +1,73 @@
+{
+ "ad_id": 25493753,
+ "boat_class": "Annat",
+ "changed_ts": 1786115445000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2023,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Sandström 340",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25493753/428063e2-8023-4f00-aa8b-a3ed89653732",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25493753/428063e2-8023-4f00-aa8b-a3ed89653732",
+  "https://images.blocketcdn.se/dynamic/default/item/25493753/8db15a18-e563-438f-a23d-55bab5b0acbd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.81,
+ "length_ft": 11,
+ "location": "Risögrund",
+ "lon": 23.25,
+ "make": "Sandström",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 47,
+  "fetched_ts": 1790520717789,
+  "text_sha": "8e87cf3d39060ea2"
+ },
+ "price": 17000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 17000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "11 fot",
+  "Modell": "340",
+  "Modellår": "2023",
+  "Motor inkluderad": "Nej",
+  "Märke": "Sandström",
+  "Skrovmaterial": "Plast",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25493753",
+ "width_cm": 0,
+ "year": 2023
+}

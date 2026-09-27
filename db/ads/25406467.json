@@ -7,6 +7,8 @@
   "boat_year": 1979,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 450 mercury 40 powertrim",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25406467/da631ba6-c958-4b52-82aa-db2899966e19",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.14367,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25406467/da631ba6-c958-4b52-82aa-db2899966e19",
+  "https://images.blocketcdn.se/dynamic/default/item/25406467/b6971165-c155-47b1-9609-1816ca787d35",
+  "https://images.blocketcdn.se/dynamic/default/item/25406467/7b888f62-95df-4589-b12c-4143cd2d8cbb"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.14,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "b93c4a3df5a3a7d6"
  },
  "location": "Odensbacken",
- "lon": 15.66383,
+ "lon": 15.66,
  "make": "Örnvik",
  "max_speed": 26,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790507843402,
@@ -94,7 +102,7 @@
   "Toppfart": "26 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25406467",
  "width_cm": 180,
  "year": 1979

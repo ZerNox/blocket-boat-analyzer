@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": null,
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Stabil båt för utombordare",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23373905/bb3de8c0-98b6-49bb-8c04-940ad0c7f37e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.39406,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23373905/bb3de8c0-98b6-49bb-8c04-940ad0c7f37e",
+  "https://images.blocketcdn.se/dynamic/default/item/23373905/de58ec2b-148a-4ec8-8fce-c5077ed0b79a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.39,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +72,13 @@
   "text_sha": "30d9844a47bc375f"
  },
  "location": "Öxabäck",
- "lon": 12.82415,
+ "lon": 12.82,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 25.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 198,
   "fetched_ts": 1790507495876,
@@ -97,7 +104,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23373905",
  "width_cm": 183,
  "year": 2000

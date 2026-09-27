@@ -1,0 +1,109 @@
+{
+ "ad_id": 25265658,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785487752000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 10.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "electric",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Lättrodd båt som är godkänd för 10hk men är mer lämplig men en elmotor eller 4-5hk.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Jofa 440",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25265658/d3b83a04-bc62-4dd7-8392-3b7741f864a4",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25265658/d3b83a04-bc62-4dd7-8392-3b7741f864a4",
+  "https://images.blocketcdn.se/dynamic/default/item/25265658/3c6f3d87-4b7b-4895-84e8-d8d1dc4126b5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.65,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1970,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Not mentioned",
+   "engine_type": "electric",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d969867f61bc074a"
+ },
+ "location": "Härnösand",
+ "lon": 17.89,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 123,
+  "fetched_ts": 1790520664395,
+  "text_sha": "d969867f61bc074a"
+ },
+ "price": 6500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 6500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "Jofa 440 roddbåt",
+  "Modellår": "1970",
+  "Märke": "Övriga",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25265658",
+ "width_cm": 0,
+ "year": 1970
+}

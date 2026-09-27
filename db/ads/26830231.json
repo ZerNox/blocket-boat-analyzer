@@ -1,0 +1,78 @@
+{
+ "ad_id": 26830231,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790179177000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Sportbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26830231/c34fad86-b228-4baf-9f2e-2b427e782225",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26830231/c34fad86-b228-4baf-9f2e-2b427e782225",
+  "https://images.blocketcdn.se/dynamic/default/item/26830231/c998aea7-9bf7-4f09-9613-0e4f1f16593e",
+  "https://images.blocketcdn.se/dynamic/default/item/26830231/e50c875f-2dd0-47fb-a33e-c759a2361d3f",
+  "https://images.blocketcdn.se/dynamic/default/item/26830231/ff6a8cf5-7679-40af-96b4-a91cf0b8dfc4",
+  "https://images.blocketcdn.se/dynamic/default/item/26830231/4b161844-4add-42e6-9138-a019d538ba02",
+  "https://images.blocketcdn.se/dynamic/default/item/26830231/cb8a4441-61a8-4695-8a64-b54f2023960b",
+  "https://images.blocketcdn.se/dynamic/default/item/26830231/da5de391-ebf7-4f1d-9bc8-c3d65bf15d49",
+  "https://images.blocketcdn.se/dynamic/default/item/26830231/1ec4f0a7-a7f0-41b4-b163-654215c9b848",
+  "https://images.blocketcdn.se/dynamic/default/item/26830231/10fd0362-b543-4baf-bd05-cc24841d8d80"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.72,
+ "length_ft": 5,
+ "location": "Filipstad",
+ "lon": 14.01,
+ "make": "Broom",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 101,
+  "fetched_ts": 1790521065044,
+  "text_sha": "aa54e2196783eb94"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "5 fot",
+  "Modellår": "1970",
+  "Motor inkluderad": "Nej",
+  "Märke": "Broom",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26830231",
+ "width_cm": 0,
+ "year": 1970
+}

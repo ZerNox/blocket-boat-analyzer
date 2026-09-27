@@ -1,0 +1,126 @@
+{
+ "ad_id": 22249428,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788899089000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1981,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 170.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yanmar 4LH-DTE",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1981,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin plotter med ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin plotter med ekolod",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Correct Craft 23 Yanmar Hyttbåt med Axel / Byte",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22249428/f3fe9eaf-a878-4476-865c-7dac4e1f26c9",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22249428/f3fe9eaf-a878-4476-865c-7dac4e1f26c9",
+  "https://images.blocketcdn.se/dynamic/default/item/22249428/c130148e-def7-4468-84a7-09b8e51d7f56",
+  "https://images.blocketcdn.se/dynamic/default/item/22249428/b6951dc6-59cc-4364-932c-81a4b0b5ecfe",
+  "https://images.blocketcdn.se/dynamic/default/item/22249428/ebac4ea9-2a0d-4381-9ced-16c29122d8e7",
+  "https://images.blocketcdn.se/dynamic/default/item/22249428/69cb4bcb-2b91-47c9-bf90-baee0594e0e4",
+  "https://images.blocketcdn.se/dynamic/default/item/22249428/7a9301ba-b89f-4b2e-be9f-1529d1294c28",
+  "https://images.blocketcdn.se/dynamic/default/item/22249428/0a303e9c-6c62-42db-8cec-019723f1c7dc",
+  "https://images.blocketcdn.se/dynamic/default/item/22249428/e8c4956e-971f-4ff4-b88d-fb0b69710c4f",
+  "https://images.blocketcdn.se/dynamic/default/item/22249428/7ac87680-3b5c-46c3-a056-b4d8cec9440e",
+  "https://images.blocketcdn.se/dynamic/default/item/22249428/9b4bc468-3e50-4518-b688-22ddbe9f7006",
+  "https://images.blocketcdn.se/dynamic/default/item/22249428/d1be5792-62a6-4de0-91e6-666a31eec5b3",
+  "https://images.blocketcdn.se/dynamic/default/item/22249428/a399542b-12ec-4384-9b25-3b19380f8366",
+  "https://images.blocketcdn.se/dynamic/default/item/22249428/d5ca7029-d210-4c92-830e-75fd7de49e84",
+  "https://images.blocketcdn.se/dynamic/default/item/22249428/8da7dcde-4567-4e12-aaca-7be8708b048d",
+  "https://images.blocketcdn.se/dynamic/default/item/22249428/59886001-f064-43f9-a91b-fada42da8866"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.36,
+ "length_ft": 23,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1981,
+   "engine_hours": null,
+   "engine_hp": 170,
+   "engine_maker": "Yanmar",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e92bc84e5d1ddcfc"
+ },
+ "location": "Uddevalla",
+ "lon": 11.89,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 923,
+  "fetched_ts": 1790520593780,
+  "text_sha": "e92bc84e5d1ddcfc"
+ },
+ "price": 279000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 279000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "23 fot",
+  "Modellår": "1981",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Yanmar 4LH-DTE",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Hyttbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/22249428",
+ "width_cm": 0,
+ "year": 1981
+}

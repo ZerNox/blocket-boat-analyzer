@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 425",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26839952/097a2130-bac3-40f6-a2cf-ecfae6b2fffd",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.35651,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26839952/097a2130-bac3-40f6-a2cf-ecfae6b2fffd",
+  "https://images.blocketcdn.se/dynamic/default/item/26839952/ab08200a-b675-4863-ab59-06647019178c",
+  "https://images.blocketcdn.se/dynamic/default/item/26839952/39b19336-2b84-44fc-b99e-a8ca9bc33ebd",
+  "https://images.blocketcdn.se/dynamic/default/item/26839952/76fb757b-543e-4812-83d6-76b82785311e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.36,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +74,13 @@
   "text_sha": "59edd1b63415e52b"
  },
  "location": "Vänersborg",
- "lon": 12.34169,
+ "lon": 12.34,
  "make": "Crescent",
  "max_speed": 22,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 265,
   "fetched_ts": 1790508974697,
@@ -96,7 +105,7 @@
   "Toppfart": "22 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26839952",
  "width_cm": 0,
  "year": 1980

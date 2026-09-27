@@ -1,0 +1,80 @@
+{
+ "ad_id": 26027657,
+ "boat_class": "Annat",
+ "changed_ts": 1787668457000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Aluminiumkanot Linder Inkas 525",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26027657/22260139-f17b-4a64-bb25-6acfc60015bb",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26027657/22260139-f17b-4a64-bb25-6acfc60015bb",
+  "https://images.blocketcdn.se/dynamic/default/item/26027657/9a68855a-b4cc-45c1-b219-1f7e66bb0937",
+  "https://images.blocketcdn.se/dynamic/default/item/26027657/2d32ff94-4d8d-4314-bed1-8cb9a6016dc0",
+  "https://images.blocketcdn.se/dynamic/default/item/26027657/85fc3fe1-1623-4f3d-9ac6-f468abf95e32",
+  "https://images.blocketcdn.se/dynamic/default/item/26027657/7b547df4-6390-4049-bbc5-77d712f01eb1",
+  "https://images.blocketcdn.se/dynamic/default/item/26027657/c32dd185-eee6-4793-a805-e6204ccaf337",
+  "https://images.blocketcdn.se/dynamic/default/item/26027657/05d8fb71-2762-4c01-a05a-4b5f75e5a82c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.72,
+ "length_ft": 17,
+ "location": "Kalix-Nyborg",
+ "lon": 23.26,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 115,
+  "fetched_ts": 1790520877086,
+  "text_sha": "a81455d413fe3274"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Aluminium",
+  "Längd i fot": "17 fot",
+  "Modell": "Inkas 525",
+  "Modellår": "1990",
+  "Motor inkluderad": "Nej",
+  "Märke": "Linder",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26027657",
+ "width_cm": 0,
+ "year": 1990
+}

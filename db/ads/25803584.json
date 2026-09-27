@@ -7,6 +7,8 @@
   "boat_year": 1982,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -38,8 +40,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Jofa Winth 485  50hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25803584/e2e2ca7c-b81e-435e-b4e2-6aa7ef66e42a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.3338,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25803584/e2e2ca7c-b81e-435e-b4e2-6aa7ef66e42a",
+  "https://images.blocketcdn.se/dynamic/default/item/25803584/67f438f5-4d2d-4f3a-a8b9-34bc2053568d",
+  "https://images.blocketcdn.se/dynamic/default/item/25803584/775e79e4-35f6-4d5a-8e2f-ff2c6b757084",
+  "https://images.blocketcdn.se/dynamic/default/item/25803584/08c22561-3627-4e23-b686-a0d3f74cea32"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.33,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +77,13 @@
   "text_sha": "717eef215a5593bf"
  },
  "location": "Stenhamra",
- "lon": 17.70722,
+ "lon": 17.71,
  "make": "Övriga",
  "max_speed": 28,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 914,
   "fetched_ts": 1790508207542,
@@ -106,7 +115,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "450 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25803584",
  "width_cm": 180,
  "year": 1982

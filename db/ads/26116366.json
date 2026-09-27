@@ -1,0 +1,127 @@
+{
+ "ad_id": 26116366,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787963306000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 550,
+  "engine_hp_source": "llm",
+  "engine_maker": "Volvo Penta",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1979,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Garmin-plotter kan köpas till efter överenskommelse.",
+    "included": false
+   },
+   "stereo": {
+    "evidence": "Utrustad med badstege, lanternor, radio och knappstyrd länspump.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Dragg, paddel, tampar, fendrar, flagga, båtshake och 30-kärra ingår.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Selco 18 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26116366/5ceab052-93a5-4ad6-9636-96748362198f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26116366/5ceab052-93a5-4ad6-9636-96748362198f",
+  "https://images.blocketcdn.se/dynamic/default/item/26116366/0dc44bb0-cb0e-46ae-930e-90701a3fbd3e",
+  "https://images.blocketcdn.se/dynamic/default/item/26116366/44e84a07-648f-422a-ba2b-09f703a50f73",
+  "https://images.blocketcdn.se/dynamic/default/item/26116366/572e8b96-12de-4cca-a28d-a3f3ff67b670",
+  "https://images.blocketcdn.se/dynamic/default/item/26116366/010e41b2-5459-49fe-ae96-c312f547068e",
+  "https://images.blocketcdn.se/dynamic/default/item/26116366/fa62d545-af57-4289-8c17-3593121ca45b",
+  "https://images.blocketcdn.se/dynamic/default/item/26116366/c1465253-1115-4ff4-8200-a63b63faa08f",
+  "https://images.blocketcdn.se/dynamic/default/item/26116366/f9c0af46-d4cd-4422-bfd8-d6cfe4568dd6",
+  "https://images.blocketcdn.se/dynamic/default/item/26116366/06f73e7d-47db-4a76-8f4f-12cdd7bf6454",
+  "https://images.blocketcdn.se/dynamic/default/item/26116366/7e68f3dc-1dcc-40b1-9b7a-7499b8007c65"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.91,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1979,
+   "engine_hours": null,
+   "engine_hp": 550,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Volvo Penta 550 med elstart och choke på nyckel. Startar och går fint. Ny bensinslang i år.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "excluded",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "473d14c67da80ea4"
+ },
+ "location": "Sjövik",
+ "lon": 12.37,
+ "make": "Selco",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 579,
+  "fetched_ts": 1790520902363,
+  "text_sha": "473d14c67da80ea4"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "18 HT",
+  "Modellår": "1979",
+  "Motortillverkare": "Volvo Penta",
+  "Motortyp": "Utombordare",
+  "Märke": "Selco",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26116366",
+ "width_cm": 0,
+ "year": 1979
+}

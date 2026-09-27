@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 49",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26139506/04cd17b6-4ee8-4307-a735-5aad78f328b6",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.37046,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26139506/04cd17b6-4ee8-4307-a735-5aad78f328b6",
+  "https://images.blocketcdn.se/dynamic/default/item/26139506/b5bbbcbe-0da6-44e0-a2e0-e280f00aabbd",
+  "https://images.blocketcdn.se/dynamic/default/item/26139506/9fd6e248-f16b-40f3-851d-59613682356d",
+  "https://images.blocketcdn.se/dynamic/default/item/26139506/d63d9075-bbca-4db8-9ff7-05f28fe83a1e",
+  "https://images.blocketcdn.se/dynamic/default/item/26139506/51c45619-e676-4a0e-b21b-bdd76e3d5639",
+  "https://images.blocketcdn.se/dynamic/default/item/26139506/ecfd86b4-dd45-4816-8ffc-25d2d9f15ed2",
+  "https://images.blocketcdn.se/dynamic/default/item/26139506/21c9b314-3c6c-428d-9bd5-78210d4a1887",
+  "https://images.blocketcdn.se/dynamic/default/item/26139506/3af7d71e-063e-4f4f-8a73-158a88b7a5e4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.37,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +72,13 @@
   "text_sha": "6dc0492fef254bba"
  },
  "location": "Hässelby",
- "lon": 17.83105,
+ "lon": 17.83,
  "make": "Crescent",
  "max_speed": 40,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 212,
   "fetched_ts": 1790508483468,
@@ -93,7 +106,7 @@
   "Toppfart": "40 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26139506",
  "width_cm": 0,
  "year": 1985

@@ -1,0 +1,93 @@
+{
+ "ad_id": 24628122,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1788677042000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2015,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Fletcher arrowbeau halvfabrikat",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24628122/bf21ca5f-920b-4d51-b3d2-110884c095d5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24628122/bf21ca5f-920b-4d51-b3d2-110884c095d5",
+  "https://images.blocketcdn.se/dynamic/default/item/24628122/fb9fdf68-1cd9-4c37-8231-8e3ef423343d",
+  "https://images.blocketcdn.se/dynamic/default/item/24628122/c28ed805-3a4a-48bf-a0d1-811642521c72",
+  "https://images.blocketcdn.se/dynamic/default/item/24628122/5a0b4197-15cf-4efa-aff4-469276de3bbf",
+  "https://images.blocketcdn.se/dynamic/default/item/24628122/acaf1b1a-d74f-449d-97e4-4e96d5394b06",
+  "https://images.blocketcdn.se/dynamic/default/item/24628122/54b69a56-4885-4ca0-8c3f-b68d35706727",
+  "https://images.blocketcdn.se/dynamic/default/item/24628122/2adc4cad-b428-4782-948a-3045a2f91042",
+  "https://images.blocketcdn.se/dynamic/default/item/24628122/23bbc4c0-db46-4e5d-b4bd-9bc72d79c104",
+  "https://images.blocketcdn.se/dynamic/default/item/24628122/a777ee26-2e00-430c-bc4f-38cf3be7e343",
+  "https://images.blocketcdn.se/dynamic/default/item/24628122/b1cbbde5-b250-4102-a243-38222ad90372"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.62,
+ "length_ft": 20,
+ "location": "Riala",
+ "lon": 18.5,
+ "make": "Fletcher",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 178,
+  "fetched_ts": 1790522937522,
+  "text_sha": "46346afb6ad280ef"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Färg": "Vit",
+  "Längd i fot": "20 fot",
+  "Modell": "Arrowbeau",
+  "Modellår": "2015",
+  "Motor inkluderad": "Nej",
+  "Märke": "Fletcher",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "1",
+  "Typ": "Daycruiser",
+  "Vikt": "300 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24628122",
+ "width_cm": 200,
+ "year": 2015
+}

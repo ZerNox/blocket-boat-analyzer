@@ -7,6 +7,8 @@
   "boat_year": 1998,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Parsun",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 425 fkskebåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25333469/788ee8b1-7d99-4afb-9403-fd480b509444",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.44043,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25333469/788ee8b1-7d99-4afb-9403-fd480b509444",
+  "https://images.blocketcdn.se/dynamic/default/item/25333469/024d520e-9d6b-46d8-9895-c329a36c9229",
+  "https://images.blocketcdn.se/dynamic/default/item/25333469/c35a9ccc-ba75-4728-b9ed-49f62e85e8c3",
+  "https://images.blocketcdn.se/dynamic/default/item/25333469/d91b27b0-5afb-451e-9dc4-abb3e9e5fe8e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.44,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +74,13 @@
   "text_sha": "cb33aaa3b7161017"
  },
  "location": "Vetlanda",
- "lon": 15.12727,
+ "lon": 15.13,
  "make": "Crescent",
  "max_speed": 18,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 233,
   "fetched_ts": 1790507769561,
@@ -98,7 +107,7 @@
   "Toppfart": "18 knop",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25333469",
  "width_cm": 0,
  "year": 1998

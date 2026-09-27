@@ -7,6 +7,8 @@
   "boat_year": 1989,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha 40 Hk Autolube 3 cylinder 2 takt",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fin styrpulpet  470",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26827862/3a700df1-05fe-45d7-aad4-63093b10fc77",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.9448,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26827862/3a700df1-05fe-45d7-aad4-63093b10fc77",
+  "https://images.blocketcdn.se/dynamic/default/item/26827862/0076c839-7fcf-45a9-80fd-0c035ef29318",
+  "https://images.blocketcdn.se/dynamic/default/item/26827862/e514658f-bbcf-4629-b64c-7d6426ce84e8",
+  "https://images.blocketcdn.se/dynamic/default/item/26827862/989c9792-202b-41c8-a13d-54439a3494af",
+  "https://images.blocketcdn.se/dynamic/default/item/26827862/d6b7662a-926e-4ce4-9d54-c9fd2a1d9d8c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.94,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "956baa24b2a2baa8"
  },
  "location": "Nordingrå",
- "lon": 18.34789,
+ "lon": 18.35,
  "make": "Ryds",
  "max_speed": 35,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 314,
   "fetched_ts": 1790508960560,
@@ -96,7 +106,7 @@
   "Toppfart": "35 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26827862",
  "width_cm": 170,
  "year": 1989

@@ -7,6 +7,8 @@
   "boat_year": 1982,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -39,8 +41,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Vator ht 17 med evinrude 70hk med 80km/h trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25348181/b1c1e21f-8ef5-45e9-b952-84a0ea6feff1",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.66687,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25348181/b1c1e21f-8ef5-45e9-b952-84a0ea6feff1",
+  "https://images.blocketcdn.se/dynamic/default/item/25348181/3a5330ea-317d-4bad-b5e2-37856654cad2",
+  "https://images.blocketcdn.se/dynamic/default/item/25348181/ac31c4a3-9a0c-4855-83ba-36db003d6a88",
+  "https://images.blocketcdn.se/dynamic/default/item/25348181/08a50b1c-a0f2-4762-be04-6ab14c370124",
+  "https://images.blocketcdn.se/dynamic/default/item/25348181/8e6952fa-e4c3-4733-8555-dc7ae83c252c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.67,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +79,13 @@
   "text_sha": "67d0f8f14d05564e"
  },
  "location": "Vimmerby",
- "lon": 15.85206,
+ "lon": 15.85,
  "make": "Vator",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 698,
   "fetched_ts": 1790507782405,
@@ -105,7 +115,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "500 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25348181",
  "width_cm": 205,
  "year": 1982

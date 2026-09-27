@@ -20,7 +20,7 @@ import re
 
 import numpy as np
 
-from . import market
+from . import market, rules
 from .config import in_range, local_ranges
 
 THIS_YEAR = dt.date.today().year
@@ -46,6 +46,15 @@ def eligible(ad: dict, cfg: dict) -> bool:
         if not in_range(value, rng):
             return False  # e.g. Motorstorlek empty but the text says 115 hk
     return True
+
+
+def distance_km(ad: dict, home: dict | None) -> float | None:
+    """Straight-line (great-circle) distance; roads are typically 20-30% longer."""
+    if not home or ad.get("lat") is None or ad.get("lon") is None:
+        return None
+    la1, lo1, la2, lo2 = map(math.radians, (home["lat"], home["lon"], ad["lat"], ad["lon"]))
+    h = math.sin((la2 - la1) / 2) ** 2 + math.cos(la1) * math.cos(la2) * math.sin((lo2 - lo1) / 2) ** 2
+    return round(2 * 6371 * math.asin(math.sqrt(h)))
 
 
 def length_of(ad: dict) -> float | None:
@@ -103,10 +112,14 @@ class MarketModel:
     def __init__(self, rows: list[dict], lam: float, prior: float, classes: list[str] | None = None,
                  length_ft: tuple[float, float] | None = None):
         self.prior = prior
-        ok = [r for r in rows if r.get("price") and 5000 <= r["price"] <= 5_000_000
-              and r.get("year") and 1950 <= r["year"] <= THIS_YEAR + 1 and not r.get("gone")
-              and (not classes or r.get("boat_class") in classes)
+        valid = [r for r in rows if r.get("price") and 5000 <= r["price"] <= 5_000_000
+                 and r.get("year") and 1950 <= r["year"] <= THIS_YEAR + 1 and not r.get("gone")]
+        # The base (age, hp, length) is learned on comparable boat types only...
+        ok = [r for r in valid if (not classes or r.get("boat_class") in classes)
               and (not length_ft or not r.get("length") or length_ft[0] <= r["length"] <= length_ft[1])]
+        # ...but make/model effects use every ad of that model, whatever type the seller picked:
+        # the same Sandström 560 is filed as Hyttbåt, Kabinbåt, Powerboat and Snipa.
+        grouped = [r for r in valid if r.get("family") or r in ok]
         self.classes = sorted({c for c in (r.get("boat_class") for r in ok) if c
                                and sum(1 for x in ok if x.get("boat_class") == c) >= MIN_CLASS})
         hps = [r["motor_size"] for r in ok if r.get("motor_size")]
@@ -120,8 +133,11 @@ class MarketModel:
             self.w, self.mu, self.sd, self.b = _ridge(X[keep], y[keep], lam)
             resid = y - self._base(X)
             keep = np.abs(resid) < 3 * resid[keep].std()
-        rows_k = [r for r, k in zip(ok, keep) if k]
-        resid = (y - self._base(X))[keep]
+        Xg = self._X(grouped)
+        rg = np.log([r["price"] for r in grouped]) - self._base(Xg)
+        keep_g = np.abs(rg) < 3 * resid[keep].std()
+        rows_k = [r for r, k in zip(grouped, keep_g) if k]
+        resid = rg[keep_g]
         # Sequential shrunken group effects on the residual: make, then family within it, then variant.
         self.stats: dict[str, dict[str, tuple[float, int]]] = {}
         self.fit_resid: dict[int, list[float]] = {r["id"]: [] for r in rows_k}
@@ -211,18 +227,39 @@ DETAIL_NAMES = ["motorns ålder", "motorår okänt", "fyrtakt/tvåtakt"]
 LEVEL_LABELS = {"make": "märke", "family": "modell", "variant": "variant"}
 
 
-def comparables(r: dict, rows: list[dict], n: int = 6) -> list[dict]:
-    """Nearest-year ads of the same variant (else family), excluding the ad itself."""
-    for level in ("variant", "family"):
-        key = r.get(level)
-        if not key:
+def comparables(r: dict, rows: list[dict], mm: "MarketModel", base_of: dict[int, float], n: int = 8) -> dict:
+    """Direct comparison with ads of the same model, each adjusted to this boat's year, hp and length.
+
+    Same variant ("Sandström 560 MC") weighs 1, same family ("Sandström 560") 0.4, and weight halves
+    per ~6 years of age difference. The market model is only used to adjust for those differences:
+    adjusted = comp price * exp(base(this boat) - base(comp)).
+    """
+    own_base = float(mm._base(mm._X([r]))[0])
+    picks = []
+    for x in rows:
+        if x["id"] == r["id"] or x.get("gone") or not x.get("price") or x["id"] not in base_of:
             continue
-        same = [x for x in rows if x.get(level) == key and x["id"] != r["id"] and not x.get("gone") and x.get("price")]
-        if same:
-            same.sort(key=lambda x: abs((x.get("year") or 0) - (r.get("year") or 0)))
-            return [{"url": ITEM.format(id=x["id"]), "heading": x.get("heading"), "price": x["price"],
-                     "year": x.get("year"), "hp": x.get("motor_size")} for x in same[:n]]
-    return []
+        if r.get("variant") and x.get("variant") == r["variant"]:
+            w = 1.0
+        elif r.get("family") and x.get("family") == r["family"] and not (r.get("variant") and x.get("variant")):
+            w = 0.4  # same family, variant unknown on one side
+        else:
+            continue
+        w *= 0.5 ** (abs((x.get("year") or 0) - (r.get("year") or 0)) / 6) if r.get("year") else 0.5
+        adjusted = x["price"] * math.exp(own_base - base_of[x["id"]])
+        picks.append((w, adjusted, x))
+    if not picks:
+        return {"n_eff": 0.0, "log_est": None, "list": []}
+    wsum = sum(w for w, _, _ in picks)
+    log_est = sum(w * math.log(a) for w, a, _ in picks) / wsum
+    picks.sort(key=lambda p: -p[0])
+    return {
+        "n_eff": round(wsum, 2),
+        "log_est": log_est,
+        "list": [{"url": ITEM.format(id=x["id"]), "heading": x.get("heading"), "price": x["price"],
+                  "year": x.get("year"), "hp": x.get("motor_size"), "adjusted": round(a), "weight": round(w, 2)}
+                 for w, a, x in picks[:n]],
+    }
 
 
 def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
@@ -234,6 +271,12 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
     rows = market.load()
     for r in rows:  # re-key with the current vocabulary
         r["family"], r["variant"] = market.model_keys(r.get("make"), None, r.get("heading"))
+        if r.get("length") and not 8 <= r["length"] <= 60:
+            r["length"] = None  # "495 ft", "8 ft": typed in cm or dm
+        if not r.get("motor_size"):
+            # Dealer ads often leave Motorstorlek empty and put "Honda 60 hk" in the heading. Without this,
+            # the hp-unknown rows (mostly new boats) inflate the base and skew their models' effects.
+            r["motor_size"] = rules.extract_hp(r.get("heading") or "", "", {})[0]
     ours = {a["ad_id"]: _market_row(a) for a in pool}
     by_id = {r["id"]: r for r in rows}
     for i, r in ours.items():  # the ranked ads' own rows use what extraction learned
@@ -245,12 +288,27 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
     mm = MarketModel(rows, rc["ridge_lambda"], rc.get("model_prior", 4.0), rc.get("market_classes"),
                      tuple(rc["market_length_ft"]) if rc.get("market_length_ft") else None)
 
-    adj, preds = [], []
-    for a in pool:
-        ev, items = extras_value(a["extraction"], prices)
-        # Never let extras eat more than 40% of the price (cheap boat + expensive trailer).
-        adj.append((max(a["price"] - ev, a["price"] * 0.6), ev, items))
-        preds.append(mm.predict(ours[a["ad_id"]]))
+    valid = [r for r in rows if r.get("price") and r.get("year") and 1950 <= r["year"] <= THIS_YEAR + 1]
+    base_of = dict(zip((r["id"] for r in valid), mm._base(mm._X(valid)).tolist())) if valid else {}
+    comp_prior = rc.get("comp_prior", 2.0)
+    # Market prices already include whatever extras those boats had, so only equipment beyond the
+    # typical amount changes the comparison (a trailer is normal; plotter + trailer + kapell is more).
+    evs = [extras_value(a["extraction"], prices) for a in pool]
+    typical_ev = float(np.median([ev for ev, _ in evs]))
+    adj, preds, comps = [], [], []
+    for a, (ev, items) in zip(pool, evs):
+        # Never let extras move the price more than 40% (cheap boat + expensive trailer).
+        extra = ev - typical_ev
+        adj.append((min(max(a["price"] - extra, a["price"] * 0.6), a["price"] * 1.4), ev, items))
+        logp, rows_b, groups = mm.predict(ours[a["ad_id"]])
+        c = comparables(ours[a["ad_id"]], rows, mm, base_of)
+        if c["log_est"] is not None:
+            # Direct comparables dominate as they add up; the make/type hierarchy fills in when there are few.
+            w = c["n_eff"] / (c["n_eff"] + comp_prior)
+            logp = w * c["log_est"] + (1 - w) * logp
+            groups = {**groups, "comps": (f"{len(c['list'])} jämförbara annonser", c["n_eff"], w)}
+        preds.append((logp, rows_b, groups))
+        comps.append(c)
 
     # Stage B on the ranked ads: residual vs. the market model, explained by text/photo details.
     Xd = np.array([_detail_features(a) for a in pool])
@@ -261,11 +319,13 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
         resid = yd - (((Xd - mud) / sdd) @ wd + bd)
         keep = np.abs(resid) < 3 * resid[keep].std()
     Zd = (Xd - mud) / sdd
-    detail = Zd @ wd + bd
+    # Only the differences matter (engine newer than hull, four-stroke); no intercept, which would
+    # shift every boat by the candidate pool's average and punish models priced above it.
+    detail = Zd @ wd
     resid_sd = float((yd - detail)[keep].std())
 
     out = []
-    for a, (adj_price, ev, items), (logp, base_rows, groups), dz, dp, fit in zip(pool, adj, preds, Zd, detail, keep):
+    for a, (adj_price, ev, items), (logp, base_rows, groups), dz, dp, fit, comp in zip(pool, adj, preds, Zd, detail, keep, comps):
         ext = a["extraction"]
         fair = float(math.exp(logp + dp))
         value = fair / adj_price - 1
@@ -277,6 +337,7 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
         score = math.exp(credible) - 1 - cfg["ranking"]["red_flag_penalty"] * len(flags)
         if not ext.get("engine_year"):
             score -= 0.05  # unknown engine age is a risk the price must compensate
+        comp_info = groups.pop("comps", None)
         breakdown = [[f"{LEVEL_LABELS[lv]}: {key} ({n} annonser)", pct] for lv, (key, n, pct) in groups.items()]
         breakdown += base_rows + [[nm, round(math.exp(c) - 1, 3)] for nm, c in zip(DETAIL_NAMES, wd * dz)]
         agg: dict[str, float] = {}
@@ -290,6 +351,9 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
             "heading": a["heading"],
             "image": a.get("image"),
             "location": a.get("location"),
+            "distance_km": distance_km(a, cfg["search"].get("home")),
+            "lat": a.get("lat"),
+            "lon": a.get("lon"),
             "make": a.get("make"),
             "model_family": mr.get("family"),
             "found_by": a.get("found_by") or ["kategori"],
@@ -321,6 +385,7 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
             "extras": items,
             "extras_excluded": [k for k, v in (ext.get("equipment") or {}).items() if not v.get("included")],
             "extras_value": ev,
+            "extras_typical": round(typical_ev),
             "adjusted_price": round(adj_price),
             "fair_price": round(fair),
             "value": round(value, 3),
@@ -330,7 +395,8 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
             "outlier": not bool(fit),
             "too_good": bool(r_log > 2.5 * resid_sd),
             "breakdown": breakdown,
-            "comparables": comparables(mr, rows),
+            "comparables": comp["list"],
+            "comparables_weight": round(comp_info[2], 2) if comp_info else 0.0,
         })
     out.sort(key=lambda r: r["score"], reverse=True)
     for i, r in enumerate(out, 1):

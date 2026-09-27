@@ -7,6 +7,8 @@
   "boat_year": 2025,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 9.8,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -42,8 +44,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "4 m gummibåt 2025 – Tohatsu 9,8 hk, elmotor och ekolod (komplett fiskepaket)",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25468355/1158cb9b-db49-4050-8cf3-42abe48a45bc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.81892,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25468355/1158cb9b-db49-4050-8cf3-42abe48a45bc",
+  "https://images.blocketcdn.se/dynamic/default/item/25468355/2ab6ce70-90b6-40b8-8a07-91b444ea0896",
+  "https://images.blocketcdn.se/dynamic/default/item/25468355/25d87d24-09cd-4d00-96d2-b253f2cfaf13",
+  "https://images.blocketcdn.se/dynamic/default/item/25468355/a70737d9-0d96-46a9-b7af-9f5ad35e8be0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.82,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +81,13 @@
   "text_sha": "c248e35c857eb079"
  },
  "location": "Gråbo",
- "lon": 12.25575,
+ "lon": 12.26,
  "make": "Nova",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 9.800000190734863,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 865,
   "fetched_ts": 1790507897545,
@@ -106,7 +115,7 @@
   "Sittplatser": "4",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25468355",
  "width_cm": 0,
  "year": 2025

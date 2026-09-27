@@ -7,6 +7,8 @@
   "boat_year": 2015,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude e-tec",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Persson båt 520 DL inkl motor & vagn",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25803833/3cfa58bd-f40f-42ba-8ca5-206cbf300737",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.41301,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25803833/3cfa58bd-f40f-42ba-8ca5-206cbf300737",
+  "https://images.blocketcdn.se/dynamic/default/item/25803833/57d38c0d-ede1-4302-9239-dbd1b6e355d7",
+  "https://images.blocketcdn.se/dynamic/default/item/25803833/e1180fbe-85c9-478c-a976-eaa4c139dc00",
+  "https://images.blocketcdn.se/dynamic/default/item/25803833/7f97581d-4c1a-4cea-90e3-7e3d762a9403",
+  "https://images.blocketcdn.se/dynamic/default/item/25803833/828346d5-ea23-42d4-9008-c702bfcb9d96"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.41,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "1817ad0b6d3923a8"
  },
  "location": "Norrfjärden",
- "lon": 21.50575,
+ "lon": 21.51,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 196,
   "fetched_ts": 1790508208819,
@@ -98,7 +108,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "250 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25803833",
  "width_cm": 200,
  "year": 2015

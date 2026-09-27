@@ -7,6 +7,8 @@
   "boat_year": 2012,
   "boat_year_source": "spec",
   "engine_hours": 110,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -43,8 +45,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 478 GTI 2012",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23968885/bc271b16-ebb8-4ace-b81e-f1a49e70886a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.69358,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23968885/bc271b16-ebb8-4ace-b81e-f1a49e70886a",
+  "https://images.blocketcdn.se/dynamic/default/item/23968885/ac00be1f-14ed-4b9a-919f-bc02209768ea",
+  "https://images.blocketcdn.se/dynamic/default/item/23968885/f0f6165e-e331-4250-bf24-1e4b34a053c9",
+  "https://images.blocketcdn.se/dynamic/default/item/23968885/519edd5a-7d6f-4859-b09a-2334fd478f14",
+  "https://images.blocketcdn.se/dynamic/default/item/23968885/55f016c0-e5f8-46fd-a32e-65809d60089d",
+  "https://images.blocketcdn.se/dynamic/default/item/23968885/6f5c466e-c4bb-4631-a720-a6f5a95f0e25",
+  "https://images.blocketcdn.se/dynamic/default/item/23968885/6ee0ba85-617a-45d8-b409-90e4c4671644"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.69,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +85,13 @@
   "text_sha": "6c14075ac8c91f15"
  },
  "location": "Landvetter",
- "lon": 12.20032,
+ "lon": 12.2,
  "make": "Ryds",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 375,
   "fetched_ts": 1790507558494,
@@ -106,7 +118,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23968885",
  "width_cm": 0,
  "year": 2012

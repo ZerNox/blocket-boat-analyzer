@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Flipper 450 HT, byte vattenskoter",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25543600/8f81b54f-f871-484b-a475-0fd1ca4f90e3",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.77817,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25543600/8f81b54f-f871-484b-a475-0fd1ca4f90e3",
+  "https://images.blocketcdn.se/dynamic/default/item/25543600/dd9ce248-1a6a-4ada-93b7-a9bbf1dc0d27",
+  "https://images.blocketcdn.se/dynamic/default/item/25543600/e1ad9def-4f82-4652-970b-856b5353b412"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.78,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +76,13 @@
   "text_sha": "5b6e36c5a636b2fb"
  },
  "location": "Uppsala",
- "lon": 17.50546,
+ "lon": 17.51,
  "make": "Flipper",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 226,
   "fetched_ts": 1790507977946,
@@ -102,7 +110,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25543600",
  "width_cm": 0,
  "year": 1978

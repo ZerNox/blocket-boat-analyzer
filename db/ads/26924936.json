@@ -7,6 +7,8 @@
   "boat_year": 1986,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden 485 Intruder-Mercury 60 Hk-trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26924936/1820a7f0-fee6-471c-b05c-8f09654f2de8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.4605,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26924936/1820a7f0-fee6-471c-b05c-8f09654f2de8",
+  "https://images.blocketcdn.se/dynamic/default/item/26924936/bd669a51-461c-4278-8045-946f27310c47"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.46,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +71,13 @@
   "text_sha": "32c215744d2d6167"
  },
  "location": "Vallda",
- "lon": 11.91951,
+ "lon": 11.92,
  "make": "Askeladden",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 317,
   "fetched_ts": 1790509032767,
@@ -96,7 +103,7 @@
   "Märke": "Askeladden",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26924936",
  "width_cm": 0,
  "year": 1986

@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Forbina Bambina",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25978092/4dd709f2-1085-42cf-a215-320d534f1f79",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.26736,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25978092/4dd709f2-1085-42cf-a215-320d534f1f79",
+  "https://images.blocketcdn.se/dynamic/default/item/25978092/ce9eed34-1e21-4f62-8f7a-b372b3292564",
+  "https://images.blocketcdn.se/dynamic/default/item/25978092/d988853d-59a3-4786-9028-70ad379a33c6",
+  "https://images.blocketcdn.se/dynamic/default/item/25978092/908b0df3-7991-4a7b-9409-15df9476de99",
+  "https://images.blocketcdn.se/dynamic/default/item/25978092/6b1cb158-221c-489a-bef2-d21969c62096",
+  "https://images.blocketcdn.se/dynamic/default/item/25978092/b8ad311c-571a-4216-8c28-d9dda754be97",
+  "https://images.blocketcdn.se/dynamic/default/item/25978092/d034f70e-3be3-42c0-bd04-7f51cfb48ae3",
+  "https://images.blocketcdn.se/dynamic/default/item/25978092/291e7809-3de6-4fb0-b670-187e64ca02c7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.27,
  "length_ft": 10,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +77,13 @@
   "text_sha": "61db745ecb755132"
  },
  "location": "Kristinehamn",
- "lon": 14.02183,
+ "lon": 14.02,
  "make": "Forbina",
  "max_speed": 28,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 132,
   "fetched_ts": 1790508349601,
@@ -98,7 +111,7 @@
   "Toppfart": "28 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25978092",
  "width_cm": 0,
  "year": 1995

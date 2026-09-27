@@ -7,6 +7,8 @@
   "boat_year": 2017,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern S45",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24040844/3d3c02b3-fc87-42dd-ac47-f569f18c203c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.23677,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24040844/3d3c02b3-fc87-42dd-ac47-f569f18c203c",
+  "https://images.blocketcdn.se/dynamic/default/item/24040844/2466ec65-46f6-414d-8187-f39d017d98b3",
+  "https://images.blocketcdn.se/dynamic/default/item/24040844/fa41b049-51a0-4666-bad5-06a25e94c01c",
+  "https://images.blocketcdn.se/dynamic/default/item/24040844/2dca2f60-07f9-474e-aed6-c0afa42a26e4",
+  "https://images.blocketcdn.se/dynamic/default/item/24040844/3e27589b-1e3e-4477-9f41-9ab9a4e0f706",
+  "https://images.blocketcdn.se/dynamic/default/item/24040844/419a5b91-c0ee-43a5-b709-62fef875dee2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.24,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +76,13 @@
   "text_sha": "a8989a38c3092159"
  },
  "location": "Stora Mellösa",
- "lon": 15.55252,
+ "lon": 15.55,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 60.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 39,
   "fetched_ts": 1790507565254,
@@ -95,7 +106,7 @@
   "Märke": "Uttern",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24040844",
  "width_cm": 0,
  "year": 2017

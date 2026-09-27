@@ -7,6 +7,8 @@
   "boat_year": 1998,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnson 30",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -43,8 +45,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Vator 14R Fiskebåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23866458/87a92f99-59e6-4495-84ce-c870777e091e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.36778,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23866458/87a92f99-59e6-4495-84ce-c870777e091e",
+  "https://images.blocketcdn.se/dynamic/default/item/23866458/bd63529b-2b79-43ba-811c-a550ad9b51c6",
+  "https://images.blocketcdn.se/dynamic/default/item/23866458/3f5ff1ac-da53-45d5-bfea-636e3a0f46db",
+  "https://images.blocketcdn.se/dynamic/default/item/23866458/2a528c2b-c4d2-4cad-be16-16b7759af046",
+  "https://images.blocketcdn.se/dynamic/default/item/23866458/fa6a3c55-e5f7-45ab-9639-5d9247277c84"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.37,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +83,13 @@
   "text_sha": "49da35081008a333"
  },
  "location": "Eskilstuna",
- "lon": 16.42215,
+ "lon": 16.42,
  "make": "Vator",
  "max_speed": 21,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1130,
   "fetched_ts": 1790507543096,
@@ -107,7 +117,7 @@
   "Toppfart": "21 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23866458",
  "width_cm": 0,
  "year": 1998

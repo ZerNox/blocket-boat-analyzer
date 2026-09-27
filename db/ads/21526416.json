@@ -7,6 +7,8 @@
   "boat_year": 1970,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20,
+  "engine_hp_source": "llm",
   "engine_maker": "Bukh",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -29,8 +31,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Tillfälle! Prissänkt! Landskrona snipa",
  "image": "https://images.blocketcdn.se/dynamic/default/item/21526416/0763267f-9567-4057-bc6b-e70fe90c362c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.74176,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21526416/0763267f-9567-4057-bc6b-e70fe90c362c",
+  "https://images.blocketcdn.se/dynamic/default/item/21526416/122ee02f-b32c-4371-99ff-63c9f626d40a",
+  "https://images.blocketcdn.se/dynamic/default/item/21526416/a1539b61-088a-45f9-9e94-15330804ac24",
+  "https://images.blocketcdn.se/dynamic/default/item/21526416/464d9f42-b952-43b1-96ae-ee65be21f8c2",
+  "https://images.blocketcdn.se/dynamic/default/item/21526416/e12affc7-f9ab-4955-8527-11ff8ec2d362",
+  "https://images.blocketcdn.se/dynamic/default/item/21526416/6ada2bc0-0624-4ee1-87cd-1229267379fc",
+  "https://images.blocketcdn.se/dynamic/default/item/21526416/5455f750-7533-499f-a5fd-639a25c511fe",
+  "https://images.blocketcdn.se/dynamic/default/item/21526416/55da8602-c0bb-4938-92ce-63c494708369",
+  "https://images.blocketcdn.se/dynamic/default/item/21526416/a912e707-3d31-4c08-8c57-fc127e276be5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.74,
  "length_ft": 21,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +73,13 @@
   "text_sha": "51d18fed02c081d8"
  },
  "location": "Löddeköpinge",
- "lon": 12.9728,
+ "lon": 12.97,
  "make": "Övriga",
  "max_speed": 6,
  "motor_fuel": "Diesel",
  "motor_size": 20.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 36,
   "fetched_ts": 1790507427288,
@@ -95,7 +109,7 @@
   "Toppfart": "6 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/21526416",
  "width_cm": 250,
  "year": 1970

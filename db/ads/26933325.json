@@ -1,0 +1,98 @@
+{
+ "ad_id": 26933325,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790514128000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Crescent 47 med 2 motorer, ekolod, trailer samt mycket tillbehör",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Crescent 47 med 2 motorer, ekolod, trailer samt mycket tillbehör",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Crescent 47 med 2 motorer, ekolod, trailer samt mycket tillbehör",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26933325/1a7764ed-b4db-4a3e-990c-27485bc0518f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26933325/1a7764ed-b4db-4a3e-990c-27485bc0518f",
+  "https://images.blocketcdn.se/dynamic/default/item/26933325/a84f7c97-22a4-496d-a210-592fa3e5d48f",
+  "https://images.blocketcdn.se/dynamic/default/item/26933325/7c39863c-9bc1-4f76-b2b1-0cc6b9cfb997",
+  "https://images.blocketcdn.se/dynamic/default/item/26933325/83492ae9-814a-429b-8642-5d49574bf4b2",
+  "https://images.blocketcdn.se/dynamic/default/item/26933325/742ea176-7869-40de-b994-d03cb551b5e0",
+  "https://images.blocketcdn.se/dynamic/default/item/26933325/f99024c9-77ac-4a86-ab63-8f65a0e225c0",
+  "https://images.blocketcdn.se/dynamic/default/item/26933325/f8719a89-32c6-484f-bf05-2d98b1ee9419"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.77,
+ "length_ft": 15,
+ "location": "Löberöd",
+ "lon": 13.47,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1104,
+  "fetched_ts": 1790521100216,
+  "text_sha": "acd928345aaefdb5"
+ },
+ "price": 12000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12000
+  }
+ ],
+ "specs": {
+  "Bredd": "190 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "Crescent 47 \"Säkerhetsbåten\"",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "235 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26933325",
+ "width_cm": 190,
+ "year": 1980
+}

@@ -7,6 +7,8 @@
   "boat_year": 1989,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 150.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury F150 Efi",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Seastar 670",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26719466/4f909b98-c818-4ff8-97f2-51f28e418e80",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.41541,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26719466/4f909b98-c818-4ff8-97f2-51f28e418e80",
+  "https://images.blocketcdn.se/dynamic/default/item/26719466/26beb125-3a8b-43c0-9997-a0d375d5b1e1",
+  "https://images.blocketcdn.se/dynamic/default/item/26719466/e22a1276-387d-45ea-a292-290193f50669",
+  "https://images.blocketcdn.se/dynamic/default/item/26719466/99c27c86-e358-47a3-b507-2480a0777277",
+  "https://images.blocketcdn.se/dynamic/default/item/26719466/185adc70-eea9-4ddd-af2f-cb4d1690c823",
+  "https://images.blocketcdn.se/dynamic/default/item/26719466/a0144e7e-2c0c-4bf8-aabb-4962f3ee4787"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.42,
  "length_ft": 22,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "9e5cfd9136ee3b67"
  },
  "location": "Sollentuna",
- "lon": 17.97923,
+ "lon": 17.98,
  "make": "Sea Star",
  "max_speed": 36,
  "motor_fuel": null,
  "motor_size": 0.15000000596046448,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 216,
   "fetched_ts": 1790508891105,
@@ -90,7 +101,7 @@
   "Toppfart": "36 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26719466",
  "width_cm": 240,
  "year": 1989

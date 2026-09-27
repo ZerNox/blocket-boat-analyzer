@@ -1,0 +1,133 @@
+{
+ "ad_id": 26519355,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1789808982000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "OK kapell med omsydda sömmar och några nya rutor, dynorna är i sämre skick men funkar.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance HDS7 kartplotter.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "ljebåt med möjlighet till övernattning, perfekt som badbåt, trolling eller tex. hummerfiske. OK kapell med",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds Camping",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26519355/40c7bb51-3993-4691-8d22-f69699e5ff9d",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26519355/40c7bb51-3993-4691-8d22-f69699e5ff9d",
+  "https://images.blocketcdn.se/dynamic/default/item/26519355/835a0436-1dc4-41e4-91b5-d28e5b8db9dd",
+  "https://images.blocketcdn.se/dynamic/default/item/26519355/44a044d2-abde-4568-839a-61c771cfcf6d",
+  "https://images.blocketcdn.se/dynamic/default/item/26519355/349c47ee-4587-4b3c-8fbb-d78aa7b89ec1",
+  "https://images.blocketcdn.se/dynamic/default/item/26519355/7818c64d-3cfc-40e3-84d4-3969ef5f5d53",
+  "https://images.blocketcdn.se/dynamic/default/item/26519355/d16a4595-17e7-4b30-8a8a-a104194a195d",
+  "https://images.blocketcdn.se/dynamic/default/item/26519355/704fde64-1194-47b2-b469-d0d44f2ef03b",
+  "https://images.blocketcdn.se/dynamic/default/item/26519355/269f6490-6ebd-4ea1-aaa5-a67d35aa0ccd",
+  "https://images.blocketcdn.se/dynamic/default/item/26519355/96207f63-fe01-44cb-9382-f261441fef30",
+  "https://images.blocketcdn.se/dynamic/default/item/26519355/78927d0b-dcca-4d37-9139-4d8f561aafd5",
+  "https://images.blocketcdn.se/dynamic/default/item/26519355/f926fa8a-1166-49f4-985e-ddc6e0a338c5",
+  "https://images.blocketcdn.se/dynamic/default/item/26519355/753380ab-7076-4de2-a400-ff36b13b31ea"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.69,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "dbb477079df489da"
+ },
+ "location": "Hönö",
+ "lon": 11.66,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 313,
+  "fetched_ts": 1790523183515,
+  "text_sha": "dbb477079df489da"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "Ryds camping",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Kabinbåt",
+  "Vikt": "625 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26519355",
+ "width_cm": 220,
+ "year": 1978
+}

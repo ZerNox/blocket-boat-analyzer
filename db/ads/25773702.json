@@ -7,6 +7,8 @@
   "boat_year": 1996,
   "boat_year_source": "spec",
   "engine_hours": 355,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha F50",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -43,8 +45,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster L",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25773702/6e52c072-b828-4f04-8d95-182b9b28fa24",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.27932,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25773702/6e52c072-b828-4f04-8d95-182b9b28fa24",
+  "https://images.blocketcdn.se/dynamic/default/item/25773702/2043e0ad-7146-4e29-8be6-f867ed350233",
+  "https://images.blocketcdn.se/dynamic/default/item/25773702/d4e18b1c-fac6-4dbd-8e32-84b1a7ce4b3f",
+  "https://images.blocketcdn.se/dynamic/default/item/25773702/5242dd96-42c8-4070-b259-991fc01d02d3",
+  "https://images.blocketcdn.se/dynamic/default/item/25773702/8456f0be-361d-4951-bc02-64588e2f84a9",
+  "https://images.blocketcdn.se/dynamic/default/item/25773702/c2f7dfff-d01f-4838-a4d0-e8fe67d1573c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.28,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -75,12 +85,13 @@
   "text_sha": "15db5562518a8256"
  },
  "location": "Älvsjö",
- "lon": 17.98193,
+ "lon": 17.98,
  "make": "Buster",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 800,
   "fetched_ts": 1790508177907,
@@ -107,7 +118,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25773702",
  "width_cm": 0,
  "year": 1996

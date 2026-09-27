@@ -7,6 +7,8 @@
   "boat_year": 1986,
   "boat_year_source": "spec",
   "engine_hours": 123,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude e-tec",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Persson Båt 640 Sidopulpet + Evinrude E-TEC 60 hk (Låga timmar!)",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25562926/68b19a14-7606-4374-95ef-2dc4fc7c2089",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.71649,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25562926/68b19a14-7606-4374-95ef-2dc4fc7c2089",
+  "https://images.blocketcdn.se/dynamic/default/item/25562926/39eee493-e14b-436a-b497-715e1147a86b",
+  "https://images.blocketcdn.se/dynamic/default/item/25562926/d179eea2-8d46-4cc3-afc6-347be9a04922",
+  "https://images.blocketcdn.se/dynamic/default/item/25562926/8bf9637f-6772-4501-8969-dee624263012",
+  "https://images.blocketcdn.se/dynamic/default/item/25562926/ebfd0d30-16f5-4fab-8ddd-accac28d9876",
+  "https://images.blocketcdn.se/dynamic/default/item/25562926/2f0a80ae-1065-4907-a0b4-d16174a07d40"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.72,
  "length_ft": 21,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +76,13 @@
   "text_sha": "145c59b586b4f678"
  },
  "location": "Kalix-Nyborg",
- "lon": 23.25804,
+ "lon": 23.26,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 962,
   "fetched_ts": 1790508001895,
@@ -98,7 +109,7 @@
   "Märke": "Övriga",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25562926",
  "width_cm": 235,
  "year": 1986

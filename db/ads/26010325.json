@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Chrysler",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -36,8 +38,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sportbåt Selco - Chrysler 75hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26010325/18b297ba-d3f7-4184-a44c-0322ecd56c2c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.37735,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26010325/18b297ba-d3f7-4184-a44c-0322ecd56c2c",
+  "https://images.blocketcdn.se/dynamic/default/item/26010325/c72c63c9-60d0-47be-a2ec-851b55afe9df",
+  "https://images.blocketcdn.se/dynamic/default/item/26010325/7214ae49-d86c-4e16-a98e-bcdfe356c6c3",
+  "https://images.blocketcdn.se/dynamic/default/item/26010325/9661f69e-bd56-465e-a929-227de19815c2",
+  "https://images.blocketcdn.se/dynamic/default/item/26010325/665a5dd4-fab6-48e2-9bc3-b5772c13612b",
+  "https://images.blocketcdn.se/dynamic/default/item/26010325/aeb12210-2d33-4cf0-b91f-3feb7f93abf2",
+  "https://images.blocketcdn.se/dynamic/default/item/26010325/806f8659-9610-422e-bf19-c3cf0e73b787"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.38,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +78,13 @@
   "text_sha": "8394b6c24932e749"
  },
  "location": "Moliden",
- "lon": 18.44261,
+ "lon": 18.44,
  "make": "Selco",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 720,
   "fetched_ts": 1790508378629,
@@ -101,7 +113,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26010325",
  "width_cm": 0,
  "year": 1975

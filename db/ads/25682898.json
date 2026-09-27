@@ -7,6 +7,8 @@
   "boat_year": 1977,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha 50 hp 2takt",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Weedo gt 1977",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25682898/a5b807a5-c777-4213-9c72-b2867209ec78",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 64.08857,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25682898/a5b807a5-c777-4213-9c72-b2867209ec78",
+  "https://images.blocketcdn.se/dynamic/default/item/25682898/594f74a5-f5ee-4f3a-9a8c-151be130d2e2",
+  "https://images.blocketcdn.se/dynamic/default/item/25682898/f8025252-2c3c-4f21-bfef-b2b95d8aa410"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 64.09,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "a36c84c454d7b8b3"
  },
  "location": "Sävar",
- "lon": 20.41763,
+ "lon": 20.42,
  "make": "Yamaha",
  "max_speed": 50,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 39,
   "fetched_ts": 1790508093625,
@@ -101,7 +109,7 @@
   "Toppfart": "50 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25682898",
  "width_cm": 200,
  "year": 1977

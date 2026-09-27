@@ -1,0 +1,103 @@
+{
+ "ad_id": 26342100,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788632969000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": 30,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury 50",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1979,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt och motor från 1979, allt funkar perfekt.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Ståkapell i fint skick (2022), fendrar, kätting med lås.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Solvigg 18, Mercury 50 HP med besiktigat 80 släp",
+    "included": true,
+    "kmh": 80,
+    "year": 2014
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Solvigg 18, Mercury 50 HP med besiktigat 80 släp",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26342100/ac9c9f10-cf1a-4f98-b420-22b20b9136c3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26342100/ac9c9f10-cf1a-4f98-b420-22b20b9136c3",
+  "https://images.blocketcdn.se/dynamic/default/item/26342100/ad4acb90-d0b4-48e6-95a8-ba8123dfcc5b",
+  "https://images.blocketcdn.se/dynamic/default/item/26342100/784b43d7-63da-4968-b917-35b91014f19e",
+  "https://images.blocketcdn.se/dynamic/default/item/26342100/6de01e01-1664-4fe5-88a8-35603b8e866c",
+  "https://images.blocketcdn.se/dynamic/default/item/26342100/a0581259-e930-426f-bc5c-e2a9bb73fb59",
+  "https://images.blocketcdn.se/dynamic/default/item/26342100/8714cb25-d22e-4fd8-a801-59267379f83e",
+  "https://images.blocketcdn.se/dynamic/default/item/26342100/dd551607-add5-4b9b-ba68-1a00687cc2da",
+  "https://images.blocketcdn.se/dynamic/default/item/26342100/fbfebc6b-69d0-426c-a13a-e796de6e9c22",
+  "https://images.blocketcdn.se/dynamic/default/item/26342100/9eb268d1-0d29-4124-b8bb-3205cd0f4a5a",
+  "https://images.blocketcdn.se/dynamic/default/item/26342100/0c0aa536-09de-4d39-9596-12ab83896670"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.45,
+ "length_ft": 18,
+ "location": "Söderåkra",
+ "lon": 16.1,
+ "make": "Solvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 361,
+  "fetched_ts": 1790523147244,
+  "text_sha": "0f16dec6dd4c0070"
+ },
+ "price": 39000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 39000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Djupgående": "35 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "Solvigg 18",
+  "Modellår": "1979",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury 50",
+  "Motortyp": "Utombordare",
+  "Märke": "Solvik",
+  "Typ": "Kabinbåt",
+  "Vikt": "550 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26342100",
+ "width_cm": 0,
+ "year": 1979
+}

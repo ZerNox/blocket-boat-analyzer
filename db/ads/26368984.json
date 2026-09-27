@@ -7,6 +7,8 @@
   "boat_year": 1988,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -31,8 +33,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 465 styrpulpet med Yamaha 20 hk tvåtakt (Autolube).",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26368984/5a629203-83af-48a8-acf2-bd677e8aace0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.51963,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26368984/5a629203-83af-48a8-acf2-bd677e8aace0",
+  "https://images.blocketcdn.se/dynamic/default/item/26368984/d8722614-8265-4036-96c4-cfe1ecaa7c9b",
+  "https://images.blocketcdn.se/dynamic/default/item/26368984/858fbe1d-4ca8-486d-93e6-9adeaba1f590"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.52,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -62,12 +69,13 @@
   "text_sha": "9b1091f21914cc03"
  },
  "location": "Vallentuna",
- "lon": 18.06245,
+ "lon": 18.06,
  "make": "Crescent",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1192,
   "fetched_ts": 1790508632918,
@@ -99,7 +107,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "290 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26368984",
  "width_cm": 180,
  "year": 1988

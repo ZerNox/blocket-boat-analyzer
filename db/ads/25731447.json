@@ -1,0 +1,108 @@
+{
+ "ad_id": 25731447,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786800041000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": 150,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2013,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamaha F70 AETL-B (2013), servad varje säsong, plotter & kapell.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin GPSmap 720s plotter med touchskärm och ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Yamaha F70 AETL-B (2013), servad varje säsong, plotter & kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Yamaha F70 AETL-B (2013), servad varje säsong, plotter & kapell",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 530 HT – Yamaha F70 AETL-B (2013), servad varje säsong, plotter & kapell",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Örnvik 530"
+ ],
+ "heading": "Örnvik 530 HT – Yamaha F70 AETL-B (2013), servad varje säsong, plotter & kapell",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25731447/35e36cbc-dbb1-4060-86ba-165edb769a8d",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25731447/35e36cbc-dbb1-4060-86ba-165edb769a8d",
+  "https://images.blocketcdn.se/dynamic/default/item/25731447/79803755-3d69-44ae-a308-75094a1fdd12",
+  "https://images.blocketcdn.se/dynamic/default/item/25731447/3daaedcb-657b-4715-b566-c73169f9783e",
+  "https://images.blocketcdn.se/dynamic/default/item/25731447/f706edfb-cc89-480b-8b67-9178cfa90a15",
+  "https://images.blocketcdn.se/dynamic/default/item/25731447/75c7ae10-a2c4-48e9-9d5c-bba23e7e8b53",
+  "https://images.blocketcdn.se/dynamic/default/item/25731447/5f8cca5a-31ca-4047-8123-3238dfdc238d",
+  "https://images.blocketcdn.se/dynamic/default/item/25731447/566575cc-2654-4f5b-823c-9d5ddb3fbeeb",
+  "https://images.blocketcdn.se/dynamic/default/item/25731447/5463a192-ae87-4a53-8e8f-3a6d2f286fd3",
+  "https://images.blocketcdn.se/dynamic/default/item/25731447/759b7111-800f-4b11-a4d1-21cce04d3fef",
+  "https://images.blocketcdn.se/dynamic/default/item/25731447/f76a2f3f-dd94-429d-a1ec-4253ad3b46e9",
+  "https://images.blocketcdn.se/dynamic/default/item/25731447/b965b0bd-720c-4f77-8f3b-df0331c69853",
+  "https://images.blocketcdn.se/dynamic/default/item/25731447/947d5c60-0205-4375-a7ca-fff3cb1ab929"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.36,
+ "length_ft": 17,
+ "location": "Bromma",
+ "lon": 17.9,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 576,
+  "fetched_ts": 1790523050961,
+  "text_sha": "d1d1c6fc97cff5a4"
+ },
+ "price": 89000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 89000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "530 HT",
+  "Modellår": "1976",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25731447",
+ "width_cm": 0,
+ "year": 1976
+}

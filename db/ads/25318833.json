@@ -1,0 +1,109 @@
+{
+ "ad_id": 25318833,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785659365000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Nissan crysler",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Båt 28 fot",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25318833/f2cd6e1c-cbc3-4fa0-b359-8c4d42a749a3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25318833/f2cd6e1c-cbc3-4fa0-b359-8c4d42a749a3",
+  "https://images.blocketcdn.se/dynamic/default/item/25318833/a7aebc73-d5a2-4308-9fcc-6b400e1b7b6c",
+  "https://images.blocketcdn.se/dynamic/default/item/25318833/2cdc6e4c-e2c4-46bf-bb64-a1197a7212e0",
+  "https://images.blocketcdn.se/dynamic/default/item/25318833/940a4a9f-34c0-4371-b85f-a689118314c1",
+  "https://images.blocketcdn.se/dynamic/default/item/25318833/f23d0f85-df9b-4126-88b0-077aff474720",
+  "https://images.blocketcdn.se/dynamic/default/item/25318833/41dd1d67-5fc4-4a60-8b7c-f01dc3bc873c",
+  "https://images.blocketcdn.se/dynamic/default/item/25318833/faf16fa9-b31e-4dcc-a960-13dc7cc002d1",
+  "https://images.blocketcdn.se/dynamic/default/item/25318833/1dd66e98-2539-4a17-8708-3b434557824c",
+  "https://images.blocketcdn.se/dynamic/default/item/25318833/bfd943b0-c76e-41a8-a699-d2da1190ed75"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.38,
+ "length_ft": 28,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1970,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Nissan crysler",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5a5fdf484e4acd26"
+ },
+ "location": "Vargön",
+ "lon": 12.45,
+ "make": "Oxelö",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 278,
+  "fetched_ts": 1790520676855,
+  "text_sha": "5a5fdf484e4acd26"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "28 fot",
+  "Modellår": "1970",
+  "Motortillverkare": "Nissan crysler",
+  "Motortyp": "Inombordare",
+  "Märke": "Oxelö",
+  "Typ": "Hyttbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25318833",
+ "width_cm": 0,
+ "year": 1970
+}

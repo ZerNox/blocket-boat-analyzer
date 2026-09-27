@@ -1,0 +1,82 @@
+{
+ "ad_id": 24069315,
+ "boat_class": "Annat",
+ "changed_ts": 1786650043000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Eventuellt kan båtvagnen ingå för 5 000 kr extra.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Crescent Flexi",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24069315/d8e4d68e-5e85-4083-a56e-5d1a1386cbf5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24069315/d8e4d68e-5e85-4083-a56e-5d1a1386cbf5",
+  "https://images.blocketcdn.se/dynamic/default/item/24069315/fc280274-7964-46fa-91b2-52e6a88ac131",
+  "https://images.blocketcdn.se/dynamic/default/item/24069315/bc3b3405-b883-459f-a482-5740fb33864a",
+  "https://images.blocketcdn.se/dynamic/default/item/24069315/6ae6b5c8-f4a5-48df-8581-cca3357f6820",
+  "https://images.blocketcdn.se/dynamic/default/item/24069315/8d7b4413-1012-439d-aa9f-85f03ff96683"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.31,
+ "length_ft": 15,
+ "location": "Saltsjö-Boo",
+ "lon": 18.3,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 156,
+  "fetched_ts": 1790520630902,
+  "text_sha": "892358d36ec2ef5a"
+ },
+ "price": 19000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 19000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "Flexi",
+  "Modellår": "2005",
+  "Motor inkluderad": "Nej",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Plast",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/24069315",
+ "width_cm": 0,
+ "year": 2005
+}

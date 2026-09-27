@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 498 styrpulpet Yamaha 40 Hk Autolube",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25761362/d0c9f111-03ba-44ab-8819-513d6a5a9aac",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.97667,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25761362/d0c9f111-03ba-44ab-8819-513d6a5a9aac",
+  "https://images.blocketcdn.se/dynamic/default/item/25761362/f8f32049-57d7-4a5f-a823-f13f91b615c1",
+  "https://images.blocketcdn.se/dynamic/default/item/25761362/8755b1bf-96d2-4a25-8e97-93cfba5bbd0f",
+  "https://images.blocketcdn.se/dynamic/default/item/25761362/21f88724-0196-47ac-a995-b2891aedcac7",
+  "https://images.blocketcdn.se/dynamic/default/item/25761362/fb473962-8721-441a-af1e-2256fffa2e8a",
+  "https://images.blocketcdn.se/dynamic/default/item/25761362/881de86f-e766-4ace-8cfe-d143093a65b5",
+  "https://images.blocketcdn.se/dynamic/default/item/25761362/5379a28d-f7f6-4e8f-87c1-d8a31dbe0460",
+  "https://images.blocketcdn.se/dynamic/default/item/25761362/3af0635a-5fc8-4ab7-b3ed-7b2e7fc67fd3",
+  "https://images.blocketcdn.se/dynamic/default/item/25761362/811302b7-ab5b-4c3c-8e1d-f6d0e2ef1c43",
+  "https://images.blocketcdn.se/dynamic/default/item/25761362/5176e519-2b87-40fb-8ca3-c232be46501d",
+  "https://images.blocketcdn.se/dynamic/default/item/25761362/34bab04c-a160-4762-a3e5-e5d20c1fd903"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.98,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +80,13 @@
   "text_sha": "4361f82a5a863593"
  },
  "location": "Ösmo",
- "lon": 17.97046,
+ "lon": 17.97,
  "make": "Crescent",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 283,
   "fetched_ts": 1790508166029,
@@ -99,7 +115,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25761362",
  "width_cm": 0,
  "year": 1990

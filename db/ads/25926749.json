@@ -7,6 +7,8 @@
   "boat_year": 1993,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt med kastdäck och trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25926749/ae0aac8b-a1bf-447d-8b3f-8820f711c9ff",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.3885,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25926749/ae0aac8b-a1bf-447d-8b3f-8820f711c9ff",
+  "https://images.blocketcdn.se/dynamic/default/item/25926749/8aae9ccc-ed8a-48b8-80f8-8775ef3f0e8f",
+  "https://images.blocketcdn.se/dynamic/default/item/25926749/a2ff5803-5468-4908-8b01-006cf3cdee49"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.39,
  "length_ft": null,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "18fd087937dd97c8"
  },
  "location": "Skövde",
- "lon": 13.83878,
+ "lon": 13.84,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 22,
   "fetched_ts": 1790508307417,
@@ -94,7 +102,7 @@
   "Märke": "Ryds",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25926749",
  "width_cm": 0,
  "year": 1993

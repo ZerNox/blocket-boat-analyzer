@@ -7,6 +7,8 @@
   "boat_year": 1979,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 55.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -28,6 +30,10 @@
     "year": 2001
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 560 HT",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -37,10 +43,20 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Uttern 560"
+ ],
  "heading": "Uttern 560 HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26705695/40d846dd-6389-4346-9cd1-d4030da8bf38",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.53446,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26705695/40d846dd-6389-4346-9cd1-d4030da8bf38",
+  "https://images.blocketcdn.se/dynamic/default/item/26705695/66114ab1-8454-40f6-a07b-7798557c6f82",
+  "https://images.blocketcdn.se/dynamic/default/item/26705695/b2265640-c73e-4020-b249-c76e1e729f2b",
+  "https://images.blocketcdn.se/dynamic/default/item/26705695/8e4dd7a7-7a0f-4803-ad98-fb244f834990",
+  "https://images.blocketcdn.se/dynamic/default/item/26705695/b80a5291-162e-481b-b328-0092c7b0d2ed"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.53,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -70,7 +86,7 @@
   "text_sha": "39d1ac4d76a85ac3"
  },
  "location": "Älmhult",
- "lon": 14.03498,
+ "lon": 14.03,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
@@ -81,11 +97,15 @@
   "fetched_ts": 1790508882907,
   "text_sha": "39d1ac4d76a85ac3"
  },
- "price": 16500,
+ "price": 14900,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 16500
+  },
+  {
+   "date": "2026-09-27",
+   "price": 14900
   }
  ],
  "specs": {

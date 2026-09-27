@@ -7,6 +7,8 @@
   "boat_year": 1998,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Starcraft 441 CLX / Örnvik 441",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25684206/e04b98aa-3596-4153-9d40-057b173c83af",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.72417,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25684206/e04b98aa-3596-4153-9d40-057b173c83af",
+  "https://images.blocketcdn.se/dynamic/default/item/25684206/0234d031-36b0-43fd-8396-8e962d9cfff3",
+  "https://images.blocketcdn.se/dynamic/default/item/25684206/ad91fc53-8d32-4835-ba4c-39996b7a1ead",
+  "https://images.blocketcdn.se/dynamic/default/item/25684206/6b92b8de-3b9b-4949-91b5-e7e730eafa38",
+  "https://images.blocketcdn.se/dynamic/default/item/25684206/a13c4646-3a9e-45fe-a1c3-840fa597b0fd",
+  "https://images.blocketcdn.se/dynamic/default/item/25684206/e578d86d-77e3-4e62-a16d-e6e8d4f73fb5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.72,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +79,13 @@
   "text_sha": "2f8c9a581aa36768"
  },
  "location": "Motala",
- "lon": 14.9642,
+ "lon": 14.96,
  "make": "Starcraft",
  "max_speed": 27,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1011,
   "fetched_ts": 1790508096539,
@@ -106,7 +117,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "310 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25684206",
  "width_cm": 180,
  "year": 1998

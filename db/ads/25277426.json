@@ -1,0 +1,135 @@
+{
+ "ad_id": 25277426,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1785509423000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Johnsson",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Den är 19fot och har ett 2-delat kapell.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Finns badstege, stereo och ett par högtalare.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "HT Båt 19fotare 60hk + 30kärra",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "HT Båt 19fotare 60hk + 30kärra",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "HT Båt 19fotare 60hk + 30kärra",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25277426/90c450d2-f6ed-4237-b373-ca3ff6fccdb0",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25277426/90c450d2-f6ed-4237-b373-ca3ff6fccdb0",
+  "https://images.blocketcdn.se/dynamic/default/item/25277426/1e6980c1-31fa-4984-ac80-492643cdf956",
+  "https://images.blocketcdn.se/dynamic/default/item/25277426/ad031c62-8fa0-453b-8ba0-794f7bb821ba",
+  "https://images.blocketcdn.se/dynamic/default/item/25277426/cb048b2b-ecfa-4d08-9e2c-4a4c09cc4e5d",
+  "https://images.blocketcdn.se/dynamic/default/item/25277426/e113876c-02fa-4e88-a808-6924c5341a27"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.37,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Johnsson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "45f202e4299598db"
+ },
+ "location": "Hjo",
+ "lon": 14.4,
+ "make": "Övriga",
+ "max_speed": 24,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 398,
+  "fetched_ts": 1790522959907,
+  "text_sha": "45f202e4299598db"
+ },
+ "price": 34500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 34500
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "Finmar sea cabin 570",
+  "Modellår": "1980",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Johnsson",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "24 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "750 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25277426",
+ "width_cm": 220,
+ "year": 1980
+}

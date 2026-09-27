@@ -7,6 +7,8 @@
   "boat_year": 2005,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -43,8 +45,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern s46 Exclusive",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25671084/f4995b18-a123-4859-b90f-9663ee6a25ff",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.07993,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25671084/f4995b18-a123-4859-b90f-9663ee6a25ff",
+  "https://images.blocketcdn.se/dynamic/default/item/25671084/8a6913aa-8fda-4d33-b5b8-555085fb1981",
+  "https://images.blocketcdn.se/dynamic/default/item/25671084/c453e052-339c-4c8e-b6f8-72ad55c0852f",
+  "https://images.blocketcdn.se/dynamic/default/item/25671084/d097ce87-7a90-4dc8-ae25-dd79cdbd6917",
+  "https://images.blocketcdn.se/dynamic/default/item/25671084/47dcbc39-e86c-4a41-9f4d-df9b870aa54d",
+  "https://images.blocketcdn.se/dynamic/default/item/25671084/d86f30f6-5c83-4958-bf69-3a98fe180825"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.08,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +84,13 @@
   "text_sha": "df22cc5616170061"
  },
  "location": "Värnamo",
- "lon": 13.95206,
+ "lon": 13.95,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 108,
   "fetched_ts": 1790508082019,
@@ -105,7 +116,7 @@
   "Märke": "Uttern",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25671084",
  "width_cm": 0,
  "year": 2005

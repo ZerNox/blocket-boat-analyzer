@@ -1,0 +1,120 @@
+{
+ "ad_id": 25051306,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1786640493000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
+  "engine_maker": "Tuhatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Runnö 19",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25051306/400d365b-d52e-4d03-9ed0-4cc277d23940",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25051306/400d365b-d52e-4d03-9ed0-4cc277d23940",
+  "https://images.blocketcdn.se/dynamic/default/item/25051306/187c0d08-e7b6-492f-9d98-c048a86a44bb",
+  "https://images.blocketcdn.se/dynamic/default/item/25051306/5d8589f7-75d9-4ff8-ba25-1c7a12bf1ede",
+  "https://images.blocketcdn.se/dynamic/default/item/25051306/8264b668-d5ef-40e3-8e1a-59fedbfa9dac",
+  "https://images.blocketcdn.se/dynamic/default/item/25051306/8d263f87-75e4-4660-bf0c-d3e38a774adc"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.6,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1970,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Tuhatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "216e0254a1549eac"
+ },
+ "location": "Donsö",
+ "lon": 11.82,
+ "make": "Runn37",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 234,
+  "fetched_ts": 1790522944506,
+  "text_sha": "216e0254a1549eac"
+ },
+ "price": 17000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 17000
+  }
+ ],
+ "specs": {
+  "Bredd": "250 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "Runnö 19",
+  "Modellår": "1970",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Tuhatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Runn37",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "27 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "400 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25051306",
+ "width_cm": 250,
+ "year": 1970
+}

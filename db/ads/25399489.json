@@ -1,0 +1,130 @@
+{
+ "ad_id": 25399489,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785858332000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": 137,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mariner Optimax",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "stereo": {
+    "evidence": "Hydralstyrning samt stereo installerad.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailern till båten är en obesiktad 80- trailer av märke Thule.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 530 DC 90 hk Optimax",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Ryds 530"
+ ],
+ "heading": "Ryds 530 DC 90 hk Optimax",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25399489/57d2e64c-7a3a-4898-ab74-17924ca9e00a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25399489/57d2e64c-7a3a-4898-ab74-17924ca9e00a",
+  "https://images.blocketcdn.se/dynamic/default/item/25399489/8929fa9d-0182-4dce-9daf-7162334e1bd7",
+  "https://images.blocketcdn.se/dynamic/default/item/25399489/f1248076-3ebd-4860-8aa3-4977ab9b79e1",
+  "https://images.blocketcdn.se/dynamic/default/item/25399489/b8344432-a0b1-4f95-a293-a1adc8c0c86d",
+  "https://images.blocketcdn.se/dynamic/default/item/25399489/aaa63a6d-acec-461b-85d5-5c424c51a58a",
+  "https://images.blocketcdn.se/dynamic/default/item/25399489/e93f039c-5f09-48e1-b20b-77633140edaf"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.27,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1989,
+   "engine_hours": 137,
+   "engine_hp": 90,
+   "engine_maker": "Optimax",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Optimaxen har endast 137 timmars gångtid.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9083f1e070f3ef37"
+ },
+ "location": "Örebro",
+ "lon": 15.26,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 321,
+  "fetched_ts": 1790522983976,
+  "text_sha": "9083f1e070f3ef37"
+ },
+ "price": 72000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 72000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "530 DC",
+  "Modellår": "1989",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mariner Optimax",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25399489",
+ "width_cm": 0,
+ "year": 1989
+}

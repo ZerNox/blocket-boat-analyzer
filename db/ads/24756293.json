@@ -7,6 +7,8 @@
   "boat_year": 1988,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 80,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Big Buster",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24756293/1b6f5d97-74d5-48d6-91d2-a3b51cc41cc6",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.50625,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24756293/1b6f5d97-74d5-48d6-91d2-a3b51cc41cc6",
+  "https://images.blocketcdn.se/dynamic/default/item/24756293/6b6eb29c-8932-4dbd-a911-83515789e302",
+  "https://images.blocketcdn.se/dynamic/default/item/24756293/9373f815-207d-44a6-a4ba-3e978c5505cd",
+  "https://images.blocketcdn.se/dynamic/default/item/24756293/f525b355-6f7e-4b2e-94f8-d28b9248cd31",
+  "https://images.blocketcdn.se/dynamic/default/item/24756293/0c5a6b44-6260-4c9a-9eef-12fc2ee582ad"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.51,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "45cda545fba50fa7"
  },
  "location": "Årsunda",
- "lon": 16.81897,
+ "lon": 16.82,
  "make": "Buster",
  "max_speed": 35,
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 343,
   "fetched_ts": 1790507616595,
@@ -94,7 +104,7 @@
   "Toppfart": "35 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24756293",
  "width_cm": 200,
  "year": 1988

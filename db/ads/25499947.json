@@ -1,0 +1,82 @@
+{
+ "ad_id": 25499947,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786554270000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1988,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Renoverings objekt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25499947/86835154-84f9-45d1-83ee-c590960ef45d",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25499947/86835154-84f9-45d1-83ee-c590960ef45d",
+  "https://images.blocketcdn.se/dynamic/default/item/25499947/01279a79-7899-43ea-a37b-360ef359dd3f",
+  "https://images.blocketcdn.se/dynamic/default/item/25499947/bfeb074a-29ec-4eae-9672-cc3bea15273b",
+  "https://images.blocketcdn.se/dynamic/default/item/25499947/b1e0a861-21b4-4fb0-ae00-eca231babafc",
+  "https://images.blocketcdn.se/dynamic/default/item/25499947/394f3062-a13a-4b63-a286-f43e5a5c5463",
+  "https://images.blocketcdn.se/dynamic/default/item/25499947/7311ba03-87c1-41f2-8150-4d558f6cf14a"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.35,
+ "length_ft": 21,
+ "location": "Solna",
+ "lon": 18.0,
+ "make": "Sea Ray",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 372,
+  "fetched_ts": 1790523006881,
+  "text_sha": "c9c157495603dd4e"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "21 fot",
+  "Modell": "Monaco 210",
+  "Modellår": "1988",
+  "Motor inkluderad": "Nej",
+  "Märke": "Sea Ray",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25499947",
+ "width_cm": 0,
+ "year": 1988
+}

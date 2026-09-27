@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -36,8 +38,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Mindre Båt med motor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23456864/f7321167-d142-45ba-ba0b-e611ff0d1657",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.67931,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23456864/f7321167-d142-45ba-ba0b-e611ff0d1657",
+  "https://images.blocketcdn.se/dynamic/default/item/23456864/c29e2d82-ca24-4bff-83fd-59c71e46524c",
+  "https://images.blocketcdn.se/dynamic/default/item/23456864/970d1e95-8801-45bd-bb8b-be339246244a",
+  "https://images.blocketcdn.se/dynamic/default/item/23456864/354cd50d-3211-4654-bafb-d083e9173ff1",
+  "https://images.blocketcdn.se/dynamic/default/item/23456864/a9a53016-5959-4430-a8e6-4c1d1981a839",
+  "https://images.blocketcdn.se/dynamic/default/item/23456864/9f3256ba-a67e-4745-90a2-c1a9309220f8",
+  "https://images.blocketcdn.se/dynamic/default/item/23456864/e338cdf2-8160-43ab-a56e-05cc2f12f5f0",
+  "https://images.blocketcdn.se/dynamic/default/item/23456864/6e586b11-c7b4-48ca-846a-c819766e4ded"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.68,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -68,12 +80,13 @@
   "text_sha": "89840df4b682b6be"
  },
  "location": "Norrtälje",
- "lon": 18.6897,
+ "lon": 18.69,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 6.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 260,
   "fetched_ts": 1790507504614,
@@ -100,7 +113,7 @@
   "Märke": "Övriga",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23456864",
  "width_cm": 150,
  "year": 1980

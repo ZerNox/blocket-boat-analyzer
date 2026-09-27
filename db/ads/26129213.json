@@ -1,0 +1,103 @@
+{
+ "ad_id": 26129213,
+ "boat_class": "Annat",
+ "changed_ts": 1788003957000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Roddbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26129213/61d4566d-eba2-49bd-bb08-331f47be44a5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26129213/61d4566d-eba2-49bd-bb08-331f47be44a5",
+  "https://images.blocketcdn.se/dynamic/default/item/26129213/fde1f18d-4c0c-48ca-9cd7-155e88d54c9c",
+  "https://images.blocketcdn.se/dynamic/default/item/26129213/4b57ca8f-b4b2-4e9e-af4a-545a028d09b0",
+  "https://images.blocketcdn.se/dynamic/default/item/26129213/641e4ada-7dc4-4e9a-a27c-4cd77ed70b2c",
+  "https://images.blocketcdn.se/dynamic/default/item/26129213/19453230-f6a0-45e8-8f61-8d1835b6c0f0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.59,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1900,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Övriga",
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2636da08afdc34c5"
+ },
+ "location": "Borensberg",
+ "lon": 15.27,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 33,
+  "fetched_ts": 1790520908915,
+  "text_sha": "2636da08afdc34c5"
+ },
+ "price": 7500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modellår": "1900",
+  "Märke": "Övriga",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26129213",
+ "width_cm": 0,
+ "year": 1900
+}

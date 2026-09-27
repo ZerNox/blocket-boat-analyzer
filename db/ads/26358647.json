@@ -1,0 +1,102 @@
+{
+ "ad_id": 26358647,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1788690243000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": 20,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Utombordare Mercury 90HK två taktare",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor årsmodell 2006.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin plotter inkl ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin plotter inkl ekolod",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Stereo",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Sunbird SPL194 + upptagningsvagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26358647/455b97f8-ff73-4a37-afe6-5f655b5726c9",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26358647/455b97f8-ff73-4a37-afe6-5f655b5726c9",
+  "https://images.blocketcdn.se/dynamic/default/item/26358647/d7d9dc96-fc64-48d3-b2fb-f50732e5218e",
+  "https://images.blocketcdn.se/dynamic/default/item/26358647/b734318b-ef1e-4c56-aa6a-497834c3dbbe",
+  "https://images.blocketcdn.se/dynamic/default/item/26358647/8ae963e2-6ab5-4957-977d-67ef82ab2a4e",
+  "https://images.blocketcdn.se/dynamic/default/item/26358647/9bb4d9ba-fe4c-49cb-98f2-699ffcbff5f4",
+  "https://images.blocketcdn.se/dynamic/default/item/26358647/4d9311f9-50fe-43f6-a44a-29a019b2eb80"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.08,
+ "length_ft": 18,
+ "location": "Bromölla",
+ "lon": 14.46,
+ "make": "Sunbird",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 561,
+  "fetched_ts": 1790523151255,
+  "text_sha": "00fa044f1058673b"
+ },
+ "price": 76000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 76000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Utombordare Mercury 90HK två taktare",
+  "Motortyp": "Utombordare",
+  "Märke": "Sunbird",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26358647",
+ "width_cm": 0,
+ "year": 1990
+}

@@ -7,6 +7,8 @@
   "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -43,8 +45,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bella 441R",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23139884/bc349fad-0641-4128-8282-1218e367da53",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.49558,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23139884/bc349fad-0641-4128-8282-1218e367da53",
+  "https://images.blocketcdn.se/dynamic/default/item/23139884/444bcaab-95ab-4a75-94a7-eb2efef70a01",
+  "https://images.blocketcdn.se/dynamic/default/item/23139884/fdddae70-8487-49a1-8443-fdbdb77771ea",
+  "https://images.blocketcdn.se/dynamic/default/item/23139884/3172a037-738c-4e38-a4ab-4d2cea88c549"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.5,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +82,13 @@
   "text_sha": "753793e61e94dc7d"
  },
  "location": "Vikbolandet",
- "lon": 16.97947,
+ "lon": 16.98,
  "make": "Bella",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 265,
   "fetched_ts": 1790507478066,
@@ -111,7 +120,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "400 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23139884",
  "width_cm": 185,
  "year": 2016

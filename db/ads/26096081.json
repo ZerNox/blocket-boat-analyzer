@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -47,8 +49,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder 445 MAX",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26096081/aa8b24d9-a0af-4fcc-bc8e-a595a81d363d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.41361,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26096081/aa8b24d9-a0af-4fcc-bc8e-a595a81d363d",
+  "https://images.blocketcdn.se/dynamic/default/item/26096081/94b88877-eced-4c4c-b952-bb9d86ea4351"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.41,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -78,12 +84,13 @@
   "text_sha": "34028d82510db769"
  },
  "location": "Vaxholm",
- "lon": 18.30457,
+ "lon": 18.3,
  "make": "Linder",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 164,
   "fetched_ts": 1790508458711,
@@ -110,7 +117,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26096081",
  "width_cm": 0,
  "year": 2025

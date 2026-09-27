@@ -7,6 +7,8 @@
   "boat_year": 2026,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 5.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury 5hk",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -27,16 +29,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "7OC 260 AIRDECK 5HK Mercury allt från 2026",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26676250/0d160c37-5808-4df4-8d60-359e9fa43012",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.68872,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26676250/0d160c37-5808-4df4-8d60-359e9fa43012"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.69,
  "length_ft": 8,
  "location": "Göteborg",
- "lon": 11.99727,
+ "lon": 12.0,
  "make": "Zodiac",
  "max_speed": 15,
  "motor_fuel": "Bensin",
  "motor_size": 5.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 267,
   "fetched_ts": 1790508864706,
@@ -65,7 +71,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "36 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26676250",
  "width_cm": 0,
  "year": 2026

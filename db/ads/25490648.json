@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 3.5,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sibo 440 fiskebåt med 2 motorer!",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25490648/82d3ccfe-145b-4b94-8278-bdca989bab97",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.52841,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25490648/82d3ccfe-145b-4b94-8278-bdca989bab97",
+  "https://images.blocketcdn.se/dynamic/default/item/25490648/3776f207-0b1a-4eff-9433-9d6e8141ba65",
+  "https://images.blocketcdn.se/dynamic/default/item/25490648/7715a05c-c05c-4414-812c-24c5e84b68ca",
+  "https://images.blocketcdn.se/dynamic/default/item/25490648/d0fd76e5-d095-4fd5-a2e3-a45523560867",
+  "https://images.blocketcdn.se/dynamic/default/item/25490648/bf49f42f-d72c-46b2-a12e-ebf8e4a54648",
+  "https://images.blocketcdn.se/dynamic/default/item/25490648/a89b81bb-e66c-4975-900e-2fa3ae5192b6",
+  "https://images.blocketcdn.se/dynamic/default/item/25490648/a1a9e337-41e1-4b08-b732-7763569a5d7d",
+  "https://images.blocketcdn.se/dynamic/default/item/25490648/b5468182-59c6-4f76-8986-05ab18801fe5",
+  "https://images.blocketcdn.se/dynamic/default/item/25490648/d973b569-9556-4b7d-9251-c3c89379077c",
+  "https://images.blocketcdn.se/dynamic/default/item/25490648/0a95e406-8de7-449e-a653-b70356e5d3c2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.53,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +79,13 @@
   "text_sha": "be1321c28bc2f2a6"
  },
  "location": "Storfors",
- "lon": 14.25688,
+ "lon": 14.26,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 3.5,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 603,
   "fetched_ts": 1790507917710,
@@ -101,7 +116,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "100 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25490648",
  "width_cm": 170,
  "year": 1980

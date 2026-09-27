@@ -1,0 +1,95 @@
+{
+ "ad_id": 23350625,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787215528000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2009,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Flipper, 575, motorbåt, Evinrude 90hk-2009.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytvättat fräsch kapell.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 575"
+ ],
+ "heading": "Flipper, 575, motorbåt, Evinrude 90hk-2009",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23350625/05d99b52-00a3-43f2-896f-482799687b47",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23350625/05d99b52-00a3-43f2-896f-482799687b47",
+  "https://images.blocketcdn.se/dynamic/default/item/23350625/648cdb94-ef39-4bfd-91da-8433e1b62e64",
+  "https://images.blocketcdn.se/dynamic/default/item/23350625/d8d37b47-8b56-469e-bb8f-5c39a1946fe7",
+  "https://images.blocketcdn.se/dynamic/default/item/23350625/b31d5eed-0163-44e1-9a8a-5223acc1cf60",
+  "https://images.blocketcdn.se/dynamic/default/item/23350625/02aede8b-a361-4139-8d94-84fc0570cf6a",
+  "https://images.blocketcdn.se/dynamic/default/item/23350625/17c72dd7-de16-441e-beb9-402e48d6d8d1"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.45,
+ "length_ft": 19,
+ "location": "Åkersberga",
+ "lon": 18.2,
+ "make": "Flipper",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 658,
+  "fetched_ts": 1790522892273,
+  "text_sha": "d7820e867b129d46"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "575",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23350625",
+ "width_cm": 0,
+ "year": 1978
+}

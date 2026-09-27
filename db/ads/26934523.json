@@ -1,0 +1,114 @@
+{
+ "ad_id": 26934523,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1790517313000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1987,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "- 70 hk utombordare -87, går som en klocka",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Båten är utrustad med ett bra ekolod/plotter, Garmin echomap chirp 720CV vilket ger både navigation i hela Mälaren/stoc…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Båten är utrustad med ett bra ekolod/plotter, Garmin echomap chirp 720CV vilket ger både navigation i hela Mälaren/stoc…",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "- stereo som kan kopplas till mobilen",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30 kärra ingår",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Kabinbåt med utombordare-välutrustad och redo i sjön\nNu säljer jag min trevliga",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Kabinbåt med utombordare-välutrustad och redo i sjön",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26934523/416c8d3f-33a9-466a-950e-40d50ac34654",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26934523/416c8d3f-33a9-466a-950e-40d50ac34654",
+  "https://images.blocketcdn.se/dynamic/default/item/26934523/a0359e92-bc4a-4813-ac31-cd74a9773399",
+  "https://images.blocketcdn.se/dynamic/default/item/26934523/be7f6671-bdd0-47d2-a931-c6233b752ddd",
+  "https://images.blocketcdn.se/dynamic/default/item/26934523/bea7b2b4-3a64-4c5b-8208-6f5258c3fa59",
+  "https://images.blocketcdn.se/dynamic/default/item/26934523/b0c43d13-ae91-4e7b-9975-847b829a3d8a",
+  "https://images.blocketcdn.se/dynamic/default/item/26934523/677f228c-d2f2-4ef9-bad3-cc03a87fc179",
+  "https://images.blocketcdn.se/dynamic/default/item/26934523/011aaa6c-145c-4b51-a4d3-e9df67907c6f",
+  "https://images.blocketcdn.se/dynamic/default/item/26934523/a8aa2565-0018-4afa-9fe6-24f98b314742",
+  "https://images.blocketcdn.se/dynamic/default/item/26934523/bfacf209-a332-4df9-9ab3-1c7f01a777bc",
+  "https://images.blocketcdn.se/dynamic/default/item/26934523/257a87c7-09b3-4504-a647-d441265ddd4a",
+  "https://images.blocketcdn.se/dynamic/default/item/26934523/e299d723-00b6-4daa-9d16-9aa1a70872aa",
+  "https://images.blocketcdn.se/dynamic/default/item/26934523/bdc5e1b9-c383-45a4-9fc8-21a3f6a49ab2"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.61,
+ "length_ft": 18,
+ "location": "Västerås",
+ "lon": 16.5,
+ "make": "Ryds",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 864,
+  "fetched_ts": 1790523240227,
+  "text_sha": "0277df760096a563"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Svart/Grön",
+  "Längd i fot": "18 fot",
+  "Modellår": "1975",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "3",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26934523",
+ "width_cm": 210,
+ "year": 1975
+}

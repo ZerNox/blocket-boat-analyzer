@@ -1,0 +1,107 @@
+{
+ "ad_id": 25643863,
+ "boat_class": "Annat",
+ "changed_ts": 1786534178000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Gummibåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25643863/18c3b4c7-9475-4bc0-b09c-10c112b7e05a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25643863/18c3b4c7-9475-4bc0-b09c-10c112b7e05a",
+  "https://images.blocketcdn.se/dynamic/default/item/25643863/ae7ccebd-c467-4767-9645-1fce07b4e33a",
+  "https://images.blocketcdn.se/dynamic/default/item/25643863/8476e9d6-037e-4d82-ad09-0889e6cb7de9",
+  "https://images.blocketcdn.se/dynamic/default/item/25643863/c934c4a6-4c23-4268-80af-1f41dee2a4df",
+  "https://images.blocketcdn.se/dynamic/default/item/25643863/c40524de-cc5b-4e91-a42e-9bfe154bbde0",
+  "https://images.blocketcdn.se/dynamic/default/item/25643863/535f7b4f-8d1e-4263-a0a2-add236368457"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.24,
+ "length_ft": 8,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a8838e6b862b4a2f"
+ },
+ "location": "Ingarö",
+ "lon": 18.58,
+ "make": "Zodiac",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 52,
+  "fetched_ts": 1790520745654,
+  "text_sha": "a8838e6b862b4a2f"
+ },
+ "price": 1700,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 1700
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Orange",
+  "Längd i fot": "8 fot",
+  "Modell": "C260",
+  "Modellår": "1990",
+  "Märke": "Zodiac",
+  "Sittplatser": "4",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25643863",
+ "width_cm": 0,
+ "year": 1990
+}

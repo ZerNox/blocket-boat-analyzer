@@ -1,0 +1,105 @@
+{
+ "ad_id": 25708059,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786722020000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Styrpulpetbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25708059/4bc5c92a-6909-4072-8560-c8cb0a4b9915",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25708059/4bc5c92a-6909-4072-8560-c8cb0a4b9915",
+  "https://images.blocketcdn.se/dynamic/default/item/25708059/2ab4447a-5c57-46c1-8029-6716e38eee1c",
+  "https://images.blocketcdn.se/dynamic/default/item/25708059/ea311006-8d32-47a4-8d66-3566b97d9387",
+  "https://images.blocketcdn.se/dynamic/default/item/25708059/b30952d4-7ebe-45b0-92b3-c346bac2d27c",
+  "https://images.blocketcdn.se/dynamic/default/item/25708059/0292a00d-5fcc-495a-b61c-47a1d93959f6",
+  "https://images.blocketcdn.se/dynamic/default/item/25708059/d3e3eb31-28e4-4efd-b159-f2a231669719"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.3,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f3b9907118eab439"
+ },
+ "location": "Saltsjöbaden",
+ "lon": 18.3,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 53,
+  "fetched_ts": 1790520754369,
+  "text_sha": "f3b9907118eab439"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modell": "478 GT",
+  "Modellår": "2006",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25708059",
+ "width_cm": 0,
+ "year": 2006
+}

@@ -1,0 +1,74 @@
+{
+ "ad_id": 26851159,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790256326000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Träjolle",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26851159/01e656b9-5e5c-450f-9349-55ecdd6495ac",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26851159/01e656b9-5e5c-450f-9349-55ecdd6495ac",
+  "https://images.blocketcdn.se/dynamic/default/item/26851159/b28302dc-e658-4327-9abb-0ee34ebcdeb9",
+  "https://images.blocketcdn.se/dynamic/default/item/26851159/844e5ae9-b735-4b7a-aa79-bb8a8998d6c8",
+  "https://images.blocketcdn.se/dynamic/default/item/26851159/900b5a55-0a63-4997-8f36-30040de1bc06",
+  "https://images.blocketcdn.se/dynamic/default/item/26851159/f1f35359-b155-4d4c-9c7b-4172a380cf01"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.21,
+ "length_ft": 10,
+ "location": "Fågelfors",
+ "lon": 15.85,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 114,
+  "fetched_ts": 1790521066456,
+  "text_sha": "d7c782e2ce02f5fe"
+ },
+ "price": 2500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 2500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "10 fot",
+  "Modellår": "1900",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26851159",
+ "width_cm": 0,
+ "year": 1900
+}

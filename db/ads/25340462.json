@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": 25,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -38,8 +40,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 426",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25340462/9d83facc-a900-430f-a2ad-7587a3ac4e6d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 61.86402,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25340462/9d83facc-a900-430f-a2ad-7587a3ac4e6d",
+  "https://images.blocketcdn.se/dynamic/default/item/25340462/fd4dd6ea-a81a-4e75-9d4e-3bd66ed4edf5",
+  "https://images.blocketcdn.se/dynamic/default/item/25340462/f14913d2-e08a-471c-add6-c23f6f5b97a2",
+  "https://images.blocketcdn.se/dynamic/default/item/25340462/de0c29fe-81c6-460a-8035-6d0b4c52f7bd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 61.86,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +77,13 @@
   "text_sha": "10bbe4dbb6e5eb56"
  },
  "location": "Korskrogen",
- "lon": 15.51476,
+ "lon": 15.51,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 20.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 147,
   "fetched_ts": 1790507777928,
@@ -98,7 +107,7 @@
   "Märke": "Crescent",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25340462",
  "width_cm": 0,
  "year": 2021

@@ -7,6 +7,8 @@
   "boat_year": 1977,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Motorbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26695034/efd2166f-1ee1-4a92-bd62-91d13a510fde",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.83413,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26695034/efd2166f-1ee1-4a92-bd62-91d13a510fde",
+  "https://images.blocketcdn.se/dynamic/default/item/26695034/250cc578-70a1-4ca7-90e4-d988aaf9aa46",
+  "https://images.blocketcdn.se/dynamic/default/item/26695034/0dd7b5db-824f-455c-b3d7-dbec33d37347",
+  "https://images.blocketcdn.se/dynamic/default/item/26695034/7f058ffa-dc57-440f-955d-54007a92e90b",
+  "https://images.blocketcdn.se/dynamic/default/item/26695034/9c93064f-0ba9-4276-84ad-f44cae625bc0",
+  "https://images.blocketcdn.se/dynamic/default/item/26695034/a039dc98-093f-4021-b14c-179d469113ee",
+  "https://images.blocketcdn.se/dynamic/default/item/26695034/88cd5b84-2ec7-451b-b4f5-bfcf2dd66cfa"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.83,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +71,13 @@
   "text_sha": "d00434c4fb79e07c"
  },
  "location": "Boden",
- "lon": 21.7289,
+ "lon": 21.73,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 203,
   "fetched_ts": 1790508878565,
@@ -94,7 +106,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "175 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26695034",
  "width_cm": 180,
  "year": 1977

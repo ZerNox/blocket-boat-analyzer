@@ -1,0 +1,108 @@
+{
+ "ad_id": 25385287,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785835093000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Apollo jolle",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25385287/786609e7-445e-43fc-875f-db65858db82c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25385287/786609e7-445e-43fc-875f-db65858db82c",
+  "https://images.blocketcdn.se/dynamic/default/item/25385287/643c1a6c-98fa-4744-816c-eb999ded2216",
+  "https://images.blocketcdn.se/dynamic/default/item/25385287/e525c63f-ce2e-4da6-9765-476d85f4257d",
+  "https://images.blocketcdn.se/dynamic/default/item/25385287/1bff3c00-618a-4905-8d06-3387bdba5f5b",
+  "https://images.blocketcdn.se/dynamic/default/item/25385287/19e9756b-813d-460f-ace6-b32cf2bd342f",
+  "https://images.blocketcdn.se/dynamic/default/item/25385287/92413879-160b-42df-ba65-8a0f38e8896f",
+  "https://images.blocketcdn.se/dynamic/default/item/25385287/82ad3d96-ed3e-4d2a-b9cf-0eb30405e84a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.18,
+ "length_ft": 11,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "990f80e6755276d2"
+ },
+ "location": "Nykvarn",
+ "lon": 17.41,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 88,
+  "fetched_ts": 1790520687628,
+  "text_sha": "990f80e6755276d2"
+ },
+ "price": 1,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 1
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "11 fot",
+  "Modell": "Apollo jolle",
+  "Modellår": "2000",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Trä",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25385287",
+ "width_cm": 0,
+ "year": 2000
+}

@@ -7,6 +7,8 @@
   "boat_year": 2005,
   "boat_year_source": "spec",
   "engine_hours": 248,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -38,8 +40,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent Primo 2005, Yamaha 50 hk 4-takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26768249/b4649d90-bca7-454c-81da-a0c6a07ae690",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.66765,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26768249/b4649d90-bca7-454c-81da-a0c6a07ae690",
+  "https://images.blocketcdn.se/dynamic/default/item/26768249/d0cdbf93-9231-4640-980d-c0c923d893e0",
+  "https://images.blocketcdn.se/dynamic/default/item/26768249/f8022198-d1d8-4d66-9e41-9be55ae4ef1a",
+  "https://images.blocketcdn.se/dynamic/default/item/26768249/b782dea2-354b-43d9-b757-6c60d595abe5",
+  "https://images.blocketcdn.se/dynamic/default/item/26768249/377e04a7-be48-469f-a54a-171a56907147"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.67,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +79,13 @@
   "text_sha": "ce5b89184bfcce55"
  },
  "location": "Mölnlycke",
- "lon": 12.15318,
+ "lon": 12.15,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 515,
   "fetched_ts": 1790508931817,
@@ -102,7 +112,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26768249",
  "width_cm": 0,
  "year": 2005

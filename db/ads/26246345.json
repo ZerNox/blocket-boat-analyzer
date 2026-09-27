@@ -1,0 +1,104 @@
+{
+ "ad_id": 26246345,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788340889000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1999,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Crescent 425",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26246345/f94441b5-4cfd-49bd-9256-a3719b1d5a32",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26246345/f94441b5-4cfd-49bd-9256-a3719b1d5a32",
+  "https://images.blocketcdn.se/dynamic/default/item/26246345/bcf7ec1f-e75a-4150-914c-9ae79cb552ee",
+  "https://images.blocketcdn.se/dynamic/default/item/26246345/3075f4a4-44c8-49fa-ae0b-705b0def9657"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.55,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1999,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8fd36938a7ac9d97"
+ },
+ "location": "Bergeforsen",
+ "lon": 17.31,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790520928264,
+  "text_sha": "8fd36938a7ac9d97"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modellår": "1999",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26246345",
+ "width_cm": 180,
+ "year": 1999
+}

@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki DF50ATL",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -40,16 +42,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 4612 Suzuki DF50ATL",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25265439/72b11538-e3ab-4ca8-a45e-851acc398ef2",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.37212,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25265439/72b11538-e3ab-4ca8-a45e-851acc398ef2",
+  "https://images.blocketcdn.se/dynamic/default/item/25265439/90bc55b5-e299-4176-9b71-d03e6508f064",
+  "https://images.blocketcdn.se/dynamic/default/item/25265439/04f2a175-fe32-40f4-b63c-e9add45b3248"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.37,
  "length_ft": 16,
  "location": "Skattkärr",
- "lon": 13.64217,
+ "lon": 13.64,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 307,
   "fetched_ts": 1790507703486,
@@ -76,7 +84,7 @@
   "Märke": "Uttern",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25265439",
  "width_cm": 0,
  "year": 2000

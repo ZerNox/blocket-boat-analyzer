@@ -7,6 +7,8 @@
   "boat_year": 1996,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "YAMAHA",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -42,8 +44,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fritids- och fiskebåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25366267/e3c48463-343b-4f8a-81e6-93e3fcac6101",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.30699,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25366267/e3c48463-343b-4f8a-81e6-93e3fcac6101",
+  "https://images.blocketcdn.se/dynamic/default/item/25366267/e4ea4fee-6a01-423f-8166-dc72ec5341d9",
+  "https://images.blocketcdn.se/dynamic/default/item/25366267/2bae28d8-ede0-4021-aed3-82d07e2c3148",
+  "https://images.blocketcdn.se/dynamic/default/item/25366267/fb15bb54-fe42-4b75-bceb-cc46ee82aae1",
+  "https://images.blocketcdn.se/dynamic/default/item/25366267/2743712b-0ce2-4cb4-9aad-d99fdf8b4326",
+  "https://images.blocketcdn.se/dynamic/default/item/25366267/c6f3fab4-c5c7-4bce-b307-f6e17bdafeec",
+  "https://images.blocketcdn.se/dynamic/default/item/25366267/cca636e5-cbd4-41f3-861a-49ce1f4df16b",
+  "https://images.blocketcdn.se/dynamic/default/item/25366267/35cb4d96-091a-4dbf-a787-44db4a03544b",
+  "https://images.blocketcdn.se/dynamic/default/item/25366267/6fa86daa-cc90-428b-98b3-113145f7cf63"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.31,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +86,13 @@
   "text_sha": "be83a8fd4d0f20d8"
  },
  "location": "Djurhamn",
- "lon": 18.70466,
+ "lon": 18.7,
  "make": "Ockelbo",
  "max_speed": 8,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 974,
   "fetched_ts": 1790507798723,
@@ -111,7 +125,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "300 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25366267",
  "width_cm": 180,
  "year": 1996

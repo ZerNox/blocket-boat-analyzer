@@ -7,6 +7,8 @@
   "boat_year": 2005,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -32,16 +34,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder 460 arkip med Yamaha F40",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25481262/e5dd4b1d-5a13-405c-a217-45ee0051541e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.54036,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25481262/e5dd4b1d-5a13-405c-a217-45ee0051541e",
+  "https://images.blocketcdn.se/dynamic/default/item/25481262/49c2f579-e515-49e8-80a1-3768ffde9cbe",
+  "https://images.blocketcdn.se/dynamic/default/item/25481262/2c9062cd-1954-4399-9cbe-519dfc3b3fb9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.54,
  "length_ft": 14,
  "location": "Karlholmsbruk",
- "lon": 17.62079,
+ "lon": 17.62,
  "make": "Linder",
  "max_speed": 27,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 300,
   "fetched_ts": 1790507911047,
@@ -71,7 +79,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "292 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25481262",
  "width_cm": 185,
  "year": 2005

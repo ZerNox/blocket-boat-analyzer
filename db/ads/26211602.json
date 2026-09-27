@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet Cad 12",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26211602/a14025ee-473b-4a5e-b53a-e4cebfc373cc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.69059,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26211602/a14025ee-473b-4a5e-b53a-e4cebfc373cc",
+  "https://images.blocketcdn.se/dynamic/default/item/26211602/eba1c265-e7ac-49dc-95db-9c2e1fabac98",
+  "https://images.blocketcdn.se/dynamic/default/item/26211602/93bc669a-cbff-43bb-90f5-3fff45bea9fb",
+  "https://images.blocketcdn.se/dynamic/default/item/26211602/69922f58-0aab-4a01-881d-440c274820b8",
+  "https://images.blocketcdn.se/dynamic/default/item/26211602/d0733197-5c36-4c38-9bdc-30697994fac6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.69,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "6d848006392c1a76"
  },
  "location": "Holmsund",
- "lon": 20.34892,
+ "lon": 20.35,
  "make": "Övriga",
  "max_speed": 27,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 186,
   "fetched_ts": 1790508521355,
@@ -97,7 +107,7 @@
   "Toppfart": "27 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26211602",
  "width_cm": 0,
  "year": 1900

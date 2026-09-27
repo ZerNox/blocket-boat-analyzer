@@ -1,0 +1,123 @@
+{
+ "ad_id": 25477442,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786106193000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1997,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1997,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Bromsad släpvagn Bendrup 80 kärra kan köpas till för 8000kr Besiktad aug- 26",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Daycruiser Cresent\nSäljer vår båt som vi ägt sedan 2015. Fungerar problemfritt o",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Daycruiser Cresent",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25477442/5111c3e6-6f68-4816-9c85-310753bfcd3f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25477442/5111c3e6-6f68-4816-9c85-310753bfcd3f",
+  "https://images.blocketcdn.se/dynamic/default/item/25477442/a0c4aaf6-a12a-4339-9ced-ef1bb8b699c4",
+  "https://images.blocketcdn.se/dynamic/default/item/25477442/99f96505-cdc9-4471-ba47-1287c28d6eea",
+  "https://images.blocketcdn.se/dynamic/default/item/25477442/beed4a6b-b945-459c-882f-cb128522b928",
+  "https://images.blocketcdn.se/dynamic/default/item/25477442/cbafa6c5-f40d-4cdc-8274-06d27c63b477",
+  "https://images.blocketcdn.se/dynamic/default/item/25477442/92f0da2a-d812-427b-a705-80cf76714f90"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.44,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1997,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn servad på auktoriserad verkstad, senast maj 26.",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a60e843af20dc57e"
+ },
+ "location": "Årjäng",
+ "lon": 11.97,
+ "make": "Crescent",
+ "max_speed": 23,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 285,
+  "fetched_ts": 1790523004038,
+  "text_sha": "a60e843af20dc57e"
+ },
+ "price": 62000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 62000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "535 classic",
+  "Modellår": "1997",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "5",
+  "Sovplatser": "2",
+  "Toppfart": "23 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25477442",
+ "width_cm": 0,
+ "year": 1997
+}

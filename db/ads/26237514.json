@@ -7,6 +7,8 @@
   "boat_year": 1979,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -18,6 +20,10 @@
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 530 Ht",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -27,10 +33,21 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Örnvik 530"
+ ],
  "heading": "Örnvik 530 Ht",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26237514/1f6a9390-be01-4833-845b-b9213d558bf0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.07763,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26237514/1f6a9390-be01-4833-845b-b9213d558bf0",
+  "https://images.blocketcdn.se/dynamic/default/item/26237514/0b677342-39b2-48e7-9a2c-9d5e2a2014a3",
+  "https://images.blocketcdn.se/dynamic/default/item/26237514/aef4e9df-c1b1-4e53-8e4d-725d3d9d26fe",
+  "https://images.blocketcdn.se/dynamic/default/item/26237514/156283cb-e0e6-4cb6-9b65-f3f3d1407477",
+  "https://images.blocketcdn.se/dynamic/default/item/26237514/2e25cd9e-d6c4-4d45-9f15-a96c72485969",
+  "https://images.blocketcdn.se/dynamic/default/item/26237514/c37e9c4f-c08b-4862-bd8a-7ce7344a6965"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.08,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -60,7 +77,7 @@
   "text_sha": "ab1c06682bcca8fd"
  },
  "location": "Bjuv",
- "lon": 12.91457,
+ "lon": 12.91,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",

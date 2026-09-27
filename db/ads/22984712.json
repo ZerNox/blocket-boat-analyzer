@@ -1,0 +1,128 @@
+{
+ "ad_id": 22984712,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789129357000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1956,
+  "boat_year_source": "spec",
+  "engine_hours": 500,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1956,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Radar gps vhf 2st AIS. turbo ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Radar gps vhf 2st AIS. turbo ekolod",
+    "included": true
+   },
+   "vhf": {
+    "evidence": "Radar gps vhf 2st AIS. turbo ekolod",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Bobåt / fiskebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22984712/3303efd0-4a77-41e2-935f-c39107398fb2",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22984712/3303efd0-4a77-41e2-935f-c39107398fb2",
+  "https://images.blocketcdn.se/dynamic/default/item/22984712/af6509bf-255d-4551-bb72-cb65b19df7dc",
+  "https://images.blocketcdn.se/dynamic/default/item/22984712/3ecc4adb-3e28-498d-aa8c-931f0f6a910a",
+  "https://images.blocketcdn.se/dynamic/default/item/22984712/336ece99-7af0-4cd0-adc8-c063d7f6cb3f",
+  "https://images.blocketcdn.se/dynamic/default/item/22984712/866c77c6-bd9f-47d0-91f5-fd1a5060f0f9",
+  "https://images.blocketcdn.se/dynamic/default/item/22984712/ee2e5909-b034-4881-a675-f8a8ee73631b",
+  "https://images.blocketcdn.se/dynamic/default/item/22984712/d2413893-aa68-452b-aced-47912ea9c887",
+  "https://images.blocketcdn.se/dynamic/default/item/22984712/7f8d637c-ce8a-4005-9388-0f8208443075",
+  "https://images.blocketcdn.se/dynamic/default/item/22984712/9351be75-a951-4403-bb7d-321225b1277c",
+  "https://images.blocketcdn.se/dynamic/default/item/22984712/3cde61c3-d493-488b-84e6-a7072562e57e",
+  "https://images.blocketcdn.se/dynamic/default/item/22984712/205cfccf-525b-467a-80c8-c12c4014c693",
+  "https://images.blocketcdn.se/dynamic/default/item/22984712/98635658-2179-4608-a684-f27541cd10ab",
+  "https://images.blocketcdn.se/dynamic/default/item/22984712/3514f017-f865-4459-9b46-f4522994b076",
+  "https://images.blocketcdn.se/dynamic/default/item/22984712/c188ebae-5633-42d0-86b6-be50c5d641f6",
+  "https://images.blocketcdn.se/dynamic/default/item/22984712/e4e45603-7597-4c14-a94a-50bf79144527"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.81,
+ "length_ft": 40,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1956,
+   "engine_hours": 500,
+   "engine_hp": 100,
+   "engine_maker": "100MD",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor 100MD 100 hk",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "included",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "included",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b8f17ec7d6e42e11"
+ },
+ "location": "Harestad",
+ "lon": 11.83,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 558,
+  "fetched_ts": 1790520598127,
+  "text_sha": "b8f17ec7d6e42e11"
+ },
+ "price": 300000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 300000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "40 fot",
+  "Modellår": "1956",
+  "Motor inkluderad": "Ja",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/22984712",
+ "width_cm": 0,
+ "year": 1956
+}

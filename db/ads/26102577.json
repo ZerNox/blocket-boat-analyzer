@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt till salu",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26102577/39cf458e-deef-4c0b-b76b-0d0e9e2931fe",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 64.52003,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26102577/39cf458e-deef-4c0b-b76b-0d0e9e2931fe",
+  "https://images.blocketcdn.se/dynamic/default/item/26102577/c7040418-80bc-48e1-bf8f-dfa35af74e4d",
+  "https://images.blocketcdn.se/dynamic/default/item/26102577/2f80692e-fa03-4323-a2bd-9d306e54a59c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 64.52,
  "length_ft": 20,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +74,13 @@
   "text_sha": "cfefd6b5b46b6dcf"
  },
  "location": "Burträsk",
- "lon": 20.66155,
+ "lon": 20.66,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 138,
   "fetched_ts": 1790508461733,
@@ -101,7 +109,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26102577",
  "width_cm": 180,
  "year": 2006

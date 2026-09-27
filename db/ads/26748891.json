@@ -1,0 +1,78 @@
+{
+ "ad_id": 26748891,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789913430000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Zodiac gummibåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26748891/f045cf88-7a9c-4476-b110-1238b7f9f33b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26748891/f045cf88-7a9c-4476-b110-1238b7f9f33b",
+  "https://images.blocketcdn.se/dynamic/default/item/26748891/79e606d4-9cbb-43f7-9e04-00dcdf92c448",
+  "https://images.blocketcdn.se/dynamic/default/item/26748891/f5edf25d-cc2e-452c-a9e1-0ee752762cf9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.52,
+ "length_ft": 9,
+ "location": "Vallentuna",
+ "lon": 18.06,
+ "make": "Zodiac",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 66,
+  "fetched_ts": 1790521049362,
+  "text_sha": "7f0a37e0f7eb9000"
+ },
+ "price": 2400,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 2400
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "5 cm",
+  "Färg": "Grå",
+  "Längd i fot": "9 fot",
+  "Modellår": "2006",
+  "Märke": "Zodiac",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26748891",
+ "width_cm": 150,
+ "year": 2006
+}

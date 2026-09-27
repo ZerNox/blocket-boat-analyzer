@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 430",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25780395/f032819b-6e95-4b57-a0a5-fa97f9de2523",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.15384,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25780395/f032819b-6e95-4b57-a0a5-fa97f9de2523",
+  "https://images.blocketcdn.se/dynamic/default/item/25780395/ebd07643-4b7f-4151-a7e0-3d5fc8ef92f1",
+  "https://images.blocketcdn.se/dynamic/default/item/25780395/348bbf3b-a379-42c7-b324-a5ef37843715"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.15,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +73,13 @@
   "text_sha": "32c5aa0d0b0d7cde"
  },
  "location": "Tyringe",
- "lon": 13.61298,
+ "lon": 13.61,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 425,
   "fetched_ts": 1790508191620,
@@ -95,7 +103,7 @@
   "Märke": "Örnvik",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25780395",
  "width_cm": 0,
  "year": 1990

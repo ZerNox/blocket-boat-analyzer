@@ -7,6 +7,8 @@
   "boat_year": 2011,
   "boat_year_source": "spec",
   "engine_hours": 110,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -43,8 +45,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 440 SC",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25568067/c33d334a-2e38-4e75-9db9-9d0373b736f4",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 61.29895,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25568067/c33d334a-2e38-4e75-9db9-9d0373b736f4",
+  "https://images.blocketcdn.se/dynamic/default/item/25568067/f68b965e-1528-46ea-ac70-7f6c89b24361",
+  "https://images.blocketcdn.se/dynamic/default/item/25568067/26f78576-15e1-4537-b227-fc9a927ad30c",
+  "https://images.blocketcdn.se/dynamic/default/item/25568067/79e7d960-33a2-4750-968c-c76f915fdd63",
+  "https://images.blocketcdn.se/dynamic/default/item/25568067/73ab82f2-3ca4-47db-a6b6-d8ef0d31a638",
+  "https://images.blocketcdn.se/dynamic/default/item/25568067/6942d226-7709-4c4f-86d4-056a05e5e0c6",
+  "https://images.blocketcdn.se/dynamic/default/item/25568067/344f5b7f-0af1-4f54-a106-da83b5fa2338",
+  "https://images.blocketcdn.se/dynamic/default/item/25568067/d34f9077-f598-4fd3-8677-1e36b2eed7dc",
+  "https://images.blocketcdn.se/dynamic/default/item/25568067/5a030d0d-db74-4076-800f-58242131980e",
+  "https://images.blocketcdn.se/dynamic/default/item/25568067/bd7dfee1-7876-4e8f-a285-d9a9d8aedea1"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 61.3,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +88,13 @@
   "text_sha": "15fea77aa4179e7a"
  },
  "location": "Söderhamn",
- "lon": 17.10948,
+ "lon": 17.11,
  "make": "HR",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 271,
   "fetched_ts": 1790508014667,
@@ -107,7 +122,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25568067",
  "width_cm": 188,
  "year": 2011

@@ -7,6 +7,8 @@
   "boat_year": 1998,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnsson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Micore 490 GT – Johnson 70 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26571616/353397d9-2981-482d-9786-093579fea115",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.37089,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26571616/353397d9-2981-482d-9786-093579fea115",
+  "https://images.blocketcdn.se/dynamic/default/item/26571616/c1e27d33-bf58-4e3e-8a21-b5176ac1bcf2",
+  "https://images.blocketcdn.se/dynamic/default/item/26571616/611e9f68-e4a7-4327-8ae2-c5212daec218",
+  "https://images.blocketcdn.se/dynamic/default/item/26571616/b6469e56-f5b4-49fa-9575-f2e91a5682f0",
+  "https://images.blocketcdn.se/dynamic/default/item/26571616/5a659996-9b1a-485d-9c2d-508dd25a9132"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.37,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +78,13 @@
   "text_sha": "2a9b5e07e32516b5"
  },
  "location": "Vänersborg",
- "lon": 12.31951,
+ "lon": 12.32,
  "make": "Micore",
  "max_speed": 34,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 796,
   "fetched_ts": 1790508795750,
@@ -101,7 +111,7 @@
   "Toppfart": "34 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26571616",
  "width_cm": 0,
  "year": 1998

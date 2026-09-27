@@ -1,0 +1,75 @@
+{
+ "ad_id": 17582131,
+ "boat_class": "Annat",
+ "changed_ts": 1789028200000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2021,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Bryggbåt / Flytbrygga / Flotte / Partybåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/17582131/88175ff7-8ccc-457d-839f-b47a41126e72",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/17582131/88175ff7-8ccc-457d-839f-b47a41126e72",
+  "https://images.blocketcdn.se/dynamic/default/item/17582131/60e8f693-e9a7-4c57-99a6-542942894c01",
+  "https://images.blocketcdn.se/dynamic/default/item/17582131/e5817256-7431-4125-aa90-4d18aa023560",
+  "https://images.blocketcdn.se/dynamic/default/item/17582131/4207d0b6-e469-4f5f-942a-227fcff9b5d1"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 61.17,
+ "length_ft": 20,
+ "location": "Älvdalen",
+ "lon": 13.98,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 408,
+  "fetched_ts": 1790520571502,
+  "text_sha": "0c69689678749057"
+ },
+ "price": 4000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4000
+  }
+ ],
+ "specs": {
+  "Bredd": "400 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "20 fot",
+  "Modellår": "2021",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Trä",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/17582131",
+ "width_cm": 400,
+ "year": 2021
+}

@@ -7,6 +7,8 @@
   "boat_year": 2012,
   "boat_year_source": "spec",
   "engine_hours": 5,
+  "engine_hp": 5,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt med 5h motor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26494258/daac6197-7736-40fa-9e60-daca33bf6847",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.9481,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26494258/daac6197-7736-40fa-9e60-daca33bf6847",
+  "https://images.blocketcdn.se/dynamic/default/item/26494258/32e6a105-c345-4916-b7fb-26800a8e56bb",
+  "https://images.blocketcdn.se/dynamic/default/item/26494258/0081b8a8-52e1-4a9b-8120-3b8228635791",
+  "https://images.blocketcdn.se/dynamic/default/item/26494258/404170b6-11d0-41ef-be1f-49faa67ecdb6",
+  "https://images.blocketcdn.se/dynamic/default/item/26494258/017dbc01-a613-4641-a421-77b53278f0ac",
+  "https://images.blocketcdn.se/dynamic/default/item/26494258/8694c128-6252-4ab4-a20d-516033c4b89c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.95,
  "length_ft": 11,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "5809c7591f49bdd7"
  },
  "location": "Nyköping",
- "lon": 17.00557,
+ "lon": 17.01,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 5.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 443,
   "fetched_ts": 1790508733596,
@@ -91,7 +102,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26494258",
  "width_cm": 0,
  "year": 2012

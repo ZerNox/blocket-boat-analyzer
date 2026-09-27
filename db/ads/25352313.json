@@ -1,0 +1,88 @@
+{
+ "ad_id": 25352313,
+ "boat_class": "Annat",
+ "changed_ts": 1785747453000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1968,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1968,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "SELCO Riviera Junior",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25352313/b98f4fc3-4995-4893-a24f-c317fba0f219",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25352313/b98f4fc3-4995-4893-a24f-c317fba0f219",
+  "https://images.blocketcdn.se/dynamic/default/item/25352313/1e68e29b-dd9f-4e0c-bb55-e603b2ed5503",
+  "https://images.blocketcdn.se/dynamic/default/item/25352313/8af87540-0c7a-4328-b27c-29063cd42a1f",
+  "https://images.blocketcdn.se/dynamic/default/item/25352313/460d8d54-a718-4bd7-9c10-4e7bba1a44be",
+  "https://images.blocketcdn.se/dynamic/default/item/25352313/4cd9ce72-bc76-4f73-900a-f1bd773d1e35",
+  "https://images.blocketcdn.se/dynamic/default/item/25352313/f9776b48-2b87-4871-a1fe-5b8fa55ff09d",
+  "https://images.blocketcdn.se/dynamic/default/item/25352313/9678cfcf-7bcc-4c94-8c91-f25d44baa462",
+  "https://images.blocketcdn.se/dynamic/default/item/25352313/07378094-0f99-4666-b1b2-abf8bac0b5ed",
+  "https://images.blocketcdn.se/dynamic/default/item/25352313/f68e19cc-2fa3-436c-8f2b-9a404e47df78",
+  "https://images.blocketcdn.se/dynamic/default/item/25352313/918523be-04f6-435b-8648-84d37368782c",
+  "https://images.blocketcdn.se/dynamic/default/item/25352313/7ee7dc7d-4822-4be1-a7d6-b588159f23ad",
+  "https://images.blocketcdn.se/dynamic/default/item/25352313/545cb487-3bf3-4b37-9264-83153ed7bbd8",
+  "https://images.blocketcdn.se/dynamic/default/item/25352313/aa676801-0747-412e-ad24-838363d7118d",
+  "https://images.blocketcdn.se/dynamic/default/item/25352313/309300b2-1a72-46e2-abe2-a4249c6ce550"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.5,
+ "length_ft": 13,
+ "location": "Karlstad",
+ "lon": 13.62,
+ "make": "Selco",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 492,
+  "fetched_ts": 1790520686149,
+  "text_sha": "ba526ee8096ce553"
+ },
+ "price": 8000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 8000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Blå",
+  "Längd i fot": "13 fot",
+  "Modell": "Riviera Junior",
+  "Modellår": "1968",
+  "Motor inkluderad": "Nej",
+  "Märke": "Selco",
+  "Skrovmaterial": "Plast",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25352313",
+ "width_cm": 0,
+ "year": 1968
+}

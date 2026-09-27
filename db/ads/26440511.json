@@ -1,0 +1,141 @@
+{
+ "ad_id": 26440511,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788935629000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": 1200,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": 1997,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Honda 90hk-97,ca1200tim nyservad med olja+filter bränslefilter och vattenfilter ny kamrem nya tändstift,minn kota elmotor.",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Raymarine element 9hv ekolod",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Honda 90hk-97,ca1200tim nyservad med olja+filter bränslefilter och vattenfilter ny kamrem nya tändstift,minn kota elmot…",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning Raymarine autopilot",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "landström .",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Hydraulstyrning Raymarine autopilot",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "co trailer ddj983 nybesiktigad med nya alufälgar och däck även nya vinterdäck,elwinsch med ny syntetlina..Har säkert gl…",
+    "included": true
+   },
+   "vhf": {
+    "evidence": "vhf",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "engine type unknown"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds natica 6,3m",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26440511/c1387cc1-2a8d-46de-9faa-9aa1ce6d3607",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26440511/c1387cc1-2a8d-46de-9faa-9aa1ce6d3607",
+  "https://images.blocketcdn.se/dynamic/default/item/26440511/578eb50d-92c2-4ccb-84e5-0d1ff9bb857f",
+  "https://images.blocketcdn.se/dynamic/default/item/26440511/62cbf644-05a0-4c1b-831a-e7a65aee23ca",
+  "https://images.blocketcdn.se/dynamic/default/item/26440511/eefa2d97-8856-44ec-97be-4d59df28f46d",
+  "https://images.blocketcdn.se/dynamic/default/item/26440511/5dda8298-4e00-4462-b531-369692003cdc",
+  "https://images.blocketcdn.se/dynamic/default/item/26440511/b20a239e-f1ad-44b8-9b2a-15b4b4a46d62"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.56,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": 1997,
+   "engine_year_evidence": "Honda 90hk-97,ca1200tim nyservad med olja+filter bränslefilter och vattenfilter ny kamrem nya tändstift,minn kota elmotor.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "included",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "included",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "eaed15b23e7cc626"
+ },
+ "location": "Ambjörby",
+ "lon": 13.22,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 90.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 604,
+  "fetched_ts": 1790523169333,
+  "text_sha": "eaed15b23e7cc626"
+ },
+ "price": 77000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 77000
+  }
+ ],
+ "specs": {
+  "Bredd": "250 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "21 fot",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Märke": "Ryds",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26440511",
+ "width_cm": 250,
+ "year": 1978
+}

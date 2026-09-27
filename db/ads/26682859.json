@@ -1,0 +1,88 @@
+{
+ "ad_id": 26682859,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789729170000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Liten racer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26682859/b0d50aa2-5c8e-4928-8f82-28d3f8e63671",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26682859/b0d50aa2-5c8e-4928-8f82-28d3f8e63671",
+  "https://images.blocketcdn.se/dynamic/default/item/26682859/efb03c3b-8ce3-49e9-9bb0-3e1f335a1827",
+  "https://images.blocketcdn.se/dynamic/default/item/26682859/23ee1c1f-20f6-403b-a9f5-5d170694eac9",
+  "https://images.blocketcdn.se/dynamic/default/item/26682859/75adc29b-cb98-4d48-b58b-cb7042c876af",
+  "https://images.blocketcdn.se/dynamic/default/item/26682859/7cf130f3-7408-453d-a502-6ca06857aac2",
+  "https://images.blocketcdn.se/dynamic/default/item/26682859/41a6093f-e298-4156-9455-713e969255b0",
+  "https://images.blocketcdn.se/dynamic/default/item/26682859/ae364fa4-d6da-4a32-b487-e80507840438",
+  "https://images.blocketcdn.se/dynamic/default/item/26682859/069e93f8-9295-4c1b-bd3a-8e5be3c4b77b",
+  "https://images.blocketcdn.se/dynamic/default/item/26682859/388a1f75-3375-4a1b-9c96-f797bc4905ad"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
+ "length_ft": 14,
+ "location": "Stockholm",
+ "lon": 18.02,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 163,
+  "fetched_ts": 1790521035298,
+  "text_sha": "9619828413028948"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit med trädäck",
+  "Längd i fot": "14 fot",
+  "Modell": "Racer",
+  "Modellår": "1970",
+  "Motor inkluderad": "Ja",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "450 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26682859",
+ "width_cm": 150,
+ "year": 1970
+}

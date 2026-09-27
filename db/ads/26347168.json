@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Flipper - fd räddningsbåt i räddningstjänsten",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26347168/356ac01d-7632-4120-89c2-f7d8b66963ba",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.75527,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26347168/356ac01d-7632-4120-89c2-f7d8b66963ba",
+  "https://images.blocketcdn.se/dynamic/default/item/26347168/fe15d2f8-a503-44ec-aae7-6ae0709bad22",
+  "https://images.blocketcdn.se/dynamic/default/item/26347168/03fffaa1-3e88-4ea4-991d-487e9b6a9d6e",
+  "https://images.blocketcdn.se/dynamic/default/item/26347168/8a46852c-b9cb-4ade-a53a-65ff26ca9141",
+  "https://images.blocketcdn.se/dynamic/default/item/26347168/0f3f73c8-9441-432a-b7b7-68165546810d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.76,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "3859a9b76c0b2be2"
  },
  "location": "Rimbo",
- "lon": 18.37135,
+ "lon": 18.37,
  "make": "Flipper",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 179,
   "fetched_ts": 1790508617098,
@@ -100,7 +110,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26347168",
  "width_cm": 0,
  "year": 1990

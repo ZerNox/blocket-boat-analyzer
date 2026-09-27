@@ -1,0 +1,82 @@
+{
+ "ad_id": 26403881,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788799046000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Gummibåt Bush K300",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26403881/1e448223-1e2e-4a90-ade0-ce870502deda",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26403881/1e448223-1e2e-4a90-ade0-ce870502deda",
+  "https://images.blocketcdn.se/dynamic/default/item/26403881/63689813-030c-482f-ac5c-cb436231f3b9",
+  "https://images.blocketcdn.se/dynamic/default/item/26403881/f34df980-ebb6-409b-91ec-04e438397f13",
+  "https://images.blocketcdn.se/dynamic/default/item/26403881/f794225b-d681-408c-bd66-b79d80882fdf",
+  "https://images.blocketcdn.se/dynamic/default/item/26403881/13b28621-73e4-479d-883d-42e14b8fe977",
+  "https://images.blocketcdn.se/dynamic/default/item/26403881/921178c4-9547-426a-a372-1c059f3f8fbd",
+  "https://images.blocketcdn.se/dynamic/default/item/26403881/6e61ff86-f5c4-43b3-91d1-8b35a2bab0a7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
+ "length_ft": 10,
+ "location": "Saltsjö-Boo",
+ "lon": 18.31,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 61,
+  "fetched_ts": 1790520958838,
+  "text_sha": "e22c6abf7b4286dd"
+ },
+ "price": 3900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 3900
+  }
+ ],
+ "specs": {
+  "Bredd": "148 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Grå",
+  "Längd i fot": "10 fot",
+  "Modell": "Bush K300",
+  "Modellår": "2007",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "50 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26403881",
+ "width_cm": 148,
+ "year": 2007
+}

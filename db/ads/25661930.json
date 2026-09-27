@@ -1,0 +1,111 @@
+{
+ "ad_id": 25661930,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786635963000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": 50,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2023,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 550VI Sport S-line -22 med Honda 100hk -23, gångtimmar ca 50 timmar..",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Bluetooth Stereo",
+    "included": true
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space, open cockpit with outboard motor visible.",
+  "hull_source": "bild",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Ryds 550"
+ ],
+ "heading": "Ryds 550VI Sport S-line -22 med Honda 100hk -23, gångtimmar ca 50 timmar.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25661930/0af31c7f-55c6-46a8-8f37-865d9749500f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25661930/0af31c7f-55c6-46a8-8f37-865d9749500f",
+  "https://images.blocketcdn.se/dynamic/default/item/25661930/d740055c-2c81-41f7-bd9f-1669d2e5f20a",
+  "https://images.blocketcdn.se/dynamic/default/item/25661930/8936e0ea-9b60-47c2-ac25-63349c2228d0",
+  "https://images.blocketcdn.se/dynamic/default/item/25661930/39d318c7-03fd-423f-b0aa-7da2e15fd0df"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.07,
+ "length_ft": 18,
+ "location": "Rimforsa",
+ "lon": 15.77,
+ "make": "Ryds",
+ "max_speed": 37,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 221,
+  "fetched_ts": 1790523039456,
+  "text_sha": "8e696ffd7bb19f31"
+ },
+ "price": 275000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 275000
+  }
+ ],
+ "specs": {
+  "Bredd": "218 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit/svart",
+  "Längd i fot": "18 fot",
+  "Modell": "550VI Sport S-line",
+  "Modellår": "2022",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "37 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "705 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25661930",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "5c6f86770f854b78",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed space, open cockpit with outboard motor visible.",
+   "hull_photo": 2
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 218,
+ "year": 2022
+}

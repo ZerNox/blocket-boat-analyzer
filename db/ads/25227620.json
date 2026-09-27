@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 35,
+  "engine_hp_source": "llm",
   "engine_maker": "Volvo Penta MD17C",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -42,8 +44,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Nytt pris, Saga 24",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25227620/41a8ef5c-6e24-428a-93a8-63cf4be74eda",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.91313,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25227620/41a8ef5c-6e24-428a-93a8-63cf4be74eda",
+  "https://images.blocketcdn.se/dynamic/default/item/25227620/28861af6-ec6f-4efe-b18e-f42132d8ed54",
+  "https://images.blocketcdn.se/dynamic/default/item/25227620/e267959d-a3fb-43c1-a1a9-f1c3101c8965",
+  "https://images.blocketcdn.se/dynamic/default/item/25227620/025d8b6e-8970-4afb-95d5-b644e963d2a9",
+  "https://images.blocketcdn.se/dynamic/default/item/25227620/3cf2fe23-95ea-492e-85b7-72b4216e91fb",
+  "https://images.blocketcdn.se/dynamic/default/item/25227620/9d20208a-4b25-4b0d-ae01-9e1b6a5c3d57",
+  "https://images.blocketcdn.se/dynamic/default/item/25227620/8ec804f5-270b-428c-8842-680bb38cd5ea",
+  "https://images.blocketcdn.se/dynamic/default/item/25227620/01ac6f71-2ef4-4492-90b6-652954406823"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.91,
  "length_ft": 24,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +85,13 @@
   "text_sha": "fbad55964fb8b48a"
  },
  "location": "Falkenberg",
- "lon": 12.43804,
+ "lon": 12.44,
  "make": "Saga",
  "max_speed": 7,
  "motor_fuel": "Diesel",
  "motor_size": 35.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 206,
   "fetched_ts": 1790507670461,
@@ -107,7 +120,7 @@
   "Toppfart": "7 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25227620",
  "width_cm": 0,
  "year": 1980

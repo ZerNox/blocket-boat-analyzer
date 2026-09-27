@@ -1,0 +1,119 @@
+{
+ "ad_id": 25315962,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785647340000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Obs: Säljes utan elmotor och ekolod.",
+    "included": false
+   },
+   "elmotor": {
+    "evidence": "Obs: Säljes utan elmotor och ekolod.",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "Askeladden 4.30, 80 trailer & 3 stycken motorer.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Askeladden 4.30, 80 trailer & 3 stycken motorer.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25315962/3ca714d6-877c-45a4-8229-784ef96c003f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25315962/3ca714d6-877c-45a4-8229-784ef96c003f",
+  "https://images.blocketcdn.se/dynamic/default/item/25315962/14d3d82f-6c77-4885-867b-56150f9c22fa",
+  "https://images.blocketcdn.se/dynamic/default/item/25315962/6840e40c-84fd-4b8c-a8b8-3752c8b29ac4",
+  "https://images.blocketcdn.se/dynamic/default/item/25315962/63c6c15b-f11a-43a4-9fad-e76aeba9ef9d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.83,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 6,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mercury 6 hk (startar fint, men kyler inte som den ska)",
+   "engine_year_rejected": 1990,
+   "equipment": {
+    "ekolod": "excluded",
+    "elmotor": "excluded",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6d1da79a9b735390"
+ },
+ "location": "Eslöv",
+ "lon": 13.28,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 611,
+  "fetched_ts": 1790520675491,
+  "text_sha": "6d1da79a9b735390"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "4.30",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Märke": "Askeladden",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25315962",
+ "width_cm": 0,
+ "year": 1990
+}

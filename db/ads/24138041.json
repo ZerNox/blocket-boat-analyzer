@@ -1,0 +1,116 @@
+{
+ "ad_id": 24138041,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787561120000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2008,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båtvagn 30 km ingår.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Silver Shark 580 DC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24138041/36393fe0-142a-4485-93aa-88ea60caa077",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24138041/36393fe0-142a-4485-93aa-88ea60caa077",
+  "https://images.blocketcdn.se/dynamic/default/item/24138041/c2c24d3c-8feb-42d5-8e16-40bd2e3ab888",
+  "https://images.blocketcdn.se/dynamic/default/item/24138041/e931cb72-e2b1-4b9e-8bc9-b9947ed63702"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.65,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2008,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "980877c544a0dba9"
+ },
+ "location": "Härnösand",
+ "lon": 17.92,
+ "make": "Silver",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 309,
+  "fetched_ts": 1790520632151,
+  "text_sha": "980877c544a0dba9"
+ },
+ "price": 155000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 155000
+  }
+ ],
+ "specs": {
+  "Bredd": "225 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "Silver Shark 580",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Silver",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "35 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "720 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/24138041",
+ "width_cm": 225,
+ "year": 2008
+}

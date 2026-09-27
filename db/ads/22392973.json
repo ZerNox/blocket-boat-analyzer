@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Klassisk äldre badbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22392973/9932a999-477f-436e-9ff2-83ca6c81a17b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.66087,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22392973/9932a999-477f-436e-9ff2-83ca6c81a17b",
+  "https://images.blocketcdn.se/dynamic/default/item/22392973/620cfd66-4e56-443d-a6b1-79b32abc7b59",
+  "https://images.blocketcdn.se/dynamic/default/item/22392973/2a72e721-6f02-4007-bb9d-842ec7304dc8",
+  "https://images.blocketcdn.se/dynamic/default/item/22392973/fafc3e89-5b8c-4b26-b0a8-ec6cbacda5a6",
+  "https://images.blocketcdn.se/dynamic/default/item/22392973/c9121bb7-881e-40da-b53f-15f3195559ff",
+  "https://images.blocketcdn.se/dynamic/default/item/22392973/d837f995-458e-4ec5-a807-9adb9602e15f",
+  "https://images.blocketcdn.se/dynamic/default/item/22392973/126df3b3-c8f0-4d99-9937-ed3c4d018a5c",
+  "https://images.blocketcdn.se/dynamic/default/item/22392973/5d399e35-5c51-497d-a8a0-6e9aa031c4b1",
+  "https://images.blocketcdn.se/dynamic/default/item/22392973/aecee61f-14a4-4014-9bb5-fb76eab7abae"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.66,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +73,13 @@
   "text_sha": "a418b49fe16822c1"
  },
  "location": "Västra Frölunda",
- "lon": 11.86067,
+ "lon": 11.86,
  "make": "Askeladden",
  "max_speed": 10,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 389,
   "fetched_ts": 1790507451086,
@@ -96,7 +110,7 @@
   "Toppfart": "10 knop",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/22392973",
  "width_cm": 175,
  "year": 1985

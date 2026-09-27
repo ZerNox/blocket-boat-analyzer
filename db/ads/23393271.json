@@ -7,6 +7,8 @@
   "boat_year": 2012,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet HR 530CC",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23393271/8426d6b9-08f9-4e04-9226-cacb10e33347",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.87392,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23393271/8426d6b9-08f9-4e04-9226-cacb10e33347",
+  "https://images.blocketcdn.se/dynamic/default/item/23393271/fe12ea9c-afcf-4f3f-9b67-8f13d2ba9850",
+  "https://images.blocketcdn.se/dynamic/default/item/23393271/8de9e03a-33d9-4e9d-9090-f5332c2450d1",
+  "https://images.blocketcdn.se/dynamic/default/item/23393271/e84dc567-1565-4ddc-9e4d-6718f0dfc707",
+  "https://images.blocketcdn.se/dynamic/default/item/23393271/ef2dfca2-5fe1-4c5c-a3cc-f340058da906"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.87,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +79,13 @@
   "text_sha": "4cc40148c47002e0"
  },
  "location": "Charlottenberg",
- "lon": 12.29544,
+ "lon": 12.3,
  "make": "HR",
  "max_speed": 35,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 348,
   "fetched_ts": 1790507497179,
@@ -104,7 +114,7 @@
   "Toppfart": "35 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23393271",
  "width_cm": 218,
  "year": 2012

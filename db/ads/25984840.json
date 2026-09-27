@@ -1,0 +1,121 @@
+{
+ "ad_id": 25984840,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1787523059000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Ideal 550 med 50hp Evinrude motor, plotter och båtvagn.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ideal 550 med 50hp Evinrude motor, plotter och båtvagn.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "både daxturer och kortare övernattningar i skärgården.",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Ideal 550"
+ ],
+ "heading": "Ideal 550",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25984840/c23ba524-cc52-48cb-ba97-820eef5d5896",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25984840/c23ba524-cc52-48cb-ba97-820eef5d5896",
+  "https://images.blocketcdn.se/dynamic/default/item/25984840/2e8e9cd8-b49f-4101-a4df-1d46b018484c",
+  "https://images.blocketcdn.se/dynamic/default/item/25984840/0756a51e-a4af-46ec-bb4b-8baa20702638",
+  "https://images.blocketcdn.se/dynamic/default/item/25984840/d6067421-9ac5-4493-bb60-f82f48fb0f92"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 61.34,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9a543e2bdf0a98a6"
+ },
+ "location": "Söderhamn",
+ "lon": 17.2,
+ "make": "Ideal",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 126,
+  "fetched_ts": 1790523096652,
+  "text_sha": "9a543e2bdf0a98a6"
+ },
+ "price": 65000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 65000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "550",
+  "Modellår": "2006",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Ideal",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25984840",
+ "width_cm": 0,
+ "year": 2006
+}

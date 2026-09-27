@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 4,
+  "engine_hp_source": "llm",
   "engine_maker": "Hidea",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Rejäl fiskebåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25752654/8cbbe10a-7a2d-4395-b222-d266e1898d50",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.16003,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25752654/8cbbe10a-7a2d-4395-b222-d266e1898d50",
+  "https://images.blocketcdn.se/dynamic/default/item/25752654/11e4c881-f3dc-4893-b1f3-15a2887aae4e",
+  "https://images.blocketcdn.se/dynamic/default/item/25752654/b5a23d86-9a40-476e-a9fb-544198e004f5",
+  "https://images.blocketcdn.se/dynamic/default/item/25752654/eec27673-17bb-4eb7-a988-adb03daf09b1",
+  "https://images.blocketcdn.se/dynamic/default/item/25752654/eb127acb-574f-4683-902a-72cfc0472471"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.16,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +75,13 @@
   "text_sha": "299f44e054bec496"
  },
  "location": "Östersund",
- "lon": 14.7396,
+ "lon": 14.74,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 171,
   "fetched_ts": 1790508153376,
@@ -100,7 +110,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25752654",
  "width_cm": 0,
  "year": 1900

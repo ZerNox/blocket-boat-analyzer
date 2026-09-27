@@ -1,0 +1,164 @@
+{
+ "ad_id": 26520111,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789206378000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": 35,
+  "engine_hp": 50.0,
+  "engine_hp_evidence": "Foto 1: 50",
+  "engine_hp_source": "bild",
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2019,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Dynor, plotter, ekolod, åror, 4 st. fendrar, bensindunk som rymmer 24 l, ankare med 30 meters ankarlina, förtöjningstam…",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapellen i gott skick.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Dynor, plotter, ekolod, åror, 4 st. fendrar, bensindunk som rymmer 24 l, ankare med 30 meters ankarlina, förtöjningstam…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Dynor, plotter, ekolod, åror, 4 st. fendrar, bensindunk som rymmer 24 l, ankare med 30 meters ankarlina, förtöjningstam…",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Sandström 560 MC",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori",
+  "Sandström 560"
+ ],
+ "heading": "Sandström 560 MC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26520111/77feca99-9397-40d7-9cd8-c94e9b1f82a7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26520111/77feca99-9397-40d7-9cd8-c94e9b1f82a7",
+  "https://images.blocketcdn.se/dynamic/default/item/26520111/90e87489-a30a-494f-8382-f9661b8bf367",
+  "https://images.blocketcdn.se/dynamic/default/item/26520111/1dfe4e0b-b4a0-41fd-ad5b-2cfc6efe63ec",
+  "https://images.blocketcdn.se/dynamic/default/item/26520111/a5333193-a691-4535-8783-be7efe907869",
+  "https://images.blocketcdn.se/dynamic/default/item/26520111/13a63d09-496b-4a72-ab30-c6b58275ad2a",
+  "https://images.blocketcdn.se/dynamic/default/item/26520111/ab7ef8ba-05ac-44c1-8521-b9c02b826ba2",
+  "https://images.blocketcdn.se/dynamic/default/item/26520111/50211534-fff0-4160-8a53-f0dd5da7286c",
+  "https://images.blocketcdn.se/dynamic/default/item/26520111/145b073c-6813-47c8-8ba4-35345698ab0e",
+  "https://images.blocketcdn.se/dynamic/default/item/26520111/42214314-adb5-4843-8807-1479a0bbcf79",
+  "https://images.blocketcdn.se/dynamic/default/item/26520111/0d98d098-0c27-4c94-a54e-a1f2a0877f32"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.87,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2019,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "073dfd4edbd40dde"
+ },
+ "location": "Torsö",
+ "lon": 13.65,
+ "make": "Sandström",
+ "max_speed": 23,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 387,
+  "fetched_ts": 1790520992735,
+  "text_sha": "073dfd4edbd40dde"
+ },
+ "price": 220000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 220000
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "80 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "560 MC",
+  "Modellår": "2019",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Sandström",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "23 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "520 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26520111",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "dd746a93d42a86fa",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "brand": "SUZUKI",
+   "engine_photos": [
+    1,
+    8
+   ],
+   "four_stroke": true,
+   "hp": 50.0,
+   "photo": 1,
+   "text_seen": "50"
+  },
+  "tasks": [
+   "hp"
+  ]
+ },
+ "width_cm": 230,
+ "year": 2019
+}

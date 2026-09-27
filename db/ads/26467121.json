@@ -1,0 +1,138 @@
+{
+ "ad_id": 26467121,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789027659000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Utan trailer och Ekolod för 105000:-",
+    "included": false
+   },
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning Baystar monterades för 6 år sen.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nytt kapell sen 4 år, tvättat och impregnerat i år.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Utan trailer och Ekolod för 105000:-",
+    "included": false
+   },
+   "vinterkapell": {
+    "evidence": "Även en Noa A+D ställning med presenning oanvänd i kartong kan köpas med för en billigare peng.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 5500 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Uttern 5500"
+ ],
+ "heading": "Uttern 5500 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26467121/def76d6f-5e36-40f0-8791-9adceff6b9b1",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26467121/def76d6f-5e36-40f0-8791-9adceff6b9b1",
+  "https://images.blocketcdn.se/dynamic/default/item/26467121/9b1bb5a5-6505-480b-b64c-a2f4e75b1b11",
+  "https://images.blocketcdn.se/dynamic/default/item/26467121/232c9df0-48db-40bd-a420-c89c310fc4e0",
+  "https://images.blocketcdn.se/dynamic/default/item/26467121/10f25a47-845e-4440-90b1-83f7d5a921bf",
+  "https://images.blocketcdn.se/dynamic/default/item/26467121/a2379c97-a05f-4187-a40e-708cf2de840c",
+  "https://images.blocketcdn.se/dynamic/default/item/26467121/4409f22d-c9a2-401d-81e2-0850000b84f6",
+  "https://images.blocketcdn.se/dynamic/default/item/26467121/0d2d51fb-af7b-4011-9e04-c6a932b4d79e",
+  "https://images.blocketcdn.se/dynamic/default/item/26467121/9d1b8c9a-5728-4438-8432-42e2a25fa559"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 62.49,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "null",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7336f787fb72b291"
+ },
+ "location": "Timrå",
+ "lon": 17.35,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1305,
+  "fetched_ts": 1790523176456,
+  "text_sha": "7336f787fb72b291"
+ },
+ "price": 120000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 120000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26467121",
+ "width_cm": 0,
+ "year": 2000
+}

@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -42,8 +44,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Stabil uppgraderad styrpulpetbåt HÖSTPRIS",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26385236/2f46cb9f-5176-4cb7-bd73-8f661ba820f6",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.72991,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26385236/2f46cb9f-5176-4cb7-bd73-8f661ba820f6",
+  "https://images.blocketcdn.se/dynamic/default/item/26385236/e215b099-ddde-49bc-9839-6a36d3830884",
+  "https://images.blocketcdn.se/dynamic/default/item/26385236/45c9091f-b254-4275-a3ce-c70bb8636a22",
+  "https://images.blocketcdn.se/dynamic/default/item/26385236/e3ad00d6-3cc3-4489-bc03-217f749eb0c1",
+  "https://images.blocketcdn.se/dynamic/default/item/26385236/b6f9eaec-bb03-4473-bae1-a60a108faf1b",
+  "https://images.blocketcdn.se/dynamic/default/item/26385236/3204f2d7-8d1a-4dfd-8f27-b83e38ff1935"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.73,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +83,13 @@
   "text_sha": "b2f735d1fd523e56"
  },
  "location": "Torslanda",
- "lon": 11.79382,
+ "lon": 11.79,
  "make": "WestCoast",
  "max_speed": 31,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 209,
   "fetched_ts": 1790508652605,
@@ -107,7 +118,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "700 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26385236",
  "width_cm": 220,
  "year": 2026

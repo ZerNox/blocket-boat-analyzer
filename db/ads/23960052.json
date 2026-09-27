@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -39,8 +41,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds hajen 80 trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23960052/76f50026-561e-45c9-8045-dff4b181def1",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.17065,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23960052/76f50026-561e-45c9-8045-dff4b181def1",
+  "https://images.blocketcdn.se/dynamic/default/item/23960052/af803660-0b18-4c38-9941-2b46f452a89a",
+  "https://images.blocketcdn.se/dynamic/default/item/23960052/55dee58c-005a-42b0-a31b-ab703d3ece65",
+  "https://images.blocketcdn.se/dynamic/default/item/23960052/a8830a68-7c78-4307-ba81-7dace4aa54e8",
+  "https://images.blocketcdn.se/dynamic/default/item/23960052/4a6d1c24-a055-4700-af07-486f558fa487"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.17,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +80,13 @@
   "text_sha": "91ffdbd4eed7c0d1"
  },
  "location": "Grödinge",
- "lon": 17.79672,
+ "lon": 17.8,
  "make": "Ryds",
  "max_speed": 27,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 157,
   "fetched_ts": 1790507554346,
@@ -108,7 +118,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "550 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23960052",
  "width_cm": 180,
  "year": 1978

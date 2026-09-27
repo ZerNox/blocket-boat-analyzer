@@ -1,0 +1,85 @@
+{
+ "ad_id": 26598472,
+ "boat_class": "Annat",
+ "changed_ts": 1789416328000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Underkapell i fint skick",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "ILCA/Laser 189666",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26598472/a3bede3d-9522-40ef-90b4-d7259a747cb2",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26598472/a3bede3d-9522-40ef-90b4-d7259a747cb2",
+  "https://images.blocketcdn.se/dynamic/default/item/26598472/180efc99-4468-4f06-9f55-de999fb01793",
+  "https://images.blocketcdn.se/dynamic/default/item/26598472/979218e0-8260-4892-abef-e6afe736e956",
+  "https://images.blocketcdn.se/dynamic/default/item/26598472/9e226b75-f662-4fe4-a9fc-df917dadb6cd",
+  "https://images.blocketcdn.se/dynamic/default/item/26598472/a1d55639-4dc7-46e5-9210-214d7c7c84ad",
+  "https://images.blocketcdn.se/dynamic/default/item/26598472/d9b3efd4-2cda-4b3b-9bf1-f91a0eee0466"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.44,
+ "length_ft": 14,
+ "location": "Hunnebostrand",
+ "lon": 11.29,
+ "make": "Laser",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 629,
+  "fetched_ts": 1790521021085,
+  "text_sha": "a9359820eaeed47b"
+ },
+ "price": 37000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 37000
+  }
+ ],
+ "specs": {
+  "Bredd": "137 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "ILCA",
+  "Modellår": "2007",
+  "Motor inkluderad": "Nej",
+  "Märke": "Laser",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Annat",
+  "Vikt": "59 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26598472",
+ "width_cm": 137,
+ "year": 2007
+}

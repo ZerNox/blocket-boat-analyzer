@@ -7,6 +7,8 @@
   "boat_year": 1993,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -33,16 +35,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fritidsbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25323074/a02344fd-61f2-4869-9f2f-1ea2033b56dd",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 61.30407,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25323074/a02344fd-61f2-4869-9f2f-1ea2033b56dd",
+  "https://images.blocketcdn.se/dynamic/default/item/25323074/fdc54c80-4f9b-46c8-b253-b75a59f241aa"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 61.3,
  "length_ft": 14,
  "location": "Söderhamn",
- "lon": 17.05977,
+ "lon": 17.06,
  "make": "Askeladden",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 199,
   "fetched_ts": 1790507758272,
@@ -68,7 +75,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25323074",
  "width_cm": 0,
  "year": 1993

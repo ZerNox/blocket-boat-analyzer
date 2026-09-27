@@ -7,6 +7,8 @@
   "boat_year": 2015,
   "boat_year_source": "spec",
   "engine_hours": 3,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -37,8 +39,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 480, 30 hk Mercury fyrtakt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24500055/947ff888-b8bf-408c-aaa2-6e8f710b424a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.32662,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24500055/947ff888-b8bf-408c-aaa2-6e8f710b424a",
+  "https://images.blocketcdn.se/dynamic/default/item/24500055/a4161cd6-a929-44ba-802f-68c5544c1a54",
+  "https://images.blocketcdn.se/dynamic/default/item/24500055/abdf4a24-bc13-445f-aec8-0762e5158708",
+  "https://images.blocketcdn.se/dynamic/default/item/24500055/86d7ba45-ec9f-4b78-bb05-781f24cfd8ad",
+  "https://images.blocketcdn.se/dynamic/default/item/24500055/ee6638cb-e37b-491e-bb75-db4a356eb6c1",
+  "https://images.blocketcdn.se/dynamic/default/item/24500055/67fb8d7b-8b63-4228-b993-3cf4480a4865",
+  "https://images.blocketcdn.se/dynamic/default/item/24500055/c476c5a1-a94e-466d-924b-7b05c2d98b25"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.33,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -68,12 +79,13 @@
   "text_sha": "3aa56d5078f5602a"
  },
  "location": "Öregrund",
- "lon": 18.42705,
+ "lon": 18.43,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 380,
   "fetched_ts": 1790507599440,
@@ -98,7 +110,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24500055",
  "width_cm": 0,
  "year": 2015

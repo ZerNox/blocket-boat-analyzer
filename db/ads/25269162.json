@@ -7,6 +7,8 @@
   "boat_year": 2020,
   "boat_year_source": "spec",
   "engine_hours": 75,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "• Yamaha F40 FETL EFI, årsmodell 2020",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -41,16 +43,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Terhi 450 C med Yamaha F40 EFI – endast 75 gångtimmar. TIKI BB750 båtvagn ingår",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25269162/29dabefb-d820-4921-9359-5b6d7c6c87d3",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.56756,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25269162/29dabefb-d820-4921-9359-5b6d7c6c87d3",
+  "https://images.blocketcdn.se/dynamic/default/item/25269162/c876611e-8177-4bee-810e-c00dff71a29f",
+  "https://images.blocketcdn.se/dynamic/default/item/25269162/5c105bd9-fe45-4042-ad3c-81eb4223a0e4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.57,
  "length_ft": 15,
  "location": "Nordmaling",
- "lon": 19.47706,
+ "lon": 19.48,
  "make": "Terhi",
  "max_speed": 28,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 790,
   "fetched_ts": 1790507707957,
@@ -79,7 +87,7 @@
   "Toppfart": "28 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25269162",
  "width_cm": 185,
  "year": 2020

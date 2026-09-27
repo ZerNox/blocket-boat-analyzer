@@ -32,10 +32,11 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "Grisslan båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25212867/a95b7ad0-3b76-4df0-ac25-49ed239fe144",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.81173,
+ "lat": 63.81,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -65,7 +66,7 @@
   "text_sha": "57d2ea5f32a7c8f4"
  },
  "location": "Hörnsjö",
- "lon": 19.52458,
+ "lon": 19.52,
  "make": "Grisslan",
  "max_speed": null,
  "motor_fuel": "Bensin",
@@ -95,7 +96,7 @@
   "Märke": "Grisslan",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/25212867",
  "width_cm": 0,
  "year": 1900

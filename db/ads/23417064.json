@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sun Buster",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23417064/39502ff2-967e-406a-b4dc-b9ff737e29bc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.40972,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23417064/39502ff2-967e-406a-b4dc-b9ff737e29bc",
+  "https://images.blocketcdn.se/dynamic/default/item/23417064/79c9e231-6805-4254-80ca-93a6152a79f3",
+  "https://images.blocketcdn.se/dynamic/default/item/23417064/c90e22d5-0111-426a-b963-ac928c201acd",
+  "https://images.blocketcdn.se/dynamic/default/item/23417064/91caeab4-5335-424b-82f8-6b535bb4fb59"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.41,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "47246c3c33b2ea37"
  },
  "location": "Färentuna",
- "lon": 17.62681,
+ "lon": 17.63,
  "make": "Buster",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 346,
   "fetched_ts": 1790507503207,
@@ -99,7 +108,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23417064",
  "width_cm": 0,
  "year": 1990

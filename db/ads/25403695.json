@@ -7,6 +7,8 @@
   "boat_year": 1989,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -37,8 +39,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet - Lohi 465",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25403695/93b09264-1a37-4420-9096-02a39bb39a18",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.3899,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25403695/93b09264-1a37-4420-9096-02a39bb39a18",
+  "https://images.blocketcdn.se/dynamic/default/item/25403695/288d3142-bfe6-4dab-988e-d150e75c7b78",
+  "https://images.blocketcdn.se/dynamic/default/item/25403695/cc518bac-d434-402a-b6e4-84a87c59b123",
+  "https://images.blocketcdn.se/dynamic/default/item/25403695/b6dcfec3-e7cd-4ab5-85f7-93a4a34bf843"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.39,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -68,12 +76,13 @@
   "text_sha": "ed5a65c289a59ea3"
  },
  "location": "Brastad",
- "lon": 11.54656,
+ "lon": 11.55,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 472,
   "fetched_ts": 1790507839226,
@@ -101,7 +110,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "245 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25403695",
  "width_cm": 178,
  "year": 1989

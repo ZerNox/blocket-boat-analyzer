@@ -7,6 +7,8 @@
   "boat_year": 1968,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude e-tec",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -32,16 +34,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25390999/6664c187-1f59-4175-89aa-0c87e5f3ff74",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.80377,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25390999/6664c187-1f59-4175-89aa-0c87e5f3ff74",
+  "https://images.blocketcdn.se/dynamic/default/item/25390999/dff8b9b1-7fa9-467e-911a-26cd9ac3e1ad",
+  "https://images.blocketcdn.se/dynamic/default/item/25390999/489c04d6-3516-4b12-b333-a4147411548f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.8,
  "length_ft": 20,
  "location": "Umeå",
- "lon": 20.3711,
+ "lon": 20.37,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 401,
   "fetched_ts": 1790507832493,
@@ -66,7 +74,7 @@
   "Märke": "Örnvik",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25390999",
  "width_cm": 210,
  "year": 1968

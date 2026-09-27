@@ -1,0 +1,111 @@
+{
+ "ad_id": 25516391,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786189006000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Motor guide",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2022,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Gummibåt Cheyenne V 300 Elmotor",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Gummibåt med motor, batteri, åror och flytvästar, båtvagn.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Gummibåt Cheyenne V 300 Elmotor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25516391/b72fe678-5d94-4340-8b08-1dd41857c71a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25516391/b72fe678-5d94-4340-8b08-1dd41857c71a",
+  "https://images.blocketcdn.se/dynamic/default/item/25516391/75d68f1e-16f8-40d1-9e03-210273b2d283"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.66,
+ "length_ft": 10,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2022,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Motor guide",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "96ad9f34217ae7e9"
+ },
+ "location": "Gävle",
+ "lon": 17.15,
+ "make": "CR",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 83,
+  "fetched_ts": 1790520720549,
+  "text_sha": "96ad9f34217ae7e9"
+ },
+ "price": 1950,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 1950
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "10 fot",
+  "Modellår": "2022",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Motor guide",
+  "Motortyp": "Utombordare",
+  "Märke": "CR",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25516391",
+ "width_cm": 0,
+ "year": 2022
+}

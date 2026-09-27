@@ -1,0 +1,116 @@
+{
+ "ad_id": 25953878,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787553422000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Minn - kota 36",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2023,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Mycket fin Canoe monterat motorfäste för elmotor, lätt ta bort, paddlar 2 st samt hjul vid transport eg i nyskick.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Kanot säljes",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25953878/a4f46583-8b1b-40ee-8e4c-cb2db5959f9b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25953878/a4f46583-8b1b-40ee-8e4c-cb2db5959f9b",
+  "https://images.blocketcdn.se/dynamic/default/item/25953878/250b4f25-ed59-4431-8807-eaf89dbcba1e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.68,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2023,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Minn - kota 36",
+   "engine_type": "electric",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c24fb9b125896e68"
+ },
+ "location": "Obbola",
+ "lon": 20.29,
+ "make": "Övriga",
+ "max_speed": 3,
+ "motor_fuel": "Elektrisk",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 134,
+  "fetched_ts": 1790520866372,
+  "text_sha": "c24fb9b125896e68"
+ },
+ "price": 14250,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 14250
+  }
+ ],
+ "specs": {
+  "Bredd": "95 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "5 cm",
+  "Drivmedel": "Elektrisk",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "Canoe",
+  "Modellår": "2023",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Minn - kota 36",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "3 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "50 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25953878",
+ "width_cm": 95,
+ "year": 2023
+}

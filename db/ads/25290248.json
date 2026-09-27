@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -39,8 +41,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 545 HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25290248/a6af73fe-3060-4d6e-9c4f-6692fbce6249",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.38319,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25290248/a6af73fe-3060-4d6e-9c4f-6692fbce6249",
+  "https://images.blocketcdn.se/dynamic/default/item/25290248/8e21d380-1c0d-4815-8811-1cff22069b09",
+  "https://images.blocketcdn.se/dynamic/default/item/25290248/a51b28fe-79e5-48bb-b460-117ca8253060",
+  "https://images.blocketcdn.se/dynamic/default/item/25290248/ae6b442d-baf1-477e-b35f-48dbefceba27"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.38,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +78,13 @@
   "text_sha": "6df2e849f39d14bc"
  },
  "location": "Vålberg",
- "lon": 13.1762,
+ "lon": 13.18,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 646,
   "fetched_ts": 1790507732920,
@@ -99,7 +108,7 @@
   "Märke": "Crescent",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25290248",
  "width_cm": 0,
  "year": 1900

@@ -1,0 +1,82 @@
+{
+ "ad_id": 26656465,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789641562000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2020,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Gummibåt inkl ihopfällbar transportkärra",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Gummibåt inkl ihopfällbar transportkärra",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26656465/7bf78282-df55-453d-9c16-798df2c56e61",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26656465/7bf78282-df55-453d-9c16-798df2c56e61",
+  "https://images.blocketcdn.se/dynamic/default/item/26656465/ca6239fd-c007-4f8e-9b46-95b1c0ce5df1",
+  "https://images.blocketcdn.se/dynamic/default/item/26656465/364d4e8d-0768-47a7-980e-7135c3c65f17",
+  "https://images.blocketcdn.se/dynamic/default/item/26656465/769ced67-2dd7-43e7-a037-d96bbf713143"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.08,
+ "length_ft": 8,
+ "location": "Årsta Havsbad",
+ "lon": 18.17,
+ "make": "Aqua",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 147,
+  "fetched_ts": 1790521026839,
+  "text_sha": "2b175aeac7b0ed5f"
+ },
+ "price": 4000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "8 fot",
+  "Modell": "Talamex 250",
+  "Modellår": "2020",
+  "Märke": "Aqua",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26656465",
+ "width_cm": 0,
+ "year": 2020
+}

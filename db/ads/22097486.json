@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20,
+  "engine_hp_source": "llm",
   "engine_maker": "Yanmar 3 cyl",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -29,8 +31,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Välutrustad Scampi 30 med 3 cyl. motor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22097486/7e6823f0-76f0-4995-ba13-08ca6d0af4bb",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.68567,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22097486/7e6823f0-76f0-4995-ba13-08ca6d0af4bb",
+  "https://images.blocketcdn.se/dynamic/default/item/22097486/a4776c69-0514-4f8b-ad86-8acbad296f91",
+  "https://images.blocketcdn.se/dynamic/default/item/22097486/3b6d3b2f-f140-4aaf-9057-f4e3c4e47a8b",
+  "https://images.blocketcdn.se/dynamic/default/item/22097486/79f37bb0-5b4f-4d29-be9d-14c9fd166e5e",
+  "https://images.blocketcdn.se/dynamic/default/item/22097486/6ba08b0b-cd9a-4467-917d-b06acf147ba1",
+  "https://images.blocketcdn.se/dynamic/default/item/22097486/3927b7d9-e29c-4532-a6e6-b2f394def73a",
+  "https://images.blocketcdn.se/dynamic/default/item/22097486/3682699e-667a-4563-99b7-644d3e480ef0",
+  "https://images.blocketcdn.se/dynamic/default/item/22097486/45af97f0-ac7e-48f6-adde-538d4e2f1325",
+  "https://images.blocketcdn.se/dynamic/default/item/22097486/e244105a-50d4-4385-96e3-9550e1ea2400",
+  "https://images.blocketcdn.se/dynamic/default/item/22097486/241fb1ea-b32a-4940-986a-6561484652fc",
+  "https://images.blocketcdn.se/dynamic/default/item/22097486/c9c918e5-a72e-441f-98e7-8d5c68915512"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.69,
  "length_ft": 30,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +75,13 @@
   "text_sha": "50ae1a6792c122f0"
  },
  "location": "Torslanda",
- "lon": 11.74395,
+ "lon": 11.74,
  "make": "Scampi",
  "max_speed": 6,
  "motor_fuel": "Diesel",
  "motor_size": 20.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790507437121,
@@ -97,7 +113,7 @@
   "Typ": "Annat",
   "Vikt": "3 500 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/22097486",
  "width_cm": 300,
  "year": 1978

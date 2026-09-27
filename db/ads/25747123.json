@@ -1,0 +1,129 @@
+{
+ "ad_id": 25747123,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786866118000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1974,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1974,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell 2018",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 510 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Örnvik 510 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25747123/1840801a-5ae4-4829-8989-b846bc62e5c5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25747123/1840801a-5ae4-4829-8989-b846bc62e5c5",
+  "https://images.blocketcdn.se/dynamic/default/item/25747123/2490787a-ac47-4d60-9702-39fdca919472",
+  "https://images.blocketcdn.se/dynamic/default/item/25747123/342e5379-27cb-47ac-8b58-e8616178cbb7",
+  "https://images.blocketcdn.se/dynamic/default/item/25747123/709b8037-aa01-44e4-a4e7-d8e4d77b88e4",
+  "https://images.blocketcdn.se/dynamic/default/item/25747123/933cb88f-44b6-4c44-a6d6-3511b442e5d3",
+  "https://images.blocketcdn.se/dynamic/default/item/25747123/8d12feaf-4428-41dd-b82d-1a435b6c730b",
+  "https://images.blocketcdn.se/dynamic/default/item/25747123/e03f467b-6e1e-4ac5-a3dd-bf1988a1fb14",
+  "https://images.blocketcdn.se/dynamic/default/item/25747123/81f731d0-79af-4e9b-89ed-1c68a9734649",
+  "https://images.blocketcdn.se/dynamic/default/item/25747123/ce68c8ce-fce2-4fbb-8fea-696cce5b0355"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.3,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1974,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b82f114ca80e0fd0"
+ },
+ "location": "Johanneshov",
+ "lon": 18.08,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 357,
+  "fetched_ts": 1790523055443,
+  "text_sha": "b82f114ca80e0fd0"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Bredd": "192 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "25 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "510HT",
+  "Modellår": "1974",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Typ": "Daycruiser",
+  "Vikt": "450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25747123",
+ "width_cm": 192,
+ "year": 1974
+}

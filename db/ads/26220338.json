@@ -7,6 +7,8 @@
   "boat_year": 1977,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -28,6 +30,10 @@
     "kmh": 30
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 530 HT 1977",
+  "hull_source": "rule:model",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -35,13 +41,27 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Örnvik 530"
+ ],
  "heading": "Örnvik 530 HT 1977",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26220338/1a5eab19-544e-4e6d-8b65-5d92921c6ad3",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.56874,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26220338/1a5eab19-544e-4e6d-8b65-5d92921c6ad3",
+  "https://images.blocketcdn.se/dynamic/default/item/26220338/9b02ccf1-4fd4-4240-a982-debcf7eda609",
+  "https://images.blocketcdn.se/dynamic/default/item/26220338/16489e35-e59d-484f-a325-1d1489303df5",
+  "https://images.blocketcdn.se/dynamic/default/item/26220338/205f11cc-b00d-446a-8629-5d32739e5710",
+  "https://images.blocketcdn.se/dynamic/default/item/26220338/d9b0fd6e-9bb0-4d01-a864-0ee35d47160b",
+  "https://images.blocketcdn.se/dynamic/default/item/26220338/b3b3d16c-3a22-49ba-bd9f-9c1072b4a29c",
+  "https://images.blocketcdn.se/dynamic/default/item/26220338/bfed4672-e1fa-478e-80b5-346d735bdb25",
+  "https://images.blocketcdn.se/dynamic/default/item/26220338/1f58a792-8afa-4f8c-8c6b-10ddd0e3aa21",
+  "https://images.blocketcdn.se/dynamic/default/item/26220338/449de9cc-6815-4a38-8c40-907145ee0809"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.57,
  "length_ft": 17,
  "location": "Forsbacka",
- "lon": 16.87644,
+ "lon": 16.88,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",

@@ -1,0 +1,125 @@
+{
+ "ad_id": 26717807,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789830873000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 211,
+  "engine_hp_source": "llm",
+  "engine_maker": "Aq211a",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1976,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "- Kapell med ståhöjd",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "ls upp\n-Dynor finnes till ruffen som ser ut att vara original.\n-Innerbelysningen behöver åtgärdas vid beho",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ockelbo DC21 V8:an går men bör åtgärdas",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26717807/c29037c7-1e68-4e16-ac77-7e1bac8f43c2",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26717807/c29037c7-1e68-4e16-ac77-7e1bac8f43c2",
+  "https://images.blocketcdn.se/dynamic/default/item/26717807/644b5920-b2c6-4a75-b87d-43fb4a83b778",
+  "https://images.blocketcdn.se/dynamic/default/item/26717807/cf8f230a-0d5f-428f-b332-9428bb3e6cdd",
+  "https://images.blocketcdn.se/dynamic/default/item/26717807/129fe977-3957-40d9-b5fd-7f7e0302e88a",
+  "https://images.blocketcdn.se/dynamic/default/item/26717807/8f5b9f47-999a-4162-8876-d19b272123c9",
+  "https://images.blocketcdn.se/dynamic/default/item/26717807/b5306e5b-90eb-4a9e-8a95-6855cb7c158e",
+  "https://images.blocketcdn.se/dynamic/default/item/26717807/e30a2510-93da-432d-803f-b7897e4d81a0"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.37,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1976,
+   "engine_hours": null,
+   "engine_hp": 211,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3a815fbc95ff9ba3"
+ },
+ "location": "Lidingö",
+ "lon": 18.19,
+ "make": "Ockelbo",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 876,
+  "fetched_ts": 1790523208314,
+  "text_sha": "3a815fbc95ff9ba3"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Bredd": "250 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "21 fot",
+  "Modell": "Dc21",
+  "Modellår": "1976",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Aq211a",
+  "Motortyp": "Inombordare",
+  "Märke": "Ockelbo",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26717807",
+ "width_cm": 250,
+ "year": 1976
+}

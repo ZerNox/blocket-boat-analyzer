@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 7.5,
+  "engine_hp_source": "llm",
   "engine_maker": "mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -42,8 +44,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Billig båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24505309/9e3d6b2b-b9ca-4ed2-8b95-97f46d16c49a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.78798,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24505309/9e3d6b2b-b9ca-4ed2-8b95-97f46d16c49a",
+  "https://images.blocketcdn.se/dynamic/default/item/24505309/c9d89d2b-9b3f-47bb-b8e0-32c3d6674db2",
+  "https://images.blocketcdn.se/dynamic/default/item/24505309/62c5d380-5d16-40ac-a8b1-5794365d97c8",
+  "https://images.blocketcdn.se/dynamic/default/item/24505309/8938c2b2-5631-4655-952e-016f9e25d2d7",
+  "https://images.blocketcdn.se/dynamic/default/item/24505309/e0fafade-5c8f-4560-aa79-907416e96267",
+  "https://images.blocketcdn.se/dynamic/default/item/24505309/110ee485-2810-4916-ae9b-9e8d780d818e",
+  "https://images.blocketcdn.se/dynamic/default/item/24505309/a6128180-4eb2-45f1-8d22-d6bbd328d400",
+  "https://images.blocketcdn.se/dynamic/default/item/24505309/0c01c7c0-fe43-478c-a6fa-549d9fe0ab5a",
+  "https://images.blocketcdn.se/dynamic/default/item/24505309/f9e5d47a-6334-4f9e-a05f-fb9975ef1fea"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.79,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +86,13 @@
   "text_sha": "50ffcce4322a29a9"
  },
  "location": "Hörby",
- "lon": 13.88802,
+ "lon": 13.89,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 7.5,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 368,
   "fetched_ts": 1790507602139,
@@ -103,7 +117,7 @@
   "Sovplatser": "2",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24505309",
  "width_cm": 0,
  "year": 1985

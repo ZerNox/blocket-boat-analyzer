@@ -1,0 +1,132 @@
+{
+ "ad_id": 26170770,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788707042000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 115,
+  "engine_hp_source": "llm",
+  "engine_maker": "Volvo Penta AQ115A",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1976,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Dubbelaxlad obromsad trailer ingår men den behöver lite kärlek, men fungerar för i och upptagning.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Safir Cabin",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26170770/bafbce91-d24d-49a1-8046-1f5ee2286278",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26170770/bafbce91-d24d-49a1-8046-1f5ee2286278",
+  "https://images.blocketcdn.se/dynamic/default/item/26170770/552f984a-47ea-4bd7-80ee-0ac39ea2cb48",
+  "https://images.blocketcdn.se/dynamic/default/item/26170770/924d442b-6ce5-4402-ade2-9c02d13fc0ed",
+  "https://images.blocketcdn.se/dynamic/default/item/26170770/55d4036a-3191-4376-b2f7-1bb88cfe1ed2",
+  "https://images.blocketcdn.se/dynamic/default/item/26170770/177d026b-9901-43fe-8c18-4eb60fe5ef72",
+  "https://images.blocketcdn.se/dynamic/default/item/26170770/d5202d7f-d8ef-42e5-9113-fa1a18bfeddb",
+  "https://images.blocketcdn.se/dynamic/default/item/26170770/ef1bd0dd-62e1-4aea-ba9d-2f982569ac4b",
+  "https://images.blocketcdn.se/dynamic/default/item/26170770/64e8e795-7e4c-45d6-972a-23523445bbd6",
+  "https://images.blocketcdn.se/dynamic/default/item/26170770/a4d98b5d-bbf2-47c7-9906-fe3bab653b04",
+  "https://images.blocketcdn.se/dynamic/default/item/26170770/40430e20-b02b-4ce8-9afa-e3f50b48f9c6",
+  "https://images.blocketcdn.se/dynamic/default/item/26170770/df76fbe6-914d-40a9-926f-51179d7c28d5",
+  "https://images.blocketcdn.se/dynamic/default/item/26170770/ffb4ce31-2241-4d18-936c-7b11c9e99dc1",
+  "https://images.blocketcdn.se/dynamic/default/item/26170770/e84ee259-98a2-4ff7-8da5-d9971e3ef20f",
+  "https://images.blocketcdn.se/dynamic/default/item/26170770/3ec7d957-e04b-45fb-b612-3497ae733e13"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.24,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1976,
+   "engine_hours": null,
+   "engine_hp": 115,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortillverkare: Volvo Penta AQ115A Motortyp: Inombordare Motor renoverad 2026",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "02af096fe9cab964"
+ },
+ "location": "Ingarö",
+ "lon": 18.58,
+ "make": "Safir",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 463,
+  "fetched_ts": 1790523128945,
+  "text_sha": "02af096fe9cab964"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "Cabin",
+  "Modellår": "1976",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo Penta AQ115A",
+  "Motortyp": "Inombordare",
+  "Märke": "Safir",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26170770",
+ "width_cm": 0,
+ "year": 1976
+}

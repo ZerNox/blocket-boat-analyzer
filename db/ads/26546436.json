@@ -7,6 +7,8 @@
   "boat_year": 2024,
   "boat_year_source": "spec",
   "engine_hours": 21,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -46,8 +48,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Kimple 498 sniper",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26546436/7e89574f-4f53-4b6b-8dd0-26d4af74cf39",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.09989,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26546436/7e89574f-4f53-4b6b-8dd0-26d4af74cf39",
+  "https://images.blocketcdn.se/dynamic/default/item/26546436/e9a77dee-1edf-4ffc-beb5-af87dc6fef73",
+  "https://images.blocketcdn.se/dynamic/default/item/26546436/ee14a280-cba8-4105-96e8-42c5977df845",
+  "https://images.blocketcdn.se/dynamic/default/item/26546436/563f7f9b-024a-4785-9166-905823d5acf7",
+  "https://images.blocketcdn.se/dynamic/default/item/26546436/aece3ac6-fb81-4d42-b1ca-816c17379f9b",
+  "https://images.blocketcdn.se/dynamic/default/item/26546436/282b990c-9bf1-4b2d-af67-4c5e89701f53"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.1,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -77,12 +87,13 @@
   "text_sha": "20ac24c1e8db745d"
  },
  "location": "Vinslöv",
- "lon": 13.90655,
+ "lon": 13.91,
  "make": "Kimple",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 236,
   "fetched_ts": 1790508779247,
@@ -110,7 +121,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "350 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26546436",
  "width_cm": 210,
  "year": 2024

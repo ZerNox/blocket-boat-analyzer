@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 480 med johnson 20 och båtvagn",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25689457/b2a16add-882c-4544-bf06-c32100c7ca7b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.71098,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25689457/b2a16add-882c-4544-bf06-c32100c7ca7b",
+  "https://images.blocketcdn.se/dynamic/default/item/25689457/d061ef7f-5c2e-448a-ba69-7c564af0d916",
+  "https://images.blocketcdn.se/dynamic/default/item/25689457/fc806056-8b67-48e8-ba88-c1e5f4824783",
+  "https://images.blocketcdn.se/dynamic/default/item/25689457/03d6a241-64f8-4b81-b2be-15d6a2535212",
+  "https://images.blocketcdn.se/dynamic/default/item/25689457/71985da0-9f7a-41c7-89e6-cd1fa1ab04da"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.71,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "e584c5dae94bbcdc"
  },
  "location": "Älandsbro",
- "lon": 17.83142,
+ "lon": 17.83,
  "make": "Örnvik",
  "max_speed": 26,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508097892,
@@ -102,7 +112,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "215 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25689457",
  "width_cm": 186,
  "year": 1978

@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -47,8 +49,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 478 GT -06",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25826368/70a8b15e-9c52-4791-aab4-7dc0fddbc982",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.0435,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25826368/70a8b15e-9c52-4791-aab4-7dc0fddbc982",
+  "https://images.blocketcdn.se/dynamic/default/item/25826368/166786b3-6f90-457c-afef-de3c4f8e8db9",
+  "https://images.blocketcdn.se/dynamic/default/item/25826368/2e9950e8-f3b2-4520-b0c5-b64ce01c8e40",
+  "https://images.blocketcdn.se/dynamic/default/item/25826368/fad85a9e-4702-4086-8ceb-45bc76cd862f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.04,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -78,12 +86,13 @@
   "text_sha": "7d7c266329e0f218"
  },
  "location": "Hagfors",
- "lon": 13.67937,
+ "lon": 13.68,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 209,
   "fetched_ts": 1790508225505,
@@ -109,7 +118,7 @@
   "Märke": "Ryds",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25826368",
  "width_cm": 0,
  "year": 2006

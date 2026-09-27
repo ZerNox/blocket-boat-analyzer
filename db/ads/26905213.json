@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "HIDEA",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "GREATE WHITE HB430 MED HIDEA 15 HK",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26905213/ec826f45-d5a9-4c82-bdf0-12919b3fe6f3",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.39033,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26905213/ec826f45-d5a9-4c82-bdf0-12919b3fe6f3",
+  "https://images.blocketcdn.se/dynamic/default/item/26905213/a9c85fe5-0783-48b6-a2fc-cb35c06f0bc6",
+  "https://images.blocketcdn.se/dynamic/default/item/26905213/c287cef0-f916-4322-847b-f9fc7f25a5d7",
+  "https://images.blocketcdn.se/dynamic/default/item/26905213/61274f10-c932-4cd0-a837-cd41369f2021",
+  "https://images.blocketcdn.se/dynamic/default/item/26905213/03f39396-d1dd-48d0-95a8-4453eedbf485",
+  "https://images.blocketcdn.se/dynamic/default/item/26905213/9c23c8f9-0a0a-4711-8085-430155c21028",
+  "https://images.blocketcdn.se/dynamic/default/item/26905213/444a681d-09ed-42e7-a580-18f01ccca03b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.39,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +71,13 @@
   "text_sha": "83035a524f0bb301"
  },
  "location": "Solna",
- "lon": 18.00858,
+ "lon": 18.01,
  "make": "Greatwhite",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 320,
   "fetched_ts": 1790509014760,
@@ -93,7 +105,7 @@
   "Sittplatser": "7",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26905213",
  "width_cm": 190,
  "year": 2021

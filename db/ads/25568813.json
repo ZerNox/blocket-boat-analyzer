@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt säljes eller bytes",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25568813/a63323d0-6caa-4237-b556-ab9cb657f0da",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.08203,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25568813/a63323d0-6caa-4237-b556-ab9cb657f0da",
+  "https://images.blocketcdn.se/dynamic/default/item/25568813/43170b89-3aa8-4cfd-9108-d973940a0671",
+  "https://images.blocketcdn.se/dynamic/default/item/25568813/0e8f1be0-1d1f-49eb-baec-4f09c95df133"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.08,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "7b265b0c1c95c4c5"
  },
  "location": "Storuman",
- "lon": 16.81183,
+ "lon": 16.81,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508016086,
@@ -90,7 +98,7 @@
   "Märke": "Ryds",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25568813",
  "width_cm": 0,
  "year": 1985

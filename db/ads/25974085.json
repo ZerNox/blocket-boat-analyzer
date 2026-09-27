@@ -1,0 +1,127 @@
+{
+ "ad_id": 25974085,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787501016000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercedes om617",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "Volvo Penta slutade med utombordare kring 1990",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Gps- plotter (okänd funktion, har själv aldrig använt den)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Släpet av märket TK-trailer klarar av vikt upp till 2 ton.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "stering)\nVärme och kyla i hytten (dock ej AC) \nGps- plotter (okänd funktion, har själv aldrig använt den)",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Grisslan 640 AC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25974085/e6813922-7b47-41db-8fda-17246a45aec4",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25974085/e6813922-7b47-41db-8fda-17246a45aec4",
+  "https://images.blocketcdn.se/dynamic/default/item/25974085/b8803bf8-1f1b-4678-ae70-e4f2ad40ee59",
+  "https://images.blocketcdn.se/dynamic/default/item/25974085/94e822f7-f5d0-4cd0-843e-7bcd0bdeda87",
+  "https://images.blocketcdn.se/dynamic/default/item/25974085/603c9603-2558-427c-91ab-6bfcc77eba1e",
+  "https://images.blocketcdn.se/dynamic/default/item/25974085/fe913fa2-e780-42a4-92e0-37c06d043a0d",
+  "https://images.blocketcdn.se/dynamic/default/item/25974085/9ae40e2a-533d-4b21-8d69-78f33f39c219",
+  "https://images.blocketcdn.se/dynamic/default/item/25974085/9bcfd65e-7cd4-4256-a423-da830d6d5258",
+  "https://images.blocketcdn.se/dynamic/default/item/25974085/93f702e4-26bc-445b-a2ca-067d134a34ac",
+  "https://images.blocketcdn.se/dynamic/default/item/25974085/abfa8290-6f3e-4c9b-af74-adb462473bbe"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.23,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1995,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercedes",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Inombordare Motortillverkare: Mercedes om617",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "excluded",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "47540c04c5f4c243"
+ },
+ "location": "Huddinge",
+ "lon": 18.0,
+ "make": "Grisslan",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 681,
+  "fetched_ts": 1790520867668,
+  "text_sha": "47540c04c5f4c243"
+ },
+ "price": 85000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 85000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "640 AC",
+  "Modellår": "1995",
+  "Motortillverkare": "Mercedes om617",
+  "Motortyp": "Inombordare",
+  "Märke": "Grisslan",
+  "Sittplatser": "6",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25974085",
+ "width_cm": 0,
+ "year": 1995
+}

@@ -7,6 +7,8 @@
   "boat_year": 2011,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -42,8 +44,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster M 2011",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26261334/62afaba3-0f82-427d-9c09-0eb9e1cc7025",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.35386,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26261334/62afaba3-0f82-427d-9c09-0eb9e1cc7025",
+  "https://images.blocketcdn.se/dynamic/default/item/26261334/661fc117-ac91-4cf7-909b-d30e20f65429",
+  "https://images.blocketcdn.se/dynamic/default/item/26261334/1d4bd824-3a04-4f75-899b-4c11cc262c7c",
+  "https://images.blocketcdn.se/dynamic/default/item/26261334/b2cf6c18-e972-4842-ab5b-2d93701227ce",
+  "https://images.blocketcdn.se/dynamic/default/item/26261334/eda79e59-1383-4fd1-8d83-2534dda2bfac"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.35,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +82,13 @@
   "text_sha": "dbce3038b9671335"
  },
  "location": "Matfors",
- "lon": 17.00181,
+ "lon": 17.0,
  "make": "Buster",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 259,
   "fetched_ts": 1790508563328,
@@ -104,7 +114,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26261334",
  "width_cm": 0,
  "year": 2011

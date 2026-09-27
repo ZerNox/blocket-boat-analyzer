@@ -1,0 +1,113 @@
+{
+ "ad_id": 25698883,
+ "boat_class": "Annat",
+ "changed_ts": 1789205742000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 4.3,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercruiser 4,3",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2008,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Ny stor plotter Garmin ultra 12”",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fin Thule 80 släp",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds 23 WA",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25698883/d1df94a6-2838-42cf-a59f-a2da4eadb97b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25698883/d1df94a6-2838-42cf-a59f-a2da4eadb97b",
+  "https://images.blocketcdn.se/dynamic/default/item/25698883/4195513b-9c88-4e33-828d-fa2392e15f8c",
+  "https://images.blocketcdn.se/dynamic/default/item/25698883/e992ba0d-289b-4fb4-840f-536abfc07a12"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.14,
+ "length_ft": 23,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2008,
+   "engine_hours": null,
+   "engine_hp": 4.3,
+   "engine_maker": "Mercruiser",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny utbytesmotor",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "25b9e2c14e492183"
+ },
+ "location": "Odensbacken",
+ "lon": 15.66,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 78,
+  "fetched_ts": 1790520752827,
+  "text_sha": "25b9e2c14e492183"
+ },
+ "price": 200000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 200000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "23 fot",
+  "Modell": "23wa",
+  "Modellår": "2008",
+  "Motortillverkare": "Mercruiser 4,3",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25698883",
+ "width_cm": 0,
+ "year": 2008
+}

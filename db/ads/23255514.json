@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 495 HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23255514/05b00413-ed27-4d2a-958f-3e929d202ce5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.9529,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23255514/05b00413-ed27-4d2a-958f-3e929d202ce5",
+  "https://images.blocketcdn.se/dynamic/default/item/23255514/26aca1ad-52e8-4412-b43d-b594f5a43bb9",
+  "https://images.blocketcdn.se/dynamic/default/item/23255514/40170e71-7357-49da-ad9a-9620cb493870",
+  "https://images.blocketcdn.se/dynamic/default/item/23255514/a7b4f7ae-bc67-470e-82ab-73cdcaed0c4e",
+  "https://images.blocketcdn.se/dynamic/default/item/23255514/9694bb01-5052-4372-9756-859c082f9361",
+  "https://images.blocketcdn.se/dynamic/default/item/23255514/720beb60-8e53-4609-889d-26eff0aa42ec",
+  "https://images.blocketcdn.se/dynamic/default/item/23255514/b6a20eb0-699e-4de0-a4f4-4750b2a9d571",
+  "https://images.blocketcdn.se/dynamic/default/item/23255514/c18b6a18-5920-4458-8e4e-8926c8e80b6e",
+  "https://images.blocketcdn.se/dynamic/default/item/23255514/c3ff8cef-23a2-4cce-987b-e762a1404943"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.95,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +84,13 @@
   "text_sha": "07d5420afa6eb4c7"
  },
  "location": "Blidsberg",
- "lon": 13.44439,
+ "lon": 13.44,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 619,
   "fetched_ts": 1790507483294,
@@ -104,7 +118,7 @@
   "Sovplatser": "2",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23255514",
  "width_cm": 0,
  "year": 1980

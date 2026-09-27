@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": 2,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 400Std",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23743385/08edcf0f-42a0-4d89-99f4-13e977b892f0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.16812,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23743385/08edcf0f-42a0-4d89-99f4-13e977b892f0",
+  "https://images.blocketcdn.se/dynamic/default/item/23743385/f3f104d2-753b-4835-8884-ea5e68949c2b",
+  "https://images.blocketcdn.se/dynamic/default/item/23743385/58a9c032-2df9-4e1f-a4cc-71589ab8fad1",
+  "https://images.blocketcdn.se/dynamic/default/item/23743385/3100746c-91dd-4430-9a23-301ae862caa7",
+  "https://images.blocketcdn.se/dynamic/default/item/23743385/892db6d4-6a8a-4fa5-9bf7-6498b4ece081",
+  "https://images.blocketcdn.se/dynamic/default/item/23743385/8419d3cc-359c-400e-be2e-8081005ad7c2",
+  "https://images.blocketcdn.se/dynamic/default/item/23743385/4480fff4-450d-49d2-ac76-e97eea8e5dfe"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.17,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +77,13 @@
   "text_sha": "9e31939ce331c14c"
  },
  "location": "Näsum",
- "lon": 14.49778,
+ "lon": 14.5,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 6.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 118,
   "fetched_ts": 1790507532555,
@@ -101,7 +113,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "148 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23743385",
  "width_cm": 150,
  "year": 2021

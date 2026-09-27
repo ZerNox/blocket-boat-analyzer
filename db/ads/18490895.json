@@ -1,0 +1,102 @@
+{
+ "ad_id": 18490895,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790166083000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": 257,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Årsmodell motor: 2006 Endast 257 gångtimmar",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "plotter": {
+    "evidence": "Ingen dynsats eller gps",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "Båtvagn ingår",
+    "included": true
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 550GTS Evinrude e-tec 90hk med vagn",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Ryds 550"
+ ],
+ "heading": "Ryds 550GTS Evinrude e-tec 90hk med vagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/18490895/4fe5b9db-0eae-4a7c-b44b-f421d85e11ca",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/18490895/4fe5b9db-0eae-4a7c-b44b-f421d85e11ca",
+  "https://images.blocketcdn.se/dynamic/default/item/18490895/44ba8ad0-5957-46eb-88bb-45d94fab4df1",
+  "https://images.blocketcdn.se/dynamic/default/item/18490895/7e4e8fc5-3f78-4072-a14c-ab9d5ede7f0f",
+  "https://images.blocketcdn.se/dynamic/default/item/18490895/22b36b57-d432-492b-a90b-06fd5fe7e8cb",
+  "https://images.blocketcdn.se/dynamic/default/item/18490895/10b3e8d3-c197-4494-8bb2-e8d39e77a3d2",
+  "https://images.blocketcdn.se/dynamic/default/item/18490895/5626fcd1-0830-493b-aba8-0848e7be28d8",
+  "https://images.blocketcdn.se/dynamic/default/item/18490895/b683cd60-4c35-4cd0-9a27-c6ca7268483d",
+  "https://images.blocketcdn.se/dynamic/default/item/18490895/54fc87d5-5dc5-4896-839e-d0b0a1b96a73"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.48,
+ "length_ft": 18,
+ "location": "Åkersberga",
+ "lon": 18.28,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 393,
+  "fetched_ts": 1790522851364,
+  "text_sha": "3f41e6cdc7ffd3fd"
+ },
+ "price": 79000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 79000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "550 gts",
+  "Modellår": "2001",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "550 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/18490895",
+ "width_cm": 220,
+ "year": 2001
+}

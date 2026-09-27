@@ -7,6 +7,8 @@
   "boat_year": 1999,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 35,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Stilren crescent 425 sport",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25791241/5298ffb8-e9d2-4555-bfe6-5410b32ffb16",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.70501,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25791241/5298ffb8-e9d2-4555-bfe6-5410b32ffb16",
+  "https://images.blocketcdn.se/dynamic/default/item/25791241/21868c0a-fd4a-437e-b8d0-b6a0428c63e8",
+  "https://images.blocketcdn.se/dynamic/default/item/25791241/c4a22a5a-990e-4cda-884e-0e31f9a6c183",
+  "https://images.blocketcdn.se/dynamic/default/item/25791241/8108642b-0860-4df4-8ed8-3db716c1b2d8",
+  "https://images.blocketcdn.se/dynamic/default/item/25791241/6543f6df-73b1-4ea3-b441-db05ff8434be",
+  "https://images.blocketcdn.se/dynamic/default/item/25791241/ba2f89ab-dd6e-468e-a2cb-28f33727039c",
+  "https://images.blocketcdn.se/dynamic/default/item/25791241/7458d272-dfa8-4259-8df3-8cfdd4b7c6b5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.71,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +76,13 @@
   "text_sha": "46f83a88606b9adf"
  },
  "location": "Norrtälje",
- "lon": 18.82881,
+ "lon": 18.83,
  "make": "Crescent",
  "max_speed": 35,
  "motor_fuel": "Bensin",
  "motor_size": 35.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 388,
   "fetched_ts": 1790508195476,
@@ -100,7 +112,7 @@
   "Toppfart": "35 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25791241",
  "width_cm": 0,
  "year": 1999

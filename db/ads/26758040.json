@@ -7,6 +7,8 @@
   "boat_year": 2023,
   "boat_year_source": "spec",
   "engine_hours": 51,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -38,8 +40,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 486 BF 2023 Yamaha F 50 HETL",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26758040/57fd61db-bf7b-4fae-a39e-9e6330ff4a72",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.04593,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26758040/57fd61db-bf7b-4fae-a39e-9e6330ff4a72",
+  "https://images.blocketcdn.se/dynamic/default/item/26758040/56fd29fa-90cf-4f39-88cd-f5f507bda935",
+  "https://images.blocketcdn.se/dynamic/default/item/26758040/d714f27f-53b1-4872-a8e3-0a60ebd64c53",
+  "https://images.blocketcdn.se/dynamic/default/item/26758040/9525c1e0-f7a9-4cd1-8631-14a83f23dbb4",
+  "https://images.blocketcdn.se/dynamic/default/item/26758040/65c2006d-2fec-4416-86e2-3bb052b243f9",
+  "https://images.blocketcdn.se/dynamic/default/item/26758040/58b05813-0a4a-49c5-a6c6-616325c6d397",
+  "https://images.blocketcdn.se/dynamic/default/item/26758040/15f454d9-c8ea-4ef2-b8b7-1487708635ab"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.05,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +80,13 @@
   "text_sha": "b14a706554f7e957"
  },
  "location": "Sölvesborg",
- "lon": 14.69607,
+ "lon": 14.7,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 233,
   "fetched_ts": 1790508922339,
@@ -101,7 +113,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26758040",
  "width_cm": 0,
  "year": 2023

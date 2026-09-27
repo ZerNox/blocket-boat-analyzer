@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -33,16 +35,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 450x175",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25871325/e6794d96-cc74-47a4-a962-f1990c4364da",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 66.55954,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25871325/e6794d96-cc74-47a4-a962-f1990c4364da",
+  "https://images.blocketcdn.se/dynamic/default/item/25871325/adfddba0-1de8-4828-b03d-3f561a63f6e6",
+  "https://images.blocketcdn.se/dynamic/default/item/25871325/3ac92bb2-0183-4b4d-8625-443c27fcb01f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 66.56,
  "length_ft": 450,
  "location": "Överkalix",
- "lon": 22.7806,
+ "lon": 22.78,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 9.800000190734863,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 207,
   "fetched_ts": 1790508266788,
@@ -72,7 +80,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25871325",
  "width_cm": 175,
  "year": 1990

@@ -7,6 +7,8 @@
   "boat_year": 2014,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 400 inkl Suzuki 4hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26743133/ee702965-4db2-4f49-af4d-bb59ac885b94",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.77533,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26743133/ee702965-4db2-4f49-af4d-bb59ac885b94",
+  "https://images.blocketcdn.se/dynamic/default/item/26743133/721e5ccb-d920-4277-9eea-04a53b88cf60",
+  "https://images.blocketcdn.se/dynamic/default/item/26743133/d95253dd-778b-4611-81c9-024c74638822"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.78,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "9aa4bf650d48d9f2"
  },
  "location": "Västervik",
- "lon": 16.59963,
+ "lon": 16.6,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 81,
   "fetched_ts": 1790508909086,
@@ -92,7 +100,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26743133",
  "width_cm": 0,
  "year": 2014

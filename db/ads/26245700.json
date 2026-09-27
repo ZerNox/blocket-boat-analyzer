@@ -7,6 +7,8 @@
   "boat_year": 2005,
   "boat_year_source": "spec",
   "engine_hours": 100,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha 2025",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -28,6 +30,10 @@
     "kmh": 80
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Kabinbåt Bella 581\nUtsökt tillfälle att skaffa en mycket fin och rikt utrustad k",
+  "hull_source": "rule:text",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -35,13 +41,25 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Kabinbåt Bella 581",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26245700/1f0faf51-ec5b-480d-b957-22ed26cf2077",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.14467,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26245700/1f0faf51-ec5b-480d-b957-22ed26cf2077",
+  "https://images.blocketcdn.se/dynamic/default/item/26245700/5ddf6939-807e-4a2a-a4bb-95adfcf8d5ec",
+  "https://images.blocketcdn.se/dynamic/default/item/26245700/d6b43d54-9b61-44dc-9a1e-fcd70fce82e2",
+  "https://images.blocketcdn.se/dynamic/default/item/26245700/17ff3ca5-cda6-4e45-99f5-cf4b3badd21f",
+  "https://images.blocketcdn.se/dynamic/default/item/26245700/2d5aff9b-96e4-4326-8d6b-8365726bc1bf",
+  "https://images.blocketcdn.se/dynamic/default/item/26245700/4942cf1b-be1f-47f1-87e8-d3f9f293ad37",
+  "https://images.blocketcdn.se/dynamic/default/item/26245700/f6354bd5-0d25-4e94-90f4-2c5bf393c182"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.14,
  "length_ft": 19,
  "location": "Svenshögen",
- "lon": 11.92062,
+ "lon": 11.92,
  "make": "Bella",
  "max_speed": 30,
  "motor_fuel": "Bensin",

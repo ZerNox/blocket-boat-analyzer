@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden 16",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26508156/ee0db9ce-a667-42f0-a73c-0318cf508bf9",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.49206,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26508156/ee0db9ce-a667-42f0-a73c-0318cf508bf9",
+  "https://images.blocketcdn.se/dynamic/default/item/26508156/469bd5b7-1b43-4893-8cc5-1c53ed32172a",
+  "https://images.blocketcdn.se/dynamic/default/item/26508156/f4349607-1ca5-4afc-a26b-e34b4d7014ef",
+  "https://images.blocketcdn.se/dynamic/default/item/26508156/89e617dc-24ed-48a7-88a5-e001db19102a",
+  "https://images.blocketcdn.se/dynamic/default/item/26508156/2688df4d-9df5-4af1-af0b-850ed60dbb25",
+  "https://images.blocketcdn.se/dynamic/default/item/26508156/d59ba2a4-4a33-4ab9-9adf-30d17b901cd2",
+  "https://images.blocketcdn.se/dynamic/default/item/26508156/24cffed0-b125-425b-b3b4-c4d1ec302d8b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.49,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +71,13 @@
   "text_sha": "837715748b95dd81"
  },
  "location": "Kungsbacka",
- "lon": 12.08422,
+ "lon": 12.08,
  "make": "Askeladden",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508751628,
@@ -93,7 +105,7 @@
   "Toppfart": "20 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26508156",
  "width_cm": 0,
  "year": 1980

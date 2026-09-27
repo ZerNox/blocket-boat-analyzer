@@ -7,6 +7,8 @@
   "boat_year": 2008,
   "boat_year_source": "spec",
   "engine_hours": 220,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -51,8 +53,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Mv Marin 4600 + suzuki DF 40 + massa elektronik",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26010428/81c3ac0d-85a4-4ad8-86af-3500e64f8200",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.23523,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26010428/81c3ac0d-85a4-4ad8-86af-3500e64f8200",
+  "https://images.blocketcdn.se/dynamic/default/item/26010428/e15b0d62-0348-4cf0-9809-a7745e200b27",
+  "https://images.blocketcdn.se/dynamic/default/item/26010428/8d77d71a-2d02-4fac-b8a3-f9008b9dc30d",
+  "https://images.blocketcdn.se/dynamic/default/item/26010428/0b7fa574-a85c-4427-8e9f-cdbcdfbdb3a5",
+  "https://images.blocketcdn.se/dynamic/default/item/26010428/3c671395-3990-4bed-8efd-00c09868f1d8",
+  "https://images.blocketcdn.se/dynamic/default/item/26010428/35db8510-8d9c-4e0e-95fd-0557c0673c80",
+  "https://images.blocketcdn.se/dynamic/default/item/26010428/7c8a590a-8bdd-495f-a410-a30b6212c623",
+  "https://images.blocketcdn.se/dynamic/default/item/26010428/1688314e-4793-4e34-80b2-cc47d9f826f6",
+  "https://images.blocketcdn.se/dynamic/default/item/26010428/fd9e48d9-aa85-4e26-8ea7-dcc42e66141e",
+  "https://images.blocketcdn.se/dynamic/default/item/26010428/1f0f4554-3c88-4355-97de-b2d0d06cb773"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.24,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -82,12 +96,13 @@
   "text_sha": "04c78e0ffc13fa45"
  },
  "location": "Tyresö",
- "lon": 18.28426,
+ "lon": 18.28,
  "make": "MV",
  "max_speed": 29,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1130,
   "fetched_ts": 1790508380111,
@@ -116,7 +131,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "350 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26010428",
  "width_cm": 192,
  "year": 2008

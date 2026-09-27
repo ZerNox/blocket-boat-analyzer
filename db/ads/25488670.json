@@ -7,6 +7,8 @@
   "boat_year": 1979,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -39,8 +41,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds Hajen Sport – Mercury 70 hk – 80 km/h trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25488670/2365fa6c-e151-4629-b67f-cc23f2de24e4",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.46979,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25488670/2365fa6c-e151-4629-b67f-cc23f2de24e4",
+  "https://images.blocketcdn.se/dynamic/default/item/25488670/56ce1b56-75f6-499e-8838-662cfa7ea32d",
+  "https://images.blocketcdn.se/dynamic/default/item/25488670/7d010d01-c8e6-4c1b-81e5-7d75483fc8a7",
+  "https://images.blocketcdn.se/dynamic/default/item/25488670/34b5e76b-54ee-40ed-a5e4-63178f34e7af"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.47,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +78,13 @@
   "text_sha": "0f72f0d1d39413fc"
  },
  "location": "Borlänge",
- "lon": 15.58936,
+ "lon": 15.59,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1071,
   "fetched_ts": 1790507916308,
@@ -101,7 +110,7 @@
   "Sittplatser": "4",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25488670",
  "width_cm": 0,
  "year": 1979

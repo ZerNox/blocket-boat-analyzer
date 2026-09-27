@@ -1,0 +1,117 @@
+{
+ "ad_id": 25516850,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786795085000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2018,
+  "boat_year_source": "spec",
+  "engine_hours": 114,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten och motorn är från 2018, vi är tredje ägare.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Det enda som behöver göras är att fixa en liten reva i kapellet och en dragkedja, allt annat fungerar som det ska.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Olympia 570 Holiday med Yamaha 80 HK och 80-släp",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "30000!\nVi säljer vår fina daycruiser från polska Olympia. Material glasfiber.\nBåten och motorn är från 201",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Olympia 570 Holiday med Yamaha 80 HK och 80-släp",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25516850/607817ed-8bfc-4c4f-834b-b94f3165334c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/607817ed-8bfc-4c4f-834b-b94f3165334c",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/d758bc3c-01d7-44e8-a244-976174908de0",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/3cd370ec-ad27-4c42-8d9c-474a70b5eb12",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/60b43b6f-e971-46ce-a5e2-9c78aea4f3b5",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/838d62cb-4530-4f98-8832-5ee34a413281",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/e39ab1a6-039e-49d7-89ef-311af8789ea1",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/ed17d54e-f1ef-4297-a3b6-58dfbee7ee41",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/e2fb7838-374e-4af8-896d-14217a7dfb23",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/c9d01683-047c-42c4-aa40-e0574884725e",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/54d4fec2-6681-4829-96fe-d172bd8d13c8",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/c2473993-bdf4-4908-9420-f5b524ca07ce",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/7ea9b5c8-7804-40c3-9340-f9274f614735",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/f142ee1e-10c4-4a29-9bc7-37e2d22f8079",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/0272c450-5cc7-4ecd-918e-188108177161",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/520bd62c-3ee6-4c2d-977b-6753d7202eae",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/4e4f273c-e550-488d-b94b-df40e211ddc5",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/85e03a29-4a23-455c-944b-3f9b6ef9b94b",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/97df81bc-0724-4a13-b538-3d0c113585e3",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/2e36f07c-ecdd-48a7-b619-11333dec073a",
+  "https://images.blocketcdn.se/dynamic/default/item/25516850/ab5a9ba2-4c20-4e65-b07c-28cd501f55af"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.43,
+ "length_ft": 18,
+ "location": "Hunnebostrand",
+ "lon": 11.38,
+ "make": "Olympic",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 748,
+  "fetched_ts": 1790523012441,
+  "text_sha": "c045073cedaeba96"
+ },
+ "price": 130000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 130000
+  }
+ ],
+ "specs": {
+  "Bredd": "207 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "570 Holiday",
+  "Modellår": "2018",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Olympic",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "35 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "650 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25516850",
+ "width_cm": 207,
+ "year": 2018
+}

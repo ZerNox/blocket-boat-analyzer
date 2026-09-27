@@ -7,6 +7,8 @@
   "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder Sportsman 445 Max",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25413735/25a7ccb0-ed9a-4017-9a7a-76588a9ed056",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.33343,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25413735/25a7ccb0-ed9a-4017-9a7a-76588a9ed056",
+  "https://images.blocketcdn.se/dynamic/default/item/25413735/14909da7-8611-42d3-bd9c-2ab1ad8acf9f",
+  "https://images.blocketcdn.se/dynamic/default/item/25413735/06b082f3-5b74-48ed-ba73-ffe8fab3bc2f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.33,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "ba70bde7ad947de4"
  },
  "location": "Stockholm",
- "lon": 18.09583,
+ "lon": 18.1,
  "make": "Linder",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 47,
   "fetched_ts": 1790507847815,
@@ -90,7 +98,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "350 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25413735",
  "width_cm": 0,
  "year": 2010

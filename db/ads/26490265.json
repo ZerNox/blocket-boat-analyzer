@@ -1,0 +1,113 @@
+{
+ "ad_id": 26490265,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789080982000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 10.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Ryds 425 med 30-trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds 425 med 30-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26490265/8f6f5404-ec10-4cf7-811c-648330a79865",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26490265/8f6f5404-ec10-4cf7-811c-648330a79865",
+  "https://images.blocketcdn.se/dynamic/default/item/26490265/f38d54bb-5e31-4720-b4e1-163d9378f9b9",
+  "https://images.blocketcdn.se/dynamic/default/item/26490265/ac74edd6-0a04-4316-ad6f-383b310eb169",
+  "https://images.blocketcdn.se/dynamic/default/item/26490265/5d63cdeb-2be0-4caa-a789-8ed5e14813fd",
+  "https://images.blocketcdn.se/dynamic/default/item/26490265/2099b3cf-cce4-42e5-9b71-63f04eebdc81"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.5,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "313ed04140c83b4e"
+ },
+ "location": "Älvkarleby",
+ "lon": 17.46,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 380,
+  "fetched_ts": 1790520982678,
+  "text_sha": "313ed04140c83b4e"
+ },
+ "price": 8500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 8500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "425",
+  "Modellår": "1980",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26490265",
+ "width_cm": 0,
+ "year": 1980
+}

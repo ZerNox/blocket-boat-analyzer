@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -39,8 +41,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Mycket fin Fugetive 3,80 sport-/tävlingsbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25915294/fd14864d-34aa-4a9d-878d-9d01a43ba4f9",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 61.32852,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25915294/fd14864d-34aa-4a9d-878d-9d01a43ba4f9",
+  "https://images.blocketcdn.se/dynamic/default/item/25915294/119d937b-5a85-4cff-a998-4ea6a8a29030",
+  "https://images.blocketcdn.se/dynamic/default/item/25915294/5bfdadbd-cd98-4a86-bfa5-aa12c7d061f3",
+  "https://images.blocketcdn.se/dynamic/default/item/25915294/d275bac2-90c6-4b36-ac80-8f230f3f30f2",
+  "https://images.blocketcdn.se/dynamic/default/item/25915294/57fa5be2-31e2-43f4-aa35-a0178ee3cc18",
+  "https://images.blocketcdn.se/dynamic/default/item/25915294/3077a719-3efa-4f5d-9052-666fdf041c0c",
+  "https://images.blocketcdn.se/dynamic/default/item/25915294/944a3920-1621-4bd3-b634-7295af720ab4",
+  "https://images.blocketcdn.se/dynamic/default/item/25915294/67b0f15d-ac9f-44a3-9f66-a338bf5ef07e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 61.33,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +82,13 @@
   "text_sha": "7b6e9bd70ae9961a"
  },
  "location": "Bollnäs",
- "lon": 16.23458,
+ "lon": 16.23,
  "make": "Övriga",
  "max_speed": 21,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 452,
   "fetched_ts": 1790508296056,
@@ -105,7 +118,7 @@
   "Toppfart": "21 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25915294",
  "width_cm": 130,
  "year": 1985

@@ -1,0 +1,114 @@
+{
+ "ad_id": 25507219,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786175215000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1986,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1986,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "80 hk Yamaha 1986 med elektrisk tilt.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellet slitet.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin GPS med lod och sjökort för mellersta (inklusive Siljan och Runn) och södra Östersjön ingår.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ny besiktigad (till 2[tel]) 80 km trailer Fogelsta 1250 ingår.",
+    "included": true,
+    "kmh": 80
+   },
+   "vinterkapell": {
+    "evidence": "Ankare, levang med paddel, förtöjningslinor (nyskick), bergskilar, täckställning i aluminium + presenning följer med.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 575"
+ ],
+ "heading": "Flipper 575",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25507219/2aab2ae9-582e-4b33-a1ff-6734099d5046",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25507219/2aab2ae9-582e-4b33-a1ff-6734099d5046",
+  "https://images.blocketcdn.se/dynamic/default/item/25507219/3b0527c8-34cd-4c65-9e79-e78455f5409f",
+  "https://images.blocketcdn.se/dynamic/default/item/25507219/ba1a9686-9ee9-4bcc-8bf9-2309fa7daf9c",
+  "https://images.blocketcdn.se/dynamic/default/item/25507219/651fed12-7d63-4f2d-884e-073bfc6a3ca1",
+  "https://images.blocketcdn.se/dynamic/default/item/25507219/79b49614-9cc8-40c0-8ba4-1c55207d94de",
+  "https://images.blocketcdn.se/dynamic/default/item/25507219/f7f3fa89-c3f2-4cac-8f05-74e2d68da127",
+  "https://images.blocketcdn.se/dynamic/default/item/25507219/86cf4a20-8f22-4cd7-a1ae-d474d65bc321",
+  "https://images.blocketcdn.se/dynamic/default/item/25507219/d291316c-09cf-444b-9b79-0894eac89ce3",
+  "https://images.blocketcdn.se/dynamic/default/item/25507219/84dfce24-11b1-41a2-aa14-55642d387c02",
+  "https://images.blocketcdn.se/dynamic/default/item/25507219/8ec86cf4-0051-4495-bddf-b85ca4b6427e",
+  "https://images.blocketcdn.se/dynamic/default/item/25507219/34d9bb7d-f6d6-42ac-b3c0-25643036f13d",
+  "https://images.blocketcdn.se/dynamic/default/item/25507219/b0585485-8345-4327-8b92-482bf7135eae",
+  "https://images.blocketcdn.se/dynamic/default/item/25507219/ade50952-996e-49f1-865e-7da6f6113306"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.61,
+ "length_ft": 19,
+ "location": "Gagnef",
+ "lon": 15.12,
+ "make": "Flipper",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 359,
+  "fetched_ts": 1790523008374,
+  "text_sha": "4a2ef086f9859e9e"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "575",
+  "Modellår": "1986",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25507219",
+ "width_cm": 0,
+ "year": 1986
+}

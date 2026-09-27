@@ -1,0 +1,88 @@
+{
+ "ad_id": 24390608,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1788506835000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1986,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1986,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Snyggt båtskrov med en rejäl och stabil trailer säljes utan motor, drev och styrning.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Legend Daycruiser 21\nSnyggt båtskrov med en rejäl och stabil trailer säljes utan motor,",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Legend Daycruiser 21",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24390608/612b5f5b-7a20-4f95-b49b-33915c52fe3e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24390608/612b5f5b-7a20-4f95-b49b-33915c52fe3e",
+  "https://images.blocketcdn.se/dynamic/default/item/24390608/02ea263f-30a7-496a-baeb-2124c9d2ba4d",
+  "https://images.blocketcdn.se/dynamic/default/item/24390608/cd6a2d7a-0ece-41c4-aafc-d96d817f2689",
+  "https://images.blocketcdn.se/dynamic/default/item/24390608/6f70c7b2-f5cf-4b7b-914e-5d3d0d57534f",
+  "https://images.blocketcdn.se/dynamic/default/item/24390608/a682d22b-7005-46b4-bba5-807507f9b04f",
+  "https://images.blocketcdn.se/dynamic/default/item/24390608/40df6977-237e-4cef-9af4-54089654da35"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.38,
+ "length_ft": 21,
+ "location": "Äppelbo",
+ "lon": 13.95,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 162,
+  "fetched_ts": 1790522931790,
+  "text_sha": "112a9118e1cbaf5a"
+ },
+ "price": 16000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 16000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "Legend 21",
+  "Modellår": "1986",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24390608",
+ "width_cm": 0,
+ "year": 1986
+}

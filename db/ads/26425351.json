@@ -1,0 +1,101 @@
+{
+ "ad_id": 26425351,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789480177000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": 210,
+  "engine_hp": 200.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury Verado",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2010,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt och motor 2010",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Simrad plotter",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Respo 80km/h kärra kan medfölja vid snabb affär",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Silver Eagle 650 DC/BR",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26425351/75f6454d-c6da-4b28-877e-687324a26da5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26425351/75f6454d-c6da-4b28-877e-687324a26da5",
+  "https://images.blocketcdn.se/dynamic/default/item/26425351/169fe963-2d99-4db2-b8d4-3119c714f389",
+  "https://images.blocketcdn.se/dynamic/default/item/26425351/56628b83-7671-4b75-a3a6-f9c6c2c94c40",
+  "https://images.blocketcdn.se/dynamic/default/item/26425351/8f3d5d48-004b-4af9-be21-6d776a84945b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.68,
+ "length_ft": 21,
+ "location": "Åby",
+ "lon": 16.19,
+ "make": "Silver",
+ "max_speed": 46,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 440,
+  "fetched_ts": 1790523164997,
+  "text_sha": "f9565bb2085197a7"
+ },
+ "price": 275000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 275000
+  }
+ ],
+ "specs": {
+  "Bredd": "2400 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "21 fot",
+  "Modell": "Eagle",
+  "Modellår": "2010",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercury Verado",
+  "Motortyp": "Utombordare",
+  "Märke": "Silver",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "46 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26425351",
+ "width_cm": 2400,
+ "year": 2010
+}

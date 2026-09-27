@@ -7,6 +7,8 @@
   "boat_year": 1950,
   "boat_year_source": "spec",
   "engine_hours": 20,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Träbåt Electrolux Camping i toppskick!",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25320742/529e3c0d-e35d-4c8d-abbf-a36366f6d475",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.54387,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25320742/529e3c0d-e35d-4c8d-abbf-a36366f6d475",
+  "https://images.blocketcdn.se/dynamic/default/item/25320742/1eee2857-aff7-43e3-b64c-c7aadcf5b24d",
+  "https://images.blocketcdn.se/dynamic/default/item/25320742/120d5777-7362-42f6-81eb-b4e3f8737f77",
+  "https://images.blocketcdn.se/dynamic/default/item/25320742/f2f8cd3f-b0ae-4e44-9c45-a2e661080f04",
+  "https://images.blocketcdn.se/dynamic/default/item/25320742/8471d09f-7f12-4b57-86e7-3f33fb6b1759",
+  "https://images.blocketcdn.se/dynamic/default/item/25320742/ac36adaf-c9ba-4c11-91f6-3f91569c30ca",
+  "https://images.blocketcdn.se/dynamic/default/item/25320742/447d1e93-aa6a-4214-8310-9d4ab198a05a",
+  "https://images.blocketcdn.se/dynamic/default/item/25320742/7b746e4f-43f5-4511-b47f-73c245ec701c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.54,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -61,12 +73,13 @@
   "text_sha": "fcc214d8669dc066"
  },
  "location": "Hörnefors",
- "lon": 19.8557,
+ "lon": 19.86,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 652,
   "fetched_ts": 1790507753947,
@@ -94,7 +107,7 @@
   "Skrovmaterial": "Trä",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25320742",
  "width_cm": 175,
  "year": 1950

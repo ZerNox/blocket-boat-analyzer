@@ -7,6 +7,8 @@
   "boat_year": 1991,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet Särki 470 R",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26681777/2a549262-f878-440c-a677-d4cd99bcef0e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.69554,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26681777/2a549262-f878-440c-a677-d4cd99bcef0e",
+  "https://images.blocketcdn.se/dynamic/default/item/26681777/017907b3-280d-4bdc-a6df-ecfc64deb678",
+  "https://images.blocketcdn.se/dynamic/default/item/26681777/0b3f1003-cffe-419c-8a0b-4276f3f541ec",
+  "https://images.blocketcdn.se/dynamic/default/item/26681777/503d22e6-a268-48d4-900d-29ea5c3adea2",
+  "https://images.blocketcdn.se/dynamic/default/item/26681777/50b85d6e-69f2-4fef-b831-4827d0e394cd",
+  "https://images.blocketcdn.se/dynamic/default/item/26681777/2dd46261-06b4-4412-9f73-a97760bbbd68",
+  "https://images.blocketcdn.se/dynamic/default/item/26681777/f70cd196-5464-4768-b487-ed10dd8f10ac",
+  "https://images.blocketcdn.se/dynamic/default/item/26681777/0f806bd0-f377-4346-850f-7623c2069eb5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.7,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +82,13 @@
   "text_sha": "788a6ca129423671"
  },
  "location": "Ankarsrum",
- "lon": 16.33215,
+ "lon": 16.33,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 488,
   "fetched_ts": 1790508868776,
@@ -100,7 +113,7 @@
   "Märke": "Övriga",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26681777",
  "width_cm": 0,
  "year": 1991

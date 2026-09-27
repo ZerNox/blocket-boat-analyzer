@@ -7,6 +7,8 @@
   "boat_year": 1989,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster RS",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26580186/93778487-956c-43a1-88bf-42617259bbcd",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.44833,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26580186/93778487-956c-43a1-88bf-42617259bbcd",
+  "https://images.blocketcdn.se/dynamic/default/item/26580186/08ebdca9-8388-4d8a-96c5-d892f5caef04",
+  "https://images.blocketcdn.se/dynamic/default/item/26580186/947d8e93-9d53-454d-ab16-abe2c4a02e80",
+  "https://images.blocketcdn.se/dynamic/default/item/26580186/821f013d-1a8e-4bb3-87d5-541ef9749dbd",
+  "https://images.blocketcdn.se/dynamic/default/item/26580186/87805c26-392b-41e9-ab7d-a9be95fd5b4d",
+  "https://images.blocketcdn.se/dynamic/default/item/26580186/d15acf30-8c7c-4a3e-8bfa-7d27491f3f28",
+  "https://images.blocketcdn.se/dynamic/default/item/26580186/ca5a45fa-a126-404e-b8ca-b741b3634d07"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.45,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +71,13 @@
   "text_sha": "fb77b28c37000b9a"
  },
  "location": "Torshälla",
- "lon": 16.45656,
+ "lon": 16.46,
  "make": "Buster",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 541,
   "fetched_ts": 1790508811297,
@@ -93,7 +105,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "230 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26580186",
  "width_cm": 142,
  "year": 1989

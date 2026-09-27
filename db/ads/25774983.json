@@ -1,0 +1,139 @@
+{
+ "ad_id": 25774983,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786903634000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Johnson",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "* Nytt kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "* GPS",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "* Bluetooth-stereo",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "släp",
+    "included": true,
+    "kmh": 80,
+    "year": 2018
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 550 DC – Johnson 70 hk – Båtplats i Malmö småbåtshamn – släp",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Ryds 550"
+ ],
+ "heading": "Ryds 550 DC – Johnson 70 hk – Båtplats i Malmö småbåtshamn – släp",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25774983/217e5cca-6ffa-4b41-984e-4471ef621a1f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25774983/217e5cca-6ffa-4b41-984e-4471ef621a1f",
+  "https://images.blocketcdn.se/dynamic/default/item/25774983/e29d2153-5e97-420f-988d-d1a23320e899",
+  "https://images.blocketcdn.se/dynamic/default/item/25774983/a4a147db-5d39-405c-b729-2e5e55b69f62",
+  "https://images.blocketcdn.se/dynamic/default/item/25774983/073c27dd-555e-4b20-853b-640ec1977631",
+  "https://images.blocketcdn.se/dynamic/default/item/25774983/a20a8593-7530-40ef-955d-b7019bc067aa",
+  "https://images.blocketcdn.se/dynamic/default/item/25774983/acdc4a79-b5de-4a5c-a212-8bc1f288db14",
+  "https://images.blocketcdn.se/dynamic/default/item/25774983/e277fcad-5252-4fc9-b79c-c87f94468ca3",
+  "https://images.blocketcdn.se/dynamic/default/item/25774983/119fa02b-fafb-4e43-8439-e0de39f8ef23",
+  "https://images.blocketcdn.se/dynamic/default/item/25774983/614fd4a8-7d7e-4227-84e5-5381a1655388",
+  "https://images.blocketcdn.se/dynamic/default/item/25774983/43d2cf85-5f76-4848-9ac2-f9796fc3342c"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 55.58,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "included",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "621ea91855f5f0eb"
+ },
+ "location": "Malmö",
+ "lon": 13.0,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 913,
+  "fetched_ts": 1790523062004,
+  "text_sha": "621ea91855f5f0eb"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "550 DC",
+  "Modellår": "2000",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25774983",
+ "width_cm": 0,
+ "year": 2000
+}

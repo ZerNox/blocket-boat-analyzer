@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Kevo 500 walkaround/fiskebåt Mercury 60 2takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26307509/17b3d5c0-199d-4f0e-bcd5-822c0b9b299f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.93254,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26307509/17b3d5c0-199d-4f0e-bcd5-822c0b9b299f",
+  "https://images.blocketcdn.se/dynamic/default/item/26307509/ed86256e-ea1f-4e41-8f52-e0b550f0a295",
+  "https://images.blocketcdn.se/dynamic/default/item/26307509/0e8f594d-9707-43e9-8bf5-da902e0476f0",
+  "https://images.blocketcdn.se/dynamic/default/item/26307509/06b8a4f0-f022-4628-ae7e-d3897f7b3fc7",
+  "https://images.blocketcdn.se/dynamic/default/item/26307509/fc08a4e7-d370-4eda-9837-6a5f97a3500e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.93,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +75,13 @@
   "text_sha": "3b9a6bf4a3887048"
  },
  "location": "Nynäshamn",
- "lon": 17.95486,
+ "lon": 17.95,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 268,
   "fetched_ts": 1790508589095,
@@ -98,7 +108,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "450 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26307509",
  "width_cm": 216,
  "year": 2000

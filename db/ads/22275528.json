@@ -1,0 +1,137 @@
+{
+ "ad_id": 22275528,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1788167199000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": 150,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Ryds 548 Sport – 2016 – 100 hk – Mycket fin och välhållen Ryds 548 Sport – 2016 – 100 hk – Mycket fin och välhålle",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2016,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båttrailer kan läggas till båtköpet (märke Tiki)– redo för säsong från dag ett",
+    "included": true
+   }
+  },
+  "hull": "open",
+  "hull_certain": false,
+  "hull_evidence": "No enclosed space, only open cockpit and console visible.",
+  "hull_source": "bild",
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds 548 Sport – 2016 – 100 hk – Mycket fin och välhållen",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22275528/c4883c7f-18bd-4b1e-b7fb-f780a7f21c5e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22275528/c4883c7f-18bd-4b1e-b7fb-f780a7f21c5e",
+  "https://images.blocketcdn.se/dynamic/default/item/22275528/fb219754-0497-4bff-8ab7-2f2eada72485",
+  "https://images.blocketcdn.se/dynamic/default/item/22275528/942dd482-f2e5-4ef0-8b50-0dca105177f3",
+  "https://images.blocketcdn.se/dynamic/default/item/22275528/20af8df2-3c3e-43a2-8053-3c3af9b5af9a",
+  "https://images.blocketcdn.se/dynamic/default/item/22275528/d53cbb99-d04a-4ae1-b442-12afd620c8b6"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.31,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2016,
+   "engine_hours": null,
+   "engine_hp": 100,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0c51ecc03a5cd7d0"
+ },
+ "location": "Saltsjö-Boo",
+ "lon": 18.3,
+ "make": "Ryds",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1032,
+  "fetched_ts": 1790522868341,
+  "text_sha": "0c51ecc03a5cd7d0"
+ },
+ "price": 184900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 184900
+  }
+ ],
+ "specs": {
+  "Bredd": "218 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "548 sport",
+  "Modellår": "2016",
+  "Motor inkluderad": "Nej",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Toppfart": "35 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "540 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22275528",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "c77411aa93ae0cdb",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed space, only open cockpit and console visible.",
+   "hull_photo": 4
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 218,
+ "year": 2016
+}

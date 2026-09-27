@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -27,16 +29,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Storebro Storbådan 500",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26069754/9ea201d9-27a4-4494-80d2-5ac7b020f75c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.57737,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26069754/9ea201d9-27a4-4494-80d2-5ac7b020f75c",
+  "https://images.blocketcdn.se/dynamic/default/item/26069754/44f9f473-68da-4f0c-a183-07772a4f9958"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.58,
  "length_ft": 16,
  "location": "Fjällbacka",
- "lon": 11.13414,
+ "lon": 11.13,
  "make": "Storebro",
  "max_speed": 18,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 229,
   "fetched_ts": 1790508430487,
@@ -66,7 +73,7 @@
   "Toppfart": "18 knop",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26069754",
  "width_cm": 180,
  "year": 1980

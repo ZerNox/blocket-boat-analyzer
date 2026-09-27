@@ -1,0 +1,104 @@
+{
+ "ad_id": 26705136,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789812405000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2009,
+  "boat_year_source": "spec",
+  "engine_hours": 100,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2015,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är en Mercury F80 HK 4T från 2015 med endast 100 timmar gångtid i skrivande stund.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Utrustat med Garmin plotter och ekolod (B03139)",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapellet är nytt från i somras.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Utrustat med Garmin plotter och ekolod (B03139)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailern är en BK HENGEREN (P 1219T) som är besiktad till och med 2[tel]",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Mv Marin 5400 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Mv Marin 5400 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26705136/f3259905-76fd-4b2b-b732-732c277dbf23",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26705136/f3259905-76fd-4b2b-b732-732c277dbf23",
+  "https://images.blocketcdn.se/dynamic/default/item/26705136/3bc4c211-60b0-4dda-a9e8-2ede6bcfa7f6",
+  "https://images.blocketcdn.se/dynamic/default/item/26705136/00891415-ec5d-4b0d-b7e7-2985be2d4545",
+  "https://images.blocketcdn.se/dynamic/default/item/26705136/d2ad02c4-8b0d-4926-94b1-c6ec7c32fe98"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.76,
+ "length_ft": 18,
+ "location": "Gottröra",
+ "lon": 18.16,
+ "make": "MV",
+ "max_speed": 33,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 586,
+  "fetched_ts": 1790523206802,
+  "text_sha": "97dc362d0e91d519"
+ },
+ "price": 150000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 150000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "Mv marine 5400 HT",
+  "Modellår": "2009",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "MV",
+  "Sittplatser": "5",
+  "Sovplatser": "3",
+  "Toppfart": "33 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26705136",
+ "width_cm": 0,
+ "year": 2009
+}

@@ -7,6 +7,8 @@
   "boat_year": 1977,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 65.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -23,6 +25,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -32,10 +38,20 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Örnvik 510",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25450369/5a28bde6-a1c5-48df-a787-af85d64a9fbb",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.95465,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25450369/5a28bde6-a1c5-48df-a787-af85d64a9fbb",
+  "https://images.blocketcdn.se/dynamic/default/item/25450369/587cc9a9-035d-4ba5-9f7a-1fa0ad174606",
+  "https://images.blocketcdn.se/dynamic/default/item/25450369/1a0e643c-450a-4a0f-9c90-afb3d6311a3c",
+  "https://images.blocketcdn.se/dynamic/default/item/25450369/8698ada5-65eb-465f-823b-4f8c18e11b4c",
+  "https://images.blocketcdn.se/dynamic/default/item/25450369/f3402efd-d2ee-4298-9ec8-25f9240bef5d"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.95,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -65,7 +81,7 @@
   "text_sha": "16628d1e85b0ea6d"
  },
  "location": "Växjö",
- "lon": 14.92026,
+ "lon": 14.92,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": null,

@@ -7,6 +7,8 @@
   "boat_year": 1991,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -37,8 +39,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "RYDS 475GTS - MARINER 75HK + BRENDERUP TRAILER 2019",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25225406/6fc32fbe-17cb-44eb-b994-5353dc75d3df",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.81507,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25225406/6fc32fbe-17cb-44eb-b994-5353dc75d3df",
+  "https://images.blocketcdn.se/dynamic/default/item/25225406/b0198ba3-40e8-49e4-a5f3-7d372653b76c",
+  "https://images.blocketcdn.se/dynamic/default/item/25225406/1671e2fe-2096-445d-9ce5-2bb886f91a16",
+  "https://images.blocketcdn.se/dynamic/default/item/25225406/89775ea4-e730-4af3-afef-5d9d470614b5",
+  "https://images.blocketcdn.se/dynamic/default/item/25225406/2ec876f4-ddcb-4c15-97c2-a72b53d469a6",
+  "https://images.blocketcdn.se/dynamic/default/item/25225406/55dffe17-05b3-4e56-81b8-15585698942e",
+  "https://images.blocketcdn.se/dynamic/default/item/25225406/401f6fbf-888b-4169-9068-ef380db4aeac",
+  "https://images.blocketcdn.se/dynamic/default/item/25225406/a82267e1-3ffe-46dc-9cce-c1556c8d229d",
+  "https://images.blocketcdn.se/dynamic/default/item/25225406/ef3f6537-f18e-4d68-9b7d-c2bd0323b4bd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.82,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +82,13 @@
   "text_sha": "f587870f33cffc0b"
  },
  "location": "Umeå",
- "lon": 20.29102,
+ "lon": 20.29,
  "make": "Ryds",
  "max_speed": 35,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 753,
   "fetched_ts": 1790507667817,
@@ -102,7 +116,7 @@
   "Toppfart": "35 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25225406",
  "width_cm": 195,
  "year": 1991

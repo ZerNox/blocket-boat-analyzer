@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 55,
+  "engine_hp_source": "llm",
   "engine_maker": "Sole",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Snipa",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26619698/45d16770-7d33-4c05-bf27-a660564c9e09",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.61605,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26619698/45d16770-7d33-4c05-bf27-a660564c9e09",
+  "https://images.blocketcdn.se/dynamic/default/item/26619698/6b7f3ba8-16c8-4484-a44e-21e0b0524201",
+  "https://images.blocketcdn.se/dynamic/default/item/26619698/f6d957fe-10c4-4f2f-af52-304a41e0aa10",
+  "https://images.blocketcdn.se/dynamic/default/item/26619698/fabcfc3e-7ea7-4d5f-b235-ce7a94a5088c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.62,
  "length_ft": 25,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "3abc8db09a924b3d"
  },
  "location": "Norrköping",
- "lon": 16.34404,
+ "lon": 16.34,
  "make": "Ockelbo",
  "max_speed": 8,
  "motor_fuel": "Diesel",
  "motor_size": 55.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508830737,
@@ -97,7 +106,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "1 500 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26619698",
  "width_cm": 225,
  "year": 1980

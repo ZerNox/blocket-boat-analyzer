@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -36,8 +38,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Plastbåt / fiske / fritid längd 4,5 m med 15 hk Johnson på 80 km trailer.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26776485/f19286c8-622d-45fe-b7cb-006039c46af5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.40622,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26776485/f19286c8-622d-45fe-b7cb-006039c46af5",
+  "https://images.blocketcdn.se/dynamic/default/item/26776485/3ebbca36-0215-4336-8bd1-e1ea741cefed",
+  "https://images.blocketcdn.se/dynamic/default/item/26776485/c282bbd6-5c60-4398-9d8d-c17059291a22",
+  "https://images.blocketcdn.se/dynamic/default/item/26776485/e4ebb96f-7fe9-4f00-b142-2cfa38930fc4",
+  "https://images.blocketcdn.se/dynamic/default/item/26776485/68fb5762-8940-4b81-916d-d49182c98be0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.41,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +76,13 @@
   "text_sha": "ad3f2fadb3903402"
  },
  "location": "Skövde",
- "lon": 13.83537,
+ "lon": 13.84,
  "make": "Johnson",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 228,
   "fetched_ts": 1790508933363,
@@ -101,7 +111,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26776485",
  "width_cm": 160,
  "year": 1990

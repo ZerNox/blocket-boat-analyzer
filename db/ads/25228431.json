@@ -1,0 +1,87 @@
+{
+ "ad_id": 25228431,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1790515159000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Säls med eller utan Tiki trailer Båten säls i september..",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Fritidbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25228431/4780f50b-3729-4b75-ac2a-772d416edaa5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25228431/4780f50b-3729-4b75-ac2a-772d416edaa5",
+  "https://images.blocketcdn.se/dynamic/default/item/25228431/b81614c9-c975-4a31-a765-a9af0e66b16e",
+  "https://images.blocketcdn.se/dynamic/default/item/25228431/479cb712-af98-48a1-ac03-e0d0dfbd6e3a",
+  "https://images.blocketcdn.se/dynamic/default/item/25228431/acf4b66f-b0b7-4832-bbe3-3549ef788fa9",
+  "https://images.blocketcdn.se/dynamic/default/item/25228431/677c7310-6f90-4034-aa99-91fc7b8735f1",
+  "https://images.blocketcdn.se/dynamic/default/item/25228431/a8d1003c-9ea2-4612-bdcf-e4a14fbb6c8c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.39,
+ "length_ft": 6,
+ "location": "Torsby",
+ "lon": 12.98,
+ "make": "59º North",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 148,
+  "fetched_ts": 1790520660289,
+  "text_sha": "c083eaacf6a06aab"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Blå",
+  "Längd i fot": "6 fot",
+  "Modell": "Fritidbåt",
+  "Modellår": "1990",
+  "Motor inkluderad": "Nej",
+  "Märke": "59º North",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "150 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25228431",
+ "width_cm": 160,
+ "year": 1990
+}

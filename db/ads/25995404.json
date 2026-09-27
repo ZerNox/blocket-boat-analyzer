@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 9.9,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Seaking 9,9 hk, 4-takt, 2010",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -33,16 +35,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Motorbåt/Fiskebåt säljes",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25995404/f7c86cdf-a871-46bd-b005-3962d3c6ac5b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.70103,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25995404/f7c86cdf-a871-46bd-b005-3962d3c6ac5b",
+  "https://images.blocketcdn.se/dynamic/default/item/25995404/b8795796-cd9e-4043-80fa-716d388d3bac",
+  "https://images.blocketcdn.se/dynamic/default/item/25995404/a5236fb5-01e0-4f0e-b01e-3528ad51c486"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.7,
  "length_ft": 16,
  "location": "Knivsta",
- "lon": 17.70722,
+ "lon": 17.71,
  "make": "Ryds",
  "max_speed": 5,
  "motor_fuel": "Bensin",
  "motor_size": 9.899999618530273,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 362,
   "fetched_ts": 1790508367888,
@@ -72,7 +80,7 @@
   "Toppfart": "5 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25995404",
  "width_cm": 0,
  "year": 1985

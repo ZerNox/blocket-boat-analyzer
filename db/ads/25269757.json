@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Motorbåt Ryds",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25269757/947b0471-44fa-40c0-b1d5-1e205cf7c1d8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.3554,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25269757/947b0471-44fa-40c0-b1d5-1e205cf7c1d8",
+  "https://images.blocketcdn.se/dynamic/default/item/25269757/82e356b1-fb7c-4dca-ba17-4c7baa0d4e6f",
+  "https://images.blocketcdn.se/dynamic/default/item/25269757/89c97679-09d1-4987-8c92-74b0a39f6e5a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.36,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "621adbab95b0e877"
  },
  "location": "Hässelby",
- "lon": 17.83518,
+ "lon": 17.84,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 152,
   "fetched_ts": 1790507712279,
@@ -98,7 +106,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25269757",
  "width_cm": 0,
  "year": 1990

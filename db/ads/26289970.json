@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 16.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ockelbo HT15",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26289970/49473298-0873-445b-ba98-fa7f9419386a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.52117,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26289970/49473298-0873-445b-ba98-fa7f9419386a",
+  "https://images.blocketcdn.se/dynamic/default/item/26289970/6a6929eb-1061-4afc-9fc6-2f7da57cde6e",
+  "https://images.blocketcdn.se/dynamic/default/item/26289970/6dd232f9-9456-4f31-a171-e467a4f2a5cd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.52,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "0eaa123881f90c35"
  },
  "location": "Kovland",
- "lon": 16.96305,
+ "lon": 16.96,
  "make": "Ockelbo",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 16.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 497,
   "fetched_ts": 1790508576505,
@@ -96,7 +104,7 @@
   "Märke": "Ockelbo",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26289970",
  "width_cm": 0,
  "year": 1975

@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt 25HK + Vagn BYTE?",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23992141/129c7c3f-83e2-48be-b6e4-f7297167c0dc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.85816,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23992141/129c7c3f-83e2-48be-b6e4-f7297167c0dc",
+  "https://images.blocketcdn.se/dynamic/default/item/23992141/bfda67a0-a524-4ad4-b055-d7439acb6e91",
+  "https://images.blocketcdn.se/dynamic/default/item/23992141/29b4b1a8-f0f8-47e3-81ad-09db003f117e",
+  "https://images.blocketcdn.se/dynamic/default/item/23992141/cf64b258-0b75-4595-b4b8-1ad622d0a94c",
+  "https://images.blocketcdn.se/dynamic/default/item/23992141/01560a13-00cb-402d-b987-93ea77f37b07",
+  "https://images.blocketcdn.se/dynamic/default/item/23992141/aa04af10-af3d-40b1-8ca9-0bcfcdac9735",
+  "https://images.blocketcdn.se/dynamic/default/item/23992141/f70e3e93-a560-402b-8757-fb968f063b17"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.86,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +77,13 @@
   "text_sha": "027a9a3d6fd52dda"
  },
  "location": "Umeå",
- "lon": 20.33991,
+ "lon": 20.34,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 435,
   "fetched_ts": 1790507561256,
@@ -95,7 +107,7 @@
   "Märke": "Crescent",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23992141",
  "width_cm": 0,
  "year": 2026

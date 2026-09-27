@@ -7,6 +7,8 @@
   "boat_year": 2018,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sandström Classic 510",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23618778/e4e8c1b3-8ae7-4962-85cd-a2aab1b35952",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.27414,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23618778/e4e8c1b3-8ae7-4962-85cd-a2aab1b35952",
+  "https://images.blocketcdn.se/dynamic/default/item/23618778/58395300-bb41-4516-8668-edfeaebf01f4",
+  "https://images.blocketcdn.se/dynamic/default/item/23618778/a055ccbb-4480-4b9c-a368-6f9119b88474"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.27,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "dded1516bd6f2002"
  },
  "location": "Domsjö",
- "lon": 18.70119,
+ "lon": 18.7,
  "make": "Sandström",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 51,
   "fetched_ts": 1790507521399,
@@ -93,7 +101,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "460 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23618778",
  "width_cm": 200,
  "year": 2018

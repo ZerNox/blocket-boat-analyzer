@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -37,8 +39,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fiskebåt projekt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26286352/6d9ac893-02e8-410d-8fd7-319789c41dfe",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.53824,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26286352/6d9ac893-02e8-410d-8fd7-319789c41dfe",
+  "https://images.blocketcdn.se/dynamic/default/item/26286352/679992ff-8ccf-4263-8d59-8d11c2b2f71a",
+  "https://images.blocketcdn.se/dynamic/default/item/26286352/23130b09-8d89-4a2e-b973-572b07213491",
+  "https://images.blocketcdn.se/dynamic/default/item/26286352/19ff5a62-e4d9-4a28-989a-02b21414a67c",
+  "https://images.blocketcdn.se/dynamic/default/item/26286352/880c8762-5049-4d3e-950b-508d171a4f01",
+  "https://images.blocketcdn.se/dynamic/default/item/26286352/c390e528-104b-457e-9444-efa1a6bbc840"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.54,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -68,12 +78,13 @@
   "text_sha": "7a1099b6567b1082"
  },
  "location": "Vedevåg",
- "lon": 15.34048,
+ "lon": 15.34,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 378,
   "fetched_ts": 1790508573853,
@@ -98,7 +109,7 @@
   "Märke": "Övriga",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26286352",
  "width_cm": 0,
  "year": 1985

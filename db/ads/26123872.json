@@ -1,0 +1,118 @@
+{
+ "ad_id": 26123872,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787996966000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "STABIL, RIKNINGSSTABIL, LÄTTRODD RODDBÅT MED DAMM OCH ELMOTOR",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "STABIL, RIKNINGSSTABIL, LÄTTRODD RODDBÅT MED DAMM OCH ELMOTOR",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26123872/24e3dd4e-1b1b-466c-b57f-b7d94ca262ef",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26123872/24e3dd4e-1b1b-466c-b57f-b7d94ca262ef",
+  "https://images.blocketcdn.se/dynamic/default/item/26123872/5977d0f1-cd5a-4333-a931-aff8e6d9330c",
+  "https://images.blocketcdn.se/dynamic/default/item/26123872/7db43a87-022c-4b17-b42d-5b83931e1ebc",
+  "https://images.blocketcdn.se/dynamic/default/item/26123872/7ded66fa-533f-4b9f-aa19-41a3cd13f437",
+  "https://images.blocketcdn.se/dynamic/default/item/26123872/a2ab34df-3d3b-473c-bc33-bef23d818840",
+  "https://images.blocketcdn.se/dynamic/default/item/26123872/bc74a7cf-5727-469e-a108-f7474f78d9d7",
+  "https://images.blocketcdn.se/dynamic/default/item/26123872/524937d1-5321-43b0-bc10-273d08c0d0f4",
+  "https://images.blocketcdn.se/dynamic/default/item/26123872/b89d887e-f785-4cdc-89af-147da97e9807"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.23,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercury",
+   "engine_type": "electric",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "fcd5fe04f815869b"
+ },
+ "location": "Burseryd",
+ "lon": 13.27,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Elektrisk",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 181,
+  "fetched_ts": 1790520907627,
+  "text_sha": "fcd5fe04f815869b"
+ },
+ "price": 2900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 2900
+  }
+ ],
+ "specs": {
+  "Bredd": "155 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Elektrisk",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "Roddbåt med damm",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26123872",
+ "width_cm": 155,
+ "year": 2000
+}

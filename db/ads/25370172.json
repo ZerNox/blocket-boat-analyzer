@@ -7,6 +7,8 @@
   "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": 135,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude E-Tec 75",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -51,8 +53,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Pioner Supersport Styrpulpet 17 / PERFEKT  Fiskebåt, Fritidsbåt, Arbetsbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25370172/bd3344aa-88e8-4bb3-8c7c-b07998e238a3",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.52746,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25370172/bd3344aa-88e8-4bb3-8c7c-b07998e238a3",
+  "https://images.blocketcdn.se/dynamic/default/item/25370172/232435d9-c076-4047-9d48-22e4b4f592a9",
+  "https://images.blocketcdn.se/dynamic/default/item/25370172/006c0bc7-d9cf-4e5c-acb1-5a30920abac6",
+  "https://images.blocketcdn.se/dynamic/default/item/25370172/e44d09c6-a2e0-432a-857b-d427c9d86e9e",
+  "https://images.blocketcdn.se/dynamic/default/item/25370172/a7682c08-9a58-45ae-a082-dde8ccc29fc1"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.53,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -82,12 +91,13 @@
   "text_sha": "ed95dcb054420a7d"
  },
  "location": "Västerås",
- "lon": 16.39333,
+ "lon": 16.39,
  "make": "Pioner",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 684,
   "fetched_ts": 1790507807960,
@@ -118,7 +128,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "420 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25370172",
  "width_cm": 215,
  "year": 2010

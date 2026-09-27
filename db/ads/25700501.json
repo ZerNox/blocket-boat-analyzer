@@ -1,0 +1,99 @@
+{
+ "ad_id": 25700501,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787313825000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är en Suzuki 90 hk fyrtakt som köptes ny 2021 och årligen servats av Kode Marin.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Den sk 30 kärra båten står på kan, liksom tampar och annan utrustning, kan ingå för rätt köpare.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 575 MC med 4-takst Suzuki 90 hk",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Örnvik 575"
+ ],
+ "heading": "Örnvik 575 MC med 4-takst Suzuki 90 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25700501/513cf949-cde3-4374-ab81-cf93a708bd78",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25700501/513cf949-cde3-4374-ab81-cf93a708bd78",
+  "https://images.blocketcdn.se/dynamic/default/item/25700501/fe1ad057-1f48-4f64-97cf-dd2d5d33eb1b",
+  "https://images.blocketcdn.se/dynamic/default/item/25700501/8eabd9db-0f7b-4180-9ca7-7ac336823e7a",
+  "https://images.blocketcdn.se/dynamic/default/item/25700501/1ff26dd8-6629-4774-b0b3-c3ea5bbb3367",
+  "https://images.blocketcdn.se/dynamic/default/item/25700501/a3b5d2a1-87b8-4736-a0fb-15875ea44f5c",
+  "https://images.blocketcdn.se/dynamic/default/item/25700501/7e3fd27d-a0c9-414c-8729-08015c4fe1b4",
+  "https://images.blocketcdn.se/dynamic/default/item/25700501/fb23140e-94d0-4206-9bb1-7a1f54c7ae07",
+  "https://images.blocketcdn.se/dynamic/default/item/25700501/cd0366aa-e18d-4f40-bcc9-8eb2f3e7c8ca",
+  "https://images.blocketcdn.se/dynamic/default/item/25700501/13f94420-7e53-4a90-ac9c-69d41ec91b33",
+  "https://images.blocketcdn.se/dynamic/default/item/25700501/8af0cee9-1271-4938-a52c-262e03438e03",
+  "https://images.blocketcdn.se/dynamic/default/item/25700501/908d5929-ea5e-4763-be29-d6c2556adfc6"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.85,
+ "length_ft": 1,
+ "location": "Kärna",
+ "lon": 11.79,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1137,
+  "fetched_ts": 1790523044757,
+  "text_sha": "5ee5ac0bb60f394e"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "1 fot",
+  "Modell": "575 MC",
+  "Modellår": "1999",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25700501",
+ "width_cm": 0,
+ "year": 1999
+}

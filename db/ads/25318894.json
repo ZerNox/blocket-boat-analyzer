@@ -7,6 +7,8 @@
   "boat_year": 2026,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -50,8 +52,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Mojo jon 1338 PW med 6HK Mercury - 2026",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25318894/3b96e596-9892-42bc-837c-882de79c0c93",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 64.82423,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25318894/3b96e596-9892-42bc-837c-882de79c0c93",
+  "https://images.blocketcdn.se/dynamic/default/item/25318894/e957a39b-b557-4dc1-b426-a3a7adfada45",
+  "https://images.blocketcdn.se/dynamic/default/item/25318894/75ed0ab4-bd1d-4e54-bb2d-7aa5615dfe2c",
+  "https://images.blocketcdn.se/dynamic/default/item/25318894/87b7d7db-25dd-41c1-a350-e1df082ee0c7",
+  "https://images.blocketcdn.se/dynamic/default/item/25318894/a0288932-d223-4c9c-83a9-611bea946915",
+  "https://images.blocketcdn.se/dynamic/default/item/25318894/5b56e974-e4d7-4cce-a5df-fda3d46d3979",
+  "https://images.blocketcdn.se/dynamic/default/item/25318894/84121a99-9bd4-402d-b30a-fbd88ab2e7cd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 64.82,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -81,12 +92,13 @@
   "text_sha": "c2536d62ceccb386"
  },
  "location": "Kåge",
- "lon": 20.99876,
+ "lon": 21.0,
  "make": "Övriga",
  "max_speed": 7,
  "motor_fuel": null,
  "motor_size": 6.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 862,
   "fetched_ts": 1790507752439,
@@ -114,7 +126,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "63 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25318894",
  "width_cm": 140,
  "year": 2026

@@ -1,0 +1,111 @@
+{
+ "ad_id": 23748765,
+ "boat_class": "Annat",
+ "changed_ts": 1787850475000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1967,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Stabil och trevlig båt, sjöuttern 430 säljes med Johnson 20 hk (1967)utombordare samt 30-båtkärra, Åror medföljer.",
+  "engine_year_source": "rule:text?",
+  "equipment": {
+   "trailer": {
+    "evidence": "Fiskebåt med Johnson 20 hk och trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine 1967 older than boat 1980"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Fin plastbåt med motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23748765/208b71db-08a6-4a33-954c-54b56c65f194",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23748765/208b71db-08a6-4a33-954c-54b56c65f194",
+  "https://images.blocketcdn.se/dynamic/default/item/23748765/fbf2447c-e7a7-47cd-b888-8c00bb65ce95",
+  "https://images.blocketcdn.se/dynamic/default/item/23748765/ec785a8e-812a-4f7f-af21-3f56bffc0b55",
+  "https://images.blocketcdn.se/dynamic/default/item/23748765/52787ba0-8844-4510-ab98-212ae633674d",
+  "https://images.blocketcdn.se/dynamic/default/item/23748765/da107344-ba19-410f-9023-d16454a68d9b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.08,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 20,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Johnson 20 hk (1967) utombordare",
+   "engine_year_rejected": 1967,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "cc24948cccca3448"
+ },
+ "location": "Bjuråker",
+ "lon": 16.25,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 458,
+  "fetched_ts": 1790520617725,
+  "text_sha": "cc24948cccca3448"
+ },
+ "price": 8500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 8500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23748765",
+ "width_cm": 0,
+ "year": 1980
+}

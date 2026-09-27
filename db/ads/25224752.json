@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Bedford",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Rospiggen-28",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25224752/371e9928-3160-4139-aa18-561a5e0a2de7",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.47519,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25224752/371e9928-3160-4139-aa18-561a5e0a2de7",
+  "https://images.blocketcdn.se/dynamic/default/item/25224752/5f00e1e1-81ef-499a-903d-8fd333824dd8",
+  "https://images.blocketcdn.se/dynamic/default/item/25224752/56635a3c-da05-4013-b14b-a2ce383daa8e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.48,
  "length_ft": 28,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "035e571706951cf8"
  },
  "location": "Åkersberga",
- "lon": 18.30167,
+ "lon": 18.3,
  "make": "AL",
  "max_speed": 9,
  "motor_fuel": "Diesel",
  "motor_size": 60.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 200,
   "fetched_ts": 1790507666270,
@@ -104,7 +112,7 @@
   "Typ": "Annat",
   "Vikt": "3 500 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25224752",
  "width_cm": 275,
  "year": 1978

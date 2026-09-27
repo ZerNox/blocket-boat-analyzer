@@ -7,6 +7,8 @@
   "boat_year": 1955,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 11.5,
+  "engine_hp_source": "llm",
   "engine_maker": "Bolinder-Munktell, BR 1051",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Flottningshistoria",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26037507/9324dad4-d497-4014-893c-f63b2980f2fb",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 61.23034,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26037507/9324dad4-d497-4014-893c-f63b2980f2fb",
+  "https://images.blocketcdn.se/dynamic/default/item/26037507/36fb901c-c249-474a-a09b-07350ef53f7f",
+  "https://images.blocketcdn.se/dynamic/default/item/26037507/cf9f2b5f-ac8a-459f-88c2-9f9b98223c61",
+  "https://images.blocketcdn.se/dynamic/default/item/26037507/ef7f5c7b-f178-41f8-a5a4-ed69eaa3d7e2",
+  "https://images.blocketcdn.se/dynamic/default/item/26037507/4c778362-2b55-460d-84aa-1c5828db223e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 61.23,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "18086c6b9998fbc4"
  },
  "location": "Kilafors",
- "lon": 16.58124,
+ "lon": 16.58,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Diesel",
  "motor_size": 11.5,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 300,
   "fetched_ts": 1790508407901,
@@ -99,7 +109,7 @@
   "Skrovmaterial": "Annat",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26037507",
  "width_cm": 200,
  "year": 1955

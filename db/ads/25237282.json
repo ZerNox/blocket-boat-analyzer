@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Klassisk träbåt från 1940-talet – Tohatsu 30 hk 4-takt, vagn och tält ingår",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25237282/e2270729-0765-4943-b0a2-07821c9eff98",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.23524,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25237282/e2270729-0765-4943-b0a2-07821c9eff98",
+  "https://images.blocketcdn.se/dynamic/default/item/25237282/77dfabcb-a0d4-4c88-919e-0147c9f3de4a",
+  "https://images.blocketcdn.se/dynamic/default/item/25237282/bd4be6ac-6fce-4d1b-b0fa-3b4b27f6d5d9",
+  "https://images.blocketcdn.se/dynamic/default/item/25237282/fd023ef4-15f0-4689-a553-a13dc28a3992",
+  "https://images.blocketcdn.se/dynamic/default/item/25237282/f8374b6d-add1-42cf-9c4d-d1e791440880",
+  "https://images.blocketcdn.se/dynamic/default/item/25237282/b80e6d3d-91be-4137-bab5-cf632a2c4f4d",
+  "https://images.blocketcdn.se/dynamic/default/item/25237282/492a7d00-a67d-4cae-b988-2e9137f67720",
+  "https://images.blocketcdn.se/dynamic/default/item/25237282/0128b011-23ae-4712-a95b-06c2ed238c77"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.24,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -61,12 +73,13 @@
   "text_sha": "30f724cc81f1400f"
  },
  "location": "Tyresö",
- "lon": 18.3354,
+ "lon": 18.34,
  "make": "Övriga",
  "max_speed": 15,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1702,
   "fetched_ts": 1790507680500,
@@ -94,7 +107,7 @@
   "Toppfart": "15 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25237282",
  "width_cm": 0,
  "year": 1940

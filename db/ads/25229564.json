@@ -7,6 +7,8 @@
   "boat_year": 1988,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 498",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25229564/b7da4162-4b4f-4628-b64e-372f71bc511a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.13969,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25229564/b7da4162-4b4f-4628-b64e-372f71bc511a",
+  "https://images.blocketcdn.se/dynamic/default/item/25229564/20caf45c-4991-448d-a60c-db660fe00c70",
+  "https://images.blocketcdn.se/dynamic/default/item/25229564/50ca4f0d-4946-49f5-a454-1a721b36e01a",
+  "https://images.blocketcdn.se/dynamic/default/item/25229564/20777fb9-0a7d-46a1-a4b6-b5d615bb91e9",
+  "https://images.blocketcdn.se/dynamic/default/item/25229564/24ccb566-e08a-41b0-92ba-af01ae6d414b",
+  "https://images.blocketcdn.se/dynamic/default/item/25229564/9d4f4a64-a2cd-4e8c-b798-1c2c47231d5b",
+  "https://images.blocketcdn.se/dynamic/default/item/25229564/f27d2fac-01f2-417d-91d7-57938ec5a432",
+  "https://images.blocketcdn.se/dynamic/default/item/25229564/b39b9a2d-5af9-41f4-bddc-a0e896d62632"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.14,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +72,13 @@
   "text_sha": "77dabf124ce65725"
  },
  "location": "Frösön",
- "lon": 14.51142,
+ "lon": 14.51,
  "make": "Crescent",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 188,
   "fetched_ts": 1790507671994,
@@ -94,7 +107,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25229564",
  "width_cm": 0,
  "year": 1988

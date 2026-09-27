@@ -1,0 +1,132 @@
+{
+ "ad_id": 26822783,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790164300000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "-kapell saknas (bågen finns)",
+    "included": false
+   },
+   "plotter": {
+    "evidence": "*Garmin GPSmap 420s",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "*Stereo med aux",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "*30 kärra",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Bayliner Capri",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26822783/24221f05-d06f-452c-ba94-f8f8eb3c85d2",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26822783/24221f05-d06f-452c-ba94-f8f8eb3c85d2",
+  "https://images.blocketcdn.se/dynamic/default/item/26822783/5a033dab-d749-4b7e-9a6a-4939a301b036",
+  "https://images.blocketcdn.se/dynamic/default/item/26822783/67098282-dd53-4d6a-9603-855b0c1fe663",
+  "https://images.blocketcdn.se/dynamic/default/item/26822783/bf391620-c64e-4aff-8d5c-97486fb962b6",
+  "https://images.blocketcdn.se/dynamic/default/item/26822783/0d02dd67-b723-417e-8446-aeb1747d2335",
+  "https://images.blocketcdn.se/dynamic/default/item/26822783/d29870a9-f1d0-4a66-a4ba-9e864af010be",
+  "https://images.blocketcdn.se/dynamic/default/item/26822783/f2624ec8-5cf7-4025-889c-f7f6d41afacc"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 63.14,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "included",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "bef8dffe3fc0137a"
+ },
+ "location": "Östersund",
+ "lon": 14.76,
+ "make": "Bayliner",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 357,
+  "fetched_ts": 1790523224883,
+  "text_sha": "bef8dffe3fc0137a"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "Capri",
+  "Modellår": "1980",
+  "Motortillverkare": "Volvo",
+  "Motortyp": "Inombordare",
+  "Märke": "Bayliner",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26822783",
+ "width_cm": 220,
+ "year": 1980
+}

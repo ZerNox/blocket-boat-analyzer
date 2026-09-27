@@ -1,0 +1,76 @@
+{
+ "ad_id": 26742912,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789908274000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 2,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1998,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Askeladden 435 med självläns",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26742912/d54cfc36-a50b-4c4f-88c0-7f580ec4608a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26742912/d54cfc36-a50b-4c4f-88c0-7f580ec4608a",
+  "https://images.blocketcdn.se/dynamic/default/item/26742912/12312c66-5355-46cd-a357-a4b2036cc8cf",
+  "https://images.blocketcdn.se/dynamic/default/item/26742912/28fc6317-d2ff-4afe-9008-401815fa3ff8",
+  "https://images.blocketcdn.se/dynamic/default/item/26742912/e843844f-6d95-4dbf-814a-f85649b2ca4b",
+  "https://images.blocketcdn.se/dynamic/default/item/26742912/feb9b58a-06fa-417a-b8fb-34fd4632d158",
+  "https://images.blocketcdn.se/dynamic/default/item/26742912/d0266e50-987f-45e4-875a-5988e4a24817"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.24,
+ "length_ft": 14,
+ "location": "Henån",
+ "lon": 11.62,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 306,
+  "fetched_ts": 1790521048010,
+  "text_sha": "eebd22d64fd4ef69"
+ },
+ "price": 19999,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 19999
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "435 självläns",
+  "Modellår": "1998",
+  "Märke": "Askeladden",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26742912",
+ "width_cm": 0,
+ "year": 1998
+}

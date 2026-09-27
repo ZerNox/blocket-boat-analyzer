@@ -1,0 +1,109 @@
+{
+ "ad_id": 21985796,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1785347692000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2016,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mycket välvårdad Quicksilver 530 Pilothouse från 2011 (uttagen 2016), med Honda 80 hk från 2016 gångtimmar 373 timmar och Tiki 1250-trailer (2019, 80 km/h).",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Simrad med ekolod, GPS och sjökort, värme i kabinen, LED-lampor fram och bak, fällbara stolar, bord och dynor, spöhålla…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Simrad med ekolod, GPS och sjökort, värme i kabinen, LED-lampor fram och bak, fällbara stolar, bord och dynor, spöhålla…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Mycket välvårdad Quicksilver 530 Pilothouse från 2011 (uttagen 2016), med Honda 80 hk från 2016 gångtimmar 373 timmar o…",
+    "included": true,
+    "kmh": 80,
+    "year": 2019
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Quicksilver (Örnvik) 530 PH – Höstpris, toppskick!",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Quicksilver (Örnvik) 530 PH – Höstpris, toppskick!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21985796/3b499a1e-f395-4c59-bd88-073884516377",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21985796/3b499a1e-f395-4c59-bd88-073884516377",
+  "https://images.blocketcdn.se/dynamic/default/item/21985796/02539e8e-b723-4a5c-95b8-9eaf2d0b83ae",
+  "https://images.blocketcdn.se/dynamic/default/item/21985796/7eca9519-5ed4-4a6f-9880-a3892ee1bf65",
+  "https://images.blocketcdn.se/dynamic/default/item/21985796/62603c62-d257-49f1-b21e-5bc79ea96c24",
+  "https://images.blocketcdn.se/dynamic/default/item/21985796/aefec0f7-b883-42de-8b54-2f554ec3e908",
+  "https://images.blocketcdn.se/dynamic/default/item/21985796/20ce231b-14ee-4907-a30b-59574dfda962",
+  "https://images.blocketcdn.se/dynamic/default/item/21985796/898e4ce5-2472-40d4-8c00-20322365a821",
+  "https://images.blocketcdn.se/dynamic/default/item/21985796/44971e52-d8c3-4763-a11a-63722383780b",
+  "https://images.blocketcdn.se/dynamic/default/item/21985796/e879cf19-3bb2-4d83-bc47-53fb98f0411e",
+  "https://images.blocketcdn.se/dynamic/default/item/21985796/37bc1341-8e65-4cba-bb82-e44847d494c5",
+  "https://images.blocketcdn.se/dynamic/default/item/21985796/af5314a1-db2e-4d5d-b96e-93f0002f966d",
+  "https://images.blocketcdn.se/dynamic/default/item/21985796/4e5f3f42-0a70-4d4a-8276-7561d519919c",
+  "https://images.blocketcdn.se/dynamic/default/item/21985796/4d353b05-a700-42b6-ace1-3ba8f2a8a67e",
+  "https://images.blocketcdn.se/dynamic/default/item/21985796/d9058c57-1211-4634-9b77-bc6af7208190",
+  "https://images.blocketcdn.se/dynamic/default/item/21985796/4d176802-79aa-42f6-8394-bfe7c5716a88"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.47,
+ "length_ft": 18,
+ "location": "Bovallstrand",
+ "lon": 11.33,
+ "make": "Quicksilver",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 735,
+  "fetched_ts": 1790522861140,
+  "text_sha": "61dfc4fc9a22e8dd"
+ },
+ "price": 179000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 179000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modellår": "2016",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Quicksilver",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/21985796",
+ "width_cm": 0,
+ "year": 2016
+}

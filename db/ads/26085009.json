@@ -7,6 +7,8 @@
   "boat_year": 2014,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "470 Motorbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26085009/220b3832-c4a4-4519-a0ec-cde90480db25",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.05071,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26085009/220b3832-c4a4-4519-a0ec-cde90480db25",
+  "https://images.blocketcdn.se/dynamic/default/item/26085009/16ec89b5-b321-4476-80a0-0962594f8ce3",
+  "https://images.blocketcdn.se/dynamic/default/item/26085009/3d943165-da1b-4112-96f5-15ef82709706",
+  "https://images.blocketcdn.se/dynamic/default/item/26085009/ff7b958c-4e11-4915-b978-bcfb79501200",
+  "https://images.blocketcdn.se/dynamic/default/item/26085009/7c5fbfd5-cd7f-4eb3-af93-dab3b2ea7aa3",
+  "https://images.blocketcdn.se/dynamic/default/item/26085009/0078c1b3-b291-4fdf-bbc9-9ad8b78da0a8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.05,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +76,13 @@
   "text_sha": "52ba2f93e525a993"
  },
  "location": "Gnarp",
- "lon": 17.24933,
+ "lon": 17.25,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 383,
   "fetched_ts": 1790508445761,
@@ -98,7 +109,7 @@
   "Märke": "HR",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26085009",
  "width_cm": 175,
  "year": 2014

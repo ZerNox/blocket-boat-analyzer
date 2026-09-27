@@ -7,6 +7,8 @@
   "boat_year": 1987,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 495 50hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26657977/60431865-3b76-4463-b45c-b1eb851dcb1a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.08589,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26657977/60431865-3b76-4463-b45c-b1eb851dcb1a",
+  "https://images.blocketcdn.se/dynamic/default/item/26657977/57267f3a-429a-4be0-8d42-3b502c37f0a5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.09,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +66,13 @@
   "text_sha": "c3d9ea1e90016428"
  },
  "location": "Alunda",
- "lon": 18.06816,
+ "lon": 18.07,
  "make": "Uttern",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 333,
   "fetched_ts": 1790508847363,
@@ -95,7 +102,7 @@
   "Toppfart": "30 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26657977",
  "width_cm": 195,
  "year": 1987

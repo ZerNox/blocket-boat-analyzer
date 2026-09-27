@@ -7,6 +7,8 @@
   "boat_year": 1988,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20,
+  "engine_hp_source": "llm",
   "engine_maker": "Tohatsu MFS20E WEPTL",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -36,8 +38,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 465 -88",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26302543/f334c1de-d117-40af-8cde-8af29fb4c5cc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.48117,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26302543/f334c1de-d117-40af-8cde-8af29fb4c5cc",
+  "https://images.blocketcdn.se/dynamic/default/item/26302543/89986509-27e1-46da-9a5f-88da99faa160"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.48,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -68,12 +74,13 @@
   "text_sha": "aea818e58b3554d6"
  },
  "location": "Kungsängen",
- "lon": 17.72254,
+ "lon": 17.72,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 264,
   "fetched_ts": 1790508584918,
@@ -103,7 +110,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26302543",
  "width_cm": 182,
  "year": 1988

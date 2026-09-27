@@ -7,6 +7,8 @@
   "boat_year": 1997,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden 430 ST",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26573172/e7d4870e-12a5-4732-be7f-b7c6432b7e1c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.80362,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26573172/e7d4870e-12a5-4732-be7f-b7c6432b7e1c",
+  "https://images.blocketcdn.se/dynamic/default/item/26573172/bf3a588a-f545-4e15-8410-9e63dec02250",
+  "https://images.blocketcdn.se/dynamic/default/item/26573172/37789028-51a3-4120-99f4-116bf10682e6",
+  "https://images.blocketcdn.se/dynamic/default/item/26573172/0453a587-354a-449e-b9ab-d819ba8763c8",
+  "https://images.blocketcdn.se/dynamic/default/item/26573172/1085c1ce-6379-46dc-bbbf-6d21a77225cb"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.8,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "53bc7109885401d1"
  },
  "location": "Stigtomta",
- "lon": 16.78035,
+ "lon": 16.78,
  "make": "Askeladden",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 227,
   "fetched_ts": 1790508798550,
@@ -99,7 +109,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26573172",
  "width_cm": 178,
  "year": 1997

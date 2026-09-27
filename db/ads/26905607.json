@@ -1,0 +1,91 @@
+{
+ "ad_id": 26905607,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790438740000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1997,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha 4-takt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1997,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Akterkapell är tre säsonger gammalt och håller tätt och fint.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30km/h trailer(hjullager bytta för ett par år sen), div.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Yamarin med Yamaha 4-takt motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26905607/9a9ac819-640b-412a-ba7b-d396e2d468cd",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26905607/9a9ac819-640b-412a-ba7b-d396e2d468cd",
+  "https://images.blocketcdn.se/dynamic/default/item/26905607/3a6449dd-6cec-4813-a2bb-3163c68a79fb",
+  "https://images.blocketcdn.se/dynamic/default/item/26905607/6a5a025c-41db-407b-9608-621162a7fc4e",
+  "https://images.blocketcdn.se/dynamic/default/item/26905607/c085f586-1e33-4f4f-8807-e5b02b08fda6",
+  "https://images.blocketcdn.se/dynamic/default/item/26905607/11436f12-d281-42c1-87ad-2fe94175a191",
+  "https://images.blocketcdn.se/dynamic/default/item/26905607/09661f2a-c522-4c39-afcf-205bf6e1b1f6",
+  "https://images.blocketcdn.se/dynamic/default/item/26905607/8f79c2e8-5d38-4fe9-b0e4-34ba19e4da91"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.54,
+ "length_ft": 15,
+ "location": "Kullavik",
+ "lon": 11.9,
+ "make": "Yamarin",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 865,
+  "fetched_ts": 1790521088567,
+  "text_sha": "d2447ea19ff96283"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "Big Ride 4730",
+  "Modellår": "1997",
+  "Motortillverkare": "Yamaha 4-takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26905607",
+ "width_cm": 0,
+ "year": 1997
+}

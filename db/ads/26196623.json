@@ -1,0 +1,103 @@
+{
+ "ad_id": 26196623,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788191870000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2016,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Klassisk roddbåt/eka 4,10 m – åror ingår",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26196623/08407b68-e6a8-4bc9-8654-ffc57046031a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26196623/08407b68-e6a8-4bc9-8654-ffc57046031a",
+  "https://images.blocketcdn.se/dynamic/default/item/26196623/32012779-1317-49cf-9a09-b3b1961a5908",
+  "https://images.blocketcdn.se/dynamic/default/item/26196623/9f703d2b-60f8-428c-818a-4b03c997c0fd",
+  "https://images.blocketcdn.se/dynamic/default/item/26196623/640f8803-e111-4551-a4fd-12ecf0dd9b89"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.34,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2016,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Övriga",
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "4564ccf678e5a482"
+ },
+ "location": "Djurhamn",
+ "lon": 18.73,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 550,
+  "fetched_ts": 1790520918724,
+  "text_sha": "4564ccf678e5a482"
+ },
+ "price": 4000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4000
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modellår": "2016",
+  "Märke": "Övriga",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26196623",
+ "width_cm": 150,
+ "year": 2016
+}

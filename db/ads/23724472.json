@@ -1,0 +1,81 @@
+{
+ "ad_id": 23724472,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785581773000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1998,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "30trailer med bildrag.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Pioner barnbåt utan motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23724472/e3bdeba1-5353-451b-98fc-0c028aaf8de9",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23724472/e3bdeba1-5353-451b-98fc-0c028aaf8de9",
+  "https://images.blocketcdn.se/dynamic/default/item/23724472/7dde41b4-6859-438a-ab8f-472cce1c0343",
+  "https://images.blocketcdn.se/dynamic/default/item/23724472/691eceed-448d-4d82-875b-1fe33728ad41"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.36,
+ "length_ft": 285,
+ "location": "Idkerberget",
+ "lon": 15.22,
+ "make": "Pioner",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 203,
+  "fetched_ts": 1790520616198,
+  "text_sha": "404187c1378dfdfb"
+ },
+ "price": 7000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7000
+  }
+ ],
+ "specs": {
+  "Bredd": "120 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "285 fot",
+  "Modellår": "1998",
+  "Motor inkluderad": "Nej",
+  "Märke": "Pioner",
+  "Sittplatser": "2",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "45 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23724472",
+ "width_cm": 120,
+ "year": 1998
+}

@@ -7,6 +7,8 @@
   "boat_year": 1987,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet Lami 405, Mariner 25 hkr",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25625929/1850c947-c1eb-45fd-91ae-59ac5fb4802a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.34684,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25625929/1850c947-c1eb-45fd-91ae-59ac5fb4802a",
+  "https://images.blocketcdn.se/dynamic/default/item/25625929/8ab5eef3-1bb5-43a6-8e74-cdf6ddb6b0d8",
+  "https://images.blocketcdn.se/dynamic/default/item/25625929/bdabdeed-df3e-45c0-b549-c5682176359a",
+  "https://images.blocketcdn.se/dynamic/default/item/25625929/bdbbfd2d-3fae-434a-bd99-9c53bbb602dd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.35,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +77,13 @@
   "text_sha": "6eb0119690b62eab"
  },
  "location": "Sundsvall",
- "lon": 17.33346,
+ "lon": 17.33,
  "make": "Lami",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 165,
   "fetched_ts": 1790508057868,
@@ -101,7 +110,7 @@
   "Sittplatser": "4",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25625929",
  "width_cm": 0,
  "year": 1987

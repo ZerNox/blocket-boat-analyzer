@@ -1,0 +1,112 @@
+{
+ "ad_id": 26462369,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788980850000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 9.9,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2023,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Greate white 300",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26462369/7f510049-0f67-4bb8-9a6c-b90dfc7d9f92",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26462369/7f510049-0f67-4bb8-9a6c-b90dfc7d9f92",
+  "https://images.blocketcdn.se/dynamic/default/item/26462369/dc3a6741-a40b-4c58-880c-9f71aba52e98",
+  "https://images.blocketcdn.se/dynamic/default/item/26462369/f24706cd-c4c0-4774-98b3-4d44c7451f96",
+  "https://images.blocketcdn.se/dynamic/default/item/26462369/59f7a379-085e-41cc-963f-f7b80ee3e8f7",
+  "https://images.blocketcdn.se/dynamic/default/item/26462369/12e49862-5d0d-4835-b0f0-aa266c25bcea"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.44,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2023,
+   "engine_hours": null,
+   "engine_hp": 9.9,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e6b63cda31bdd6f2"
+ },
+ "location": "Täby",
+ "lon": 18.14,
+ "make": "Greatwhite",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 262,
+  "fetched_ts": 1790520979737,
+  "text_sha": "e6b63cda31bdd6f2"
+ },
+ "price": 32000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 32000
+  }
+ ],
+ "specs": {
+  "Bredd": "216 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "20 fot",
+  "Modell": "300",
+  "Modellår": "2023",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Greatwhite",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "20 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "45 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26462369",
+ "width_cm": 216,
+ "year": 2023
+}

@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 14,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -36,8 +38,9 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt, motor och trailer",
  "image": null,
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.52589,
+ "image_urls": [],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.53,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +70,13 @@
   "text_sha": "593a270c463255e2"
  },
  "location": "Upplands Väsby",
- "lon": 17.85374,
+ "lon": 17.85,
  "make": "Monark",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 14.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 178,
   "fetched_ts": 1790508545656,
@@ -99,7 +103,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26237639",
  "width_cm": 90,
  "year": 1980

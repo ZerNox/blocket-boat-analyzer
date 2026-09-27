@@ -7,6 +7,8 @@
   "boat_year": 1996,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 465 med Yamaha 40 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26718736/1a6b4618-033b-40af-a5c3-604b27a558b9",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.33112,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26718736/1a6b4618-033b-40af-a5c3-604b27a558b9",
+  "https://images.blocketcdn.se/dynamic/default/item/26718736/98b7daea-b893-4d67-9a9c-36e6f27a16e6",
+  "https://images.blocketcdn.se/dynamic/default/item/26718736/ad1b0e3b-07c5-4d52-acd3-202fbc1eb398",
+  "https://images.blocketcdn.se/dynamic/default/item/26718736/74236a97-abf9-4c6c-9d45-0d221b73756b",
+  "https://images.blocketcdn.se/dynamic/default/item/26718736/6a32ea20-439b-4e8d-af77-e77e100b7095",
+  "https://images.blocketcdn.se/dynamic/default/item/26718736/682fcbe3-40d2-4dc8-8f8d-b251e74f10c6",
+  "https://images.blocketcdn.se/dynamic/default/item/26718736/9f906979-4c00-4163-a191-e9ae22e4f88c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.33,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +77,13 @@
   "text_sha": "5ba13451925b5b9d"
  },
  "location": "Hammarö",
- "lon": 13.54941,
+ "lon": 13.55,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 381,
   "fetched_ts": 1790508889713,
@@ -98,7 +110,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26718736",
  "width_cm": 0,
  "year": 1996

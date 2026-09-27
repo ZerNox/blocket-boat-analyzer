@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -37,8 +39,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Höga Rodd Sport 465 inkl Yamaha & Båttrailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26824067/140d579d-908f-416a-ad88-9ce29b891a4e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.99144,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26824067/140d579d-908f-416a-ad88-9ce29b891a4e",
+  "https://images.blocketcdn.se/dynamic/default/item/26824067/2df7b321-bedb-4496-917c-5bcfa5838c30"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.99,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -68,12 +74,13 @@
   "text_sha": "f013b93e8435e307"
  },
  "location": "Sandhem",
- "lon": 13.80015,
+ "lon": 13.8,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 40.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 170,
   "fetched_ts": 1790508957568,
@@ -96,7 +103,7 @@
   "Märke": "HR",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26824067",
  "width_cm": 0,
  "year": 1980

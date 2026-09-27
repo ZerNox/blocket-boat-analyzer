@@ -1,0 +1,116 @@
+{
+ "ad_id": 23712035,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787698482000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "* Kapellet är slitet och delvis trasigt och behöver lagas eller bytas.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båt med motor + trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project",
+   "defect"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Båt med motor + trailer – renoveringsobjekt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23712035/e5c25929-4b85-4ced-a198-768998f79f2f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23712035/e5c25929-4b85-4ced-a198-768998f79f2f",
+  "https://images.blocketcdn.se/dynamic/default/item/23712035/ab6842b8-f153-4e39-bc55-f5b84648c920",
+  "https://images.blocketcdn.se/dynamic/default/item/23712035/0fdfbcb3-9490-4aaa-9e4d-747965c8cfa0",
+  "https://images.blocketcdn.se/dynamic/default/item/23712035/725fcdd4-1bd0-49e3-94a6-45b37a199dec"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.17,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "CB",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e64d1ec032d09df6"
+ },
+ "location": "Södertälje",
+ "lon": 17.61,
+ "make": "CB",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 860,
+  "fetched_ts": 1790520614930,
+  "text_sha": "e64d1ec032d09df6"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Märke": "CB",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23712035",
+ "width_cm": 0,
+ "year": 1990
+}

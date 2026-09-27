@@ -1,0 +1,111 @@
+{
+ "ad_id": 26240939,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788316812000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2019,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Kärran den står på ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Greatline 29 Wa",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26240939/99da511e-d418-4755-88a2-b10f24c991f4",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26240939/99da511e-d418-4755-88a2-b10f24c991f4",
+  "https://images.blocketcdn.se/dynamic/default/item/26240939/01c50bfb-a26e-4212-8cc9-f867fb9192a5",
+  "https://images.blocketcdn.se/dynamic/default/item/26240939/2191868f-dc90-4301-b810-0f2f549ad971",
+  "https://images.blocketcdn.se/dynamic/default/item/26240939/004e2bbf-dd51-4b1e-bf82-474e3660ce83"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.94,
+ "length_ft": 29,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2019,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c1964f59fc3866ad"
+ },
+ "location": "Fåker",
+ "lon": 14.66,
+ "make": "Greatline",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 268,
+  "fetched_ts": 1790520927046,
+  "text_sha": "c1964f59fc3866ad"
+ },
+ "price": 1,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 1
+  }
+ ],
+ "specs": {
+  "Bredd": "291 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "29 fot",
+  "Modell": "Greatline 29 Wa",
+  "Modellår": "2019",
+  "Märke": "Greatline",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26240939",
+ "width_cm": 291,
+ "year": 2019
+}

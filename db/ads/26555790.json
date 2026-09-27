@@ -7,6 +7,8 @@
   "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 9.9,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnsson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Honda Honwave gummibåt inkl motor 9,9hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26555790/6685f3a9-fada-4167-b139-123248387e26",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.64861,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26555790/6685f3a9-fada-4167-b139-123248387e26",
+  "https://images.blocketcdn.se/dynamic/default/item/26555790/5c044e01-a1a2-4d53-be2e-c8ff2db25698",
+  "https://images.blocketcdn.se/dynamic/default/item/26555790/a65fa90d-e64c-4e24-88b2-06d629b3a742",
+  "https://images.blocketcdn.se/dynamic/default/item/26555790/dad99d68-580c-496d-afd3-de3caaea78b9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.65,
  "length_ft": 9,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "8512785a74406304"
  },
  "location": "Motala",
- "lon": 14.9535,
+ "lon": 14.95,
  "make": "Honda",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 9.899999618530273,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 341,
   "fetched_ts": 1790508784652,
@@ -98,7 +107,7 @@
   "Skrovmaterial": "Annat",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26555790",
  "width_cm": 0,
  "year": 2016

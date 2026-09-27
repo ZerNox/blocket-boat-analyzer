@@ -1,0 +1,89 @@
+{
+ "ad_id": 26455890,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790182926000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båtkärra (max 30 km) ingår i köpet, liksom presenning med ställning och solcellsdriven dräneringspump.",
+    "included": true,
+    "kmh": 30
+   },
+   "vinterkapell": {
+    "evidence": "Båtkärra (max 30 km) ingår i köpet, liksom presenning med ställning och solcellsdriven dräneringspump.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Segeleka i plast",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26455890/c4b1b3e7-83bf-40a6-8900-3ea5e55a4c34",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26455890/c4b1b3e7-83bf-40a6-8900-3ea5e55a4c34",
+  "https://images.blocketcdn.se/dynamic/default/item/26455890/a8bf7bda-e013-4d47-afd7-4ee023ca9dae",
+  "https://images.blocketcdn.se/dynamic/default/item/26455890/fa822e9c-10aa-4584-9c31-39268aea563c",
+  "https://images.blocketcdn.se/dynamic/default/item/26455890/883d097d-a65d-42ea-94b3-279acf7c9de2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.41,
+ "length_ft": 17,
+ "location": "Färentuna",
+ "lon": 17.63,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Annat",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 468,
+  "fetched_ts": 1790520978314,
+  "text_sha": "99ac3b546010088f"
+ },
+ "price": 23000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 23000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "55 cm",
+  "Drivmedel": "Annat",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modellår": "1970",
+  "Motor inkluderad": "Nej",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26455890",
+ "width_cm": 200,
+ "year": 1970
+}

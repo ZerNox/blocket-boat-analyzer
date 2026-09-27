@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha -07",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -31,6 +33,10 @@
     "included": false
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Yamarin 560 HT-06. Motor Yamaha 80 HK -07",
+  "hull_source": "rule:model",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -38,13 +44,20 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Yamarin 560 HT-06. Motor Yamaha 80 HK -07",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24614134/9a08449b-404a-4c11-98e9-cc2c41d308b6",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.51476,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24614134/9a08449b-404a-4c11-98e9-cc2c41d308b6",
+  "https://images.blocketcdn.se/dynamic/default/item/24614134/c822561c-c479-47b5-a2ff-e7e83082094e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.51,
  "length_ft": 18,
  "location": "Åkersberga",
- "lon": 18.42871,
+ "lon": 18.43,
  "make": "Yamarin",
  "max_speed": null,
  "motor_fuel": "Bensin",

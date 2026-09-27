@@ -1,0 +1,117 @@
+{
+ "ad_id": 25431621,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789035013000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Bella 512 Europa",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25431621/5dbe9a2a-441c-4b7a-99e2-73357533d835",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25431621/5dbe9a2a-441c-4b7a-99e2-73357533d835",
+  "https://images.blocketcdn.se/dynamic/default/item/25431621/ea41d659-6085-405f-8ae8-c844e01433fa",
+  "https://images.blocketcdn.se/dynamic/default/item/25431621/aa847a4e-13d9-4c5d-9551-32afe9bf35ee",
+  "https://images.blocketcdn.se/dynamic/default/item/25431621/15500c24-604f-4958-9658-65639896e68e",
+  "https://images.blocketcdn.se/dynamic/default/item/25431621/5dda2ddc-e6c3-4c11-8ab0-341c8de05530"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.12,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b64e4ac4bd8fca03"
+ },
+ "location": "Varberg",
+ "lon": 12.27,
+ "make": "Bella",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790522991071,
+  "text_sha": "b64e4ac4bd8fca03"
+ },
+ "price": 79000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 79000
+  }
+ ],
+ "specs": {
+  "Bredd": "208 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "512 Europa",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Sittplatser": "6",
+  "Typ": "Daycruiser",
+  "Vikt": "490 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25431621",
+ "width_cm": 208,
+ "year": 2006
+}

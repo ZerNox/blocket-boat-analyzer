@@ -7,6 +7,8 @@
   "boat_year": 2012,
   "boat_year_source": "spec",
   "engine_hours": 240,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -43,8 +45,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds F528 Sport till höstpris",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25889086/484ae59e-40b4-4844-b77e-776388acbd2e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.3844,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25889086/484ae59e-40b4-4844-b77e-776388acbd2e",
+  "https://images.blocketcdn.se/dynamic/default/item/25889086/aa8412e4-fadf-4890-b423-02504f517644",
+  "https://images.blocketcdn.se/dynamic/default/item/25889086/9cf5066b-939f-4e3a-a239-af15b92d8105",
+  "https://images.blocketcdn.se/dynamic/default/item/25889086/28e05f97-8ac1-4ae2-9246-caf168bf9a66",
+  "https://images.blocketcdn.se/dynamic/default/item/25889086/e3a53281-4cf4-4609-8ab5-0d61e2837fce"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.38,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -75,12 +84,13 @@
   "text_sha": "cb9140c3337750c6"
  },
  "location": "Solna",
- "lon": 18.0002,
+ "lon": 18.0,
  "make": "Ryds",
  "max_speed": 36,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1146,
   "fetched_ts": 1790508280071,
@@ -110,7 +120,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "540 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25889086",
  "width_cm": 218,
  "year": 2012

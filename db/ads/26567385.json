@@ -1,0 +1,83 @@
+{
+ "ad_id": 26567385,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789318374000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Suzuki 150 DF",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2011,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Silver Eagle 630 CC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26567385/2cdaa105-302d-459f-a10f-2a6fea9a67db",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26567385/2cdaa105-302d-459f-a10f-2a6fea9a67db",
+  "https://images.blocketcdn.se/dynamic/default/item/26567385/1b414b6b-711f-4b43-90e7-4e5e040b67e6",
+  "https://images.blocketcdn.se/dynamic/default/item/26567385/a496f3ff-a1c3-49a8-a3ac-ad2e2a86e013",
+  "https://images.blocketcdn.se/dynamic/default/item/26567385/af385496-572b-41a0-ba10-388a28fe860e",
+  "https://images.blocketcdn.se/dynamic/default/item/26567385/e9cb066a-11c4-4c97-bb1d-1f5863e158eb",
+  "https://images.blocketcdn.se/dynamic/default/item/26567385/7c54919b-8730-4311-bf68-db0e3e00857a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.3,
+ "length_ft": 21,
+ "location": "Kvissleby",
+ "lon": 17.4,
+ "make": "Silver",
+ "max_speed": 40,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 345,
+  "fetched_ts": 1790521011188,
+  "text_sha": "04ca582351091845"
+ },
+ "price": 189000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 189000
+  }
+ ],
+ "specs": {
+  "Bredd": "240 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "21 fot",
+  "Modell": "EAGLE 630 CC",
+  "Modellår": "2011",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Suzuki 150 DF",
+  "Motortyp": "Utombordare",
+  "Märke": "Silver",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "40 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26567385",
+ "width_cm": 240,
+ "year": 2011
+}

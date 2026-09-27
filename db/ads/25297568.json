@@ -7,6 +7,8 @@
   "boat_year": 1991,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -18,6 +20,10 @@
   "engine_year_evidence": "Båten, som finns i Göteborgsområdet, är från -91 och motorn Yamaha 60 hk från-07.",
   "engine_year_source": "rule:text",
   "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -25,10 +31,22 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Uttern 6000",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25297568/bf78b1cf-d8ef-48e1-b47a-95e19108ff90",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.6383,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25297568/bf78b1cf-d8ef-48e1-b47a-95e19108ff90",
+  "https://images.blocketcdn.se/dynamic/default/item/25297568/e8fb7d0d-bff6-4352-be0f-6d2b88b828a1",
+  "https://images.blocketcdn.se/dynamic/default/item/25297568/b5ade908-ee42-48aa-b4e3-c2b606980e00",
+  "https://images.blocketcdn.se/dynamic/default/item/25297568/5de64a3f-b031-46b9-a250-34d2ea8b71b8",
+  "https://images.blocketcdn.se/dynamic/default/item/25297568/0c7224c0-752d-4604-8050-d4ee41a55d44",
+  "https://images.blocketcdn.se/dynamic/default/item/25297568/82674952-146e-47c6-a6f6-d27b4cfa5166",
+  "https://images.blocketcdn.se/dynamic/default/item/25297568/74317cfd-9bbd-4365-8ba5-72f0146f9e14"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.64,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -58,7 +76,7 @@
   "text_sha": "4eafcac698a26c73"
  },
  "location": "Askim",
- "lon": 11.92678,
+ "lon": 11.93,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",

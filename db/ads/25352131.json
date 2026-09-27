@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -46,8 +48,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Big Buster – Mercury 75 hk – Lowrance Elite FS 9 – Trailer – Mycket fint skick",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25352131/8d25f44c-3211-4cc5-96d1-aacab1e52062",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.58137,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25352131/8d25f44c-3211-4cc5-96d1-aacab1e52062",
+  "https://images.blocketcdn.se/dynamic/default/item/25352131/8096fe4c-2019-4e42-9b15-195e1baf7be3",
+  "https://images.blocketcdn.se/dynamic/default/item/25352131/ff69b786-4a7a-41e4-8662-2b98b3b4f747",
+  "https://images.blocketcdn.se/dynamic/default/item/25352131/6841e974-15e6-4d27-ba65-a7330d16e9da"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.58,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -77,12 +85,13 @@
   "text_sha": "2a26b5029250aab5"
  },
  "location": "Klågerup",
- "lon": 13.28997,
+ "lon": 13.29,
  "make": "Buster",
  "max_speed": 32,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 865,
   "fetched_ts": 1790507789437,
@@ -113,7 +122,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "350 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25352131",
  "width_cm": 190,
  "year": 1990

@@ -7,6 +7,8 @@
   "boat_year": 2003,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern S52",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26047353/6545aec6-34cb-459a-95bb-b8f9feea7d5d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.05622,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26047353/6545aec6-34cb-459a-95bb-b8f9feea7d5d",
+  "https://images.blocketcdn.se/dynamic/default/item/26047353/16a49ee9-3e41-4855-9129-1d2c8bf6913e",
+  "https://images.blocketcdn.se/dynamic/default/item/26047353/2b982cc4-500d-40a9-b71a-4719a7c73759",
+  "https://images.blocketcdn.se/dynamic/default/item/26047353/53003cbc-f3f8-4349-8167-a2687060f763",
+  "https://images.blocketcdn.se/dynamic/default/item/26047353/35766df4-a77c-4de0-8851-d9477824de68"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.06,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "f1110412932bd2a2"
  },
  "location": "Träslövsläge",
- "lon": 12.27029,
+ "lon": 12.27,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508413940,
@@ -93,7 +103,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26047353",
  "width_cm": 0,
  "year": 2003

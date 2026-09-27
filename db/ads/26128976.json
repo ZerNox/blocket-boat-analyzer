@@ -7,6 +7,8 @@
   "boat_year": 1983,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnsons",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HT båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26128976/a254e073-c25a-4d98-9288-4b10b8d96702",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.64774,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26128976/a254e073-c25a-4d98-9288-4b10b8d96702",
+  "https://images.blocketcdn.se/dynamic/default/item/26128976/2f39775a-bdd2-4cd4-990e-0fb58ab0ea72",
+  "https://images.blocketcdn.se/dynamic/default/item/26128976/31f5aa2c-adbb-4dc0-bdb0-e92c811de387",
+  "https://images.blocketcdn.se/dynamic/default/item/26128976/30f55052-4f2f-45cd-85e9-12cc2bea64c7",
+  "https://images.blocketcdn.se/dynamic/default/item/26128976/cf100c68-8df8-40c0-b0b8-b11dab4b1502"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.65,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +79,13 @@
   "text_sha": "b23e492897b901b1"
  },
  "location": "Taberg",
- "lon": 14.10255,
+ "lon": 14.1,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 66,
   "fetched_ts": 1790508477503,
@@ -103,7 +113,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26128976",
  "width_cm": 186,
  "year": 1983

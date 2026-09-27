@@ -7,6 +7,8 @@
   "boat_year": 1994,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Jonsson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 485 DL",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26875619/1045a5fd-c92c-4303-b786-c3f58859d882",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.34507,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26875619/1045a5fd-c92c-4303-b786-c3f58859d882",
+  "https://images.blocketcdn.se/dynamic/default/item/26875619/2947d264-5406-4363-b512-b98c23d96d5f",
+  "https://images.blocketcdn.se/dynamic/default/item/26875619/d29019cf-a083-4b70-95f7-0c2e9f0e8c44",
+  "https://images.blocketcdn.se/dynamic/default/item/26875619/2ccdb3a4-f34d-40ce-af45-7c6d2f18b9d1"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.35,
  "length_ft": 485,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "840bae87d3a25bb8"
  },
  "location": "Tierp",
- "lon": 17.50974,
+ "lon": 17.51,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 160,
   "fetched_ts": 1790508992583,
@@ -96,7 +105,7 @@
   "Märke": "Ryds",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26875619",
  "width_cm": 0,
  "year": 1994

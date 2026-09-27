@@ -7,6 +7,8 @@
   "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Selva",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -43,8 +45,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Finnmaster 520 CLX",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25254697/f1a72844-71fe-4a03-9eb5-a363e9883f28",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.32451,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25254697/f1a72844-71fe-4a03-9eb5-a363e9883f28",
+  "https://images.blocketcdn.se/dynamic/default/item/25254697/fb7df029-bd44-49f6-89ae-4e6a86170a88",
+  "https://images.blocketcdn.se/dynamic/default/item/25254697/4310e93d-cb73-4f41-ad87-07f72fbdf5eb",
+  "https://images.blocketcdn.se/dynamic/default/item/25254697/0280bef2-07c8-4528-ac50-4034a2ff4815",
+  "https://images.blocketcdn.se/dynamic/default/item/25254697/594769b8-ca42-4bd6-8c03-d9283c398fc6",
+  "https://images.blocketcdn.se/dynamic/default/item/25254697/fd21c937-731f-4dfd-8181-f8d9149f1f37"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +84,13 @@
   "text_sha": "cfde43701f0b5d8a"
  },
  "location": "Skogstorp",
- "lon": 16.48487,
+ "lon": 16.48,
  "make": "Finnmaster",
  "max_speed": 31,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 508,
   "fetched_ts": 1790507691800,
@@ -110,7 +121,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "410 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25254697",
  "width_cm": 205,
  "year": 2010

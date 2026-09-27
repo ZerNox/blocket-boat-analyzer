@@ -7,6 +7,8 @@
   "boat_year": 1982,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sjösala 475 Interboat",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25389838/6cbf44b4-ab64-4a67-8628-eddf6170263a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 64.00931,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25389838/6cbf44b4-ab64-4a67-8628-eddf6170263a",
+  "https://images.blocketcdn.se/dynamic/default/item/25389838/7af1a933-b233-4672-b80c-724626ff139c",
+  "https://images.blocketcdn.se/dynamic/default/item/25389838/0e330807-1351-40b6-ad43-4f72cbd8827f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 64.01,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "1b3d58b5294a9835"
  },
  "location": "Tavelsjö",
- "lon": 20.0706,
+ "lon": 20.07,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 226,
   "fetched_ts": 1790507831124,
@@ -93,7 +101,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "250 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25389838",
  "width_cm": 180,
  "year": 1982

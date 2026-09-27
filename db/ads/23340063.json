@@ -7,6 +7,8 @@
   "boat_year": 2023,
   "boat_year_source": "spec",
   "engine_hours": 5,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Cremo 515 SC",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23340063/8c93dea6-4742-4584-8dc8-fcc4a8e55708",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.67604,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23340063/8c93dea6-4742-4584-8dc8-fcc4a8e55708",
+  "https://images.blocketcdn.se/dynamic/default/item/23340063/e80c96ee-593c-4d32-a98f-342bf4741687",
+  "https://images.blocketcdn.se/dynamic/default/item/23340063/16ec543f-f112-42af-8eee-510e1fa9394f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.68,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +73,13 @@
   "text_sha": "aa3bdf775923615c"
  },
  "location": "Lomma",
- "lon": 13.08568,
+ "lon": 13.09,
  "make": "Cremo",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 328,
   "fetched_ts": 1790507491646,
@@ -97,7 +105,7 @@
   "Märke": "Cremo",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23340063",
  "width_cm": 0,
  "year": 2023

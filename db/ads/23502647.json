@@ -1,0 +1,82 @@
+{
+ "ad_id": 23502647,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785486239000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2022,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "30trailer medföljer.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Crescent 381 free time nyskick",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23502647/b07d490c-5f59-4a50-a86f-932d9dba01c7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23502647/b07d490c-5f59-4a50-a86f-932d9dba01c7",
+  "https://images.blocketcdn.se/dynamic/default/item/23502647/dfb32240-fa45-4524-9eb2-7688da72f3c7",
+  "https://images.blocketcdn.se/dynamic/default/item/23502647/db8b57a3-aebd-4cde-8a88-9a9f74177e63",
+  "https://images.blocketcdn.se/dynamic/default/item/23502647/fa2333d2-7669-4c8e-bb00-b6f45e427164",
+  "https://images.blocketcdn.se/dynamic/default/item/23502647/8c3edff7-6451-42ef-8eec-b20498a2db44",
+  "https://images.blocketcdn.se/dynamic/default/item/23502647/c95041d3-1792-416e-8777-5f33ae45a8ec"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.36,
+ "length_ft": 381,
+ "location": "Idkerberget",
+ "lon": 15.22,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 481,
+  "fetched_ts": 1790520607754,
+  "text_sha": "54ab8d35be69bff6"
+ },
+ "price": 26000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 26000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "381 fot",
+  "Modell": "381 freetime",
+  "Modellår": "2022",
+  "Märke": "Crescent",
+  "Sittplatser": "29 000",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23502647",
+ "width_cm": 0,
+ "year": 2022
+}

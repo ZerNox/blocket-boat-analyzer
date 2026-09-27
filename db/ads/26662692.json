@@ -1,0 +1,112 @@
+{
+ "ad_id": 26662692,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789651665000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1966,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 175.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Har även en Evinrude 175hk 2003 som kan säljas med och då blir priset 100k",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "trailer": {
+    "evidence": "Har rensat den på skum och inredning, finns inredning i dåligt skick, htn står brevid. kärra ingår.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Fjordling 17 ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Fjordling 17 ht",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26662692/da0a09f2-1e1b-4a96-a9b6-46e8dd1995b7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26662692/da0a09f2-1e1b-4a96-a9b6-46e8dd1995b7"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.44,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1966,
+   "engine_hours": null,
+   "engine_hp": 175,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": 2003,
+   "engine_year_evidence": "Har även en Evinrude 175hk 2003 som kan säljas med och då blir priset 100k",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "510b9e88b3b21bd5"
+ },
+ "location": "Karlskoga",
+ "lon": 14.47,
+ "make": "Fjordling",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 254,
+  "fetched_ts": 1790521029633,
+  "text_sha": "510b9e88b3b21bd5"
+ },
+ "price": 50000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 50000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "17 ht",
+  "Modellår": "1966",
+  "Märke": "Fjordling",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26662692",
+ "width_cm": 0,
+ "year": 1966
+}

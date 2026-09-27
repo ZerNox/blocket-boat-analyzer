@@ -7,6 +7,8 @@
   "boat_year": 2001,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -43,8 +45,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 511 gts med hydralisk styrning",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26433670/f3d9d544-0df4-489d-9c19-c8ecde45671c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.98052,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26433670/f3d9d544-0df4-489d-9c19-c8ecde45671c",
+  "https://images.blocketcdn.se/dynamic/default/item/26433670/045b8f9d-97eb-4f8d-bdc1-61c0a46e6d4d",
+  "https://images.blocketcdn.se/dynamic/default/item/26433670/e1affd61-730e-477b-af1b-665988e4ba52",
+  "https://images.blocketcdn.se/dynamic/default/item/26433670/b6c97ec7-365e-45d2-987e-ec631cd6d34c",
+  "https://images.blocketcdn.se/dynamic/default/item/26433670/c9685971-9919-4e89-8d4d-35b01f37571f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.98,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +83,13 @@
   "text_sha": "0335905201a6bbee"
  },
  "location": "Skärhamn",
- "lon": 11.53202,
+ "lon": 11.53,
  "make": "Ryds",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 666,
   "fetched_ts": 1790508691385,
@@ -112,7 +122,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "490 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26433670",
  "width_cm": 220,
  "year": 2001

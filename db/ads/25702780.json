@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude e-tec",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet HR 465",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25702780/1b904f5c-ff48-4335-8104-5c36a41e9199",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.2449,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25702780/1b904f5c-ff48-4335-8104-5c36a41e9199",
+  "https://images.blocketcdn.se/dynamic/default/item/25702780/a2e98098-55b0-471f-9b72-4971e1eef0e1",
+  "https://images.blocketcdn.se/dynamic/default/item/25702780/5241a5a1-0b08-417f-9c7c-002daa46bf30",
+  "https://images.blocketcdn.se/dynamic/default/item/25702780/82b185ca-28f6-48f5-9f6b-59d4dbac3a11",
+  "https://images.blocketcdn.se/dynamic/default/item/25702780/3f91ad6e-545d-4489-bd7c-2810c573b84d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.24,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "068c1adb00331275"
  },
  "location": "Oskarshamn",
- "lon": 16.46856,
+ "lon": 16.47,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 166,
   "fetched_ts": 1790508107866,
@@ -95,7 +105,7 @@
   "Märke": "HR",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25702780",
  "width_cm": 0,
  "year": 2006

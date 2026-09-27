@@ -1,0 +1,130 @@
+{
+ "ad_id": 26915015,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790450838000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin GPS",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer ingår",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Utter 520 HT - Yamaha 60 hk - Garmin GPS - Trailer ingår - Provkörning möjlig",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Utter 520 HT - Yamaha 60 hk - Garmin GPS - Trailer ingår - Provkörning möjlig",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26915015/ef67e1e1-f88b-4ad8-a07b-94314001bb80",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26915015/ef67e1e1-f88b-4ad8-a07b-94314001bb80",
+  "https://images.blocketcdn.se/dynamic/default/item/26915015/3c95f457-e5ef-456f-8098-bf8263687957",
+  "https://images.blocketcdn.se/dynamic/default/item/26915015/86f39521-9d14-4677-aa45-15f3b7d7bc18",
+  "https://images.blocketcdn.se/dynamic/default/item/26915015/260b2e72-1990-466c-b9c5-90dc080eb3c1",
+  "https://images.blocketcdn.se/dynamic/default/item/26915015/11daafe5-1ee7-45c2-9b39-f2049bdffbb0"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.05,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1989,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ea067836d78e0ce6"
+ },
+ "location": "Västerhaninge",
+ "lon": 18.09,
+ "make": "Uttern",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 199,
+  "fetched_ts": 1790523237434,
+  "text_sha": "ea067836d78e0ce6"
+ },
+ "price": 44900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 44900
+  }
+ ],
+ "specs": {
+  "Bredd": "520 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "520 HT",
+  "Modellår": "1989",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sovplatser": "2",
+  "Toppfart": "25 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26915015",
+ "width_cm": 520,
+ "year": 1989
+}

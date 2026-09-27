@@ -7,6 +7,8 @@
   "boat_year": 2019,
   "boat_year_source": "spec",
   "engine_hours": 70,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26381623/6df4d262-993c-4798-941b-78e236940783",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.38384,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26381623/6df4d262-993c-4798-941b-78e236940783",
+  "https://images.blocketcdn.se/dynamic/default/item/26381623/39d85922-ed6b-4486-ba55-358002931958",
+  "https://images.blocketcdn.se/dynamic/default/item/26381623/1d2a4699-c846-4500-bb2d-22b8e304954f",
+  "https://images.blocketcdn.se/dynamic/default/item/26381623/d7c2f6f8-8a05-442e-ad6a-764c723352f8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.38,
  "length_ft": 450,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +78,13 @@
   "text_sha": "e37b0e5cf3661c47"
  },
  "location": "Arboga",
- "lon": 15.87596,
+ "lon": 15.88,
  "make": "HR",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 200,
   "fetched_ts": 1790508647252,
@@ -106,7 +115,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26381623",
  "width_cm": 300,
  "year": 2019

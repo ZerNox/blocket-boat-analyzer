@@ -1,0 +1,73 @@
+{
+ "ad_id": 25457644,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786021634000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "UTTER 4300",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25457644/01118ea4-7640-4772-be25-2c87d7858938",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25457644/01118ea4-7640-4772-be25-2c87d7858938"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.35,
+ "length_ft": 14,
+ "location": "Saltsjö-Boo",
+ "lon": 18.28,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 127,
+  "fetched_ts": 1790520701834,
+  "text_sha": "7c6c35307dea4fca"
+ },
+ "price": 7000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "4300",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Märke": "Uttern",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25457644",
+ "width_cm": 0,
+ "year": 1980
+}

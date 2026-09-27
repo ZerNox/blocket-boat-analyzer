@@ -1,0 +1,124 @@
+{
+ "ad_id": 26219462,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788861563000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1991,
+  "boat_year_source": "spec",
+  "engine_hours": 120,
+  "engine_hp": 80,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": 2016,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn från 2016 och är en fyrtaktare nyservad och Ny bränslepump",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "trailer": {
+    "evidence": "En bra 30km/t trailer ingår",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "engine type unknown"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Flipper 620 C",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26219462/f2dc409a-55c2-419e-bd1d-3a1a423f4083",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26219462/f2dc409a-55c2-419e-bd1d-3a1a423f4083",
+  "https://images.blocketcdn.se/dynamic/default/item/26219462/085419e3-3511-4535-910c-073d54d41fb3",
+  "https://images.blocketcdn.se/dynamic/default/item/26219462/b1e139b8-4075-4d43-b0bc-149578ba6c91",
+  "https://images.blocketcdn.se/dynamic/default/item/26219462/35502123-1cb2-44be-94f1-411756bd036d",
+  "https://images.blocketcdn.se/dynamic/default/item/26219462/e7c1f703-673a-45c4-9e22-bcad43ecefdd",
+  "https://images.blocketcdn.se/dynamic/default/item/26219462/4e734f7a-c251-41e6-b423-ba5542c848e2"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.36,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": null,
+   "engine_hours": 120,
+   "engine_hp": 80,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": 2016,
+   "engine_year_evidence": "Motorn från 2016 och är en fyrtaktare nyservad och Ny bränslepump",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8c578ec016309f4b"
+ },
+ "location": "Adelsö",
+ "lon": 17.5,
+ "make": "Flipper",
+ "max_speed": 17,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 236,
+  "fetched_ts": 1790523137334,
+  "text_sha": "8c578ec016309f4b"
+ },
+ "price": 110000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 110000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modell": "620 C",
+  "Modellår": "1991",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "4",
+  "Toppfart": "17 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26219462",
+ "width_cm": 0,
+ "year": 1991
+}

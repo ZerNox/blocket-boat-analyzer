@@ -1,0 +1,107 @@
+{
+ "ad_id": 25878321,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787245344000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Aluminiumbåt med utombordsmotor Honda 90 hk, 2006.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Ny hydraulstyrning.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Lågt skyddskapell i bra skick.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtvagn BR Fransson för hastighet 80 km/h inkluderad.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Hyttbåt m kraftigt skrov av aluminium -  Bombus Allbåt från varv i Stockholm.\nAl",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Hyttbåt m kraftigt skrov av aluminium -  Bombus Allbåt från varv i Stockholm.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25878321/1d8973ec-f6b1-4f57-9758-0018c2bee45e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25878321/1d8973ec-f6b1-4f57-9758-0018c2bee45e",
+  "https://images.blocketcdn.se/dynamic/default/item/25878321/5593513d-378f-45a6-af98-5c41f4e1c942",
+  "https://images.blocketcdn.se/dynamic/default/item/25878321/a709786d-c100-4fa4-a248-aef3ff3ce2af",
+  "https://images.blocketcdn.se/dynamic/default/item/25878321/2c226063-9719-415b-acd6-a28357b9eea7",
+  "https://images.blocketcdn.se/dynamic/default/item/25878321/0600cf92-e055-467e-9678-f894bb451254",
+  "https://images.blocketcdn.se/dynamic/default/item/25878321/5110343d-0a6b-4bd4-8c5d-a37c2f6b46b2",
+  "https://images.blocketcdn.se/dynamic/default/item/25878321/e411b424-de89-4aa9-860d-501b0630a2a8",
+  "https://images.blocketcdn.se/dynamic/default/item/25878321/6d8af875-9e63-44ca-9e36-30fb890f3d8f"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.68,
+ "length_ft": 20,
+ "location": "Västerås",
+ "lon": 16.62,
+ "make": "Alukin",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 524,
+  "fetched_ts": 1790523078911,
+  "text_sha": "8bd62bc4e7e172c7"
+ },
+ "price": 119000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 119000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Alukin",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Aluminium",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt",
+  "Vikt": "1 000 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25878321",
+ "width_cm": 220,
+ "year": 2006
+}

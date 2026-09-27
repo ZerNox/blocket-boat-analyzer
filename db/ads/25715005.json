@@ -7,6 +7,8 @@
   "boat_year": 1992,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -27,6 +29,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "ljebåt för dagsturer samt övernattning för den lilla familjen!\nUttern 520 HT i fint skick från 1990. Motor",
+  "hull_source": "rule:text",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [
@@ -36,13 +42,24 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Uttern ’UMA’ - perfekt utlfyktsbåt för familjen!",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25715005/62171594-45cd-4641-9f5e-47355c0c031a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.30241,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25715005/62171594-45cd-4641-9f5e-47355c0c031a",
+  "https://images.blocketcdn.se/dynamic/default/item/25715005/0bf3ff51-fcb6-4b9c-bdef-8ab8a678c582",
+  "https://images.blocketcdn.se/dynamic/default/item/25715005/58ce64ae-87bb-48ec-ac55-de5f822c55a7",
+  "https://images.blocketcdn.se/dynamic/default/item/25715005/2313b184-aa6f-4db6-a42c-4d7298cd719f",
+  "https://images.blocketcdn.se/dynamic/default/item/25715005/d981ccd0-84de-47a4-aed3-5b9368491669",
+  "https://images.blocketcdn.se/dynamic/default/item/25715005/1d666a91-a09e-41b3-8d11-ed6f9da62672"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.3,
  "length_ft": 17,
  "location": "Stockholm",
- "lon": 18.09456,
+ "lon": 18.09,
  "make": "Uttern",
  "max_speed": 26,
  "motor_fuel": "Bensin",

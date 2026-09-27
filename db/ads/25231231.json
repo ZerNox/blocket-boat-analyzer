@@ -7,6 +7,8 @@
   "boat_year": 1983,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamar",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -29,8 +31,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Pollux 24 Fishing",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25231231/4250f5d5-118c-4ab0-97dc-7ea86a1ac8f8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.93968,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25231231/4250f5d5-118c-4ab0-97dc-7ea86a1ac8f8",
+  "https://images.blocketcdn.se/dynamic/default/item/25231231/7eef74ea-c331-47ed-be4d-9f8b6def9993",
+  "https://images.blocketcdn.se/dynamic/default/item/25231231/781b8b8f-99fc-4dc6-85a6-4139cd3210ca",
+  "https://images.blocketcdn.se/dynamic/default/item/25231231/b870ce9f-189b-43a2-878f-ab7e951f9abd",
+  "https://images.blocketcdn.se/dynamic/default/item/25231231/65c1be74-7641-4494-a5bc-3119180a3d8b",
+  "https://images.blocketcdn.se/dynamic/default/item/25231231/eae29bfb-c3c8-45a7-9a7c-e336b9e6e72c",
+  "https://images.blocketcdn.se/dynamic/default/item/25231231/65fba31a-30ec-478d-bb98-da1830af8288",
+  "https://images.blocketcdn.se/dynamic/default/item/25231231/6d59a1de-d1c2-45fb-8580-3a2027517427",
+  "https://images.blocketcdn.se/dynamic/default/item/25231231/800cae91-d452-4e2a-aba9-d1610516bae5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.94,
  "length_ft": 24,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +73,13 @@
   "text_sha": "631b0ec5bcfb5754"
  },
  "location": "Rönnäng",
- "lon": 11.60313,
+ "lon": 11.6,
  "make": "Övriga",
  "max_speed": 9,
  "motor_fuel": "Diesel",
  "motor_size": 60.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790507674906,
@@ -94,7 +108,7 @@
   "Toppfart": "9 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25231231",
  "width_cm": 0,
  "year": 1983

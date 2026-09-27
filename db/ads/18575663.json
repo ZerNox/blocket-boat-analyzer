@@ -1,0 +1,108 @@
+{
+ "ad_id": 18575663,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789712596000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 300,
+  "engine_hp_source": "llm",
+  "engine_maker": "Evinrude 300",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "Evinrude utan E-TEC tillverkades till 2007",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Rascala23fmstyrpulpetbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/18575663/7d48aab6-9673-4bfc-aee6-cf275aa2bdf4",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/18575663/7d48aab6-9673-4bfc-aee6-cf275aa2bdf4",
+  "https://images.blocketcdn.se/dynamic/default/item/18575663/b8da000b-43dd-46dc-a2c0-1ee1da6fc7ed",
+  "https://images.blocketcdn.se/dynamic/default/item/18575663/76d4e762-bc48-49cb-b1eb-e0b76167cccf",
+  "https://images.blocketcdn.se/dynamic/default/item/18575663/44981291-3435-4d82-b87d-be48863f0a79",
+  "https://images.blocketcdn.se/dynamic/default/item/18575663/02d78f2c-2716-4d9b-8ab7-c51f4243d495",
+  "https://images.blocketcdn.se/dynamic/default/item/18575663/c35a2688-14e7-48c5-a1ee-3cb1d3d329a3",
+  "https://images.blocketcdn.se/dynamic/default/item/18575663/d7085d4f-f156-4dc1-a697-ad6f85e03a88",
+  "https://images.blocketcdn.se/dynamic/default/item/18575663/f4bef449-0179-4a28-91c1-cbef235f74a0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.33,
+ "length_ft": 23,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2008,
+   "engine_hours": null,
+   "engine_hp": 300,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8fe7fb83544ed3ba"
+ },
+ "location": "Piteå",
+ "lon": 21.59,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 26,
+  "fetched_ts": 1790520577157,
+  "text_sha": "8fe7fb83544ed3ba"
+ },
+ "price": 240000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 240000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "23 fot",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Evinrude 300",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/18575663",
+ "width_cm": 0,
+ "year": 2008
+}

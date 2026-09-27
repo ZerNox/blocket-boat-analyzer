@@ -1,0 +1,132 @@
+{
+ "ad_id": 24024750,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786544667000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo Penta",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Hon behöver omvårdnad i trädetaljerna samt är kapellet behov av lite kärlek.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "SOLVIGG 21 -KLINKAD DAYCRUISER\nHar inte mycket tid att njuta av våran Solvigg 21 längre men hoppas n",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "SOLVIGG 21 -KLINKAD DAYCRUISER",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24024750/27670813-b7b4-4ddd-8027-97fac09857e2",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24024750/27670813-b7b4-4ddd-8027-97fac09857e2",
+  "https://images.blocketcdn.se/dynamic/default/item/24024750/750567ff-3bc9-42e9-920a-1a51eb61b703",
+  "https://images.blocketcdn.se/dynamic/default/item/24024750/eec1185c-f369-4099-9d50-95edc8aaccc4",
+  "https://images.blocketcdn.se/dynamic/default/item/24024750/3809cfa4-0bb0-466b-bf14-a4748e214078",
+  "https://images.blocketcdn.se/dynamic/default/item/24024750/c405f2ed-6378-460d-ba91-7d5451e2d019",
+  "https://images.blocketcdn.se/dynamic/default/item/24024750/b62767d9-83a5-4a0d-ac15-16afc12d3054",
+  "https://images.blocketcdn.se/dynamic/default/item/24024750/b31668a5-512a-4029-b6cd-1fcb2c0093b6",
+  "https://images.blocketcdn.se/dynamic/default/item/24024750/c9843fb2-2c22-43ce-bcfe-186bee2b03cd",
+  "https://images.blocketcdn.se/dynamic/default/item/24024750/4f91f2d6-abcc-4ebc-b3ee-077a2cf9fc5d",
+  "https://images.blocketcdn.se/dynamic/default/item/24024750/aff9c495-2b29-4a67-9c4a-236a29c777a1",
+  "https://images.blocketcdn.se/dynamic/default/item/24024750/5fd59d55-6b5f-430b-bb66-9d85a26741ab"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.17,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1975,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2ab89d7138e54423"
+ },
+ "location": "Grödinge",
+ "lon": 17.8,
+ "make": "Solvik",
+ "max_speed": 23,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 272,
+  "fetched_ts": 1790522918218,
+  "text_sha": "2ab89d7138e54423"
+ },
+ "price": 22000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 22000
+  }
+ ],
+ "specs": {
+  "Bredd": "240 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "SOLVIGG 21",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo Penta",
+  "Motortyp": "Inombordare",
+  "Märke": "Solvik",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "23 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "1 500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24024750",
+ "width_cm": 240,
+ "year": 1975
+}

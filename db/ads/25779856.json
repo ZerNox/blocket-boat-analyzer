@@ -7,6 +7,8 @@
   "boat_year": 1987,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -18,6 +20,10 @@
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Hyttbåt – Mercury 60 hk",
+  "hull_source": "rule:text",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -27,10 +33,23 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Hyttbåt – Mercury 60 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25779856/19597c80-33dd-403e-862c-6537580243da",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.58223,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25779856/19597c80-33dd-403e-862c-6537580243da",
+  "https://images.blocketcdn.se/dynamic/default/item/25779856/3b28f02b-3d3f-4754-bd0e-aaeeb651b00c",
+  "https://images.blocketcdn.se/dynamic/default/item/25779856/983fb27f-17a3-4fcc-828f-edd5c8cb1007",
+  "https://images.blocketcdn.se/dynamic/default/item/25779856/de5b8e1f-34ee-425c-8316-f1c9bcd46aee",
+  "https://images.blocketcdn.se/dynamic/default/item/25779856/03abb4fa-b71d-4dfb-bac6-e530cc1d900b",
+  "https://images.blocketcdn.se/dynamic/default/item/25779856/74829631-f397-4f90-8dc8-ef8801f5c098",
+  "https://images.blocketcdn.se/dynamic/default/item/25779856/a0fb0622-0059-4df5-8c19-86de5f41818f",
+  "https://images.blocketcdn.se/dynamic/default/item/25779856/f5661916-0da3-47b3-9a54-fea832625d7b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.58,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -60,7 +79,7 @@
   "text_sha": "d5de77e7aea83baa"
  },
  "location": "Rosersberg",
- "lon": 17.88614,
+ "lon": 17.89,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",

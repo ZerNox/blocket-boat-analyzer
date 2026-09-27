@@ -7,6 +7,8 @@
   "boat_year": 1993,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden 505 Excel i fint skick",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25435062/0af9781e-7a75-48cc-b147-392deafa26ae",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.2464,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25435062/0af9781e-7a75-48cc-b147-392deafa26ae",
+  "https://images.blocketcdn.se/dynamic/default/item/25435062/ef129fcf-5045-4d09-b578-564b1f6057c8",
+  "https://images.blocketcdn.se/dynamic/default/item/25435062/6de5fe24-da19-4f92-b5d2-c31a1b6ccf33",
+  "https://images.blocketcdn.se/dynamic/default/item/25435062/2eeb8848-8c84-4608-97f5-46a11d8a2e59",
+  "https://images.blocketcdn.se/dynamic/default/item/25435062/af6391a1-044e-4106-820f-f0ec0d96d008",
+  "https://images.blocketcdn.se/dynamic/default/item/25435062/caece47d-0e8a-424a-9374-20cb9f33924e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.25,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +76,13 @@
   "text_sha": "83c32b8912314b48"
  },
  "location": "Tyresö",
- "lon": 18.2024,
+ "lon": 18.2,
  "make": "Askeladden",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 655,
   "fetched_ts": 1790507865340,
@@ -103,7 +114,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "580 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25435062",
  "width_cm": 215,
  "year": 1993

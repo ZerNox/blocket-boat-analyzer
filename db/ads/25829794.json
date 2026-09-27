@@ -7,6 +7,8 @@
   "boat_year": 2020,
   "boat_year_source": "spec",
   "engine_hours": 50,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Theri 400 honda BF20D",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25829794/befac199-c5a1-42e4-ba5d-21fa7331508d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.80836,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25829794/befac199-c5a1-42e4-ba5d-21fa7331508d",
+  "https://images.blocketcdn.se/dynamic/default/item/25829794/b5b1e7d1-064e-41c9-b9e1-25f6af26b291",
+  "https://images.blocketcdn.se/dynamic/default/item/25829794/26526616-3f49-4dd8-9ad1-3d1b4ffd019f",
+  "https://images.blocketcdn.se/dynamic/default/item/25829794/a81de2cb-b60a-4eb2-9705-f276376fa2e3"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.81,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +74,13 @@
   "text_sha": "5fdae0c368b1e2ed"
  },
  "location": "Angered",
- "lon": 12.02887,
+ "lon": 12.03,
  "make": "Terhi",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 177,
   "fetched_ts": 1790508234180,
@@ -102,7 +111,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "100 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25829794",
  "width_cm": 0,
  "year": 2020

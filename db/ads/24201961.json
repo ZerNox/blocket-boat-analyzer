@@ -32,10 +32,11 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "Crescent 445",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24201961/af520f28-e408-4bdd-873c-558f20907fb8",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.29128,
+ "lat": 59.29,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,7 +66,7 @@
   "text_sha": "07ee71a359b7c376"
  },
  "location": "Årjäng",
- "lon": 11.98366,
+ "lon": 11.98,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
@@ -95,7 +96,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/24201961",
  "width_cm": 0,
  "year": 1990

@@ -7,6 +7,8 @@
   "boat_year": 2005,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet Uttern 4650",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26454407/3298eef8-6f19-4b12-9efd-b2ac7d973897",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.55496,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26454407/3298eef8-6f19-4b12-9efd-b2ac7d973897",
+  "https://images.blocketcdn.se/dynamic/default/item/26454407/f6bf018a-a0bf-40d3-99a8-1cae2f191500",
+  "https://images.blocketcdn.se/dynamic/default/item/26454407/e0568006-ffb3-4bcd-af6d-b350756d1e9b",
+  "https://images.blocketcdn.se/dynamic/default/item/26454407/0e170344-9cdb-46e2-a750-e54eefa2aceb",
+  "https://images.blocketcdn.se/dynamic/default/item/26454407/7597d33c-a121-465e-bf81-a0c036c3474b",
+  "https://images.blocketcdn.se/dynamic/default/item/26454407/c5920273-73a7-42e7-b9a2-4cc112b2f75f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.55,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +79,13 @@
   "text_sha": "dcc1681c7c8ea288"
  },
  "location": "Enköping",
- "lon": 17.13782,
+ "lon": 17.14,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 297,
   "fetched_ts": 1790508698177,
@@ -103,7 +114,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "275 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26454407",
  "width_cm": 183,
  "year": 2005

@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 51,
+  "engine_hp_source": "llm",
   "engine_maker": "Perkins",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bränslesnål. Höga fribord. Renoverad motor.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26163626/7c1d6983-9765-47b8-9e44-1994ad9ec1f3",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.76641,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26163626/7c1d6983-9765-47b8-9e44-1994ad9ec1f3",
+  "https://images.blocketcdn.se/dynamic/default/item/26163626/62e6dcef-8b33-4f38-976d-e397b33f5dcd",
+  "https://images.blocketcdn.se/dynamic/default/item/26163626/8b17e88c-5574-466f-a3bc-b4de629b6fee",
+  "https://images.blocketcdn.se/dynamic/default/item/26163626/efcf6ca3-a04e-4074-a27c-da270c631f3a",
+  "https://images.blocketcdn.se/dynamic/default/item/26163626/0842b803-0c57-452b-a5ad-816f5b5a1f5a",
+  "https://images.blocketcdn.se/dynamic/default/item/26163626/ae7ecc45-5573-4cb4-980e-289b962c6b98"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.77,
  "length_ft": 23,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "2a16f4e133889991"
  },
  "location": "Norrtälje",
- "lon": 18.69601,
+ "lon": 18.7,
  "make": "Saga",
  "max_speed": 10,
  "motor_fuel": "Diesel",
  "motor_size": 51.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 556,
   "fetched_ts": 1790508496467,
@@ -99,7 +110,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "1 500 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26163626",
  "width_cm": 275,
  "year": 1980

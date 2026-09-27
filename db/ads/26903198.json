@@ -1,0 +1,79 @@
+{
+ "ad_id": 26903198,
+ "boat_class": "Annat",
+ "changed_ts": 1790427832000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Bortskänkes mot avhämtning",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26903198/f6968446-20c8-4582-a6b3-824a6f529b72",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26903198/f6968446-20c8-4582-a6b3-824a6f529b72",
+  "https://images.blocketcdn.se/dynamic/default/item/26903198/82e4ab10-1baf-447d-8589-3a4701935c8c",
+  "https://images.blocketcdn.se/dynamic/default/item/26903198/41aa07fa-ddd6-44a1-8270-b02686e17f8c",
+  "https://images.blocketcdn.se/dynamic/default/item/26903198/5cce938f-cc50-4635-b712-85d099588154",
+  "https://images.blocketcdn.se/dynamic/default/item/26903198/9e7775b8-878c-43af-b0f3-dc702e3a8e09"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.93,
+ "length_ft": 25,
+ "location": "Sorunda",
+ "lon": 17.76,
+ "make": "Sea Ray",
+ "max_speed": null,
+ "motor_fuel": "Annat",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 67,
+  "fetched_ts": 1790521085846,
+  "text_sha": "21f0870d01efd012"
+ },
+ "price": 0,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 0
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Annat",
+  "Längd i fot": "25 fot",
+  "Modell": "80 tal",
+  "Modellår": "1980",
+  "Motortyp": "Inombordare",
+  "Märke": "Sea Ray",
+  "Skrovmaterial": "Plast",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26903198",
+ "width_cm": 0,
+ "year": 1980
+}

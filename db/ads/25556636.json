@@ -7,6 +7,8 @@
   "boat_year": 2004,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 2.6,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Neptun",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Pioner 235 med motor Neptun 2.6HK",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25556636/cf0f35ae-0d99-4acc-a81c-f2aa468d130e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.70871,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25556636/cf0f35ae-0d99-4acc-a81c-f2aa468d130e",
+  "https://images.blocketcdn.se/dynamic/default/item/25556636/72aabfb0-0c0b-429c-8116-cac7c2f5f990",
+  "https://images.blocketcdn.se/dynamic/default/item/25556636/dc559d15-5b7b-4d39-9eed-306468a150a4",
+  "https://images.blocketcdn.se/dynamic/default/item/25556636/41b07a6b-0b8f-454a-913d-803481d6526d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.71,
  "length_ft": 8,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "4e0f48d1caab18b8"
  },
  "location": "Obbola",
- "lon": 20.31859,
+ "lon": 20.32,
  "make": "Pioner",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 2.5999999046325684,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 333,
   "fetched_ts": 1790507992022,
@@ -89,7 +98,7 @@
   "Märke": "Pioner",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25556636",
  "width_cm": 0,
  "year": 2004

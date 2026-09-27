@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 34,
+  "engine_hp_source": "llm",
   "engine_maker": "Yanmar",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -31,8 +33,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 610 renoveringsobjekt bortskänkes",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26477801/e4fdabb0-8528-4e98-af45-6043ba4a9f06",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.35293,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26477801/e4fdabb0-8528-4e98-af45-6043ba4a9f06",
+  "https://images.blocketcdn.se/dynamic/default/item/26477801/12527640-6e77-4d69-b870-77e7fdc0135d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.35,
  "length_ft": 20,
  "llm": {
   "at": "2026-09-27",
@@ -62,12 +68,13 @@
   "text_sha": "c60a47ecdda782ff"
  },
  "location": "Uddevalla",
- "lon": 11.94001,
+ "lon": 11.94,
  "make": "Örnvik",
  "max_speed": 15,
  "motor_fuel": "Diesel",
  "motor_size": 34.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 197,
   "fetched_ts": 1790508716936,
@@ -95,7 +102,7 @@
   "Toppfart": "15 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26477801",
  "width_cm": 220,
  "year": 1980

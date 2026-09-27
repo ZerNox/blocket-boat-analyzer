@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": 4,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -46,8 +48,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 465 30hk Tohatsu 4t Sportfiskebåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23910685/f1349499-333f-4958-b7ae-48b8676c6c73",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.21624,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23910685/f1349499-333f-4958-b7ae-48b8676c6c73",
+  "https://images.blocketcdn.se/dynamic/default/item/23910685/04ac75ee-8b85-4656-8126-72ebbb273515",
+  "https://images.blocketcdn.se/dynamic/default/item/23910685/d22dd515-4468-4e10-bfc6-a4d388d94c11",
+  "https://images.blocketcdn.se/dynamic/default/item/23910685/803c60ad-6019-48ec-930b-2f9807664004",
+  "https://images.blocketcdn.se/dynamic/default/item/23910685/27d032f5-6524-494f-ae65-8348290f18a7",
+  "https://images.blocketcdn.se/dynamic/default/item/23910685/c56136e9-6bd7-42ce-841f-080114148b6a",
+  "https://images.blocketcdn.se/dynamic/default/item/23910685/a1862098-0d34-409a-b255-0f30e0c2a861",
+  "https://images.blocketcdn.se/dynamic/default/item/23910685/6cecfb18-266b-4320-be1e-7dd385a6d607",
+  "https://images.blocketcdn.se/dynamic/default/item/23910685/a6cbcc8a-c8e2-4560-8423-1744652025f9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.22,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -78,12 +91,13 @@
   "text_sha": "dbd640eb25c3407d"
  },
  "location": "Nykvarn",
- "lon": 17.42121,
+ "lon": 17.42,
  "make": "Crescent",
  "max_speed": 24,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1206,
   "fetched_ts": 1790507548618,
@@ -112,7 +126,7 @@
   "Toppfart": "24 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23910685",
  "width_cm": 0,
  "year": 1990

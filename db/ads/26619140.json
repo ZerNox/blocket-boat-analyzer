@@ -7,6 +7,8 @@
   "boat_year": 2008,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 480 SC 50hk Suzuki",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26619140/6c8798c4-42fb-4d7b-a756-ae6bcd15ae04",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.82727,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26619140/6c8798c4-42fb-4d7b-a756-ae6bcd15ae04",
+  "https://images.blocketcdn.se/dynamic/default/item/26619140/cba272cf-dfb1-4a63-969a-cdb26a60b78b",
+  "https://images.blocketcdn.se/dynamic/default/item/26619140/19de679c-91a1-451b-9444-e1c3762484c2",
+  "https://images.blocketcdn.se/dynamic/default/item/26619140/c7f40c3d-9489-4739-a6c2-4df7e3e0e922"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.83,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "af7880c39e68ec2a"
  },
  "location": "Ljungby",
- "lon": 13.94695,
+ "lon": 13.95,
  "make": "HR",
  "max_speed": 28,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508829357,
@@ -93,7 +102,7 @@
   "Toppfart": "28 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26619140",
  "width_cm": 0,
  "year": 2008

@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 2.3,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden 14-2210",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25369733/a451e3f2-59c8-49c3-a3de-81db062b2904",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.31669,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25369733/a451e3f2-59c8-49c3-a3de-81db062b2904",
+  "https://images.blocketcdn.se/dynamic/default/item/25369733/784bc1dd-e973-4ceb-b1b8-2a4a58a0be1b",
+  "https://images.blocketcdn.se/dynamic/default/item/25369733/8cb4ed68-8cfc-4015-81e7-96de73f0792b",
+  "https://images.blocketcdn.se/dynamic/default/item/25369733/2b63ef4d-e132-4e2d-81fd-c746a46c4309",
+  "https://images.blocketcdn.se/dynamic/default/item/25369733/46b8e589-c027-4ebb-a48c-0dedb798f18f",
+  "https://images.blocketcdn.se/dynamic/default/item/25369733/2caa048d-b366-49d1-ba27-daee4a20e676",
+  "https://images.blocketcdn.se/dynamic/default/item/25369733/471b64ca-ee72-497a-ba9e-c1134ae4cf8a",
+  "https://images.blocketcdn.se/dynamic/default/item/25369733/5b3e579d-cbfc-4c5e-aa86-35243beb5b92",
+  "https://images.blocketcdn.se/dynamic/default/item/25369733/13997312-9ef7-4982-9880-5a29a93c2beb"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +79,13 @@
   "text_sha": "46d7a67baa645712"
  },
  "location": "Hammarö",
- "lon": 13.62441,
+ "lon": 13.62,
  "make": "Askeladden",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 2.299999952316284,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 247,
   "fetched_ts": 1790507805513,
@@ -98,7 +112,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25369733",
  "width_cm": 0,
  "year": 1900

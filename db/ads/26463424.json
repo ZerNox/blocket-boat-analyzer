@@ -7,6 +7,8 @@
   "boat_year": 2004,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yahama",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Höstpris!  Styrpulpetbåt säljes!",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26463424/f6f8427d-4c0a-4cf4-8513-71ae3519a607",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 61.67841,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26463424/f6f8427d-4c0a-4cf4-8513-71ae3519a607",
+  "https://images.blocketcdn.se/dynamic/default/item/26463424/1ab9005a-2a33-426d-93e3-f7414454bb97",
+  "https://images.blocketcdn.se/dynamic/default/item/26463424/8a834bd4-9604-42c9-880c-802620745c30",
+  "https://images.blocketcdn.se/dynamic/default/item/26463424/ccba4e43-6a88-4297-8560-899d94a225b7",
+  "https://images.blocketcdn.se/dynamic/default/item/26463424/01ac96ff-efe1-4555-bd82-8409abfd7057",
+  "https://images.blocketcdn.se/dynamic/default/item/26463424/01eff1c1-4322-40da-8a4f-0aaa9589a06b",
+  "https://images.blocketcdn.se/dynamic/default/item/26463424/a1793e28-ec24-4a80-bcf9-56167d19464a",
+  "https://images.blocketcdn.se/dynamic/default/item/26463424/6fb2d353-cfb9-48f1-9612-a851ead1d3e7",
+  "https://images.blocketcdn.se/dynamic/default/item/26463424/3b517c98-f6ac-4bcb-bdd5-a5c2c6a959bd",
+  "https://images.blocketcdn.se/dynamic/default/item/26463424/1415c515-401d-4f6e-b2c9-c9302a37349d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 61.68,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +80,13 @@
   "text_sha": "b2bf6699ec7434c7"
  },
  "location": "Hudiksvall",
- "lon": 17.38332,
+ "lon": 17.38,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 490,
   "fetched_ts": 1790508711331,
@@ -100,7 +115,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26463424",
  "width_cm": 207,
  "year": 2004

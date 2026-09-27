@@ -1,0 +1,121 @@
+{
+ "ad_id": 25957571,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787479162000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 85,
+  "engine_hp_source": "llm",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1976,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Fin rocka med fast tank, mycket fint kapell & fin insida.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Havsrockan 5,3m",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25957571/bc0aaa42-76c9-47ab-a36f-719b14b95625",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25957571/bc0aaa42-76c9-47ab-a36f-719b14b95625",
+  "https://images.blocketcdn.se/dynamic/default/item/25957571/c485572a-1a5c-4985-a030-1afca70e7c5e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.14,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1976,
+   "engine_hours": null,
+   "engine_hp": 85,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2b44837347179889"
+ },
+ "location": "Österhaninge",
+ "lon": 18.25,
+ "make": "Ryds",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 85.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 165,
+  "fetched_ts": 1790523089611,
+  "text_sha": "2b44837347179889"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modellår": "1976",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "85 hk",
+  "Motortillverkare": "Yamaha",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Sovplatser": "2",
+  "Toppfart": "25 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "415 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25957571",
+ "width_cm": 215,
+ "year": 1976
+}

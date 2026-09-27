@@ -7,6 +7,8 @@
   "boat_year": 2005,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 6,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Välvårdad båt med motor och styrpulpet.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23785334/7a0c2ad0-f818-4352-b2ac-55d99e56fcaa",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.11924,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23785334/7a0c2ad0-f818-4352-b2ac-55d99e56fcaa",
+  "https://images.blocketcdn.se/dynamic/default/item/23785334/553534f1-a10f-48ca-b422-a757d441cfca",
+  "https://images.blocketcdn.se/dynamic/default/item/23785334/049c5488-7fd5-4861-a11f-a5480ad752e4",
+  "https://images.blocketcdn.se/dynamic/default/item/23785334/cded7775-af74-4f58-81af-5dfcd681f05f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.12,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "ed773e3a01896913"
  },
  "location": "Skeppshult",
- "lon": 13.42565,
+ "lon": 13.43,
  "make": "Terhi",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 6.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790507537714,
@@ -96,7 +105,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "130 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23785334",
  "width_cm": 150,
  "year": 2005

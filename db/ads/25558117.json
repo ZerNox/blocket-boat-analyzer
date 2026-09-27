@@ -7,6 +7,8 @@
   "boat_year": 1984,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -39,8 +41,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden 470 Big Ride Yamaha 40 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25558117/6ba2fe05-dbb4-42fe-b591-fa5a736feaa0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.78641,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25558117/6ba2fe05-dbb4-42fe-b591-fa5a736feaa0",
+  "https://images.blocketcdn.se/dynamic/default/item/25558117/38e85b5b-a396-4710-b984-1279b9c4fb01",
+  "https://images.blocketcdn.se/dynamic/default/item/25558117/832f37fc-aaaa-41e4-b7f5-d3f391999f94",
+  "https://images.blocketcdn.se/dynamic/default/item/25558117/568f2df2-b219-4786-a647-89d24513303c",
+  "https://images.blocketcdn.se/dynamic/default/item/25558117/5b79a8c9-de83-44e7-a9e4-c38b7f8d3d05",
+  "https://images.blocketcdn.se/dynamic/default/item/25558117/018aad67-66e4-4c6c-84d7-ae32d93f7fb0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.79,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +80,13 @@
   "text_sha": "422a0e8ee9f9e471"
  },
  "location": "Jönköping",
- "lon": 14.17959,
+ "lon": 14.18,
  "make": "Askeladden",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 616,
   "fetched_ts": 1790507993272,
@@ -100,7 +111,7 @@
   "Märke": "Askeladden",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25558117",
  "width_cm": 0,
  "year": 1984

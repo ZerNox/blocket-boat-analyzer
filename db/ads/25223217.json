@@ -33,10 +33,11 @@
   "swap_offered": true
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "Uttern 5000HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25223217/512c5b8d-2f62-49f1-baed-cabf3ef60499",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.65791,
+ "lat": 59.66,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,7 +67,7 @@
   "text_sha": "35fbc599d5c984b1"
  },
  "location": "Arvika",
- "lon": 12.57942,
+ "lon": 12.58,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
@@ -96,7 +97,7 @@
   "Märke": "Uttern",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/25223217",
  "width_cm": 0,
  "year": 1989

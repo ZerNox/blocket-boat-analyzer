@@ -1,0 +1,78 @@
+{
+ "ad_id": 26530144,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789217947000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Höstpris Styrpulpet",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26530144/4b101847-80e4-4985-a225-138bed7b9944",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26530144/4b101847-80e4-4985-a225-138bed7b9944",
+  "https://images.blocketcdn.se/dynamic/default/item/26530144/21bd860b-83ad-44b9-ab80-a6dd20454da4",
+  "https://images.blocketcdn.se/dynamic/default/item/26530144/9ee4d7e9-efe0-4871-80d3-21cfd3abd0c5",
+  "https://images.blocketcdn.se/dynamic/default/item/26530144/f9d7bff5-720a-4549-a07b-22426af9232c",
+  "https://images.blocketcdn.se/dynamic/default/item/26530144/282ca277-2e8f-4d20-a4b4-e7060cbec321"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.5,
+ "length_ft": 15,
+ "location": "Vikbolandet",
+ "lon": 16.98,
+ "make": "Baltic",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 115,
+  "fetched_ts": 1790520994070,
+  "text_sha": "335004912a817c8f"
+ },
+ "price": 17500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 17500
+  }
+ ],
+ "specs": {
+  "Bredd": "6 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modellår": "1995",
+  "Märke": "Baltic",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26530144",
+ "width_cm": 6,
+ "year": 1995
+}

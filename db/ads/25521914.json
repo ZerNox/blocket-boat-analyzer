@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": 120,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -39,8 +41,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 486 BF 50HK trailer, plotter. Höst pris!",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25521914/75d3a26f-88bb-41e4-a8b2-450d9afbfc69",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.11786,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25521914/75d3a26f-88bb-41e4-a8b2-450d9afbfc69",
+  "https://images.blocketcdn.se/dynamic/default/item/25521914/5b1b28a8-66c5-4482-a436-81c1ac8b4ec0",
+  "https://images.blocketcdn.se/dynamic/default/item/25521914/67453964-9083-40f3-8d48-aa40391b25f8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.12,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +77,13 @@
   "text_sha": "c6f7be8d6cd7330f"
  },
  "location": "Varekil",
- "lon": 11.70072,
+ "lon": 11.7,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 216,
   "fetched_ts": 1790507956438,
@@ -102,7 +110,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25521914",
  "width_cm": 0,
  "year": 2021

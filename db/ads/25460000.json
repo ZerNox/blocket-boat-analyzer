@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -47,8 +49,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 48 / Evinrude 30hk  / Fogelsta trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25460000/67c2dfe1-7bdb-421b-9bc0-768e3ae93eb5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.17853,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25460000/67c2dfe1-7bdb-421b-9bc0-768e3ae93eb5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.18,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -78,12 +83,13 @@
   "text_sha": "a4d19547e3d0a466"
  },
  "location": "Undersåker",
- "lon": 13.17598,
+ "lon": 13.18,
  "make": "Crescent",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 640,
   "fetched_ts": 1790507888807,
@@ -112,7 +118,7 @@
   "Toppfart": "20 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25460000",
  "width_cm": 0,
  "year": 1980

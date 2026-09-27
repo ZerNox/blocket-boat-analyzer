@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 8.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Theri 400 ink trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26751128/4d542e42-bc6c-440f-9e99-f63cb20154a4",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.86978,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26751128/4d542e42-bc6c-440f-9e99-f63cb20154a4",
+  "https://images.blocketcdn.se/dynamic/default/item/26751128/e8af7e75-cd88-4e14-83a0-ac72676067a3",
+  "https://images.blocketcdn.se/dynamic/default/item/26751128/d7f8c6ff-a6d6-4e21-be33-2dc2cb3bff66",
+  "https://images.blocketcdn.se/dynamic/default/item/26751128/e3edc781-e0af-4a1d-b2a6-d32a5abb02e5",
+  "https://images.blocketcdn.se/dynamic/default/item/26751128/6cbb1f95-cb12-40b4-ac1b-bbf4ac9805ee",
+  "https://images.blocketcdn.se/dynamic/default/item/26751128/e91a5c20-9853-4d23-a6f5-652ce1e46ccc"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.87,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +75,13 @@
   "text_sha": "94046981fd0ddb32"
  },
  "location": "Kopparberg",
- "lon": 15.00928,
+ "lon": 15.01,
  "make": "Terhi",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 8.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 77,
   "fetched_ts": 1790508916332,
@@ -97,7 +108,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "120 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26751128",
  "width_cm": 0,
  "year": 2006

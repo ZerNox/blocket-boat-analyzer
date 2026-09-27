@@ -1,0 +1,123 @@
+{
+ "ad_id": 26032098,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787676830000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Köpes Ryds 510mc",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Köpes Ryds 510mc",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26032098/99812214-6de6-4ef7-8284-cec9c8effe1b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26032098/99812214-6de6-4ef7-8284-cec9c8effe1b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 65.71,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f036b9db14fb3c2b"
+ },
+ "location": "Kalix",
+ "lon": 22.99,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 226,
+  "fetched_ts": 1790520879587,
+  "text_sha": "f036b9db14fb3c2b"
+ },
+ "price": 50000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 50000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "510mc",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Märke": "Ryds",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26032098",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "6a6c710e9641796d",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "brand": null,
+   "engine_photos": [],
+   "four_stroke": null,
+   "hp": null,
+   "photo": null,
+   "text_seen": null
+  },
+  "tasks": [
+   "hp"
+  ]
+ },
+ "width_cm": 0,
+ "year": 2000
+}

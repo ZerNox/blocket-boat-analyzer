@@ -1,0 +1,80 @@
+{
+ "ad_id": 26895309,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790416675000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Har ingen motor eller trailer till den.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Flipper trimaran skrov",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26895309/12647fe8-e63d-4cfd-81db-4a32f85755a7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26895309/12647fe8-e63d-4cfd-81db-4a32f85755a7",
+  "https://images.blocketcdn.se/dynamic/default/item/26895309/b9dd4780-c1c0-49ed-86c2-493fbf4feb2e",
+  "https://images.blocketcdn.se/dynamic/default/item/26895309/24be7396-4dcf-4397-b9bb-6f0436029598",
+  "https://images.blocketcdn.se/dynamic/default/item/26895309/5c5a1496-6f7d-4f54-b3fa-fdef78f74772"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.34,
+ "length_ft": 14,
+ "location": "Värmdö",
+ "lon": 18.49,
+ "make": "Flipper",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 162,
+  "fetched_ts": 1790521081828,
+  "text_sha": "0924c5a66f2995a7"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modellår": "1980",
+  "Märke": "Flipper",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26895309",
+ "width_cm": 0,
+ "year": 1980
+}

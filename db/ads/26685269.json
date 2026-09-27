@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 2,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Artekno roddbåt/forsbåt ca 4,7m.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26685269/795d807a-c68e-4874-b522-e804d3223e04",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.67621,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26685269/795d807a-c68e-4874-b522-e804d3223e04",
+  "https://images.blocketcdn.se/dynamic/default/item/26685269/c681cce2-df5d-486e-95c3-ace08b0ce7ac",
+  "https://images.blocketcdn.se/dynamic/default/item/26685269/c5d90033-76ce-4497-ae4b-2bc4829a7bee",
+  "https://images.blocketcdn.se/dynamic/default/item/26685269/0bb26f63-e46a-4e94-980a-98b2b5920b07",
+  "https://images.blocketcdn.se/dynamic/default/item/26685269/395eced5-f496-4fc1-bcf1-85c3f3dc8879",
+  "https://images.blocketcdn.se/dynamic/default/item/26685269/d6603011-ed14-4c65-9da0-11ddbe27b618"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.68,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +75,13 @@
   "text_sha": "d0f9a67fa4d6495b"
  },
  "location": "Gävle",
- "lon": 17.14702,
+ "lon": 17.15,
  "make": "Artekno",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 2.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 372,
   "fetched_ts": 1790508870337,
@@ -97,7 +108,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26685269",
  "width_cm": 0,
  "year": 1980

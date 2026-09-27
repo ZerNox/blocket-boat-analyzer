@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt med tillhörande trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25425847/c357a10e-d8dd-46ac-a88e-e010b6f301f1",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.54454,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25425847/c357a10e-d8dd-46ac-a88e-e010b6f301f1",
+  "https://images.blocketcdn.se/dynamic/default/item/25425847/a8d2deec-0a51-4019-bdc6-fee93ed67e85",
+  "https://images.blocketcdn.se/dynamic/default/item/25425847/78902cb4-6bb3-4dbe-a804-2e34107ebddc",
+  "https://images.blocketcdn.se/dynamic/default/item/25425847/d9cdba32-2324-4745-870c-f0db006caa54",
+  "https://images.blocketcdn.se/dynamic/default/item/25425847/8cd3644b-a7c1-4602-8d53-07d689d16fe6",
+  "https://images.blocketcdn.se/dynamic/default/item/25425847/40d57def-9337-4b09-81b6-880896f8c3d8",
+  "https://images.blocketcdn.se/dynamic/default/item/25425847/2d0de662-69b7-49a9-943d-68902426a590",
+  "https://images.blocketcdn.se/dynamic/default/item/25425847/20d10f3a-0b06-484b-8bea-d1f6aba42209",
+  "https://images.blocketcdn.se/dynamic/default/item/25425847/17a45002-439d-4350-a2ed-673f466cfc4a",
+  "https://images.blocketcdn.se/dynamic/default/item/25425847/1c80985b-ee8c-49ab-926a-a6f555414338"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.54,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +79,13 @@
   "text_sha": "883f7557e9b970ec"
  },
  "location": "Vallentuna",
- "lon": 18.01966,
+ "lon": 18.02,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 77,
   "fetched_ts": 1790507858843,
@@ -100,7 +115,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25425847",
  "width_cm": 230,
  "year": 1990

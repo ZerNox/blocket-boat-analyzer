@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet Crescent med trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26780208/c05d788e-7e31-4994-90cb-510fe2cd9728",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.30711,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26780208/c05d788e-7e31-4994-90cb-510fe2cd9728",
+  "https://images.blocketcdn.se/dynamic/default/item/26780208/22c7bdcc-8f51-415b-847e-73371e93e0bb",
+  "https://images.blocketcdn.se/dynamic/default/item/26780208/23642b27-2a88-4c25-8ca5-4cbbadaca056"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.31,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +73,13 @@
   "text_sha": "0baa64d7a23f6f69"
  },
  "location": "Kallinge",
- "lon": 15.27255,
+ "lon": 15.27,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 267,
   "fetched_ts": 1790508936328,
@@ -95,7 +103,7 @@
   "Märke": "Crescent",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26780208",
  "width_cm": 0,
  "year": 1995

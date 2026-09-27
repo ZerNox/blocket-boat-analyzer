@@ -7,6 +7,8 @@
   "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Grisslan 520 + utrustning!",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25840886/3ba70d99-d08d-478b-a576-c5352d183bf6",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.71802,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25840886/3ba70d99-d08d-478b-a576-c5352d183bf6",
+  "https://images.blocketcdn.se/dynamic/default/item/25840886/42f423ae-cd93-4bf8-863a-0051b38d3eb5",
+  "https://images.blocketcdn.se/dynamic/default/item/25840886/1346769b-5fdc-4e76-9f3a-32b8b46bd590",
+  "https://images.blocketcdn.se/dynamic/default/item/25840886/915e088d-42b1-466a-9340-0e31d610254a",
+  "https://images.blocketcdn.se/dynamic/default/item/25840886/2e7e59c3-3f54-4937-abb2-babf81149401"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.72,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +78,13 @@
   "text_sha": "c9cb5bab024887fd"
  },
  "location": "Mariestad",
- "lon": 13.81969,
+ "lon": 13.82,
  "make": "Grisslan",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 103,
   "fetched_ts": 1790508242386,
@@ -101,7 +111,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25840886",
  "width_cm": 0,
  "year": 2010

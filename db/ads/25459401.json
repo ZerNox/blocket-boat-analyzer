@@ -1,0 +1,132 @@
+{
+ "ad_id": 25459401,
+ "boat_class": "Bowrider",
+ "changed_ts": 1786025600000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2001,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellet behöver bytas, har inte använts under 2026.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Dragg och förtöjnings-tampar följer med samt Garmin (GPS-map 420).",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer (obromsad 30km/h) kan köpas separat.",
+    "included": false
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 5500 BR 2001",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Uttern 5500"
+ ],
+ "heading": "Uttern 5500 BR 2001",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25459401/fc91dc4e-d9dc-4b90-bb24-a7f39714619f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25459401/fc91dc4e-d9dc-4b90-bb24-a7f39714619f",
+  "https://images.blocketcdn.se/dynamic/default/item/25459401/c91500ad-5512-4429-87bd-e9ec5224591c",
+  "https://images.blocketcdn.se/dynamic/default/item/25459401/57568871-1166-4d38-817b-f641f9d0fbf2",
+  "https://images.blocketcdn.se/dynamic/default/item/25459401/d8751858-bfc6-4c2d-a35e-3d876248c7a1",
+  "https://images.blocketcdn.se/dynamic/default/item/25459401/0e8004b8-59d1-4d1e-9a71-faaf7e5e330d",
+  "https://images.blocketcdn.se/dynamic/default/item/25459401/0746e7d6-b13e-4da9-b8bc-1623e0223d0a"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.12,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2001,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mercury 4-taktsmotor (kontinuerligt servad).",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "23b56dbc727e5851"
+ },
+ "location": "Hasslö",
+ "lon": 15.48,
+ "make": "Uttern",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 884,
+  "fetched_ts": 1790522998470,
+  "text_sha": "23b56dbc727e5851"
+ },
+ "price": 95000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 95000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "vit/blå",
+  "Längd i fot": "18 fot",
+  "Modell": "5500BR",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "30 knop",
+  "Typ": "Bowrider"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25459401",
+ "width_cm": 220,
+ "year": 2001
+}

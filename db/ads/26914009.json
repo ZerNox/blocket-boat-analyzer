@@ -1,0 +1,111 @@
+{
+ "ad_id": 26914009,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1790514310000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Parsun",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Jolle 4,5 m med Parsun 6 hk + Lowrance ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Jolle 4,5 m med Parsun 6 hk + Lowrance ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "* Utombordarkärra",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Jolle 4,5 m med Parsun 6 hk + Lowrance ekolod",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26914009/d64ac0fd-e43f-4ce2-8cb2-33f9ae00f20d",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/d64ac0fd-e43f-4ce2-8cb2-33f9ae00f20d",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/28703872-c199-4ae1-8c47-5c3e37c0ae8f",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/a43f4c45-974d-4458-a784-0fc776a9c938",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/f0eb0f10-9240-4065-a728-de58400d761c",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/a3aaaed2-95f3-4e15-a298-71eb4ce48650",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/f4f79e09-b0d0-48f5-bd05-b9f4424ccc2b",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/f8b3bd16-7c76-4719-baf3-b69d0210a853",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/b45a5200-b9fd-4004-bcbb-b62256c45a86",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/e6749572-e89e-4e45-8e2e-bdbeb9bb65ea",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/283a5ca6-8eee-4510-af4e-40fc6ac840c7",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/85953a72-85f4-48f1-b1b5-dbb41edce69b",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/ed0557d4-621e-4a8b-8509-0939f61af083",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/c54569f0-0f82-4cc3-a843-5c99b3961ebd",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/23c8e985-7a8b-4557-8ddd-86fde5bc5b07",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/8380148c-5642-48b5-b331-178861ef59e1",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/1f4a8ced-9078-4874-a716-2ec6aeae1ff0",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/b8695d3f-57b3-4ce8-bae3-59f3c0943a61",
+  "https://images.blocketcdn.se/dynamic/default/item/26914009/0c27e5d0-779e-4ed8-a0e7-38dad9140dcc"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.18,
+ "length_ft": 15,
+ "location": "Södertälje",
+ "lon": 17.58,
+ "make": "Askeladden",
+ "max_speed": 7,
+ "motor_fuel": "Bensin",
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 547,
+  "fetched_ts": 1790521089799,
+  "text_sha": "5d4891e66e16d63f"
+ },
+ "price": 21500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 21500
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Grå/vit",
+  "Längd i fot": "15 fot",
+  "Modell": "Jolle/roddbåt",
+  "Modellår": "2005",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "Parsun",
+  "Motortyp": "Utombordare",
+  "Märke": "Askeladden",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "7 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26914009",
+ "width_cm": 170,
+ "year": 2005
+}

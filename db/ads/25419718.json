@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha F25AE",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 480",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25419718/b9f4c83f-db6a-433f-9236-c6ea2ba9285a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.30477,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25419718/b9f4c83f-db6a-433f-9236-c6ea2ba9285a",
+  "https://images.blocketcdn.se/dynamic/default/item/25419718/1aeeaaaf-e786-4346-8730-0adda260e0be",
+  "https://images.blocketcdn.se/dynamic/default/item/25419718/aa0729c5-61d8-44d0-81ae-5afcdfb89abd",
+  "https://images.blocketcdn.se/dynamic/default/item/25419718/e44e0643-91a3-4155-b31c-1656fa567044",
+  "https://images.blocketcdn.se/dynamic/default/item/25419718/b8cdbb33-666a-4341-a713-70f54792dce8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.3,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "6adac4d77ceb4530"
  },
  "location": "Arboga",
- "lon": 15.76524,
+ "lon": 15.77,
  "make": "Örnvik",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 505,
   "fetched_ts": 1790507853199,
@@ -101,7 +111,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "215 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25419718",
  "width_cm": 193,
  "year": 1980

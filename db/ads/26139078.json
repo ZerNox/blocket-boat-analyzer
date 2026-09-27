@@ -1,0 +1,94 @@
+{
+ "ad_id": 26139078,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788020323000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1999,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yammaha 70 hk -99 power trim.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell är bra dock är ena dragkedjan trasig.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer på ombyggt husvangs chassi, nybytta hjullager + avtagbar ljus ramp ej reggad dvs LGF skylt.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Crescent 535"
+ ],
+ "heading": "Crescent 535",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26139078/692105fd-b7e0-4ef7-ab78-c8942878fcc8",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26139078/692105fd-b7e0-4ef7-ab78-c8942878fcc8",
+  "https://images.blocketcdn.se/dynamic/default/item/26139078/e420984a-4532-49d6-8e39-b704c6dc1797",
+  "https://images.blocketcdn.se/dynamic/default/item/26139078/bdd34a63-2c02-4cef-89ca-7f3cdbae1ed9",
+  "https://images.blocketcdn.se/dynamic/default/item/26139078/d5ca3059-0119-494e-8b1a-5218550fd089",
+  "https://images.blocketcdn.se/dynamic/default/item/26139078/26f9c11e-a9a9-49ac-9a7e-7d8061616ac6"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.03,
+ "length_ft": 18,
+ "location": "Östansjö",
+ "lon": 14.99,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 238,
+  "fetched_ts": 1790523124968,
+  "text_sha": "c7ea534870ffd8e9"
+ },
+ "price": 33000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 33000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26139078",
+ "width_cm": 0,
+ "year": 1980
+}

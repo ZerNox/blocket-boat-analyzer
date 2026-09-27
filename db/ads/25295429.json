@@ -7,6 +7,8 @@
   "boat_year": 1994,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 475 GT, Evinrude 50hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25295429/4686af40-fe40-499e-8b01-50fdfbaec031",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.14122,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25295429/4686af40-fe40-499e-8b01-50fdfbaec031",
+  "https://images.blocketcdn.se/dynamic/default/item/25295429/a2d8d495-aef8-4921-83d8-d70eb787628a",
+  "https://images.blocketcdn.se/dynamic/default/item/25295429/230e3287-e43b-4cd3-9447-776b7a38584b",
+  "https://images.blocketcdn.se/dynamic/default/item/25295429/bea61843-09cf-4314-b596-2d549fef985e",
+  "https://images.blocketcdn.se/dynamic/default/item/25295429/9b3b2846-a340-4462-ba19-8711ffba2c52"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.14,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "efbc2705151d18cf"
  },
  "location": "Säffle",
- "lon": 12.9046,
+ "lon": 12.9,
  "make": "Ryds",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 81,
   "fetched_ts": 1790507739665,
@@ -93,7 +103,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25295429",
  "width_cm": 195,
  "year": 1994

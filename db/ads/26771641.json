@@ -1,0 +1,90 @@
+{
+ "ad_id": 26771641,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789990117000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Fint kapell. med ellänspump.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "3 olika båtar (säljes utan trailer)",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "3 fina billiga båtar",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26771641/f6b7e372-cb87-4ee8-9d3b-1d21f7b8c777",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26771641/f6b7e372-cb87-4ee8-9d3b-1d21f7b8c777",
+  "https://images.blocketcdn.se/dynamic/default/item/26771641/132ace6e-b9bd-410f-a935-259c53743252",
+  "https://images.blocketcdn.se/dynamic/default/item/26771641/d6bf6145-cea6-46d9-8b8c-56db8d7a2e56",
+  "https://images.blocketcdn.se/dynamic/default/item/26771641/3f382f29-bbf2-457b-9eb5-31ef73bc88b0",
+  "https://images.blocketcdn.se/dynamic/default/item/26771641/0ef2796c-4d56-42d7-a8ec-a122cf80024d",
+  "https://images.blocketcdn.se/dynamic/default/item/26771641/7bdbe28d-9767-42ec-81b8-f1a01c68d413",
+  "https://images.blocketcdn.se/dynamic/default/item/26771641/340a3e83-562c-484e-9465-0ba60cdbdf7e",
+  "https://images.blocketcdn.se/dynamic/default/item/26771641/1ffb12f0-ee7c-49ed-b59a-4734c564b218",
+  "https://images.blocketcdn.se/dynamic/default/item/26771641/6ba04d11-1271-459f-be33-f584ca56e5de"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.44,
+ "length_ft": 17,
+ "location": "Ystad",
+ "lon": 13.83,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 278,
+  "fetched_ts": 1790521055028,
+  "text_sha": "00f1a89116e47066"
+ },
+ "price": 3500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 3500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Märke": "Ryds",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26771641",
+ "width_cm": 0,
+ "year": 1985
+}

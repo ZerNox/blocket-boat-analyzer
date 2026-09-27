@@ -7,6 +7,8 @@
   "boat_year": 2011,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -37,16 +39,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Finnmaster 49CC Yamaha 60 -2011",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25690904/e1e0dbb4-3168-46ec-84d9-d9cb17431e63",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.34509,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25690904/e1e0dbb4-3168-46ec-84d9-d9cb17431e63",
+  "https://images.blocketcdn.se/dynamic/default/item/25690904/3d6fd7c9-97bf-458a-85ac-11aefe656d7d",
+  "https://images.blocketcdn.se/dynamic/default/item/25690904/550aa776-f68e-4a10-a3dc-1b8cb508c847"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.35,
  "length_ft": 16,
  "location": "Strängnäs",
- "lon": 17.10458,
+ "lon": 17.1,
  "make": "Finnmaster",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 206,
   "fetched_ts": 1790508100724,
@@ -75,7 +83,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "400 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25690904",
  "width_cm": 200,
  "year": 2011

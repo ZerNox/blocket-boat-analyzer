@@ -7,6 +7,8 @@
   "boat_year": 1988,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 5402 styrpulpeten båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25695482/1c157103-d01c-48e9-8c7f-b14dae20a9c9",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.59444,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25695482/1c157103-d01c-48e9-8c7f-b14dae20a9c9",
+  "https://images.blocketcdn.se/dynamic/default/item/25695482/e69e8068-2ba5-4ddd-8c1a-79c743abbeb3",
+  "https://images.blocketcdn.se/dynamic/default/item/25695482/635ae320-0812-4f3e-b0f4-2f34d07fab8d",
+  "https://images.blocketcdn.se/dynamic/default/item/25695482/bb1352fc-2474-4260-ac33-94e7da565e05",
+  "https://images.blocketcdn.se/dynamic/default/item/25695482/8a7d50bb-6cd8-4fa1-aa02-7ee86fad86cc",
+  "https://images.blocketcdn.se/dynamic/default/item/25695482/3110280b-a3e6-4e9c-b3b3-4817085b34cc",
+  "https://images.blocketcdn.se/dynamic/default/item/25695482/fa81dab1-509f-4616-922f-3e10e7ac66bd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.59,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +71,13 @@
   "text_sha": "e7feb4c37a474ba8"
  },
  "location": "Genarp",
- "lon": 13.38973,
+ "lon": 13.39,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 388,
   "fetched_ts": 1790508105340,
@@ -95,7 +107,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "540 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25695482",
  "width_cm": 220,
  "year": 1988

@@ -7,6 +7,8 @@
   "boat_year": 2008,
   "boat_year_source": "spec",
   "engine_hours": 54,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -38,8 +40,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "RYDS 478 GT m. Honda 50 Fyrtakt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25288052/af0fb95a-5746-49ae-bff5-f2977da228f8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.0435,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25288052/af0fb95a-5746-49ae-bff5-f2977da228f8",
+  "https://images.blocketcdn.se/dynamic/default/item/25288052/a5a632f7-7e14-4587-abce-29f8a01af700",
+  "https://images.blocketcdn.se/dynamic/default/item/25288052/6feb203d-3c5a-4560-9df9-c57819a51f3d",
+  "https://images.blocketcdn.se/dynamic/default/item/25288052/0be782d1-d61b-4612-b55f-8c5fef3d980d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.04,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +77,13 @@
   "text_sha": "b83b62ff4e4f303a"
  },
  "location": "Hagfors",
- "lon": 13.67937,
+ "lon": 13.68,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 283,
   "fetched_ts": 1790507728792,
@@ -102,7 +111,7 @@
   "Märke": "Ryds",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25288052",
  "width_cm": 191,
  "year": 2008

@@ -7,6 +7,8 @@
   "boat_year": 2019,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sting 600 PRO",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26207153/b591c3c8-17a0-4227-b69c-b8c5a9fa52f4",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.60297,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26207153/b591c3c8-17a0-4227-b69c-b8c5a9fa52f4",
+  "https://images.blocketcdn.se/dynamic/default/item/26207153/7bc7d041-2e72-4973-a8e8-653aa47f2c4d",
+  "https://images.blocketcdn.se/dynamic/default/item/26207153/577d12ee-2ec6-4dff-b2cd-e66285dd0bcc",
+  "https://images.blocketcdn.se/dynamic/default/item/26207153/f052d734-6a81-4741-9368-03705df8d1b9",
+  "https://images.blocketcdn.se/dynamic/default/item/26207153/d63a570b-05c6-42fa-b9dd-9753cc2937a6",
+  "https://images.blocketcdn.se/dynamic/default/item/26207153/e0a8770e-a921-4ae3-accb-bffc951d86a7",
+  "https://images.blocketcdn.se/dynamic/default/item/26207153/499e5d3d-da46-4410-b847-633272a682a7",
+  "https://images.blocketcdn.se/dynamic/default/item/26207153/f17b0f8a-3209-4161-890e-3af42b858790",
+  "https://images.blocketcdn.se/dynamic/default/item/26207153/95eff033-3dbf-4428-9348-306077aee641"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.6,
  "length_ft": 20,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +73,13 @@
   "text_sha": "f6a4803504bb2538"
  },
  "location": "Luleå",
- "lon": 22.11852,
+ "lon": 22.12,
  "make": "Sting",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508515278,
@@ -92,7 +106,7 @@
   "Toppfart": "30 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26207153",
  "width_cm": 230,
  "year": 2019

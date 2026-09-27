@@ -1,0 +1,97 @@
+{
+ "ad_id": 26800372,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1790082408000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": 15,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Selva",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Välskött båt med fräscht kapell och ny motor från 2021, ca 15 gångtimmar.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Välskött båt med fräscht kapell och ny motor från 2021, ca 15 gångtimmar.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Inkl obromsad TK trailer.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds triss HT 57",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds triss HT 57",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26800372/3c3cbba4-7ec4-4566-8c07-c3e6204e044b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26800372/3c3cbba4-7ec4-4566-8c07-c3e6204e044b",
+  "https://images.blocketcdn.se/dynamic/default/item/26800372/46e18545-b367-4052-8ede-fa81d8f592dd",
+  "https://images.blocketcdn.se/dynamic/default/item/26800372/c274b383-8a74-4d20-a03e-d0baf7a32cf1",
+  "https://images.blocketcdn.se/dynamic/default/item/26800372/c80a8988-fbac-4d7a-a4cb-30e1b3cbdbe8",
+  "https://images.blocketcdn.se/dynamic/default/item/26800372/af2506a4-bfa1-4627-8d0e-14023ff1ae3b",
+  "https://images.blocketcdn.se/dynamic/default/item/26800372/8e3ca135-1e11-4305-895d-955f9a36e1bf"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.73,
+ "length_ft": 19,
+ "location": "Örsundsbro",
+ "lon": 17.31,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 209,
+  "fetched_ts": 1790523220925,
+  "text_sha": "5d22ed5761335c73"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modell": "Triss HT 57",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Selva",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Kabinbåt",
+  "Vikt": "675 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26800372",
+ "width_cm": 215,
+ "year": 1985
+}

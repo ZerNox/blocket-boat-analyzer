@@ -7,6 +7,8 @@
   "boat_year": 2017,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Atlantic 445 med Suzuki 15 hk 4-takt & trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26166717/960eb980-0bba-4aec-b6e9-fedc8cc4345b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.83353,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26166717/960eb980-0bba-4aec-b6e9-fedc8cc4345b",
+  "https://images.blocketcdn.se/dynamic/default/item/26166717/db697428-a5a9-4b96-b0e2-5fdd026c9c3e",
+  "https://images.blocketcdn.se/dynamic/default/item/26166717/5171f9a1-8faf-4262-b397-e518d512bd31",
+  "https://images.blocketcdn.se/dynamic/default/item/26166717/886c8899-5563-45f4-bdb2-5eb65d2d25a2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.83,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +75,13 @@
   "text_sha": "59f32ab71474d3bf"
  },
  "location": "Björkvik",
- "lon": 16.53142,
+ "lon": 16.53,
  "make": "Atlantic",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 576,
   "fetched_ts": 1790508499308,
@@ -100,7 +109,7 @@
   "Märke": "Atlantic",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26166717",
  "width_cm": 0,
  "year": 2017

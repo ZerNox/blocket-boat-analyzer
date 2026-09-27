@@ -7,6 +7,8 @@
   "boat_year": 1970,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Hardtop båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23256547/76cbc4d9-8784-4c19-b9de-2b4216119788",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.18446,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23256547/76cbc4d9-8784-4c19-b9de-2b4216119788",
+  "https://images.blocketcdn.se/dynamic/default/item/23256547/1accd6d2-aedd-4360-a3a7-c51b11beb864",
+  "https://images.blocketcdn.se/dynamic/default/item/23256547/18a47fa7-a547-4406-a910-09f054a1f3ed"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.18,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "b2ea466fb80ae835"
  },
  "location": "Grisslehamn",
- "lon": 18.78015,
+ "lon": 18.78,
  "make": "Joker",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 75,
   "fetched_ts": 1790507484499,
@@ -95,7 +103,7 @@
   "Märke": "Joker",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23256547",
  "width_cm": 200,
  "year": 1970

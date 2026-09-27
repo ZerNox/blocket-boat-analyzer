@@ -1,0 +1,117 @@
+{
+ "ad_id": 23857393,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1786896230000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Grisslan 640 AC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23857393/8f0dcb48-e2ff-4586-bc4a-329282f10c9f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23857393/8f0dcb48-e2ff-4586-bc4a-329282f10c9f",
+  "https://images.blocketcdn.se/dynamic/default/item/23857393/95a4cc82-895f-4303-a8ff-d1d0e6ea0594",
+  "https://images.blocketcdn.se/dynamic/default/item/23857393/ddfb95ad-5020-4b11-a8f8-72fe9bf8038f",
+  "https://images.blocketcdn.se/dynamic/default/item/23857393/3410368c-14e6-47b9-af04-0b2c361c5c3d",
+  "https://images.blocketcdn.se/dynamic/default/item/23857393/e7378960-858d-4ce6-b7ea-9241b77faa6f",
+  "https://images.blocketcdn.se/dynamic/default/item/23857393/177211c8-05b9-48c0-8ceb-8176bcbb9770"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.17,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b04bad3df2d506f4"
+ },
+ "location": "Tärnsjö",
+ "lon": 16.93,
+ "make": "Övriga",
+ "max_speed": 29,
+ "motor_fuel": null,
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790522911322,
+  "text_sha": "b04bad3df2d506f4"
+ },
+ "price": 130000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 130000
+  }
+ ],
+ "specs": {
+  "Bredd": "225 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "21 fot",
+  "Modell": "Grisslan 640 AC",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "29 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23857393",
+ "width_cm": 225,
+ "year": 2006
+}

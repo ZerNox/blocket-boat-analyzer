@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 9.8,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Kållandsöjolle",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25521972/73bced20-a7e7-4d05-b48e-4c2852296f67",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.70244,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25521972/73bced20-a7e7-4d05-b48e-4c2852296f67",
+  "https://images.blocketcdn.se/dynamic/default/item/25521972/0c86283a-1788-49ff-8d94-695aefd2ecc7",
+  "https://images.blocketcdn.se/dynamic/default/item/25521972/43c8b8eb-159d-4965-91c6-48549fe4706e",
+  "https://images.blocketcdn.se/dynamic/default/item/25521972/4870ca99-0e8a-446a-ae1b-c35cc8ddbb18",
+  "https://images.blocketcdn.se/dynamic/default/item/25521972/589927a3-e699-45de-8d45-6e1db9018a55"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.7,
  "length_ft": 10,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "0cd2bb71120ad3e8"
  },
  "location": "Lidköping",
- "lon": 13.10321,
+ "lon": 13.1,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 9.800000190734863,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 103,
   "fetched_ts": 1790507957859,
@@ -91,7 +101,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25521972",
  "width_cm": 0,
  "year": 1980

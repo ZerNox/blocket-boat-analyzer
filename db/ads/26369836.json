@@ -7,6 +7,8 @@
   "boat_year": 1970,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -43,8 +45,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Timola 495 + bes 80km/h trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26369836/69304fbd-24b2-45b6-80bc-530738ed256f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.05613,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26369836/69304fbd-24b2-45b6-80bc-530738ed256f",
+  "https://images.blocketcdn.se/dynamic/default/item/26369836/73b0d41a-edc2-4c2d-ae48-d73018065edc",
+  "https://images.blocketcdn.se/dynamic/default/item/26369836/433750c9-baa3-4bf2-bdff-5c4c02122b05",
+  "https://images.blocketcdn.se/dynamic/default/item/26369836/5da0f574-2ec6-486d-8135-03ea41ad2e4a",
+  "https://images.blocketcdn.se/dynamic/default/item/26369836/60ee1068-797d-42ad-b8e0-79e280a1da33"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.06,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +83,13 @@
   "text_sha": "1271c5bab83ceace"
  },
  "location": "Tranås",
- "lon": 14.99547,
+ "lon": 15.0,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 786,
   "fetched_ts": 1790508635895,
@@ -105,7 +115,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26369836",
  "width_cm": 0,
  "year": 1970

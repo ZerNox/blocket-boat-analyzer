@@ -7,6 +7,8 @@
   "boat_year": 1998,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 405",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26764213/acba55b6-55e2-4599-a997-f7d6de87bf69",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.67542,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26764213/acba55b6-55e2-4599-a997-f7d6de87bf69",
+  "https://images.blocketcdn.se/dynamic/default/item/26764213/82228e48-5612-40b4-a58d-e7c59eab8414",
+  "https://images.blocketcdn.se/dynamic/default/item/26764213/7d8c59af-9b32-4bad-9d29-45c24fba9381"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.68,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "f63d0cc35c363ee0"
  },
  "location": "Oxelösund",
- "lon": 17.03908,
+ "lon": 17.04,
  "make": "Ryds",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508927785,
@@ -93,7 +101,7 @@
   "Toppfart": "20 knop",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26764213",
  "width_cm": 0,
  "year": 1998

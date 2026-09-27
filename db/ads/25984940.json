@@ -1,0 +1,147 @@
+{
+ "ad_id": 25984940,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787552033000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo penta",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "Volvo Penta slutade med utombordare kring 1990",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Det följer med ett kapell också.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin gpsmap följer med om man vill. sjökort över mälaren.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Bromsad trailer följer med, om man vill. vid affär så ska jag bara besikta den så allt är sjysst.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Daycruiser motorbåt\nEn Daycruiser. byggd på Okelboskrov av en båtbyggare på Ålan",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Daycruiser motorbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25984940/8ae7dbb1-9bc1-40b1-a282-c758333b2555",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/8ae7dbb1-9bc1-40b1-a282-c758333b2555",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/7ba79272-de53-4a61-a71f-1bbb05e584b1",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/60d6b39c-0ef8-4306-a06f-ecbb91052e8d",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/31369311-c7a3-409b-8ca0-9b6ecf68208c",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/520a77be-51c6-40bc-9f99-79683a56a65e",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/8f6ddd71-e06b-4f9a-a87b-957d596c39ac",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/aa939f41-6270-47ee-ac02-6e71768afa3e",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/a07d07da-d7c6-440a-b42d-58848fc334bc",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/4a7a0287-9d2f-4388-9d93-b5fc748930b3",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/79bf8754-0f5b-436f-90ab-07da6aeb3f77",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/2f4f5e38-3b50-4e73-b9bb-4789a7a25f81",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/7afc994f-2427-4b35-ad87-0ebdd0dec563",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/968d6d3f-e441-4ab3-b29c-0ac78462736c",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/d69f17bd-b882-4386-9b56-97651f06e653",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/e736ecf1-182b-4bec-bb96-a480f2098d77",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/9e86399a-fdf0-4d32-a948-63f76447a2c1",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/18533904-d485-4cce-b6f0-4a4f74e5ad50",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/750de3f2-3479-41c7-954c-839cfe36ecf0",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/c3ec46b6-c083-479a-8e67-82057f185a0e",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/bc2e34a0-a27a-4b00-b4d9-f68370441e68",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/89c77d4b-2d2e-4dea-8ec8-c26d3bfc357f",
+  "https://images.blocketcdn.se/dynamic/default/item/25984940/28a5bf16-f924-4243-b2fb-2a5e0ea7c9fa"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.95,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1998,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Driftsäker B20 inombordare",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c0dc558081192635"
+ },
+ "location": "Västerfärnebo",
+ "lon": 16.29,
+ "make": "Ockelbo",
+ "max_speed": 15,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 1064,
+  "fetched_ts": 1790523098014,
+  "text_sha": "c0dc558081192635"
+ },
+ "price": 65000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 65000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modellår": "1998",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo penta",
+  "Motortyp": "Inombordare",
+  "Märke": "Ockelbo",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "15 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25984940",
+ "width_cm": 200,
+ "year": 1998
+}

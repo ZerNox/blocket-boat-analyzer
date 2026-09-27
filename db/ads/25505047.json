@@ -7,6 +7,8 @@
   "boat_year": 1970,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -37,8 +39,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sportbåt 70hk 30 släp",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25505047/a871e1d7-f62a-43c5-9e2e-47b3494c5593",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.7821,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25505047/a871e1d7-f62a-43c5-9e2e-47b3494c5593",
+  "https://images.blocketcdn.se/dynamic/default/item/25505047/35010404-5d7d-44c5-93da-ec30ebaca7a9",
+  "https://images.blocketcdn.se/dynamic/default/item/25505047/24141c8f-4dfe-4150-ad61-46f999b89526",
+  "https://images.blocketcdn.se/dynamic/default/item/25505047/69765134-6fb6-48aa-b27f-c5fa580e5d5d",
+  "https://images.blocketcdn.se/dynamic/default/item/25505047/e6bae27b-6e4e-4475-b4af-57a87258ec27",
+  "https://images.blocketcdn.se/dynamic/default/item/25505047/993ff382-baa8-4f0b-aa7e-dbbdf91a8a20"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.78,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +79,13 @@
   "text_sha": "8f61b4c0f02b1853"
  },
  "location": "Hällefors",
- "lon": 14.53532,
+ "lon": 14.54,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 316,
   "fetched_ts": 1790507929564,
@@ -102,7 +113,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25505047",
  "width_cm": 160,
  "year": 1970

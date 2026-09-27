@@ -1,0 +1,110 @@
+{
+ "ad_id": 25330122,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785675445000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ockelbo t16 skrov",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25330122/cdee8a50-5e2d-410a-a463-28e17a2faaa4",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25330122/cdee8a50-5e2d-410a-a463-28e17a2faaa4",
+  "https://images.blocketcdn.se/dynamic/default/item/25330122/28108741-4b78-4679-986b-880505174879",
+  "https://images.blocketcdn.se/dynamic/default/item/25330122/21de23f3-be83-4771-a9e4-c0814d5db1c0",
+  "https://images.blocketcdn.se/dynamic/default/item/25330122/96cd2c8d-c15e-4490-aacf-88080984d1d0",
+  "https://images.blocketcdn.se/dynamic/default/item/25330122/f748003c-9a49-471b-8c59-6699844dfbea",
+  "https://images.blocketcdn.se/dynamic/default/item/25330122/87440559-feb7-4eea-8e35-3b9f47a35aa4",
+  "https://images.blocketcdn.se/dynamic/default/item/25330122/98efb0e4-a793-4039-a98b-c5cb47786062",
+  "https://images.blocketcdn.se/dynamic/default/item/25330122/c713539c-6d90-4b36-bc8a-75ef76da4417",
+  "https://images.blocketcdn.se/dynamic/default/item/25330122/ac2a8dc0-6701-42ed-b2cd-b503e8e47845",
+  "https://images.blocketcdn.se/dynamic/default/item/25330122/db5a9c42-8c02-42e0-a9b6-ae264262ae09",
+  "https://images.blocketcdn.se/dynamic/default/item/25330122/a9acbbc5-d33a-4d75-98e0-fb52bb3a2054"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.43,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f9f2e4b77f4f6bea"
+ },
+ "location": "Vaxholm",
+ "lon": 18.35,
+ "make": "Ockelbo",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 87,
+  "fetched_ts": 1790520679737,
+  "text_sha": "f9f2e4b77f4f6bea"
+ },
+ "price": 0,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 0
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Blå",
+  "Längd i fot": "16 fot",
+  "Modellår": "1980",
+  "Märke": "Ockelbo",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25330122",
+ "width_cm": 0,
+ "year": 1980
+}

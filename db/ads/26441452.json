@@ -1,0 +1,119 @@
+{
+ "ad_id": 26441452,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788938987000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1972,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1972,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Jag säljer den billig eller bytes mot mindre båtkärra mindre båtmotor eller något annat kul Ps kapell har tagit skada p…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Jag säljer den billig eller bytes mot mindre båtkärra mindre båtmotor eller något annat kul Ps kapell har tagit skada p…",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Monark. Med Volvo B18 motor",
+ "image": null,
+ "image_urls": [],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 62.94,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1972,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b490689d984ae6ff"
+ },
+ "location": "Fåker",
+ "lon": 14.66,
+ "make": "Monark",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 331,
+  "fetched_ts": 1790520971666,
+  "text_sha": "b490689d984ae6ff"
+ },
+ "price": 11000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 11000
+  }
+ ],
+ "specs": {
+  "Bredd": "270 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit. Blå",
+  "Längd i fot": "18 fot",
+  "Modellår": "1972",
+  "Motortillverkare": "Volvo",
+  "Motortyp": "Utombordare",
+  "Märke": "Monark",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26441452",
+ "width_cm": 270,
+ "year": 1972
+}

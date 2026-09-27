@@ -7,6 +7,8 @@
   "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 9.9,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 425 med Mercury 9,9",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25506441/d49a93ab-779d-42b7-bf07-2b0e5c7b2c4e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.29013,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25506441/d49a93ab-779d-42b7-bf07-2b0e5c7b2c4e",
+  "https://images.blocketcdn.se/dynamic/default/item/25506441/2a3bd328-efc1-4239-9a53-0a285b439662"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.29,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +66,13 @@
   "text_sha": "d9299d8083f6ce77"
  },
  "location": "Ingarö",
- "lon": 18.45209,
+ "lon": 18.45,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 9.899999618530273,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 152,
   "fetched_ts": 1790507933773,
@@ -92,7 +99,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25506441",
  "width_cm": 0,
  "year": 2010

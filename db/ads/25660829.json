@@ -7,6 +7,8 @@
   "boat_year": 2003,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "electric",
@@ -39,8 +41,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Yamarin 4210 S Elstart",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25660829/7e7e7aa5-1a65-4ab5-a3aa-ad782d8ea841",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.75048,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25660829/7e7e7aa5-1a65-4ab5-a3aa-ad782d8ea841",
+  "https://images.blocketcdn.se/dynamic/default/item/25660829/5a0036f0-f1b4-40a4-b525-035e86f5bdbf",
+  "https://images.blocketcdn.se/dynamic/default/item/25660829/29ad7719-dffc-4fb2-ba78-515f2dc7f233",
+  "https://images.blocketcdn.se/dynamic/default/item/25660829/61225a66-4879-4966-b7f7-0e5774777fcd",
+  "https://images.blocketcdn.se/dynamic/default/item/25660829/3898e457-ce5b-41ea-ab4e-ad488507c822",
+  "https://images.blocketcdn.se/dynamic/default/item/25660829/8d8843f4-83bc-49cf-b327-48988096eaf8",
+  "https://images.blocketcdn.se/dynamic/default/item/25660829/183c8684-f255-4191-96ce-da44a8fce420",
+  "https://images.blocketcdn.se/dynamic/default/item/25660829/9f4bd73a-32f9-477f-bd6a-f4ea9100f826",
+  "https://images.blocketcdn.se/dynamic/default/item/25660829/ba350b21-067b-49f9-b8f1-66936aeefaf4",
+  "https://images.blocketcdn.se/dynamic/default/item/25660829/3af895b4-af43-49f5-a33e-80d49f4edce5",
+  "https://images.blocketcdn.se/dynamic/default/item/25660829/6b6fd0e9-5c2d-48a6-9ed7-eefe1e8f63da"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.75,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +86,13 @@
   "text_sha": "edc2ecea82463e2f"
  },
  "location": "Nyköping",
- "lon": 17.04676,
+ "lon": 17.05,
  "make": "Yamarin",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 903,
   "fetched_ts": 1790508076071,
@@ -101,7 +117,7 @@
   "Märke": "Yamarin",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25660829",
  "width_cm": 0,
  "year": 2003

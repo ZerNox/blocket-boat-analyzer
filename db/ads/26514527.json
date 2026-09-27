@@ -1,0 +1,75 @@
+{
+ "ad_id": 26514527,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789167464000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Plym-jolle",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26514527/6ec00513-ed2b-4148-ba1e-ab9197c22dc0",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26514527/6ec00513-ed2b-4148-ba1e-ab9197c22dc0",
+  "https://images.blocketcdn.se/dynamic/default/item/26514527/830a24bf-93c1-41cb-8989-498915dc9a91",
+  "https://images.blocketcdn.se/dynamic/default/item/26514527/3225c0d3-9546-408a-b7eb-2fc71a182114",
+  "https://images.blocketcdn.se/dynamic/default/item/26514527/6b111441-f876-40dc-b6b7-2837aa80fad2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.79,
+ "length_ft": 8,
+ "location": "Uppsala",
+ "lon": 17.64,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 191,
+  "fetched_ts": 1790520989758,
+  "text_sha": "71808fac5fedfbfd"
+ },
+ "price": 17000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 17000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "8 fot",
+  "Modell": "Plym-jolle",
+  "Modellår": "1935",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Trä",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26514527",
+ "width_cm": 0,
+ "year": 1935
+}

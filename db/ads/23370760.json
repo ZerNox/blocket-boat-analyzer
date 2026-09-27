@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": 400,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -28,6 +30,10 @@
     "kmh": 30
    }
   },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Yamarin 56 SC i mkt fint skick.",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -37,10 +43,24 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Yamarin 56"
+ ],
  "heading": "Yamarin 56 SC i mkt fint skick.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23370760/d3b56de1-a990-497e-b8fd-1297c9d45157",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.7047,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23370760/d3b56de1-a990-497e-b8fd-1297c9d45157",
+  "https://images.blocketcdn.se/dynamic/default/item/23370760/b2d39fec-dee4-4337-9c71-290e68d8c06d",
+  "https://images.blocketcdn.se/dynamic/default/item/23370760/69af7951-33b4-484e-8f97-011e5ce611f9",
+  "https://images.blocketcdn.se/dynamic/default/item/23370760/1f9a94a3-bb0c-4f38-9ea5-1dabb60ed8e2",
+  "https://images.blocketcdn.se/dynamic/default/item/23370760/f0dfca12-6a16-4beb-a677-95d7102e7541",
+  "https://images.blocketcdn.se/dynamic/default/item/23370760/7456c3c5-e134-4a7a-8e30-d20f584f8b08",
+  "https://images.blocketcdn.se/dynamic/default/item/23370760/fadef13b-e33f-409a-8794-58cfc1825372",
+  "https://images.blocketcdn.se/dynamic/default/item/23370760/edec65b6-cb09-4577-b54a-a57ce56a0b85",
+  "https://images.blocketcdn.se/dynamic/default/item/23370760/2d29b91b-7017-4a7c-b8b4-7ffd832cbddc"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.7,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -70,7 +90,7 @@
   "text_sha": "cf9e80e9f1897927"
  },
  "location": "Torslanda",
- "lon": 11.74056,
+ "lon": 11.74,
  "make": "Yamarin",
  "max_speed": 24,
  "motor_fuel": "Bensin",

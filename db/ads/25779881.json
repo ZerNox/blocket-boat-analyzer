@@ -1,0 +1,122 @@
+{
+ "ad_id": 25779881,
+ "boat_class": "Annat",
+ "changed_ts": 1788713766000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1997,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1997,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Bromsad trailer från 1998.",
+    "included": true,
+    "year": 1998
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Yamarin 575 ht  Yamaha 100hk fyrtakt",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Yamarin 575"
+ ],
+ "heading": "Yamarin 575 ht  Yamaha 100hk fyrtakt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25779881/039e5324-ac07-44e4-a98a-21dba6c5b852",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25779881/039e5324-ac07-44e4-a98a-21dba6c5b852",
+  "https://images.blocketcdn.se/dynamic/default/item/25779881/b5c41598-791c-4df9-bc9c-751743196c69",
+  "https://images.blocketcdn.se/dynamic/default/item/25779881/34a4dda6-969e-4698-882f-f2ad95350f18",
+  "https://images.blocketcdn.se/dynamic/default/item/25779881/c0a27f0b-dca9-487e-87d0-e1f497441b3d"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.48,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1997,
+   "engine_hours": null,
+   "engine_hp": 100,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "ny motor 2026",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8716522cf3dfb9fc"
+ },
+ "location": "Åkersberga",
+ "lon": 18.28,
+ "make": "Yamarin",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 225,
+  "fetched_ts": 1790523065190,
+  "text_sha": "8716522cf3dfb9fc"
+ },
+ "price": 115000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 115000
+  }
+ ],
+ "specs": {
+  "Bredd": "225 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "575 ht",
+  "Modellår": "1997",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25779881",
+ "width_cm": 225,
+ "year": 1997
+}

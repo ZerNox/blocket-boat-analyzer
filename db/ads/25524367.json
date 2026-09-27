@@ -7,6 +7,8 @@
   "boat_year": 2001,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha 50  4 takt",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Micore 490 GT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25524367/a21058f0-8ebb-4629-bf69-857593272d44",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.64444,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25524367/a21058f0-8ebb-4629-bf69-857593272d44",
+  "https://images.blocketcdn.se/dynamic/default/item/25524367/a4375f4b-8232-4b02-9b27-d9c2d85b413a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.64,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +72,13 @@
   "text_sha": "6e12524b9399e043"
  },
  "location": "Västra Frölunda",
- "lon": 11.90148,
+ "lon": 11.9,
  "make": "Micore",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 461,
   "fetched_ts": 1790507960744,
@@ -96,7 +103,7 @@
   "Märke": "Micore",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25524367",
  "width_cm": 0,
  "year": 2001

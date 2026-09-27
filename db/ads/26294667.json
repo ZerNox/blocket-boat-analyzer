@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 4.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -37,8 +39,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båtrensning - Höstrea",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26294667/fe249b6c-a256-4a71-9de6-2c2f6a549e9e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.36853,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26294667/fe249b6c-a256-4a71-9de6-2c2f6a549e9e",
+  "https://images.blocketcdn.se/dynamic/default/item/26294667/57eb75b6-c6dd-4332-baa0-ecb033141e32",
+  "https://images.blocketcdn.se/dynamic/default/item/26294667/bc444aa1-a8c9-4eca-88c7-902a0546800c",
+  "https://images.blocketcdn.se/dynamic/default/item/26294667/33bfaac4-916e-4688-ae66-80419133cbda",
+  "https://images.blocketcdn.se/dynamic/default/item/26294667/32a1e39c-5af2-4e1c-8034-7369f608e956",
+  "https://images.blocketcdn.se/dynamic/default/item/26294667/48c222e7-2397-47f2-aac3-91f24387bbc0",
+  "https://images.blocketcdn.se/dynamic/default/item/26294667/5266a813-c9e7-4151-bb61-a29c304e4370",
+  "https://images.blocketcdn.se/dynamic/default/item/26294667/c980ac47-7f5b-4a05-8e4a-417cc324c334",
+  "https://images.blocketcdn.se/dynamic/default/item/26294667/318274a4-b329-405a-af8d-4f0616700d8f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.37,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +82,13 @@
   "text_sha": "5a87226e89e41bfb"
  },
  "location": "Brastad",
- "lon": 11.46559,
+ "lon": 11.47,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1489,
   "fetched_ts": 1790508579316,
@@ -103,7 +117,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26294667",
  "width_cm": 160,
  "year": 1883

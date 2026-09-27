@@ -7,6 +7,8 @@
   "boat_year": 1989,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -31,6 +33,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 535 HT - Höstfynd - Sänkt pris !!",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -40,10 +46,30 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Flipper 535"
+ ],
  "heading": "Flipper 535 HT - Höstfynd - Sänkt pris !!",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25548632/585cc414-e673-4465-8f3b-0f53c7286221",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.18446,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25548632/585cc414-e673-4465-8f3b-0f53c7286221",
+  "https://images.blocketcdn.se/dynamic/default/item/25548632/1ca21fbf-2637-4e6e-987c-2188ae86373e",
+  "https://images.blocketcdn.se/dynamic/default/item/25548632/f6c7556d-bad3-41fe-9c41-fbfca11e09e4",
+  "https://images.blocketcdn.se/dynamic/default/item/25548632/a3f452bd-575d-44cf-ad81-2b3e343f16af",
+  "https://images.blocketcdn.se/dynamic/default/item/25548632/461083b8-3edf-451f-a25b-a022a7968886",
+  "https://images.blocketcdn.se/dynamic/default/item/25548632/52efd517-c51e-4b6d-8972-d995e9d3b2a4",
+  "https://images.blocketcdn.se/dynamic/default/item/25548632/211bb3f2-14cb-40c6-a77a-64062520e324",
+  "https://images.blocketcdn.se/dynamic/default/item/25548632/10c20f84-ac3a-4e22-a451-db02aa627efa",
+  "https://images.blocketcdn.se/dynamic/default/item/25548632/925fde67-8074-4035-9282-e8d562867307",
+  "https://images.blocketcdn.se/dynamic/default/item/25548632/3f8ff407-6f71-4925-b8b0-b34d3747f17a",
+  "https://images.blocketcdn.se/dynamic/default/item/25548632/3ee306ce-f9f8-4e87-b0f3-60726488fafc",
+  "https://images.blocketcdn.se/dynamic/default/item/25548632/a6636d3d-6717-4bfa-914d-4296d37739b8",
+  "https://images.blocketcdn.se/dynamic/default/item/25548632/7b228901-81ac-4673-8df4-b565ef616064",
+  "https://images.blocketcdn.se/dynamic/default/item/25548632/f0a8ebab-f7c8-4bd1-89be-575da844d574",
+  "https://images.blocketcdn.se/dynamic/default/item/25548632/5a3e82a0-a5f0-4326-bab3-d229e8a826b3"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.18,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -74,7 +100,7 @@
   "text_sha": "ac3567677957fe61"
  },
  "location": "Grisslehamn",
- "lon": 18.78015,
+ "lon": 18.78,
  "make": "Flipper",
  "max_speed": 33,
  "motor_fuel": "Bensin",

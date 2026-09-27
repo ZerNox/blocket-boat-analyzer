@@ -7,6 +7,8 @@
   "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude E-Tec",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -23,6 +25,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Sandström 560MC m 60 Hk - Höstpris",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "engine type unknown"
   ],
@@ -32,10 +38,26 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Sandström 560MC m 60 Hk - Höstpris",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26630043/96fc81e6-e1f8-415a-8b60-321d3d20e095",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.83885,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26630043/96fc81e6-e1f8-415a-8b60-321d3d20e095",
+  "https://images.blocketcdn.se/dynamic/default/item/26630043/c65ac1dd-4661-4bf8-a8ef-0cc26898947e",
+  "https://images.blocketcdn.se/dynamic/default/item/26630043/221b47fe-e27f-4dc4-9798-a79b5d3937b8",
+  "https://images.blocketcdn.se/dynamic/default/item/26630043/74f33a74-0a23-42f4-b1dd-d5661d7155e2",
+  "https://images.blocketcdn.se/dynamic/default/item/26630043/01b4fb2f-19f8-44b2-b947-b81baa1990d0",
+  "https://images.blocketcdn.se/dynamic/default/item/26630043/6e056bad-9197-4093-bb09-bdd3546a825f",
+  "https://images.blocketcdn.se/dynamic/default/item/26630043/fea8d271-5a1b-4c35-853e-922a776efbb2",
+  "https://images.blocketcdn.se/dynamic/default/item/26630043/ffec0c90-7ebc-4f3f-9508-7527af275975",
+  "https://images.blocketcdn.se/dynamic/default/item/26630043/b42941b8-3634-463a-ab07-0345052883c3",
+  "https://images.blocketcdn.se/dynamic/default/item/26630043/65187831-078c-4b5f-b81c-03324a2c2f86",
+  "https://images.blocketcdn.se/dynamic/default/item/26630043/2bfe64d9-857d-4f18-b513-4e4e24fdbc4e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.84,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -66,7 +88,7 @@
   "text_sha": "ac947d434a69e359"
  },
  "location": "Norrtälje",
- "lon": 18.81863,
+ "lon": 18.82,
  "make": "Sandström",
  "max_speed": 30,
  "motor_fuel": "Bensin",

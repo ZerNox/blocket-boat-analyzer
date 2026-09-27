@@ -1,0 +1,76 @@
+{
+ "ad_id": 26856594,
+ "boat_class": "Annat",
+ "changed_ts": 1790267133000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Segelbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26856594/a81b3ffe-163d-4adb-bcff-4684c7edcba8",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26856594/a81b3ffe-163d-4adb-bcff-4684c7edcba8",
+  "https://images.blocketcdn.se/dynamic/default/item/26856594/fdfc9bd2-ae45-481e-b754-a3d97e0024b6",
+  "https://images.blocketcdn.se/dynamic/default/item/26856594/f9937441-a3cb-46b4-b568-4b005b2f3fdb",
+  "https://images.blocketcdn.se/dynamic/default/item/26856594/f1962cab-e55d-41a3-b644-03dea1a6fb1d",
+  "https://images.blocketcdn.se/dynamic/default/item/26856594/710d46b2-23fe-4fbf-8342-33c6aceb6d5f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.18,
+ "length_ft": 45,
+ "location": "Skogås",
+ "lon": 18.09,
+ "make": "59º North",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790521069274,
+  "text_sha": "88ffcdca43eea960"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "45 fot",
+  "Modellår": "1980",
+  "Märke": "59º North",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26856594",
+ "width_cm": 0,
+ "year": 1980
+}

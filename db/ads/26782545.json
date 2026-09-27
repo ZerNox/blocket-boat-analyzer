@@ -1,0 +1,89 @@
+{
+ "ad_id": 26782545,
+ "boat_class": "Annat",
+ "changed_ts": 1790010305000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1956,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1956,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Skrovet å friborden är nåtlimmat.Nytt tredelat kapel/ hamnkapell, nya sittdynor röda ingår.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtkärra ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Forslundare",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26782545/c3e54c26-ffe6-454a-9cc3-93f70e973285",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26782545/c3e54c26-ffe6-454a-9cc3-93f70e973285",
+  "https://images.blocketcdn.se/dynamic/default/item/26782545/1c0e0acd-75f3-48e3-8d0a-66b06a892fed",
+  "https://images.blocketcdn.se/dynamic/default/item/26782545/5bcd524e-5bbf-4921-a21c-cb18413c6640",
+  "https://images.blocketcdn.se/dynamic/default/item/26782545/53740680-3303-4cc2-a5d3-7cfb34c4df8f",
+  "https://images.blocketcdn.se/dynamic/default/item/26782545/00567299-ee64-4df7-98e3-e53101bff2e6",
+  "https://images.blocketcdn.se/dynamic/default/item/26782545/8c3a0c3c-c9c3-4474-ac64-46dc1042c1b5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.42,
+ "length_ft": null,
+ "location": "Torshälla",
+ "lon": 16.49,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1522,
+  "fetched_ts": 1790521057824,
+  "text_sha": "8a66af9183018bd1"
+ },
+ "price": 160000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 160000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Modell": "Forslundare",
+  "Modellår": "1956",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26782545",
+ "width_cm": 0,
+ "year": 1956
+}

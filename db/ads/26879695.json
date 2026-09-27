@@ -1,0 +1,105 @@
+{
+ "ad_id": 26879695,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1790350023000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mercury 90hk 2-takt, 2003",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell med ståhöjd, sömmar och rutor byttes för 3 år sedan.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Enklare radio med högtalare",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Finns en båtvagn från Fogelsta med helt nya hjul",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "k 2-takt, 2003\nTrimplan\n4 sovplatser +1barn\nDubbla batterier\nPortapotti\nEnklare radio med högtalare\nOmkläd",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Finnsport 650 AC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26879695/60ceb87a-6567-4a1e-8fed-624d6ad53d85",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26879695/60ceb87a-6567-4a1e-8fed-624d6ad53d85",
+  "https://images.blocketcdn.se/dynamic/default/item/26879695/bbdf373a-8c73-4928-a974-7c1b5e5b37e3",
+  "https://images.blocketcdn.se/dynamic/default/item/26879695/29a66c95-e057-4302-96bc-2bfbf4d4f66c",
+  "https://images.blocketcdn.se/dynamic/default/item/26879695/4dbc8226-0d04-4bbb-80b1-cb7a179e9abb",
+  "https://images.blocketcdn.se/dynamic/default/item/26879695/3c27083e-8b38-46a6-a451-b5695a7bd2b9"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.27,
+ "length_ft": 21,
+ "location": "Fridlevstad",
+ "lon": 15.54,
+ "make": "Finnsport",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 733,
+  "fetched_ts": 1790523230500,
+  "text_sha": "83077e8da5fc6e03"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Bredd": "248 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Beige",
+  "Längd i fot": "21 fot",
+  "Modell": "650 AC",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnsport",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "5",
+  "Typ": "Kabinbåt",
+  "Vikt": "950 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26879695",
+ "width_cm": 248,
+ "year": 1990
+}

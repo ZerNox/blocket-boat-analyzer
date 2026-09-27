@@ -1,0 +1,79 @@
+{
+ "ad_id": 26575138,
+ "boat_class": "Annat",
+ "changed_ts": 1789337594000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": "från välkända Fornbo. Finns i Drevviken. Minn Kota Elmotor kan medfölja. Hör av er för beskrivning",
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2008,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Minn Kota Elmotor kan medfölja.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Fornbo 95",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26575138/9a63b2d3-7b6d-4705-9e50-933f9ea8e807",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26575138/9a63b2d3-7b6d-4705-9e50-933f9ea8e807",
+  "https://images.blocketcdn.se/dynamic/default/item/26575138/dc4acef3-9074-4cb6-a4e9-21a5d53e9014"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.22,
+ "length_ft": 16,
+ "location": "Tyresö",
+ "lon": 18.2,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 107,
+  "fetched_ts": 1790521012750,
+  "text_sha": "d3e8d6b77679313f"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Bredd": "260 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modell": "Fornbo 95",
+  "Modellår": "2008",
+  "Märke": "Övriga",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26575138",
+ "width_cm": 260,
+ "year": 2008
+}

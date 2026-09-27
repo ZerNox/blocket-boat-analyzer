@@ -7,6 +7,8 @@
   "boat_year": 2024,
   "boat_year_source": "spec",
   "engine_hours": 130,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -40,16 +42,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Micore 51 CC R-design & Yamaha 60 hk -2024 inkl båtvagn",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22398227/ac2eb812-44ac-43d7-92e0-2adc30a66ce2",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.91662,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22398227/ac2eb812-44ac-43d7-92e0-2adc30a66ce2",
+  "https://images.blocketcdn.se/dynamic/default/item/22398227/ba6312f6-b947-4ecd-ba02-26a8d33a2394",
+  "https://images.blocketcdn.se/dynamic/default/item/22398227/e8e97c34-4070-4a18-80f5-8c83bc666a2d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.92,
  "length_ft": 16,
  "location": "Alingsås",
- "lon": 12.5103,
+ "lon": 12.51,
  "make": "Micore",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 539,
   "fetched_ts": 1790507452492,
@@ -77,7 +85,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/22398227",
  "width_cm": 0,
  "year": 2024

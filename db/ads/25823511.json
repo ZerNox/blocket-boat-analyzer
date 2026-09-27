@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -28,6 +30,10 @@
     "kmh": 30
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -39,10 +45,21 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Ryds Camping säljes!",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25823511/3782d62f-0d29-486b-a321-f924e9a4f35c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.2613,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25823511/3782d62f-0d29-486b-a321-f924e9a4f35c",
+  "https://images.blocketcdn.se/dynamic/default/item/25823511/52df2aaa-ef85-4275-bf58-b010f7167a5a",
+  "https://images.blocketcdn.se/dynamic/default/item/25823511/d2557ec9-efd3-4334-aada-55b296fb1216",
+  "https://images.blocketcdn.se/dynamic/default/item/25823511/9b99b5c2-818a-44f5-8c36-02636c27fad2",
+  "https://images.blocketcdn.se/dynamic/default/item/25823511/412c6aa3-4a20-4b0e-9346-ca944a9181d4",
+  "https://images.blocketcdn.se/dynamic/default/item/25823511/57b81941-24d5-4547-9f6d-2abc9cc43d1c"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.26,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -72,7 +89,7 @@
   "text_sha": "90f73b949d477704"
  },
  "location": "Norsborg",
- "lon": 17.8551,
+ "lon": 17.86,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",

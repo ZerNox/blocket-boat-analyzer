@@ -1,0 +1,117 @@
+{
+ "ad_id": 26374277,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788984476000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo penta v6",
+  "engine_stroke": 2,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ancas Queen, Hytt båt. Kan bytas mot bil\nGår fint i motor, har gjort full service på den.\nPri",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ancas Queen, Hytt båt. Kan bytas mot bil",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26374277/a3d65dfd-0b6c-4814-85bd-4c57ceca4997",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26374277/a3d65dfd-0b6c-4814-85bd-4c57ceca4997",
+  "https://images.blocketcdn.se/dynamic/default/item/26374277/68e8526a-eccf-4926-908b-45fa0ff59da2",
+  "https://images.blocketcdn.se/dynamic/default/item/26374277/e7e84acc-16cd-42d4-baba-b87daad78974",
+  "https://images.blocketcdn.se/dynamic/default/item/26374277/27b29485-db2b-40c3-aaa5-a083791b84a5",
+  "https://images.blocketcdn.se/dynamic/default/item/26374277/c9a7ba15-5768-47b0-adac-f02b50a6069a",
+  "https://images.blocketcdn.se/dynamic/default/item/26374277/7d346234-993a-415a-b275-d3797e407e6e",
+  "https://images.blocketcdn.se/dynamic/default/item/26374277/533906e3-b444-412c-96b8-ff439daeae7c",
+  "https://images.blocketcdn.se/dynamic/default/item/26374277/aaa1d5b5-0cce-4048-ab8d-120ae38396ad",
+  "https://images.blocketcdn.se/dynamic/default/item/26374277/6b51044e-60de-4c07-848b-a581bf89fda3",
+  "https://images.blocketcdn.se/dynamic/default/item/26374277/19ecf010-a55f-4751-9819-d129b79bbe3c"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.41,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo penta v6",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7a14cd47fbc5d7b9"
+ },
+ "location": "Vaxholm",
+ "lon": 18.33,
+ "make": "Ancas Queen",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 106,
+  "fetched_ts": 1790520953536,
+  "text_sha": "7a14cd47fbc5d7b9"
+ },
+ "price": 52300,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 52300
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "21 fot",
+  "Modellår": "1985",
+  "Motortillverkare": "Volvo penta v6",
+  "Motortyp": "Inombordare",
+  "Märke": "Ancas Queen",
+  "Sovplatser": "1",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26374277",
+ "width_cm": 0,
+ "year": 1985
+}

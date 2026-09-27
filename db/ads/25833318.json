@@ -7,6 +7,8 @@
   "boat_year": 2012,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Yamarin 42 SC",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25833318/372733f4-0d91-46a9-a940-fe3212d5b44a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 64.90541,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25833318/372733f4-0d91-46a9-a940-fe3212d5b44a",
+  "https://images.blocketcdn.se/dynamic/default/item/25833318/71a0eccf-17e9-44d0-baff-64f6c97d4ae8",
+  "https://images.blocketcdn.se/dynamic/default/item/25833318/ca268dc3-f41b-4b98-b546-c52e43c3b958",
+  "https://images.blocketcdn.se/dynamic/default/item/25833318/b48bc120-c695-4448-bd37-e571a6d00c73",
+  "https://images.blocketcdn.se/dynamic/default/item/25833318/0d4fc34a-42d1-491a-87af-0697ab6303e5",
+  "https://images.blocketcdn.se/dynamic/default/item/25833318/e209b45a-6d87-4f4b-b637-01a4e2da50cb",
+  "https://images.blocketcdn.se/dynamic/default/item/25833318/1dd25121-d775-4793-a459-6140c7964713"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 64.91,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +76,13 @@
   "text_sha": "da474369c2ae68b1"
  },
  "location": "Norsjö",
- "lon": 19.49841,
+ "lon": 19.5,
  "make": "Yamarin",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 165,
   "fetched_ts": 1790508238341,
@@ -98,7 +110,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25833318",
  "width_cm": 0,
  "year": 2012

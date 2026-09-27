@@ -1,0 +1,137 @@
+{
+ "ad_id": 25511443,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786183440000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1997,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1997,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "2025 installerades hydraulstyrning i båten.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "2st kapell följer med, ett hamnkapell och ett vanligt kapell. (enl. bild) samt en 30km/h trailer.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Utrustad med 12V ladduttag, Löstagbar Kartplotter, Ankare, Fendrar, Paddel, Båtshake, Badstege, Brandsläckare, Förtöjni…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "2st kapell följer med, ett hamnkapell och ett vanligt kapell. (enl. bild) samt en 30km/h trailer.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Askeladden 515 Freestyle\nDaycruiser i väldigt bra skick med en Mercury 90hk motor.\nEn lagom liten och nät",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Askeladden 515 Freestyle",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25511443/cce8d2b3-9e17-4596-a5b1-409af5ac4cb5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25511443/cce8d2b3-9e17-4596-a5b1-409af5ac4cb5",
+  "https://images.blocketcdn.se/dynamic/default/item/25511443/5ee6e9ee-f76e-4bf4-9942-88f6b3000eed",
+  "https://images.blocketcdn.se/dynamic/default/item/25511443/e3c21e81-ed69-464a-947f-e5572a033dda",
+  "https://images.blocketcdn.se/dynamic/default/item/25511443/1ade9adb-4284-430b-a899-35647b278620",
+  "https://images.blocketcdn.se/dynamic/default/item/25511443/a7393b36-fc79-4ed2-bb18-9323d8cd95cb",
+  "https://images.blocketcdn.se/dynamic/default/item/25511443/dab27971-53ea-4332-babf-079f59afb265",
+  "https://images.blocketcdn.se/dynamic/default/item/25511443/6d7ac6dc-4ef2-4728-8410-4136bfb00ca8"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 65.94,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1997,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "2025 installerades hydraulstyrning i båten.",
+   "engine_year_rejected": 2025,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1620101a39d9f9ed"
+ },
+ "location": "Haparanda",
+ "lon": 23.95,
+ "make": "Askeladden",
+ "max_speed": 32,
+ "motor_fuel": null,
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 618,
+  "fetched_ts": 1790523009727,
+  "text_sha": "1620101a39d9f9ed"
+ },
+ "price": 99900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 99900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "Freestyle",
+  "Modellår": "1997",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Askeladden",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "32 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25511443",
+ "width_cm": 0,
+ "year": 1997
+}

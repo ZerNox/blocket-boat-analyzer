@@ -1,0 +1,117 @@
+{
+ "ad_id": 25661522,
+ "boat_class": "Annat",
+ "changed_ts": 1787837578000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "electric",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Elmotor ( Motorguide )",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fräsch 30 kärra",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Crescent 444 Rodd",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25661522/c54e45ca-0607-482d-b56f-2a369b6b11fd",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25661522/c54e45ca-0607-482d-b56f-2a369b6b11fd",
+  "https://images.blocketcdn.se/dynamic/default/item/25661522/ea9ce284-782a-4716-be59-493198633f2a",
+  "https://images.blocketcdn.se/dynamic/default/item/25661522/5e671518-b50d-4b55-9480-9e4a6a3059f4",
+  "https://images.blocketcdn.se/dynamic/default/item/25661522/fd0d96db-4c59-4a6f-be92-75f22cdc84ea",
+  "https://images.blocketcdn.se/dynamic/default/item/25661522/61d9aa3b-ac07-4467-bf15-6c082b39fed7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.25,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Motorguide",
+   "engine_type": "electric",
+   "engine_year": null,
+   "engine_year_evidence": "Elmotor ( Motorguide )",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ecf3215ee8fdcef4"
+ },
+ "location": "Degerfors",
+ "lon": 14.45,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Annat",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 68,
+  "fetched_ts": 1790520748571,
+  "text_sha": "ecf3215ee8fdcef4"
+ },
+ "price": 13000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 13000
+  }
+ ],
+ "specs": {
+  "Bredd": "137 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "Crescent 444 Rodd",
+  "Modellår": "1990",
+  "Motortyp": "Annat",
+  "Märke": "Crescent",
+  "Typ": "Annat",
+  "Vikt": "65 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25661522",
+ "width_cm": 137,
+ "year": 1990
+}

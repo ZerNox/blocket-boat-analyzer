@@ -7,6 +7,8 @@
   "boat_year": 2019,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "V-Boat fish 46 Höstpris",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25987925/b65339eb-4555-4f37-aedc-71c7fe7f0b98",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.4999,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25987925/b65339eb-4555-4f37-aedc-71c7fe7f0b98",
+  "https://images.blocketcdn.se/dynamic/default/item/25987925/47b73db9-7e38-4098-a309-968316186c47",
+  "https://images.blocketcdn.se/dynamic/default/item/25987925/2390d554-0548-4c37-8d22-5ae094b0dec4",
+  "https://images.blocketcdn.se/dynamic/default/item/25987925/3d9ed9a1-9496-4c62-ad43-343e7f430c9d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.5,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "403b1fbbe863af57"
  },
  "location": "Bro",
- "lon": 17.61847,
+ "lon": 17.62,
  "make": "V-Boats",
  "max_speed": 32,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508362365,
@@ -96,7 +105,7 @@
   "Toppfart": "32 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25987925",
  "width_cm": 198,
  "year": 2019

@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26715129/326bffd6-8cc1-4e05-a66d-cfda3361ceb0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.08396,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26715129/326bffd6-8cc1-4e05-a66d-cfda3361ceb0",
+  "https://images.blocketcdn.se/dynamic/default/item/26715129/217af455-0bdd-42d2-bb66-e4d8a2a50660",
+  "https://images.blocketcdn.se/dynamic/default/item/26715129/bd820ea6-83d1-499c-b5f9-6245a49c9a7a",
+  "https://images.blocketcdn.se/dynamic/default/item/26715129/292f24ca-53ca-45d7-ab16-f7e04af8a966",
+  "https://images.blocketcdn.se/dynamic/default/item/26715129/3a363e6e-fafd-4fb0-a923-06a99b384705"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.08,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "83e8684cde94e680"
  },
  "location": "Krylbo",
- "lon": 16.26319,
+ "lon": 16.26,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 66,
   "fetched_ts": 1790508885819,
@@ -94,7 +104,7 @@
   "Märke": "Crescent",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26715129",
  "width_cm": 200,
  "year": 1995

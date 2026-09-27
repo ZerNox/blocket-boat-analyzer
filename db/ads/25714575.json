@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder Arkip 460 Honda 50hp bromsad trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25714575/ca623dfd-446b-449d-8997-9302cb18d1d8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.52841,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25714575/ca623dfd-446b-449d-8997-9302cb18d1d8",
+  "https://images.blocketcdn.se/dynamic/default/item/25714575/60713f40-175e-433d-9275-0b3fdd44e2ec",
+  "https://images.blocketcdn.se/dynamic/default/item/25714575/ba2dd868-c9f6-4022-97e9-12d80bea4d62",
+  "https://images.blocketcdn.se/dynamic/default/item/25714575/540230ba-b2c3-4404-82db-4ae83258f6e5",
+  "https://images.blocketcdn.se/dynamic/default/item/25714575/9895a5b1-866d-4dac-aea2-efb319624855",
+  "https://images.blocketcdn.se/dynamic/default/item/25714575/ab8806e9-d013-4de5-bc23-ac20d9a4c7d7",
+  "https://images.blocketcdn.se/dynamic/default/item/25714575/78832ea6-38b3-40e0-a4b9-3f2bdf790b5d",
+  "https://images.blocketcdn.se/dynamic/default/item/25714575/a5ce333c-496d-4be4-8bbe-53a95f299429",
+  "https://images.blocketcdn.se/dynamic/default/item/25714575/2a7b18ad-35ee-4da3-a270-cb84d396078c",
+  "https://images.blocketcdn.se/dynamic/default/item/25714575/f25c8be7-b9a6-4a0c-9c55-800412ff0dd8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.53,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +83,13 @@
   "text_sha": "e7bb548c8e791bb7"
  },
  "location": "Storfors",
- "lon": 14.25688,
+ "lon": 14.26,
  "make": "Linder",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 140,
   "fetched_ts": 1790508117897,
@@ -102,7 +117,7 @@
   "Toppfart": "30 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25714575",
  "width_cm": 0,
  "year": 2006

@@ -1,0 +1,87 @@
+{
+ "ad_id": 26407836,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788808369000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1996,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår ej!",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Buster XL 1996 Utan Motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26407836/093daf0e-95eb-418b-92cb-e7704d341141",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26407836/093daf0e-95eb-418b-92cb-e7704d341141",
+  "https://images.blocketcdn.se/dynamic/default/item/26407836/333298af-548d-4fde-87f7-d236c0f06e9a",
+  "https://images.blocketcdn.se/dynamic/default/item/26407836/f53aac25-3e64-4c46-a628-df54c325e844",
+  "https://images.blocketcdn.se/dynamic/default/item/26407836/beac5a72-3add-4663-baca-f9fdaafd5022",
+  "https://images.blocketcdn.se/dynamic/default/item/26407836/04f23208-7c53-40ab-bde0-fc7558ba4069"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.28,
+ "length_ft": 17,
+ "location": "Saltsjöbaden",
+ "lon": 18.31,
+ "make": "Buster",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 253,
+  "fetched_ts": 1790520961935,
+  "text_sha": "6ac52451accd1242"
+ },
+ "price": 50000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 50000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Färg": "Grå/blå",
+  "Längd i fot": "17 fot",
+  "Modell": "XL",
+  "Modellår": "1996",
+  "Motor inkluderad": "Nej",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "500 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26407836",
+ "width_cm": 205,
+ "year": 1996
+}

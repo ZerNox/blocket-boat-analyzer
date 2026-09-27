@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Eka - Mercury 6hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25772775/7880a25c-11b5-4107-bfc0-7528577faa83",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.02225,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25772775/7880a25c-11b5-4107-bfc0-7528577faa83",
+  "https://images.blocketcdn.se/dynamic/default/item/25772775/e7826a7b-ae4a-4d43-9b1a-4179d70a4dbe",
+  "https://images.blocketcdn.se/dynamic/default/item/25772775/8b2de144-ecc7-4bb9-a468-a0668cd701ac",
+  "https://images.blocketcdn.se/dynamic/default/item/25772775/cf355689-2d18-4aac-85da-f4cd2610e774",
+  "https://images.blocketcdn.se/dynamic/default/item/25772775/ec0a9d08-1014-488d-842c-e68c6943905d",
+  "https://images.blocketcdn.se/dynamic/default/item/25772775/e776f551-56d7-4fe6-8096-f2d2851b328e",
+  "https://images.blocketcdn.se/dynamic/default/item/25772775/fa73c2bb-f078-470b-8c0b-0e238b049b04",
+  "https://images.blocketcdn.se/dynamic/default/item/25772775/43adb00a-4cda-434f-8437-d07ca7e617b0",
+  "https://images.blocketcdn.se/dynamic/default/item/25772775/b883071f-81ae-43ff-aa15-00c80d61fa05",
+  "https://images.blocketcdn.se/dynamic/default/item/25772775/3106e220-f992-4e33-88cb-f7827c19d5ba",
+  "https://images.blocketcdn.se/dynamic/default/item/25772775/708d19e4-6d9f-4f24-aa0f-ec0c5575a509",
+  "https://images.blocketcdn.se/dynamic/default/item/25772775/d73492bc-3133-4966-9dcc-f14ec0802096"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.02,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +76,13 @@
   "text_sha": "dc4b73f62b7ba99d"
  },
  "location": "Hölö",
- "lon": 17.54277,
+ "lon": 17.54,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 6.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 823,
   "fetched_ts": 1790508174890,
@@ -92,7 +109,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25772775",
  "width_cm": 150,
  "year": 1990

@@ -7,6 +7,8 @@
   "boat_year": 2023,
   "boat_year_source": "spec",
   "engine_hours": 15,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury f60 ELPT EFI",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -24,6 +26,10 @@
     "kmh": 80
    }
   },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Gulf of Bothnia\nSandström styrpulpetöverdrag\nBåttrailer Fogelsta 80 km (ny besiktad)",
+  "hull_source": "rule:text",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -33,10 +39,27 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Sandström 565"
+ ],
  "heading": "Sandström 565 classic",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25973381/08c5ab49-aa07-48f1-862e-eb3fd8b649f0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 64.78679,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25973381/08c5ab49-aa07-48f1-862e-eb3fd8b649f0",
+  "https://images.blocketcdn.se/dynamic/default/item/25973381/7f4547f2-a8e7-4ddb-861a-ffc21f859975",
+  "https://images.blocketcdn.se/dynamic/default/item/25973381/9460f92a-4c9e-4773-b3fd-fb6c02166cf8",
+  "https://images.blocketcdn.se/dynamic/default/item/25973381/66ef5c64-1b65-4af9-9751-bdb47f5dfccc",
+  "https://images.blocketcdn.se/dynamic/default/item/25973381/d5a70663-040f-44b0-8676-e5bf1f3de703",
+  "https://images.blocketcdn.se/dynamic/default/item/25973381/27a0b003-dddd-47c6-b76b-7dc3a2e00cba",
+  "https://images.blocketcdn.se/dynamic/default/item/25973381/d2ed336d-3e21-4a1d-890a-a93e23b1b5ac",
+  "https://images.blocketcdn.se/dynamic/default/item/25973381/dee02a97-99f5-47c7-8852-1cfee8a5a20e",
+  "https://images.blocketcdn.se/dynamic/default/item/25973381/d96b3993-7585-4bd2-9f5f-2aa1c5d3f14e",
+  "https://images.blocketcdn.se/dynamic/default/item/25973381/245e22d5-7c2b-4af8-9460-548ba83ec653",
+  "https://images.blocketcdn.se/dynamic/default/item/25973381/7a30be0c-d304-40ed-a0fc-2e5cbd64b45a",
+  "https://images.blocketcdn.se/dynamic/default/item/25973381/65523b7d-3dd4-4886-ad9c-f1579663fe06"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 64.79,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -66,7 +89,7 @@
   "text_sha": "00fd96a0a5083b2b"
  },
  "location": "Skellefteå",
- "lon": 21.0674,
+ "lon": 21.07,
  "make": "Sandström",
  "max_speed": null,
  "motor_fuel": null,

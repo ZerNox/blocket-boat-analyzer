@@ -1,0 +1,87 @@
+{
+ "ad_id": 26436722,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788936113000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude e-tec",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt och motor från 2007",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Raymarin Dragonfly-4 Pro (2016) GPS/sjökortsplotter ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Raymarin Dragonfly-4 Pro (2016) GPS/sjökortsplotter ekolod",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Galia 440 med Evinrude 50hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26436722/dc480455-8ceb-4cc5-8721-2c3083413d0c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26436722/dc480455-8ceb-4cc5-8721-2c3083413d0c",
+  "https://images.blocketcdn.se/dynamic/default/item/26436722/f1640e38-8630-4d87-b0dc-d22d955327f9",
+  "https://images.blocketcdn.se/dynamic/default/item/26436722/3e2ab0fb-eed7-4e1e-9d91-c70c279d7e8e",
+  "https://images.blocketcdn.se/dynamic/default/item/26436722/893fa2ba-650b-42c2-b3a0-bfe803255750",
+  "https://images.blocketcdn.se/dynamic/default/item/26436722/b3553f0a-0d48-4b9a-a071-e5b7c77a7489"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.68,
+ "length_ft": 15,
+ "location": "Halmstad",
+ "lon": 12.84,
+ "make": "Galeon",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 234,
+  "fetched_ts": 1790520968789,
+  "text_sha": "254f20951dc705e8"
+ },
+ "price": 58000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 58000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "Galia",
+  "Modellår": "2007",
+  "Motortillverkare": "Evinrude e-tec",
+  "Motortyp": "Utombordare",
+  "Märke": "Galeon",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26436722",
+ "width_cm": 0,
+ "year": 2007
+}

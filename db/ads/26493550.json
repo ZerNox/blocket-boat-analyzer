@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -27,16 +29,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Finnspeed 435R, Thohatsu 30hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26493550/d620b6cc-63a4-47e3-8188-89c04ee04ac0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.64724,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26493550/d620b6cc-63a4-47e3-8188-89c04ee04ac0",
+  "https://images.blocketcdn.se/dynamic/default/item/26493550/463b3044-c53a-4744-979e-20fcdc0f5f4e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.65,
  "length_ft": 14,
  "location": "Gävle",
- "lon": 17.13959,
+ "lon": 17.14,
  "make": "Finnsport",
  "max_speed": 28,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 204,
   "fetched_ts": 1790508732149,
@@ -67,7 +74,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "170 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26493550",
  "width_cm": 167,
  "year": 1980

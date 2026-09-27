@@ -1,0 +1,101 @@
+{
+ "ad_id": 26935287,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1790516220000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2012,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Livescope LVS34 & Ultra 2 16\"",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Nybesiktigad under våren 2026 helt utan anmärkningar.Elmotor & Kraftfullt Elsystem (Nytt 2026!) Elmotor: Minn Kota Powe…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Självklart utrustad med tillförlitlig GPS-ankring (Spot-Lock).",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Batterier: 2 st kraftfulla 150Ah Litiumbatterier med Bluetooth-övervakning via app (ger extrem drifttid för elmotor och…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer: Tiki 80-kärra (bromsad/registrerad).",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Topputrustad Starweld (2012) – Livescope LVS34 & Ultra 2 16\"",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26935287/d747efaf-b7f5-4641-9397-30c6fa785608",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26935287/d747efaf-b7f5-4641-9397-30c6fa785608"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.51,
+ "length_ft": 16,
+ "location": "Kinna",
+ "lon": 12.7,
+ "make": "Alumacraft",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1871,
+  "fetched_ts": 1790521103037,
+  "text_sha": "b7d94f5454fc8413"
+ },
+ "price": 200000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 200000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Grå",
+  "Längd i fot": "16 fot",
+  "Modell": "2012",
+  "Modellår": "2012",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Alumacraft",
+  "Sittplatser": "3",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26935287",
+ "width_cm": 0,
+ "year": 2012
+}

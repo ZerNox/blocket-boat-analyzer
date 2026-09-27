@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Jonsson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bad/Fiske båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25610995/2e737e4c-e6db-44da-bee3-7ca04f8697ff",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.99415,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25610995/2e737e4c-e6db-44da-bee3-7ca04f8697ff",
+  "https://images.blocketcdn.se/dynamic/default/item/25610995/79cd5855-3936-46e2-8d90-30e8adec8e9c",
+  "https://images.blocketcdn.se/dynamic/default/item/25610995/ae5e4731-e35d-413f-a2bd-175c34d13410"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.99,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +77,13 @@
   "text_sha": "60724c597e598b47"
  },
  "location": "Muskö",
- "lon": 18.14338,
+ "lon": 18.14,
  "make": "Flipper",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 205,
   "fetched_ts": 1790508046426,
@@ -103,7 +111,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25610995",
  "width_cm": 0,
  "year": 1985

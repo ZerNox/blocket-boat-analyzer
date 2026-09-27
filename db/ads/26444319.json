@@ -1,0 +1,72 @@
+{
+ "ad_id": 26444319,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788946128000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2023,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Terhi Saiman Hunter Utställningsbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26444319/b8da84ac-8ab9-43ab-a6d3-756558eaf6d2",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26444319/b8da84ac-8ab9-43ab-a6d3-756558eaf6d2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.93,
+ "length_ft": 15,
+ "location": "Strömstad",
+ "lon": 11.17,
+ "make": "Terhi",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790520973240,
+  "text_sha": "bacc091d4feaf3af"
+ },
+ "price": 17000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 17000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "grön",
+  "Längd i fot": "15 fot",
+  "Modell": "Hunter",
+  "Modellår": "2023",
+  "Motor inkluderad": "Nej",
+  "Märke": "Terhi",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26444319",
+ "width_cm": 0,
+ "year": 2023
+}

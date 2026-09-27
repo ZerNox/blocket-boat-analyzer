@@ -7,6 +7,8 @@
   "boat_year": 2011,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude e-tec",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -43,8 +45,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 530 cc",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25415101/5e1a30d3-28b9-4361-a516-3a06434ee039",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.38645,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25415101/5e1a30d3-28b9-4361-a516-3a06434ee039",
+  "https://images.blocketcdn.se/dynamic/default/item/25415101/5ebb4d31-bbd0-42ab-abeb-76dad6c228c7",
+  "https://images.blocketcdn.se/dynamic/default/item/25415101/322bab71-8d20-4e1d-aa07-64ac3f36870e",
+  "https://images.blocketcdn.se/dynamic/default/item/25415101/f68bd5ee-5b50-44e5-bcd8-54fcdc2e9aaa",
+  "https://images.blocketcdn.se/dynamic/default/item/25415101/b50af789-cf7a-44bf-a0f2-ba4002dd5bf9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.39,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -75,12 +84,13 @@
   "text_sha": "cd58fdf2c418c565"
  },
  "location": "Söderfors",
- "lon": 17.23804,
+ "lon": 17.24,
  "make": "HR",
  "max_speed": 35,
  "motor_fuel": null,
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 275,
   "fetched_ts": 1790507850509,
@@ -108,7 +118,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "500 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25415101",
  "width_cm": 218,
  "year": 2011

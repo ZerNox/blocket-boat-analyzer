@@ -7,6 +7,8 @@
   "boat_year": 2022,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 12,
+  "engine_hp_source": "llm",
   "engine_maker": "Torqeedo",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -42,8 +44,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Elbåt Sandström 495 12kw Torqeedo",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26237621/7304166a-0cd4-461c-9558-cd1f8b53a390",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.8025,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26237621/7304166a-0cd4-461c-9558-cd1f8b53a390",
+  "https://images.blocketcdn.se/dynamic/default/item/26237621/75219a83-595d-4bae-9434-fe9e2610f954",
+  "https://images.blocketcdn.se/dynamic/default/item/26237621/78fde610-d44b-41f5-b58f-869c15957828",
+  "https://images.blocketcdn.se/dynamic/default/item/26237621/2e65b285-60dc-4cb9-b3b4-cde9c8764cf8",
+  "https://images.blocketcdn.se/dynamic/default/item/26237621/b930bdbd-517c-4306-942e-d620e632f623",
+  "https://images.blocketcdn.se/dynamic/default/item/26237621/acfa809d-5705-460c-a9dd-a5fb503f0698",
+  "https://images.blocketcdn.se/dynamic/default/item/26237621/ab581d6f-be17-4196-8465-1ab88b42a67e",
+  "https://images.blocketcdn.se/dynamic/default/item/26237621/b9f036a0-dc6e-4575-8408-e4d9a8428eed",
+  "https://images.blocketcdn.se/dynamic/default/item/26237621/555fe7d1-2838-40aa-bb72-2f5d4430601f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.8,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +86,13 @@
   "text_sha": "2c4ad55012db1382"
  },
  "location": "Resö",
- "lon": 11.14768,
+ "lon": 11.15,
  "make": "Sandström",
  "max_speed": 12,
  "motor_fuel": "Elektrisk",
  "motor_size": 16.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 481,
   "fetched_ts": 1790508544312,
@@ -110,7 +124,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "550 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26237621",
  "width_cm": 200,
  "year": 2022

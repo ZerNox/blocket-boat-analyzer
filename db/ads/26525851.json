@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -31,6 +33,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Komplett paket: Örnvik 550 HT med Evinrude 40hk 4-takt & besiktigad trailer!",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -40,10 +46,22 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori",
+  "Örnvik 550"
+ ],
  "heading": "Komplett paket: Örnvik 550 HT med Evinrude 40hk 4-takt & besiktigad trailer!",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26525851/de80e8f7-eb48-4869-af52-782ab94322f4",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.64745,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26525851/de80e8f7-eb48-4869-af52-782ab94322f4",
+  "https://images.blocketcdn.se/dynamic/default/item/26525851/027f1a90-1385-4ef4-a774-a79526e776de",
+  "https://images.blocketcdn.se/dynamic/default/item/26525851/63dbd1d2-ac69-465a-bc7c-9d891e294e22",
+  "https://images.blocketcdn.se/dynamic/default/item/26525851/88cdb90b-04ac-425a-ad80-80a43d2364c1",
+  "https://images.blocketcdn.se/dynamic/default/item/26525851/bd5775ba-1163-48f1-a2aa-b1d7acf6a79d",
+  "https://images.blocketcdn.se/dynamic/default/item/26525851/b7719247-6772-47b5-a3ad-c63654df495a"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.65,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -73,7 +91,7 @@
   "text_sha": "9702db3029f85b3c"
  },
  "location": "Mölndal",
- "lon": 11.9997,
+ "lon": 12.0,
  "make": "Örnvik",
  "max_speed": 20,
  "motor_fuel": "Bensin",

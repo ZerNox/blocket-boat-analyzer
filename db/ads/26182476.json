@@ -7,6 +7,8 @@
   "boat_year": 1976,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury thunderbolt",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -36,6 +38,10 @@
     "kmh": 30
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "e här och där och tyget i ruffen skulle må bra av en ordentlig tvätt eller uppfräschning.\nEn av rutorna är",
+  "hull_source": "rule:text",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -47,10 +53,21 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Ryds camping 565 med 80hk Mercury",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26182476/b29a6e4a-0b88-4c69-a331-07f6fc107046",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.32764,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26182476/b29a6e4a-0b88-4c69-a331-07f6fc107046",
+  "https://images.blocketcdn.se/dynamic/default/item/26182476/b6ef1071-61b5-42d2-a97a-128d1b9b85fd",
+  "https://images.blocketcdn.se/dynamic/default/item/26182476/da99d23c-186e-4553-96ff-27fd0d69b55b",
+  "https://images.blocketcdn.se/dynamic/default/item/26182476/c74fd92c-6078-4f3f-8899-03e7e247a515",
+  "https://images.blocketcdn.se/dynamic/default/item/26182476/6db00a88-452c-4e1d-aa1e-53cc8550664d",
+  "https://images.blocketcdn.se/dynamic/default/item/26182476/14bce41f-f346-457c-ae8a-8989e7d3ce73"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.33,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -80,7 +97,7 @@
   "text_sha": "5c6e28f7b52f1706"
  },
  "location": "Skoghall",
- "lon": 13.44807,
+ "lon": 13.45,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",

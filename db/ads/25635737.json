@@ -7,6 +7,8 @@
   "boat_year": 2013,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Merury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bella 485 R",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25635737/b1997766-fc41-4a3b-ba75-4319760e7250",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.63962,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25635737/b1997766-fc41-4a3b-ba75-4319760e7250",
+  "https://images.blocketcdn.se/dynamic/default/item/25635737/dc2dadb4-ffb3-4f8b-8d23-5993cacdac67",
+  "https://images.blocketcdn.se/dynamic/default/item/25635737/de497ea9-2b60-4a5c-93fc-d49f5056640b",
+  "https://images.blocketcdn.se/dynamic/default/item/25635737/6c6b197b-7a57-42da-bff4-c6c7a4602bda",
+  "https://images.blocketcdn.se/dynamic/default/item/25635737/6dd2b3a7-7b8c-4832-a6cd-e02a8096cfb5",
+  "https://images.blocketcdn.se/dynamic/default/item/25635737/e3b00110-cfb2-438d-8df3-67cff922134c",
+  "https://images.blocketcdn.se/dynamic/default/item/25635737/b6335f51-1c39-4423-be14-6594db108501",
+  "https://images.blocketcdn.se/dynamic/default/item/25635737/2eae04d1-5112-4bf9-b983-eed911a6179d",
+  "https://images.blocketcdn.se/dynamic/default/item/25635737/8ae77a2c-3839-4166-bd5f-259ba23f02e5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.64,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +73,13 @@
   "text_sha": "1c0aaf8d7ceb1d3d"
  },
  "location": "Luleå",
- "lon": 22.30071,
+ "lon": 22.3,
  "make": "Bella",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 112,
   "fetched_ts": 1790508066191,
@@ -94,7 +108,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25635737",
  "width_cm": 0,
  "year": 2013

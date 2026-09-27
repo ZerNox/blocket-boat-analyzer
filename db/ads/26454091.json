@@ -1,0 +1,133 @@
+{
+ "ad_id": 26454091,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1788964912000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1967,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo Penta",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1967,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Passad 21 Kabin Godkänd för Mälaren HÖSTPRIS\nNu sänkt pris från 39000kr gäller fram till u",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Passad 21 Kabin Godkänd för Mälaren HÖSTPRIS",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26454091/5a921733-a172-4ed9-a6e9-ab71771e9841",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/5a921733-a172-4ed9-a6e9-ab71771e9841",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/188b0db8-38e4-4dc0-95c2-7ba3d4542a89",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/b1fa4722-e5cf-460b-8f6a-777c7e5e6798",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/0e54be34-b7ba-4af2-9cc9-a27443363a48",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/e473dd61-c894-4535-98ca-61602c590e29",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/9cebf2b4-1e74-4ead-b594-bce22cee6f8e",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/206366fb-fa1c-409c-a1bd-90eca56eba5e",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/ca1356d1-2dec-4298-a755-5239aabdfadf",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/b7d8f233-facf-4013-bacc-ace4db4a8058",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/988f0818-71fc-4f37-ac8f-9a886540ad24",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/25e6ecc4-0731-431d-9e38-8d999fad9aa7",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/e3d9a85e-3e08-416f-98f3-d32d78dcf843",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/933e62bb-084d-47bf-b8a4-86dad5779555",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/0d0d1e8e-0696-443d-a662-5529d5cf9cab",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/ecbed1d6-5010-4f19-9471-ce9df95e3d0c",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/a63df927-a2c8-47c1-9629-e8c6eef5271a",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/8f2fa48a-c31c-43bb-bb35-28c5518eb520",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/cbec8782-1997-4401-a0de-e88d919723cc",
+  "https://images.blocketcdn.se/dynamic/default/item/26454091/38348911-21c4-4a92-b303-3e7aa7b47244"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.35,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1967,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "2023 slipades i bottten och epoxibehandlades för att kunna köras i Mälaren enligt nya reglerna.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "285858a263a7b31a"
+ },
+ "location": "Solna",
+ "lon": 18.01,
+ "make": "Övriga",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 889,
+  "fetched_ts": 1790523173765,
+  "text_sha": "285858a263a7b31a"
+ },
+ "price": 19000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 19000
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "21 Kabin",
+  "Modellår": "1967",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo Penta",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "6",
+  "Sovplatser": "3",
+  "Toppfart": "25 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "700 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26454091",
+ "width_cm": 230,
+ "year": 1967
+}

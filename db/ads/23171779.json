@@ -7,6 +7,8 @@
   "boat_year": 2002,
   "boat_year_source": "spec",
   "engine_hours": 850,
+  "engine_hp": 44,
+  "engine_hp_source": "llm",
   "engine_maker": "Sole",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -27,6 +29,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -36,10 +42,23 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Kungsjulle combi",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23171779/e5e064bd-867b-4e2b-9e68-df2ea724fd59",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.04777,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23171779/e5e064bd-867b-4e2b-9e68-df2ea724fd59",
+  "https://images.blocketcdn.se/dynamic/default/item/23171779/0ea7f754-ec38-48bc-a692-2805da26ea67",
+  "https://images.blocketcdn.se/dynamic/default/item/23171779/7ca1a7b8-7587-4e77-bb97-0e192d3e57bf",
+  "https://images.blocketcdn.se/dynamic/default/item/23171779/720d0ff5-5681-4764-9d14-bfd67228f257",
+  "https://images.blocketcdn.se/dynamic/default/item/23171779/c61cf324-903a-497a-a69e-805bb3dd588c",
+  "https://images.blocketcdn.se/dynamic/default/item/23171779/48b045ad-40c1-4828-9515-da747c0b948f",
+  "https://images.blocketcdn.se/dynamic/default/item/23171779/c0ac0625-0b91-4bcc-8796-dbffe83dcfc4",
+  "https://images.blocketcdn.se/dynamic/default/item/23171779/a72fd43a-bd16-482b-af9a-8e3250d0b542"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.05,
  "length_ft": 21,
  "llm": {
   "at": "2026-09-27",
@@ -69,7 +88,7 @@
   "text_sha": "384f0bfbcb2d76fa"
  },
  "location": "Klövedal",
- "lon": 11.53396,
+ "lon": 11.53,
  "make": "Övriga",
  "max_speed": 7,
  "motor_fuel": "Diesel",

@@ -7,6 +7,8 @@
   "boat_year": 2018,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 390 med Mercury 4 hk och Trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26375547/619e52c8-c358-4876-8c2f-8624907c44bc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.89015,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26375547/619e52c8-c358-4876-8c2f-8624907c44bc",
+  "https://images.blocketcdn.se/dynamic/default/item/26375547/7836c6ec-b6c5-4391-83ec-deb0929db532",
+  "https://images.blocketcdn.se/dynamic/default/item/26375547/f4b66b02-82b0-4e81-bbf6-196448ba664a",
+  "https://images.blocketcdn.se/dynamic/default/item/26375547/ac570508-6819-43d5-b71a-bed420f6784f",
+  "https://images.blocketcdn.se/dynamic/default/item/26375547/a2339a99-7b71-46e7-aed5-0d516e159e07"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.89,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "92ccd54cc2d217c8"
  },
  "location": "Växjö",
- "lon": 14.82561,
+ "lon": 14.83,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508638919,
@@ -98,7 +108,7 @@
   "Sittplatser": "3",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26375547",
  "width_cm": 152,
  "year": 2018

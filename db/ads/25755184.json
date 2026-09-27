@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 5,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden segelkombi med motor, 80 kärra",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25755184/cfe73db2-4533-4c5d-ba9a-df473c3501bc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.41698,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25755184/cfe73db2-4533-4c5d-ba9a-df473c3501bc",
+  "https://images.blocketcdn.se/dynamic/default/item/25755184/d78ffdf5-6b19-41e4-be5b-66c10a5137e7",
+  "https://images.blocketcdn.se/dynamic/default/item/25755184/fd7e05a5-2ca8-4eb3-90a9-055007c447cc",
+  "https://images.blocketcdn.se/dynamic/default/item/25755184/6e4bfb24-f4fa-4d05-8319-a8b6b21001da",
+  "https://images.blocketcdn.se/dynamic/default/item/25755184/7f603f7e-21fb-49fa-98e6-13d1d8c0444a",
+  "https://images.blocketcdn.se/dynamic/default/item/25755184/6c4e37e3-fc82-4849-b6b1-477d62b8bae4",
+  "https://images.blocketcdn.se/dynamic/default/item/25755184/1a500989-63b4-4408-a4d2-a281e0225867"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.42,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +77,13 @@
   "text_sha": "68549cec33fbca32"
  },
  "location": "Tibro",
- "lon": 14.18798,
+ "lon": 14.19,
  "make": "Askeladden",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 5.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 222,
   "fetched_ts": 1790508157433,
@@ -97,7 +109,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25755184",
  "width_cm": 0,
  "year": 1900

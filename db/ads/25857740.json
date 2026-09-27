@@ -1,0 +1,118 @@
+{
+ "ad_id": 25857740,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787158011000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercruiser",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Trevlig daycruiser med nytt kapell 2025.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern D55\nTrevlig daycruiser med nytt kapell 2025. Obromsad 30 vagn medföljer.",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Uttern D55",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25857740/c9497c3d-e83e-4454-9aca-fed98c92a0a7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25857740/c9497c3d-e83e-4454-9aca-fed98c92a0a7",
+  "https://images.blocketcdn.se/dynamic/default/item/25857740/cbc31dc1-2a5e-4fc3-881e-be00f03c4d70",
+  "https://images.blocketcdn.se/dynamic/default/item/25857740/f6113862-da0c-42f6-af3b-4cc09eda886e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.59,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2005,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ba07bd1a5018246a"
+ },
+ "location": "Billdal",
+ "lon": 11.93,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 68,
+  "fetched_ts": 1790523076189,
+  "text_sha": "ba07bd1a5018246a"
+ },
+ "price": 105000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 105000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå",
+  "Längd i fot": "18 fot",
+  "Modell": "D55",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercruiser",
+  "Motortyp": "Inombordare",
+  "Märke": "Uttern",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25857740",
+ "width_cm": 220,
+ "year": 2005
+}

@@ -38,13 +38,14 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "HR 465 S, Yamaha F50AETL, Brenderup 600",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25205808/c8c2a26c-f943-4d2e-84d1-2c6a4c4ec092",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.58538,
+ "lat": 58.59,
  "length_ft": 15,
  "location": "Norrköping",
- "lon": 16.18179,
+ "lon": 16.18,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
@@ -75,7 +76,7 @@
   "Märke": "HR",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/25205808",
  "width_cm": 0,
  "year": 1999

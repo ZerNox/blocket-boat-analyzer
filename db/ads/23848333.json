@@ -1,0 +1,127 @@
+{
+ "ad_id": 23848333,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1790097508000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2023,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod Lowrance Elite FS 9 inkl.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Minnkota Terrova BT 55 inkl.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "GPS sensor.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Batteri Lithium 12 V 150 Ah med förvärmning och Bluetooth.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer extrautrustad med gångramper och några hjulvaggor samt uppgraderad starkare winsch.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Linder fiskebåt 445 Max, fullutrustad i toppskick.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23848333/9a08c3b7-9053-4ceb-a5d8-23597be1e7a4",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23848333/9a08c3b7-9053-4ceb-a5d8-23597be1e7a4",
+  "https://images.blocketcdn.se/dynamic/default/item/23848333/5c49b318-5b1c-44e8-a652-4aa630fcd531",
+  "https://images.blocketcdn.se/dynamic/default/item/23848333/a14c464e-aa4d-4bdb-9667-fa105626043d",
+  "https://images.blocketcdn.se/dynamic/default/item/23848333/3eafffd2-b208-4e8f-b549-adea09981a5c",
+  "https://images.blocketcdn.se/dynamic/default/item/23848333/e68ddead-6e59-4f2f-9bfa-e0f2f3860cf3",
+  "https://images.blocketcdn.se/dynamic/default/item/23848333/c452e32e-93a2-43fb-8173-604eb41cffb5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.34,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2023,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Suzuki DF 30 med el-tilt samt stöldlås.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "be3c2b5b171af91b"
+ },
+ "location": "Värmlands Nysäter",
+ "lon": 12.8,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 754,
+  "fetched_ts": 1790520623710,
+  "text_sha": "be3c2b5b171af91b"
+ },
+ "price": 200000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 200000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "445 Max",
+  "Modellår": "2023",
+  "Motor inkluderad": "Ja",
+  "Märke": "Linder",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23848333",
+ "width_cm": 0,
+ "year": 2023
+}

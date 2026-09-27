@@ -1,0 +1,78 @@
+{
+ "ad_id": 25911353,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787341786000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": 100,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Jätte bra motor, Mercury 40 hk 4 stroke, 2018.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25911353/b874e1d5-8228-433b-8d02-59601cac72ed",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25911353/b874e1d5-8228-433b-8d02-59601cac72ed",
+  "https://images.blocketcdn.se/dynamic/default/item/25911353/efe04a71-df13-48ca-86ed-76212ce9f2a8",
+  "https://images.blocketcdn.se/dynamic/default/item/25911353/14446dd3-f491-4834-bd13-6346024a7e51",
+  "https://images.blocketcdn.se/dynamic/default/item/25911353/69fb18ef-ee63-47a3-b9a7-4ead72588d6f",
+  "https://images.blocketcdn.se/dynamic/default/item/25911353/a0be04a4-4a9a-4965-bcd9-8b68ce963ed4",
+  "https://images.blocketcdn.se/dynamic/default/item/25911353/7fb4c544-323a-4059-a6cd-cb9db5e96bde",
+  "https://images.blocketcdn.se/dynamic/default/item/25911353/d906ef1f-062e-428f-b6fd-268344f3d7e4",
+  "https://images.blocketcdn.se/dynamic/default/item/25911353/c6cce97c-d42f-43a2-923e-047b563f0662"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 61.17,
+ "length_ft": 500,
+ "location": "Älvdalen",
+ "lon": 13.98,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 193,
+  "fetched_ts": 1790520859744,
+  "text_sha": "40edec2cf69c6eeb"
+ },
+ "price": 58500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 58500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "500 fot",
+  "Modellår": "1990",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25911353",
+ "width_cm": 0,
+ "year": 1990
+}

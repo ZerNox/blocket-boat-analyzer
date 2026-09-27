@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 10.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25922153/b44edcf0-f5f2-492a-9ef0-4be958759b91",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.91911,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25922153/b44edcf0-f5f2-492a-9ef0-4be958759b91",
+  "https://images.blocketcdn.se/dynamic/default/item/25922153/f3dfb423-5d3e-43b0-a5af-4c8926e2ad93",
+  "https://images.blocketcdn.se/dynamic/default/item/25922153/596fbef6-914f-4671-874d-45a3943c90bb",
+  "https://images.blocketcdn.se/dynamic/default/item/25922153/3c14f121-a751-423d-8521-190aab6cf948",
+  "https://images.blocketcdn.se/dynamic/default/item/25922153/b5e061c9-875c-4694-9825-a26e10ce8537"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.92,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "641648591ad391a6"
  },
  "location": "Vännäs",
- "lon": 19.58413,
+ "lon": 19.58,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 9.800000190734863,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 166,
   "fetched_ts": 1790508303391,
@@ -95,7 +105,7 @@
   "Sittplatser": "5",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25922153",
  "width_cm": 0,
  "year": 1990

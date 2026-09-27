@@ -7,6 +7,8 @@
   "boat_year": 1979,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -27,6 +29,10 @@
     "included": false
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik hyttbåt\nÖrnvik 580 i skapligt skick. Båten kan behöva lite färg om man vill ha d",
+  "hull_source": "rule:text",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -36,10 +42,25 @@
   "swap_offered": true
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Örnvik hyttbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24462727/5bff5bc0-6fc2-4b6e-840d-7dcbcb870f61",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.20053,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24462727/5bff5bc0-6fc2-4b6e-840d-7dcbcb870f61",
+  "https://images.blocketcdn.se/dynamic/default/item/24462727/f6cf07a9-ceab-4a6f-be01-c5ce8714cdf6",
+  "https://images.blocketcdn.se/dynamic/default/item/24462727/6b55e503-f22e-4fc0-a351-5d50ada2228f",
+  "https://images.blocketcdn.se/dynamic/default/item/24462727/e48970e2-f265-4b4c-88f0-70f18cba87d0",
+  "https://images.blocketcdn.se/dynamic/default/item/24462727/ff6abea2-7a84-4068-94c1-8e7ac1e663b4",
+  "https://images.blocketcdn.se/dynamic/default/item/24462727/a2887d5f-b6d6-4257-b291-4d53f2d88b2f",
+  "https://images.blocketcdn.se/dynamic/default/item/24462727/113ac956-0a46-40f8-b30f-cf400843a04d",
+  "https://images.blocketcdn.se/dynamic/default/item/24462727/2029065d-923d-417f-b651-f6071c720bd1",
+  "https://images.blocketcdn.se/dynamic/default/item/24462727/2c399bdc-db53-4462-acf0-a94286ec4ccc",
+  "https://images.blocketcdn.se/dynamic/default/item/24462727/2aee442f-a96c-4ef9-a21f-bc2773574add"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.2,
  "length_ft": 20,
  "llm": {
   "at": "2026-09-27",
@@ -69,7 +90,7 @@
   "text_sha": "1b563fab77469f25"
  },
  "location": "Sjuntorp",
- "lon": 12.24412,
+ "lon": 12.24,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",

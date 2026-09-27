@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden styrpulpet",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25721347/bb6f8e0f-4d37-486c-95aa-998ba962944b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.35541,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25721347/bb6f8e0f-4d37-486c-95aa-998ba962944b",
+  "https://images.blocketcdn.se/dynamic/default/item/25721347/fe62cdd2-0f90-48aa-9c25-da4947c44b47",
+  "https://images.blocketcdn.se/dynamic/default/item/25721347/09a83f36-e85c-4432-925b-1f5dc594cd8b",
+  "https://images.blocketcdn.se/dynamic/default/item/25721347/95e675a1-071a-4adc-8a20-b0e6199d6c0c",
+  "https://images.blocketcdn.se/dynamic/default/item/25721347/f2dfe6ac-5f64-4e71-87e8-78d7d70d6d0c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.36,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +75,13 @@
   "text_sha": "d3f5ac976d8d8b4b"
  },
  "location": "Eskilstuna",
- "lon": 16.55927,
+ "lon": 16.56,
  "make": "Askeladden",
  "max_speed": 27,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 427,
   "fetched_ts": 1790508132302,
@@ -98,7 +108,7 @@
   "Toppfart": "27 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25721347",
  "width_cm": 180,
  "year": 1980

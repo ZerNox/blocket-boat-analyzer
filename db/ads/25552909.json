@@ -1,0 +1,125 @@
+{
+ "ad_id": 25552909,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787253901000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "mercury optimax",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2010,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space, open cockpit with console and seating.",
+  "hull_source": "bild",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Ryds 568"
+ ],
+ "heading": "säljes ryds 568 gti",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25552909/929bb8ff-56f3-4538-8330-7b231fc5b857",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25552909/929bb8ff-56f3-4538-8330-7b231fc5b857",
+  "https://images.blocketcdn.se/dynamic/default/item/25552909/78205549-6968-48f3-8444-fcca334c4c13",
+  "https://images.blocketcdn.se/dynamic/default/item/25552909/4e5cbfd5-0477-4cb1-90d6-61016e1a9f66"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.99,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2010,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "mercury optimax",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "06b27d97f49e1087"
+ },
+ "location": "Muskö",
+ "lon": 18.14,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790523019355,
+  "text_sha": "06b27d97f49e1087"
+ },
+ "price": 130000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 130000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "568 gti",
+  "Modellår": "2010",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "mercury optimax",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25552909",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "0d2e3ab4584d9041",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed space, open cockpit with console and seating.",
+   "hull_photo": 2
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 0,
+ "year": 2010
+}

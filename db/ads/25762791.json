@@ -1,0 +1,87 @@
+{
+ "ad_id": 25762791,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1786887159000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Mycket fint kapell.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Crescent 50 cabin",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25762791/2de41046-327c-4589-8359-c8d923c3ea02",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25762791/2de41046-327c-4589-8359-c8d923c3ea02",
+  "https://images.blocketcdn.se/dynamic/default/item/25762791/b2a30445-455c-4c29-a1b9-e023ffb53aeb",
+  "https://images.blocketcdn.se/dynamic/default/item/25762791/c87c95e5-9bd7-4ff6-9cec-64f48587605e",
+  "https://images.blocketcdn.se/dynamic/default/item/25762791/0bb1f2dc-7780-46f5-81c5-42ebae3fd94c",
+  "https://images.blocketcdn.se/dynamic/default/item/25762791/4a933233-2836-4e57-9b3d-d9100ca706f4",
+  "https://images.blocketcdn.se/dynamic/default/item/25762791/2a39767a-5ab5-455d-b507-876312545784",
+  "https://images.blocketcdn.se/dynamic/default/item/25762791/7165b0ec-bea4-4487-8b6b-850d50a96eba",
+  "https://images.blocketcdn.se/dynamic/default/item/25762791/80aa4894-6626-4589-92c3-6c8cc3c5a212"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.63,
+ "length_ft": 16,
+ "location": "Skutskär",
+ "lon": 17.38,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 136,
+  "fetched_ts": 1790520764598,
+  "text_sha": "b2f5c9f40c60d5d2"
+ },
+ "price": 11000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 11000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "Cabin 50",
+  "Modellår": "1975",
+  "Motor inkluderad": "Nej",
+  "Märke": "Crescent",
+  "Typ": "Hyttbåt",
+  "Vikt": "350 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25762791",
+ "width_cm": 200,
+ "year": 1975
+}

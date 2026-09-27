@@ -1,0 +1,98 @@
+{
+ "ad_id": 25444227,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785996611000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 115.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1998,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Kan säljas utan trailer också till ett billigare pris",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori",
+  "Yamarin 5800"
+ ],
+ "heading": "Yamarin 5800 big catch",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25444227/601fe8e3-4abf-41c4-922d-f0cf6d0cb39c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25444227/601fe8e3-4abf-41c4-922d-f0cf6d0cb39c",
+  "https://images.blocketcdn.se/dynamic/default/item/25444227/7887ff6c-9000-4297-a281-15524ae95417",
+  "https://images.blocketcdn.se/dynamic/default/item/25444227/76cb4c0f-1084-47ad-8f52-2c9d7eb523c0",
+  "https://images.blocketcdn.se/dynamic/default/item/25444227/2cec087f-9d76-4eca-b74f-0562f151b516",
+  "https://images.blocketcdn.se/dynamic/default/item/25444227/78a32b29-ea03-4941-a8c2-a89d3a3b80da",
+  "https://images.blocketcdn.se/dynamic/default/item/25444227/217e018b-d131-4dea-85cd-b72b455b26e0",
+  "https://images.blocketcdn.se/dynamic/default/item/25444227/ddbe73bb-8715-4624-90b9-44560d241eeb",
+  "https://images.blocketcdn.se/dynamic/default/item/25444227/f085f36c-d871-48c4-95a2-9543921fe1cf",
+  "https://images.blocketcdn.se/dynamic/default/item/25444227/ecbe0ce8-b652-4e22-9a6d-f55a90ab15ca"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.57,
+ "length_ft": 18,
+ "location": "Bålsta",
+ "lon": 17.52,
+ "make": "Yamarin",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 422,
+  "fetched_ts": 1790520697692,
+  "text_sha": "2e01ec140623ce0e"
+ },
+ "price": 69000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69000
+  }
+ ],
+ "specs": {
+  "Bredd": "218 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "5800 big catch",
+  "Modellår": "1998",
+  "Motor inkluderad": "Nej",
+  "Märke": "Yamarin",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Hyttbåt",
+  "Vikt": "720 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25444227",
+ "width_cm": 218,
+ "year": 1998
+}

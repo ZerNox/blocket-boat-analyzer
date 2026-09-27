@@ -7,6 +7,8 @@
   "boat_year": 2012,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 35,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,23 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "SUVI 4550",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26235806/39144b12-729b-4168-a592-9a9b97667514",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.19206,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26235806/39144b12-729b-4168-a592-9a9b97667514",
+  "https://images.blocketcdn.se/dynamic/default/item/26235806/d125dee8-bb3f-47f6-85a6-21f4290289b9",
+  "https://images.blocketcdn.se/dynamic/default/item/26235806/20a19280-c4f9-491f-abeb-a223b7286d45",
+  "https://images.blocketcdn.se/dynamic/default/item/26235806/260b684a-91ca-41ef-a89a-ef0cb41f2567",
+  "https://images.blocketcdn.se/dynamic/default/item/26235806/e08db562-a317-4ca4-a3ac-490c96277146",
+  "https://images.blocketcdn.se/dynamic/default/item/26235806/860bcd60-934b-4cd4-9969-1954a7e92d40",
+  "https://images.blocketcdn.se/dynamic/default/item/26235806/adba42a6-f5bb-45d0-8400-949404899eb1",
+  "https://images.blocketcdn.se/dynamic/default/item/26235806/5c78dd83-e854-49dc-a866-6c506bbfde66",
+  "https://images.blocketcdn.se/dynamic/default/item/26235806/029aa2eb-c84b-47b8-852b-1729cbd36d11",
+  "https://images.blocketcdn.se/dynamic/default/item/26235806/7e0325ef-b545-4cce-9024-3f73f5733bcb",
+  "https://images.blocketcdn.se/dynamic/default/item/26235806/fe804e6b-cd41-4d29-b7c9-91f9f5c8e91e",
+  "https://images.blocketcdn.se/dynamic/default/item/26235806/ec59acf2-087e-4634-a9df-0a4e785658a1",
+  "https://images.blocketcdn.se/dynamic/default/item/26235806/95c0a412-4c06-4f98-a42f-71e66a313bed"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.19,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +77,13 @@
   "text_sha": "8fe96c5d28a3f3c4"
  },
  "location": "Södertälje",
- "lon": 17.60384,
+ "lon": 17.6,
  "make": "Suvi",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 35.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508539645,
@@ -94,7 +112,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26235806",
  "width_cm": 0,
  "year": 2012

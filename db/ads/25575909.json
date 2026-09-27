@@ -1,0 +1,148 @@
+{
+ "ad_id": 25575909,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789648193000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1996,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Populär smidig allroundbåt fin och välutrustad mycket gjort förra året .Båtbotten renslipades grundades med epoxi samt …",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Populär smidig allroundbåt fin och välutrustad mycket gjort förra året .Båtbotten renslipades grundades med epoxi samt …",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Populär smidig allroundbåt fin och välutrustad mycket gjort förra året .Båtbotten renslipades grundades med epoxi samt …",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Populär smidig allroundbåt fin och välutrustad mycket gjort förra året .Båtbotten renslipades grundades med epoxi samt …",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Populär smidig allroundbåt fin och välutrustad mycket gjort förra året .Båtbotten renslipades grundades med epoxi samt …",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "styrning Nyklädda dynor i ruff .Ny elpanel ledlampor och strålkastare .Motor servades i höstas med olje sa",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds motorbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25575909/73352c97-2229-4117-8388-0c8922cc0005",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25575909/73352c97-2229-4117-8388-0c8922cc0005",
+  "https://images.blocketcdn.se/dynamic/default/item/25575909/332b6d73-7655-484f-9bad-9932b2defb54",
+  "https://images.blocketcdn.se/dynamic/default/item/25575909/8b1e00c4-1285-4851-a55e-de08f8a90ada",
+  "https://images.blocketcdn.se/dynamic/default/item/25575909/2811ec5e-2d38-415d-a25b-fd7930490f59",
+  "https://images.blocketcdn.se/dynamic/default/item/25575909/19207502-7411-4cf4-9771-948f18fa99de",
+  "https://images.blocketcdn.se/dynamic/default/item/25575909/e59a5b9a-4bce-437f-bb8d-327c91c0bbc6",
+  "https://images.blocketcdn.se/dynamic/default/item/25575909/bcd38e9d-3b0b-4170-99fb-d7ab12607e5c",
+  "https://images.blocketcdn.se/dynamic/default/item/25575909/eb0eb364-dcfd-4824-8ac0-48ea81bacd98",
+  "https://images.blocketcdn.se/dynamic/default/item/25575909/d0f62e9a-2dc2-4e12-8ce7-a655a7a571e0",
+  "https://images.blocketcdn.se/dynamic/default/item/25575909/556971ec-dfdd-4280-bc99-1d96fc0ca56e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.59,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1996,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor servades i höstas med olje samt filterbyte ny impeller och packningar.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3b883bf907bb5d9e"
+ },
+ "location": "Lidköping",
+ "lon": 13.04,
+ "make": "Ryds",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 366,
+  "fetched_ts": 1790523026241,
+  "text_sha": "3b883bf907bb5d9e"
+ },
+ "price": 65000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 65000
+  }
+ ],
+ "specs": {
+  "Bredd": "203 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "485 FC",
+  "Modellår": "1996",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "27 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25575909",
+ "width_cm": 203,
+ "year": 1996
+}

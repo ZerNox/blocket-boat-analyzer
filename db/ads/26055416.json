@@ -1,0 +1,109 @@
+{
+ "ad_id": 26055416,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788692002000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "En rejäl styrpulpet med en 90hk Evinrude e-tec 2004.",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Komplett dynsats till båten, hydraulstyrning, ekolod.",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Komplett dynsats till båten, hydraulstyrning, ekolod.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Sandstö RIO 550 Sport 90hk E-tec Bytes",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26055416/9571706f-d95b-405d-95d0-a1a3ea4b6cd0",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26055416/9571706f-d95b-405d-95d0-a1a3ea4b6cd0",
+  "https://images.blocketcdn.se/dynamic/default/item/26055416/35d94830-f608-4883-b869-a9d272f4012f",
+  "https://images.blocketcdn.se/dynamic/default/item/26055416/b0e3a793-9d8e-439b-b257-46527cde3cbb"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.39,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": 2004,
+   "engine_year_evidence": "En rejäl styrpulpet med en 90hk Evinrude e-tec 2004.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "94df79f341fa8de9"
+ },
+ "location": "Torsby",
+ "lon": 12.98,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 391,
+  "fetched_ts": 1790520882415,
+  "text_sha": "94df79f341fa8de9"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modellår": "2000",
+  "Märke": "Övriga",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26055416",
+ "width_cm": 0,
+ "year": 2000
+}

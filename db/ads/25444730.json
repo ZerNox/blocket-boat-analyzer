@@ -7,6 +7,8 @@
   "boat_year": 2014,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 13,
+  "engine_hp_source": "llm",
   "engine_maker": "Volvo Penta D1 13",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -42,8 +44,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Vacker snipa i fint skick",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25444730/31e967fa-c8c3-407d-a8a8-06ca8ce4217c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.28097,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25444730/31e967fa-c8c3-407d-a8a8-06ca8ce4217c",
+  "https://images.blocketcdn.se/dynamic/default/item/25444730/0455b556-1a7e-4bb8-acb4-4e029e57bfe9",
+  "https://images.blocketcdn.se/dynamic/default/item/25444730/51977dc3-f114-4524-8081-ee5d99434fd2",
+  "https://images.blocketcdn.se/dynamic/default/item/25444730/de9d47f6-3751-4cda-b9cd-41e82d739ae9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.28,
  "length_ft": 21,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +81,13 @@
   "text_sha": "4cd7d2b7a506d68b"
  },
  "location": "Saltsjöbaden",
- "lon": 18.30837,
+ "lon": 18.31,
  "make": "Övriga",
  "max_speed": 6,
  "motor_fuel": "Diesel",
  "motor_size": 13.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 144,
   "fetched_ts": 1790507874985,
@@ -107,7 +116,7 @@
   "Toppfart": "6 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25444730",
  "width_cm": 230,
  "year": 2014

@@ -7,6 +7,8 @@
   "boat_year": 1999,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fin fiske båt med 30 vagn",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23767219/97e8d06c-3c18-4bab-8b97-31f9f999dd54",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.5938,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23767219/97e8d06c-3c18-4bab-8b97-31f9f999dd54",
+  "https://images.blocketcdn.se/dynamic/default/item/23767219/5995c71f-f8b4-4e2d-a793-d8f867c0723c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.59,
  "length_ft": 432,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +66,13 @@
   "text_sha": "8addce60379ef8bf"
  },
  "location": "Valbo",
- "lon": 16.97024,
+ "lon": 16.97,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 33,
   "fetched_ts": 1790507535310,
@@ -93,7 +100,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23767219",
  "width_cm": 0,
  "year": 1999

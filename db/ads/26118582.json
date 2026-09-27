@@ -7,6 +7,8 @@
   "boat_year": 2020,
   "boat_year_source": "spec",
   "engine_hours": 50,
+  "engine_hp": 8.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt för fisket",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26118582/6cc50363-dc5d-4f60-9485-1cb9d76f1d43",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.53119,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26118582/6cc50363-dc5d-4f60-9485-1cb9d76f1d43",
+  "https://images.blocketcdn.se/dynamic/default/item/26118582/718a6250-b810-4ea3-a4ca-68c4d5c9d3ea",
+  "https://images.blocketcdn.se/dynamic/default/item/26118582/64e4d692-c0c0-4c3c-bff2-552b2788b129",
+  "https://images.blocketcdn.se/dynamic/default/item/26118582/fda9d7e6-59ea-4c45-a1bb-5c418f8eebe5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.53,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "7781136e9ff5d3a6"
  },
  "location": "Altersbruk",
- "lon": 21.31383,
+ "lon": 21.31,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 8.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 229,
   "fetched_ts": 1790508469289,
@@ -100,7 +109,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "150 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26118582",
  "width_cm": 158,
  "year": 2020

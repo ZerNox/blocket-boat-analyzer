@@ -7,6 +7,8 @@
   "boat_year": 1992,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26914271/71d0938f-b9d1-4e59-a10d-916c64c1617f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.01406,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26914271/71d0938f-b9d1-4e59-a10d-916c64c1617f",
+  "https://images.blocketcdn.se/dynamic/default/item/26914271/2e084a17-9165-4c8a-a938-30d09965aba0",
+  "https://images.blocketcdn.se/dynamic/default/item/26914271/7cce015d-ec66-4846-b97c-aa0977171ff9",
+  "https://images.blocketcdn.se/dynamic/default/item/26914271/8b13c3c3-76e1-4efc-9525-ce8a77795079",
+  "https://images.blocketcdn.se/dynamic/default/item/26914271/e6c62964-414c-448a-b7fe-82c0e37b0f28",
+  "https://images.blocketcdn.se/dynamic/default/item/26914271/a2d53939-19da-4c3c-b63b-5a996fef7f91",
+  "https://images.blocketcdn.se/dynamic/default/item/26914271/71aaee70-7e57-4951-a25b-3a70da63086a",
+  "https://images.blocketcdn.se/dynamic/default/item/26914271/c1e91540-39e2-4b04-99d6-ca33546c73aa",
+  "https://images.blocketcdn.se/dynamic/default/item/26914271/734e15ae-1960-4cd5-8560-a8873a15c088"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.01,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +83,13 @@
   "text_sha": "5842dea7cdd4405d"
  },
  "location": "Mönsterås",
- "lon": 16.45686,
+ "lon": 16.46,
  "make": "Ryds",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 133,
   "fetched_ts": 1790509024763,
@@ -104,7 +118,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26914271",
  "width_cm": 0,
  "year": 1992

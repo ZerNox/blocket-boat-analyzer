@@ -1,0 +1,132 @@
+{
+ "ad_id": 23643421,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785597938000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 205.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercruiser",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1998,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod enklare modell",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Hamnkapell",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Stereo",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "BAYLINER 2052 LS med Trailer",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "LS med Trailer\nEn trevlig daycruiser för bad, vattensport eller turer längst kusten.\nVinterförvarad inomhu",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "defect"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "BAYLINER 2052 LS med Trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23643421/8f157b67-9968-4498-b421-7a102ff8fcc1",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23643421/8f157b67-9968-4498-b421-7a102ff8fcc1",
+  "https://images.blocketcdn.se/dynamic/default/item/23643421/cffba522-07fb-4907-afa7-51a8bff75b3e",
+  "https://images.blocketcdn.se/dynamic/default/item/23643421/9f1f9947-01eb-4eea-a21a-0a6e70aed207"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 55.85,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1998,
+   "engine_hours": null,
+   "engine_hp": 430,
+   "engine_maker": "Mercruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor: Mercruiser 4,3L V6 205hk",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1408eee8be791ced"
+ },
+ "location": "Teckomatorp",
+ "lon": 13.1,
+ "make": "Bayliner",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 1396,
+  "fetched_ts": 1790522903252,
+  "text_sha": "1408eee8be791ced"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modell": "2052 LS",
+  "Modellår": "1998",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercruiser",
+  "Motortyp": "Inombordare",
+  "Märke": "Bayliner",
+  "Sittplatser": "6",
+  "Sovplatser": "2",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23643421",
+ "width_cm": 0,
+ "year": 1998
+}

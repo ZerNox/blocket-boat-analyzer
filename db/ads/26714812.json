@@ -1,0 +1,84 @@
+{
+ "ad_id": 26714812,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789823232000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Enkel snipa med trailer, 30km/t.",
+    "included": true,
+    "kmh": 30,
+    "year": 2008
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Enkel snipa med trailer, 30km/t.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26714812/749df96c-9c7a-4e57-913c-668e13ea32ed",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26714812/749df96c-9c7a-4e57-913c-668e13ea32ed",
+  "https://images.blocketcdn.se/dynamic/default/item/26714812/60b10800-4f79-4076-a62d-00695d72a136",
+  "https://images.blocketcdn.se/dynamic/default/item/26714812/3d7796fd-a56e-4f60-b952-df22e835924a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.46,
+ "length_ft": 12,
+ "location": "Vänersnäs",
+ "lon": 12.58,
+ "make": "Degerö",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 207,
+  "fetched_ts": 1790521042415,
+  "text_sha": "892c0b20c03c42da"
+ },
+ "price": 7000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7000
+  }
+ ],
+ "specs": {
+  "Bredd": "100 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "25 cm",
+  "Färg": "Vit",
+  "Längd i fot": "12 fot",
+  "Modellår": "2000",
+  "Motor inkluderad": "Nej",
+  "Märke": "Degerö",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26714812",
+ "width_cm": 100,
+ "year": 2000
+}

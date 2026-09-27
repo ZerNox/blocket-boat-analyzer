@@ -1,0 +1,99 @@
+{
+ "ad_id": 26238486,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788294673000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercruiser",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ny motor 2021 & välutrustad!",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell & Skydd:",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Fast installerad Garmin 7410 plotter",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Nimbus Max II (1996) – Ny motor 2021 & välutrustad! HÖSTPRIS",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26238486/b2322e9b-9899-4174-b0e0-08a5f92d52ee",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26238486/b2322e9b-9899-4174-b0e0-08a5f92d52ee",
+  "https://images.blocketcdn.se/dynamic/default/item/26238486/0fe3dba9-e542-40c1-b878-6fac57afcf4b",
+  "https://images.blocketcdn.se/dynamic/default/item/26238486/e2ff28e8-01a3-4e58-8aac-346fccb3bdb1",
+  "https://images.blocketcdn.se/dynamic/default/item/26238486/cc88c64b-8bdf-42a9-a4d0-f1feb10345b3",
+  "https://images.blocketcdn.se/dynamic/default/item/26238486/736c7048-4dec-4107-8d3b-7fca339a4e29",
+  "https://images.blocketcdn.se/dynamic/default/item/26238486/cd772611-b30c-4f87-a3f2-0708424e90fa",
+  "https://images.blocketcdn.se/dynamic/default/item/26238486/ca52a460-9d7e-43b3-84ea-45490692939c",
+  "https://images.blocketcdn.se/dynamic/default/item/26238486/6fa1e4c7-0d3d-404a-a9d2-746180cc271a",
+  "https://images.blocketcdn.se/dynamic/default/item/26238486/7441a4a2-f797-4c93-a07d-4392868c24eb",
+  "https://images.blocketcdn.se/dynamic/default/item/26238486/e742a21f-8299-4915-b96d-5c8e17af2043",
+  "https://images.blocketcdn.se/dynamic/default/item/26238486/3700ad00-f8f0-4793-84f8-f18d717e9287"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.9,
+ "length_ft": 25,
+ "location": "Marstrand",
+ "lon": 11.6,
+ "make": "Nimbus",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1016,
+  "fetched_ts": 1790520925777,
+  "text_sha": "ce4fc23524f323b8"
+ },
+ "price": 245000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 245000
+  }
+ ],
+ "specs": {
+  "Bredd": "250 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "80 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Mörkblå",
+  "Längd i fot": "25 fot",
+  "Modell": "Max ll, Max 2",
+  "Modellår": "1996",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercruiser",
+  "Motortyp": "Inombordare",
+  "Märke": "Nimbus",
+  "Sittplatser": "8",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "1 600 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26238486",
+ "width_cm": 250,
+ "year": 1996
+}

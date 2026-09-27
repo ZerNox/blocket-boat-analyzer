@@ -1,0 +1,134 @@
+{
+ "ad_id": 25371295,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786440662000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 65.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": "ch går som en klocka, men ett drev i växelhuset är skadat så det går inte att köra framåt, backa går dock bra ;) Gott om",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "kompass, enklare ekolod, extra ankare, klippspik, linor och tampar. sjökort för Örnsköldsviks skärgård.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Specialsytt väldigt fräscht kapell från de senaste åren.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Crescent 53 DC, ca 520 lång, från cirka 1975-1980 säljes med defekt Suzuki 65 hk tvåtaktsmotor och båtvagn.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Crescent 53 DC säljes",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "declared outboard but text says 'drev'",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Crescent 53 DC säljes",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25371295/9a9ccc2c-ce2a-40e2-b2a5-c4a06e64b58a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25371295/9a9ccc2c-ce2a-40e2-b2a5-c4a06e64b58a",
+  "https://images.blocketcdn.se/dynamic/default/item/25371295/5444c10e-7155-4ddb-974e-35232e25afa7",
+  "https://images.blocketcdn.se/dynamic/default/item/25371295/7167243d-38b7-4360-8b90-9779a78eb12a",
+  "https://images.blocketcdn.se/dynamic/default/item/25371295/b70560e7-59e1-4b52-aeb6-2004e44c9bdc",
+  "https://images.blocketcdn.se/dynamic/default/item/25371295/4bdb5166-4021-4f96-bbf2-7f2f0b4bce32",
+  "https://images.blocketcdn.se/dynamic/default/item/25371295/c6a3dbe1-92cb-4475-bc5c-a9186d5043d4"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 63.26,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 65,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "defekt Suzuki 65 hk tvåtaktsmotor",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8b9b8ab9f96d932f"
+ },
+ "location": "Domsjö",
+ "lon": 18.74,
+ "make": "Crescent",
+ "max_speed": 33,
+ "motor_fuel": "Bensin",
+ "motor_size": 65.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 783,
+  "fetched_ts": 1790522974030,
+  "text_sha": "8b9b8ab9f96d932f"
+ },
+ "price": 22000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 22000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "53 DC",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "65 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "33 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25371295",
+ "width_cm": 0,
+ "year": 1978
+}

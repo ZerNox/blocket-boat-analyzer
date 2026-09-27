@@ -1,0 +1,131 @@
+{
+ "ad_id": 26678055,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1789718914000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1976,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell i ok skick.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30 trailer ingår.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Örnvik 530"
+ ],
+ "heading": "Örnvik 530 1976",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26678055/f5b0fd97-44df-4566-8ddf-4e02a552da5c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26678055/f5b0fd97-44df-4566-8ddf-4e02a552da5c",
+  "https://images.blocketcdn.se/dynamic/default/item/26678055/b637838d-adc6-4207-8702-2af1299d623d",
+  "https://images.blocketcdn.se/dynamic/default/item/26678055/ceb87a1c-9f91-4ef5-9436-e6bd8e66c0c4",
+  "https://images.blocketcdn.se/dynamic/default/item/26678055/5a1893de-db03-41f2-acc7-e84603756ab9",
+  "https://images.blocketcdn.se/dynamic/default/item/26678055/2b96f9a4-ed79-4622-b1d6-3eea08a45f4f",
+  "https://images.blocketcdn.se/dynamic/default/item/26678055/bc138f5e-007a-461d-8c48-c5ffd2d7a12c",
+  "https://images.blocketcdn.se/dynamic/default/item/26678055/b7bfb940-831a-4434-a3f8-9d6704c029db"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.34,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1976,
+   "engine_hours": null,
+   "engine_hp": 80,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "799b17c48f1f56b9"
+ },
+ "location": "Lidingö",
+ "lon": 18.15,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 145,
+  "fetched_ts": 1790523202728,
+  "text_sha": "799b17c48f1f56b9"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "530",
+  "Modellår": "1976",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Typ": "Kabinbåt",
+  "Vikt": "500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26678055",
+ "width_cm": 215,
+ "year": 1976
+}

@@ -7,6 +7,8 @@
   "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 9.8,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu 9.8",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -32,8 +34,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Terhi 440 med Tohatsu 9,8  och Tiki 600-båttrailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25986109/713133a4-c281-458c-8a87-5091af520159",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.50941,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25986109/713133a4-c281-458c-8a87-5091af520159",
+  "https://images.blocketcdn.se/dynamic/default/item/25986109/35451f82-b5eb-4a67-a358-81322d896d92"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.51,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -64,12 +70,13 @@
   "text_sha": "e3198872024f37ab"
  },
  "location": "Töcksfors",
- "lon": 11.84311,
+ "lon": 11.84,
  "make": "Terhi",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 9.800000190734863,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 438,
   "fetched_ts": 1790508359635,
@@ -97,7 +104,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25986109",
  "width_cm": 0,
  "year": 2016

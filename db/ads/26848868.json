@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda fyrtakt",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 485S (16 fot) med Honda 50 hk fyrtakt, trailer och vinterställning",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26848868/614e0608-6da5-4588-aefc-5232648ec06d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.28827,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26848868/614e0608-6da5-4588-aefc-5232648ec06d",
+  "https://images.blocketcdn.se/dynamic/default/item/26848868/59e17eaa-ea66-4c51-95fd-a59a49f05b54",
+  "https://images.blocketcdn.se/dynamic/default/item/26848868/cd380d1c-9081-4665-92ae-463232773f00",
+  "https://images.blocketcdn.se/dynamic/default/item/26848868/441ed4bb-4d06-4198-a45a-a69cf961f6e9",
+  "https://images.blocketcdn.se/dynamic/default/item/26848868/0b37c88b-264d-4e54-982e-efdc3f5578f4",
+  "https://images.blocketcdn.se/dynamic/default/item/26848868/7a5a7084-a604-483c-a755-245d0b48f1a3"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.29,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +76,13 @@
   "text_sha": "e1f251a521e10c56"
  },
  "location": "Ekerö",
- "lon": 17.7975,
+ "lon": 17.8,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 380,
   "fetched_ts": 1790508978572,
@@ -99,7 +110,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "380 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26848868",
  "width_cm": 195,
  "year": 2000

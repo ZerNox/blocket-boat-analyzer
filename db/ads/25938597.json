@@ -1,0 +1,137 @@
+{
+ "ad_id": 25938597,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787410615000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo Penta",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Tvätta kapell om så önskas",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin plotter",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Viss prutmån finns men beroende på bud väljer jag att sälja trailern separat.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ockelbo C20",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25938597/766fb241-93be-4c29-bfba-b606b31fe64b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25938597/766fb241-93be-4c29-bfba-b606b31fe64b",
+  "https://images.blocketcdn.se/dynamic/default/item/25938597/64de4ab6-e8e4-4607-9a45-e798ff158a0e",
+  "https://images.blocketcdn.se/dynamic/default/item/25938597/4f541af0-2e29-4f7e-8f79-81f1c9b693b9",
+  "https://images.blocketcdn.se/dynamic/default/item/25938597/47c56b7a-7f99-48d4-8917-b7d584f38d88",
+  "https://images.blocketcdn.se/dynamic/default/item/25938597/b0c3f0b4-75da-402b-9fed-dfc94c8ebce1",
+  "https://images.blocketcdn.se/dynamic/default/item/25938597/90ada532-161a-452c-9642-d30a80b08adc",
+  "https://images.blocketcdn.se/dynamic/default/item/25938597/f2b8277f-f798-4cf1-a6d0-e82108f15824",
+  "https://images.blocketcdn.se/dynamic/default/item/25938597/a6fb0f3b-c728-41cf-bfc9-36bbefbbff92",
+  "https://images.blocketcdn.se/dynamic/default/item/25938597/cf85e73e-4a57-4f53-a86f-15cbd8948b51",
+  "https://images.blocketcdn.se/dynamic/default/item/25938597/b4b0349a-f469-48e9-8b55-a8930aa5497a",
+  "https://images.blocketcdn.se/dynamic/default/item/25938597/9256d5cb-fb26-4589-a7f2-a55469c15557",
+  "https://images.blocketcdn.se/dynamic/default/item/25938597/a4810787-baca-46d9-90af-dfc326a7301c"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.34,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1975,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Osäker på årtal men 70-tal vet jag. Ny motor monterades mitten 80-tal",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c38f088f3c67b9af"
+ },
+ "location": "Bromma",
+ "lon": 17.94,
+ "make": "Ockelbo",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 1469,
+  "fetched_ts": 1790523088149,
+  "text_sha": "c38f088f3c67b9af"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Bredd": "240 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "45 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modell": "C20",
+  "Modellår": "1975",
+  "Motortillverkare": "Volvo Penta",
+  "Motortyp": "Inombordare",
+  "Märke": "Ockelbo",
+  "Sittplatser": "6",
+  "Sovplatser": "2",
+  "Typ": "Daycruiser",
+  "Vikt": "1 100 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25938597",
+ "width_cm": 240,
+ "year": 1975
+}

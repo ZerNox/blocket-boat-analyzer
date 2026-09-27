@@ -7,6 +7,8 @@
   "boat_year": 1997,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 45,
+  "engine_hp_source": "llm",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 440GT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23912554/085e8770-40cd-4281-84de-ba02b375d16a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.2995,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23912554/085e8770-40cd-4281-84de-ba02b375d16a",
+  "https://images.blocketcdn.se/dynamic/default/item/23912554/3d66813f-92e5-4ee8-9c50-1ec6172485ce"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.3,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +71,13 @@
   "text_sha": "027e896f9701dc90"
  },
  "location": "Värmdö",
- "lon": 18.48271,
+ "lon": 18.48,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 45.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 127,
   "fetched_ts": 1790507550106,
@@ -99,7 +106,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23912554",
  "width_cm": 180,
  "year": 1997

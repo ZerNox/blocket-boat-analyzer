@@ -38,10 +38,11 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "Silver Hawk 520 med trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25223707/c131293d-d5af-4195-9143-99bea31e844f",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.33242,
+ "lat": 59.33,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -71,7 +72,7 @@
   "text_sha": "6b456ea04a6763df"
  },
  "location": "Bromma",
- "lon": 17.90468,
+ "lon": 17.9,
  "make": "Silver",
  "max_speed": 26,
  "motor_fuel": "Bensin",
@@ -105,7 +106,7 @@
   "Toppfart": "26 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/25223707",
  "width_cm": 0,
  "year": 2000

@@ -7,6 +7,8 @@
   "boat_year": 1958,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 7,
+  "engine_hp_source": "llm",
   "engine_maker": "Säffle",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -36,8 +38,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "K-märkt Lidwall BVV 5 med original tändkulemotor och linspel!",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26028125/72fb8a63-57d8-434d-8c1a-4ad9c3cf5e22",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.78128,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26028125/72fb8a63-57d8-434d-8c1a-4ad9c3cf5e22",
+  "https://images.blocketcdn.se/dynamic/default/item/26028125/7747bb9d-bac8-4918-9239-6e55b8d9ab60",
+  "https://images.blocketcdn.se/dynamic/default/item/26028125/a796b722-f8b4-496c-895a-684df13d98f2",
+  "https://images.blocketcdn.se/dynamic/default/item/26028125/054ab367-bb85-4cc9-99a2-c36ce4e24fb7",
+  "https://images.blocketcdn.se/dynamic/default/item/26028125/d3740042-ae0d-4a16-94c3-0627ed4be56a",
+  "https://images.blocketcdn.se/dynamic/default/item/26028125/292c0435-3268-4369-86cc-02bf63b90a4d",
+  "https://images.blocketcdn.se/dynamic/default/item/26028125/10b6dc9a-9473-4e7b-97d2-c1097d5dd0a5",
+  "https://images.blocketcdn.se/dynamic/default/item/26028125/3b22c02c-656b-4588-b321-e05b8acef77a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.78,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -68,12 +80,13 @@
   "text_sha": "76fa02f471487f1a"
  },
  "location": "Ramnäs",
- "lon": 16.2123,
+ "lon": 16.21,
  "make": "Övriga",
  "max_speed": 5,
  "motor_fuel": "Diesel",
  "motor_size": 7.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1350,
   "fetched_ts": 1790508399264,
@@ -106,7 +119,7 @@
   "Typ": "Annat",
   "Vikt": "1 500 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26028125",
  "width_cm": 200,
  "year": 1958

@@ -7,6 +7,8 @@
   "boat_year": 1997,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -40,6 +42,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -49,10 +55,23 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Beneteau Antares 550 Calanque + Yamaha F80 + Trailer 80km/h bromsad",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26430829/bd2d4a55-66c6-4c2b-b91c-da9a7bb74efb",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.49645,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26430829/bd2d4a55-66c6-4c2b-b91c-da9a7bb74efb",
+  "https://images.blocketcdn.se/dynamic/default/item/26430829/86fe1a63-784f-4b1a-a60f-0d44795795c8",
+  "https://images.blocketcdn.se/dynamic/default/item/26430829/28b1bd16-4009-4816-97b4-447511ce5e73",
+  "https://images.blocketcdn.se/dynamic/default/item/26430829/5915cad1-5e36-466f-bf78-e4e3f206c6d7",
+  "https://images.blocketcdn.se/dynamic/default/item/26430829/d809b113-26a5-4e87-9484-ca859651a070",
+  "https://images.blocketcdn.se/dynamic/default/item/26430829/1b73d1b2-dcf5-46ca-906c-833d0d1dd1ea",
+  "https://images.blocketcdn.se/dynamic/default/item/26430829/62a6d853-7789-49ed-8624-c3cf903a1dd5",
+  "https://images.blocketcdn.se/dynamic/default/item/26430829/dd440227-5242-4e25-a883-98f4899a640e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.5,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -82,7 +101,7 @@
   "text_sha": "d51e29e35a45729d"
  },
  "location": "Lidköping",
- "lon": 13.11352,
+ "lon": 13.11,
  "make": "Beneteau",
  "max_speed": 25,
  "motor_fuel": "Bensin",

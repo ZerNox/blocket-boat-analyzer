@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 45.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Lappi 400s, honda bf45 fyrtakt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26017669/3a2d9b32-d624-444d-b69a-31f45ddc4858",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.04344,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26017669/3a2d9b32-d624-444d-b69a-31f45ddc4858",
+  "https://images.blocketcdn.se/dynamic/default/item/26017669/12eddabc-0dbb-4f4b-a0df-69a48b585714",
+  "https://images.blocketcdn.se/dynamic/default/item/26017669/1f65e9d0-2185-4e59-ab35-060e33a33bec",
+  "https://images.blocketcdn.se/dynamic/default/item/26017669/52ee2f1e-af68-43f8-a505-7fdf7d38c48f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.04,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +75,13 @@
   "text_sha": "bfa7c7e00d55b241"
  },
  "location": "Gnesta",
- "lon": 17.31537,
+ "lon": 17.32,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 45.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 322,
   "fetched_ts": 1790508393444,
@@ -101,7 +110,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26017669",
  "width_cm": 160,
  "year": 1980

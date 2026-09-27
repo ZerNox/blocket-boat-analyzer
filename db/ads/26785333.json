@@ -1,0 +1,138 @@
+{
+ "ad_id": 26785333,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790016233000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury två takt",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell i fint skick samt Garmin 720 plotter från 2012 (sjökort från 2026)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Kapell i fint skick samt Garmin 720 plotter från 2012 (sjökort från 2026)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds 568 GT 2005 inklusive 30 kärra.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Clear view of cockpit and no enclosed cabin or hatch visible.",
+  "hull_source": "bild",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Ryds 568"
+ ],
+ "heading": "Ryds 568 GT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26785333/add8484f-fc88-4451-b7d0-2e54e5850724",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26785333/add8484f-fc88-4451-b7d0-2e54e5850724",
+  "https://images.blocketcdn.se/dynamic/default/item/26785333/b43b347f-e43f-4db5-a6c9-939db8a76ae7",
+  "https://images.blocketcdn.se/dynamic/default/item/26785333/b7ba7aa7-f964-400d-a168-852f586ea71d"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.54,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2005,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Nytt batteri 2026",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f47b3de5b7580c4b"
+ },
+ "location": "Blidö",
+ "lon": 19.26,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 181,
+  "fetched_ts": 1790523219493,
+  "text_sha": "f47b3de5b7580c4b"
+ },
+ "price": 90000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 90000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "568 GT",
+  "Modellår": "2005",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury två takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26785333",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "c19820c99796e248",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "Clear view of cockpit and no enclosed cabin or hatch visible.",
+   "hull_photo": 1
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 0,
+ "year": 2005
+}

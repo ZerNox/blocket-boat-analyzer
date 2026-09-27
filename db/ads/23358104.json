@@ -1,0 +1,122 @@
+{
+ "ad_id": 23358104,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785427426000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mariner 90hk 4 takt",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Örnvik 520dc inklusive släpkärra",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 520dc inklusive släpkärra",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Örnvik 520dc inklusive släpkärra",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23358104/58d57158-8a66-48ff-bb73-1a4490881487",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23358104/58d57158-8a66-48ff-bb73-1a4490881487",
+  "https://images.blocketcdn.se/dynamic/default/item/23358104/a77e0c88-dc3f-4e97-9c51-7fdef83297d3",
+  "https://images.blocketcdn.se/dynamic/default/item/23358104/50833f3d-6d1c-4d0c-b183-1423f1b56afb",
+  "https://images.blocketcdn.se/dynamic/default/item/23358104/d36c39c3-d328-49b6-a577-e57342cc2047",
+  "https://images.blocketcdn.se/dynamic/default/item/23358104/4048828d-7060-4260-b9cc-52df00d38b2d",
+  "https://images.blocketcdn.se/dynamic/default/item/23358104/d247d1e1-1160-4552-b839-ee925553671d",
+  "https://images.blocketcdn.se/dynamic/default/item/23358104/affc2492-4733-41f0-85b6-58486d94c3d2"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.86,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "613f173252e1a792"
+ },
+ "location": "Alingsås",
+ "lon": 12.5,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 67,
+  "fetched_ts": 1790522893605,
+  "text_sha": "613f173252e1a792"
+ },
+ "price": 100000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 100000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mariner 90hk 4 takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23358104",
+ "width_cm": 0,
+ "year": 2000
+}

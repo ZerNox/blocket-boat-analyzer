@@ -7,6 +7,8 @@
   "boat_year": 1977,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -39,8 +41,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ockelbo b16",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25971688/09c1f091-dff5-4fef-b5b6-70d984f6f506",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.62792,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25971688/09c1f091-dff5-4fef-b5b6-70d984f6f506",
+  "https://images.blocketcdn.se/dynamic/default/item/25971688/11cbdb51-611e-4093-892c-a9233b48317d",
+  "https://images.blocketcdn.se/dynamic/default/item/25971688/1da22aff-ad2e-474b-ab81-80dccc0df56d",
+  "https://images.blocketcdn.se/dynamic/default/item/25971688/bc2abeb5-ae95-4704-92cc-2bb853c4cf94",
+  "https://images.blocketcdn.se/dynamic/default/item/25971688/df5312ac-8ffb-4c62-8f3c-1aded6ec5c03",
+  "https://images.blocketcdn.se/dynamic/default/item/25971688/cbd71543-59e4-4973-a55c-45f13f4cc4ba"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.63,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +80,13 @@
   "text_sha": "944dcb922f4050ec"
  },
  "location": "Skutskär",
- "lon": 17.37741,
+ "lon": 17.38,
  "make": "Ockelbo",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 284,
   "fetched_ts": 1790508338327,
@@ -104,7 +115,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25971688",
  "width_cm": 200,
  "year": 1977

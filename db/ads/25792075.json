@@ -7,6 +7,8 @@
   "boat_year": 2007,
   "boat_year_source": "spec",
   "engine_hours": 300,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda BF50",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -43,8 +45,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 478 gt med Honda BF50",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25792075/50d9ee22-044a-47c4-b626-958808288e12",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.52441,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25792075/50d9ee22-044a-47c4-b626-958808288e12",
+  "https://images.blocketcdn.se/dynamic/default/item/25792075/60967763-4f9f-45ff-ba72-447c7f0bdc77",
+  "https://images.blocketcdn.se/dynamic/default/item/25792075/4d76791c-227a-4c48-bf73-3be067285070",
+  "https://images.blocketcdn.se/dynamic/default/item/25792075/ac4c68a0-a9d2-40f8-a381-e4d16405973a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.52,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +82,13 @@
   "text_sha": "121ebbddb1d18fe0"
  },
  "location": "Hagby",
- "lon": 16.2203,
+ "lon": 16.22,
  "make": "Ryds",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 789,
   "fetched_ts": 1790508196832,
@@ -107,7 +116,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25792075",
  "width_cm": 191,
  "year": 2007

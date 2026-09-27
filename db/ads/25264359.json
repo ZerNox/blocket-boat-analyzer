@@ -7,6 +7,8 @@
   "boat_year": 1987,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -43,8 +45,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fiskebåt med 80 trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25264359/d86d8b23-e104-4949-b38e-b9ee4c91e520",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.7037,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25264359/d86d8b23-e104-4949-b38e-b9ee4c91e520",
+  "https://images.blocketcdn.se/dynamic/default/item/25264359/a9030982-c405-4a68-9d32-2bb2304a5339",
+  "https://images.blocketcdn.se/dynamic/default/item/25264359/a4f12068-483e-43d4-b6db-ea0b3ff0acc0",
+  "https://images.blocketcdn.se/dynamic/default/item/25264359/bb83fc03-48fa-4071-b765-f41cc032c634",
+  "https://images.blocketcdn.se/dynamic/default/item/25264359/23052ff8-2f1b-450a-8149-48448d951b82",
+  "https://images.blocketcdn.se/dynamic/default/item/25264359/b1ac0d3f-ced5-4ff9-a12b-d8202a1f2da3"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.7,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +84,13 @@
   "text_sha": "7a43e860e6860116"
  },
  "location": "Kolsva",
- "lon": 15.79162,
+ "lon": 15.79,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 311,
   "fetched_ts": 1790507702077,
@@ -104,7 +115,7 @@
   "Märke": "Crescent",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25264359",
  "width_cm": 0,
  "year": 1987

@@ -7,6 +7,8 @@
   "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -24,6 +26,10 @@
     "kmh": 80
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -33,10 +39,16 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Motorbåt +reg trailer 80km finns även  båtplats att hyra",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25783709/98690d0b-2e3b-4701-b454-4c10368f6774",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.13392,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25783709/98690d0b-2e3b-4701-b454-4c10368f6774"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.13,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -66,7 +78,7 @@
   "text_sha": "55ca31ef61496e84"
  },
  "location": "Senoren",
- "lon": 15.75498,
+ "lon": 15.75,
  "make": "Sandström",
  "max_speed": null,
  "motor_fuel": "Bensin",

@@ -1,0 +1,124 @@
+{
+ "ad_id": 23860495,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1785942256000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude/suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1999,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Flipper 515 år 1999 motor evinrude/suzuki 50 hk i sprutning nyservad ,plotter , kapell nytvättat ,obromsad vagn ingår",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Flipper 515 år 1999 motor evinrude/suzuki 50 hk i sprutning nyservad ,plotter , kapell nytvättat ,obromsad vagn ingår",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Flipper 515",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23860495/864c32a9-5ed9-4619-9ff8-7b90eb367e6e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23860495/864c32a9-5ed9-4619-9ff8-7b90eb367e6e",
+  "https://images.blocketcdn.se/dynamic/default/item/23860495/2d08d210-4af5-47f4-b272-94dc73817f93",
+  "https://images.blocketcdn.se/dynamic/default/item/23860495/a3ccf77e-37b7-4646-bf48-ff7e914c4601",
+  "https://images.blocketcdn.se/dynamic/default/item/23860495/0a82531b-c560-4b0f-9765-410ecb78c42f"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.34,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1999,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Evinrude/suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "nyservad",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "616f3f8c00a2abd9"
+ },
+ "location": "Djurhamn",
+ "lon": 18.73,
+ "make": "Flipper",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 117,
+  "fetched_ts": 1790522912667,
+  "text_sha": "616f3f8c00a2abd9"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "515",
+  "Modellår": "1999",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Evinrude/suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23860495",
+ "width_cm": 0,
+ "year": 1999
+}

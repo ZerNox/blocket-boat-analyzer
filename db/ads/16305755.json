@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -40,8 +42,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "fiskebåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/16305755/66d37f41-7e27-471a-a349-6dd10de60ff9",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.60011,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/16305755/66d37f41-7e27-471a-a349-6dd10de60ff9",
+  "https://images.blocketcdn.se/dynamic/default/item/16305755/fd757c19-6430-4398-b5e9-297fd6881bb8",
+  "https://images.blocketcdn.se/dynamic/default/item/16305755/881252fd-15e4-49c7-98c5-bd2d84fb378d",
+  "https://images.blocketcdn.se/dynamic/default/item/16305755/971f0a10-9aaf-42c5-a7a8-2dd593f9d9ef",
+  "https://images.blocketcdn.se/dynamic/default/item/16305755/5d62a4c9-b9cc-4366-8d96-deda4f5339c6",
+  "https://images.blocketcdn.se/dynamic/default/item/16305755/1936b2b2-99ee-484b-9149-bcc1ee3658f9",
+  "https://images.blocketcdn.se/dynamic/default/item/16305755/baacd2de-6425-4727-b1d1-f4bc509b9960",
+  "https://images.blocketcdn.se/dynamic/default/item/16305755/2f51d29d-f72b-4a7d-a9b1-dcb9cd1241bd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.6,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -72,12 +84,13 @@
   "text_sha": "6368de187af837a1"
  },
  "location": "Kållered",
- "lon": 12.05081,
+ "lon": 12.05,
  "make": "SK",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1308,
   "fetched_ts": 1790507318023,
@@ -102,7 +115,7 @@
   "Märke": "SK",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/16305755",
  "width_cm": 0,
  "year": 2006

@@ -1,0 +1,115 @@
+{
+ "ad_id": 25305006,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785594639000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1996,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Det som ingår är ett ekolod som knappt är använt så i nyskick men har några år på nacken, båtkärran är en 30 kärra men …",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Det som ingår är ett ekolod som knappt är använt så i nyskick men har några år på nacken, båtkärran är en 30 kärra men …",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Askeladden 430",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25305006/0d59d495-664a-4cd9-89a2-810a0bcc1767",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25305006/0d59d495-664a-4cd9-89a2-810a0bcc1767",
+  "https://images.blocketcdn.se/dynamic/default/item/25305006/d81b6990-be4a-4957-98dd-895ded68cc17",
+  "https://images.blocketcdn.se/dynamic/default/item/25305006/2c93bb50-fd5d-4996-9ffc-b959c9491afa",
+  "https://images.blocketcdn.se/dynamic/default/item/25305006/c1ab38e0-db07-4c83-995b-3b19a9ecf9d5",
+  "https://images.blocketcdn.se/dynamic/default/item/25305006/35e4aa34-0203-436c-9e9f-30c407192bfa"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.47,
+ "length_ft": 430,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1996,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn är i nyskick nästan aldrig använd, det är en tvåtaktare där det är en separat tank för olja. Det är både el och manuell start.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0882a204712959d1"
+ },
+ "location": "Värmskog",
+ "lon": 12.92,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 703,
+  "fetched_ts": 1790520674289,
+  "text_sha": "0882a204712959d1"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "430 fot",
+  "Modellår": "1996",
+  "Motor inkluderad": "Ja",
+  "Märke": "Askeladden",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25305006",
+ "width_cm": 0,
+ "year": 1996
+}

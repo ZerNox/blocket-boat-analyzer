@@ -37,3 +37,9 @@ def test_variant_keys_for_model_list():
     assert market.model_keys("Sandström", None, "Sandström 560 MC")[1] == "sandström 560 mc"
     assert market.model_keys("Sandström", None, "Sandström 560mc. 60 hk Honda. 2023")[1] == "sandström 560 mc"
     assert market.model_keys("Sandström", None, "Sandström 565 CC Mercury 50hk")[1] == "sandström 565 cc"
+
+
+def test_qualifier_makes_variant():
+    assert market.model_keys("Sandström", None, "SANDSTRÖM CLASSIC 560 HONDA 60 HK") == ("sandström 560", "sandström 560 classic")
+    assert market.model_keys("Sandström", None, "Sandström 565 Classic 2017") == ("sandström 565", "sandström 565 classic")
+    assert market.model_keys("Sandström", None, "Sandström 560 MC") == ("sandström 560", "sandström 560 mc")

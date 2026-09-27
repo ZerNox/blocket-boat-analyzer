@@ -1,0 +1,116 @@
+{
+ "ad_id": 25953804,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787474416000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1993,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "V6 omc Volvo penta dp drev.",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "Volvo Penta slutade med utombordare kring 1990",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Skibsplast SV 670 med trailer, 99 000kr eller bud",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Skibsplast SV 670 med trailer,  99 000kr eller bud",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25953804/b864d616-149d-4d6e-837a-a19efe2f5b07",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25953804/b864d616-149d-4d6e-837a-a19efe2f5b07",
+  "https://images.blocketcdn.se/dynamic/default/item/25953804/5bd017d9-bc61-4430-a595-2f0e85aefdee",
+  "https://images.blocketcdn.se/dynamic/default/item/25953804/d9cbaeab-24ac-4ee3-baf3-e0a601fabbec",
+  "https://images.blocketcdn.se/dynamic/default/item/25953804/a631ea91-4def-4989-b5c3-d6c4238cbdff",
+  "https://images.blocketcdn.se/dynamic/default/item/25953804/2ab62c53-b7ba-4850-8955-413b12537dbf",
+  "https://images.blocketcdn.se/dynamic/default/item/25953804/9f3f2c48-87d8-42be-958d-1496ecff8d5c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.21,
+ "length_ft": 22,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1993,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "V6 omc Volvo penta dp drev.",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "cbf6560ff0544d51"
+ },
+ "location": "Njurunda",
+ "lon": 17.54,
+ "make": "Skibsplast",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 234,
+  "fetched_ts": 1790520865081,
+  "text_sha": "cbf6560ff0544d51"
+ },
+ "price": 109,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 109
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "22 fot",
+  "Modell": "SV670",
+  "Modellår": "1993",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "V6 omc Volvo penta dp drev.",
+  "Motortyp": "Inombordare",
+  "Märke": "Skibsplast",
+  "Sittplatser": "5",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt",
+  "Vikt": "1 200 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25953804",
+ "width_cm": 0,
+ "year": 1993
+}

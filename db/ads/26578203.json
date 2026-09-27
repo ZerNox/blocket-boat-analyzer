@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "MERCURY",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -35,8 +37,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet med 25hk tvåtakt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26578203/0941c6ec-4194-4267-ad6c-37903cc907b1",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.34473,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26578203/0941c6ec-4194-4267-ad6c-37903cc907b1",
+  "https://images.blocketcdn.se/dynamic/default/item/26578203/5ea3c1d9-3eb7-437e-80a2-49641e04e504"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.34,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +72,13 @@
   "text_sha": "dc506aa63c349015"
  },
  "location": "Mjölby",
- "lon": 15.12811,
+ "lon": 15.13,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 166,
   "fetched_ts": 1790508808733,
@@ -98,7 +105,7 @@
   "Sittplatser": "5",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26578203",
  "width_cm": 180,
  "year": 1990

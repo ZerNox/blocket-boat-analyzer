@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26159628/c3516cf5-def4-435e-b70d-5523d4d00a59",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.97745,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26159628/c3516cf5-def4-435e-b70d-5523d4d00a59",
+  "https://images.blocketcdn.se/dynamic/default/item/26159628/a5f97582-b74a-423d-a92e-da2fef88ef19",
+  "https://images.blocketcdn.se/dynamic/default/item/26159628/e3015801-41f9-4068-8186-11f6cc03b946",
+  "https://images.blocketcdn.se/dynamic/default/item/26159628/7e046aeb-798f-42f3-8d6a-6b879f61f81b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.98,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +74,13 @@
   "text_sha": "312a35732b8acd89"
  },
  "location": "Habo",
- "lon": 14.09244,
+ "lon": 14.09,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 148,
   "fetched_ts": 1790508493366,
@@ -97,7 +106,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26159628",
  "width_cm": 0,
  "year": 1980

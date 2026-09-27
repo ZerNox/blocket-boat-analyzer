@@ -1,0 +1,125 @@
+{
+ "ad_id": 21911003,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790417798000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Motor nyservad, kapell tvättat och impregnerat förra året, ruta fram och bak kapellet är trasiga men .",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 540 DC",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Örnvik 540"
+ ],
+ "heading": "Örnvik 540 DC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21911003/44dbdf01-75d6-4dc0-9269-3fce9a502999",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21911003/44dbdf01-75d6-4dc0-9269-3fce9a502999",
+  "https://images.blocketcdn.se/dynamic/default/item/21911003/32fa8e3a-f47e-401b-9550-9efd7923ea87",
+  "https://images.blocketcdn.se/dynamic/default/item/21911003/994844c2-7906-4c6c-bb6a-185d6a644dab",
+  "https://images.blocketcdn.se/dynamic/default/item/21911003/4f77f24f-4a97-4254-b24e-7d37c094f9dd",
+  "https://images.blocketcdn.se/dynamic/default/item/21911003/5473e8bc-b801-4c05-975e-0aaa801e9fae"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.26,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor nyservad, kapell tvättat och impregnerat förra året",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2512fc925fd34b35"
+ },
+ "location": "Ängelholm",
+ "lon": 12.87,
+ "make": "Örnvik",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 233,
+  "fetched_ts": 1790522859716,
+  "text_sha": "2512fc925fd34b35"
+ },
+ "price": 110000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 110000
+  }
+ ],
+ "specs": {
+  "Bredd": "255 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "540 DC",
+  "Modellår": "2006",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "4",
+  "Toppfart": "35 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/21911003",
+ "width_cm": 255,
+ "year": 2006
+}

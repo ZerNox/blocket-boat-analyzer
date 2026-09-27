@@ -7,6 +7,8 @@
   "boat_year": 1999,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 65.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Micore 490 gt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25471544/5a1a0e41-466d-496a-a915-4a45abbc6c78",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.0551,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25471544/5a1a0e41-466d-496a-a915-4a45abbc6c78",
+  "https://images.blocketcdn.se/dynamic/default/item/25471544/b1868baf-74f1-4390-ac35-760b7c5c4a73",
+  "https://images.blocketcdn.se/dynamic/default/item/25471544/25fb5f23-851a-48be-a2ca-04bcba2d23e4",
+  "https://images.blocketcdn.se/dynamic/default/item/25471544/fabbb6af-8fde-4b7a-a8d1-d3f66795ec9d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.06,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +74,13 @@
   "text_sha": "dc28c8f55fd63116"
  },
  "location": "Katrineholm",
- "lon": 16.06177,
+ "lon": 16.06,
  "make": "Micore",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 65.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 447,
   "fetched_ts": 1790507901704,
@@ -99,7 +108,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "360 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25471544",
  "width_cm": 187,
  "year": 1999

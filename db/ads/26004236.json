@@ -1,0 +1,82 @@
+{
+ "ad_id": 26004236,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787590385000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Zodiac Futura Serie Limitee Mark II",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26004236/bb9292f5-fae6-44ec-9646-493676ed8788",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26004236/bb9292f5-fae6-44ec-9646-493676ed8788",
+  "https://images.blocketcdn.se/dynamic/default/item/26004236/025eca52-c2aa-4e59-b9f4-66f3c6c5e6bf",
+  "https://images.blocketcdn.se/dynamic/default/item/26004236/3c2b2c76-98ba-4efe-933c-ebab7cc17e59",
+  "https://images.blocketcdn.se/dynamic/default/item/26004236/e6c326f3-3078-421a-bd32-9c2a1614e3ca",
+  "https://images.blocketcdn.se/dynamic/default/item/26004236/b94a279b-d32b-48bd-a6b5-705ca97acd9a",
+  "https://images.blocketcdn.se/dynamic/default/item/26004236/841e6b1a-2983-4b3f-9795-67b3e17015b5",
+  "https://images.blocketcdn.se/dynamic/default/item/26004236/8bde729d-bbf4-4d44-a81f-f51af412fd88",
+  "https://images.blocketcdn.se/dynamic/default/item/26004236/99fbae18-d997-4893-8cb1-2857e2e5b4a0",
+  "https://images.blocketcdn.se/dynamic/default/item/26004236/51e4908b-6a4c-46ad-9032-62aa869cb7b3",
+  "https://images.blocketcdn.se/dynamic/default/item/26004236/73d7752e-842e-4d00-84b8-4cf687828b9c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.29,
+ "length_ft": 13,
+ "location": "Hedemora",
+ "lon": 15.97,
+ "make": "Zodiac",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 423,
+  "fetched_ts": 1790520871742,
+  "text_sha": "77630e7196c82786"
+ },
+ "price": 7500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Se bild",
+  "Längd i fot": "13 fot",
+  "Modell": "Zodiac Futura Serie Limitee Mark II",
+  "Modellår": "2000",
+  "Motor inkluderad": "Nej",
+  "Märke": "Zodiac",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "192 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26004236",
+ "width_cm": 0,
+ "year": 2000
+}

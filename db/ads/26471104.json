@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Monark, Johnson 25hk.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26471104/f9c2ade5-77cf-4050-952c-53c2acb0e5dc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.3651,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26471104/f9c2ade5-77cf-4050-952c-53c2acb0e5dc",
+  "https://images.blocketcdn.se/dynamic/default/item/26471104/9f37ef29-fa82-49fb-9e7e-fb71173722bf",
+  "https://images.blocketcdn.se/dynamic/default/item/26471104/bf0da3a1-0690-40bc-b0b2-31fcdb0c6385",
+  "https://images.blocketcdn.se/dynamic/default/item/26471104/4a5988b0-f1c6-4cc7-a1e4-5e7fdd1f4541"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.37,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +74,13 @@
   "text_sha": "373d22b21b6fd4d1"
  },
  "location": "Solna",
- "lon": 17.98802,
+ "lon": 17.99,
  "make": "Monark",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 392,
   "fetched_ts": 1790508712669,
@@ -100,7 +109,7 @@
   "Toppfart": "20 knop",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26471104",
  "width_cm": 0,
  "year": 1980

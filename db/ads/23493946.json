@@ -7,6 +7,8 @@
   "boat_year": 2022,
   "boat_year_source": "spec",
   "engine_hours": 29,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder Arkip 460 -2022 med Yamaha 50 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23493946/bdae5977-92ed-48ef-9123-28350352b49e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.43099,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23493946/bdae5977-92ed-48ef-9123-28350352b49e",
+  "https://images.blocketcdn.se/dynamic/default/item/23493946/640aeee0-8b29-4a58-89ca-8e1e8a4ca832",
+  "https://images.blocketcdn.se/dynamic/default/item/23493946/6d9dedf9-f2e5-4200-a4fa-f36db8211b0f",
+  "https://images.blocketcdn.se/dynamic/default/item/23493946/4f29f50c-d884-48c1-a231-7bd40c3c7a7b",
+  "https://images.blocketcdn.se/dynamic/default/item/23493946/61c32bb9-8902-4e53-823d-8a854662ae52",
+  "https://images.blocketcdn.se/dynamic/default/item/23493946/84d07ff3-a6e4-4b90-87c1-f67370ead95b",
+  "https://images.blocketcdn.se/dynamic/default/item/23493946/778c69df-ecf8-4859-8df4-490a1d90970d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.43,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +71,13 @@
   "text_sha": "3b24ca89d43e2b37"
  },
  "location": "Täby",
- "lon": 18.08228,
+ "lon": 18.08,
  "make": "Linder",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 240,
   "fetched_ts": 1790507510262,
@@ -93,7 +105,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23493946",
  "width_cm": 185,
  "year": 2022

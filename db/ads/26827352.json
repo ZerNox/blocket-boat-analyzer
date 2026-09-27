@@ -1,0 +1,81 @@
+{
+ "ad_id": 26827352,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1790322775000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": 10,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Yanmar",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Liten Kutter",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26827352/0e615f99-2ad2-49b9-823c-4769afb841b3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26827352/0e615f99-2ad2-49b9-823c-4769afb841b3",
+  "https://images.blocketcdn.se/dynamic/default/item/26827352/5378919a-eb92-4298-aa9f-87a3cda7a867",
+  "https://images.blocketcdn.se/dynamic/default/item/26827352/195fc4eb-0860-46e2-ab52-b52eddc90dfe",
+  "https://images.blocketcdn.se/dynamic/default/item/26827352/778e8625-4836-49c2-9714-439d817f29ec"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.63,
+ "length_ft": 19,
+ "location": "Visby",
+ "lon": 18.27,
+ "make": "Övriga",
+ "max_speed": 5,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 219,
+  "fetched_ts": 1790521063494,
+  "text_sha": "c23c8dbeb5796e8d"
+ },
+ "price": 19000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 19000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "19 fot",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Yanmar",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "5 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26827352",
+ "width_cm": 200,
+ "year": 1975
+}

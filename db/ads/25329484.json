@@ -7,6 +7,8 @@
   "boat_year": 1959,
   "boat_year_source": "spec",
   "engine_hours": 3,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": null,
   "engine_stroke": null,
   "engine_type": "electric",
@@ -35,8 +37,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Elbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25329484/6ced63ad-bb87-45bd-a502-dd01d7526008",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.74933,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25329484/6ced63ad-bb87-45bd-a502-dd01d7526008",
+  "https://images.blocketcdn.se/dynamic/default/item/25329484/850ac28c-b4b6-4c63-950c-b64ee7c2a2b5",
+  "https://images.blocketcdn.se/dynamic/default/item/25329484/f75b2fa3-ef7c-4dc2-a0da-e64714549b13",
+  "https://images.blocketcdn.se/dynamic/default/item/25329484/e71456d1-affd-4d25-9e25-6360bbc6f747",
+  "https://images.blocketcdn.se/dynamic/default/item/25329484/89483e93-789e-43e2-bf10-c6889645885c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.75,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +75,13 @@
   "text_sha": "192ee47ecb4a3586"
  },
  "location": "Norrtälje",
- "lon": 18.67805,
+ "lon": 18.68,
  "make": "Absolute",
  "max_speed": null,
  "motor_fuel": "Elektrisk",
  "motor_size": 6.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 99,
   "fetched_ts": 1790507765532,
@@ -95,7 +105,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25329484",
  "width_cm": 0,
  "year": 1959

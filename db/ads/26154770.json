@@ -7,6 +7,8 @@
   "boat_year": 2005,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercuri 4 taktare",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 5202",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26154770/dafedfa4-db31-4d46-bf3b-6603802293e8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.32191,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26154770/dafedfa4-db31-4d46-bf3b-6603802293e8",
+  "https://images.blocketcdn.se/dynamic/default/item/26154770/5408dffb-cd3a-46a5-8f4a-28ccec1b9120",
+  "https://images.blocketcdn.se/dynamic/default/item/26154770/5adff0d5-9896-4add-b09c-c71f8c00339f",
+  "https://images.blocketcdn.se/dynamic/default/item/26154770/39e97395-8258-41e8-ac73-033c56f0f542",
+  "https://images.blocketcdn.se/dynamic/default/item/26154770/5a75fbcd-ec4c-4dc8-93c7-5585ba4bcbf9",
+  "https://images.blocketcdn.se/dynamic/default/item/26154770/01f11675-0ed3-42b1-ba63-b9fba6bc601c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +75,13 @@
   "text_sha": "81f816855e23bcc6"
  },
  "location": "Värmdö",
- "lon": 18.44756,
+ "lon": 18.45,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 63,
   "fetched_ts": 1790508489404,
@@ -98,7 +109,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26154770",
  "width_cm": 0,
  "year": 2005

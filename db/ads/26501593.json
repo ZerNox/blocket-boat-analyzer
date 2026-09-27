@@ -7,6 +7,8 @@
   "boat_year": 1998,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 412",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26501593/7ab3cac3-0ff9-4f6e-807b-56a206348a87",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.70501,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26501593/7ab3cac3-0ff9-4f6e-807b-56a206348a87",
+  "https://images.blocketcdn.se/dynamic/default/item/26501593/d0aa7cac-3866-4155-98f5-70941633f1f3",
+  "https://images.blocketcdn.se/dynamic/default/item/26501593/829c3114-56d7-4d86-a3e4-04008b7140f8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.71,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "8ceb47d8d8454b59"
  },
  "location": "Norrtälje",
- "lon": 18.82881,
+ "lon": 18.83,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 150,
   "fetched_ts": 1790508743401,
@@ -93,7 +101,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "152 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26501593",
  "width_cm": 0,
  "year": 1998

@@ -1,0 +1,115 @@
+{
+ "ad_id": 25839800,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787124169000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 4.3,
+  "engine_hp_source": "llm",
+  "engine_maker": "Volvo penta 4.3",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Saltö 530 med inombordare Saltö 530 styrpulpet med Volvo penta 4.3 lit V 6a Volvo SX drev rostfri propel",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1988,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Saltö 530 styrpulpet med Volvo penta 4.3 lit V 6a Volvo SX drev rostfri propeller Fin trailer ingår Kan även bytas kom …",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "declared outboard but text says 'inombordare'",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Saltö 530 med inombordare",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25839800/f6889735-f0f6-4860-9e26-76ea7dff46f5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25839800/f6889735-f0f6-4860-9e26-76ea7dff46f5",
+  "https://images.blocketcdn.se/dynamic/default/item/25839800/76182210-2ff0-4299-bd34-2343ed477282",
+  "https://images.blocketcdn.se/dynamic/default/item/25839800/bbc9ad91-358d-40c4-b9c2-79d597d2264b",
+  "https://images.blocketcdn.se/dynamic/default/item/25839800/090bebb0-69b9-48b4-bd93-7e2543e0b49f",
+  "https://images.blocketcdn.se/dynamic/default/item/25839800/2e37b603-458c-453d-8952-9a3fca2d9351",
+  "https://images.blocketcdn.se/dynamic/default/item/25839800/793f79d8-2c58-47c5-bd0b-3958e78ffdc8",
+  "https://images.blocketcdn.se/dynamic/default/item/25839800/a312232d-f85a-4073-bfb4-daa7878ccb57"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.31,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1988,
+   "engine_hours": null,
+   "engine_hp": 4.3,
+   "engine_maker": "Volvo penta",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6f1a9a2a83078ac5"
+ },
+ "location": "Saltsjö-Boo",
+ "lon": 18.23,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 168,
+  "fetched_ts": 1790520844654,
+  "text_sha": "6f1a9a2a83078ac5"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modellår": "1988",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo penta 4.3",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25839800",
+ "width_cm": 0,
+ "year": 1988
+}

@@ -1,0 +1,92 @@
+{
+ "ad_id": 26323235,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1788598513000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": 243,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds Camping 560 ht Yamaha 70 2005.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår ej.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds Camping 560 ht Yamaha 70 2005",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds Camping 560 ht Yamaha 70 2005",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26323235/cf1bf7ce-5941-4824-9f30-9f81ab77e21a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26323235/cf1bf7ce-5941-4824-9f30-9f81ab77e21a",
+  "https://images.blocketcdn.se/dynamic/default/item/26323235/edfa3691-6465-45fb-a6cb-c03100012140",
+  "https://images.blocketcdn.se/dynamic/default/item/26323235/05ec5152-148c-4306-be43-61de55c7a6e8",
+  "https://images.blocketcdn.se/dynamic/default/item/26323235/e0f83f4e-fd9d-435c-9857-f439e608cdf2",
+  "https://images.blocketcdn.se/dynamic/default/item/26323235/a1da8a0c-6706-4103-bbea-8683df17343a",
+  "https://images.blocketcdn.se/dynamic/default/item/26323235/fd818d3b-5408-4716-87b6-6a75b38f9070",
+  "https://images.blocketcdn.se/dynamic/default/item/26323235/5b2e20bd-f862-4269-8880-1515945eeb3e",
+  "https://images.blocketcdn.se/dynamic/default/item/26323235/0fe7ebfd-9a62-4538-adb9-d201f0c7688b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.27,
+ "length_ft": 18,
+ "location": "Bandhagen",
+ "lon": 18.05,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 519,
+  "fetched_ts": 1790523144389,
+  "text_sha": "a475be17de4f012a"
+ },
+ "price": 69000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "Camping",
+  "Modellår": "1978",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26323235",
+ "width_cm": 0,
+ "year": 1978
+}

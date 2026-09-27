@@ -1,0 +1,101 @@
+{
+ "ad_id": 25222613,
+ "boat_class": "Annat",
+ "changed_ts": 1785341076000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Laxen 1",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25222613/96e9903a-aaa5-49e7-b176-44a193be2f81",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25222613/96e9903a-aaa5-49e7-b176-44a193be2f81",
+  "https://images.blocketcdn.se/dynamic/default/item/25222613/c970aff2-3fc8-4c06-8d10-eea9f2a8c5ee",
+  "https://images.blocketcdn.se/dynamic/default/item/25222613/70044e3c-2b7a-4399-afde-47e240fd8f87"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 67.35,
+ "length_ft": 32,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e86550e72c43c4d9"
+ },
+ "location": "Lovikka",
+ "lon": 22.63,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790520658876,
+  "text_sha": "e86550e72c43c4d9"
+ },
+ "price": 23000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 23000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "32 fot",
+  "Modellår": "1990",
+  "Märke": "Övriga",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25222613",
+ "width_cm": 0,
+ "year": 1990
+}

@@ -7,6 +7,8 @@
   "boat_year": 2026,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 500R Aluminiumbåt inkl Mercury 30hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26497875/37257261-75d9-41ce-8d8c-ba14a2ac2b1e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.24969,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26497875/37257261-75d9-41ce-8d8c-ba14a2ac2b1e",
+  "https://images.blocketcdn.se/dynamic/default/item/26497875/5a10c4e0-989d-4764-b35a-c0821594b2bc"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.25,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +71,13 @@
   "text_sha": "c4947a9ba85f5b1e"
  },
  "location": "Tyresö",
- "lon": 18.24818,
+ "lon": 18.25,
  "make": "Örnvik",
  "max_speed": 24,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 717,
   "fetched_ts": 1790508739133,
@@ -101,7 +108,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "202 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26497875",
  "width_cm": 180,
  "year": 2026

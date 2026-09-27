@@ -1,0 +1,103 @@
+{
+ "ad_id": 24378125,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787821315000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2016,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Säljer en Viking 550 mittpulpet utan motor, kapell, Lowerance autopilot, hydralstyrning, fast tank 70 L, låda för inbyg…",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Säljer en Viking 550 mittpulpet utan motor, kapell, Lowerance autopilot, hydralstyrning, fast tank 70 L, låda för inbyg…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Säljer en Viking 550 mittpulpet utan motor, kapell, Lowerance autopilot, hydralstyrning, fast tank 70 L, låda för inbyg…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer ingår ej.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Viking 550 aluminium båt säljes",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24378125/87115b8f-0757-4c73-9153-4249929e7a41",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24378125/87115b8f-0757-4c73-9153-4249929e7a41",
+  "https://images.blocketcdn.se/dynamic/default/item/24378125/608b5e4a-6c93-437d-a4f1-1760ca6d8d0c",
+  "https://images.blocketcdn.se/dynamic/default/item/24378125/7240f553-3b78-49d5-96f6-faf809036a92",
+  "https://images.blocketcdn.se/dynamic/default/item/24378125/04f61098-5fcb-4991-a73f-2a794644f63a",
+  "https://images.blocketcdn.se/dynamic/default/item/24378125/76148b66-919b-48da-8dd4-b4aa9916c135",
+  "https://images.blocketcdn.se/dynamic/default/item/24378125/b5e3b674-b362-446e-906a-1fb49566b42d",
+  "https://images.blocketcdn.se/dynamic/default/item/24378125/96341685-dcb0-4ef8-864f-7c2a2bead7c4",
+  "https://images.blocketcdn.se/dynamic/default/item/24378125/78edb243-8c51-4a2a-86e5-b9292d88f213",
+  "https://images.blocketcdn.se/dynamic/default/item/24378125/d42f4bbd-73a4-48bc-a5d4-ca7c3b4a5a05",
+  "https://images.blocketcdn.se/dynamic/default/item/24378125/fc816014-acb5-4f94-afdd-2b99096458dd",
+  "https://images.blocketcdn.se/dynamic/default/item/24378125/cfe941d8-d248-49ee-9eea-897c155ee36d",
+  "https://images.blocketcdn.se/dynamic/default/item/24378125/73031e87-3673-405d-ade1-c0436463ffb5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.62,
+ "length_ft": 18,
+ "location": "Sandviken",
+ "lon": 16.78,
+ "make": "Viking",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 505,
+  "fetched_ts": 1790520633451,
+  "text_sha": "9bddeb81c8f95766"
+ },
+ "price": 100000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 100000
+  }
+ ],
+ "specs": {
+  "Bredd": "217 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Färg": "Blå",
+  "Längd i fot": "18 fot",
+  "Modell": "550",
+  "Modellår": "2016",
+  "Märke": "Viking",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "500 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/24378125",
+ "width_cm": 217,
+ "year": 2016
+}

@@ -7,6 +7,8 @@
   "boat_year": 1988,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": null,
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Their Micro fun",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26324061/d7623c8a-0021-44d0-8d72-35b1dc069027",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.86671,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26324061/d7623c8a-0021-44d0-8d72-35b1dc069027",
+  "https://images.blocketcdn.se/dynamic/default/item/26324061/5e20df3b-498e-4020-886f-83df25b7e001",
+  "https://images.blocketcdn.se/dynamic/default/item/26324061/a360e671-a793-49a1-bbf9-8caf52766177",
+  "https://images.blocketcdn.se/dynamic/default/item/26324061/f2322926-2a72-4c77-9791-d5971a9bfd06",
+  "https://images.blocketcdn.se/dynamic/default/item/26324061/0ca4f2bb-6723-4d08-9b73-d0faeecdf620"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.87,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "7c81991d190671ca"
  },
  "location": "Kungälv",
- "lon": 11.96576,
+ "lon": 11.97,
  "make": "Terhi",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 187,
   "fetched_ts": 1790508602841,
@@ -94,7 +104,7 @@
   "Sittplatser": "3",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26324061",
  "width_cm": 0,
  "year": 1988

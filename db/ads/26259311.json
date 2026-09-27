@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -44,8 +46,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 460 Fishing 2021 motor Honda 40hk 2022",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26259311/d78e1a74-fc5d-498d-9d88-2f14eb86dfc9",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.1582,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26259311/d78e1a74-fc5d-498d-9d88-2f14eb86dfc9",
+  "https://images.blocketcdn.se/dynamic/default/item/26259311/41b4ce59-6e8e-447b-8dd6-c78049cc6798",
+  "https://images.blocketcdn.se/dynamic/default/item/26259311/60797ed3-b4f1-4243-a13b-93fbfceb8328",
+  "https://images.blocketcdn.se/dynamic/default/item/26259311/6141a587-b6ba-421a-991b-0b988733c0ff",
+  "https://images.blocketcdn.se/dynamic/default/item/26259311/151f74fc-fedd-4e26-a13e-f2dc80ec5690",
+  "https://images.blocketcdn.se/dynamic/default/item/26259311/c2fdb10b-f885-4cbc-8f8e-5ef36ff6e5ab"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.16,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -75,12 +85,13 @@
   "text_sha": "99af8db2dc678c9f"
  },
  "location": "Södertälje",
- "lon": 17.7019,
+ "lon": 17.7,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 455,
   "fetched_ts": 1790508560180,
@@ -107,7 +118,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26259311",
  "width_cm": 0,
  "year": 2021

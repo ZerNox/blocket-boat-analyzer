@@ -1,0 +1,85 @@
+{
+ "ad_id": 26503062,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789134347000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1977,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Utan trailer.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Trissjolle",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26503062/f21a642d-e6e4-4ac8-aff6-85871e7ea482",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26503062/f21a642d-e6e4-4ac8-aff6-85871e7ea482",
+  "https://images.blocketcdn.se/dynamic/default/item/26503062/d0ba9abb-fe86-4d0f-ac79-9b436c42201c",
+  "https://images.blocketcdn.se/dynamic/default/item/26503062/82ee8c90-7c29-4908-aa06-87496e495611",
+  "https://images.blocketcdn.se/dynamic/default/item/26503062/155588bb-80fe-4e15-a8ad-bea7c13e8525",
+  "https://images.blocketcdn.se/dynamic/default/item/26503062/e154c227-a008-4c2d-aa7f-22374b9c926e",
+  "https://images.blocketcdn.se/dynamic/default/item/26503062/2280c74c-0a1d-4ef3-9b2d-255d6b0d2068",
+  "https://images.blocketcdn.se/dynamic/default/item/26503062/a5456adc-b4c3-457f-a9bc-aa2074790f41",
+  "https://images.blocketcdn.se/dynamic/default/item/26503062/c7524cf2-80cc-4e07-ace2-a95895c4547d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.73,
+ "length_ft": 13,
+ "location": "Nyköping",
+ "lon": 16.99,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 144,
+  "fetched_ts": 1790520985334,
+  "text_sha": "9e61bbf3bb62f7fa"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "13 fot",
+  "Modell": "Trissjolle Model 4",
+  "Modellår": "1977",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "400 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26503062",
+ "width_cm": 0,
+ "year": 1977
+}

@@ -7,6 +7,8 @@
   "boat_year": 1999,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha EFI",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent, Yamaha och Fogelsta",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26547843/0b839c0b-a5b3-4909-8a73-8707c27eb81e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.64861,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26547843/0b839c0b-a5b3-4909-8a73-8707c27eb81e",
+  "https://images.blocketcdn.se/dynamic/default/item/26547843/8af08fd8-3a0c-4aff-9de5-1c6a21ca7bcd",
+  "https://images.blocketcdn.se/dynamic/default/item/26547843/a6f6391f-2408-44f4-acfa-0d33265dc671",
+  "https://images.blocketcdn.se/dynamic/default/item/26547843/f3ee9352-8349-48c0-8b50-5aa40c30ef03",
+  "https://images.blocketcdn.se/dynamic/default/item/26547843/8bda45de-4509-4d7b-9972-2ea8ab10ddb0",
+  "https://images.blocketcdn.se/dynamic/default/item/26547843/30246cdc-5ed5-46f3-b890-ef0da3c47037",
+  "https://images.blocketcdn.se/dynamic/default/item/26547843/3afa0531-5296-4b21-bf03-5093ae0d0305",
+  "https://images.blocketcdn.se/dynamic/default/item/26547843/faca780c-7ebf-4f37-9b4a-bff16b974b16",
+  "https://images.blocketcdn.se/dynamic/default/item/26547843/2d87838a-532b-4a20-8962-4e74fb0b294f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.65,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +73,13 @@
   "text_sha": "6c590513916983cc"
  },
  "location": "Motala",
- "lon": 14.9535,
+ "lon": 14.95,
  "make": "Crescent",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508780557,
@@ -91,7 +105,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26547843",
  "width_cm": 0,
  "year": 1999

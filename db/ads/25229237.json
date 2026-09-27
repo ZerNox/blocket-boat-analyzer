@@ -1,0 +1,138 @@
+{
+ "ad_id": 25229237,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1785345215000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2001,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin Echomap Plus 62cv.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapellet fick nya sömmar och dragkedjor hösten 2025.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin Echomap Plus 62cv.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "En 30km/h kärra finns och ingår i priset.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 515 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Flipper 515 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25229237/1e847423-ce51-472d-aaae-a0637438caca",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25229237/1e847423-ce51-472d-aaae-a0637438caca",
+  "https://images.blocketcdn.se/dynamic/default/item/25229237/a75d3622-583b-48d8-92d5-aec8481b4a28",
+  "https://images.blocketcdn.se/dynamic/default/item/25229237/050bc8fb-fc36-4d39-b68d-92372f3759ae",
+  "https://images.blocketcdn.se/dynamic/default/item/25229237/c98420b6-2f71-4c1a-9c1b-c5128fec793b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.42,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2001,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b24b876a15d263c7"
+ },
+ "location": "Karlstad",
+ "lon": 13.55,
+ "make": "Flipper",
+ "max_speed": 23,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 409,
+  "fetched_ts": 1790522948941,
+  "text_sha": "b24b876a15d263c7"
+ },
+ "price": 85000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 85000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "515 HT",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "23 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "560 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25229237",
+ "width_cm": 205,
+ "year": 2001
+}

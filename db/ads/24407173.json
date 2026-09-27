@@ -7,6 +7,8 @@
   "boat_year": 2005,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern S55 Exclusive 2005 med Mercury 75hk till höstpris",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24407173/a2e6c628-1d53-4562-9c66-5f31803f94c9",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.26959,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24407173/a2e6c628-1d53-4562-9c66-5f31803f94c9",
+  "https://images.blocketcdn.se/dynamic/default/item/24407173/4d20ed48-7104-48d3-843e-a7567013c891",
+  "https://images.blocketcdn.se/dynamic/default/item/24407173/0445720f-48ba-4228-88a5-12ac594564ed",
+  "https://images.blocketcdn.se/dynamic/default/item/24407173/9939215b-df24-4b97-9c3e-484e0e640b90"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.27,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +74,13 @@
   "text_sha": "45b36d429ec78432"
  },
  "location": "Bandhagen",
- "lon": 18.05118,
+ "lon": 18.05,
  "make": "Uttern",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 780,
   "fetched_ts": 1790507589806,
@@ -102,7 +111,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24407173",
  "width_cm": 220,
  "year": 2005

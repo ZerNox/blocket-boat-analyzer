@@ -1,0 +1,104 @@
+{
+ "ad_id": 25584902,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786369539000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 175.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1991,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamaha 175 hk V6 (1991), startar lätt och går fint.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Navman 4200sx ekolod.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell, badstege och dynor.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Pioneer marinstereo med Tanlon-högtalare.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Pris och paket utan trailer går att diskutera vid snabb och smidig affär.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "båt. En rymlig, välbyggd daycruiser med fina sjöegenskaper – perfekt för bad, vattensport och skärgårdstu",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Flipper Flash 1990 – Yamaha 175 hk V6 – Trailer ingår",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25584902/2761ea79-bc46-4bd0-93fd-f1a800c36c0c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25584902/2761ea79-bc46-4bd0-93fd-f1a800c36c0c",
+  "https://images.blocketcdn.se/dynamic/default/item/25584902/4c80a7fd-6c60-4849-9d84-018a2ac956a1",
+  "https://images.blocketcdn.se/dynamic/default/item/25584902/4a03f5e0-f9c5-4d78-9306-2de73d8bf5fb",
+  "https://images.blocketcdn.se/dynamic/default/item/25584902/8ef59e8b-db4e-441a-82cd-6b9a0fb61d02"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.74,
+ "length_ft": 20,
+ "location": "Norrtälje",
+ "lon": 18.94,
+ "make": "Flipper",
+ "max_speed": 40,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1304,
+  "fetched_ts": 1790523030716,
+  "text_sha": "e0ca6fc832d3f3fb"
+ },
+ "price": 65000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 65000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modell": "Flash",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Toppfart": "40 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "900 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25584902",
+ "width_cm": 220,
+ "year": 1990
+}

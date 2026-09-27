@@ -7,6 +7,8 @@
   "boat_year": 1994,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4.5,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fiskebåt med 4.5hk mercury inkl 30kärra",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25453804/6f0b7cfb-920d-4ac5-a08c-448e8b6f8157",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.00506,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25453804/6f0b7cfb-920d-4ac5-a08c-448e8b6f8157",
+  "https://images.blocketcdn.se/dynamic/default/item/25453804/738185e2-e74a-411e-a953-02a06036a190",
+  "https://images.blocketcdn.se/dynamic/default/item/25453804/19f4ec8e-f455-459e-bee3-113c52193b06",
+  "https://images.blocketcdn.se/dynamic/default/item/25453804/95c25b62-55df-4cb8-8eba-fdc1e8f2f250",
+  "https://images.blocketcdn.se/dynamic/default/item/25453804/a3ac14d6-e1f2-45a2-97d0-665d2cff417f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.01,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +75,13 @@
   "text_sha": "b607b3fb0775289e"
  },
  "location": "Vingåker",
- "lon": 15.94245,
+ "lon": 15.94,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.5,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 90,
   "fetched_ts": 1790507880582,
@@ -98,7 +108,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25453804",
  "width_cm": 160,
  "year": 1994

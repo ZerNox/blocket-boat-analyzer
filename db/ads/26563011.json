@@ -1,0 +1,83 @@
+{
+ "ad_id": 26563011,
+ "boat_class": "Annat",
+ "changed_ts": 1789309597000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2022,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Uppblåsbar 2 sitsig plastkajak",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26563011/0005b3c5-76d4-400d-b3a1-50e8a769412b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26563011/0005b3c5-76d4-400d-b3a1-50e8a769412b",
+  "https://images.blocketcdn.se/dynamic/default/item/26563011/6866b193-3e76-4acf-b910-ece83fed500e",
+  "https://images.blocketcdn.se/dynamic/default/item/26563011/da2790bb-1a74-450d-8796-b6a590599a5a",
+  "https://images.blocketcdn.se/dynamic/default/item/26563011/9e0c8057-ce2b-4eb1-aa25-8a844a7c9ba7",
+  "https://images.blocketcdn.se/dynamic/default/item/26563011/bd28d297-a553-46fa-b6d0-9d53fc18e3c0",
+  "https://images.blocketcdn.se/dynamic/default/item/26563011/c2b98b2f-90d8-4594-869a-ba30e211f066"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.51,
+ "length_ft": 10,
+ "location": "Särö",
+ "lon": 11.9,
+ "make": "Hydrosport",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 70,
+  "fetched_ts": 1790521008474,
+  "text_sha": "d4e2bc502ba30ac3"
+ },
+ "price": 500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 500
+  }
+ ],
+ "specs": {
+  "Bredd": "88 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "20 cm",
+  "Färg": "Blå",
+  "Längd i fot": "10 fot",
+  "Modell": "Uppblåsbar plastkajak HydroForce",
+  "Modellår": "2022",
+  "Märke": "Hydrosport",
+  "Skrovmaterial": "Plast",
+  "Typ": "Annat",
+  "Vikt": "10 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26563011",
+ "width_cm": 88,
+ "year": 2022
+}

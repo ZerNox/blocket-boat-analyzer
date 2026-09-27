@@ -1,0 +1,129 @@
+{
+ "ad_id": 26561460,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789309112000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "ersoner och motor på maximalt 20 hk. Båten har förvarats under tak och är i fint bruksskick för sin ålder. Interiören är",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Örnvik 540 med bromsad trailer",
+    "included": true,
+    "year": 1998
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "r 5,36 meter lång och har styrpulpet med ratt och reglage, flera sittplatser samt gott om plats för packni",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "Örnvik 540"
+ ],
+ "heading": "Örnvik 540 med bromsad trailer - rymlig fisk- och bruksbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26561460/4622ec2f-4cd6-44b4-a1b2-1fb10ae1d2f9",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26561460/4622ec2f-4cd6-44b4-a1b2-1fb10ae1d2f9",
+  "https://images.blocketcdn.se/dynamic/default/item/26561460/8e7fa432-9243-49e6-9b0d-d75b6d602cd4",
+  "https://images.blocketcdn.se/dynamic/default/item/26561460/8655bbf6-99d1-4553-8f1c-7f22bda7b404",
+  "https://images.blocketcdn.se/dynamic/default/item/26561460/4c5aa047-0d21-4c55-8192-12fc55ad0b27",
+  "https://images.blocketcdn.se/dynamic/default/item/26561460/798911fc-a500-4393-9b85-28aa5609b159",
+  "https://images.blocketcdn.se/dynamic/default/item/26561460/70d2d8a6-571f-49d9-a593-e37f145cab75",
+  "https://images.blocketcdn.se/dynamic/default/item/26561460/798d91e6-0826-4f57-b23c-58bf660eabbe",
+  "https://images.blocketcdn.se/dynamic/default/item/26561460/5051a7e6-4bff-4719-aed3-b4595c6536ec",
+  "https://images.blocketcdn.se/dynamic/default/item/26561460/9db20db8-5f23-4303-a161-1bc1533aacbc",
+  "https://images.blocketcdn.se/dynamic/default/item/26561460/5013aa16-60c2-4ecb-938a-93b868edc7de",
+  "https://images.blocketcdn.se/dynamic/default/item/26561460/09bec6ae-4b74-487f-acf3-0871541f9da8",
+  "https://images.blocketcdn.se/dynamic/default/item/26561460/d9fb6b51-7c16-4dc7-bcfb-29aae6676551",
+  "https://images.blocketcdn.se/dynamic/default/item/26561460/bb3154ee-8500-49de-8239-5a92e1efcf59",
+  "https://images.blocketcdn.se/dynamic/default/item/26561460/628427d6-cfa9-4b54-9c0d-3b69adceadc6"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.51,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Örnvik",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "En äldre utombordsmotor som inte startar finns i en separat annons.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f671efef5c6bd062"
+ },
+ "location": "Särö",
+ "lon": 11.96,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 987,
+  "fetched_ts": 1790521005398,
+  "text_sha": "f671efef5c6bd062"
+ },
+ "price": 22000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 22000
+  }
+ ],
+ "specs": {
+  "Bredd": "203 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "540",
+  "Modellår": "1980",
+  "Motor inkluderad": "Nej",
+  "Märke": "Örnvik",
+  "Sittplatser": "7",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "300 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26561460",
+ "width_cm": 203,
+ "year": 1980
+}

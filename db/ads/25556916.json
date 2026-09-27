@@ -1,0 +1,119 @@
+{
+ "ad_id": 25556916,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786892633000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2001,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell till styrpulpet",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtkärra, max 30 km/h",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds 510 GTS – 2001 – Mercury 75 hk 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25556916/98e9c321-c93c-4af0-90fb-96e7b456c2a3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25556916/98e9c321-c93c-4af0-90fb-96e7b456c2a3",
+  "https://images.blocketcdn.se/dynamic/default/item/25556916/83c5950c-f32b-436c-8b62-78c123e16eec",
+  "https://images.blocketcdn.se/dynamic/default/item/25556916/212f11ed-fa66-4ce8-8758-c0076f036647",
+  "https://images.blocketcdn.se/dynamic/default/item/25556916/a8ecf7d5-c971-4eeb-abd8-3ec77ec11bb0",
+  "https://images.blocketcdn.se/dynamic/default/item/25556916/9d2e9125-623d-4ae5-aeeb-79bad3efa860",
+  "https://images.blocketcdn.se/dynamic/default/item/25556916/29ab3e3c-4aaf-4ce7-bb96-9b4a0f76edb2",
+  "https://images.blocketcdn.se/dynamic/default/item/25556916/dcb3b688-aa93-4e58-ac3e-91b771821b28"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.34,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2001,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mercury 75 hk 4-taktsmotor – nyservad",
+   "engine_year_rejected": 2023,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e4a67282ae24b5b0"
+ },
+ "location": "Onsala",
+ "lon": 11.96,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 463,
+  "fetched_ts": 1790520729059,
+  "text_sha": "e4a67282ae24b5b0"
+ },
+ "price": 82000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 82000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "510 GtS",
+  "Modellår": "2001",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25556916",
+ "width_cm": 0,
+ "year": 2001
+}

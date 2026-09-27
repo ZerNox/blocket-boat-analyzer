@@ -7,6 +7,8 @@
   "boat_year": 2012,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 35.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": null,
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fiskebåt kastdäck 35hk+elmotor styrpulpet släp ingår",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25677723/8485ea42-6739-4503-ace9-f0aae837accb",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.89129,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25677723/8485ea42-6739-4503-ace9-f0aae837accb",
+  "https://images.blocketcdn.se/dynamic/default/item/25677723/54473942-d3aa-4a08-98e0-150ff19f0c8a",
+  "https://images.blocketcdn.se/dynamic/default/item/25677723/32d8a0db-03ca-4617-b493-c235e0c2e575",
+  "https://images.blocketcdn.se/dynamic/default/item/25677723/05642d35-5021-49dc-af52-3c3c1905238c",
+  "https://images.blocketcdn.se/dynamic/default/item/25677723/5c8ac510-2c98-408a-9c0e-5a6e69a22f87",
+  "https://images.blocketcdn.se/dynamic/default/item/25677723/317ed7b9-18bf-4f07-ae3c-696935cfbf48",
+  "https://images.blocketcdn.se/dynamic/default/item/25677723/812fda10-2f8d-4c2b-ae09-a6066d70961c",
+  "https://images.blocketcdn.se/dynamic/default/item/25677723/cf53c35e-9d7d-415a-a922-32a340f27751",
+  "https://images.blocketcdn.se/dynamic/default/item/25677723/cc54e376-a344-4010-a3cb-2bb316136bbf",
+  "https://images.blocketcdn.se/dynamic/default/item/25677723/4b4c6f7c-e4d5-457d-91e9-d5c5402f44f0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.89,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +84,13 @@
   "text_sha": "d998f6f485f42959"
  },
  "location": "Uppsala",
- "lon": 17.46879,
+ "lon": 17.47,
  "make": "Övriga",
  "max_speed": 26,
  "motor_fuel": "Bensin",
  "motor_size": 35.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 599,
   "fetched_ts": 1790508087809,
@@ -103,7 +118,7 @@
   "Toppfart": "26 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25677723",
  "width_cm": 175,
  "year": 2012

@@ -7,6 +7,8 @@
   "boat_year": 2018,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sandström Classic 460",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25822066/72d8f2c4-b75d-4941-aa4f-6c8007de4cb1",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.62359,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25822066/72d8f2c4-b75d-4941-aa4f-6c8007de4cb1",
+  "https://images.blocketcdn.se/dynamic/default/item/25822066/8bd2dbdd-2dc5-4b54-9dd0-c8323d094fc4",
+  "https://images.blocketcdn.se/dynamic/default/item/25822066/ada82e56-fddd-4453-a5fc-5f62edfeb971"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.62,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "af233848ef30340e"
  },
  "location": "Fjällbacka",
- "lon": 11.30301,
+ "lon": 11.3,
  "make": "Sandström",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 39,
   "fetched_ts": 1790508218438,
@@ -97,7 +105,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25822066",
  "width_cm": 0,
  "year": 2018

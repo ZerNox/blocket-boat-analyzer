@@ -1,0 +1,82 @@
+{
+ "ad_id": 26425223,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788874949000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Säljes med 30 trailer.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ockelbo b16",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26425223/223a4f40-8f16-41ca-992f-75eb4ab58452",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26425223/223a4f40-8f16-41ca-992f-75eb4ab58452",
+  "https://images.blocketcdn.se/dynamic/default/item/26425223/7be002d2-c25c-44bd-b342-6175850168fc",
+  "https://images.blocketcdn.se/dynamic/default/item/26425223/0a539c0b-b1a1-4c63-b70f-9a9bc43f43d9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.04,
+ "length_ft": 16,
+ "location": "Sparreholm",
+ "lon": 16.83,
+ "make": "Ockelbo",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 121,
+  "fetched_ts": 1790520964482,
+  "text_sha": "07047579613354e0"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Bredd": "195 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Gul",
+  "Längd i fot": "16 fot",
+  "Modell": "B16",
+  "Modellår": "1970",
+  "Motor inkluderad": "Nej",
+  "Märke": "Ockelbo",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "275 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26425223",
+ "width_cm": 195,
+ "year": 1970
+}

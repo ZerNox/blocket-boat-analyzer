@@ -7,6 +7,8 @@
   "boat_year": 2001,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -42,8 +44,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 410 Sport med Yamaha Fyrtakt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26876422/53dd9a9c-f562-4475-bec4-caf78a54cf28",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.02438,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26876422/53dd9a9c-f562-4475-bec4-caf78a54cf28",
+  "https://images.blocketcdn.se/dynamic/default/item/26876422/9c32c60e-d8a9-40f0-818d-549e4e0ed0ac",
+  "https://images.blocketcdn.se/dynamic/default/item/26876422/e433267a-00cd-4b11-85c4-d13bb1ca868d",
+  "https://images.blocketcdn.se/dynamic/default/item/26876422/b5c4d18b-45d1-44b5-b98b-aa256f90c6c9",
+  "https://images.blocketcdn.se/dynamic/default/item/26876422/f1e7c566-9d5f-4aca-a194-2d682ab5f35c",
+  "https://images.blocketcdn.se/dynamic/default/item/26876422/0ce63ebd-e517-4680-85c6-6e02e018523e",
+  "https://images.blocketcdn.se/dynamic/default/item/26876422/a388b58e-0604-493d-8882-a50db4fd182a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.02,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +85,13 @@
   "text_sha": "3d017f57e8ce24f7"
  },
  "location": "Kristianstad",
- "lon": 14.13863,
+ "lon": 14.14,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 187,
   "fetched_ts": 1790508995529,
@@ -103,7 +115,7 @@
   "Märke": "HR",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26876422",
  "width_cm": 0,
  "year": 2001

@@ -1,0 +1,128 @@
+{
+ "ad_id": 21345831,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1789803865000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1960,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1960,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Jag säljer båten med trailern, inte separat.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21345831/70104048-aaf0-4add-a725-a77763cf9d4f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21345831/70104048-aaf0-4add-a725-a77763cf9d4f",
+  "https://images.blocketcdn.se/dynamic/default/item/21345831/b07f1811-d37b-4ce9-83f2-1f5ca1ff0040",
+  "https://images.blocketcdn.se/dynamic/default/item/21345831/2d930573-c138-4b36-b4ec-4219437e31e5",
+  "https://images.blocketcdn.se/dynamic/default/item/21345831/803085fb-9aa5-4d41-a1ae-aa3b9161c7be",
+  "https://images.blocketcdn.se/dynamic/default/item/21345831/ddc4f900-b397-45ae-89d0-c5894677fae9",
+  "https://images.blocketcdn.se/dynamic/default/item/21345831/c160f047-bd5c-4fab-a608-e27a815da55e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.25,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1960,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "16939702c9a97957"
+ },
+ "location": "Tyresö",
+ "lon": 18.25,
+ "make": "Ockelbo",
+ "max_speed": 23,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 317,
+  "fetched_ts": 1790522854090,
+  "text_sha": "16939702c9a97957"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "C18",
+  "Modellår": "1960",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Ockelbo",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "3",
+  "Toppfart": "23 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "800 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/21345831",
+ "width_cm": 210,
+ "year": 1960
+}

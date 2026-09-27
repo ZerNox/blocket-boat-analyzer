@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -27,6 +29,10 @@
     "included": false
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "funktion avtagbar skruvad hardtop. Ny modern plotter Garmin med tuschskärm och ekolod\nMotor Mercury 2-takt",
+  "hull_source": "rule:text",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -34,13 +40,25 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Trevlig båt med valmöjligheter",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25852880/7f1a4c0f-163a-4910-a041-87b60def90fc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.42391,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25852880/7f1a4c0f-163a-4910-a041-87b60def90fc",
+  "https://images.blocketcdn.se/dynamic/default/item/25852880/8e6e6ad4-d72d-48e6-8d7a-e376998e2256",
+  "https://images.blocketcdn.se/dynamic/default/item/25852880/3ef1e4bf-21f4-4f69-965f-b4821651b13b",
+  "https://images.blocketcdn.se/dynamic/default/item/25852880/d0f6519b-ed17-4c27-9995-37a4d5afb336",
+  "https://images.blocketcdn.se/dynamic/default/item/25852880/a2a97b87-af2a-4afe-b5d9-44cd448707eb",
+  "https://images.blocketcdn.se/dynamic/default/item/25852880/03c52ff9-815a-457d-bbe7-505f040d6d82",
+  "https://images.blocketcdn.se/dynamic/default/item/25852880/2daefa30-de4c-4f0b-8d08-454ad3640d48"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.42,
  "length_ft": 18,
  "location": "Karlstad",
- "lon": 13.43929,
+ "lon": 13.44,
  "make": "Selco",
  "max_speed": null,
  "motor_fuel": "Bensin",

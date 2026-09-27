@@ -1,0 +1,83 @@
+{
+ "ad_id": 26924884,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1790502244000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår ej utan det är endast båten.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Crescent 425",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26924884/8e085cc5-78b4-43f0-8fa6-60bd33769f41",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26924884/8e085cc5-78b4-43f0-8fa6-60bd33769f41",
+  "https://images.blocketcdn.se/dynamic/default/item/26924884/8c976b77-1c0c-4ccb-a957-de8c28386d94",
+  "https://images.blocketcdn.se/dynamic/default/item/26924884/7bd2cf48-06ac-4bdd-bca7-a9655e17b7f1",
+  "https://images.blocketcdn.se/dynamic/default/item/26924884/4b01d4e2-70a8-48f8-a38c-a474eda669c1",
+  "https://images.blocketcdn.se/dynamic/default/item/26924884/e4d1dd42-d224-4e74-9bab-11f85601e2ef"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.34,
+ "length_ft": 14,
+ "location": "Saltsjö-Boo",
+ "lon": 18.26,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 223,
+  "fetched_ts": 1790521092757,
+  "text_sha": "827c4ef9a630206d"
+ },
+ "price": 2500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 2500
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Gul",
+  "Längd i fot": "14 fot",
+  "Modell": "Crescent 425",
+  "Modellår": "1980",
+  "Motor inkluderad": "Nej",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26924884",
+ "width_cm": 180,
+ "year": 1980
+}

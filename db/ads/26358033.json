@@ -1,0 +1,138 @@
+{
+ "ad_id": 26358033,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788688758000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": 1220,
+  "engine_hp": 1220,
+  "engine_hp_source": "llm",
+  "engine_maker": "Volvo penta",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": "Motor: Volvo Penta 2003D (1220h) (mitten av 1980-talet) med växlare (egen kylvätska).",
+  "engine_year_source": "llm",
+  "equipment": {
+   "kapell": {
+    "evidence": "Inredning & Kapell:",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer:",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "ambiguous engine years [1980, 2003]"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Viking 20 (Mitten 80-tal) Volvo Penta Diesel, Dubbelboggievagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26358033/69941bf2-a3af-403f-8a54-b31a38e685fc",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26358033/69941bf2-a3af-403f-8a54-b31a38e685fc",
+  "https://images.blocketcdn.se/dynamic/default/item/26358033/5c06465a-9ed5-496c-8bb0-6dca4abd8bc6",
+  "https://images.blocketcdn.se/dynamic/default/item/26358033/c68cf12e-3323-4b56-a414-35e63d1b403c",
+  "https://images.blocketcdn.se/dynamic/default/item/26358033/b46b57cc-d767-49ba-ae33-29749b5c3a3e",
+  "https://images.blocketcdn.se/dynamic/default/item/26358033/6291e629-0d2f-474b-9681-21f6ef3b2249",
+  "https://images.blocketcdn.se/dynamic/default/item/26358033/ad689108-4849-4391-b663-71587c4ca482",
+  "https://images.blocketcdn.se/dynamic/default/item/26358033/cd93505b-49cc-4f27-9ffa-2b90f7dc52e7",
+  "https://images.blocketcdn.se/dynamic/default/item/26358033/2a319f22-dbe7-4388-abdd-dd2227673ad9",
+  "https://images.blocketcdn.se/dynamic/default/item/26358033/41646654-55bc-49aa-a184-2c905e67f933",
+  "https://images.blocketcdn.se/dynamic/default/item/26358033/a7d09b7e-1231-46a1-b6a2-24a0d783952d",
+  "https://images.blocketcdn.se/dynamic/default/item/26358033/ff4d5797-43d2-4637-b002-1917acbae75c",
+  "https://images.blocketcdn.se/dynamic/default/item/26358033/ca058a4a-cf72-4c67-a7d0-00e9792e5b1e",
+  "https://images.blocketcdn.se/dynamic/default/item/26358033/ff5439cb-a0c0-4cbc-899c-b5f24c28f6eb",
+  "https://images.blocketcdn.se/dynamic/default/item/26358033/21dea7fa-1c16-42c7-a357-a09557543698"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.46,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": 1220,
+   "engine_hp": 1220,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": 2003,
+   "engine_year_evidence": "Motor: Volvo Penta 2003D (1220h) (mitten av 1980-talet) med växlare (egen kylvätska).",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f1dd5407b3513152"
+ },
+ "location": "Tun",
+ "lon": 12.79,
+ "make": "Viking",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 1517,
+  "fetched_ts": 1790523149900,
+  "text_sha": "f1dd5407b3513152"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Bredd": "225 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "75 cm",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "20 fot",
+  "Modell": "20",
+  "Modellår": "1985",
+  "Motortillverkare": "Volvo penta",
+  "Motortyp": "Inombordare",
+  "Märke": "Viking",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "4",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26358033",
+ "width_cm": 225,
+ "year": 1985
+}

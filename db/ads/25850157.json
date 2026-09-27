@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Tracker V 14",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25850157/a7f7ab6a-4152-4364-830a-b65bfa2f3a20",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.85245,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25850157/a7f7ab6a-4152-4364-830a-b65bfa2f3a20",
+  "https://images.blocketcdn.se/dynamic/default/item/25850157/6f67a95b-3a55-4df1-b64a-54d59c7fdb9c",
+  "https://images.blocketcdn.se/dynamic/default/item/25850157/5b2628aa-8747-4cc3-86ce-cb984e636c72",
+  "https://images.blocketcdn.se/dynamic/default/item/25850157/1b302daf-c93c-41da-9fb0-72e882eb5cb2",
+  "https://images.blocketcdn.se/dynamic/default/item/25850157/a82e774b-cba6-45fd-bc4b-6af373a58713"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.85,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "795f53b312451599"
  },
  "location": "Alingsås",
- "lon": 12.46093,
+ "lon": 12.46,
  "make": "Tracker",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 264,
   "fetched_ts": 1790508247612,
@@ -92,7 +102,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25850157",
  "width_cm": 0,
  "year": 1990

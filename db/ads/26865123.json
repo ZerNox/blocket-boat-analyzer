@@ -1,0 +1,120 @@
+{
+ "ad_id": 26865123,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790318425000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Med trailer 30 000 SEK, utan trailer 15 000 SEK.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Sea Ray",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26865123/d3782c53-4bbe-46f0-8284-c269bb21bbf8",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26865123/d3782c53-4bbe-46f0-8284-c269bb21bbf8",
+  "https://images.blocketcdn.se/dynamic/default/item/26865123/42fdc8c5-74cd-4be2-82bf-9ad37c5ea829",
+  "https://images.blocketcdn.se/dynamic/default/item/26865123/79b97e79-f1f4-4562-be15-466bd8d36fea",
+  "https://images.blocketcdn.se/dynamic/default/item/26865123/92f2f955-ac83-4019-914f-c87498ce603d",
+  "https://images.blocketcdn.se/dynamic/default/item/26865123/bb399a83-e1d3-4dac-abe7-f0e252872f98",
+  "https://images.blocketcdn.se/dynamic/default/item/26865123/ebdcdafe-d105-4839-bf49-ded758e7eafe",
+  "https://images.blocketcdn.se/dynamic/default/item/26865123/cd5ef172-441e-48e6-bb0a-6dbcd3a0e6d8",
+  "https://images.blocketcdn.se/dynamic/default/item/26865123/7e0be442-1a1d-4d09-9e49-8ae7f29a91c3",
+  "https://images.blocketcdn.se/dynamic/default/item/26865123/fe746120-e10b-4f3f-b7dd-98c3328479a2",
+  "https://images.blocketcdn.se/dynamic/default/item/26865123/f67f092a-88bc-4d03-ab1a-aa363a40299b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.62,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1989,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "not_mentioned",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Drevet är stulet – säljs utan drev.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "43ab6d1c1623bf2d"
+ },
+ "location": "Riala",
+ "lon": 18.5,
+ "make": "Sea Ray",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 429,
+  "fetched_ts": 1790523229121,
+  "text_sha": "43ab6d1c1623bf2d"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "2400 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "21 fot",
+  "Modellår": "1989",
+  "Motortyp": "Inombordare",
+  "Märke": "Sea Ray",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26865123",
+ "width_cm": 2400,
+ "year": 1989
+}

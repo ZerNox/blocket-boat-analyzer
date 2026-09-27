@@ -1,0 +1,78 @@
+{
+ "ad_id": 25581924,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789046835000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Mindre Garmin ekolod medföljer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Sibo 455 plasteka",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25581924/718bf31c-d4f7-488f-ac97-d86eb4dceeb4",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25581924/718bf31c-d4f7-488f-ac97-d86eb4dceeb4",
+  "https://images.blocketcdn.se/dynamic/default/item/25581924/21790c93-9b98-4067-acc8-b3e715003470"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.92,
+ "length_ft": 15,
+ "location": "Strömstad",
+ "lon": 11.35,
+ "make": "59º North",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 81,
+  "fetched_ts": 1790520733387,
+  "text_sha": "693f7d2150158b07"
+ },
+ "price": 7200,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7200
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modellår": "1989",
+  "Motor inkluderad": "Nej",
+  "Märke": "59º North",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25581924",
+ "width_cm": 0,
+ "year": 1989
+}

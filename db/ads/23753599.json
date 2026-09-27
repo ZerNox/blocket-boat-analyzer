@@ -7,6 +7,8 @@
   "boat_year": 2026,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -27,16 +29,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 442 SC Suzuki DF 50 2026",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23753599/19282b11-9bd0-4f4e-ad29-089f8b969eb7",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.14092,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23753599/19282b11-9bd0-4f4e-ad29-089f8b969eb7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.14,
  "length_ft": 14,
  "location": "Säffle",
- "lon": 12.93232,
+ "lon": 12.93,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 66,
   "fetched_ts": 1790507533902,
@@ -62,7 +68,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23753599",
  "width_cm": 0,
  "year": 2026

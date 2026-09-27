@@ -1,0 +1,156 @@
+{
+ "ad_id": 23471597,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785693223000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1997,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo Penta V6 4.3 GL DuoProp",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "Volvo Penta slutade med utombordare kring 1990",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Ståkapell och hamnkapell",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Stereo",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "kvattentank: ca 90 liter \nSovplatser: ca 2–2,5 rymliga sovplatser + i sittbrunn kan man också sova\nSpoltoa",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Sealine 210 Senator – Volvo Penta V6 DuoProp – nyservad och provkörningsklar",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23471597/cad2caf3-505e-4500-a5b0-2cb72a4cc22b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/cad2caf3-505e-4500-a5b0-2cb72a4cc22b",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/216939c2-569e-42db-ad76-b1222cf77524",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/521c2938-3f18-4c1d-9db7-2b565e91f669",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/a4c3aa10-0a0b-400d-a84a-154372ff5cf5",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/9333661c-5a54-4c46-8779-57ae2307e517",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/1d24fdbc-3730-461d-a36e-63a92a6df8fb",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/29477198-0e5b-4887-8b22-dea260cce29a",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/feca87ce-821e-4f6a-9124-aeec2fd27899",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/376abd0d-d898-499d-b1ae-3e46ec87edc2",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/6b8d66fb-6ac9-4371-8f4a-ed9b689f17d9",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/c4a2b647-76ea-491c-b8e6-7f92e25b4866",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/6e8a5d30-8ae9-4b33-9049-0030bd7010fe",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/4783f9f2-3897-4c07-88b1-db6af28a6efb",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/db794803-f9b4-473b-bc9d-988458665b09",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/14b15418-fe7b-4cce-87c2-f8ae59804dbe",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/45aaf009-594e-4d33-834d-46a1cbc0327f",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/cb507b94-a7d3-41af-b5e6-ae9eacce6472",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/30d7c01d-16d7-43d2-be18-84b017b5d78b",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/ff24e475-1206-4197-b41d-9c8bc5076336",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/d0601d6b-09ee-4bea-849e-67a1ff32bc64",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/ecab3915-3e0a-476d-8f25-61c275f34a2c",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/12f715d0-c24f-4ff4-afbe-c8ecacbb046b",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/135d2acf-af17-4472-8ef6-38e54f4bec3c",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/3a4ff1c4-8b71-4f1f-b56b-9ac8bcf456b9",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/bde44ad0-5db9-480b-8f74-83af04162d5d",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/f708296b-b944-4297-9844-305f00e78ffb",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/3f5a8a4e-c502-4ef9-9922-e0352c5fb84d",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/fc31ec4b-89ef-44d0-a0e6-52113e4377aa",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/7fdc8688-bbd5-4ba7-8fe2-90633e2da0f0",
+  "https://images.blocketcdn.se/dynamic/default/item/23471597/375492a4-90f9-456f-9f22-bc31e4dcb80d"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.14,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1997,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Drev: Volvo Penta DuoProp",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "737829dc8c68dcd3"
+ },
+ "location": "Österhaninge",
+ "lon": 18.25,
+ "make": "Sealine",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 919,
+  "fetched_ts": 1790522897827,
+  "text_sha": "737829dc8c68dcd3"
+ },
+ "price": 149000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 149000
+  }
+ ],
+ "specs": {
+  "Bredd": "234 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "80 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "21 fot",
+  "Modell": "Senator 210",
+  "Modellår": "1997",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo Penta V6 4.3 GL DuoProp",
+  "Motortyp": "Inombordare",
+  "Märke": "Sealine",
+  "Sittplatser": "6",
+  "Sovplatser": "4",
+  "Toppfart": "28 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23471597",
+ "width_cm": 234,
+ "year": 1997
+}

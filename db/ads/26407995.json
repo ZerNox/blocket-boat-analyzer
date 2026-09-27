@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnsson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 49HT (inkl en fin 80trailer obromsad)",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26407995/10845aa6-ecf3-4ad3-a7c7-f4ddf0f45ad7",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.25062,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26407995/10845aa6-ecf3-4ad3-a7c7-f4ddf0f45ad7",
+  "https://images.blocketcdn.se/dynamic/default/item/26407995/4f3ceadb-0035-4f5e-b066-5cff08469b62",
+  "https://images.blocketcdn.se/dynamic/default/item/26407995/49801521-e912-44d7-a913-8bff68bbd19b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.25,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +77,13 @@
   "text_sha": "c6d56f30ba0cefff"
  },
  "location": "Ingarö",
- "lon": 18.49613,
+ "lon": 18.5,
  "make": "Crescent",
  "max_speed": 28,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 435,
   "fetched_ts": 1790508666575,
@@ -102,7 +110,7 @@
   "Toppfart": "28 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26407995",
  "width_cm": 186,
  "year": 1978

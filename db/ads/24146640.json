@@ -7,6 +7,8 @@
   "boat_year": 2020,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Hr 460 F inkl trailer Lindanvagnen och Garmin UHD 62cv",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24146640/71611fcf-1c5b-4602-b0da-21b6b422f283",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.95743,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24146640/71611fcf-1c5b-4602-b0da-21b6b422f283",
+  "https://images.blocketcdn.se/dynamic/default/item/24146640/2614287e-4d8c-44c2-93c4-be9e0e7d7909",
+  "https://images.blocketcdn.se/dynamic/default/item/24146640/3d3d7635-8db7-4e64-96e4-ba73a16dda10"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.96,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "6a41e62f8264841d"
  },
  "location": "Storvreta",
- "lon": 17.71574,
+ "lon": 17.72,
  "make": "HR",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790507573291,
@@ -100,7 +108,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "310 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24146640",
  "width_cm": 188,
  "year": 2020

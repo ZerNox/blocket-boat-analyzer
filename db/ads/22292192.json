@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 35.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Jula Torö 430 RS styrpulpet med Evinrude 35 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22292192/2c20057e-0ca5-429c-9a77-dcc664517904",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.72056,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22292192/2c20057e-0ca5-429c-9a77-dcc664517904",
+  "https://images.blocketcdn.se/dynamic/default/item/22292192/0bced533-137f-4aad-980e-0c438084785b",
+  "https://images.blocketcdn.se/dynamic/default/item/22292192/ca2ed952-0958-40d7-920d-ee8b5a67aea0",
+  "https://images.blocketcdn.se/dynamic/default/item/22292192/f0857f73-e897-4b09-bda3-c65b4ea73a4e",
+  "https://images.blocketcdn.se/dynamic/default/item/22292192/6630e4d0-cfb5-48fe-afd8-55124a9b3396",
+  "https://images.blocketcdn.se/dynamic/default/item/22292192/545cf1fa-1e76-44be-9104-ba9fd4e7fdb6",
+  "https://images.blocketcdn.se/dynamic/default/item/22292192/9a30686c-e3aa-4046-a502-c8690b6d4dbc"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.72,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +76,13 @@
   "text_sha": "05c18689c74c090c"
  },
  "location": "Simlångsdalen",
- "lon": 13.12558,
+ "lon": 13.13,
  "make": "Övriga",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 35.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 851,
   "fetched_ts": 1790507444338,
@@ -100,7 +112,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/22292192",
  "width_cm": 165,
  "year": 1980

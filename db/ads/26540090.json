@@ -1,0 +1,107 @@
+{
+ "ad_id": 26540090,
+ "boat_class": "Annat",
+ "changed_ts": 1789236977000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo Penta MD17D",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1976,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Plotter Garmin c62 echomap",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Landströms",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter Garmin c62 echomap",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Radio",
+    "included": true
+   },
+   "vhf": {
+    "evidence": "VHF",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Motorbåt. Fräsch maxutrustad Pollux Family",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26540090/7145f2ed-8a55-4a1b-9b4f-2fa642de727b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26540090/7145f2ed-8a55-4a1b-9b4f-2fa642de727b",
+  "https://images.blocketcdn.se/dynamic/default/item/26540090/43415036-754b-4856-8653-920ca5523e53",
+  "https://images.blocketcdn.se/dynamic/default/item/26540090/1aab69a1-5323-4acd-88d2-df5b73a80158",
+  "https://images.blocketcdn.se/dynamic/default/item/26540090/8ff6c2f9-030e-4650-8825-69c89407d36f",
+  "https://images.blocketcdn.se/dynamic/default/item/26540090/abe2c611-5593-42d8-9798-0a4c850c7144",
+  "https://images.blocketcdn.se/dynamic/default/item/26540090/bbab18da-174f-4acc-bf1e-c1667c20c188",
+  "https://images.blocketcdn.se/dynamic/default/item/26540090/d6ac9a4e-df7b-4fa6-b29f-359a156590e0",
+  "https://images.blocketcdn.se/dynamic/default/item/26540090/77730f68-6d25-4b36-9949-1f1f3c75c51a",
+  "https://images.blocketcdn.se/dynamic/default/item/26540090/685e732f-55e8-4fac-b704-7059e572c048",
+  "https://images.blocketcdn.se/dynamic/default/item/26540090/02ad538c-691b-4f7b-b820-12b3540dfc8a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.71,
+ "length_ft": 21,
+ "location": "Göteborg",
+ "lon": 11.9,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 876,
+  "fetched_ts": 1790520995626,
+  "text_sha": "bec1935622034300"
+ },
+ "price": 47000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 47000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "21 fot",
+  "Modell": "Pollux 21 Family",
+  "Modellår": "1976",
+  "Motortillverkare": "Volvo Penta MD17D",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "6",
+  "Sovplatser": "4",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26540090",
+ "width_cm": 0,
+ "year": 1976
+}

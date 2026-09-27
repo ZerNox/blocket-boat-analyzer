@@ -7,6 +7,8 @@
   "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury ME-F60",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -43,8 +45,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 535 med 60hk Mercury",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25265916/ee4ac46d-1efc-4691-8044-8354a9cb06bf",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.35591,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25265916/ee4ac46d-1efc-4691-8044-8354a9cb06bf",
+  "https://images.blocketcdn.se/dynamic/default/item/25265916/c48945e9-85e4-4159-9962-293f71edd8f5",
+  "https://images.blocketcdn.se/dynamic/default/item/25265916/54c9cc15-642d-43dd-b3f6-5ba0ba95442f",
+  "https://images.blocketcdn.se/dynamic/default/item/25265916/e6a8798a-b0a0-4135-b36f-f560a9cf8d47",
+  "https://images.blocketcdn.se/dynamic/default/item/25265916/03d84b80-cbe6-47a2-931e-9f4dad1131d0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.36,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +83,13 @@
   "text_sha": "08387f49791d821e"
  },
  "location": "Brastad",
- "lon": 11.38619,
+ "lon": 11.39,
  "make": "Ryds",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 90,
   "fetched_ts": 1790507705041,
@@ -108,7 +118,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25265916",
  "width_cm": 0,
  "year": 2010

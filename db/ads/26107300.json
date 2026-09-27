@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder Sportsman 400, Suzuki 15 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26107300/f560d5c0-378a-4abf-8def-6a29278389c2",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.40955,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26107300/f560d5c0-378a-4abf-8def-6a29278389c2",
+  "https://images.blocketcdn.se/dynamic/default/item/26107300/29ead429-ef9d-43e1-8627-e97e09473126",
+  "https://images.blocketcdn.se/dynamic/default/item/26107300/2a7490fb-ea26-4176-96b9-bfd3b0813beb",
+  "https://images.blocketcdn.se/dynamic/default/item/26107300/d6fa35a4-8636-4ab8-88df-91a582d53913",
+  "https://images.blocketcdn.se/dynamic/default/item/26107300/59439723-0522-4deb-9fbd-ec7ffad892e1",
+  "https://images.blocketcdn.se/dynamic/default/item/26107300/c05dfd62-a2be-41bf-8546-a2d7d30829cc",
+  "https://images.blocketcdn.se/dynamic/default/item/26107300/7a267d10-903b-4265-a0c9-1571b3c946fe"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.41,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +78,13 @@
   "text_sha": "0bf5296e67ba2886"
  },
  "location": "Karlstad",
- "lon": 13.47559,
+ "lon": 13.48,
  "make": "Linder",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1150,
   "fetched_ts": 1790508466860,
@@ -102,7 +114,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "125 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26107300",
  "width_cm": 164,
  "year": 2000

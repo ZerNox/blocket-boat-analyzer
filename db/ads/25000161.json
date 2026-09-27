@@ -1,0 +1,83 @@
+{
+ "ad_id": 25000161,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789889965000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1962,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1962,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Finnjolle",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25000161/ed6326e7-d68d-4eba-a42c-3bcfccefbf8f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25000161/ed6326e7-d68d-4eba-a42c-3bcfccefbf8f",
+  "https://images.blocketcdn.se/dynamic/default/item/25000161/2a72381b-5535-4574-8d0e-cc41f3554266",
+  "https://images.blocketcdn.se/dynamic/default/item/25000161/c9224937-a7d5-4239-b32f-f4e999428b1a",
+  "https://images.blocketcdn.se/dynamic/default/item/25000161/01a99cf5-26d0-4e34-aa77-c3da0ad24ad4",
+  "https://images.blocketcdn.se/dynamic/default/item/25000161/45f344c3-87d0-4ce4-ac08-79de1c80f1d6",
+  "https://images.blocketcdn.se/dynamic/default/item/25000161/34147b90-7248-491d-99d1-914957324e03",
+  "https://images.blocketcdn.se/dynamic/default/item/25000161/b26da196-517b-4052-b97b-579fc9d7bd6c",
+  "https://images.blocketcdn.se/dynamic/default/item/25000161/7d381120-8a46-455d-8ccc-9b6cfb8be0e8",
+  "https://images.blocketcdn.se/dynamic/default/item/25000161/f64ed13e-65dd-4de9-bb7d-710d77c685e7",
+  "https://images.blocketcdn.se/dynamic/default/item/25000161/650a53c2-0161-4a3b-b89c-301052c69b6b",
+  "https://images.blocketcdn.se/dynamic/default/item/25000161/a1f28496-e7fe-4ccd-903a-91a01d823530",
+  "https://images.blocketcdn.se/dynamic/default/item/25000161/c3fbd47e-5193-49e0-b1ad-88c91fab364c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.04,
+ "length_ft": 15,
+ "location": "Gnesta",
+ "lon": 17.31,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 141,
+  "fetched_ts": 1790520650856,
+  "text_sha": "e1b4a52c8fa41f90"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "Finnjolle",
+  "Modellår": "1962",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Trä",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25000161",
+ "width_cm": 0,
+ "year": 1962
+}

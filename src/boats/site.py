@@ -25,10 +25,13 @@ def build(cfg: dict, out: Path) -> dict:
     }
     out.mkdir(parents=True, exist_ok=True)
     shutil.copy(ROOT / "site" / "index.html", out / "index.html")
+    shutil.copy(ROOT / "site" / "postnummer.json", out / "postnummer.json")
     payload = {
         "generated": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat(),
         "search_url": cfg["search"]["url"],
         "min_price": cfg["ranking"]["min_price"],
+        "home": cfg["search"].get("home"),
+        "max_km": cfg["search"].get("max_km"),
         "coverage": coverage,
         "model": model,
         "boats": ranked,

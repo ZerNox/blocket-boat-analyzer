@@ -1,0 +1,138 @@
+{
+ "ad_id": 23680440,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785356094000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Johnson",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ett ekolod sitter på, Lawrence.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "1 äldre kapell finns, tätt med defekt båge",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Står på ett besiktigat 80 släp",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "ter men även \nmöjligt att övernatta 2-3 personer i ruffen. \n5 sittplatser inkl förarstol, men ena sidan gå",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Sunbird cabin",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23680440/dc305298-3e93-406c-b3d7-b019cf41d84a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23680440/dc305298-3e93-406c-b3d7-b019cf41d84a",
+  "https://images.blocketcdn.se/dynamic/default/item/23680440/2f2515db-6e4a-40a2-b852-242e6902b733",
+  "https://images.blocketcdn.se/dynamic/default/item/23680440/dcab9f2e-87a4-4ac9-85d8-7fa44c9c299c",
+  "https://images.blocketcdn.se/dynamic/default/item/23680440/1432acde-ea8f-4389-ba8a-f9bc4b7584be",
+  "https://images.blocketcdn.se/dynamic/default/item/23680440/8f1ffb77-5506-4122-8581-dd723aba6611",
+  "https://images.blocketcdn.se/dynamic/default/item/23680440/c95816e8-080e-443f-8f3e-3806a11cf46d",
+  "https://images.blocketcdn.se/dynamic/default/item/23680440/8bc13ab1-ae55-486b-94c0-1946fe8ad006",
+  "https://images.blocketcdn.se/dynamic/default/item/23680440/3ad26797-9cac-4cfd-8e22-dd3dcc225e4d",
+  "https://images.blocketcdn.se/dynamic/default/item/23680440/6bed6c52-3f61-4389-a716-64474a6f478a"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.7,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1989,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny trim och tiltmotor -26",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "89b87f13e58b6b17"
+ },
+ "location": "Norrahammar",
+ "lon": 14.13,
+ "make": "Sunbird",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 479,
+  "fetched_ts": 1790522904529,
+  "text_sha": "89b87f13e58b6b17"
+ },
+ "price": 62500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 62500
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit o röd",
+  "Längd i fot": "19 fot",
+  "Modell": "Cuddy cabin",
+  "Modellår": "1989",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Sunbird",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "3",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23680440",
+ "width_cm": 210,
+ "year": 1989
+}

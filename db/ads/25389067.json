@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Utter4500",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25389067/2e2e92c0-d1b6-47d9-8097-1a00b6c08bd2",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.42385,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25389067/2e2e92c0-d1b6-47d9-8097-1a00b6c08bd2",
+  "https://images.blocketcdn.se/dynamic/default/item/25389067/97630dbc-9c96-4f87-9472-f23396d04f41",
+  "https://images.blocketcdn.se/dynamic/default/item/25389067/2b1c2a2d-2541-4e76-9079-bef25be73fc9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.42,
  "length_ft": 450,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "e310d13c59ec264c"
  },
  "location": "Stallarholmen",
- "lon": 17.14859,
+ "lon": 17.15,
  "make": "Uttern",
  "max_speed": 27,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790507829888,
@@ -92,7 +100,7 @@
   "Toppfart": "27 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25389067",
  "width_cm": 0,
  "year": 1990

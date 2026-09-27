@@ -1,0 +1,112 @@
+{
+ "ad_id": 24519034,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786863067000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2002,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "90hk Mariner 2002.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Plotter/ekolod medföljer.",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Ny hydraulisk styrning monterad förra säsongen,",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Dubbla kapell medföljer, det på bild samt ett enkelt hamnkapell.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter/ekolod medföljer.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Ny stereo isatt tillsammans med 4 högtalare.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fin och robust 30-trailer.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 5100 DC 2001 - 90hk Mariner 2002",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Uttern 5100 DC 2001 - 90hk Mariner 2002",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24519034/aea8c651-ae92-4776-9f7c-52ee51b6f077",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24519034/aea8c651-ae92-4776-9f7c-52ee51b6f077",
+  "https://images.blocketcdn.se/dynamic/default/item/24519034/b4670f89-6864-4f5b-8576-6dab067b36f5",
+  "https://images.blocketcdn.se/dynamic/default/item/24519034/6370fcbd-5a6c-4caf-a7ae-974dd531a127"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.75,
+ "length_ft": 17,
+ "location": "Norrtälje",
+ "lon": 18.83,
+ "make": "Uttern",
+ "max_speed": 36,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 679,
+  "fetched_ts": 1790522935878,
+  "text_sha": "42d53f39810ead53"
+ },
+ "price": 78000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 78000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "5100 DC",
+  "Modellår": "2001",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "5",
+  "Sovplatser": "2",
+  "Toppfart": "36 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24519034",
+ "width_cm": 200,
+ "year": 2001
+}

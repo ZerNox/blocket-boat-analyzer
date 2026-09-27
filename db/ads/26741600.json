@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": 50,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha 4 takts",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster L 50 h 4 takt + GPS - Servad årligen",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26741600/5bdc5776-1055-4eaf-abc4-a46f12c16a1d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.4066,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26741600/5bdc5776-1055-4eaf-abc4-a46f12c16a1d",
+  "https://images.blocketcdn.se/dynamic/default/item/26741600/a1b5e7e2-a636-4abd-a862-b36f02120404",
+  "https://images.blocketcdn.se/dynamic/default/item/26741600/3b44a71f-f7da-46f8-a75e-96a227add804",
+  "https://images.blocketcdn.se/dynamic/default/item/26741600/a2273d99-1724-47d8-a9e6-245837e9cac3",
+  "https://images.blocketcdn.se/dynamic/default/item/26741600/325becd1-2d26-4d2a-ae5a-280b64677ab7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.41,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "73f506acad222041"
  },
  "location": "Vaxholm",
- "lon": 18.33176,
+ "lon": 18.33,
  "make": "Buster",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 242,
   "fetched_ts": 1790508904690,
@@ -96,7 +106,7 @@
   "Märke": "Buster",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26741600",
  "width_cm": 0,
  "year": 2000

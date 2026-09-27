@@ -7,6 +7,8 @@
   "boat_year": 2005,
   "boat_year_source": "spec",
   "engine_hours": 300,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 510",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25670545/e3021ad0-f724-4954-9f47-fa189255cd2e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.92931,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25670545/e3021ad0-f724-4954-9f47-fa189255cd2e",
+  "https://images.blocketcdn.se/dynamic/default/item/25670545/0409150a-fc47-4eb8-8e1d-b3bf569c4147",
+  "https://images.blocketcdn.se/dynamic/default/item/25670545/c826701b-7701-4aca-a862-38c827cef20c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.93,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "e2aa7fc4a9393738"
  },
  "location": "Rönnäng",
- "lon": 11.56148,
+ "lon": 11.56,
  "make": "HR",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 227,
   "fetched_ts": 1790508080733,
@@ -93,7 +101,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25670545",
  "width_cm": 218,
  "year": 2005

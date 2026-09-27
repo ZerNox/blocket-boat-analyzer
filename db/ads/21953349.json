@@ -7,6 +7,8 @@
   "boat_year": 2019,
   "boat_year_source": "spec",
   "engine_hours": 35,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Tracker Grizzly 1648 Jon – Mercury 40 Jet – Trailer – Låga timmar, ej elektronik",
  "image": "https://images.blocketcdn.se/dynamic/default/item/21953349/36962872-8eea-47fc-877d-2497708c3997",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.53225,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21953349/36962872-8eea-47fc-877d-2497708c3997",
+  "https://images.blocketcdn.se/dynamic/default/item/21953349/e708499f-a3ab-44d7-b02b-5ca5cc59ccd2",
+  "https://images.blocketcdn.se/dynamic/default/item/21953349/03d1c388-97c3-4f0a-8241-819996e35cc3"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.53,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "cfe88d9453b0b48f"
  },
  "location": "Karlholmsbruk",
- "lon": 17.64021,
+ "lon": 17.64,
  "make": "Tracker",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 606,
   "fetched_ts": 1790507431698,
@@ -97,7 +105,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/21953349",
  "width_cm": 0,
  "year": 2019

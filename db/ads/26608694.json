@@ -1,0 +1,76 @@
+{
+ "ad_id": 26608694,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789634030000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Uppblåsbar kanot",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26608694/47e65ac4-360e-4158-a045-f31441b7511c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26608694/47e65ac4-360e-4158-a045-f31441b7511c",
+  "https://images.blocketcdn.se/dynamic/default/item/26608694/ad96bf87-fbab-44d2-8b04-38ddadb105ea"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.36,
+ "length_ft": 13,
+ "location": "Trelleborg",
+ "lon": 13.2,
+ "make": "Aqua",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 52,
+  "fetched_ts": 1790521022492,
+  "text_sha": "858439c3576503ee"
+ },
+ "price": 800,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 800
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "BLÅ",
+  "Längd i fot": "13 fot",
+  "Modell": "Kanot",
+  "Modellår": "2025",
+  "Motor inkluderad": "Nej",
+  "Märke": "Aqua",
+  "Sittplatser": "1",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "15 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26608694",
+ "width_cm": 0,
+ "year": 2025
+}

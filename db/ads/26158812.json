@@ -1,0 +1,110 @@
+{
+ "ad_id": 26158812,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788088295000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 1988,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Crescent 490 sport MED kärra",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Crescent 490 sport MED kärra",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26158812/c0c5bd1d-8016-4b0b-ae13-15ea06810254",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26158812/c0c5bd1d-8016-4b0b-ae13-15ea06810254",
+  "https://images.blocketcdn.se/dynamic/default/item/26158812/4c04c22b-67c0-4a18-bdca-f87cf55ad7ad",
+  "https://images.blocketcdn.se/dynamic/default/item/26158812/2cfdc8b2-15dc-4301-b1db-0e161d81533e",
+  "https://images.blocketcdn.se/dynamic/default/item/26158812/c2a0a01b-a313-43da-a1d1-22393a786629",
+  "https://images.blocketcdn.se/dynamic/default/item/26158812/7bb92352-7066-41fd-ae5f-ede4ce785531",
+  "https://images.blocketcdn.se/dynamic/default/item/26158812/40715e35-8a11-4135-a52a-8188b5ced0e0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.98,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1988,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "46bcfc7e0c780487"
+ },
+ "location": "Skärhamn",
+ "lon": 11.53,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790520911627,
+  "text_sha": "46bcfc7e0c780487"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modellår": "1988",
+  "Motor inkluderad": "Ja",
+  "Märke": "Crescent",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26158812",
+ "width_cm": 0,
+ "year": 1988
+}

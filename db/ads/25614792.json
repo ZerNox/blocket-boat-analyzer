@@ -7,6 +7,8 @@
   "boat_year": 2018,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 8,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -45,8 +47,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster mini",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25614792/765c9575-30d0-4467-8258-b3a9914dac18",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.41721,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25614792/765c9575-30d0-4467-8258-b3a9914dac18",
+  "https://images.blocketcdn.se/dynamic/default/item/25614792/29b1158b-c2e5-4b80-9d4d-0dddc7eea636",
+  "https://images.blocketcdn.se/dynamic/default/item/25614792/3daec6c9-4c5c-4793-aae4-91282778b3b8",
+  "https://images.blocketcdn.se/dynamic/default/item/25614792/b08a69aa-9c39-4d64-bd91-499fef4fe7a5",
+  "https://images.blocketcdn.se/dynamic/default/item/25614792/4751dc5b-43ba-42a8-a5ec-2af90e28e6ae",
+  "https://images.blocketcdn.se/dynamic/default/item/25614792/2b66210f-c2c9-43a8-aba4-d84c23299c8e",
+  "https://images.blocketcdn.se/dynamic/default/item/25614792/7c653d5b-ee0f-4626-964e-4bbf7b8a6cc2",
+  "https://images.blocketcdn.se/dynamic/default/item/25614792/392dc492-7014-49a5-a757-04bcf640f565",
+  "https://images.blocketcdn.se/dynamic/default/item/25614792/1e4038b8-27e6-4129-af1f-a5438e8d895b",
+  "https://images.blocketcdn.se/dynamic/default/item/25614792/73083411-d6ff-44b0-814c-610a55f4b902"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.42,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -77,12 +91,13 @@
   "text_sha": "536b3ca924345612"
  },
  "location": "Sundsvall",
- "lon": 17.32304,
+ "lon": 17.32,
  "make": "Buster",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 8.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1220,
   "fetched_ts": 1790508052248,
@@ -113,7 +128,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "104 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25614792",
  "width_cm": 149,
  "year": 2018

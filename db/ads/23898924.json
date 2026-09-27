@@ -1,0 +1,121 @@
+{
+ "ad_id": 23898924,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786045620000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "IVECO aifo 8045M08",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Utrustning: Autopilot,ekolod (Garmin) ,OSV.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Fritids-fiskebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23898924/0ceaa444-cc0b-4f32-aa34-497a081a6470",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23898924/0ceaa444-cc0b-4f32-aa34-497a081a6470",
+  "https://images.blocketcdn.se/dynamic/default/item/23898924/8654c456-0ebd-4b1b-ba56-4b44ccf78dd0",
+  "https://images.blocketcdn.se/dynamic/default/item/23898924/21dae38c-f995-4038-a052-0206a4cc3c2c",
+  "https://images.blocketcdn.se/dynamic/default/item/23898924/3588c3f9-3260-4254-a4f1-2c3e3d837990",
+  "https://images.blocketcdn.se/dynamic/default/item/23898924/3136e205-dc01-4094-8ad6-87c51693ab87",
+  "https://images.blocketcdn.se/dynamic/default/item/23898924/820549d5-9b4e-4a52-94f3-349ea656b93b",
+  "https://images.blocketcdn.se/dynamic/default/item/23898924/8e918ed9-01ae-4306-85d4-ddc11b89cd87",
+  "https://images.blocketcdn.se/dynamic/default/item/23898924/139588c3-e642-4e03-b7ad-8a1e81c75faf",
+  "https://images.blocketcdn.se/dynamic/default/item/23898924/69d47365-dd22-475b-b44e-c04d9aea9383"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.53,
+ "length_ft": 38,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "IVECO",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortillverkare: IVECO aifo 8045M08, Motortyp: Inombordare",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e99d104c36b73eb0"
+ },
+ "location": "Urshult",
+ "lon": 14.81,
+ "make": "Övriga",
+ "max_speed": 8,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 427,
+  "fetched_ts": 1790520626564,
+  "text_sha": "e99d104c36b73eb0"
+ },
+ "price": 100000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 100000
+  }
+ ],
+ "specs": {
+  "Bredd": "389 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "150 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "vit",
+  "Längd i fot": "38 fot",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "IVECO aifo 8045M08",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "8 knop",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "10 000 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23898924",
+ "width_cm": 389,
+ "year": 1985
+}

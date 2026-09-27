@@ -1,0 +1,104 @@
+{
+ "ad_id": 26107854,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787991612000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1983,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Johnsson 90hk PLSD från 2006.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Fint marinblått kapell i bra skick",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "ilation i akterdäck och i ruffen\nEnkelt att gå ut och in i båten genom luckan i fören\nOriginalbestick och",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Uttern 630",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26107854/65a2063f-a3c7-4053-9af9-b5063a11338c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26107854/65a2063f-a3c7-4053-9af9-b5063a11338c",
+  "https://images.blocketcdn.se/dynamic/default/item/26107854/53141009-a699-4617-be16-dc1b92c5b945",
+  "https://images.blocketcdn.se/dynamic/default/item/26107854/eb5003f2-11a7-49ce-aa08-6d164cb2fa57",
+  "https://images.blocketcdn.se/dynamic/default/item/26107854/e69532c4-71d4-4e92-bfd3-1934c083cc46",
+  "https://images.blocketcdn.se/dynamic/default/item/26107854/3b143c73-1e16-4e92-92c2-45d496bb9b55",
+  "https://images.blocketcdn.se/dynamic/default/item/26107854/a6e7ade8-d910-4eb6-871d-76b52ef4b8dc",
+  "https://images.blocketcdn.se/dynamic/default/item/26107854/9d5758f5-d8cb-4068-966b-afc3ca6b6132",
+  "https://images.blocketcdn.se/dynamic/default/item/26107854/d6e12c7e-34c9-4b49-a7bc-0f371d81f002",
+  "https://images.blocketcdn.se/dynamic/default/item/26107854/d7bef43c-3633-4c6d-80c0-81f32ebbec24",
+  "https://images.blocketcdn.se/dynamic/default/item/26107854/d358e471-b979-4519-bb66-0888e140c2df",
+  "https://images.blocketcdn.se/dynamic/default/item/26107854/958bb13b-a18e-4cd1-bfb6-8eabf89d1988",
+  "https://images.blocketcdn.se/dynamic/default/item/26107854/e2f5473e-f8fe-4b75-95de-9d290255716a",
+  "https://images.blocketcdn.se/dynamic/default/item/26107854/ad22efb8-7f87-49e9-912a-9ab60b815390",
+  "https://images.blocketcdn.se/dynamic/default/item/26107854/0a22c195-2cb0-4ec5-9d16-bdd98150cafd"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.33,
+ "length_ft": 21,
+ "location": "Gustavsberg",
+ "lon": 18.37,
+ "make": "Uttern",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1142,
+  "fetched_ts": 1790523122422,
+  "text_sha": "39af8248471c6441"
+ },
+ "price": 54000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 54000
+  }
+ ],
+ "specs": {
+  "Bredd": "260 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "65 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "21 fot",
+  "Modell": "630",
+  "Modellår": "1983",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "8",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "5",
+  "Toppfart": "28 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26107854",
+ "width_cm": 260,
+ "year": 1983
+}

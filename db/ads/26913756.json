@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 5.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude 5 hk",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 425 med Evinrude 5 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26913756/ee577f0f-64ec-42de-ab02-ad99f5f43759",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.53226,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26913756/ee577f0f-64ec-42de-ab02-ad99f5f43759",
+  "https://images.blocketcdn.se/dynamic/default/item/26913756/2df28f35-447d-4571-84d0-c734acac02e8",
+  "https://images.blocketcdn.se/dynamic/default/item/26913756/08e51f0e-de44-4474-90d5-ed2f3cb98791",
+  "https://images.blocketcdn.se/dynamic/default/item/26913756/9c60cedd-f5ea-4263-97e7-e7d77377db2f",
+  "https://images.blocketcdn.se/dynamic/default/item/26913756/4c854cf6-de09-457f-8ac8-db6e23e96830",
+  "https://images.blocketcdn.se/dynamic/default/item/26913756/f04ea806-08b1-4232-bb90-56bcb8be8fb9",
+  "https://images.blocketcdn.se/dynamic/default/item/26913756/6d689439-f47e-402a-8f67-8f7cffec30fa",
+  "https://images.blocketcdn.se/dynamic/default/item/26913756/76819e0c-321e-4c36-9782-1e5559347016",
+  "https://images.blocketcdn.se/dynamic/default/item/26913756/e2be69b2-0aea-4ae1-9134-bef95f5933ea"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.53,
  "length_ft": 425,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +78,13 @@
   "text_sha": "d3bf7fd650a9d639"
  },
  "location": "Urshult",
- "lon": 14.81152,
+ "lon": 14.81,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 5.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 187,
   "fetched_ts": 1790509023523,
@@ -99,7 +113,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26913756",
  "width_cm": 170,
  "year": 1800

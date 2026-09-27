@@ -1,0 +1,85 @@
+{
+ "ad_id": 25798487,
+ "boat_class": "Annat",
+ "changed_ts": 1787805084000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "10 åror och kapell inkluderat.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Tiohuggare",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25798487/431f8069-0135-4392-b139-7a047bef7229",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25798487/431f8069-0135-4392-b139-7a047bef7229",
+  "https://images.blocketcdn.se/dynamic/default/item/25798487/1145c59d-6a8d-4470-8b54-b227c7f3977e",
+  "https://images.blocketcdn.se/dynamic/default/item/25798487/2631df1d-6578-4e43-a300-547e1e28bbf7",
+  "https://images.blocketcdn.se/dynamic/default/item/25798487/e1871e18-0011-487b-8df1-bb145cd38c8e",
+  "https://images.blocketcdn.se/dynamic/default/item/25798487/ce5470b2-6cc7-41b2-af58-34c1d5819101",
+  "https://images.blocketcdn.se/dynamic/default/item/25798487/cda7bfc9-77f9-4145-a683-e5fccf45862a",
+  "https://images.blocketcdn.se/dynamic/default/item/25798487/e2910ba0-2b12-4bb8-9df8-7d5a6e8289bb"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.72,
+ "length_ft": 27,
+ "location": "Öckerö",
+ "lon": 11.65,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 288,
+  "fetched_ts": 1790520768901,
+  "text_sha": "5beedc91a1d4a87a"
+ },
+ "price": 0,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 0
+  }
+ ],
+ "specs": {
+  "Bredd": "250 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Längd i fot": "27 fot",
+  "Modellår": "1995",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Trä",
+  "Typ": "Annat",
+  "Vikt": "1 000 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25798487",
+ "width_cm": 250,
+ "year": 1995
+}

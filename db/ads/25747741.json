@@ -7,6 +7,8 @@
   "boat_year": 2018,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Selva",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Great White Rib - 300, Selva 15HK",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25747741/1a307e11-0aa7-4a57-9f84-9aa114c74309",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.93824,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25747741/1a307e11-0aa7-4a57-9f84-9aa114c74309"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.94,
  "length_ft": 10,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +70,13 @@
   "text_sha": "c360021104b3fbb8"
  },
  "location": "Norrsundet",
- "lon": 17.16584,
+ "lon": 17.17,
  "make": "Greatwhite",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 106,
   "fetched_ts": 1790508152127,
@@ -97,7 +103,7 @@
   "Skrovmaterial": "Annat",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25747741",
  "width_cm": 300,
  "year": 2018

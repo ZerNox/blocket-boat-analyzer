@@ -7,6 +7,8 @@
   "boat_year": 2020,
   "boat_year_source": "spec",
   "engine_hours": 64,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -36,8 +38,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern S45",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25979275/2a56b5f4-b923-4c69-85f3-3a3ab164bd25",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.32301,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25979275/2a56b5f4-b923-4c69-85f3-3a3ab164bd25",
+  "https://images.blocketcdn.se/dynamic/default/item/25979275/7d1b688e-6602-43df-aacb-15ae79788a2f",
+  "https://images.blocketcdn.se/dynamic/default/item/25979275/ca95675b-febd-409e-97ec-3b1f2fc2258c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +74,13 @@
   "text_sha": "e9985923054de997"
  },
  "location": "Karlskoga",
- "lon": 14.38958,
+ "lon": 14.39,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 50.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 313,
   "fetched_ts": 1790508352309,
@@ -96,7 +104,7 @@
   "Märke": "Uttern",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25979275",
  "width_cm": 0,
  "year": 2020

@@ -7,6 +7,8 @@
   "boat_year": 2004,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -45,8 +47,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 465 trader, Yamaha 25 hk 4takt samt 80 trailer.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/18345080/b70ae037-bd7a-414d-96fb-ef89667c1fc5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.98462,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/18345080/b70ae037-bd7a-414d-96fb-ef89667c1fc5",
+  "https://images.blocketcdn.se/dynamic/default/item/18345080/daf251cc-5055-499b-9fce-a07ad05602ad",
+  "https://images.blocketcdn.se/dynamic/default/item/18345080/e1bec80b-de74-4cee-a4c5-013922567fa2",
+  "https://images.blocketcdn.se/dynamic/default/item/18345080/c842fa8a-721d-46b4-a0b0-a597388099c3",
+  "https://images.blocketcdn.se/dynamic/default/item/18345080/c5ea86aa-4234-4a83-b8d2-cb44f5429c6d",
+  "https://images.blocketcdn.se/dynamic/default/item/18345080/228283d0-9ac3-44a7-a305-de7cd485205d",
+  "https://images.blocketcdn.se/dynamic/default/item/18345080/5390f70b-4e1f-49b6-8ddd-e2dbb83daf2e",
+  "https://images.blocketcdn.se/dynamic/default/item/18345080/d0877dbc-d61d-48a3-b058-87b603f8f7fb"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.98,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -76,12 +88,13 @@
   "text_sha": "ac3fc4c3bc636da2"
  },
  "location": "Fagersta",
- "lon": 15.82727,
+ "lon": 15.83,
  "make": "Övriga",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1112,
   "fetched_ts": 1790507410408,
@@ -106,7 +119,7 @@
   "Toppfart": "20 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/18345080",
  "width_cm": 0,
  "year": 2004

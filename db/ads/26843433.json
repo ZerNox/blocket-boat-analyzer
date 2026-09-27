@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": 50,
+  "engine_hp": 68,
+  "engine_hp_source": "llm",
   "engine_maker": null,
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -29,8 +31,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Drömmen om kanalturen som försvann.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26843433/c959b99c-011b-477f-b9d6-91e9a32429fc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.92186,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26843433/c959b99c-011b-477f-b9d6-91e9a32429fc",
+  "https://images.blocketcdn.se/dynamic/default/item/26843433/856bf6fd-4347-4b64-abf1-e48fde93a3a5",
+  "https://images.blocketcdn.se/dynamic/default/item/26843433/bb2407f1-85aa-4dcc-ab8c-83d4444dffc6",
+  "https://images.blocketcdn.se/dynamic/default/item/26843433/e1eb858f-1a13-4222-a2e7-f97a03ffda51",
+  "https://images.blocketcdn.se/dynamic/default/item/26843433/7786af3b-b403-427a-b54c-8ead397d0a87",
+  "https://images.blocketcdn.se/dynamic/default/item/26843433/507c1d63-b8cf-4af4-81f9-81dab7e44bc0",
+  "https://images.blocketcdn.se/dynamic/default/item/26843433/09d8b824-0b9a-4201-ae5d-8f1fb687f270",
+  "https://images.blocketcdn.se/dynamic/default/item/26843433/4b4e648d-4b39-47cb-8dd4-912d536c19c7",
+  "https://images.blocketcdn.se/dynamic/default/item/26843433/563e932f-8bf9-4823-a7b9-11e7c83fa834",
+  "https://images.blocketcdn.se/dynamic/default/item/26843433/6688ed82-e61b-4f92-8705-131db0150702",
+  "https://images.blocketcdn.se/dynamic/default/item/26843433/b4fc424b-9ffe-4f4f-b77f-5c2f9d9ade35"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.92,
  "length_ft": 32,
  "llm": {
   "at": "2026-09-27",
@@ -61,12 +76,13 @@
   "text_sha": "bc1b5e14ebe9eb88"
  },
  "location": "Höör",
- "lon": 13.58256,
+ "lon": 13.58,
  "make": "Piet Hein Sloep",
  "max_speed": 12,
  "motor_fuel": "Diesel",
  "motor_size": 68.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 506,
   "fetched_ts": 1790508975981,
@@ -99,7 +115,7 @@
   "Typ": "Annat",
   "Vikt": "6 700 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26843433",
  "width_cm": 290,
  "year": 1978

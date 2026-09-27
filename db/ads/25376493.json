@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnsson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 445 fiskebåt - höstpris!",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25376493/4f89a8f9-715e-4a19-940e-47e206da8b94",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.49034,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25376493/4f89a8f9-715e-4a19-940e-47e206da8b94",
+  "https://images.blocketcdn.se/dynamic/default/item/25376493/c86467de-7dc2-4c01-986b-6815744e606f",
+  "https://images.blocketcdn.se/dynamic/default/item/25376493/37e69801-77ed-4b0c-b18d-0551dc1a6cde",
+  "https://images.blocketcdn.se/dynamic/default/item/25376493/d28673d0-27f6-4317-87bd-37d20181175a",
+  "https://images.blocketcdn.se/dynamic/default/item/25376493/5c05dcc1-6c84-4206-b7f7-8c7de5ffce75"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.49,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +78,13 @@
   "text_sha": "daa5f312e8586e4e"
  },
  "location": "Järfälla",
- "lon": 17.80714,
+ "lon": 17.81,
  "make": "Crescent",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 178,
   "fetched_ts": 1790507818920,
@@ -105,7 +115,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "225 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25376493",
  "width_cm": 178,
  "year": 1980

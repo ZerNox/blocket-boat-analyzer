@@ -1,0 +1,119 @@
+{
+ "ad_id": 21306634,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789551650000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "säljas separat. Motorn är en Johnson, 15 hk, lång rigg. Ny bensinkanister. Förlängningsarm för gasreglaget. Extra prope",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1977,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "vinterkapell": {
+    "evidence": "Då tillverkade jag en presenning med bågar.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Träbåt av båtsbyggaren Arthur Holmstrom",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21306634/e3e34976-ba65-498a-9e24-fbf0f15fe7f0",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21306634/e3e34976-ba65-498a-9e24-fbf0f15fe7f0",
+  "https://images.blocketcdn.se/dynamic/default/item/21306634/8034c456-03b9-4f18-a17c-84f0c57b150a",
+  "https://images.blocketcdn.se/dynamic/default/item/21306634/3664a859-c132-459d-aa5d-7b7360406611",
+  "https://images.blocketcdn.se/dynamic/default/item/21306634/a8651010-b61f-412e-8c70-3491325141fd",
+  "https://images.blocketcdn.se/dynamic/default/item/21306634/f23331e1-f3a3-4740-a9f8-d0d761f06c92",
+  "https://images.blocketcdn.se/dynamic/default/item/21306634/ffb9c448-8650-4ec6-bb7b-c7bcad478486",
+  "https://images.blocketcdn.se/dynamic/default/item/21306634/df0b5526-dcb3-46ba-8200-4579dbea3b7c",
+  "https://images.blocketcdn.se/dynamic/default/item/21306634/f0f5b807-330f-4d1d-b9a9-6b67c40e3637",
+  "https://images.blocketcdn.se/dynamic/default/item/21306634/75f84ba7-990b-490e-9065-4b811e9530a0",
+  "https://images.blocketcdn.se/dynamic/default/item/21306634/2fff5b3c-a83d-454b-b342-0f90abd4948b",
+  "https://images.blocketcdn.se/dynamic/default/item/21306634/0ad5b5a5-c279-48c7-b075-ffa38b4eea5f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.67,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1977,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny motor -18",
+   "engine_year_rejected": -18,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "967b9d807c2c187f"
+ },
+ "location": "Gävle",
+ "lon": 17.07,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1143,
+  "fetched_ts": 1790520585390,
+  "text_sha": "967b9d807c2c187f"
+ },
+ "price": 17000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 17000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modell": "Holmströmare",
+  "Modellår": "1977",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Trä",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/21306634",
+ "width_cm": 180,
+ "year": 1977
+}

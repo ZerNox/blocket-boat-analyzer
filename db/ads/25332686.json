@@ -7,6 +7,8 @@
   "boat_year": 2013,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -36,8 +38,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 465 Fishing en ägare",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25332686/39230388-8d02-49c7-807e-a174e287eaeb",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.66284,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25332686/39230388-8d02-49c7-807e-a174e287eaeb",
+  "https://images.blocketcdn.se/dynamic/default/item/25332686/24b4bc1e-20d6-44c7-9186-47282922e458",
+  "https://images.blocketcdn.se/dynamic/default/item/25332686/58abc841-b025-4b0e-a080-027409203925",
+  "https://images.blocketcdn.se/dynamic/default/item/25332686/03e5d3b3-6d44-42a5-8a24-a716c07daa01",
+  "https://images.blocketcdn.se/dynamic/default/item/25332686/237c1346-90f7-4e48-b5a9-58e069526984",
+  "https://images.blocketcdn.se/dynamic/default/item/25332686/b3ffc5d6-a361-4181-8595-45b82a4e3f5a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.66,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +77,13 @@
   "text_sha": "aac4abf4ed90b390"
  },
  "location": "Gävle",
- "lon": 17.23347,
+ "lon": 17.23,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 25.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 91,
   "fetched_ts": 1790507766904,
@@ -98,7 +109,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "240 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25332686",
  "width_cm": 0,
  "year": 2013

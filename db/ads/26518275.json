@@ -7,6 +7,8 @@
   "boat_year": 1987,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Motorbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26518275/a0a0fa50-bcbc-4825-8b50-40abdea38ee8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.20433,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26518275/a0a0fa50-bcbc-4825-8b50-40abdea38ee8",
+  "https://images.blocketcdn.se/dynamic/default/item/26518275/affad824-880b-418e-af5e-8627a1b77693",
+  "https://images.blocketcdn.se/dynamic/default/item/26518275/353e472c-889b-4b90-b7b5-59bbb493986c",
+  "https://images.blocketcdn.se/dynamic/default/item/26518275/42f49c88-2a39-4220-a5a9-5f3910fbcd44",
+  "https://images.blocketcdn.se/dynamic/default/item/26518275/e11b9af4-c782-4327-a445-03caf634bd4c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.2,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "850164ef427a55ad"
  },
  "location": "Örebro",
- "lon": 15.16029,
+ "lon": 15.16,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508756966,
@@ -91,7 +101,7 @@
   "Märke": "Örnvik",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26518275",
  "width_cm": 0,
  "year": 1987

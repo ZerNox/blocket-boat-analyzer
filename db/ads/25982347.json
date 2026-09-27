@@ -7,6 +7,8 @@
   "boat_year": 2004,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -43,8 +45,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 485 DLI",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25982347/00891784-617d-443d-a911-7058ed18b247",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.32606,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25982347/00891784-617d-443d-a911-7058ed18b247",
+  "https://images.blocketcdn.se/dynamic/default/item/25982347/9ebf41d3-05fa-4cd2-9f25-7bb28abb52f8",
+  "https://images.blocketcdn.se/dynamic/default/item/25982347/964e136b-f78a-4530-b6f8-561702a6d622"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.33,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +81,13 @@
   "text_sha": "123f7b6390d1542b"
  },
  "location": "Stockholm",
- "lon": 18.00108,
+ "lon": 18.0,
  "make": "Ryds",
  "max_speed": 27,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 212,
   "fetched_ts": 1790508356865,
@@ -110,7 +118,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "440 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25982347",
  "width_cm": 205,
  "year": 2004

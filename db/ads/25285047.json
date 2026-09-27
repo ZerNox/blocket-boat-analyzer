@@ -1,0 +1,80 @@
+{
+ "ad_id": 25285047,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785524424000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Arrow 630 DC",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Arrow 630 DC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25285047/e77e40b0-766c-46c2-8070-06dee249e9c2",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25285047/e77e40b0-766c-46c2-8070-06dee249e9c2",
+  "https://images.blocketcdn.se/dynamic/default/item/25285047/e379539d-1ed2-4a4b-90de-7448ed97ab87",
+  "https://images.blocketcdn.se/dynamic/default/item/25285047/4882dce5-e582-45fb-b37e-d1f2c9376d2a",
+  "https://images.blocketcdn.se/dynamic/default/item/25285047/24c3399e-a20b-49b4-ab9a-7104ded3e0a8"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.81,
+ "length_ft": 20,
+ "location": "Harestad",
+ "lon": 11.83,
+ "make": "Argo",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 180,
+  "fetched_ts": 1790522961467,
+  "text_sha": "33fb949c58aff465"
+ },
+ "price": 8000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 8000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "20 fot",
+  "Modell": "Arrow 630 dc",
+  "Modellår": "1990",
+  "Motor inkluderad": "Nej",
+  "Märke": "Argo",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25285047",
+ "width_cm": 0,
+ "year": 1990
+}

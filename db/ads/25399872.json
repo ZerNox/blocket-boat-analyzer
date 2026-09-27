@@ -1,0 +1,114 @@
+{
+ "ad_id": 25399872,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786463634000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2020,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "80 båttrailer ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Terhi 400",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25399872/a07faca2-c766-4bbe-b39d-496b1e051dd0",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25399872/a07faca2-c766-4bbe-b39d-496b1e051dd0",
+  "https://images.blocketcdn.se/dynamic/default/item/25399872/456add72-7d19-4996-9fcd-d667fdffc4bb",
+  "https://images.blocketcdn.se/dynamic/default/item/25399872/e1aaf224-6181-496e-acd9-b1f1e5aadaab"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.31,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2020,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "eb0aef0ebd734c30"
+ },
+ "location": "Djurhamn",
+ "lon": 18.7,
+ "make": "Terhi",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 178,
+  "fetched_ts": 1790520691876,
+  "text_sha": "eb0aef0ebd734c30"
+ },
+ "price": 34500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 34500
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "13 fot",
+  "Modell": "4 meter",
+  "Modellår": "2020",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Tohatsu",
+  "Märke": "Terhi",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "150 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25399872",
+ "width_cm": 150,
+ "year": 2020
+}

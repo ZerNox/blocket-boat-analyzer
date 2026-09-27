@@ -1,0 +1,139 @@
+{
+ "ad_id": 25397842,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785855789000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2009,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2009,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Full dynsats, badstege, Gps garmin, bord.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds 568 GTI inkl trailer",
+    "included": true
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Steering console visible, no enclosed cabin or roof structure.",
+  "hull_source": "bild",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Ryds 568"
+ ],
+ "heading": "Ryds 568 GTI inkl trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25397842/8bb30ad5-342f-4092-8a71-51cc7bac20e8",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25397842/8bb30ad5-342f-4092-8a71-51cc7bac20e8",
+  "https://images.blocketcdn.se/dynamic/default/item/25397842/c72db3d6-4bc5-43e9-be01-79fb20ce5ed8",
+  "https://images.blocketcdn.se/dynamic/default/item/25397842/0cbad88e-fc6b-4a18-8041-917f67ed47f1"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 61.68,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2009,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e6c59425a6673bd9"
+ },
+ "location": "Hudiksvall",
+ "lon": 17.16,
+ "make": "Ryds",
+ "max_speed": 36,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 130,
+  "fetched_ts": 1790522981445,
+  "text_sha": "e6c59425a6673bd9"
+ },
+ "price": 138000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 138000
+  }
+ ],
+ "specs": {
+  "Bredd": "218 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "568 GTI Mercury 90hk optimax",
+  "Modellår": "2009",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "36 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "695 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25397842",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "cc43b97cfd656078",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "Steering console visible, no enclosed cabin or roof structure.",
+   "hull_photo": 2
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 218,
+ "year": 2009
+}

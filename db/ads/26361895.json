@@ -1,0 +1,126 @@
+{
+ "ad_id": 26361895,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788693612000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Marinering",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "19 båttrailer ingår",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "är. En klassisk och mysig kabinbåt som passar perfekt för dagsutflykter, bad och härliga dagar på sjön. De",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Lillskär / Holiday - 19 båttrailer ingår",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26361895/2bcf8e05-1a74-4391-b7f7-00d712ad6605",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26361895/2bcf8e05-1a74-4391-b7f7-00d712ad6605",
+  "https://images.blocketcdn.se/dynamic/default/item/26361895/901fbcb3-72cf-458d-9692-fabe88ad647b",
+  "https://images.blocketcdn.se/dynamic/default/item/26361895/8938f519-7961-47b8-952b-cb56c945a952",
+  "https://images.blocketcdn.se/dynamic/default/item/26361895/517ad0ea-426a-4c5d-ba6c-15aeaa697990",
+  "https://images.blocketcdn.se/dynamic/default/item/26361895/e585a52e-9e9f-4fc9-a499-035f0331818e",
+  "https://images.blocketcdn.se/dynamic/default/item/26361895/9cff3bde-31d7-41a4-9a92-ef701ef85df5",
+  "https://images.blocketcdn.se/dynamic/default/item/26361895/5bd0b7d4-53f3-45bc-bd1c-d70c1e388427",
+  "https://images.blocketcdn.se/dynamic/default/item/26361895/0623e5e1-36cc-4ce2-b8c2-4b1627161d4f",
+  "https://images.blocketcdn.se/dynamic/default/item/26361895/3fa4efc1-36c5-4b28-b28d-1939da3e87dc"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 61.73,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1970,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Marinering",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0cab199da7725e38"
+ },
+ "location": "Hudiksvall",
+ "lon": 17.12,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 280,
+  "fetched_ts": 1790523152483,
+  "text_sha": "0cab199da7725e38"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "Lillskär / Holiday 19",
+  "Modellår": "1970",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Marinering",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26361895",
+ "width_cm": 0,
+ "year": 1970
+}

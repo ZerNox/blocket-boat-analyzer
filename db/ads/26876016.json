@@ -7,6 +7,8 @@
   "boat_year": 1992,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bra fiskebåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26876016/822fe577-fec8-4cbc-9550-e2c6e859cf02",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.83885,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26876016/822fe577-fec8-4cbc-9550-e2c6e859cf02",
+  "https://images.blocketcdn.se/dynamic/default/item/26876016/12ebdc03-af97-4f50-af31-d9e3e8d4ea1e",
+  "https://images.blocketcdn.se/dynamic/default/item/26876016/7379b67c-0c33-46ce-9761-1cb0b814cf76",
+  "https://images.blocketcdn.se/dynamic/default/item/26876016/5e1ed3bc-3c10-42ab-8f2d-1bbc65de1b2f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.84,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "3915a2758d13a256"
  },
  "location": "Norrtälje",
- "lon": 18.81863,
+ "lon": 18.82,
  "make": "Väddö",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508994118,
@@ -91,7 +100,7 @@
   "Märke": "Väddö",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26876016",
  "width_cm": 0,
  "year": 1992

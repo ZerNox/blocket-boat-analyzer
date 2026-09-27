@@ -25,13 +25,14 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "Den perfekta fiskebåten",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25216903/6975263e-595b-4de8-a08e-b2da7f33541a",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.18164,
+ "lat": 56.18,
  "length_ft": 15,
  "location": "Ronneby",
- "lon": 15.32973,
+ "lon": 15.33,
  "make": "Honda",
  "max_speed": 15,
  "motor_fuel": "Bensin",
@@ -68,7 +69,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "200 kg"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/25216903",
  "width_cm": 175,
  "year": 1990

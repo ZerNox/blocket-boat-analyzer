@@ -1,0 +1,72 @@
+{
+ "ad_id": 25483893,
+ "boat_class": "Annat",
+ "changed_ts": 1786099992000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2017,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Sportroddbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25483893/31e3dbec-5ee7-453c-8d71-4e4059488441",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25483893/31e3dbec-5ee7-453c-8d71-4e4059488441",
+  "https://images.blocketcdn.se/dynamic/default/item/25483893/7e023b3b-4aef-443d-af2f-b300c9c7466a",
+  "https://images.blocketcdn.se/dynamic/default/item/25483893/c71c040c-e82f-4546-aa4d-049e79e669af"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.99,
+ "length_ft": 15,
+ "location": "Katrineholm",
+ "lon": 16.16,
+ "make": "Explorer",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 113,
+  "fetched_ts": 1790520714658,
+  "text_sha": "79cbe220b61a7f05"
+ },
+ "price": 28500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 28500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modellår": "2017",
+  "Motor inkluderad": "Nej",
+  "Märke": "Explorer",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25483893",
+ "width_cm": 0,
+ "year": 2017
+}

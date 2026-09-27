@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -40,8 +42,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 495",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25652124/bc86e019-cc95-4698-9c7a-5d6947da3add",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 67.85626,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25652124/bc86e019-cc95-4698-9c7a-5d6947da3add",
+  "https://images.blocketcdn.se/dynamic/default/item/25652124/522db0ce-611c-4b46-9fda-bff0173d3ea1",
+  "https://images.blocketcdn.se/dynamic/default/item/25652124/c1302686-3569-4b60-8623-883a4d48d03d",
+  "https://images.blocketcdn.se/dynamic/default/item/25652124/373ad85b-6a35-4ff3-b323-23adf6e8eeb6",
+  "https://images.blocketcdn.se/dynamic/default/item/25652124/b436f88f-b23f-4b03-9adb-c53268043581",
+  "https://images.blocketcdn.se/dynamic/default/item/25652124/1f8e749a-3073-4dac-a37d-8ab05e2779fe"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 67.86,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +81,13 @@
   "text_sha": "14edb9af92bb0a81"
  },
  "location": "Kiruna",
- "lon": 20.26125,
+ "lon": 20.26,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 194,
   "fetched_ts": 1790508073088,
@@ -101,7 +112,7 @@
   "Märke": "Uttern",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25652124",
  "width_cm": 0,
  "year": 1975

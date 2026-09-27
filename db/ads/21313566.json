@@ -1,0 +1,113 @@
+{
+ "ad_id": 21313566,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788274270000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1972,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 4.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": "odkänd för max 4 personer och 4 hk enligt märkningen. Två träåror medföljer. Båten har förvarats under tak men är i äldr",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1972,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Motor och trailer ingår ej.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "JOFA Siljan 1972",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21313566/e63092e6-1765-40ec-9a3e-45d3a743eda7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21313566/e63092e6-1765-40ec-9a3e-45d3a743eda7",
+  "https://images.blocketcdn.se/dynamic/default/item/21313566/368c4fc8-67bc-496f-89c4-49360f21ea31",
+  "https://images.blocketcdn.se/dynamic/default/item/21313566/0d9372be-a534-44d1-b946-2fe47b4ea64a",
+  "https://images.blocketcdn.se/dynamic/default/item/21313566/b2e554ef-c791-4c40-b8d7-949d0981821c",
+  "https://images.blocketcdn.se/dynamic/default/item/21313566/1c4eaf3e-7036-4518-ab13-46c4ce9f5859",
+  "https://images.blocketcdn.se/dynamic/default/item/21313566/3b78909f-ba9a-4baf-a407-cf2a3bb483df"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.6,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1972,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ab3e8dd593a6230f"
+ },
+ "location": "Vikbolandet",
+ "lon": 16.55,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 545,
+  "fetched_ts": 1790520586854,
+  "text_sha": "ab3e8dd593a6230f"
+ },
+ "price": 4500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4500
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "Siljan",
+  "Modellår": "1972",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/21313566",
+ "width_cm": 170,
+ "year": 1972
+}

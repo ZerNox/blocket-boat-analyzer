@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -40,8 +42,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Jula Viking 560",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26837304/7b2253c5-876a-4a11-a28b-354658e2d9ea",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.26083,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26837304/7b2253c5-876a-4a11-a28b-354658e2d9ea",
+  "https://images.blocketcdn.se/dynamic/default/item/26837304/f9a1ebef-f807-4383-8362-1231b868a78f",
+  "https://images.blocketcdn.se/dynamic/default/item/26837304/a8d6d9a6-2665-4d4f-af2c-1427092cf32b",
+  "https://images.blocketcdn.se/dynamic/default/item/26837304/bf40bf21-8ed1-431c-a920-5b41c0e16bc6",
+  "https://images.blocketcdn.se/dynamic/default/item/26837304/260e00fe-7674-426d-8f51-5c7a585b515c",
+  "https://images.blocketcdn.se/dynamic/default/item/26837304/3b14a0c3-cd7b-48d9-9402-1c162112d14c",
+  "https://images.blocketcdn.se/dynamic/default/item/26837304/1ab2f1ce-d6cd-42d9-bd40-2f5cc62723c1",
+  "https://images.blocketcdn.se/dynamic/default/item/26837304/f9b74ebd-2198-4c84-b942-fedefff9f536",
+  "https://images.blocketcdn.se/dynamic/default/item/26837304/c9b1fd09-e647-4247-b532-cb806bdafb26"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.26,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +84,13 @@
   "text_sha": "7ce71a36c0f98b46"
  },
  "location": "Bonässund",
- "lon": 18.80209,
+ "lon": 18.8,
  "make": "Jula",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 737,
   "fetched_ts": 1790508970383,
@@ -105,7 +119,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "375 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26837304",
  "width_cm": 210,
  "year": 1978

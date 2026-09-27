@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25982538/a7aa7b2a-9449-4a9f-b56f-6263464e98c2",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.69554,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25982538/a7aa7b2a-9449-4a9f-b56f-6263464e98c2",
+  "https://images.blocketcdn.se/dynamic/default/item/25982538/bb739cd2-4381-497b-baeb-5e2cf174a60c",
+  "https://images.blocketcdn.se/dynamic/default/item/25982538/c6e4d3f4-59cd-4ffa-ad6b-80d3436aa522",
+  "https://images.blocketcdn.se/dynamic/default/item/25982538/ca4b9af5-3af9-4056-9062-6cbe32f6f396",
+  "https://images.blocketcdn.se/dynamic/default/item/25982538/377b5ff1-6ab9-41d0-83bb-ae4b644a3068",
+  "https://images.blocketcdn.se/dynamic/default/item/25982538/9fa4e0d6-cbbb-41e5-8081-7754b4b828fc",
+  "https://images.blocketcdn.se/dynamic/default/item/25982538/b4c0629f-76b9-466b-95b6-9d0f08f0452b",
+  "https://images.blocketcdn.se/dynamic/default/item/25982538/cdb249c8-e750-49d5-b657-c3020d4e9cd1",
+  "https://images.blocketcdn.se/dynamic/default/item/25982538/30488def-fb95-4c87-ae0b-c7418e38d5ee"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.7,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +79,13 @@
   "text_sha": "f6f4f005e2eabe91"
  },
  "location": "Ankarsrum",
- "lon": 16.33215,
+ "lon": 16.33,
  "make": "Mazury",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 319,
   "fetched_ts": 1790508358374,
@@ -101,7 +115,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25982538",
  "width_cm": 200,
  "year": 2006

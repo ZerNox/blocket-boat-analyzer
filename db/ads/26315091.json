@@ -7,6 +7,8 @@
   "boat_year": 1979,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 35.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -43,8 +45,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 525 med Johnson 35 hk och båtvagn",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26315091/aeb920d4-a1f2-4629-bdcb-174ddfac955f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 64.68816,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26315091/aeb920d4-a1f2-4629-bdcb-174ddfac955f",
+  "https://images.blocketcdn.se/dynamic/default/item/26315091/01a74d54-1951-4cc0-a49e-13694120af96",
+  "https://images.blocketcdn.se/dynamic/default/item/26315091/4bb83937-74dc-4b2e-a500-c6a913f8f967",
+  "https://images.blocketcdn.se/dynamic/default/item/26315091/f103ac19-d19c-4ce8-bf56-37d0c806d5f8",
+  "https://images.blocketcdn.se/dynamic/default/item/26315091/57472f49-17b7-434d-835a-428ead7751d2",
+  "https://images.blocketcdn.se/dynamic/default/item/26315091/9b4cd24a-ff26-44ef-bce5-82685d9a628c",
+  "https://images.blocketcdn.se/dynamic/default/item/26315091/bfa5f096-6035-4d01-aae1-f0d0eaa7fcde"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 64.69,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +85,13 @@
   "text_sha": "df0fba3e2b3fda51"
  },
  "location": "Skellefteå",
- "lon": 21.08194,
+ "lon": 21.08,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 35.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 466,
   "fetched_ts": 1790508596055,
@@ -111,7 +123,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "540 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26315091",
  "width_cm": 210,
  "year": 1979

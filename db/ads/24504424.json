@@ -7,6 +7,8 @@
   "boat_year": 2011,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Cresent 434 med Yamaha 15",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24504424/426ee6fa-b527-4064-a551-419f9acaee08",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.01896,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24504424/426ee6fa-b527-4064-a551-419f9acaee08",
+  "https://images.blocketcdn.se/dynamic/default/item/24504424/300e8c23-2076-4606-bb51-7ea3ccf3cae9",
+  "https://images.blocketcdn.se/dynamic/default/item/24504424/bf38e5b9-6b68-4c5d-96b7-af338d421e87",
+  "https://images.blocketcdn.se/dynamic/default/item/24504424/a02bd1a5-612f-4dea-b286-0e6fd8cb062d",
+  "https://images.blocketcdn.se/dynamic/default/item/24504424/180ecba9-15c6-4bfd-8ed4-a0db6c10cbaa",
+  "https://images.blocketcdn.se/dynamic/default/item/24504424/a29b42cb-cc31-4d9a-9141-7fdd5b7189c2",
+  "https://images.blocketcdn.se/dynamic/default/item/24504424/322a913f-5e8c-46de-b3ec-5da627786f20",
+  "https://images.blocketcdn.se/dynamic/default/item/24504424/ee71bdd6-d90b-4587-8bed-6a0251736602",
+  "https://images.blocketcdn.se/dynamic/default/item/24504424/6a0c109b-2e3c-499e-84d4-89a45ff4baf3",
+  "https://images.blocketcdn.se/dynamic/default/item/24504424/410a1ff0-11f2-46fc-babe-296fe2352bd0",
+  "https://images.blocketcdn.se/dynamic/default/item/24504424/e96aa099-4fde-4ef4-80f6-f44892e7a01e",
+  "https://images.blocketcdn.se/dynamic/default/item/24504424/699b993d-d3b6-4739-8f91-e17eec89fce6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.02,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +76,13 @@
   "text_sha": "1ae7ea62f1f3219c"
  },
  "location": "Hölö",
- "lon": 17.56298,
+ "lon": 17.56,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790507600744,
@@ -94,7 +111,7 @@
   "Typ": "Annat",
   "Vikt": "210 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24504424",
  "width_cm": 1720,
  "year": 2011

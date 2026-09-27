@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -42,8 +44,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 540 m Styrpulpet",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26401047/90a3414c-7e6d-4390-9dfd-99df38f46cc2",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.83825,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26401047/90a3414c-7e6d-4390-9dfd-99df38f46cc2",
+  "https://images.blocketcdn.se/dynamic/default/item/26401047/4029b550-de7f-41cb-99ca-6d001cf6e8f7",
+  "https://images.blocketcdn.se/dynamic/default/item/26401047/f4b0563b-9f5c-4df4-90dd-63366bf3c8c8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.84,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +81,13 @@
   "text_sha": "70324e7da571ccc3"
  },
  "location": "Råneå",
- "lon": 22.37302,
+ "lon": 22.37,
  "make": "Örnvik",
  "max_speed": 18,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 226,
   "fetched_ts": 1790508659723,
@@ -109,7 +117,7 @@
   "Toppfart": "18 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26401047",
  "width_cm": 0,
  "year": 1980

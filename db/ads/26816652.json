@@ -1,0 +1,130 @@
+{
+ "ad_id": 26816652,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790150439000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 85,
+  "engine_hp_source": "llm",
+  "engine_maker": "Suzuki",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1979,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Båten är i ett rent och fräscht skick med ett kapell som är fint och nyligen nyimpregnerat.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Tillbehör: 30-kärra (obromsad båttrailer) ingår i köpet för smidig transport och förvaring.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 570"
+ ],
+ "heading": "Mycket fin och välskött Flipper 570",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26816652/8795255a-96ce-4fe3-8d78-837e3d367ed0",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26816652/8795255a-96ce-4fe3-8d78-837e3d367ed0",
+  "https://images.blocketcdn.se/dynamic/default/item/26816652/f3e69492-bbbd-4993-bac5-f7cdadee9b6c",
+  "https://images.blocketcdn.se/dynamic/default/item/26816652/7ae26b20-bae4-4795-b2f3-82c53b4c9ecb",
+  "https://images.blocketcdn.se/dynamic/default/item/26816652/5df06636-5d98-4197-ba1a-32d3cfdfd8f3"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.51,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1979,
+   "engine_hours": null,
+   "engine_hp": 85,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0a0440361e7e67ba"
+ },
+ "location": "Åkersberga",
+ "lon": 18.29,
+ "make": "Flipper",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 85.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 950,
+  "fetched_ts": 1790523223572,
+  "text_sha": "0a0440361e7e67ba"
+ },
+ "price": 34000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 34000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "570",
+  "Modellår": "1979",
+  "Motorstorlek": "85 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "520 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26816652",
+ "width_cm": 220,
+ "year": 1979
+}

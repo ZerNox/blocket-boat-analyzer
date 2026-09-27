@@ -7,6 +7,8 @@
   "boat_year": 2007,
   "boat_year_source": "spec",
   "engine_hours": 160,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -39,8 +41,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Yamarin 50 TC Yamaha 60 hk fyrtakt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24584790/d6b1b417-b739-44dd-a774-610786d98630",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.74304,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24584790/d6b1b417-b739-44dd-a774-610786d98630",
+  "https://images.blocketcdn.se/dynamic/default/item/24584790/be55986a-cc40-4959-be10-d5e8fe2aa726",
+  "https://images.blocketcdn.se/dynamic/default/item/24584790/98334b9a-0c48-43bd-acb6-1df7ca3f056c",
+  "https://images.blocketcdn.se/dynamic/default/item/24584790/618f1f14-2195-4291-bc24-1ff52c6a7ef2",
+  "https://images.blocketcdn.se/dynamic/default/item/24584790/3491d9ad-0b38-468c-a3d3-0528d5fd7629"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.74,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +79,13 @@
   "text_sha": "3a4672cd2673ec1d"
  },
  "location": "Torslanda",
- "lon": 11.83988,
+ "lon": 11.84,
  "make": "Yamarin",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 199,
   "fetched_ts": 1790507606308,
@@ -100,7 +110,7 @@
   "Märke": "Yamarin",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24584790",
  "width_cm": 0,
  "year": 2007

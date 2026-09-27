@@ -1,0 +1,153 @@
+{
+ "ad_id": 26569043,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1789320975000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1992,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1992,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "- Plotter, Garmin Echomap",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "- Hydraulisk styrning",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "- Kapell från 2022",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "- Plotter, Garmin Echomap",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Uttern 6300, inkl 30-kärra",
+    "included": true,
+    "kmh": 30
+   },
+   "vinterkapell": {
+    "evidence": "Till båten finns även en NOA A-frame vintertäckställning som kan köpas till för 3000 kr.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "som vi nu är ute efter en daycruiser istället. Vi har kommit fram till att vi inte längre övernattar på vå",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Uttern 6300, inkl 30-kärra",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26569043/a7683b60-c5f9-4a9c-9af8-f18864dd87fd",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26569043/a7683b60-c5f9-4a9c-9af8-f18864dd87fd",
+  "https://images.blocketcdn.se/dynamic/default/item/26569043/47e1a3b0-3ea8-40e4-bb93-e88794c4ec3b",
+  "https://images.blocketcdn.se/dynamic/default/item/26569043/0bd2657b-67bb-4a71-95e4-724d203918a0",
+  "https://images.blocketcdn.se/dynamic/default/item/26569043/d72a5c43-c433-4624-85f7-0670fa95f78e",
+  "https://images.blocketcdn.se/dynamic/default/item/26569043/8fcbdb86-9c8a-475e-b753-e7ee60e09d3c",
+  "https://images.blocketcdn.se/dynamic/default/item/26569043/0085d27c-ffb9-4ee4-b9fe-91697afeb850",
+  "https://images.blocketcdn.se/dynamic/default/item/26569043/cd815e0c-9027-4de1-a43b-90ab89ba7af2",
+  "https://images.blocketcdn.se/dynamic/default/item/26569043/1b722b48-9e84-40fb-a0d6-2dfd942b1b83",
+  "https://images.blocketcdn.se/dynamic/default/item/26569043/4cc60690-0c02-4343-a226-24098c72e6c4",
+  "https://images.blocketcdn.se/dynamic/default/item/26569043/187ca330-19d8-4a28-af0d-0b868b90147f",
+  "https://images.blocketcdn.se/dynamic/default/item/26569043/86e21d68-090d-4ede-a4bd-ac8b6b6634b1",
+  "https://images.blocketcdn.se/dynamic/default/item/26569043/e2adbcbe-9efe-4b0d-9f73-2a4100acb037"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.02,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1992,
+   "engine_hours": null,
+   "engine_hp": 100,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "- Årsmodell 2005",
+   "engine_year_rejected": 2005,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e15cf34901ef6ff6"
+ },
+ "location": "Hölö",
+ "lon": 17.54,
+ "make": "Uttern",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1234,
+  "fetched_ts": 1790523187740,
+  "text_sha": "e15cf34901ef6ff6"
+ },
+ "price": 99000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 99000
+  }
+ ],
+ "specs": {
+  "Bredd": "265 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "65 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "21 fot",
+  "Modell": "6300",
+  "Modellår": "1992",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "8",
+  "Sovplatser": "4",
+  "Toppfart": "28 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "1 200 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26569043",
+ "width_cm": 265,
+ "year": 1992
+}

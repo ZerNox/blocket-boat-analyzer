@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Jofa winth 435",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25972421/9da4077c-9ed4-4347-a4ec-aca8b768463c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.57354,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25972421/9da4077c-9ed4-4347-a4ec-aca8b768463c",
+  "https://images.blocketcdn.se/dynamic/default/item/25972421/b3bbf09b-750d-4bf9-9fa5-92fcd92f5c3c",
+  "https://images.blocketcdn.se/dynamic/default/item/25972421/ec7473de-dc2d-4c93-8155-da13a9e7d029",
+  "https://images.blocketcdn.se/dynamic/default/item/25972421/0c43184f-3052-481c-9e49-beb0367f25b2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.57,
  "length_ft": 435,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +78,13 @@
   "text_sha": "8f2030b8cfca3530"
  },
  "location": "Falun",
- "lon": 15.66625,
+ "lon": 15.67,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 602,
   "fetched_ts": 1790508339827,
@@ -103,7 +112,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25972421",
  "width_cm": 0,
  "year": 1975

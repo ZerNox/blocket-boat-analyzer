@@ -7,6 +7,8 @@
   "boat_year": 1982,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds Hajen HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25204627/2961c905-f63b-4ec5-a06a-b1d80d577a3c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.88096,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25204627/2961c905-f63b-4ec5-a06a-b1d80d577a3c",
+  "https://images.blocketcdn.se/dynamic/default/item/25204627/5a908ac7-2fd3-4577-9539-e19da54469aa",
+  "https://images.blocketcdn.se/dynamic/default/item/25204627/e22900e1-c2fc-489e-9419-141f0c11abf8",
+  "https://images.blocketcdn.se/dynamic/default/item/25204627/b24b7a5b-d219-41d8-a898-570dee8b0f57",
+  "https://images.blocketcdn.se/dynamic/default/item/25204627/87c1688e-fde0-4127-adb1-66e61d82dc02",
+  "https://images.blocketcdn.se/dynamic/default/item/25204627/2c55eebb-1075-431d-a1a7-7b20d62340aa"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.88,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +75,13 @@
   "text_sha": "af9101051b883fbf"
  },
  "location": "Hamrångefjärden",
- "lon": 17.03538,
+ "lon": 17.04,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 223,
   "fetched_ts": 1790507646724,
@@ -97,7 +108,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25204627",
  "width_cm": 0,
  "year": 1982

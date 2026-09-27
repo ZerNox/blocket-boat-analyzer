@@ -7,6 +7,8 @@
   "boat_year": 2011,
   "boat_year_source": "spec",
   "engine_hours": 226,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -32,8 +34,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HÖSTPRIS: 150 000kr  Finnmaster 52 SC - 2011-Yamaha 70 F70-Båtsläp ingår",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26577442/eb96b09a-74cc-4319-bfef-360c42318edb",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.04946,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26577442/eb96b09a-74cc-4319-bfef-360c42318edb",
+  "https://images.blocketcdn.se/dynamic/default/item/26577442/f7040211-e8f1-40b4-bae3-791e4684d03f",
+  "https://images.blocketcdn.se/dynamic/default/item/26577442/09eb9f94-306e-4b4a-ac49-93d55b129268",
+  "https://images.blocketcdn.se/dynamic/default/item/26577442/12396481-6cc1-4db4-bf2c-4a963ac2a372",
+  "https://images.blocketcdn.se/dynamic/default/item/26577442/c32f4e82-0104-49cb-a1ca-a20c87d9766f",
+  "https://images.blocketcdn.se/dynamic/default/item/26577442/06276c02-c7c6-435a-bb9b-27a614a15905",
+  "https://images.blocketcdn.se/dynamic/default/item/26577442/16ec82a8-7437-442d-9a6c-88854d1ed583",
+  "https://images.blocketcdn.se/dynamic/default/item/26577442/beacbb6a-fed8-4635-9432-43d3c301123b",
+  "https://images.blocketcdn.se/dynamic/default/item/26577442/6100a50e-4f6d-401f-8cd5-d2021039e100",
+  "https://images.blocketcdn.se/dynamic/default/item/26577442/6c2fc2b8-2f2c-4e09-bb6c-2de56bb3f94f",
+  "https://images.blocketcdn.se/dynamic/default/item/26577442/2687dc36-2c27-4f93-8902-244a66200a66"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.05,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -63,12 +78,13 @@
   "text_sha": "97c664a262bda351"
  },
  "location": "Sölvesborg",
- "lon": 14.57261,
+ "lon": 14.57,
  "make": "Finnmaster",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 610,
   "fetched_ts": 1790508807412,
@@ -101,7 +117,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "580 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26577442",
  "width_cm": 200,
  "year": 2011

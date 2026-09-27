@@ -7,6 +7,8 @@
   "boat_year": 1996,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -40,8 +42,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden 485 Intuder",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23714353/42f0befa-cebc-4356-bf68-b68f0c51451c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.91264,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23714353/42f0befa-cebc-4356-bf68-b68f0c51451c",
+  "https://images.blocketcdn.se/dynamic/default/item/23714353/9a8a135c-6445-45b6-a0c1-e755f373eb0e",
+  "https://images.blocketcdn.se/dynamic/default/item/23714353/1a68f47f-b53d-4b36-8a94-e8617b76e860",
+  "https://images.blocketcdn.se/dynamic/default/item/23714353/6ea03d92-844b-41fa-ab4b-ab318555825c",
+  "https://images.blocketcdn.se/dynamic/default/item/23714353/81bd92f6-45ed-49a7-8b57-0f22319c76f6",
+  "https://images.blocketcdn.se/dynamic/default/item/23714353/ee07c2eb-03a8-469f-a4a9-8ed8dbbb17b1"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.91,
  "length_ft": 7,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +81,13 @@
   "text_sha": "17a31b5bdd1b952d"
  },
  "location": "Alingsås",
- "lon": 12.55632,
+ "lon": 12.56,
  "make": "Askeladden",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 258,
   "fetched_ts": 1790507529804,
@@ -105,7 +116,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "450 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23714353",
  "width_cm": 2008,
  "year": 1996

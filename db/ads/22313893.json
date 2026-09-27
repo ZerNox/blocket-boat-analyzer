@@ -7,6 +7,8 @@
   "boat_year": 2015,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Pioner 15 med Yamaha F20BEPL – Stabil och mångsidig båt i toppskick",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22313893/4346ea2b-0605-40a0-93ee-ec683e3b0c57",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.40687,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22313893/4346ea2b-0605-40a0-93ee-ec683e3b0c57",
+  "https://images.blocketcdn.se/dynamic/default/item/22313893/29deb75e-324e-492a-9bcb-9eccdafb2d4c",
+  "https://images.blocketcdn.se/dynamic/default/item/22313893/1c33bc8e-ea48-4e89-a2cb-24081476db47",
+  "https://images.blocketcdn.se/dynamic/default/item/22313893/8cfed41c-9c71-4736-bf8b-0298318187c9",
+  "https://images.blocketcdn.se/dynamic/default/item/22313893/6a5dfcb1-7d38-4516-925f-eafa64c1c289",
+  "https://images.blocketcdn.se/dynamic/default/item/22313893/5f7946c6-af14-4b51-9273-da617cf2456a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.41,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -61,12 +71,13 @@
   "text_sha": "db5cad5f715633ff"
  },
  "location": "Onsala",
- "lon": 11.92654,
+ "lon": 11.93,
  "make": "Pioner",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 920,
   "fetched_ts": 1790507445674,
@@ -95,7 +106,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "220 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/22313893",
  "width_cm": 180,
  "year": 2015

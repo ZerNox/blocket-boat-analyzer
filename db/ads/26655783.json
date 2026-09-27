@@ -7,6 +7,8 @@
   "boat_year": 1987,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda 4takt",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Grisslan",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26655783/5407c0ca-eb8e-408d-8688-3f2b8bf4b30f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.48802,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26655783/5407c0ca-eb8e-408d-8688-3f2b8bf4b30f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.49,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +71,13 @@
   "text_sha": "9b9abdf4c4c19306"
  },
  "location": "Borlänge",
- "lon": 15.47246,
+ "lon": 15.47,
  "make": "Grisslan",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 203,
   "fetched_ts": 1790508846193,
@@ -95,7 +101,7 @@
   "Märke": "Grisslan",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26655783",
  "width_cm": 0,
  "year": 1987

@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20,
+  "engine_hp_source": "llm",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster XS 430",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26234896/c3cd06f9-4c6c-4073-aea8-0bc2f031b19c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.17979,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26234896/c3cd06f9-4c6c-4073-aea8-0bc2f031b19c",
+  "https://images.blocketcdn.se/dynamic/default/item/26234896/18d3946e-c2ea-4fbd-8915-ee89590671b6",
+  "https://images.blocketcdn.se/dynamic/default/item/26234896/32bedfd0-ca22-4fa7-9524-f1ceaa2d4531",
+  "https://images.blocketcdn.se/dynamic/default/item/26234896/dae2a491-4e76-469e-aebe-3d5987f20c02",
+  "https://images.blocketcdn.se/dynamic/default/item/26234896/d2890038-3dfd-487e-a1d1-83255bbc1eb4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.18,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "c3914dc6582e3567"
  },
  "location": "Östersund",
- "lon": 14.63009,
+ "lon": 14.63,
  "make": "Buster",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 173,
   "fetched_ts": 1790508538154,
@@ -96,7 +106,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26234896",
  "width_cm": 0,
  "year": 1985

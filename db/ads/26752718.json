@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -35,8 +37,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 600 med 70 hk Yamaha + trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26752718/ac7d3f7f-602e-489f-8500-a7a1f55ac1db",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.68742,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26752718/ac7d3f7f-602e-489f-8500-a7a1f55ac1db",
+  "https://images.blocketcdn.se/dynamic/default/item/26752718/e15ca90c-a3bf-45dc-a0ad-b1304fa5b96e",
+  "https://images.blocketcdn.se/dynamic/default/item/26752718/9a4dd595-1b53-4df7-8e92-356844bdb8c2",
+  "https://images.blocketcdn.se/dynamic/default/item/26752718/6fad39ba-c9a1-447b-985f-0dcbf4127e4e",
+  "https://images.blocketcdn.se/dynamic/default/item/26752718/d4a3f28c-aaed-477c-966c-cc46992c1597",
+  "https://images.blocketcdn.se/dynamic/default/item/26752718/946892e9-917c-4783-a9ca-9a41a811ce94",
+  "https://images.blocketcdn.se/dynamic/default/item/26752718/977b350f-e656-4208-9258-aaa173f97280",
+  "https://images.blocketcdn.se/dynamic/default/item/26752718/341724a8-8793-4dbd-900e-04413685aedd",
+  "https://images.blocketcdn.se/dynamic/default/item/26752718/e728d304-f805-4e66-99bd-06b5a52b1f99",
+  "https://images.blocketcdn.se/dynamic/default/item/26752718/1836c2ee-bef1-4eb4-b047-27d6ac7fe214",
+  "https://images.blocketcdn.se/dynamic/default/item/26752718/4b09d221-c75d-41d5-8b41-74a5bfd2ff0f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.69,
  "length_ft": 20,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +82,13 @@
   "text_sha": "60038ff16e3d1d6c"
  },
  "location": "Kalmar",
- "lon": 16.39201,
+ "lon": 16.39,
  "make": "Uttern",
  "max_speed": 22,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 2223,
   "fetched_ts": 1790508919426,
@@ -105,7 +121,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "700 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26752718",
  "width_cm": 235,
  "year": 1990

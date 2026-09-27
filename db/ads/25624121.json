@@ -7,6 +7,8 @@
   "boat_year": 2022,
   "boat_year_source": "spec",
   "engine_hours": 9,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -43,8 +45,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 490S-Line – 2022 Nyskick! Endast 42,9 motortimmar",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25624121/cb819f95-d450-4ee2-8bcc-a7d93b6a7593",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.39583,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25624121/cb819f95-d450-4ee2-8bcc-a7d93b6a7593",
+  "https://images.blocketcdn.se/dynamic/default/item/25624121/fda89024-7640-46eb-9e66-5636ba097f0b",
+  "https://images.blocketcdn.se/dynamic/default/item/25624121/04a83800-55f2-46b5-b6f1-90980c97955f",
+  "https://images.blocketcdn.se/dynamic/default/item/25624121/d4870141-b4f6-40ac-916b-6f1713291fc9",
+  "https://images.blocketcdn.se/dynamic/default/item/25624121/8fec80eb-e1f3-4465-bac2-1bf985a5a85d",
+  "https://images.blocketcdn.se/dynamic/default/item/25624121/b6aeab90-b0b6-47c3-a10c-8d9765b7b140",
+  "https://images.blocketcdn.se/dynamic/default/item/25624121/26c688d1-801f-475f-bdd1-84af37ae98ad",
+  "https://images.blocketcdn.se/dynamic/default/item/25624121/f74b885d-8b5f-410e-b384-6a332a22c5da"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.4,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +86,13 @@
   "text_sha": "0da5879d24fffad4"
  },
  "location": "Onsala",
- "lon": 11.99376,
+ "lon": 11.99,
  "make": "Ryds",
  "max_speed": 33,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 553,
   "fetched_ts": 1790508056204,
@@ -109,7 +122,7 @@
   "Toppfart": "33 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25624121",
  "width_cm": 192,
  "year": 2022

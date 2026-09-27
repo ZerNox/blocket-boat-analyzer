@@ -7,6 +7,8 @@
   "boat_year": 2020,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20,
+  "engine_hp_source": "llm",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Person Båt 460",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25862603/b4abbbcf-f8f9-42b6-9366-4e963c3e26ca",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.42551,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25862603/b4abbbcf-f8f9-42b6-9366-4e963c3e26ca",
+  "https://images.blocketcdn.se/dynamic/default/item/25862603/e6437e33-a5a4-4379-9a85-37bb2d975aac",
+  "https://images.blocketcdn.se/dynamic/default/item/25862603/22e14f2f-8ad6-4d34-ad07-5742a34b5a1a",
+  "https://images.blocketcdn.se/dynamic/default/item/25862603/114e7ade-55e5-4986-9b4c-b7f4a91716f5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.43,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "b8a89b958cbf89e2"
  },
  "location": "Täby",
- "lon": 18.07196,
+ "lon": 18.07,
  "make": "Pettersson",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508258450,
@@ -95,7 +104,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "120 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25862603",
  "width_cm": 170,
  "year": 2020

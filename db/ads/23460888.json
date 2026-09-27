@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Hidea 40hk EFI",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet Örnvik 500R med motor - ny. Klar för leverans.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23460888/394d74fe-7aa6-4e37-afdb-d3080c9a1c80",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.72165,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23460888/394d74fe-7aa6-4e37-afdb-d3080c9a1c80",
+  "https://images.blocketcdn.se/dynamic/default/item/23460888/613a6f69-38e7-4650-a482-c332f160b66f",
+  "https://images.blocketcdn.se/dynamic/default/item/23460888/546d9e87-d17d-4933-9a6a-2e771ccc49bb",
+  "https://images.blocketcdn.se/dynamic/default/item/23460888/b2adc139-1648-464a-9d7f-2130a19a0dc4",
+  "https://images.blocketcdn.se/dynamic/default/item/23460888/607bebe0-cd40-4c5b-a161-b3904ca57887",
+  "https://images.blocketcdn.se/dynamic/default/item/23460888/d9e98843-3b75-4f54-9938-64a4eeb87d6c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.72,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "ddae3f3b5fe4d9d5"
  },
  "location": "Göteborg",
- "lon": 11.97118,
+ "lon": 11.97,
  "make": "Örnvik",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1118,
   "fetched_ts": 1790507507417,
@@ -98,7 +109,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "325 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23460888",
  "width_cm": 180,
  "year": 2025

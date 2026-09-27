@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Selva",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26142618/05821fe3-7684-4a42-8cff-560eaac10b80",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.1238,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26142618/05821fe3-7684-4a42-8cff-560eaac10b80",
+  "https://images.blocketcdn.se/dynamic/default/item/26142618/a3981225-4998-45da-a272-f1bff1cf859f",
+  "https://images.blocketcdn.se/dynamic/default/item/26142618/55b03fb9-a4f5-4ab6-8364-6cfff04c4bca"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.12,
  "length_ft": null,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "d3f4025ac31955ca"
  },
  "location": "Säffle",
- "lon": 12.91292,
+ "lon": 12.91,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508484809,
@@ -88,7 +96,7 @@
   "Märke": "Övriga",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26142618",
  "width_cm": 0,
  "year": 2000

@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yanmar",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fiskekutter",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25597214/cfb3f72d-8723-4fa7-9227-63d40edb72ff",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.32912,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25597214/cfb3f72d-8723-4fa7-9227-63d40edb72ff",
+  "https://images.blocketcdn.se/dynamic/default/item/25597214/3515a9b4-8852-421c-b920-aa4a86e92bd3",
+  "https://images.blocketcdn.se/dynamic/default/item/25597214/b77c8f78-e65e-496b-9fbf-7ff70345a425",
+  "https://images.blocketcdn.se/dynamic/default/item/25597214/036e50d4-76e3-4b3e-b1ae-847e3b509ab0",
+  "https://images.blocketcdn.se/dynamic/default/item/25597214/1719d4eb-0b8d-47a0-a877-6bcda1fcf730"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.33,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "7b53dd4050b290a0"
  },
  "location": "Ljugarn",
- "lon": 18.77036,
+ "lon": 18.77,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Diesel",
  "motor_size": 15.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 221,
   "fetched_ts": 1790508039011,
@@ -100,7 +110,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "1 350 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25597214",
  "width_cm": 260,
  "year": 1980

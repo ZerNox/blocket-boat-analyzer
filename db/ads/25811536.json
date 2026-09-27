@@ -1,0 +1,111 @@
+{
+ "ad_id": 25811536,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787037446000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "MERCURY",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorns tillverkningsår: 2005",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Båtkapell 4 år gammal i perfekt skick.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "En 30km trailer medföljer.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 5500 DC EXCLUSIVE. TOPPEN SKICK !!!",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Uttern 5500"
+ ],
+ "heading": "Uttern 5500 DC EXCLUSIVE. TOPPEN SKICK !!!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25811536/9d2e9e3e-6d3c-4f72-9c0f-ac493f3d12c6",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25811536/9d2e9e3e-6d3c-4f72-9c0f-ac493f3d12c6",
+  "https://images.blocketcdn.se/dynamic/default/item/25811536/8ea7c292-9c58-4d10-95c0-f9006b8056aa",
+  "https://images.blocketcdn.se/dynamic/default/item/25811536/2d29ba3a-98ab-48d1-9f2d-d1899a6d36d5",
+  "https://images.blocketcdn.se/dynamic/default/item/25811536/0f8e3162-d75e-47c8-a15e-c62da36a9e65",
+  "https://images.blocketcdn.se/dynamic/default/item/25811536/ca6ec3c7-4c6a-4e96-92be-86e84c7525b3",
+  "https://images.blocketcdn.se/dynamic/default/item/25811536/4a1b15eb-706f-499e-9847-5291e79f68b3",
+  "https://images.blocketcdn.se/dynamic/default/item/25811536/7f795568-95aa-476c-8f20-711e5a19577c",
+  "https://images.blocketcdn.se/dynamic/default/item/25811536/de07038e-03c5-4e57-867f-49e49178d5a8",
+  "https://images.blocketcdn.se/dynamic/default/item/25811536/eab25b94-2a83-4de7-bb4a-504d0451284f",
+  "https://images.blocketcdn.se/dynamic/default/item/25811536/dbef3364-5687-4deb-b9e4-7472d5b3296e",
+  "https://images.blocketcdn.se/dynamic/default/item/25811536/29efd518-f63f-437f-951e-5f70139e0b39",
+  "https://images.blocketcdn.se/dynamic/default/item/25811536/b5ad3bff-c7ce-4aa0-b5a3-7f094e7fb368",
+  "https://images.blocketcdn.se/dynamic/default/item/25811536/06763dc6-af49-4a9f-b3d1-92cd48dd7f77"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.45,
+ "length_ft": 18,
+ "location": "Täby",
+ "lon": 18.1,
+ "make": "Uttern",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 686,
+  "fetched_ts": 1790523069397,
+  "text_sha": "b1cdb010cfa5460f"
+ },
+ "price": 110000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 110000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "5500 DC EXCLUSIVE",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "MERCURY",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "3",
+  "Toppfart": "27 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "600 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25811536",
+ "width_cm": 220,
+ "year": 2000
+}

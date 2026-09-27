@@ -1,0 +1,107 @@
+{
+ "ad_id": 23476812,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789797846000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Gummibåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23476812/6f0309a6-a6d4-4a2f-adff-493140cdf1cd",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23476812/6f0309a6-a6d4-4a2f-adff-493140cdf1cd",
+  "https://images.blocketcdn.se/dynamic/default/item/23476812/b111babb-fa17-44a1-ae55-4245e056954c",
+  "https://images.blocketcdn.se/dynamic/default/item/23476812/9c61970c-5a49-4647-b414-7a3824eef365",
+  "https://images.blocketcdn.se/dynamic/default/item/23476812/17595038-0a70-406f-a452-1fde27c60acc",
+  "https://images.blocketcdn.se/dynamic/default/item/23476812/1825e018-99bb-43d1-ac42-a5280d517a49",
+  "https://images.blocketcdn.se/dynamic/default/item/23476812/9422e1ea-0788-4587-b164-59d738d19c56",
+  "https://images.blocketcdn.se/dynamic/default/item/23476812/efa5ba7e-2248-4a70-b928-f8b1887eeb8e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.31,
+ "length_ft": 8,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "22c6f2149fd8fcab"
+ },
+ "location": "Nacka",
+ "lon": 18.21,
+ "make": "Seabird",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 83,
+  "fetched_ts": 1790520606437,
+  "text_sha": "22c6f2149fd8fcab"
+ },
+ "price": 1000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 1000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Grå",
+  "Längd i fot": "8 fot",
+  "Modell": "B9270",
+  "Modellår": "2000",
+  "Märke": "Seabird",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23476812",
+ "width_cm": 0,
+ "year": 2000
+}

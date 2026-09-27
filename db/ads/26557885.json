@@ -1,0 +1,96 @@
+{
+ "ad_id": 26557885,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789302990000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Medföljer en Yamha m20 e-drive elektrisk utombordare, åror, trailer(oreggad), ett batterie, ankare samt öskar.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Örnvik 360 plastbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26557885/568b749a-ee2f-4cc8-aa4c-453c28c87ec3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26557885/568b749a-ee2f-4cc8-aa4c-453c28c87ec3",
+  "https://images.blocketcdn.se/dynamic/default/item/26557885/a308c58e-459b-4a77-93ac-ed9835734010",
+  "https://images.blocketcdn.se/dynamic/default/item/26557885/548ede00-23cb-4189-ae9f-779aa3634793",
+  "https://images.blocketcdn.se/dynamic/default/item/26557885/3b4024f2-84ce-468f-bba1-b2b7302e3d5c",
+  "https://images.blocketcdn.se/dynamic/default/item/26557885/5130fbae-b625-470a-91ea-72bab23cb678",
+  "https://images.blocketcdn.se/dynamic/default/item/26557885/553c9a8f-1958-4966-82fc-748b22685c2d",
+  "https://images.blocketcdn.se/dynamic/default/item/26557885/bbde8ae8-7d6b-46d6-94b9-1a831fdb66df",
+  "https://images.blocketcdn.se/dynamic/default/item/26557885/bc1a45db-9cc5-4b70-baf7-cc800ada4786",
+  "https://images.blocketcdn.se/dynamic/default/item/26557885/5898711a-492b-4468-9bcb-27f6733d8381",
+  "https://images.blocketcdn.se/dynamic/default/item/26557885/61efe4db-4b22-4836-b7b5-27356e154d1b",
+  "https://images.blocketcdn.se/dynamic/default/item/26557885/f220c8f4-2208-4f26-b0e2-d03ba65c4f2c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.06,
+ "length_ft": 12,
+ "location": "Katrineholm",
+ "lon": 16.06,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Elektrisk",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 163,
+  "fetched_ts": 1790521001324,
+  "text_sha": "b6a8c12ad2a56473"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "151 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Elektrisk",
+  "Färg": "Orange",
+  "Längd i fot": "12 fot",
+  "Modell": "360",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "90 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26557885",
+ "width_cm": 151,
+ "year": 1975
+}

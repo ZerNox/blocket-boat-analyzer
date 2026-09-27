@@ -1,0 +1,137 @@
+{
+ "ad_id": 22956574,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1788641243000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo penta 3,0",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "Volvo Penta slutade med utombordare kring 1990",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt hamnkapell.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ny Garmin GPS med plotter.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Finns 30 trailer fr 2023 men ingår inte i priset.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Crescent 650 DC -2011. Volvo Penta 3,0 L, Fin och påkostad daycruiser",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Crescent 650 DC -2011. Volvo Penta 3,0 L, Fin och påkostad daycruiser",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22956574/25eef440-f66f-4dbf-bbad-2cdbeb870a88",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22956574/25eef440-f66f-4dbf-bbad-2cdbeb870a88",
+  "https://images.blocketcdn.se/dynamic/default/item/22956574/1227d90d-d6f8-4176-b1f0-95584d9395d2",
+  "https://images.blocketcdn.se/dynamic/default/item/22956574/3b864e75-9b8e-4ef5-b1ad-8990349a1c4d",
+  "https://images.blocketcdn.se/dynamic/default/item/22956574/5d8fde50-dcac-47ee-b2df-b102ac565a12",
+  "https://images.blocketcdn.se/dynamic/default/item/22956574/8df49ce5-20f9-4bef-9afa-2837b6f6dfe9",
+  "https://images.blocketcdn.se/dynamic/default/item/22956574/040125cf-41c8-4e49-8191-3692a7eeb90e",
+  "https://images.blocketcdn.se/dynamic/default/item/22956574/08387a1b-4edd-43c0-b9ea-73ecac904486",
+  "https://images.blocketcdn.se/dynamic/default/item/22956574/275476d6-5143-4b41-b6bc-05a4c2f30507",
+  "https://images.blocketcdn.se/dynamic/default/item/22956574/d1aadb81-68c7-4bce-973a-b4f6a3442e7b",
+  "https://images.blocketcdn.se/dynamic/default/item/22956574/76bd4825-2e07-4839-be9f-e8095e5b3634",
+  "https://images.blocketcdn.se/dynamic/default/item/22956574/1d38c738-0e1b-40ac-adc0-477b44bd1ee6",
+  "https://images.blocketcdn.se/dynamic/default/item/22956574/7adddbf7-b3db-4b59-a09a-1bd58599f8e6",
+  "https://images.blocketcdn.se/dynamic/default/item/22956574/3628c4b5-700a-4636-8b8d-6a0b48e705eb"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.87,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2011,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "cd433f498afc701c"
+ },
+ "location": "Nynäshamn",
+ "lon": 17.92,
+ "make": "Crescent",
+ "max_speed": 33,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 1213,
+  "fetched_ts": 1790522882643,
+  "text_sha": "cd433f498afc701c"
+ },
+ "price": 249000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 249000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "Crescent 650 DC",
+  "Modellår": "2011",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo penta 3,0",
+  "Motortyp": "Inombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "33 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22956574",
+ "width_cm": 0,
+ "year": 2011
+}

@@ -7,6 +7,8 @@
   "boat_year": 2015,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -43,8 +45,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder sportsman 445 Max 2015 - 30hk mercury EFI- 9” Garmin - fiskeutrustad",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25777729/5fec1cb6-3bb4-4988-b7ff-11911e9653c3",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.19279,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25777729/5fec1cb6-3bb4-4988-b7ff-11911e9653c3",
+  "https://images.blocketcdn.se/dynamic/default/item/25777729/445bc8c2-52a3-4974-90e6-c2e37660ce70",
+  "https://images.blocketcdn.se/dynamic/default/item/25777729/90717823-420a-4c31-a7f7-65622fbd1a48",
+  "https://images.blocketcdn.se/dynamic/default/item/25777729/215a29d3-ef29-49ba-bec6-7ad7d0db0eba",
+  "https://images.blocketcdn.se/dynamic/default/item/25777729/d16e882d-450b-4299-9990-9d9f23b8df49",
+  "https://images.blocketcdn.se/dynamic/default/item/25777729/151dc300-ba5c-48d9-9605-7b8c1cfdaae7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.19,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +84,13 @@
   "text_sha": "64d5f5711dd011fc"
  },
  "location": "Knislinge",
- "lon": 14.09093,
+ "lon": 14.09,
  "make": "Linder",
  "max_speed": 24,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 351,
   "fetched_ts": 1790508186161,
@@ -108,7 +119,7 @@
   "Toppfart": "24 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25777729",
  "width_cm": 175,
  "year": 2015

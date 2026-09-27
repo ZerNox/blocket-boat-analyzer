@@ -1,0 +1,106 @@
+{
+ "ad_id": 26767337,
+ "boat_class": "Annat",
+ "changed_ts": 1789981341000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": 800,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo Penta TAMD 31 A",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Nya gardiner i hela båten plus en stor gardin bak på kapellet",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Landström med jordfelsbrytare",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "GPS Raymarine aximon 9",
+    "included": true
+   },
+   "vhf": {
+    "evidence": "VHF Icom",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Nimbus 2600 -89",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26767337/b09906c5-c8f2-4da8-a9f0-b94d0fcc3b52",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26767337/b09906c5-c8f2-4da8-a9f0-b94d0fcc3b52",
+  "https://images.blocketcdn.se/dynamic/default/item/26767337/e4f3a9e6-6c36-45d6-8566-3ef187acffb3",
+  "https://images.blocketcdn.se/dynamic/default/item/26767337/320063f0-dc59-4fea-b3a1-5238b5af00cc",
+  "https://images.blocketcdn.se/dynamic/default/item/26767337/bb77a138-e0da-45b2-bb02-3e4c059cc6a9",
+  "https://images.blocketcdn.se/dynamic/default/item/26767337/f99642c8-c0d4-4674-a859-574b0618914a",
+  "https://images.blocketcdn.se/dynamic/default/item/26767337/00e79411-1f55-491f-be6e-faec7a48a368",
+  "https://images.blocketcdn.se/dynamic/default/item/26767337/19cc6b94-4e16-46fd-941f-c0495df0981e",
+  "https://images.blocketcdn.se/dynamic/default/item/26767337/9bdebee3-31f3-4bea-814e-eb49014562ec",
+  "https://images.blocketcdn.se/dynamic/default/item/26767337/470b3aa7-0539-4a72-964b-0bb80174e915"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.12,
+ "length_ft": 26,
+ "location": "Hasslö",
+ "lon": 15.48,
+ "make": "Nimbus",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 595,
+  "fetched_ts": 1790521053479,
+  "text_sha": "af5b0a332f617482"
+ },
+ "price": 295000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 295000
+  }
+ ],
+ "specs": {
+  "Bredd": "285 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "80 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit",
+  "Längd i fot": "26 fot",
+  "Modell": "2600",
+  "Modellår": "1989",
+  "Motortillverkare": "Volvo Penta TAMD 31 A",
+  "Motortyp": "Inombordare",
+  "Märke": "Nimbus",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "5",
+  "Typ": "Annat",
+  "Vikt": "2 600 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26767337",
+ "width_cm": 285,
+ "year": 1989
+}

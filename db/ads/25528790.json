@@ -1,0 +1,119 @@
+{
+ "ad_id": 25528790,
+ "boat_class": "Annat",
+ "changed_ts": 1786209984000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Bmw",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Unik båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25528790/fce41034-b9ef-42ee-b537-eedda9c3ad63",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25528790/fce41034-b9ef-42ee-b537-eedda9c3ad63",
+  "https://images.blocketcdn.se/dynamic/default/item/25528790/cfb53974-dcdd-4169-a400-dc3e951e1155",
+  "https://images.blocketcdn.se/dynamic/default/item/25528790/12d20b12-ab1c-4bd6-a1c7-4b11364b8f0a",
+  "https://images.blocketcdn.se/dynamic/default/item/25528790/c41b17bd-81a2-49fd-8d2a-d275e6b5f18a",
+  "https://images.blocketcdn.se/dynamic/default/item/25528790/f04719bb-85f1-4ae5-8742-2be3b8d6c201",
+  "https://images.blocketcdn.se/dynamic/default/item/25528790/7b025b15-bf5c-4918-a165-bf75958101d9",
+  "https://images.blocketcdn.se/dynamic/default/item/25528790/61167433-ea07-4ba5-bee8-ba273762cf4b",
+  "https://images.blocketcdn.se/dynamic/default/item/25528790/05c80972-86ee-46a5-9b38-35a549a220b7",
+  "https://images.blocketcdn.se/dynamic/default/item/25528790/fedb352e-03c2-4b5b-9347-b8296f72b5ce",
+  "https://images.blocketcdn.se/dynamic/default/item/25528790/e41021b2-a6dd-44d8-9664-a9feb1f88f4d",
+  "https://images.blocketcdn.se/dynamic/default/item/25528790/1120575d-c2cb-4dfe-a525-207adc2ec173",
+  "https://images.blocketcdn.se/dynamic/default/item/25528790/a1ba4408-4f7f-4f75-a07a-04cc019aa776",
+  "https://images.blocketcdn.se/dynamic/default/item/25528790/e0bac6c3-e599-459a-9e87-41eaeaf80db2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.55,
+ "length_ft": 33,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "BMW",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "57d4124bf9de155b"
+ },
+ "location": "Norrköping",
+ "lon": 16.22,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1659,
+  "fetched_ts": 1790520721943,
+  "text_sha": "57d4124bf9de155b"
+ },
+ "price": 175000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 175000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Färg": "Brun",
+  "Längd i fot": "33 fot",
+  "Modell": "Regency 33",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Bmw",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "10",
+  "Skrovmaterial": "Trä",
+  "Sovplatser": "6",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25528790",
+ "width_cm": 0,
+ "year": 1980
+}

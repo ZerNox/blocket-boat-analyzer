@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": 83,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -40,6 +42,10 @@
     "kmh": 30
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 535 ht med Yamaha 60hk (2019)",
+  "hull_source": "rule:model",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -47,13 +53,24 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 535"
+ ],
  "heading": "Flipper 535 ht med Yamaha 60hk (2019)",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25386481/1a599f6c-19f2-4c80-a408-05695bf3d2f1",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.37237,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25386481/1a599f6c-19f2-4c80-a408-05695bf3d2f1",
+  "https://images.blocketcdn.se/dynamic/default/item/25386481/9e988be1-f0b1-49e1-a442-0a0a203202a7",
+  "https://images.blocketcdn.se/dynamic/default/item/25386481/325cb0e6-dae1-4763-aa5b-ec0aa0e31990",
+  "https://images.blocketcdn.se/dynamic/default/item/25386481/1332a44b-5278-4f90-bfc4-9b691ea4b9a4",
+  "https://images.blocketcdn.se/dynamic/default/item/25386481/e0cbe2a8-d56c-4249-922e-084330b7d752"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.37,
  "length_ft": 18,
  "location": "Karlstad",
- "lon": 13.5104,
+ "lon": 13.51,
  "make": "Flipper",
  "max_speed": 32,
  "motor_fuel": null,

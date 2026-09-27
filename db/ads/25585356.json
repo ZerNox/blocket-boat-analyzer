@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -43,8 +45,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 478GT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25585356/91669cea-25a5-4ece-acf1-f0cf3c90bc83",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.37207,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25585356/91669cea-25a5-4ece-acf1-f0cf3c90bc83",
+  "https://images.blocketcdn.se/dynamic/default/item/25585356/e2f10115-e774-4480-9eb7-2e1efa3e8b87",
+  "https://images.blocketcdn.se/dynamic/default/item/25585356/4e0ac1fa-76c3-4ca5-8721-85c4a0f4b9fa",
+  "https://images.blocketcdn.se/dynamic/default/item/25585356/db369b63-1a35-464f-a9e3-8c5acc3f1395",
+  "https://images.blocketcdn.se/dynamic/default/item/25585356/a5c69c8c-aff3-4354-8fdd-1b2a484431ca",
+  "https://images.blocketcdn.se/dynamic/default/item/25585356/d554907c-28f6-4458-838a-c3b4a0b0a7ff"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.37,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +84,13 @@
   "text_sha": "abbf829dbedc39c2"
  },
  "location": "Karlstad",
- "lon": 13.51446,
+ "lon": 13.51,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 235,
   "fetched_ts": 1790508034796,
@@ -105,7 +116,7 @@
   "Sittplatser": "5",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25585356",
  "width_cm": 0,
  "year": 2006

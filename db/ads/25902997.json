@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Klassisk HT-båt säljes",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25902997/1857793e-f0b3-4b98-a8c3-2ea7ca45ef6c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.70843,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25902997/1857793e-f0b3-4b98-a8c3-2ea7ca45ef6c",
+  "https://images.blocketcdn.se/dynamic/default/item/25902997/3878aaa7-c4c8-4cbe-abd8-660ccbc49ec2",
+  "https://images.blocketcdn.se/dynamic/default/item/25902997/988b3b48-6ed4-42ae-a018-17be0405628f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.71,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +73,13 @@
   "text_sha": "26f55b1289aa9170"
  },
  "location": "Gräddö",
- "lon": 19.26388,
+ "lon": 19.26,
  "make": "Övriga",
  "max_speed": 28,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 319,
   "fetched_ts": 1790508289621,
@@ -104,7 +112,7 @@
   "Typ": "Annat",
   "Vikt": "500 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25902997",
  "width_cm": 205,
  "year": 1990

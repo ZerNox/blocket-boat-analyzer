@@ -7,6 +7,8 @@
   "boat_year": 2003,
   "boat_year_source": "spec",
   "engine_hours": 200,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -41,8 +43,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Finnmaster 520 Troller",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25759049/14f125a4-20c3-41ac-811d-9c06c14c5ee6",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.37507,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25759049/14f125a4-20c3-41ac-811d-9c06c14c5ee6",
+  "https://images.blocketcdn.se/dynamic/default/item/25759049/ad76f65b-b194-4dc8-880b-31f502da7ab4",
+  "https://images.blocketcdn.se/dynamic/default/item/25759049/37fd8082-0502-4457-bdb1-9e3df7bdabbe",
+  "https://images.blocketcdn.se/dynamic/default/item/25759049/382e1fad-0e0f-498f-93c6-486c4e2f6571",
+  "https://images.blocketcdn.se/dynamic/default/item/25759049/261b900f-41fe-4c56-b843-74e617621137",
+  "https://images.blocketcdn.se/dynamic/default/item/25759049/56c3cac5-41d5-4421-8ba5-4700a60086cd",
+  "https://images.blocketcdn.se/dynamic/default/item/25759049/ed794828-fbc8-4bfd-889f-4c84d6d485c3"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.38,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +84,13 @@
   "text_sha": "8cc03731e2109533"
  },
  "location": "Hässelby",
- "lon": 17.82327,
+ "lon": 17.82,
  "make": "Finnmaster",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 883,
   "fetched_ts": 1790508162846,
@@ -106,7 +118,7 @@
   "Sittplatser": "5",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25759049",
  "width_cm": 205,
  "year": 2003

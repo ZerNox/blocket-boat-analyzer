@@ -7,6 +7,8 @@
   "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 3.5,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt, båttrailer och motor till salu!",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26927183/d9459305-ba56-4c06-832d-470e2eea9e3f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.46265,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26927183/d9459305-ba56-4c06-832d-470e2eea9e3f",
+  "https://images.blocketcdn.se/dynamic/default/item/26927183/26bfd27a-5e62-4981-9585-12994d709300",
+  "https://images.blocketcdn.se/dynamic/default/item/26927183/af8d3425-a03c-4993-ac65-7977c2434f91",
+  "https://images.blocketcdn.se/dynamic/default/item/26927183/b202201c-d31b-4f7b-b875-19acc482ffbf",
+  "https://images.blocketcdn.se/dynamic/default/item/26927183/033dd0e2-a656-4efd-a890-402020244847"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.46,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +78,13 @@
   "text_sha": "cc27d5cda57a9194"
  },
  "location": "Hok",
- "lon": 14.31756,
+ "lon": 14.32,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 3.5,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 167,
   "fetched_ts": 1790509036907,
@@ -103,7 +113,7 @@
   "Sittplatser": "4",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26927183",
  "width_cm": 148,
  "year": 2010

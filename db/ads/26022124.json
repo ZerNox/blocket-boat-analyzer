@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 440 styrpulpet, med Mariner 60 hk (2-takt) och 30-vagn",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26022124/8702ee36-2656-435b-8ffe-2dab8c4cc3ad",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 67.34914,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26022124/8702ee36-2656-435b-8ffe-2dab8c4cc3ad",
+  "https://images.blocketcdn.se/dynamic/default/item/26022124/d8a47c7e-d0b9-4aa6-ab3f-39c04f7589ee",
+  "https://images.blocketcdn.se/dynamic/default/item/26022124/ec78a2ed-b76e-4a70-a40d-2cde70817865",
+  "https://images.blocketcdn.se/dynamic/default/item/26022124/efae0bf1-c713-4088-98ae-29e07d384fc4",
+  "https://images.blocketcdn.se/dynamic/default/item/26022124/351a9db6-907b-4843-928f-1a62be540bcd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 67.35,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +75,13 @@
   "text_sha": "d45cf1a27c704578"
  },
  "location": "Lovikka",
- "lon": 22.63121,
+ "lon": 22.63,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 534,
   "fetched_ts": 1790508397742,
@@ -99,7 +109,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26022124",
  "width_cm": 170,
  "year": 1980

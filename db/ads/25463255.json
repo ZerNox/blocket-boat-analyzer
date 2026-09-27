@@ -1,0 +1,109 @@
+{
+ "ad_id": 25463255,
+ "boat_class": "Annat",
+ "changed_ts": 1786029442000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": 20,
+  "engine_hp": 20,
+  "engine_hp_source": "llm",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Renoveringsobjekt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25463255/c5d9ec06-05f1-4812-b0f4-9a102ebc8c97",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25463255/c5d9ec06-05f1-4812-b0f4-9a102ebc8c97",
+  "https://images.blocketcdn.se/dynamic/default/item/25463255/e0804122-530d-4c19-ad5a-4affc87fac07",
+  "https://images.blocketcdn.se/dynamic/default/item/25463255/51b87bc0-942c-4875-962e-9ac0b83c9e7f",
+  "https://images.blocketcdn.se/dynamic/default/item/25463255/47666381-025b-456d-b21a-e75c7fd2444b",
+  "https://images.blocketcdn.se/dynamic/default/item/25463255/9f10f968-e698-4d85-a793-2e6751bf9867",
+  "https://images.blocketcdn.se/dynamic/default/item/25463255/ce6a6109-b15e-46c1-9b6d-bfb693eaeb5e",
+  "https://images.blocketcdn.se/dynamic/default/item/25463255/693eecaf-0cd9-4e9d-acec-3015d18f78d4",
+  "https://images.blocketcdn.se/dynamic/default/item/25463255/7126bb71-a770-4449-bc38-7038cdb04275",
+  "https://images.blocketcdn.se/dynamic/default/item/25463255/2cdda53b-86f6-456a-b0b0-8953f593619b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.79,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1800,
+   "engine_hours": null,
+   "engine_hp": 20,
+   "engine_maker": "Ny maker inte angiven",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "ingen specifik årsangivelse i beskrivningen",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a641bbdfa787fc13"
+ },
+ "location": "Ulricehamn",
+ "lon": 13.42,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 144,
+  "fetched_ts": 1790520704571,
+  "text_sha": "a641bbdfa787fc13"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modellår": "1800",
+  "Märke": "Övriga",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25463255",
+ "width_cm": 0,
+ "year": 1800
+}

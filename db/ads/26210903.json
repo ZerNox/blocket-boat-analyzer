@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 5.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -27,16 +29,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 440 m. 5 hk Tohatsu -06",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26210903/a1f7ed4b-8a59-4c15-b2b8-1831c04c5a4b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.24139,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26210903/a1f7ed4b-8a59-4c15-b2b8-1831c04c5a4b",
+  "https://images.blocketcdn.se/dynamic/default/item/26210903/a72155c2-1752-4968-8e8c-b688bb886b8a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.24,
  "length_ft": 14,
  "location": "Eskilstuna",
- "lon": 16.58879,
+ "lon": 16.59,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 5.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 259,
   "fetched_ts": 1790508519840,
@@ -62,7 +69,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26210903",
  "width_cm": 160,
  "year": 2006

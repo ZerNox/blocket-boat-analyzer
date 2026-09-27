@@ -1,0 +1,84 @@
+{
+ "ad_id": 26929022,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790507609000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1960,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1960,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Sportbåt med 30 kärra",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Sportbåt med 30 kärra",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26929022/6d132bc3-af8d-404c-ad1b-cc3f17372d05",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26929022/6d132bc3-af8d-404c-ad1b-cc3f17372d05",
+  "https://images.blocketcdn.se/dynamic/default/item/26929022/90fa9df3-ae05-406b-80b3-9587cb7913f3",
+  "https://images.blocketcdn.se/dynamic/default/item/26929022/00ef13a1-c940-49b4-9f85-ff952b2b04aa",
+  "https://images.blocketcdn.se/dynamic/default/item/26929022/cea38e96-f7ac-4143-ae02-24d0604f1281"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.83,
+ "length_ft": 13,
+ "location": "Ljungby",
+ "lon": 13.92,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 229,
+  "fetched_ts": 1790521095706,
+  "text_sha": "f5d8e8b84718f7a3"
+ },
+ "price": 2000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 2000
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "13 fot",
+  "Modell": "Ryds nummer 1000",
+  "Modellår": "1960",
+  "Motor inkluderad": "Nej",
+  "Märke": "Ryds",
+  "Sittplatser": "1",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26929022",
+ "width_cm": 160,
+ "year": 1960
+}

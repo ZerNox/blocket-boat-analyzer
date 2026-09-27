@@ -1,0 +1,75 @@
+{
+ "ad_id": 24432618,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788508316000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1999,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds 380 båt eka fint skick",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24432618/beb6e843-563c-4c54-a42e-fe5e04155255",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24432618/beb6e843-563c-4c54-a42e-fe5e04155255",
+  "https://images.blocketcdn.se/dynamic/default/item/24432618/577149ab-c38c-4693-bafb-b471d9dd1f8f",
+  "https://images.blocketcdn.se/dynamic/default/item/24432618/077ca004-8bc2-4cf5-ac4e-cd696564129e",
+  "https://images.blocketcdn.se/dynamic/default/item/24432618/846cdfdb-4ec0-4bd7-b8f3-21ccce737cd3",
+  "https://images.blocketcdn.se/dynamic/default/item/24432618/7d1686a3-1eec-4008-8257-7fb36404d6ac"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.62,
+ "length_ft": 12,
+ "location": "Sandviken",
+ "lon": 16.75,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 129,
+  "fetched_ts": 1790520637648,
+  "text_sha": "c389c4ab6a09bf46"
+ },
+ "price": 9990,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9990
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "12 fot",
+  "Modellår": "1999",
+  "Motor inkluderad": "Nej",
+  "Märke": "Ryds",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/24432618",
+ "width_cm": 150,
+ "year": 1999
+}

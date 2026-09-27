@@ -1,0 +1,120 @@
+{
+ "ad_id": 26379859,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790312897000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1987,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 5.7,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercruiser 5.7",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1987,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellet är helt och fint saknas några knappar på båten till kapellet.",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "Kärra medföljer .",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Reniell 192M",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26379859/ea08f707-b1b9-4446-b8cc-b564d05469ff",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26379859/ea08f707-b1b9-4446-b8cc-b564d05469ff",
+  "https://images.blocketcdn.se/dynamic/default/item/26379859/6a1a4368-4a44-460b-b266-eb9aa64b9b44",
+  "https://images.blocketcdn.se/dynamic/default/item/26379859/4ae32ef6-4af6-41d3-ac89-5eaf2f26b448",
+  "https://images.blocketcdn.se/dynamic/default/item/26379859/87f50ab0-7f1f-4b7f-b52c-2771b0dba439",
+  "https://images.blocketcdn.se/dynamic/default/item/26379859/9e5d3f22-2b05-42d9-82c3-4995e805836f"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.04,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1987,
+   "engine_hours": null,
+   "engine_hp": 5.7,
+   "engine_maker": "Mercruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9ff18882cb523030"
+ },
+ "location": "Bengtsfors",
+ "lon": 12.24,
+ "make": "Reinell",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 305,
+  "fetched_ts": 1790523156615,
+  "text_sha": "9ff18882cb523030"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modell": "192M",
+  "Modellår": "1987",
+  "Motortillverkare": "Mercruiser 5.7",
+  "Motortyp": "Inombordare",
+  "Märke": "Reinell",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26379859",
+ "width_cm": 0,
+ "year": 1987
+}

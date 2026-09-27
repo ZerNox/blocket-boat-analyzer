@@ -1,0 +1,139 @@
+{
+ "ad_id": 26182751,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1788118857000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": 270,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin plotter/ekolod.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Två kapell, ett vinter och ett sommar,",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin plotter/ekolod.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80-kärra i bra skick ingår, (avställd)",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 570"
+ ],
+ "heading": "Flipper 570 Suzuki 50hk 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26182751/dd6f7fd9-ac65-4291-b20b-0e8920aba216",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26182751/dd6f7fd9-ac65-4291-b20b-0e8920aba216",
+  "https://images.blocketcdn.se/dynamic/default/item/26182751/cea9b9b3-3ed4-4ce6-b1be-ba7f0dbe6185",
+  "https://images.blocketcdn.se/dynamic/default/item/26182751/59cb8666-d7dd-4640-8bf4-625d1045bb6f",
+  "https://images.blocketcdn.se/dynamic/default/item/26182751/5ad399b3-20f2-41ce-a58e-978b4e11c5fa",
+  "https://images.blocketcdn.se/dynamic/default/item/26182751/9c7eaa34-d949-4a7e-a280-f1f090276a43"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.05,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Nytt batteri för i år. Använd endast ett par timmar 2026.",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "included"
+   }
+  },
+  "text_sha": "dba612d431bde933"
+ },
+ "location": "Klövedal",
+ "lon": 11.58,
+ "make": "Flipper",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 504,
+  "fetched_ts": 1790523135935,
+  "text_sha": "dba612d431bde933"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "570",
+  "Modellår": "1980",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "3",
+  "Toppfart": "25 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26182751",
+ "width_cm": 215,
+ "year": 1980
+}

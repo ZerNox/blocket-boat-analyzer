@@ -1,0 +1,77 @@
+{
+ "ad_id": 26922532,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790498637000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1999,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Jolly 23 Bytes/Säljes",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26922532/50a8805c-7d0b-4e54-b39d-11526f100ec9",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26922532/50a8805c-7d0b-4e54-b39d-11526f100ec9",
+  "https://images.blocketcdn.se/dynamic/default/item/26922532/296a9152-4565-4f5e-9fab-a183f39a47ba",
+  "https://images.blocketcdn.se/dynamic/default/item/26922532/f61d0b3a-1583-4c15-96bc-e7c4e95ca4c3",
+  "https://images.blocketcdn.se/dynamic/default/item/26922532/e8ae7243-4924-443e-a4de-b6d28c8a3588"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.68,
+ "length_ft": 7,
+ "location": "Gävle",
+ "lon": 17.15,
+ "make": "Jolly",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 294,
+  "fetched_ts": 1790521091366,
+  "text_sha": "223473c0d97ccff3"
+ },
+ "price": 2500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 2500
+  }
+ ],
+ "specs": {
+  "Bredd": "130 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "7 fot",
+  "Modellår": "1999",
+  "Motor inkluderad": "Nej",
+  "Märke": "Jolly",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "40 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26922532",
+ "width_cm": 130,
+ "year": 1999
+}

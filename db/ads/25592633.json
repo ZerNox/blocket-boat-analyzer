@@ -1,0 +1,111 @@
+{
+ "ad_id": 25592633,
+ "boat_class": "Annat",
+ "changed_ts": 1786381333000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Taxibåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25592633/c8388b37-19a1-46f6-8e5b-7f8514285107",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25592633/c8388b37-19a1-46f6-8e5b-7f8514285107",
+  "https://images.blocketcdn.se/dynamic/default/item/25592633/472fd819-c2b7-420d-b816-107b44183960",
+  "https://images.blocketcdn.se/dynamic/default/item/25592633/572b456d-b01f-42d6-bd49-2fb287264518",
+  "https://images.blocketcdn.se/dynamic/default/item/25592633/00a7c716-a55a-41b0-9f74-bbaad9b21c78",
+  "https://images.blocketcdn.se/dynamic/default/item/25592633/390796bd-fcf5-4cbb-b63a-f66021292a12"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.45,
+ "length_ft": 29,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1970,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "dd39b5bd445f93fb"
+ },
+ "location": "Gräsö",
+ "lon": 18.45,
+ "make": "59º North",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Annat",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 71,
+  "fetched_ts": 1790520736149,
+  "text_sha": "dd39b5bd445f93fb"
+ },
+ "price": 95000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 95000
+  }
+ ],
+ "specs": {
+  "Bredd": "300 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "100 cm",
+  "Färg": "Blå",
+  "Längd i fot": "29 fot",
+  "Modell": "Biscaya 29",
+  "Modellår": "1970",
+  "Motortyp": "Annat",
+  "Märke": "59º North",
+  "Sittplatser": "12",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Annat",
+  "Vikt": "3 500 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25592633",
+ "width_cm": 300,
+ "year": 1970
+}

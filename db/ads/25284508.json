@@ -7,6 +7,8 @@
   "boat_year": 1979,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 10.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -38,8 +40,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ockelbo b14",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25284508/be366204-1d7f-4f0b-bb8a-4a23e41a87de",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.58449,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25284508/be366204-1d7f-4f0b-bb8a-4a23e41a87de",
+  "https://images.blocketcdn.se/dynamic/default/item/25284508/01897c17-d182-49ed-b66b-e5fdcbe6d4d7",
+  "https://images.blocketcdn.se/dynamic/default/item/25284508/4f2ef1ae-b384-446d-a94c-028a54cb24e0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.58,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +76,13 @@
   "text_sha": "8ea5eef473b6c801"
  },
  "location": "Storvik",
- "lon": 16.53466,
+ "lon": 16.53,
  "make": "Ockelbo",
  "max_speed": 7,
  "motor_fuel": "Bensin",
  "motor_size": 10.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 288,
   "fetched_ts": 1790507724308,
@@ -104,7 +112,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "145 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25284508",
  "width_cm": 160,
  "year": 1979

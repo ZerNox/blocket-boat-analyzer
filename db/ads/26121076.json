@@ -7,6 +7,8 @@
   "boat_year": 2007,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -41,16 +43,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 465 med Suzuki DF50 4-takt inkl 80 trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26121076/fdb40243-75b8-411b-9a97-cba2aa4b19f8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.00414,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26121076/fdb40243-75b8-411b-9a97-cba2aa4b19f8",
+  "https://images.blocketcdn.se/dynamic/default/item/26121076/11cf7d44-c960-4b61-80db-2f01e2bea835",
+  "https://images.blocketcdn.se/dynamic/default/item/26121076/a4faee05-713c-4cf9-b706-2206b2bde404"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.0,
  "length_ft": 15,
  "location": "Hakenäset",
- "lon": 11.73961,
+ "lon": 11.74,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 516,
   "fetched_ts": 1790508470631,
@@ -75,7 +83,7 @@
   "Märke": "HR",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26121076",
  "width_cm": 0,
  "year": 2007

@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": 100,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -28,6 +30,10 @@
     "kmh": 30
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 510ht med honda bf50",
+  "hull_source": "rule:model",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -35,13 +41,23 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Flipper 510ht med honda bf50",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25927256/afb2bff1-54f9-40a2-b61a-1824dd173d71",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.59473,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25927256/afb2bff1-54f9-40a2-b61a-1824dd173d71",
+  "https://images.blocketcdn.se/dynamic/default/item/25927256/c75f6934-26d4-485a-bcab-beed3a0f7920",
+  "https://images.blocketcdn.se/dynamic/default/item/25927256/cd0d9ce5-5d77-4b92-ba6d-b86fee2ce575",
+  "https://images.blocketcdn.se/dynamic/default/item/25927256/35cdaf7f-af0a-4d83-8eeb-76b524cbe3f7",
+  "https://images.blocketcdn.se/dynamic/default/item/25927256/0cb4102c-38f7-46aa-bd9a-b914b02ef1ec"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.59,
  "length_ft": 17,
  "location": "Lidköping",
- "lon": 13.03582,
+ "lon": 13.04,
  "make": "Flipper",
  "max_speed": 25,
  "motor_fuel": "Bensin",

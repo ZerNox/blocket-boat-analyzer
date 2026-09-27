@@ -1,0 +1,84 @@
+{
+ "ad_id": 25533754,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786223269000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Cri Cat motorbåt",
+ "image": null,
+ "image_urls": [],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.33,
+ "length_ft": 20,
+ "location": "Värmdö",
+ "lon": 18.63,
+ "make": "Argo",
+ "max_speed": 60,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 61,
+  "fetched_ts": 1790523016661,
+  "text_sha": "d2b80ba561a24d72"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "240 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Längd i fot": "20 fot",
+  "Modell": "Katamaran",
+  "Modellår": "1985",
+  "Motor inkluderad": "Nej",
+  "Motortyp": "Utombordare",
+  "Märke": "Argo",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "60 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25533754",
+ "width_cm": 240,
+ "year": 1985
+}

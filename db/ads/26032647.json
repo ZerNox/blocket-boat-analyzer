@@ -7,6 +7,8 @@
   "boat_year": 2023,
   "boat_year_source": "spec",
   "engine_hours": 2,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sandström Classic 460 2023 Honda 20 HK",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26032647/04d67109-ebd0-4058-b632-9cf79878c3ee",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.60224,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26032647/04d67109-ebd0-4058-b632-9cf79878c3ee",
+  "https://images.blocketcdn.se/dynamic/default/item/26032647/76208e9c-9670-46fe-bd8b-eb69440f0ef3",
+  "https://images.blocketcdn.se/dynamic/default/item/26032647/1137aefe-ff55-426d-9205-873edd6c9528",
+  "https://images.blocketcdn.se/dynamic/default/item/26032647/826657a4-5d25-4b57-8c05-8b66e51f350f",
+  "https://images.blocketcdn.se/dynamic/default/item/26032647/d7b980b1-a74c-42a3-8ab5-37b52847201b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.6,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +78,13 @@
   "text_sha": "d3251d5082a552f0"
  },
  "location": "Norrköping",
- "lon": 16.26406,
+ "lon": 16.26,
  "make": "Sandström",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 302,
   "fetched_ts": 1790508400849,
@@ -104,7 +114,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "270 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26032647",
  "width_cm": 180,
  "year": 2023

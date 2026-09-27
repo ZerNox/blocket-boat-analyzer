@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": 30,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Parsun",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -36,16 +38,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR470 20hk 4-takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26689570/81a9d92c-f674-4ecd-b460-037736a5adf0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.67121,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26689570/81a9d92c-f674-4ecd-b460-037736a5adf0",
+  "https://images.blocketcdn.se/dynamic/default/item/26689570/2c4e0f1e-8bd2-49b9-9428-23559366bf4b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.67,
  "length_ft": 16,
  "location": "Umeå",
- "lon": 20.01815,
+ "lon": 20.02,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 493,
   "fetched_ts": 1790508877185,
@@ -75,7 +82,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "220 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26689570",
  "width_cm": 175,
  "year": 2021

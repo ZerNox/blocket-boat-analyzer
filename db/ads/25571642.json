@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnsson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Interboat 410 sr",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25571642/d0085460-b930-4c2c-aaed-1dce5b0567c7",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.26661,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25571642/d0085460-b930-4c2c-aaed-1dce5b0567c7",
+  "https://images.blocketcdn.se/dynamic/default/item/25571642/52b36d3d-912b-4049-9e82-8ddb93660883",
+  "https://images.blocketcdn.se/dynamic/default/item/25571642/69390925-ccdd-4435-b14c-721580f46b83",
+  "https://images.blocketcdn.se/dynamic/default/item/25571642/70236343-32ee-48ef-8d8d-3ba1eddb7ecd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.27,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +74,13 @@
   "text_sha": "3213c09b8a1115c4"
  },
  "location": "Vintrosa",
- "lon": 15.01094,
+ "lon": 15.01,
  "make": "Övriga",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 412,
   "fetched_ts": 1790508020358,
@@ -102,7 +111,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "235 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25571642",
  "width_cm": 180,
  "year": 2000

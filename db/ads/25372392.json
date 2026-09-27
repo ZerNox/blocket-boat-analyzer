@@ -7,6 +7,8 @@
   "boat_year": 2007,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 8.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "RIB aluminiumskrov,",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25372392/abfe1282-da58-451c-ac35-8321d8488195",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.73573,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25372392/abfe1282-da58-451c-ac35-8321d8488195",
+  "https://images.blocketcdn.se/dynamic/default/item/25372392/9460ee45-a08d-4145-b764-743a7d688905",
+  "https://images.blocketcdn.se/dynamic/default/item/25372392/4a724e8e-3408-4a8d-bd5e-f9eb9a218b6c",
+  "https://images.blocketcdn.se/dynamic/default/item/25372392/0c58b3a4-9036-4b90-b00d-109380c3d3a9",
+  "https://images.blocketcdn.se/dynamic/default/item/25372392/3c458f68-a7aa-4bbe-a396-261ef010eef1",
+  "https://images.blocketcdn.se/dynamic/default/item/25372392/2c026f7a-4751-46fd-8043-56b8d5415bea",
+  "https://images.blocketcdn.se/dynamic/default/item/25372392/2793fcb8-cf75-433b-a161-50111a52d6c6",
+  "https://images.blocketcdn.se/dynamic/default/item/25372392/b7b104c8-63b7-4863-865d-ca0ed77cf11f",
+  "https://images.blocketcdn.se/dynamic/default/item/25372392/f1290df0-6c9d-4e5b-a72a-e8c18a831954",
+  "https://images.blocketcdn.se/dynamic/default/item/25372392/231dd3a6-d05c-47b0-8710-bb42826966db"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.74,
  "length_ft": 9,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +74,13 @@
   "text_sha": "fec9a800f993cc12"
  },
  "location": "Gävle",
- "lon": 17.40185,
+ "lon": 17.4,
  "make": "Aquapro",
  "max_speed": 18,
  "motor_fuel": "Bensin",
  "motor_size": 8.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 509,
   "fetched_ts": 1790507810735,
@@ -94,7 +109,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "40 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25372392",
  "width_cm": 0,
  "year": 2007

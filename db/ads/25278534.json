@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 9.9,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -27,16 +29,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bra skick",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25278534/0fc1ee04-2a2d-4a9b-b022-766ad7c92900",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.54615,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25278534/0fc1ee04-2a2d-4a9b-b022-766ad7c92900",
+  "https://images.blocketcdn.se/dynamic/default/item/25278534/008d2530-67aa-4c9e-ba26-a7fb25fa6938"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.55,
  "length_ft": 15,
  "location": "Karlsborg",
- "lon": 14.48408,
+ "lon": 14.48,
  "make": "Terhi",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 9.899999618530273,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 105,
   "fetched_ts": 1790507718925,
@@ -62,7 +69,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25278534",
  "width_cm": 0,
  "year": 2021

@@ -7,6 +7,8 @@
   "boat_year": 1999,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 440 GT, Tohatsu 40 hk – Trailer 80-kärra ingår.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25002163/0d666819-3e83-4c12-8499-b274c0f82e59",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.15807,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25002163/0d666819-3e83-4c12-8499-b274c0f82e59",
+  "https://images.blocketcdn.se/dynamic/default/item/25002163/0143e9f3-03e5-4e1b-be3b-921ac1ae7c32",
+  "https://images.blocketcdn.se/dynamic/default/item/25002163/ba3493f7-09b9-45f9-9de2-e741146f3886",
+  "https://images.blocketcdn.se/dynamic/default/item/25002163/499f701c-a9ce-496b-ace3-072a903545dd",
+  "https://images.blocketcdn.se/dynamic/default/item/25002163/01e9bb3a-9135-4276-8a5b-3bd0156e2744"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.16,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +80,13 @@
   "text_sha": "ecf9a00bc084a43f"
  },
  "location": "Karlshamn",
- "lon": 14.90865,
+ "lon": 14.91,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 715,
   "fetched_ts": 1790507634383,
@@ -102,7 +112,7 @@
   "Sittplatser": "5",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25002163",
  "width_cm": 180,
  "year": 1999

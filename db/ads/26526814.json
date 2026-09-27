@@ -7,6 +7,8 @@
   "boat_year": 2017,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 78,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury Mark 78 SS",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Stoor-Speedy XL, med motor och trailer, säljes.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26526814/d7c20f87-e20e-4dc1-b2e7-37ab0e85e45b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.18921,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26526814/d7c20f87-e20e-4dc1-b2e7-37ab0e85e45b",
+  "https://images.blocketcdn.se/dynamic/default/item/26526814/074e42c0-a164-4a02-81a7-4570790ad0ba",
+  "https://images.blocketcdn.se/dynamic/default/item/26526814/1ebb4fb5-84fc-45db-a873-231c018d88d8",
+  "https://images.blocketcdn.se/dynamic/default/item/26526814/d116b214-fd09-483e-89f1-698e0bb3b56a",
+  "https://images.blocketcdn.se/dynamic/default/item/26526814/57bc41b0-3480-486c-8b9d-9b66272ca556",
+  "https://images.blocketcdn.se/dynamic/default/item/26526814/1b73f28a-daaa-42fb-96d3-43454f535458",
+  "https://images.blocketcdn.se/dynamic/default/item/26526814/8bc1df39-c1ec-4036-a942-95d957107d14",
+  "https://images.blocketcdn.se/dynamic/default/item/26526814/cd773031-073f-420b-82aa-2cbf86dabc48"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.19,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +78,13 @@
   "text_sha": "ad9da63dd5c9aa52"
  },
  "location": "Vendelsö",
- "lon": 18.20883,
+ "lon": 18.21,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 941,
   "fetched_ts": 1790508765524,
@@ -100,7 +113,7 @@
   "Skrovmaterial": "Trä",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26526814",
  "width_cm": 180,
  "year": 2017

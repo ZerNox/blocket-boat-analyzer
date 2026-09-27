@@ -1,0 +1,114 @@
+{
+ "ad_id": 26388101,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789028807000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki DF70",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Uttern 5100 DC + Suzuki DF70 2008.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Nyare kapell + formsytt vinterkapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Utrustning: GPS, radio",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Utrustning: GPS, radio",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båttrailer: Pegas med vinsch och belysning",
+    "included": true,
+    "kmh": 30
+   },
+   "vinterkapell": {
+    "evidence": "Nyare kapell + formsytt vinterkapell",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 5100 DC + Suzuki DF70 2008",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Uttern 5100 DC + Suzuki DF70 2008",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26388101/2b9df54f-5b44-4374-b22e-ed8f681ff1b3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26388101/2b9df54f-5b44-4374-b22e-ed8f681ff1b3",
+  "https://images.blocketcdn.se/dynamic/default/item/26388101/6ba18157-2b74-4ea4-b8e8-b4ed62838c1b",
+  "https://images.blocketcdn.se/dynamic/default/item/26388101/cb1874c0-1fc4-497a-9c3d-6b87f915d964",
+  "https://images.blocketcdn.se/dynamic/default/item/26388101/60a2d5eb-b220-4c54-9114-050f8afa0581",
+  "https://images.blocketcdn.se/dynamic/default/item/26388101/b7be6e90-42d6-48cd-9f0f-2efb09bb90da",
+  "https://images.blocketcdn.se/dynamic/default/item/26388101/18066acd-1481-4e58-a777-98702f51f5fc",
+  "https://images.blocketcdn.se/dynamic/default/item/26388101/dbd104f4-306d-4c9d-a47d-f185ccf8f1ee"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.16,
+ "length_ft": 17,
+ "location": "Karlshamn",
+ "lon": 14.91,
+ "make": "Uttern",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 669,
+  "fetched_ts": 1790523158145,
+  "text_sha": "9c55bd9406331cb7"
+ },
+ "price": 99000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 99000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "5100 DC",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Suzuki DF70",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "25 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26388101",
+ "width_cm": 180,
+ "year": 2000
+}

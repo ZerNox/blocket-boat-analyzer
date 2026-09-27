@@ -7,6 +7,8 @@
   "boat_year": 1972,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
   "engine_maker": "AD21 - 1973",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -32,16 +34,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Halva priset av 50000kr är 25000kr plus 2137kr uppställnings plats",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25280685/0a3a813b-07bf-499f-bcba-75d7f72a4e0a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.69507,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25280685/0a3a813b-07bf-499f-bcba-75d7f72a4e0a",
+  "https://images.blocketcdn.se/dynamic/default/item/25280685/20f1e4b7-3f81-4dd5-8669-f9ff9745a5a9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.7,
  "length_ft": 25,
  "location": "Gävle",
- "lon": 17.11938,
+ "lon": 17.12,
  "make": "Albin",
  "max_speed": null,
  "motor_fuel": "Diesel",
  "motor_size": 22.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 121,
   "fetched_ts": 1790507721751,
@@ -68,7 +75,7 @@
   "Märke": "Albin",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25280685",
  "width_cm": 260,
  "year": 1972

@@ -7,6 +7,8 @@
   "boat_year": 2008,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,9 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet båt",
  "image": null,
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.14667,
+ "image_urls": [],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.15,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +63,13 @@
   "text_sha": "26318033abca38e9"
  },
  "location": "Ludvika",
- "lon": 15.20673,
+ "lon": 15.21,
  "make": "Sea Finn",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508158766,
@@ -95,7 +99,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25755584",
  "width_cm": 1080,
  "year": 2008

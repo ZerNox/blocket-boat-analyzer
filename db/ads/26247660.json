@@ -1,0 +1,127 @@
+{
+ "ad_id": 26247660,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788429866000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2014,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Evenrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2009,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Nytt batteri, Motor 2 takt -2009.",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Mycket trevlig snygg styrpulpet från Ryds med mycket utrustning såsom Garmin plotter med touch skärm ekolod etc.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Mycket trevlig snygg styrpulpet från Ryds med mycket utrustning såsom Garmin plotter med touch skärm ekolod etc.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Marin stereo med dubbla högtalare.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer bromsad 80 km/h typ Thule Easyline 1300 kan köpas till för 15000 kr",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "engine 2009 older than boat 2014"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds 528 sport -2014 med Evenrude 90 hkr",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26247660/1e828c32-67df-417c-a58f-3e2ae01479df",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26247660/1e828c32-67df-417c-a58f-3e2ae01479df",
+  "https://images.blocketcdn.se/dynamic/default/item/26247660/6dc6875a-afe6-49d0-b58c-9a01810023d9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.22,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2014,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Evenrude",
+   "engine_type": "outboard",
+   "engine_year": 2009,
+   "engine_year_evidence": "Nytt batteri, Motor 2 takt -2009.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "included",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d9ed5a6b58db3534"
+ },
+ "location": "Ljungskile",
+ "lon": 11.93,
+ "make": "Ryds",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 322,
+  "fetched_ts": 1790520930876,
+  "text_sha": "d9ed5a6b58db3534"
+ },
+ "price": 135000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 135000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "528 sport",
+  "Modellår": "2014",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Evenrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "35 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "550 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26247660",
+ "width_cm": 0,
+ "year": 2014
+}

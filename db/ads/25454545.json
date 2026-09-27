@@ -1,0 +1,101 @@
+{
+ "ad_id": 25454545,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1786099508000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Örnvik 510 inkl trailer och 75hk mercury 2006.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Enklare Kapell medföljer.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Örnvik 510 inkl trailer och 75hk mercury 2006",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Kapell medföljer. \nMysig sovhytt för 2 personer.\nUpptagen just nu men om man vill provköra så går det bra",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Örnvik 510 inkl trailer och 75hk mercury 2006",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25454545/85fd571f-4809-4604-ac90-affc2ec1c42f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25454545/85fd571f-4809-4604-ac90-affc2ec1c42f",
+  "https://images.blocketcdn.se/dynamic/default/item/25454545/e60d11c9-5cfb-4b70-a2b8-a6138b981d81",
+  "https://images.blocketcdn.se/dynamic/default/item/25454545/a6ae0256-8e89-48b7-b3c3-e9bea07bbd7e",
+  "https://images.blocketcdn.se/dynamic/default/item/25454545/7f572ef2-da90-4836-93ed-c07945e47f9a",
+  "https://images.blocketcdn.se/dynamic/default/item/25454545/109fb02a-edd7-4828-b96a-c0f01d6f6eaa",
+  "https://images.blocketcdn.se/dynamic/default/item/25454545/88a41973-5635-42fd-9812-0694f2f292fd",
+  "https://images.blocketcdn.se/dynamic/default/item/25454545/c5745472-5870-489c-85b0-f241e17cb366",
+  "https://images.blocketcdn.se/dynamic/default/item/25454545/ee6f1811-f33c-40f4-8535-ff31ac35820c"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.07,
+ "length_ft": 17,
+ "location": "Rimforsa",
+ "lon": 15.77,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 274,
+  "fetched_ts": 1790522996895,
+  "text_sha": "f0c7867cfa2b15c8"
+ },
+ "price": 81000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 81000
+  }
+ ],
+ "specs": {
+  "Bredd": "233 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "510",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "4",
+  "Sovplatser": "2",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25454545",
+ "width_cm": 233,
+ "year": 2006
+}

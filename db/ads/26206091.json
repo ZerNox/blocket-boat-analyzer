@@ -7,6 +7,8 @@
   "boat_year": 2012,
   "boat_year_source": "spec",
   "engine_hours": 121,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -46,8 +48,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Alumacraft Fisherman 145 CS",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26206091/b6a28ea4-d38f-4b93-a7fd-4df1318afdb5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 61.80499,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26206091/b6a28ea4-d38f-4b93-a7fd-4df1318afdb5",
+  "https://images.blocketcdn.se/dynamic/default/item/26206091/671c438c-3a2c-4d95-8ec1-acf4125a0d39",
+  "https://images.blocketcdn.se/dynamic/default/item/26206091/dcb09260-3355-49f2-a5b9-f282d01f378b",
+  "https://images.blocketcdn.se/dynamic/default/item/26206091/f9bad051-dfc0-4406-ab26-e9005a4ee0df",
+  "https://images.blocketcdn.se/dynamic/default/item/26206091/d796712a-b910-4867-90f9-9de4215ec8f0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 61.8,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -77,12 +86,13 @@
   "text_sha": "6d0c8a42d4622558"
  },
  "location": "Delsbo",
- "lon": 16.53738,
+ "lon": 16.54,
  "make": "Alumacraft",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 416,
   "fetched_ts": 1790508513718,
@@ -112,7 +122,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26206091",
  "width_cm": 193,
  "year": 2012

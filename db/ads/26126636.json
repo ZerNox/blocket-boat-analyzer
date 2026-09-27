@@ -7,6 +7,8 @@
   "boat_year": 1999,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -35,8 +37,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Lami 485 RX styrpulpetbåt med Yamaha 70 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26126636/689a16bd-fa58-4653-97df-b834a44cd0fc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.46531,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26126636/689a16bd-fa58-4653-97df-b834a44cd0fc",
+  "https://images.blocketcdn.se/dynamic/default/item/26126636/294c540c-b8f8-4a5f-b90f-28d427970884",
+  "https://images.blocketcdn.se/dynamic/default/item/26126636/f9bf3601-34b9-40f9-b379-2becdd6933df",
+  "https://images.blocketcdn.se/dynamic/default/item/26126636/31458c1e-70d2-49ff-a2fc-21ac6397d10b",
+  "https://images.blocketcdn.se/dynamic/default/item/26126636/a550946c-e59c-4f74-9cde-5b34bffe2dc7",
+  "https://images.blocketcdn.se/dynamic/default/item/26126636/f8f81d44-f2ba-4acb-a9c5-9f6cfd2c1493"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.47,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +76,13 @@
   "text_sha": "bb1272f9251846f7"
  },
  "location": "Figeholm",
- "lon": 16.66498,
+ "lon": 16.66,
  "make": "Yamaha",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 472,
   "fetched_ts": 1790508473451,
@@ -96,7 +107,7 @@
   "Märke": "Yamaha",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26126636",
  "width_cm": 0,
  "year": 1999

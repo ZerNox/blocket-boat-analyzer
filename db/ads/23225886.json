@@ -1,0 +1,131 @@
+{
+ "ad_id": 23225886,
+ "boat_class": "Annat",
+ "changed_ts": 1789247010000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo Penta MD17",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1979,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell i mkt gott skick, 5 år gammalt (Nypris 24000kr)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Uppställningskärra",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "ALBIN 23  -79   Bra familjebåt i fint skick med plats för många!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23225886/aa022062-d7f7-4068-93f6-1eb6dde1f10c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23225886/aa022062-d7f7-4068-93f6-1eb6dde1f10c",
+  "https://images.blocketcdn.se/dynamic/default/item/23225886/799fa1dc-8a77-42a4-9341-2954c877edcc",
+  "https://images.blocketcdn.se/dynamic/default/item/23225886/2b50668a-2d13-4304-ac85-4134ba8cba0f",
+  "https://images.blocketcdn.se/dynamic/default/item/23225886/6716c38b-85e8-4172-8194-cecc33067aaa",
+  "https://images.blocketcdn.se/dynamic/default/item/23225886/fdca5a31-7157-4609-9700-90e6b0542200",
+  "https://images.blocketcdn.se/dynamic/default/item/23225886/88c581c6-ccb9-4555-b5be-4fc1215fcb9f",
+  "https://images.blocketcdn.se/dynamic/default/item/23225886/a0a33f9b-50f6-4447-804c-129f9d1a7308",
+  "https://images.blocketcdn.se/dynamic/default/item/23225886/87e9093c-4a05-4b7c-980f-34c2702ead9a",
+  "https://images.blocketcdn.se/dynamic/default/item/23225886/f1eae176-a35a-4153-93d9-bbacf1831519",
+  "https://images.blocketcdn.se/dynamic/default/item/23225886/16342168-f5be-4d34-92f6-b281cae06783"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.2,
+ "length_ft": 23,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1979,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor Volvo Penta MD17 Servad varje år",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b3d37a1cdc16a2f8"
+ },
+ "location": "Boxholm",
+ "lon": 14.97,
+ "make": "Albin",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 408,
+  "fetched_ts": 1790520602524,
+  "text_sha": "b3d37a1cdc16a2f8"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Bredd": "270 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "75 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit och Röd",
+  "Längd i fot": "23 fot",
+  "Modell": "23",
+  "Modellår": "1979",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo Penta MD17",
+  "Motortyp": "Inombordare",
+  "Märke": "Albin",
+  "Sittplatser": "8",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "5",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23225886",
+ "width_cm": 270,
+ "year": 1979
+}

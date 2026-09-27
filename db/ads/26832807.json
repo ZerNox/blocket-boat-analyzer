@@ -7,6 +7,8 @@
   "boat_year": 1999,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,16 +36,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 440gt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26832807/ddd17fe0-f169-40a9-be2a-63b2cd4bb68e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.2941,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26832807/ddd17fe0-f169-40a9-be2a-63b2cd4bb68e",
+  "https://images.blocketcdn.se/dynamic/default/item/26832807/79ec508d-07ac-4fb8-9e3b-0798fd1cb341"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.29,
  "length_ft": 14,
  "location": "Uddevalla",
- "lon": 11.56605,
+ "lon": 11.57,
  "make": "Ryds",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 215,
   "fetched_ts": 1790508964664,
@@ -70,7 +77,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26832807",
  "width_cm": 0,
  "year": 1999

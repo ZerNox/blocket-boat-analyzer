@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt 25 hk Ryds 435",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25682899/2cb7b545-5c45-4da4-b87a-f5739cda5541",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.02341,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25682899/2cb7b545-5c45-4da4-b87a-f5739cda5541",
+  "https://images.blocketcdn.se/dynamic/default/item/25682899/2b22f50f-1e9e-4c61-a5f4-de2f426f808d",
+  "https://images.blocketcdn.se/dynamic/default/item/25682899/41a132c3-6f86-4c9d-8046-74ab77f6a8da",
+  "https://images.blocketcdn.se/dynamic/default/item/25682899/70a3ed82-52c4-482e-993b-251f4890624b",
+  "https://images.blocketcdn.se/dynamic/default/item/25682899/1cf280e7-f73a-4e4a-a4f0-33893143d514",
+  "https://images.blocketcdn.se/dynamic/default/item/25682899/4fffe12d-3f1c-493e-b331-62664989cc68",
+  "https://images.blocketcdn.se/dynamic/default/item/25682899/9aff02a8-498b-4131-91ba-3cbba5f353f6",
+  "https://images.blocketcdn.se/dynamic/default/item/25682899/9469d596-4e58-4a0b-9f73-23bb5551021c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.02,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +77,13 @@
   "text_sha": "6399c2eee8373768"
  },
  "location": "Bengtsfors",
- "lon": 12.19833,
+ "lon": 12.2,
  "make": "Ryds",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 676,
   "fetched_ts": 1790508095198,
@@ -99,7 +112,7 @@
   "Toppfart": "20 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25682899",
  "width_cm": 0,
  "year": 2000

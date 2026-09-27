@@ -7,6 +7,8 @@
   "boat_year": 2007,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 465",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24333656/e9f02432-38b7-4f4d-97e9-90c33df246a8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.80838,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24333656/e9f02432-38b7-4f4d-97e9-90c33df246a8",
+  "https://images.blocketcdn.se/dynamic/default/item/24333656/660f0ceb-3356-4e49-ae55-104d1d2b7c4a",
+  "https://images.blocketcdn.se/dynamic/default/item/24333656/096c90eb-b446-44f6-9967-dbb08ae357cc",
+  "https://images.blocketcdn.se/dynamic/default/item/24333656/d3706287-dd24-43d2-bf7b-f3cda203f7c0",
+  "https://images.blocketcdn.se/dynamic/default/item/24333656/7023b709-cf2a-4dbf-9204-760b13d9288a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.81,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "02df9fa522105565"
  },
  "location": "Kärna",
- "lon": 11.75426,
+ "lon": 11.75,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 303,
   "fetched_ts": 1790507587106,
@@ -90,7 +100,7 @@
   "Märke": "HR",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24333656",
  "width_cm": 0,
  "year": 2007

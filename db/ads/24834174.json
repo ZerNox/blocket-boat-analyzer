@@ -7,6 +7,8 @@
   "boat_year": 2015,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 6,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -35,8 +37,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sandström 460 Basic",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24834174/11f86719-a986-4f01-9a29-99a69f104765",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.79181,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24834174/11f86719-a986-4f01-9a29-99a69f104765",
+  "https://images.blocketcdn.se/dynamic/default/item/24834174/d4b7c341-1495-48d6-9fdc-8499e0e5de19",
+  "https://images.blocketcdn.se/dynamic/default/item/24834174/80050974-f1f9-4725-b423-b1047e64fb99",
+  "https://images.blocketcdn.se/dynamic/default/item/24834174/281cd90d-9ba8-483c-9fa4-17acd2aae1fe",
+  "https://images.blocketcdn.se/dynamic/default/item/24834174/1414db43-b5fd-46f6-a23f-d344d6f9a23a",
+  "https://images.blocketcdn.se/dynamic/default/item/24834174/64e4bdd6-f3e3-451d-81c3-2dba1d2d4f0c",
+  "https://images.blocketcdn.se/dynamic/default/item/24834174/62be17a8-2102-4cd5-9874-c696d9fa91fd",
+  "https://images.blocketcdn.se/dynamic/default/item/24834174/a6d8346f-a881-4914-b3eb-243330f5371d",
+  "https://images.blocketcdn.se/dynamic/default/item/24834174/da2d4a2d-d153-4582-908b-02753cea5f6b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.79,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +80,13 @@
   "text_sha": "92b7599adaddffb5"
  },
  "location": "Lerum",
- "lon": 12.27831,
+ "lon": 12.28,
  "make": "Sandström",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 6.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 609,
   "fetched_ts": 1790507623644,
@@ -98,7 +112,7 @@
   "Märke": "Sandström",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24834174",
  "width_cm": 0,
  "year": 2015

@@ -7,6 +7,8 @@
   "boat_year": 2018,
   "boat_year_source": "spec",
   "engine_hours": 84,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 460 Fishing",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25562923/8cdcb7ee-cdba-40cb-9527-dc6e28878e82",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.31044,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25562923/8cdcb7ee-cdba-40cb-9527-dc6e28878e82",
+  "https://images.blocketcdn.se/dynamic/default/item/25562923/c8c2f4db-793f-4c58-aa39-605c05c5e8a7",
+  "https://images.blocketcdn.se/dynamic/default/item/25562923/4739c78b-335e-443c-9b80-c889e562fa05",
+  "https://images.blocketcdn.se/dynamic/default/item/25562923/88a178d1-2440-4763-b09a-02d8b18d0f48",
+  "https://images.blocketcdn.se/dynamic/default/item/25562923/d63afd7a-afda-4fc8-894d-335ac8b7ff34",
+  "https://images.blocketcdn.se/dynamic/default/item/25562923/f9ab90b5-d86e-4b0d-abf5-9c447937f05c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.31,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +80,13 @@
   "text_sha": "122a824bc7b46b8a"
  },
  "location": "Karlskoga",
- "lon": 14.68386,
+ "lon": 14.68,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 103,
   "fetched_ts": 1790508000420,
@@ -99,7 +110,7 @@
   "Märke": "HR",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25562923",
  "width_cm": 0,
  "year": 2018

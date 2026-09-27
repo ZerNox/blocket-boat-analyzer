@@ -1,0 +1,112 @@
+{
+ "ad_id": 25414716,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785918487000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2009,
+  "boat_year_source": "spec",
+  "engine_hours": 190,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2013,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamarin 59 HT Modellår 2009 Motorn är (Suzuki 100 df) från 2013 med cirka 190 motortimmar.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "*Ny Garmin Echomap 72 plotter med sjökort Vänern och ekolod, installerad av fackman.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Medföljer: Akterkapell, hamnkapell, bord, dynsats, fendrar, förtöjning med mera.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "*Ny Garmin Echomap 72 plotter med sjökort Vänern och ekolod, installerad av fackman.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Rejäl 80 km/h-kärra 1500 kg (Brenderup från 2018 och nybesiktad) kan köpas till vettig peng vid smidig affär.",
+    "included": true,
+    "kmh": 80,
+    "year": 2018
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Yamarin 59 HT + Suzuki 100 HK (190 timmar) HÖSTPRIS",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Yamarin 59 HT + Suzuki 100 HK (190 timmar) HÖSTPRIS",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25414716/bfa6b43f-5c08-43c6-958d-27337e44453e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25414716/bfa6b43f-5c08-43c6-958d-27337e44453e",
+  "https://images.blocketcdn.se/dynamic/default/item/25414716/69f48255-9e74-4748-b68a-732730aa0221",
+  "https://images.blocketcdn.se/dynamic/default/item/25414716/b6dfd161-1063-4b47-b93d-8f6bfd59b0ee",
+  "https://images.blocketcdn.se/dynamic/default/item/25414716/fd67c85d-ae97-470f-8fb4-657da74c3509",
+  "https://images.blocketcdn.se/dynamic/default/item/25414716/1cd8fec4-d0e8-4143-8506-ebbf234ab882",
+  "https://images.blocketcdn.se/dynamic/default/item/25414716/d40f5fd5-5414-42c6-81e8-c64ab71da951",
+  "https://images.blocketcdn.se/dynamic/default/item/25414716/15cac233-2b4b-487b-978b-5059729d60fa",
+  "https://images.blocketcdn.se/dynamic/default/item/25414716/22b2b621-cc54-4bb1-8a59-19f9beb74fb4",
+  "https://images.blocketcdn.se/dynamic/default/item/25414716/7892e3eb-2b4f-4139-b856-2f324901f6f7"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.44,
+ "length_ft": 19,
+ "location": "Karlstad",
+ "lon": 13.73,
+ "make": "Yamarin",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1022,
+  "fetched_ts": 1790522988317,
+  "text_sha": "aee75a14f4a9fec3"
+ },
+ "price": 185000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 185000
+  }
+ ],
+ "specs": {
+  "Bredd": "226 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "59 HT",
+  "Modellår": "2009",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Sittplatser": "5",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt",
+  "Vikt": "720 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25414716",
+ "width_cm": 226,
+ "year": 2009
+}

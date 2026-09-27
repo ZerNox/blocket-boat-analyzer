@@ -1,0 +1,106 @@
+{
+ "ad_id": 25565868,
+ "boat_class": "Annat",
+ "changed_ts": 1786301974000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "sterndrive",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "Volvo Penta slutade med utombordare kring 1990",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Arbetspråm, brygga, bastuflotte",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25565868/f8b68e6f-b001-4796-bc7f-7f971039dfef",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25565868/f8b68e6f-b001-4796-bc7f-7f971039dfef",
+  "https://images.blocketcdn.se/dynamic/default/item/25565868/6c516450-6e90-4c14-85d1-43ba4d8bd583",
+  "https://images.blocketcdn.se/dynamic/default/item/25565868/d80e9a5a-37b2-4835-bad0-0f42d5922029",
+  "https://images.blocketcdn.se/dynamic/default/item/25565868/e01d5a79-ea59-4198-afe8-dbfa28b89522"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.81,
+ "length_ft": 30,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2020,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "sterndrive",
+   "engine_year": null,
+   "engine_year_evidence": "Motor kasset ( Volvo penta Md21a) med segelbåtsdrev.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "29b37f596a4a405d"
+ },
+ "location": "Sandöverken",
+ "lon": 18.06,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 289,
+  "fetched_ts": 1790520730567,
+  "text_sha": "29b37f596a4a405d"
+ },
+ "price": 100000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 100000
+  }
+ ],
+ "specs": {
+  "Bredd": "520 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Längd i fot": "30 fot",
+  "Modell": "Brygga arbetspråm husbåt bastuflotte",
+  "Modellår": "2020",
+  "Märke": "Övriga",
+  "Typ": "Annat",
+  "Vikt": "5 000 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25565868",
+ "width_cm": 520,
+ "year": 2020
+}

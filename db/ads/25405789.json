@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Selva",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25405789/f3575a72-9c4a-4d18-a6f6-6dddcf9b9883",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.78945,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25405789/f3575a72-9c4a-4d18-a6f6-6dddcf9b9883",
+  "https://images.blocketcdn.se/dynamic/default/item/25405789/f4fc71a2-157a-4ab4-a3c8-8e762a0cc6a9",
+  "https://images.blocketcdn.se/dynamic/default/item/25405789/db0afd10-7731-4ab6-bd7d-fadf95451ceb",
+  "https://images.blocketcdn.se/dynamic/default/item/25405789/11c52744-7614-4ab1-a85d-8e8f7341fdd6",
+  "https://images.blocketcdn.se/dynamic/default/item/25405789/3080019d-a364-42f2-887e-5e09216ccfbe",
+  "https://images.blocketcdn.se/dynamic/default/item/25405789/5fdd144b-2970-4700-9b19-885d36f4f195"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.79,
  "length_ft": 500,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +75,13 @@
   "text_sha": "9303aa703690544a"
  },
  "location": "Köpmannebro",
- "lon": 12.50822,
+ "lon": 12.51,
  "make": "Sea Master",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 93,
   "fetched_ts": 1790507842160,
@@ -96,7 +107,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25405789",
  "width_cm": 0,
  "year": 2006

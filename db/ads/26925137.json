@@ -1,0 +1,121 @@
+{
+ "ad_id": 26925137,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1790502487000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 55,
+  "engine_hp_source": "llm",
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "charmig fin kabinbåt. krävs renovering av insidan och lite grövre rvätt. kapellet är trasigt,men det finns kvar. motorn…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Står på en upptagningskärra. så man får avgöra själv om man vill köra med den eller byta om man har en egen trailer.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Kabinbåt\ncharmig fin kabinbåt. krävs renovering av insidan och lite grövre rvätt",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Kabinbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26925137/fcece4e4-9d69-4bc2-8fd4-7b5173a1853e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26925137/fcece4e4-9d69-4bc2-8fd4-7b5173a1853e",
+  "https://images.blocketcdn.se/dynamic/default/item/26925137/0726ee93-c4da-415f-8e17-7f60d632f80b",
+  "https://images.blocketcdn.se/dynamic/default/item/26925137/c73cfb7c-bbb2-463f-be17-a3076506b225",
+  "https://images.blocketcdn.se/dynamic/default/item/26925137/165b2635-1b86-4967-8f81-2377fb150485"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.52,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1970,
+   "engine_hours": null,
+   "engine_hp": 55,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b4b09988d62dc717"
+ },
+ "location": "Frövi",
+ "lon": 15.41,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 55.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 336,
+  "fetched_ts": 1790523238992,
+  "text_sha": "b4b09988d62dc717"
+ },
+ "price": 13000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 13000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modellår": "1970",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "55 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26925137",
+ "width_cm": 0,
+ "year": 1970
+}

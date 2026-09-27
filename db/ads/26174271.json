@@ -1,0 +1,161 @@
+{
+ "ad_id": 26174271,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788105791000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin echoMAP DV",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "BayStar hydraulisk styrning",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell i bra skick",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin echoMAP DV",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30-trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "struktionsbok till Wallas\nÖvernattning\nDet finns möjlighet att sova i fören. Den främre luckan är ombyggd",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Flipper 510",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26174271/eb42b638-71ae-40ff-9b15-126cda1cd9ed",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/eb42b638-71ae-40ff-9b15-126cda1cd9ed",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/23815297-7cf5-4998-898a-379db847897c",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/6a4cf597-1d0a-4269-8e06-e30bd45e6486",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/cd37bf57-f142-46a5-b8a4-ca210d4bb9b1",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/b843722c-5dd8-4552-8c54-87caa181a064",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/3a7d1c97-ea36-4491-ad8f-aa002b30d349",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/b3fdd254-e7a4-4a8b-8332-b9ae30785ff3",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/557c0772-c813-4202-8a23-cc7c3f64b7ad",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/d7a4a8b4-b1c6-4e06-b45f-bfd8c8a1eea4",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/ab218c87-6a64-49b8-af76-6cf4b0199f3d",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/7cb5b532-ee9f-4226-a809-4892606fc9f6",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/db586b3b-4e86-4a20-aadb-ed2273422f3f",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/72ff0f9d-afe7-4a3c-bc3a-f51ebf1ba803",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/84114644-f663-4b95-a2fe-cd23ed5acd50",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/786d7a57-bf05-4cd8-a84d-011e8924c854",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/e61345a2-8b63-412d-97a9-e3cf9b275a6e",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/309a32c6-6af2-4f47-a2ba-05c93d8cb4bc",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/ee4e11e4-c755-4f27-a7d0-561e254c80fc",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/89d1ea9a-3386-417f-8bef-a3aea5f80d1a",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/b6194f2d-c88d-468f-b231-233fcfe922aa",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/78d266df-a50e-4e49-80c8-f6457bfb5fa3",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/6faa46f0-bb67-4d0e-8dfa-9a5a4627b889",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/ca7a7138-286e-42b4-86bd-c09d39bf6b5f",
+  "https://images.blocketcdn.se/dynamic/default/item/26174271/38b3018e-5568-4ff3-b583-f217ded2660d"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.61,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Utombordare, Yamaha 50 hk",
+   "engine_year_rejected": 1978,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "25e974fa95ad9ce1"
+ },
+ "location": "Bergshamra",
+ "lon": 18.7,
+ "make": "Flipper",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1713,
+  "fetched_ts": 1790523131692,
+  "text_sha": "25e974fa95ad9ce1"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit/blå",
+  "Längd i fot": "17 fot",
+  "Modell": "510",
+  "Modellår": "1978",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26174271",
+ "width_cm": 200,
+ "year": 1978
+}

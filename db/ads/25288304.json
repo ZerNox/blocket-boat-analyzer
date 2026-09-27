@@ -7,6 +7,8 @@
   "boat_year": 2023,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Terhi 440 2023",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25288304/84168b30-c1ad-4d53-a512-77f34cff5be6",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.88628,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25288304/84168b30-c1ad-4d53-a512-77f34cff5be6",
+  "https://images.blocketcdn.se/dynamic/default/item/25288304/97ea97ca-c4b5-499c-89ab-77343edf9836",
+  "https://images.blocketcdn.se/dynamic/default/item/25288304/46932ee4-9b2e-4cec-a6eb-1089af995118",
+  "https://images.blocketcdn.se/dynamic/default/item/25288304/c8299ebf-9af1-416a-b890-a3f8671e35ff",
+  "https://images.blocketcdn.se/dynamic/default/item/25288304/8bed67a4-5888-482b-aced-df31baeb0b9a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.89,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +75,13 @@
   "text_sha": "0dd32fea8673d53f"
  },
  "location": "Hackås",
- "lon": 14.54874,
+ "lon": 14.55,
  "make": "Terhi",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 6.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 289,
   "fetched_ts": 1790507730189,
@@ -96,7 +106,7 @@
   "Märke": "Terhi",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25288304",
  "width_cm": 0,
  "year": 2023

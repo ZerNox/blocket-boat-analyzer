@@ -1,0 +1,112 @@
+{
+ "ad_id": 25993261,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787569092000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 4.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "a ett bud. Åror Ankare Tampar Suzuki DT4 ca år 2000 4hk kan köpas till om så önskas. 3995kr. Säljes i befintligt skick.",
+  "engine_type_source": "llm",
+  "engine_year": 2000,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Suzuki DT4 ca år 2000 4hk kan köpas till om så önskas.",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {},
+  "llm_reasons": [
+   "spec says no engine but text describes one"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "RYDS",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25993261/248ceb0f-974e-4975-bf15-a7d21414246f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25993261/248ceb0f-974e-4975-bf15-a7d21414246f",
+  "https://images.blocketcdn.se/dynamic/default/item/25993261/605add0a-db87-42b6-b147-3c641f75f196",
+  "https://images.blocketcdn.se/dynamic/default/item/25993261/bd88cee2-e7c1-4b71-b49d-28b71da6a1e1",
+  "https://images.blocketcdn.se/dynamic/default/item/25993261/b4fc65f2-ef4d-41fd-833d-32f6f78638c9",
+  "https://images.blocketcdn.se/dynamic/default/item/25993261/cb750077-70e8-446e-af51-4bc6e84c8444",
+  "https://images.blocketcdn.se/dynamic/default/item/25993261/e9f4ccfe-52b9-4fff-87aa-7b0ddc92fb82",
+  "https://images.blocketcdn.se/dynamic/default/item/25993261/e3b56bf5-d592-416d-86c9-d9fcb14a4904",
+  "https://images.blocketcdn.se/dynamic/default/item/25993261/c17f95d5-8071-4d5b-87ac-26a1644ca129",
+  "https://images.blocketcdn.se/dynamic/default/item/25993261/940a5bc4-b237-4642-b394-8c4691fe5013"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.92,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1975,
+   "engine_hours": null,
+   "engine_hp": 4,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": 2000,
+   "engine_year_evidence": "Suzuki DT4 ca år 2000 4hk kan köpas till om så önskas.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9eabe37081b72568"
+ },
+ "location": "Nynäshamn",
+ "lon": 17.96,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 227,
+  "fetched_ts": 1790520870403,
+  "text_sha": "9eabe37081b72568"
+ },
+ "price": 4550,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4550
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "13 fot",
+  "Modell": "380 Den perfekta båten.",
+  "Modellår": "1975",
+  "Motor inkluderad": "Nej",
+  "Märke": "Ryds",
+  "Sittplatser": "3",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "80 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25993261",
+ "width_cm": 150,
+ "year": 1975
+}

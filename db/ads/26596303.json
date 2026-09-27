@@ -1,0 +1,93 @@
+{
+ "ad_id": 26596303,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1789410609000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1991,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Johnson 60 hk årsmod 1991 i bra skick med powertrim o tilt!",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell i mycket bra skick dynor i mycket bra skick!",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ingen trailer",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Nordkapp 17ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Nordkapp 17ht",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26596303/cac18937-9c83-4ff9-b8a0-f64b573ed370",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26596303/cac18937-9c83-4ff9-b8a0-f64b573ed370",
+  "https://images.blocketcdn.se/dynamic/default/item/26596303/3316c3d3-fede-4b11-a693-a58da685f3ec",
+  "https://images.blocketcdn.se/dynamic/default/item/26596303/47abe56c-4cb3-48a0-8564-658638e44d52",
+  "https://images.blocketcdn.se/dynamic/default/item/26596303/4c219c16-1b86-49ac-9139-212be37c4f1e",
+  "https://images.blocketcdn.se/dynamic/default/item/26596303/18d0dbb8-d456-4d35-a441-1937b37aae8a"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.6,
+ "length_ft": 17,
+ "location": "Västerås",
+ "lon": 16.61,
+ "make": "Nordkapp",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 175,
+  "fetched_ts": 1790523190542,
+  "text_sha": "59f7eb287349b26f"
+ },
+ "price": 29000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 29000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Nordkapp",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26596303",
+ "width_cm": 0,
+ "year": 1980
+}

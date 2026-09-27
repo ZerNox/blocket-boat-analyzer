@@ -7,6 +7,8 @@
   "boat_year": 1997,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Cresent 465 Yamaha 30hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25850354/1d0243d7-d0c1-41d2-99c1-d9b1e4d04c62",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.34589,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25850354/1d0243d7-d0c1-41d2-99c1-d9b1e4d04c62",
+  "https://images.blocketcdn.se/dynamic/default/item/25850354/83a71ce3-ad59-4b8e-976d-060faadaefda",
+  "https://images.blocketcdn.se/dynamic/default/item/25850354/22d559d8-797d-4af4-b91b-4352f12f0e72",
+  "https://images.blocketcdn.se/dynamic/default/item/25850354/c82b15eb-4c70-4b1a-8bef-b3593f88c4e6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.35,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "bdea556d80a4e0a9"
  },
  "location": "Uddevalla",
- "lon": 11.92755,
+ "lon": 11.93,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 327,
   "fetched_ts": 1790508249080,
@@ -99,7 +108,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25850354",
  "width_cm": 182,
  "year": 1997

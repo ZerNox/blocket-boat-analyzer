@@ -7,6 +7,8 @@
   "boat_year": 2018,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Honwave 4,0 m, Suzuki 15 hk fyrtakt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25369758/4b25cf0b-e9fd-479e-b0db-0da236e12583",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.89624,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25369758/4b25cf0b-e9fd-479e-b0db-0da236e12583",
+  "https://images.blocketcdn.se/dynamic/default/item/25369758/4af3676b-3f68-431e-809a-528d467df49b",
+  "https://images.blocketcdn.se/dynamic/default/item/25369758/271a2d76-3a41-4193-8fe2-e6b010c3d196",
+  "https://images.blocketcdn.se/dynamic/default/item/25369758/2408cc1a-b580-4493-9e7d-7d204d4d987a",
+  "https://images.blocketcdn.se/dynamic/default/item/25369758/58dcd4d8-24ef-4375-9570-7e038c3e5b45",
+  "https://images.blocketcdn.se/dynamic/default/item/25369758/689f4bc3-23b5-4c99-89ed-893a5d31a27b",
+  "https://images.blocketcdn.se/dynamic/default/item/25369758/b226061a-5766-4592-8340-ecf5e31f983f",
+  "https://images.blocketcdn.se/dynamic/default/item/25369758/d162c982-3df1-4c20-8aac-4f963bc159ee"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.9,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +79,13 @@
   "text_sha": "cdb979720d9db073"
  },
  "location": "Växjö",
- "lon": 14.80569,
+ "lon": 14.81,
  "make": "Honda",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 514,
   "fetched_ts": 1790507806705,
@@ -101,7 +114,7 @@
   "Skrovmaterial": "Annat",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25369758",
  "width_cm": 0,
  "year": 2018

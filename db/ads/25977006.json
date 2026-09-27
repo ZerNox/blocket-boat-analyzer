@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 5.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -27,16 +29,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Jifa Toppen",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25977006/e54c19a3-bae3-40d0-8c83-7573ed6e3cb2",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.93964,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25977006/e54c19a3-bae3-40d0-8c83-7573ed6e3cb2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.94,
  "length_ft": 14,
  "location": "Glumslöv",
- "lon": 12.785,
+ "lon": 12.79,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 5.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 257,
   "fetched_ts": 1790508345379,
@@ -66,7 +72,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "160 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25977006",
  "width_cm": 175,
  "year": 1975

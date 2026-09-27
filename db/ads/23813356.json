@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -47,8 +49,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Terhi-fiskebåt med kastdäck",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23813356/a25fb552-19be-4c4a-855a-c0b838a09020",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.55232,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23813356/a25fb552-19be-4c4a-855a-c0b838a09020",
+  "https://images.blocketcdn.se/dynamic/default/item/23813356/86c65a48-fc14-4180-b2bd-90ad956dc85b",
+  "https://images.blocketcdn.se/dynamic/default/item/23813356/0f1cc535-0323-45a3-8bb2-16527456d7cf",
+  "https://images.blocketcdn.se/dynamic/default/item/23813356/1d1b62ec-518e-4163-8700-0f2692a48ff8",
+  "https://images.blocketcdn.se/dynamic/default/item/23813356/534f49e1-1120-4461-9fdb-f31463863284",
+  "https://images.blocketcdn.se/dynamic/default/item/23813356/defa6bd7-9328-46f1-8a0a-6918d57e4fb7",
+  "https://images.blocketcdn.se/dynamic/default/item/23813356/1a25f655-2b40-4751-8560-62f36b0107ee"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.55,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -79,12 +90,13 @@
   "text_sha": "120850e0ddd5c8c5"
  },
  "location": "Enköping",
- "lon": 16.99729,
+ "lon": 17.0,
  "make": "Terhi",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 497,
   "fetched_ts": 1790507541776,
@@ -110,7 +122,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23813356",
  "width_cm": 0,
  "year": 1990

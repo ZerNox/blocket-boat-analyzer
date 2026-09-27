@@ -1,0 +1,119 @@
+{
+ "ad_id": 26383908,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788729529000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": "er Max motoreffekt 11 kW / ca 15 hk enligt typbrickan Ingen motor ingår Laxåtrailer ingår Två stängda stuvfack med lucko",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Ryds 435 med Laxåtrailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds 435 med Laxåtrailer – fin och praktisk småbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26383908/4013dc3b-5885-4ec2-ae1f-75690afc8203",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26383908/4013dc3b-5885-4ec2-ae1f-75690afc8203",
+  "https://images.blocketcdn.se/dynamic/default/item/26383908/7ae84c35-c551-419f-b332-e486d2369b59",
+  "https://images.blocketcdn.se/dynamic/default/item/26383908/a9e8768d-a8a5-4cfb-8544-cc5c151ce968",
+  "https://images.blocketcdn.se/dynamic/default/item/26383908/afd7b4aa-6cac-44a6-8333-a17c5b77082c",
+  "https://images.blocketcdn.se/dynamic/default/item/26383908/8771c25c-c418-4351-a584-272381016ab7",
+  "https://images.blocketcdn.se/dynamic/default/item/26383908/b20fa3ac-fbc3-4981-a930-2e4d87240544",
+  "https://images.blocketcdn.se/dynamic/default/item/26383908/39f357da-6a70-4b42-8ae7-36f331967ce3",
+  "https://images.blocketcdn.se/dynamic/default/item/26383908/a40b8038-3928-4595-947b-772a085f5843",
+  "https://images.blocketcdn.se/dynamic/default/item/26383908/cdcf88dd-b729-4095-af6e-230add35df8a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.58,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1995,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": "Ingen motor ingår",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "30cec22739e15f42"
+ },
+ "location": "Moholm",
+ "lon": 14.2,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 940,
+  "fetched_ts": 1790520956201,
+  "text_sha": "30cec22739e15f42"
+ },
+ "price": 17500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 17500
+  }
+ ],
+ "specs": {
+  "Bredd": "186 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "435",
+  "Modellår": "1995",
+  "Motor inkluderad": "Nej",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "210 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26383908",
+ "width_cm": 186,
+ "year": 1995
+}

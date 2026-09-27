@@ -1,0 +1,73 @@
+{
+ "ad_id": 26451389,
+ "boat_class": "Annat",
+ "changed_ts": 1788962038000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1993,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1993,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Mindre träbåt slumpas bort pga flytt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26451389/707ffc69-7f30-4f84-9ee2-0f814c77eb45",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26451389/707ffc69-7f30-4f84-9ee2-0f814c77eb45",
+  "https://images.blocketcdn.se/dynamic/default/item/26451389/29369c57-3405-4081-be1f-0fe3a68aa001"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 61.33,
+ "length_ft": 14,
+ "location": "Bollnäs",
+ "lon": 16.23,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 118,
+  "fetched_ts": 1790520977090,
+  "text_sha": "f780f73447a2936a"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "Mindre träbåt, byggd i furu",
+  "Modellår": "1993",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Trä",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26451389",
+ "width_cm": 0,
+ "year": 1993
+}

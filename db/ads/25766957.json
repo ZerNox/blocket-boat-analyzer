@@ -1,0 +1,111 @@
+{
+ "ad_id": 25766957,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1787496997000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1968,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 20,
+  "engine_hp_source": "llm",
+  "engine_maker": "Volvo Penta B20",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1968,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Fjordling 17ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Fjordling 17ht",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25766957/cf3e9e97-77a3-4ffb-9d05-5eb36f28ac56",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25766957/cf3e9e97-77a3-4ffb-9d05-5eb36f28ac56",
+  "https://images.blocketcdn.se/dynamic/default/item/25766957/67264f46-9f3c-4152-bbe0-b166ff1061a3",
+  "https://images.blocketcdn.se/dynamic/default/item/25766957/2c9921d4-02d4-4a89-ac35-a80bec61dbf6",
+  "https://images.blocketcdn.se/dynamic/default/item/25766957/363e1ca7-75e4-4bb0-bade-d2d72eefe99d"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.46,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1968,
+   "engine_hours": null,
+   "engine_hp": 20,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Inombordare Motorn är nyrenoverad enligt tidigare ägare och är ny servad med olja och filter.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8da8d4b60a4422cf"
+ },
+ "location": "Åkersberga",
+ "lon": 18.33,
+ "make": "Fjordling",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 219,
+  "fetched_ts": 1790523059402,
+  "text_sha": "8da8d4b60a4422cf"
+ },
+ "price": 120000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 120000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "17HT",
+  "Modellår": "1968",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo Penta B20",
+  "Motortyp": "Inombordare",
+  "Märke": "Fjordling",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25766957",
+ "width_cm": 0,
+ "year": 1968
+}

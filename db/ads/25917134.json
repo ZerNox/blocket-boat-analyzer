@@ -7,6 +7,8 @@
   "boat_year": 2022,
   "boat_year_source": "spec",
   "engine_hours": 10,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Micore 550CC 2022 Honda 60HK  inkl båtkärra Endast 10 gångtimmar!",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25917134/6b966091-cb9b-47ef-bb77-d69c43c2659b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.71221,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25917134/6b966091-cb9b-47ef-bb77-d69c43c2659b",
+  "https://images.blocketcdn.se/dynamic/default/item/25917134/f6e33a33-21f5-4911-ac83-f399f824be67",
+  "https://images.blocketcdn.se/dynamic/default/item/25917134/517afbb1-250f-4cf8-98dd-65b8d48ffce7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.71,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +78,13 @@
   "text_sha": "759364b0cad88952"
  },
  "location": "Göteborg",
- "lon": 12.01003,
+ "lon": 12.01,
  "make": "Micore",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 275,
   "fetched_ts": 1790508298964,
@@ -105,7 +113,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "500 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25917134",
  "width_cm": 210,
  "year": 2022

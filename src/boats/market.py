@@ -31,6 +31,8 @@ _MODEL_NUM = re.compile(r"^([a-zåäö]{0,3})-?(\d{1,4})([a-zåäö]{0,4})$")
 _GENERIC = {"båt", "båten", "fiskebåt", "styrpulpet", "styrpulpetbåt", "snipa", "eka", "roddbåt", "motorbåt", "hyttbåt",
             "daycruiser", "säljes", "fin", "fint", "ny", "nyservad", "höstpris", "hösterbjudande", "prissänkt", "sport",
             "fishing", "classic", "de", "en", "ett", "min", "vår", "the"}
+# Words naming a model line rather than the boat in general: they make a variant.
+_QUALIFIERS = {"classic", "basic", "sport", "fishing", "cabin", "open", "cruiser", "fisher", "family"}
 # Named models without a number ("Buster L", "Jofa Kuling"), learned from ads' Modell field: make -> names
 NAMED_MODELS: dict[str, set[str]] = {}
 
@@ -62,7 +64,11 @@ def model_keys(make: str | None, model: str | None, heading: str | None) -> tupl
             return None, None
         text = text.split(mk, 1)[1]  # the model follows the make in the heading
     toks = [t for t in _tokens(text) if t not in (mk, mk + "s")]
+    qualifier = None  # "Sandström Classic 560" is a different boat from "Sandström 560 MC"
     for i, tok in enumerate(toks[:5]):
+        if tok in _QUALIFIERS:
+            qualifier = qualifier or tok
+            continue
         nxt = toks[i + 1] if i + 1 < len(toks) else ""
         if tok in NAMED_MODELS.get(mk, ()):
             num = _MODEL_NUM.match(nxt)
@@ -77,6 +83,9 @@ def model_keys(make: str | None, model: str | None, heading: str | None) -> tupl
             family = f"{mk} {prefix}{num}"
             if not suffix and re.fullmatch(r"[a-zåäö]{1,4}", nxt) and not _STOP.match(nxt) and nxt not in _GENERIC:
                 suffix = nxt
+            if not suffix and nxt in _QUALIFIERS:
+                suffix = nxt  # "Sandström 565 Classic"
+            suffix = suffix or qualifier
             return family, f"{family} {suffix}" if suffix else None
         if model and i == 0 and tok not in _GENERIC and not re.search(r"\d", tok):
             family = f"{mk} {tok}"
@@ -94,6 +103,8 @@ def _row(d: dict) -> dict:
         if v is not None:
             row[f] = v
     row["family"], row["variant"] = model_keys(d.get("make"), None, d.get("heading"))
+    if row.get("heading"):
+        row["heading"] = store.scrub(row["heading"], 200)  # sellers put phone numbers in headings too
     return row
 
 

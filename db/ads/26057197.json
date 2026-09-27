@@ -1,0 +1,126 @@
+{
+ "ad_id": 26057197,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787760393000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "electric",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Medföljer nästan ny elmotor och batteri och batteriladdare, nya åror, ankare utan rep.",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Medföljer nästan ny elmotor och batteri och batteriladdare, nya åror, ankare utan rep.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "En äldre (okänd ålder) fritidsbåt 370 lång 170 bred, säljs med 30 kärra i Ok skick",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Fritidsbåt/fiskebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26057197/d1839eea-1451-4891-b0af-056b6715bfef",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26057197/d1839eea-1451-4891-b0af-056b6715bfef",
+  "https://images.blocketcdn.se/dynamic/default/item/26057197/959aba63-3c9a-4883-abf2-229de61d1ecc",
+  "https://images.blocketcdn.se/dynamic/default/item/26057197/f5cc862b-3efe-4164-8a42-74252699a63b",
+  "https://images.blocketcdn.se/dynamic/default/item/26057197/a6042cab-114c-4339-a995-c06ef45af502",
+  "https://images.blocketcdn.se/dynamic/default/item/26057197/575c94df-f592-4edb-8ccc-687a98d9bb26",
+  "https://images.blocketcdn.se/dynamic/default/item/26057197/11d860e1-92d6-4f7c-8056-d955985f872d",
+  "https://images.blocketcdn.se/dynamic/default/item/26057197/bce53f64-4cf8-4efe-b256-9c52a714c3b6",
+  "https://images.blocketcdn.se/dynamic/default/item/26057197/ab9acb3f-ba3c-43b1-a9c9-6bf05d0dbd43",
+  "https://images.blocketcdn.se/dynamic/default/item/26057197/b864a453-b9a0-4989-93e3-ee8a4be16500",
+  "https://images.blocketcdn.se/dynamic/default/item/26057197/6aa02247-3086-45c9-956d-b153a2b326e8",
+  "https://images.blocketcdn.se/dynamic/default/item/26057197/b45a70fc-ab4f-46dc-a88b-c677bd84c7f5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.97,
+ "length_ft": 370,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "not_mentioned",
+   "engine_type": "electric",
+   "engine_year": null,
+   "engine_year_evidence": "Medföljer nästan ny elmotor och batteri och batteriladdare, nya åror, ankare utan rep.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b11bad6dc795d883"
+ },
+ "location": "Skepplanda",
+ "lon": 12.26,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 347,
+  "fetched_ts": 1790520883609,
+  "text_sha": "b11bad6dc795d883"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "370 fot",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26057197",
+ "width_cm": 170,
+ "year": 2000
+}

@@ -1,0 +1,123 @@
+{
+ "ad_id": 25692060,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786698482000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury F75 FLPT -00",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": 2000,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Mercury F75 FLPT -00",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "plotter": {
+    "evidence": "GPS Garmin 620",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båttrailer Neptun N7-17",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "engine type unknown"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Silver Hawk 540 -01 Mercury F75 -00",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25692060/4153d154-ff6c-48ba-98c2-95902d7c29e6",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25692060/4153d154-ff6c-48ba-98c2-95902d7c29e6",
+  "https://images.blocketcdn.se/dynamic/default/item/25692060/2a57608b-48ae-4f4e-9bcb-38e185167a7e",
+  "https://images.blocketcdn.se/dynamic/default/item/25692060/e1631238-254e-4961-bc5a-07713030cf22",
+  "https://images.blocketcdn.se/dynamic/default/item/25692060/1f2221d5-24d3-405d-ac19-33ab0267eeca",
+  "https://images.blocketcdn.se/dynamic/default/item/25692060/91c07b8f-bd9d-4940-a51e-938ff594627f",
+  "https://images.blocketcdn.se/dynamic/default/item/25692060/f93a0b9d-2176-4611-b866-5fd2837dbeee",
+  "https://images.blocketcdn.se/dynamic/default/item/25692060/e6644e2c-c79b-4e8c-a2bb-7791a7e1709b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.57,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2001,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortillverkare: Mercury F75 FLPT -00",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "38cb1d693953e875"
+ },
+ "location": "Billdal",
+ "lon": 11.9,
+ "make": "Silver",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 163,
+  "fetched_ts": 1790523040814,
+  "text_sha": "38cb1d693953e875"
+ },
+ "price": 95000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 95000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Röd",
+  "Längd i fot": "18 fot",
+  "Modell": "Hawk",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercury F75 FLPT -00",
+  "Märke": "Silver",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25692060",
+ "width_cm": 0,
+ "year": 2001
+}

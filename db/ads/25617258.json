@@ -1,0 +1,135 @@
+{
+ "ad_id": 25617258,
+ "boat_class": "Annat",
+ "changed_ts": 1790502328000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 171,
+  "engine_hp_source": "llm",
+  "engine_maker": "Volvo Penta AQ171 med AQ290 drev",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1976,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "- Kartplotter Raymarine Element 7S GPS med ekolod",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "- Hydraulstyrning från Navinordic och teakratt",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "- Volvo Penta instrumentpanel och GPS knopmätare",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Manualer medföljer på motor, drev, VHS Radio, Mente trimsystem osv.",
+    "included": true
+   },
+   "vhf": {
+    "evidence": "- VHF Radio Cobra MR-77 GPS",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Flipper 700 - Volvo Penta AQ171 med AQ290 drev - Allt ingår. Höstpris!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25617258/81f76161-97cd-4fb7-8de8-e6d3b4ef0a61",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25617258/81f76161-97cd-4fb7-8de8-e6d3b4ef0a61",
+  "https://images.blocketcdn.se/dynamic/default/item/25617258/6170d405-9f48-4314-ad7b-c2d8120bb631",
+  "https://images.blocketcdn.se/dynamic/default/item/25617258/bdcf14ad-a973-4430-9568-38489f480aa0",
+  "https://images.blocketcdn.se/dynamic/default/item/25617258/c55f6943-4c14-440c-92be-b7d079718009",
+  "https://images.blocketcdn.se/dynamic/default/item/25617258/4d3da76f-c3ba-4818-826e-377885a6efeb",
+  "https://images.blocketcdn.se/dynamic/default/item/25617258/8fd51211-c2d9-46cc-8d6f-711cc9fef43d",
+  "https://images.blocketcdn.se/dynamic/default/item/25617258/47021312-ce4b-4db3-99cb-6255a4841d44",
+  "https://images.blocketcdn.se/dynamic/default/item/25617258/3dad2eba-2139-4353-bea5-606a487d34bd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.37,
+ "length_ft": 23,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1976,
+   "engine_hours": null,
+   "engine_hp": 171,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "included",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3b5da2467c7fede3"
+ },
+ "location": "Vällingby",
+ "lon": 17.87,
+ "make": "Flipper",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1008,
+  "fetched_ts": 1790520741525,
+  "text_sha": "3b5da2467c7fede3"
+ },
+ "price": 89000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 89000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå/vit",
+  "Längd i fot": "23 fot",
+  "Modell": "Flipper 700 med Volvo Penta AQ171 med AQ290 drev.",
+  "Modellår": "1976",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo Penta AQ171 med AQ290 drev",
+  "Motortyp": "Inombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "8",
+  "Sovplatser": "4",
+  "Toppfart": "25 knop",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25617258",
+ "width_cm": 0,
+ "year": 1976
+}

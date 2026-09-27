@@ -1,0 +1,78 @@
+{
+ "ad_id": 26695577,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789754892000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Bosjö25",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26695577/e6bd5247-1e7f-4b28-bd55-7b981f31fa54",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26695577/e6bd5247-1e7f-4b28-bd55-7b981f31fa54"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.19,
+ "length_ft": 24,
+ "location": "Tumba",
+ "lon": 17.83,
+ "make": "Båtsmann",
+ "max_speed": 15,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790521036697,
+  "text_sha": "bc5b28cf64c4d4fe"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "275 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "24 fot",
+  "Modell": "Bosjö25",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motortyp": "Inombordare",
+  "Märke": "Båtsmann",
+  "Sovplatser": "4",
+  "Toppfart": "15 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26695577",
+ "width_cm": 275,
+ "year": 1975
+}

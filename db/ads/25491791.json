@@ -7,6 +7,8 @@
   "boat_year": 2017,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -27,6 +29,10 @@
     "included": true
    }
   },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space visible, open cockpit with console and steering wheel.",
+  "hull_source": "bild",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -34,13 +40,26 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Sandström 565"
+ ],
  "heading": "Sandström 565 Classic 2017 med Mercury 60 2022",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25491791/dbadfaa2-df77-4f0c-b1f2-17e5b9c44456",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.835,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25491791/dbadfaa2-df77-4f0c-b1f2-17e5b9c44456",
+  "https://images.blocketcdn.se/dynamic/default/item/25491791/6d14b04a-d82d-43e9-bdba-b72b52cfd753",
+  "https://images.blocketcdn.se/dynamic/default/item/25491791/5a437810-c431-43eb-8fb8-75fb9d3a2e5e",
+  "https://images.blocketcdn.se/dynamic/default/item/25491791/1876690d-385a-4ad1-87b2-a2784a720395",
+  "https://images.blocketcdn.se/dynamic/default/item/25491791/c568f341-2a75-4497-8821-c62074792feb",
+  "https://images.blocketcdn.se/dynamic/default/item/25491791/f3d2e965-51e9-4e87-9404-174beed5869e",
+  "https://images.blocketcdn.se/dynamic/default/item/25491791/5a483456-e8ff-451e-9d23-e057ce2ea65f",
+  "https://images.blocketcdn.se/dynamic/default/item/25491791/bd1941a1-a056-4363-bfe1-d748178eea72"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.84,
  "length_ft": 18,
  "location": "Nynäshamn",
- "lon": 17.82466,
+ "lon": 17.82,
  "make": "Sandström",
  "max_speed": 30,
  "motor_fuel": "Bensin",
@@ -78,6 +97,19 @@
  },
  "status": "active",
  "url": "https://www.blocket.se/mobility/item/25491791",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "edb516ed86fd024f",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed space visible, open cockpit with console and steering wheel.",
+   "hull_photo": 6
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 205,
  "year": 2017
 }

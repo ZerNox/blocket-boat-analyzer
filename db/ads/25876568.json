@@ -1,0 +1,118 @@
+{
+ "ad_id": 25876568,
+ "boat_class": "Annat",
+ "changed_ts": 1787230138000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1979,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod/plotter Humminbird Helix 5 DI-GPS",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ekolod/plotter Humminbird Helix 5 DI-GPS",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds Tumlare HT Honda 50hk 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25876568/71141f51-3393-403e-b6b1-edeb2a0ab10e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25876568/71141f51-3393-403e-b6b1-edeb2a0ab10e",
+  "https://images.blocketcdn.se/dynamic/default/item/25876568/507fe942-4a14-42d1-a15a-5ecac0d8e3c4",
+  "https://images.blocketcdn.se/dynamic/default/item/25876568/ddfe9c23-c748-4675-873b-83f808a7ec28",
+  "https://images.blocketcdn.se/dynamic/default/item/25876568/e7f96eaf-9c17-4cd3-a9a0-42f054b80083"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.92,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1979,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Hondamotor från 2007",
+   "engine_year_rejected": 2007,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c26116552edb750d"
+ },
+ "location": "Gunnarskog",
+ "lon": 12.59,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 521,
+  "fetched_ts": 1790520851544,
+  "text_sha": "c26116552edb750d"
+ },
+ "price": 36000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 36000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modell": "Tumlare HT",
+  "Modellår": "1979",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25876568",
+ "width_cm": 0,
+ "year": 1979
+}

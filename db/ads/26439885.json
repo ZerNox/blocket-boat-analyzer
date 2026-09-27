@@ -1,0 +1,87 @@
+{
+ "ad_id": 26439885,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788931371000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1965,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1965,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Ragett 1965 klassiker med kärra",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ragett 1965 klassiker med kärra",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26439885/8b35edc9-41e5-4c7d-a396-704c644f1783",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26439885/8b35edc9-41e5-4c7d-a396-704c644f1783",
+  "https://images.blocketcdn.se/dynamic/default/item/26439885/6250ad14-920e-4716-b6df-01eb899a9033",
+  "https://images.blocketcdn.se/dynamic/default/item/26439885/40c4b87d-1ac1-4004-9c2f-8de943fe7e3e",
+  "https://images.blocketcdn.se/dynamic/default/item/26439885/5ef6fd38-528c-47e2-b387-95031c6bef8a",
+  "https://images.blocketcdn.se/dynamic/default/item/26439885/8c68708d-3eaa-41be-8606-a795fdc6b0f0",
+  "https://images.blocketcdn.se/dynamic/default/item/26439885/9386c790-30d3-4d2f-9ae4-1b9df385402a",
+  "https://images.blocketcdn.se/dynamic/default/item/26439885/f4bb0e18-2b1b-4c3f-9f3e-1a9228a2ac94"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.75,
+ "length_ft": 15,
+ "location": "Norrtälje",
+ "lon": 18.68,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790520970228,
+  "text_sha": "6baaa71873de14aa"
+ },
+ "price": 6500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 6500
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "25 cm",
+  "Längd i fot": "15 fot",
+  "Modell": "Veteranbåt Ragett",
+  "Modellår": "1965",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Trä",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "200 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26439885",
+ "width_cm": 170,
+ "year": 1965
+}

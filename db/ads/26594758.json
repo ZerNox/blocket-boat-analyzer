@@ -1,0 +1,85 @@
+{
+ "ad_id": 26594758,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1789407613000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1998,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor är från 1998, 2 takt med få gångtimmar.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 510 HT -75",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Örnvik 510 HT -75",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26594758/328c47fd-8af6-4aab-a2ae-e1a23b14260b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26594758/328c47fd-8af6-4aab-a2ae-e1a23b14260b",
+  "https://images.blocketcdn.se/dynamic/default/item/26594758/8498f798-7a76-4084-9f70-08a66a894570",
+  "https://images.blocketcdn.se/dynamic/default/item/26594758/98bd5bc2-cdbc-4a0e-a8be-9869bde84ee0",
+  "https://images.blocketcdn.se/dynamic/default/item/26594758/23bd697a-ff0d-4f8c-9898-236c2292d797"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.51,
+ "length_ft": 17,
+ "location": "Särö",
+ "lon": 11.96,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 45,
+  "fetched_ts": 1790523189311,
+  "text_sha": "b7389a3c5876dfa4"
+ },
+ "price": 18000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 18000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "510 HT",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26594758",
+ "width_cm": 200,
+ "year": 1975
+}

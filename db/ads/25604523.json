@@ -1,0 +1,115 @@
+{
+ "ad_id": 25604523,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786432776000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Säljer min båt med 30 kärra.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Lohi 420",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25604523/04f1a34a-818e-4a41-becb-b9e0048722c1",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25604523/04f1a34a-818e-4a41-becb-b9e0048722c1",
+  "https://images.blocketcdn.se/dynamic/default/item/25604523/f250cb2a-b275-4080-a7eb-f2967557ee96",
+  "https://images.blocketcdn.se/dynamic/default/item/25604523/a17a0385-c438-4a5c-8ef6-0a969a10ab3e",
+  "https://images.blocketcdn.se/dynamic/default/item/25604523/930cd038-3eb1-4151-950b-cffc0fcaaf52",
+  "https://images.blocketcdn.se/dynamic/default/item/25604523/0bb7c4c9-aacd-4876-81b2-1d07e809a79c",
+  "https://images.blocketcdn.se/dynamic/default/item/25604523/98894320-f2c7-45d9-88c3-8b92b737c3f1",
+  "https://images.blocketcdn.se/dynamic/default/item/25604523/23619f01-1b5c-4e64-95f8-c0ce19ae07b6",
+  "https://images.blocketcdn.se/dynamic/default/item/25604523/e08e7ad9-9c8e-4bc5-9382-4b5b2cc2cad1",
+  "https://images.blocketcdn.se/dynamic/default/item/25604523/67e5db6a-fd76-4836-a9e4-ecbc1a7850d4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.44,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Annat",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Har körts med en 40hk 2 takt.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f9fdf249581efc75"
+ },
+ "location": "Vetlanda",
+ "lon": 15.06,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 186,
+  "fetched_ts": 1790520740302,
+  "text_sha": "f9fdf249581efc75"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modellår": "1990",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Annat",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25604523",
+ "width_cm": 0,
+ "year": 1990
+}

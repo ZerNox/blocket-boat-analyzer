@@ -1,0 +1,100 @@
+{
+ "ad_id": 19906215,
+ "boat_class": "Annat",
+ "changed_ts": 1786951325000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "BÅT KÖPES !! Renoveringsobjekt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/19906215/a366d66e-68cc-429a-9c6c-afbb9956cb16",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/19906215/a366d66e-68cc-429a-9c6c-afbb9956cb16"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.99,
+ "length_ft": null,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1900,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Övriga",
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "febe679ba901cd0e"
+ },
+ "location": "Jörlanda",
+ "lon": 11.83,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 187,
+  "fetched_ts": 1790520581167,
+  "text_sha": "febe679ba901cd0e"
+ },
+ "price": 0,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 0
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Modellår": "1900",
+  "Märke": "Övriga",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/19906215",
+ "width_cm": 0,
+ "year": 1900
+}

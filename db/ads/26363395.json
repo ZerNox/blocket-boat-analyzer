@@ -7,6 +7,8 @@
   "boat_year": 1996,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Lami 425rx 20hk 4-takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26363395/2f082aae-3563-4be7-9e28-b7ab091771ba",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.23793,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26363395/2f082aae-3563-4be7-9e28-b7ab091771ba",
+  "https://images.blocketcdn.se/dynamic/default/item/26363395/b375ad37-ab90-4ba1-a571-4a596c994d94",
+  "https://images.blocketcdn.se/dynamic/default/item/26363395/008204a0-6bcd-4377-bbc4-9e2a0014e934"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.24,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "380016ec9de61caa"
  },
  "location": "Jämshög",
- "lon": 14.52296,
+ "lon": 14.52,
  "make": "Lami",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508628558,
@@ -90,7 +98,7 @@
   "Märke": "Lami",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26363395",
  "width_cm": 0,
  "year": 1996

@@ -1,0 +1,89 @@
+{
+ "ad_id": 24912447,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789581038000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1979,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Hej säljer en crecent båt med en 40 hästare på och årsmodell på motorn är 1979 och det som är fel på motorn är att det är kapel haveri på den så den startar inte och det följer me…",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Hej säljer en crecent båt med en 40 hästare på och årsmodell på motorn är 1979 och det som är fel på motorn är att det …",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "defect"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Crecent båt 418",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24912447/643f7702-0b4c-495a-90f4-bac150e57ee3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24912447/643f7702-0b4c-495a-90f4-bac150e57ee3",
+  "https://images.blocketcdn.se/dynamic/default/item/24912447/862cc938-1d3c-42ce-a658-8b6cb6f6dfda",
+  "https://images.blocketcdn.se/dynamic/default/item/24912447/5ed7e41e-6551-4929-99ef-e74336698a69"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.71,
+ "length_ft": 446,
+ "location": "Arvika",
+ "lon": 12.63,
+ "make": "Crescent",
+ "max_speed": 65,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 670,
+  "fetched_ts": 1790520649521,
+  "text_sha": "64f0112a3056dace"
+ },
+ "price": 5900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5900
+  }
+ ],
+ "specs": {
+  "Bredd": "135 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit orange",
+  "Längd i fot": "446 fot",
+  "Modellår": "1979",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "3",
+  "Toppfart": "65 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "310 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/24912447",
+ "width_cm": 135,
+ "year": 1979
+}

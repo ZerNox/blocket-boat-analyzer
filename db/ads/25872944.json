@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johanson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 50 Cabin",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25872944/88795328-45f6-4ecb-a216-b79f40e6ab75",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.49715,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25872944/88795328-45f6-4ecb-a216-b79f40e6ab75",
+  "https://images.blocketcdn.se/dynamic/default/item/25872944/1b9aab56-3cee-4fb9-a091-ab79e6af7d9e",
+  "https://images.blocketcdn.se/dynamic/default/item/25872944/0481eafe-e532-4176-9248-a6b366086baf",
+  "https://images.blocketcdn.se/dynamic/default/item/25872944/91332598-1ef5-4eb2-8b3a-3281e6b19d95",
+  "https://images.blocketcdn.se/dynamic/default/item/25872944/98e74e0a-1f34-416b-b890-9bca788bc9dc",
+  "https://images.blocketcdn.se/dynamic/default/item/25872944/25f54d7a-e798-40b1-a52a-533b58006b88",
+  "https://images.blocketcdn.se/dynamic/default/item/25872944/589563db-d2b2-45dc-8788-ccb9f95e2a51",
+  "https://images.blocketcdn.se/dynamic/default/item/25872944/769591c8-a3f2-42b9-b8fb-cc3931586fb3"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.5,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +81,13 @@
   "text_sha": "a962885216ac0ea9"
  },
  "location": "Lidköping",
- "lon": 13.16767,
+ "lon": 13.17,
  "make": "Johnson",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 511,
   "fetched_ts": 1790508268369,
@@ -101,7 +114,7 @@
   "Märke": "Johnson",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25872944",
  "width_cm": 206,
  "year": 1980

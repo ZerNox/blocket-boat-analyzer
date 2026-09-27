@@ -7,6 +7,8 @@
   "boat_year": 2002,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 480S",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26895781/f1e1eb74-33d0-4d3a-bb97-0b5a6d662df8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.19863,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26895781/f1e1eb74-33d0-4d3a-bb97-0b5a6d662df8",
+  "https://images.blocketcdn.se/dynamic/default/item/26895781/6060789d-aefa-4279-a2ac-638e4fe1ba14",
+  "https://images.blocketcdn.se/dynamic/default/item/26895781/81119bb7-b732-4382-b6e4-d44568387a5e",
+  "https://images.blocketcdn.se/dynamic/default/item/26895781/3b744721-f336-4067-96f7-5bf216a6f6f9",
+  "https://images.blocketcdn.se/dynamic/default/item/26895781/399f07f2-9918-4848-a8e2-6cb9f0442b90",
+  "https://images.blocketcdn.se/dynamic/default/item/26895781/37bcb88c-930d-4485-9b5a-9d9447ceedc8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.2,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +80,13 @@
   "text_sha": "8f343cde636080ab"
  },
  "location": "Södertälje",
- "lon": 17.60756,
+ "lon": 17.61,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 380,
   "fetched_ts": 1790509009361,
@@ -106,7 +117,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "400 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26895781",
  "width_cm": 195,
  "year": 2002

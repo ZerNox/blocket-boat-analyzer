@@ -1,0 +1,116 @@
+{
+ "ad_id": 25976593,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1787517298000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 55,
+  "engine_hp_source": "llm",
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Enkel båtvagn följer med",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Motorbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25976593/97b57b43-e422-4573-81ac-6c4a4f3ec4bd",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25976593/97b57b43-e422-4573-81ac-6c4a4f3ec4bd",
+  "https://images.blocketcdn.se/dynamic/default/item/25976593/87748eea-e197-469f-baa5-33e68a000824",
+  "https://images.blocketcdn.se/dynamic/default/item/25976593/9a833997-da63-4f96-8a08-d58698767069",
+  "https://images.blocketcdn.se/dynamic/default/item/25976593/90da495c-c90c-4bc3-9931-517fc8ccfe7c"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 65.63,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 55,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f9ef88af8d732116"
+ },
+ "location": "Luleå",
+ "lon": 21.55,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 55.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 205,
+  "fetched_ts": 1790523093922,
+  "text_sha": "f9ef88af8d732116"
+ },
+ "price": 19000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 19000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modellår": "1980",
+  "Motorstorlek": "55 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25976593",
+ "width_cm": 0,
+ "year": 1980
+}

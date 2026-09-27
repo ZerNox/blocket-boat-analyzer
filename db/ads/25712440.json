@@ -7,6 +7,8 @@
   "boat_year": null,
   "boat_year_source": null,
   "engine_hours": null,
+  "engine_hp": 5.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Utter 430, Yamaha 4takt 5hk ink vagn",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25712440/bd32f3ba-83cb-4abe-9d88-1b7da0af5688",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.47395,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25712440/bd32f3ba-83cb-4abe-9d88-1b7da0af5688",
+  "https://images.blocketcdn.se/dynamic/default/item/25712440/272121bf-4fd1-4f9d-b3f3-bb2deb4f7e4e",
+  "https://images.blocketcdn.se/dynamic/default/item/25712440/e7cf9847-71ea-4afd-bb3a-974da6c0178b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.47,
  "length_ft": null,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "462333849fb3eb61"
  },
  "location": "Stöde",
- "lon": 16.67275,
+ "lon": 16.67,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 5.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 195,
   "fetched_ts": 1790508112119,
@@ -93,7 +101,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "1 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25712440",
  "width_cm": 0,
  "year": 1900

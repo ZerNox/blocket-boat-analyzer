@@ -1,0 +1,104 @@
+{
+ "ad_id": 26804749,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1790093273000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": 750,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha F80 2002 4-takt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2002,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Yamaha F8[tel]-takt",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "plotter": {
+    "evidence": "Jag har uppgraderat med hydralstyrning (2[tel] kr), Lowrance Elite 7 tum (2[tel] kr), nya stolar (2018), mm.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Flipper 570 HT Yamaha F80 med Tiki 1250 bromsad släpvagn",
+    "included": true,
+    "year": 2018
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 570 HT Yamaha F80 med Tiki 1250 bromsad släpvagn",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 570"
+ ],
+ "heading": "Flipper 570 HT Yamaha F80 med Tiki 1250 bromsad släpvagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26804749/71c32569-b40e-4356-8f00-687433346f49",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26804749/71c32569-b40e-4356-8f00-687433346f49",
+  "https://images.blocketcdn.se/dynamic/default/item/26804749/1f126d8b-cf50-4d1e-92df-104d23c06626",
+  "https://images.blocketcdn.se/dynamic/default/item/26804749/7b0d2232-40d6-4212-89c2-d5090febfbd9",
+  "https://images.blocketcdn.se/dynamic/default/item/26804749/95c4c684-8bc0-4941-bb19-cfe7027b7c0e",
+  "https://images.blocketcdn.se/dynamic/default/item/26804749/ca4ed2e5-dd5d-47a6-9604-0b1c15729dc2"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.61,
+ "length_ft": 19,
+ "location": "Hallstahammar",
+ "lon": 16.25,
+ "make": "Flipper",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1252,
+  "fetched_ts": 1790523222417,
+  "text_sha": "589a6e82e3c899b2"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit med blå rand",
+  "Längd i fot": "19 fot",
+  "Modell": "570 HT",
+  "Modellår": "1977",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Yamaha F80 2002 4-takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "520 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26804749",
+ "width_cm": 215,
+ "year": 1977
+}

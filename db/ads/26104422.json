@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 80,
+  "engine_hp_source": "llm",
   "engine_maker": "Volvo Penta",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -38,8 +40,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Rospiggen 28",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26104422/d5862ab3-076b-40ee-a17a-f7bd9fff5876",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.33631,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26104422/d5862ab3-076b-40ee-a17a-f7bd9fff5876",
+  "https://images.blocketcdn.se/dynamic/default/item/26104422/09490155-e4de-4a52-813e-f6667e705bd6",
+  "https://images.blocketcdn.se/dynamic/default/item/26104422/9581bb18-181d-47c2-8f16-fd79fe8267a4",
+  "https://images.blocketcdn.se/dynamic/default/item/26104422/d80161b3-b139-4deb-b296-0bb8ea714cb6",
+  "https://images.blocketcdn.se/dynamic/default/item/26104422/7a196220-5e1a-4028-95e1-3ec115d54181",
+  "https://images.blocketcdn.se/dynamic/default/item/26104422/20b73516-4719-4bad-829e-77eb1a0c1747",
+  "https://images.blocketcdn.se/dynamic/default/item/26104422/1da71edd-aedd-473a-b1e9-4c2e3fe8a733",
+  "https://images.blocketcdn.se/dynamic/default/item/26104422/584fcc68-fb97-47ed-b9a7-6f5c77fa9420",
+  "https://images.blocketcdn.se/dynamic/default/item/26104422/40ad3c42-a94d-4ed5-ad84-2f11943cd3cf"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.34,
  "length_ft": 28,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +82,13 @@
   "text_sha": "6b7b98f97aff0f64"
  },
  "location": "Öregrund",
- "lon": 18.45119,
+ "lon": 18.45,
  "make": "Övriga",
  "max_speed": 8,
  "motor_fuel": "Diesel",
  "motor_size": 80.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1204,
   "fetched_ts": 1790508464292,
@@ -104,7 +118,7 @@
   "Toppfart": "8 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26104422",
  "width_cm": 0,
  "year": 1975

@@ -1,0 +1,121 @@
+{
+ "ad_id": 21425244,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1789204350000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": 500,
+  "engine_hp": 115.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "6600 WA Finnmaster 6600WA med Yamaha F115, Garmin 9” plotter, wallasspis med tillhörande värmelock för att också kunna a",
+  "engine_type_source": "llm",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Årsmodell motor: 2006",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "kapell": {
+    "evidence": "Finnmaster 6600WA med Yamaha F115, Garmin 9” plotter, wallasspis med tillhörande värmelock för att också kunna användas…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Finnmaster 6600WA med Yamaha F115, Garmin 9” plotter, wallasspis med tillhörande värmelock för att också kunna användas…",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Finnmaster 6600 WA",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "spec says no engine but text describes one"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Finnmaster 6600 WA",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21425244/1dd8de20-69ea-4bac-9c8c-8e2befbf2cbe",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21425244/1dd8de20-69ea-4bac-9c8c-8e2befbf2cbe",
+  "https://images.blocketcdn.se/dynamic/default/item/21425244/a366aee0-84de-406c-aa51-da8f53c77c71",
+  "https://images.blocketcdn.se/dynamic/default/item/21425244/19fb4293-760e-428a-a7a4-64a51a96cda7",
+  "https://images.blocketcdn.se/dynamic/default/item/21425244/ea4c6518-3a42-45b4-bf8f-01e7c3489ed1",
+  "https://images.blocketcdn.se/dynamic/default/item/21425244/95934c69-326e-48bf-9316-77d98a43e012",
+  "https://images.blocketcdn.se/dynamic/default/item/21425244/cd58029e-3130-426f-94f4-afd49b7cc7d8",
+  "https://images.blocketcdn.se/dynamic/default/item/21425244/28540d40-c28c-4f6c-8b67-de4bac45f34d"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 61.3,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": 500,
+   "engine_hp": 115,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": 2006,
+   "engine_year_evidence": "Årsmodell motor: 2006",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ac89b5839bf98e8b"
+ },
+ "location": "Söderhamn",
+ "lon": 17.05,
+ "make": "Finnmaster",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 633,
+  "fetched_ts": 1790522855416,
+  "text_sha": "ac89b5839bf98e8b"
+ },
+ "price": 240000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 240000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "21 fot",
+  "Modellår": "2006",
+  "Motor inkluderad": "Nej",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnmaster",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/21425244",
+ "width_cm": 0,
+ "year": 2006
+}

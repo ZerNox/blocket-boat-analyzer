@@ -7,6 +7,8 @@
   "boat_year": 2003,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 478GT 40HK Mercury",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25485369/31580713-8b7e-4646-a9d7-0ae1601b9394",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.65279,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25485369/31580713-8b7e-4646-a9d7-0ae1601b9394",
+  "https://images.blocketcdn.se/dynamic/default/item/25485369/23534b60-17b0-4f30-b7c0-c9f6ec6ba91d",
+  "https://images.blocketcdn.se/dynamic/default/item/25485369/5b96e04b-be88-482d-9b31-fea838eed8e2",
+  "https://images.blocketcdn.se/dynamic/default/item/25485369/2ac75778-8917-4ce8-8820-9824a908b2ba"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.65,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +74,13 @@
   "text_sha": "5bf9a514393f2bcd"
  },
  "location": "Mölndal",
- "lon": 11.99005,
+ "lon": 11.99,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 74,
   "fetched_ts": 1790507912275,
@@ -101,7 +110,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "410 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25485369",
  "width_cm": 191,
  "year": 2003

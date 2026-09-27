@@ -7,6 +7,8 @@
   "boat_year": 1999,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fugitive sport båt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25924941/b70f490c-952f-430e-a43f-fa5b8386a73f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.5432,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25924941/b70f490c-952f-430e-a43f-fa5b8386a73f",
+  "https://images.blocketcdn.se/dynamic/default/item/25924941/6dfab821-6d07-4328-8eef-894d15f7aae4",
+  "https://images.blocketcdn.se/dynamic/default/item/25924941/bd0480e6-e770-4a8c-be57-1e0bd1b74d80",
+  "https://images.blocketcdn.se/dynamic/default/item/25924941/ccaac3fe-8c7e-4965-b1c5-fbd729f7f188",
+  "https://images.blocketcdn.se/dynamic/default/item/25924941/dc23365e-6adf-40ff-9e5d-b654cfd3a80d",
+  "https://images.blocketcdn.se/dynamic/default/item/25924941/92568e68-0b26-4ee9-bfe9-e92d40c6fd7d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.54,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +76,13 @@
   "text_sha": "b195de118ca0f509"
  },
  "location": "Vrångö",
- "lon": 11.78529,
+ "lon": 11.79,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 185,
   "fetched_ts": 1790508306004,
@@ -99,7 +110,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25924941",
  "width_cm": 110,
  "year": 1999

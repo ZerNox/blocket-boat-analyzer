@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -23,6 +25,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -32,10 +38,21 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 575"
+ ],
  "heading": "Flipper 575",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25468537/c8752c88-f918-4622-9d00-53e13ce4a5c8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.05171,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25468537/c8752c88-f918-4622-9d00-53e13ce4a5c8",
+  "https://images.blocketcdn.se/dynamic/default/item/25468537/f12d2707-8e94-43c1-bba0-b422269ae937",
+  "https://images.blocketcdn.se/dynamic/default/item/25468537/01c949f2-fc99-410d-85a3-eccf754eed30",
+  "https://images.blocketcdn.se/dynamic/default/item/25468537/51702839-2602-400c-83b3-77e5abe4d0ba",
+  "https://images.blocketcdn.se/dynamic/default/item/25468537/879a4b32-ded9-455c-b437-e03b549bfd67"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.05,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -65,7 +82,7 @@
   "text_sha": "63db56b1aa0b68c0"
  },
  "location": "Edsbruk",
- "lon": 16.46539,
+ "lon": 16.47,
  "make": "Flipper",
  "max_speed": 30,
  "motor_fuel": "Bensin",

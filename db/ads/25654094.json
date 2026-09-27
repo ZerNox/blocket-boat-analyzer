@@ -7,6 +7,8 @@
   "boat_year": 2015,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -51,8 +53,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Höstpris! Buster X med helt ny (2026) drivlina och elektronik",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25654094/b20ea0e4-5842-44c3-80fc-96b69a8c9216",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.3421,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25654094/b20ea0e4-5842-44c3-80fc-96b69a8c9216",
+  "https://images.blocketcdn.se/dynamic/default/item/25654094/d3dc5e90-8006-459e-a575-680faefe25d8",
+  "https://images.blocketcdn.se/dynamic/default/item/25654094/a1ba2f3a-96a3-47a5-917e-cac7e8178565",
+  "https://images.blocketcdn.se/dynamic/default/item/25654094/d95f579d-00d4-4375-9406-39ce16cd3e93",
+  "https://images.blocketcdn.se/dynamic/default/item/25654094/df336048-349c-440d-a29f-460c2673ac18",
+  "https://images.blocketcdn.se/dynamic/default/item/25654094/1f6c4156-3cc9-442c-a168-7e5023464beb",
+  "https://images.blocketcdn.se/dynamic/default/item/25654094/b16b6390-7cf6-40d1-b28a-7e477f33a408",
+  "https://images.blocketcdn.se/dynamic/default/item/25654094/9ffc1598-4900-4aa6-aef5-80cc40ed35ef",
+  "https://images.blocketcdn.se/dynamic/default/item/25654094/ed77c93c-8a98-4bd8-b620-0a231c37d98f",
+  "https://images.blocketcdn.se/dynamic/default/item/25654094/d6c5dfde-00e5-4d8a-9937-a90651880131"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.34,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -83,12 +97,13 @@
   "text_sha": "0e78b4fe5268a2f8"
  },
  "location": "Djurhamn",
- "lon": 18.73203,
+ "lon": 18.73,
  "make": "Buster",
  "max_speed": 32,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 348,
   "fetched_ts": 1790508074676,
@@ -115,7 +130,7 @@
   "Toppfart": "32 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25654094",
  "width_cm": 0,
  "year": 2015

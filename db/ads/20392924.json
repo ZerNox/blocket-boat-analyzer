@@ -1,0 +1,125 @@
+{
+ "ad_id": 20392924,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790146569000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1997,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercruisier  3.0 Alpa drev",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1997,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Båten är i bra skick lite använd mycket gjort senaste tre åren Belgar, service, impeller, tänddelar, mm även kapellet ä…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Kärran ingår inte men kan köpas till den har endast rullat 150 mil.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Bayliner 1952",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/20392924/630a4590-1558-44b9-bb48-11e099156300",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/20392924/630a4590-1558-44b9-bb48-11e099156300",
+  "https://images.blocketcdn.se/dynamic/default/item/20392924/47f88ca4-2d04-42f1-b9e0-beb1738363c9",
+  "https://images.blocketcdn.se/dynamic/default/item/20392924/61460059-1bf4-4219-9985-da4ab7a28d2f",
+  "https://images.blocketcdn.se/dynamic/default/item/20392924/e9e4c865-4077-4ad0-b01b-23a36f296dd1"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.49,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1997,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercruisier",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Inombordare Motortillverkare: Mercruisier 3.0 Alpa drev",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2735e4679c4234ac"
+ },
+ "location": "Tingsryd",
+ "lon": 15.17,
+ "make": "Bayliner",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 246,
+  "fetched_ts": 1790522852710,
+  "text_sha": "2735e4679c4234ac"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit och blå",
+  "Längd i fot": "19 fot",
+  "Modell": "1952",
+  "Modellår": "1997",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercruisier  3.0 Alpa drev",
+  "Motortyp": "Inombordare",
+  "Märke": "Bayliner",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/20392924",
+ "width_cm": 0,
+ "year": 1997
+}

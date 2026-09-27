@@ -1,0 +1,116 @@
+{
+ "ad_id": 25775222,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786905327000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2001,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 5500dc",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Uttern 5500"
+ ],
+ "heading": "Uttern 5500dc",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25775222/50457126-578d-43d9-a01b-19fe5575373e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25775222/50457126-578d-43d9-a01b-19fe5575373e",
+  "https://images.blocketcdn.se/dynamic/default/item/25775222/38591808-1941-4bdb-b591-2795ea2a31c1",
+  "https://images.blocketcdn.se/dynamic/default/item/25775222/7c96228b-b301-484a-80d3-16a64249aa6b",
+  "https://images.blocketcdn.se/dynamic/default/item/25775222/80f58422-cded-4e79-b473-522658b3e79b",
+  "https://images.blocketcdn.se/dynamic/default/item/25775222/75f253cf-2349-4cf8-a0f8-f16ecf5a2fb1"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.93,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2001,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "4f6678d05e7a5f9e"
+ },
+ "location": "Vikarbyn",
+ "lon": 14.95,
+ "make": "Uttern",
+ "max_speed": 33,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790523063595,
+  "text_sha": "4f6678d05e7a5f9e"
+ },
+ "price": 100000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 100000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "5500dc",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Toppfart": "33 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25775222",
+ "width_cm": 0,
+ "year": 2001
+}

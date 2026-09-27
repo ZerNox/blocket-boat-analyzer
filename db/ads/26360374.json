@@ -1,0 +1,105 @@
+{
+ "ad_id": 26360374,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788695006000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Stadig dubbelbottnad plastbåt med riktig köl. Längd, 4.6 m",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26360374/63b6243b-825f-4647-8c6d-c77b999194c8",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26360374/63b6243b-825f-4647-8c6d-c77b999194c8",
+  "https://images.blocketcdn.se/dynamic/default/item/26360374/5a5c389d-42f3-4b46-bec5-48b401ce74a5",
+  "https://images.blocketcdn.se/dynamic/default/item/26360374/9d0c3933-d74e-47a2-853f-980d524c246d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.6,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "fc4c8bda18519cac"
+ },
+ "location": "Köping",
+ "lon": 15.98,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790520947873,
+  "text_sha": "fc4c8bda18519cac"
+ },
+ "price": 8500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 8500
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit och röd",
+  "Längd i fot": "15 fot",
+  "Modellår": "1985",
+  "Märke": "Övriga",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26360374",
+ "width_cm": 160,
+ "year": 1985
+}

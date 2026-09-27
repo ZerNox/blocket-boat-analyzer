@@ -1,0 +1,120 @@
+{
+ "ad_id": 25886541,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1787249366000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Slitet kapell, några skavanker i skrov och skulle behöva en bottenfärg , har inga dynor till den mer en universal dynor…",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 560ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Uttern 560"
+ ],
+ "heading": "Uttern 560ht",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25886541/42c20023-ef67-46aa-a9a8-a9dce8270bce",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25886541/42c20023-ef67-46aa-a9a8-a9dce8270bce",
+  "https://images.blocketcdn.se/dynamic/default/item/25886541/458ce25a-0cb8-4796-abb1-c74b384806fe",
+  "https://images.blocketcdn.se/dynamic/default/item/25886541/c00418bd-08a9-4556-bb43-8b49ef933b3f",
+  "https://images.blocketcdn.se/dynamic/default/item/25886541/229820ed-2dc9-4da9-ad6f-2b993c6dcbdd",
+  "https://images.blocketcdn.se/dynamic/default/item/25886541/253ea053-22ac-4853-972d-683ad40b57f0"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 62.54,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1975,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7a9c8087e4dedcef"
+ },
+ "location": "Söråker",
+ "lon": 17.61,
+ "make": "Uttern",
+ "max_speed": 32,
+ "motor_fuel": null,
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 459,
+  "fetched_ts": 1790523081650,
+  "text_sha": "7a9c8087e4dedcef"
+ },
+ "price": 18000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 18000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "560 HT",
+  "Modellår": "1975",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Toppfart": "32 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25886541",
+ "width_cm": 220,
+ "year": 1975
+}

@@ -35,13 +35,14 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "Hansvik 18 ht",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25221817/7c9e90b7-c382-4780-aba3-c560f0ecb2aa",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.76729,
+ "lat": 57.77,
  "length_ft": 18,
  "location": "Västervik",
- "lon": 16.61932,
+ "lon": 16.62,
  "make": "Hansvik",
  "max_speed": null,
  "motor_fuel": "Bensin",
@@ -73,7 +74,7 @@
   "Sittplatser": "5",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/25221817",
  "width_cm": 212,
  "year": 1989

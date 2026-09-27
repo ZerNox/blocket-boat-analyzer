@@ -1,0 +1,141 @@
+{
+ "ad_id": 26837425,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790200203000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1986,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercruiser V6",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1986,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Raymarine-plotter med ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Raymarine-plotter med ekolod",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Stor digital touch-stereo",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30-släp ingår i köpet, vilket gör det enkelt att flytta och förvara båten.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båt Renken Daycruiser V6\nSäljer nu min Renken DC 2052 årsmodell 1986 då jag blivit mer suge",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Båt Renken Daycruiser V6",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26837425/84fd8b63-f45a-4369-a3f0-b01993b29d29",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26837425/84fd8b63-f45a-4369-a3f0-b01993b29d29",
+  "https://images.blocketcdn.se/dynamic/default/item/26837425/aea8a218-b81c-45cc-a5f6-b8aee900ac6e",
+  "https://images.blocketcdn.se/dynamic/default/item/26837425/3c50b381-8aaa-4379-b000-4600561b398c",
+  "https://images.blocketcdn.se/dynamic/default/item/26837425/4b3dc08b-4e82-49f2-9fb2-97b3c8a0b260",
+  "https://images.blocketcdn.se/dynamic/default/item/26837425/fbe8d1a3-6106-4016-b90a-366436cf0fba",
+  "https://images.blocketcdn.se/dynamic/default/item/26837425/c89cab78-9113-4ec5-b5d8-be5cf4413889",
+  "https://images.blocketcdn.se/dynamic/default/item/26837425/dda0ff89-fb09-47f8-9515-1855b2f1713f",
+  "https://images.blocketcdn.se/dynamic/default/item/26837425/987abc3b-6ebf-4e95-8f90-6372217183f2",
+  "https://images.blocketcdn.se/dynamic/default/item/26837425/e7ac9fc5-a160-4af3-961b-9d790eac491c"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.75,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1986,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercury",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "MerCruiser 4,3L V6 som går som en dröm. Service har tidigare utförts på marina och nyligen har även bälgar samt lager i drevet bytts på marina.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "included",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7adf9ce8708ebd36"
+ },
+ "location": "Västervik",
+ "lon": 16.63,
+ "make": "Övriga",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 1267,
+  "fetched_ts": 1790523227834,
+  "text_sha": "7adf9ce8708ebd36"
+ },
+ "price": 74000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 74000
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "90 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit svart",
+  "Längd i fot": "20 fot",
+  "Modell": "Renken DayCruiser 2052 V6",
+  "Modellår": "1986",
+  "Motortillverkare": "Mercruiser V6",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "3",
+  "Toppfart": "35 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26837425",
+ "width_cm": 230,
+ "year": 1986
+}

@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Pioner MAXI styrpulpet 15hk 4-takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25441798/5b2739e9-8a51-4836-9f86-66da03ad7978",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.69322,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25441798/5b2739e9-8a51-4836-9f86-66da03ad7978",
+  "https://images.blocketcdn.se/dynamic/default/item/25441798/ccc3586c-8e96-474d-824d-e11b80cac19b",
+  "https://images.blocketcdn.se/dynamic/default/item/25441798/25c76c6d-198b-4663-99dd-7f1bf4382001",
+  "https://images.blocketcdn.se/dynamic/default/item/25441798/56b8562a-0d40-4f2c-9d04-807325e013d4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.69,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "8b560db89f8da463"
  },
  "location": "Mellerud",
- "lon": 12.47575,
+ "lon": 12.48,
  "make": "Pioner",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 319,
   "fetched_ts": 1790507872116,
@@ -94,7 +103,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25441798",
  "width_cm": 163,
  "year": 1995

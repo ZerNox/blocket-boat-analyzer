@@ -1,0 +1,118 @@
+{
+ "ad_id": 23568132,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790181384000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2009,
+  "boat_year_source": "spec",
+  "engine_hours": 280,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2009,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Plotter med sjökort.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "brenderup trailer med nya tappar och lager.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Atlantic marine 555 wa",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23568132/6e1093a7-baf1-4f44-9b6f-d6bc493234ca",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23568132/6e1093a7-baf1-4f44-9b6f-d6bc493234ca",
+  "https://images.blocketcdn.se/dynamic/default/item/23568132/3c828601-331f-4295-a293-6e3fc4b633c6",
+  "https://images.blocketcdn.se/dynamic/default/item/23568132/ba469495-f37c-4782-8233-d41111e05ea5",
+  "https://images.blocketcdn.se/dynamic/default/item/23568132/296a1e5a-3146-471d-8109-32863b07580c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.3,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2009,
+   "engine_hours": null,
+   "engine_hp": 100,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Yamaha 100hk fyrtakt med låga timmar.",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "99b36f20317c308f"
+ },
+ "location": "Själevad",
+ "lon": 18.62,
+ "make": "Atlantic Marine",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 527,
+  "fetched_ts": 1790520609101,
+  "text_sha": "99b36f20317c308f"
+ },
+ "price": 200000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 200000
+  }
+ ],
+ "specs": {
+  "Bredd": "247 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "19 fot",
+  "Modell": "555 wa",
+  "Modellår": "2009",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Atlantic Marine",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23568132",
+ "width_cm": 247,
+ "year": 2009
+}

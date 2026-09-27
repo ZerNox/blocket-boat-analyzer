@@ -1,0 +1,120 @@
+{
+ "ad_id": 25305043,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785595577000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 130.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Volvo penta",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1977,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer finns inte och priset är inte hugget I sten.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Draco 2000DC rep objekt",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Draco 2000DC rep objekt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25305043/1d13650f-69ff-4a42-a865-9a2014b27d45",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25305043/1d13650f-69ff-4a42-a865-9a2014b27d45",
+  "https://images.blocketcdn.se/dynamic/default/item/25305043/aeaec4e5-1cca-4637-a318-72cc57daeddc",
+  "https://images.blocketcdn.se/dynamic/default/item/25305043/267b1c25-75d4-4f83-ab7f-b387efcc4932"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 62.53,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1977,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ad47fdf0d96e157e"
+ },
+ "location": "Ånge",
+ "lon": 15.66,
+ "make": "Draco",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 603,
+  "fetched_ts": 1790522964337,
+  "text_sha": "ad47fdf0d96e157e"
+ },
+ "price": 123,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 123
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "20 fot",
+  "Modell": "2000 DC",
+  "Modellår": "1977",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo penta",
+  "Motortyp": "Inombordare",
+  "Märke": "Draco",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Daycruiser",
+  "Vikt": "1 200 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25305043",
+ "width_cm": 230,
+ "year": 1977
+}

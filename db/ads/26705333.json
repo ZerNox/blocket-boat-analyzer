@@ -7,6 +7,8 @@
   "boat_year": 1998,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -44,8 +46,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bever 470 med 80trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26705333/a7e961da-db59-463e-9fde-406bdb35b3a8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.99414,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26705333/a7e961da-db59-463e-9fde-406bdb35b3a8",
+  "https://images.blocketcdn.se/dynamic/default/item/26705333/74c69512-e73e-4ee5-b537-27d21289b111",
+  "https://images.blocketcdn.se/dynamic/default/item/26705333/de44958b-757b-4f4b-8c9b-6db5db474b24",
+  "https://images.blocketcdn.se/dynamic/default/item/26705333/ac1d36dc-1997-4db2-9aa5-ada3d7f47aff",
+  "https://images.blocketcdn.se/dynamic/default/item/26705333/86d65f20-bb9b-4fe2-b03c-3661aca0742d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.99,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -75,12 +84,13 @@
   "text_sha": "76276ad199948911"
  },
  "location": "Åsbro",
- "lon": 15.0632,
+ "lon": 15.06,
  "make": "Bever",
  "max_speed": 27,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 516,
   "fetched_ts": 1790508881641,
@@ -108,7 +118,7 @@
   "Toppfart": "27 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26705333",
  "width_cm": 0,
  "year": 1998

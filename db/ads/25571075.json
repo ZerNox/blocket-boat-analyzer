@@ -7,6 +7,8 @@
   "boat_year": 2020,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha 20",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster XS",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25571075/bf62b80b-181c-4edb-81ae-7c55efab602e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.31126,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25571075/bf62b80b-181c-4edb-81ae-7c55efab602e",
+  "https://images.blocketcdn.se/dynamic/default/item/25571075/8e606b65-a1f7-4476-869c-b88ff1231a7c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.31,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +71,13 @@
   "text_sha": "d80b325783d741d8"
  },
  "location": "Stockholm",
- "lon": 18.0973,
+ "lon": 18.1,
  "make": "Buster",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 95,
   "fetched_ts": 1790508019054,
@@ -101,7 +108,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "180 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25571075",
  "width_cm": 175,
  "year": 2020

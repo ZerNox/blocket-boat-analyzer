@@ -1,0 +1,95 @@
+{
+ "ad_id": 25314526,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1785619013000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1972,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor Honda 4-takt 50 hk från 2007.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell 2019.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Obromsad båtkärra.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 510 HT med Honda 50 hk 4-takt",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Örnvik 510 HT med Honda 50 hk 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25314526/53e715b8-310d-4358-9154-5940fd0be26c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25314526/53e715b8-310d-4358-9154-5940fd0be26c",
+  "https://images.blocketcdn.se/dynamic/default/item/25314526/758136e4-2f7c-489d-9416-0fce82c488c9",
+  "https://images.blocketcdn.se/dynamic/default/item/25314526/9514b2ed-4b87-4fe5-b18b-5d4481da9ddb",
+  "https://images.blocketcdn.se/dynamic/default/item/25314526/2c294162-d9d3-403a-b7e2-3039cd388b3c",
+  "https://images.blocketcdn.se/dynamic/default/item/25314526/fc6c4e5e-8078-4a8c-99d7-b6fd8b435a0f",
+  "https://images.blocketcdn.se/dynamic/default/item/25314526/01d60346-20f0-4baa-bae8-5f0d89579780",
+  "https://images.blocketcdn.se/dynamic/default/item/25314526/e8edf9c9-dfbb-49bd-8b7e-6310601a6270"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.32,
+ "length_ft": 17,
+ "location": "Skoghall",
+ "lon": 13.5,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 520,
+  "fetched_ts": 1790522967131,
+  "text_sha": "6c8f79859b98247d"
+ },
+ "price": 48000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 48000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "510 HT",
+  "Modellår": "1972",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25314526",
+ "width_cm": 0,
+ "year": 1972
+}

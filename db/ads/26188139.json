@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 5,
+  "engine_hp_source": "llm",
   "engine_maker": "Parsun",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Småbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26188139/335e61eb-317f-4dce-8609-e9ddeeb24b63",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.15332,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26188139/335e61eb-317f-4dce-8609-e9ddeeb24b63",
+  "https://images.blocketcdn.se/dynamic/default/item/26188139/5e4126d7-542f-435b-b904-56c1ac0b639d",
+  "https://images.blocketcdn.se/dynamic/default/item/26188139/63d2c364-7fa0-4c81-82d5-5cb7f42b1430",
+  "https://images.blocketcdn.se/dynamic/default/item/26188139/178a0be3-4eba-41c3-8b49-27f1ef5e255f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.15,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "785df27e386fcf4c"
  },
  "location": "Påskallavik",
- "lon": 16.49896,
+ "lon": 16.5,
  "make": "Ockelbo",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 5.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 44,
   "fetched_ts": 1790508506666,
@@ -97,7 +106,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26188139",
  "width_cm": 0,
  "year": 2000

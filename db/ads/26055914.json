@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder Sportsman 400 – Yamaha 15 hk – 30-kärra – Garmin ekolod",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26055914/5a0a35f3-fdd3-4fc4-91d0-0b254667f2e5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.53531,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26055914/5a0a35f3-fdd3-4fc4-91d0-0b254667f2e5",
+  "https://images.blocketcdn.se/dynamic/default/item/26055914/cb113b8a-a056-49f2-90a7-c3d14ed54a09",
+  "https://images.blocketcdn.se/dynamic/default/item/26055914/20fa9b3b-eae3-4969-ada0-255358caa4b1",
+  "https://images.blocketcdn.se/dynamic/default/item/26055914/418ba148-f882-43d9-8ee0-93bd75571459",
+  "https://images.blocketcdn.se/dynamic/default/item/26055914/b6ab0c25-d8e9-43f4-bbf5-f218d47d4839",
+  "https://images.blocketcdn.se/dynamic/default/item/26055914/2d75b876-89c2-4753-bd39-f830acfbb0c4",
+  "https://images.blocketcdn.se/dynamic/default/item/26055914/d595b754-f0ac-49d3-bb70-46df695254c3",
+  "https://images.blocketcdn.se/dynamic/default/item/26055914/08e05a8a-2431-4aea-91f3-31375bfae317",
+  "https://images.blocketcdn.se/dynamic/default/item/26055914/1f6fe804-161d-4b74-91f7-751c39c06b6f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.54,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +84,13 @@
   "text_sha": "f7f27c0e6ad72949"
  },
  "location": "Gästrike-Hammarby",
- "lon": 16.57403,
+ "lon": 16.57,
  "make": "Linder",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 722,
   "fetched_ts": 1790508422219,
@@ -106,7 +120,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "125 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26055914",
  "width_cm": 0,
  "year": 2000

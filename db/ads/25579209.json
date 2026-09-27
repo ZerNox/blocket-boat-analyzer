@@ -1,0 +1,133 @@
+{
+ "ad_id": 25579209,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789205344000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercruiser",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1988,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "* Trimplan, ekolod, raymarine plotter",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "* kapell i riktigt bra skick",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "* Trimplan, ekolod, raymarine plotter",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Sea Ray 210 Monaco v6 4,3 EFI.  Ev byte (FYND)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25579209/ee00940b-dff3-45d5-bb2c-ad33277c1002",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25579209/ee00940b-dff3-45d5-bb2c-ad33277c1002",
+  "https://images.blocketcdn.se/dynamic/default/item/25579209/9c021dc3-db25-48aa-a35d-a8138df96b80",
+  "https://images.blocketcdn.se/dynamic/default/item/25579209/c6169b7b-8b8f-49f2-a231-55dc2de41c54",
+  "https://images.blocketcdn.se/dynamic/default/item/25579209/8e4bd640-3957-4de7-9673-2721134cfdd7",
+  "https://images.blocketcdn.se/dynamic/default/item/25579209/93e16064-9fb3-451f-97e9-12cdb13b4668",
+  "https://images.blocketcdn.se/dynamic/default/item/25579209/b563018f-4550-44f8-8a29-eaf17a1ea7d4",
+  "https://images.blocketcdn.se/dynamic/default/item/25579209/ec672de8-27a6-4bad-94ae-cd5ae81b0039"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 65.6,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1988,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "* Motor: Mercruiser v6 efi insprutning ￼ Alpha One drev med rostfri prop",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8b4c738d54786a65"
+ },
+ "location": "Luleå",
+ "lon": 22.19,
+ "make": "Sea Ray",
+ "max_speed": 40,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 493,
+  "fetched_ts": 1790523029116,
+  "text_sha": "8b4c738d54786a65"
+ },
+ "price": 59000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 59000
+  }
+ ],
+ "specs": {
+  "Bredd": "2450 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "Monaco 210",
+  "Modellår": "1988",
+  "Motortillverkare": "Mercruiser",
+  "Motortyp": "Inombordare",
+  "Märke": "Sea Ray",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "40 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25579209",
+ "width_cm": 2450,
+ "year": 1988
+}

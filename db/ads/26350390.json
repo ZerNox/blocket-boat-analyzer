@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 2,
+  "engine_hp_source": "llm",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Cresent",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26350390/6bd5bd4d-473f-4744-9391-823193f23c86",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.20947,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26350390/6bd5bd4d-473f-4744-9391-823193f23c86",
+  "https://images.blocketcdn.se/dynamic/default/item/26350390/aeb3a074-e558-40f6-81b6-0247efa1002c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.21,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +66,13 @@
   "text_sha": "43c754c66030c579"
  },
  "location": "Njurunda",
- "lon": 17.54323,
+ "lon": 17.54,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 2.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508619847,
@@ -90,7 +97,7 @@
   "Märke": "Crescent",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26350390",
  "width_cm": 0,
  "year": 1980

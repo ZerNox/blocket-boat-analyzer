@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": 30,
+  "engine_hp": 10.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -40,16 +42,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Flipper 450 – Honda 10hk 2021 – endast 30h + trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25716101/05705806-436a-4d0e-bbb0-67649383c5b9",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.7842,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25716101/05705806-436a-4d0e-bbb0-67649383c5b9",
+  "https://images.blocketcdn.se/dynamic/default/item/25716101/63e34ffd-d991-493b-b3bc-6c2c7739f047",
+  "https://images.blocketcdn.se/dynamic/default/item/25716101/e7f99845-be10-49be-9244-f81071a636ec"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.78,
  "length_ft": 15,
  "location": "Lerum",
- "lon": 12.24268,
+ "lon": 12.24,
  "make": "Flipper",
  "max_speed": 8,
  "motor_fuel": "Bensin",
  "motor_size": 10.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1252,
   "fetched_ts": 1790508122159,
@@ -77,7 +85,7 @@
   "Toppfart": "8 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25716101",
  "width_cm": 0,
  "year": 2021

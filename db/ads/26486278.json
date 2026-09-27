@@ -7,6 +7,8 @@
   "boat_year": 1993,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha Autolub 40 hk tvåtakt",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -18,6 +20,10 @@
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "rade samt fördäck framför ruffen helt nyplastat. Motorn servad går bra. Den som sitter på är från -96. Den",
+  "hull_source": "rule:text",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -27,10 +33,15 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori",
+  "Uttern 560"
+ ],
  "heading": "Skärgårdsbåt Uttern 560 akterruff",
  "image": null,
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.3421,
+ "image_urls": [],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.34,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -61,7 +72,7 @@
   "text_sha": "f8526f1d3df0a9cb"
  },
  "location": "Djurhamn",
- "lon": 18.73203,
+ "lon": 18.73,
  "make": "Uttern",
  "max_speed": 23,
  "motor_fuel": "Bensin",

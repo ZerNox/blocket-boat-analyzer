@@ -7,6 +7,8 @@
   "boat_year": 1996,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -49,16 +51,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 4455 C",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25491074/731c9dd0-0a08-448c-a63b-59e7c8da5b5b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.63156,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25491074/731c9dd0-0a08-448c-a63b-59e7c8da5b5b",
+  "https://images.blocketcdn.se/dynamic/default/item/25491074/7c852f38-8aac-4da6-b570-1b41ec9eb7c4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.63,
  "length_ft": 445,
  "location": "Luleå",
- "lon": 22.20461,
+ "lon": 22.2,
  "make": "Uttern",
  "max_speed": 19,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 933,
   "fetched_ts": 1790507920462,
@@ -89,7 +96,7 @@
   "Toppfart": "19 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25491074",
  "width_cm": 195,
  "year": 1996

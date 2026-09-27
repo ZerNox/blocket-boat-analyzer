@@ -1,0 +1,81 @@
+{
+ "ad_id": 26184534,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788123962000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1997,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1997,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamaha 40 hk 2T 1997 sitter på.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Står på en obromsad 30 kärra som tar upp till 1000 kg följer med.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Yamarin 4730 Big Ride",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26184534/3d26ae87-144b-4f02-9f6e-5fbb2f6396a9",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26184534/3d26ae87-144b-4f02-9f6e-5fbb2f6396a9",
+  "https://images.blocketcdn.se/dynamic/default/item/26184534/4a7ee4d3-0bd7-4c63-8a59-3476e84b2905",
+  "https://images.blocketcdn.se/dynamic/default/item/26184534/5ac1a17b-7b95-4cac-a2cb-cc44e24637ef",
+  "https://images.blocketcdn.se/dynamic/default/item/26184534/a0b7866b-586e-42d4-9871-9b550f8d7c72"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.71,
+ "length_ft": 18,
+ "location": "Göteborg",
+ "lon": 11.91,
+ "make": "Yamarin",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 197,
+  "fetched_ts": 1790520915811,
+  "text_sha": "ea18453883f46dd0"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "4730 Big Ride",
+  "Modellår": "1997",
+  "Motor inkluderad": "Ja",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26184534",
+ "width_cm": 0,
+ "year": 1997
+}

@@ -7,6 +7,8 @@
   "boat_year": 1979,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 35.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 500 med 35 hk Evinrude.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26008983/dd82aa1e-df14-45b9-9225-77c7817b34e3",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.24491,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26008983/dd82aa1e-df14-45b9-9225-77c7817b34e3",
+  "https://images.blocketcdn.se/dynamic/default/item/26008983/c9da4a50-1ee8-47f8-9b4c-0c6acbce093d",
+  "https://images.blocketcdn.se/dynamic/default/item/26008983/3d51fbcb-914f-42b3-99f2-c2b5ef70581f",
+  "https://images.blocketcdn.se/dynamic/default/item/26008983/a3d6fa85-f3d9-4476-9892-77e2759bc4b1"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.24,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "ac20d48422cf9d33"
  },
  "location": "Hortlax",
- "lon": 21.39603,
+ "lon": 21.4,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 35.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 148,
   "fetched_ts": 1790508377417,
@@ -94,7 +103,7 @@
   "Märke": "Crescent",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26008983",
  "width_cm": 0,
  "year": 1979

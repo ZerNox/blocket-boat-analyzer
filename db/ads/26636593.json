@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -45,8 +47,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Säljer min båt p g a tidsbrist",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26636593/efe27773-6b15-4fb4-9099-b0618a484514",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.4703,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26636593/efe27773-6b15-4fb4-9099-b0618a484514",
+  "https://images.blocketcdn.se/dynamic/default/item/26636593/0e3b7913-59f4-4bb0-9a51-2f0d8e3aa8a1",
+  "https://images.blocketcdn.se/dynamic/default/item/26636593/38fe337a-b642-48a6-a67b-73dda9e1c4a5",
+  "https://images.blocketcdn.se/dynamic/default/item/26636593/671a85f5-a48c-4989-b2e1-29c1cf2a2b48",
+  "https://images.blocketcdn.se/dynamic/default/item/26636593/fdaca113-7553-4a0d-aa65-d6694cf6d591",
+  "https://images.blocketcdn.se/dynamic/default/item/26636593/c34e4dc2-d722-4efe-806f-41be96b8e46b",
+  "https://images.blocketcdn.se/dynamic/default/item/26636593/b514a486-416f-4640-becb-36757e379356"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.47,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -76,12 +87,13 @@
   "text_sha": "487673be4cfad46c"
  },
  "location": "Markaryd",
- "lon": 13.60231,
+ "lon": 13.6,
  "make": "Trio",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1193,
   "fetched_ts": 1790508840241,
@@ -113,7 +125,7 @@
   "Typ": "Annat",
   "Vikt": "400 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26636593",
  "width_cm": 180,
  "year": 1975

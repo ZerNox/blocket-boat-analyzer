@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25775553/a3160ba8-10b4-48de-a7b0-fa1cb1485d92",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.98143,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25775553/a3160ba8-10b4-48de-a7b0-fa1cb1485d92",
+  "https://images.blocketcdn.se/dynamic/default/item/25775553/98053fff-600f-4b5e-8c8c-dda280cb23cb",
+  "https://images.blocketcdn.se/dynamic/default/item/25775553/5d7c3e34-faf0-4460-bfe4-52ca26e3607b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.98,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +73,13 @@
   "text_sha": "9c2d6704df76af3c"
  },
  "location": "Timmernabben",
- "lon": 16.42748,
+ "lon": 16.43,
  "make": "Terhi",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 53,
   "fetched_ts": 1790508180405,
@@ -95,7 +103,7 @@
   "Märke": "Terhi",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25775553",
  "width_cm": 0,
  "year": 1985

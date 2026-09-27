@@ -1,0 +1,101 @@
+{
+ "ad_id": 25746781,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786868595000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Honda BF90",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten drivs av en stark, driftsäker och bränslesnål Honda BF90 hk 4-takt från 2003 som är påkostat servad.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod: Eagle Cuda 168",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nytt kapell (2024)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer: 30-kärra ingår i köpet",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 530 Daycruiser\nSäljer en mycket trevlig och praktisk Ryds 530 Daycruiser i fint bruk",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Ryds 530"
+ ],
+ "heading": "Ryds 530 Daycruiser",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25746781/89644a78-5003-4ee0-86f3-5b67c010d806",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25746781/89644a78-5003-4ee0-86f3-5b67c010d806",
+  "https://images.blocketcdn.se/dynamic/default/item/25746781/db743948-28d3-4c5d-97c3-2cfa64cb5696",
+  "https://images.blocketcdn.se/dynamic/default/item/25746781/a38b3c5b-f254-4887-abb8-dc293e8a9d57",
+  "https://images.blocketcdn.se/dynamic/default/item/25746781/d7461dcb-d6a8-4eee-91c3-b72cf6b1fd05",
+  "https://images.blocketcdn.se/dynamic/default/item/25746781/b3faecfb-49a7-48fb-8596-6eed05a83caa",
+  "https://images.blocketcdn.se/dynamic/default/item/25746781/e21e7b39-fe15-41a3-8786-d92f174d99d4"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.52,
+ "length_ft": 17,
+ "location": "Särö",
+ "lon": 11.94,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1625,
+  "fetched_ts": 1790523052366,
+  "text_sha": "3c78b01439dfa91f"
+ },
+ "price": 69900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "530",
+  "Modellår": "1985",
+  "Motortillverkare": "Honda BF90",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25746781",
+ "width_cm": 0,
+ "year": 1985
+}

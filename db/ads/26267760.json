@@ -7,6 +7,8 @@
   "boat_year": 1999,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 460 med johnson 15hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26267760/1387860d-da48-431f-87c6-597eb5b9829c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.61697,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26267760/1387860d-da48-431f-87c6-597eb5b9829c",
+  "https://images.blocketcdn.se/dynamic/default/item/26267760/63b1b963-a433-467d-bc73-6ef4caa9cae7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.62,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +71,13 @@
   "text_sha": "89ad5184daf687bf"
  },
  "location": "Slagnäs",
- "lon": 18.06205,
+ "lon": 18.06,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 271,
   "fetched_ts": 1790508564569,
@@ -97,7 +104,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26267760",
  "width_cm": 0,
  "year": 1999

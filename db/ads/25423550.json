@@ -1,0 +1,109 @@
+{
+ "ad_id": 25423550,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785931625000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Rejäl båtvagn i rostfritt stål som är oreggad.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Yamarin Big Fish 470",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25423550/448e859f-cfa2-4e07-a434-af87011af0c7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25423550/448e859f-cfa2-4e07-a434-af87011af0c7",
+  "https://images.blocketcdn.se/dynamic/default/item/25423550/f4c6208e-8de7-4e13-90c5-fbb74d977634",
+  "https://images.blocketcdn.se/dynamic/default/item/25423550/0cc20d13-99f4-4c3a-8f31-18877a01dab8",
+  "https://images.blocketcdn.se/dynamic/default/item/25423550/83fcf2de-331d-4ba2-9a2e-ea5e37eb77f1"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.86,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "17b97074cfd5281e"
+ },
+ "location": "Haparanda",
+ "lon": 24.11,
+ "make": "Yamarin",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 133,
+  "fetched_ts": 1790520693371,
+  "text_sha": "17b97074cfd5281e"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "Big fish 470",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Märke": "Yamarin",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25423550",
+ "width_cm": 0,
+ "year": 2000
+}

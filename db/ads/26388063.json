@@ -7,6 +7,8 @@
   "boat_year": 1999,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -27,16 +29,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Pioner 13 Classic med Honda 4hk 4-takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26388063/2cc1abfe-ae9c-42c2-8a53-78e608ae9f55",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.03543,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26388063/2cc1abfe-ae9c-42c2-8a53-78e608ae9f55"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.04,
  "length_ft": 13,
  "location": "Åmål",
- "lon": 12.68376,
+ "lon": 12.68,
  "make": "Pioner",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 243,
   "fetched_ts": 1790508654177,
@@ -66,7 +72,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "139 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26388063",
  "width_cm": 157,
  "year": 1999

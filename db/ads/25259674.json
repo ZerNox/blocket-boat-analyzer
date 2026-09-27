@@ -1,0 +1,108 @@
+{
+ "ad_id": 25259674,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785478717000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1982,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1998,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "90hk Mariner -98.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "- Kapellet är tvättat och impregnerat inför säsongen.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Flipper 575 HT, Mariner 90hk och 30-trailer.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 575 HT, Mariner 90hk och 30-trailer.",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 575"
+ ],
+ "heading": "Flipper 575 HT, Mariner 90hk och 30-trailer.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25259674/5c062ea1-20a9-4e6b-996b-7d21447d1f40",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/5c062ea1-20a9-4e6b-996b-7d21447d1f40",
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/d06cc8cc-1830-45a8-9e98-ab61664b37df",
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/eee2455d-538c-42f8-ae31-5fe85e85a884",
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/15a4e762-6e43-4a5e-9974-e194472d4648",
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/be82eeb9-3028-4d15-b047-401149db7d5b",
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/d3df953f-7e11-41a9-8b07-83fcd917a687",
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/28c3e38a-5943-45f0-a9b9-239632fb71c6",
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/c8b5ff7b-3aa8-41f4-ae8c-1ff01996a7bd",
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/dae802a3-c411-4753-af74-7fb7a64d419e",
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/ac9ee7ab-30c9-4ea6-866e-840fd45f644c",
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/85fa7524-8636-4c08-a1cb-009125d1f1ab",
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/010f89a1-d846-421c-abc1-1fc1e592fc30",
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/d77dde0f-c6f3-4032-900f-fbafa24ffe27",
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/f20cb6d5-6a32-419a-8cf4-3934bfde3f5f",
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/9f2a84cd-8171-4d75-acd8-d4c86e05c2bc",
+  "https://images.blocketcdn.se/dynamic/default/item/25259674/0f98c26d-2e27-4595-b732-56ba8666daf4"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.43,
+ "length_ft": 19,
+ "location": "Täby",
+ "lon": 18.11,
+ "make": "Flipper",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 798,
+  "fetched_ts": 1790522953057,
+  "text_sha": "120d444248b3ca3c"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "575",
+  "Modellår": "1982",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25259674",
+ "width_cm": 0,
+ "year": 1982
+}

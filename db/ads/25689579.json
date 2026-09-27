@@ -7,6 +7,8 @@
   "boat_year": 2012,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 478 gti",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25689579/f7c71f68-ab01-42af-8df3-daf06cc29b63",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.39505,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25689579/f7c71f68-ab01-42af-8df3-daf06cc29b63",
+  "https://images.blocketcdn.se/dynamic/default/item/25689579/f8a02698-02ea-411b-942e-7717066ce93c",
+  "https://images.blocketcdn.se/dynamic/default/item/25689579/6329dd43-a4fb-422c-b26a-fe4844a0c31e",
+  "https://images.blocketcdn.se/dynamic/default/item/25689579/a1be63c0-b76c-4f59-a099-9caad397f0ee",
+  "https://images.blocketcdn.se/dynamic/default/item/25689579/8527e2f2-1d9d-424e-8328-1622be0c36a0",
+  "https://images.blocketcdn.se/dynamic/default/item/25689579/c97cc678-4655-4f92-9d07-13afd00a18b4",
+  "https://images.blocketcdn.se/dynamic/default/item/25689579/7126e58d-9ada-44a8-b5b1-ce2d92316211",
+  "https://images.blocketcdn.se/dynamic/default/item/25689579/9638ac41-e2fc-4ff2-af6f-143bf2188d2a",
+  "https://images.blocketcdn.se/dynamic/default/item/25689579/c5a9269a-067a-479e-8bbe-4d1dbdb5f21a",
+  "https://images.blocketcdn.se/dynamic/default/item/25689579/f1487ccd-0af7-43e2-aa7c-40ac20705543",
+  "https://images.blocketcdn.se/dynamic/default/item/25689579/07cb2fc5-f4bf-41b2-a4a7-07dceb60f9d2",
+  "https://images.blocketcdn.se/dynamic/default/item/25689579/8e2adfd2-6462-49b2-9520-98e27bc6f640"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.4,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +82,13 @@
   "text_sha": "0103e5e815ca6dea"
  },
  "location": "Vargön",
- "lon": 12.40414,
+ "lon": 12.4,
  "make": "Ryds",
  "max_speed": 32,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 889,
   "fetched_ts": 1790508099381,
@@ -103,7 +120,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "410 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25689579",
  "width_cm": 191,
  "year": 2012

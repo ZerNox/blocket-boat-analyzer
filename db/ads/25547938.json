@@ -7,6 +7,8 @@
   "boat_year": 2001,
   "boat_year_source": "spec",
   "engine_hours": 700,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki df 60 fyrtakt",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Mittpulpet Starfighter",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25547938/c36bf90a-fd62-4d5b-9644-2233100fe91c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.92613,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25547938/c36bf90a-fd62-4d5b-9644-2233100fe91c",
+  "https://images.blocketcdn.se/dynamic/default/item/25547938/f2e7c7a8-c7a0-4ef3-a59c-f7603e8cd864",
+  "https://images.blocketcdn.se/dynamic/default/item/25547938/eeae063c-6e45-4480-8342-5194ffdcea5c",
+  "https://images.blocketcdn.se/dynamic/default/item/25547938/90c0c675-e87c-4f8d-bb09-27ba277c7bc6",
+  "https://images.blocketcdn.se/dynamic/default/item/25547938/a75ea659-37e2-4f26-9bd8-a824d7289387",
+  "https://images.blocketcdn.se/dynamic/default/item/25547938/a47eaae9-b933-4227-a6aa-05ee5d580878",
+  "https://images.blocketcdn.se/dynamic/default/item/25547938/c5ecd226-eb88-4f67-841f-c100af2d3f9f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.93,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +76,13 @@
   "text_sha": "8b7a74b871993de8"
  },
  "location": "Mullsjö",
- "lon": 13.89221,
+ "lon": 13.89,
  "make": "Ockelbo",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 185,
   "fetched_ts": 1790507979400,
@@ -103,7 +115,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "450 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25547938",
  "width_cm": 200,
  "year": 2001

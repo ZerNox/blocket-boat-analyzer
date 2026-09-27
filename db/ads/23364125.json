@@ -1,0 +1,104 @@
+{
+ "ad_id": 23364125,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788366777000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": 450,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha F 100 DETL",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "100 hk Yamaha motor -07/ 450 tim/ Nyservad motor med Kamremsbyte/Track me/Securemark",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "plotter": {
+    "evidence": "Yamarin 56 sc _07/ dynor/ Gps Lowrance 522c/ sjökort/ stereo/ankare mm",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Yamarin 56 sc _07/ dynor/ Gps Lowrance 522c/ sjökort/ stereo/ankare mm",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Yamarin 56 SC / Yamaha F100 DETL / 30 Kärra Fogelsta1400 till HÖSTPRIS",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Yamarin 56 SC  / Yamaha F100 DETL  / 30 Kärra  Fogelsta1400 till HÖSTPRIS",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Yamarin 56"
+ ],
+ "heading": "Yamarin 56 SC  / Yamaha F100 DETL  / 30 Kärra  Fogelsta1400 till HÖSTPRIS",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23364125/1006b13e-c229-4ba1-87a6-6111b32fe6cb",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23364125/1006b13e-c229-4ba1-87a6-6111b32fe6cb",
+  "https://images.blocketcdn.se/dynamic/default/item/23364125/de616cf5-8a11-4cc6-ac2c-e84d88b51580",
+  "https://images.blocketcdn.se/dynamic/default/item/23364125/429d6821-5e23-4dd5-9b4e-ab0c4f6f901e",
+  "https://images.blocketcdn.se/dynamic/default/item/23364125/efd3c3fd-7b01-4b74-b5d8-c81d607b0aa3",
+  "https://images.blocketcdn.se/dynamic/default/item/23364125/a18ed200-1195-44d8-b8b3-a38bb37092f4",
+  "https://images.blocketcdn.se/dynamic/default/item/23364125/2a1920c9-cea3-44a9-a878-956a39aa9f87",
+  "https://images.blocketcdn.se/dynamic/default/item/23364125/0e94728c-5205-4729-bb11-d930ee7ad03a"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.5,
+ "length_ft": 18,
+ "location": "Kinna",
+ "lon": 12.71,
+ "make": "Yamarin",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 224,
+  "fetched_ts": 1790522895041,
+  "text_sha": "47de593881b79c09"
+ },
+ "price": 140000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 140000
+  }
+ ],
+ "specs": {
+  "Bredd": "224 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit blå",
+  "Längd i fot": "18 fot",
+  "Modell": "56 SC",
+  "Modellår": "2007",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Yamaha F 100 DETL",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "620 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23364125",
+ "width_cm": 224,
+ "year": 2007
+}

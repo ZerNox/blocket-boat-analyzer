@@ -1,0 +1,128 @@
+{
+ "ad_id": 22765469,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788367019000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo B20",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell i dåligt skick",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Släpet på bilden ingår, obromsat ej registrerat, vet ej om det är lagligt att köra.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Folkparca",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22765469/6ed0deb3-48f5-43be-9345-7fe484120381",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22765469/6ed0deb3-48f5-43be-9345-7fe484120381",
+  "https://images.blocketcdn.se/dynamic/default/item/22765469/2b3ce4d7-961a-48da-96da-88493c03f08a",
+  "https://images.blocketcdn.se/dynamic/default/item/22765469/ffff2730-eb12-4c3b-bb6d-bc8bbbaf0ef3",
+  "https://images.blocketcdn.se/dynamic/default/item/22765469/20f29eea-c6eb-466a-be24-218f17c460fb",
+  "https://images.blocketcdn.se/dynamic/default/item/22765469/54626ba4-8c76-4e97-bd30-238458ebf85c",
+  "https://images.blocketcdn.se/dynamic/default/item/22765469/cb364f22-1576-49bb-b4ae-52288a8de955",
+  "https://images.blocketcdn.se/dynamic/default/item/22765469/f5ebf753-d135-47a1-9385-b117b22481e8",
+  "https://images.blocketcdn.se/dynamic/default/item/22765469/f6927ea7-3c1a-4ae1-b27b-54969c929c26",
+  "https://images.blocketcdn.se/dynamic/default/item/22765469/a819000a-9df5-4941-9a7a-b3cbec3bfeb5"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.57,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1975,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor Volvo B20",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1c69dd6144156d35"
+ },
+ "location": "Västerås",
+ "lon": 16.39,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 193,
+  "fetched_ts": 1790522873732,
+  "text_sha": "1c69dd6144156d35"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "21 fot",
+  "Modell": "Folkparca 22",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo B20",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "4",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22765469",
+ "width_cm": 0,
+ "year": 1975
+}

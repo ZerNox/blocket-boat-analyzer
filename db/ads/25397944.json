@@ -1,0 +1,144 @@
+{
+ "ad_id": 25397944,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1785936621000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1974,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mariner/Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1974,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Till och med trailern, så bara att koppla på bilen och köra hem.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Sjörövarbåt 19 fot 5,85 M",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25397944/d4c605c5-dcf0-4552-96fc-e3c3ddaf5aed",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/d4c605c5-dcf0-4552-96fc-e3c3ddaf5aed",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/8d00a9b8-cfd0-4e59-bb5e-de5db4c87ef1",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/aa2c499b-d1c3-4312-8c84-bc15311d5d35",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/b4754f30-eefa-4a41-865f-4d58ad47364c",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/030f9b50-3ec9-47cb-b017-e33abb625579",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/2a84678f-47d8-4298-bc0f-d1eaae94d45c",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/84faf055-6e40-4718-918a-0309ccdd6793",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/9d15c32d-79c0-4b45-b5ef-d9035ac7437a",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/03fa1a9c-5c4e-41e9-8668-b9380b12de64",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/cfd7fcfa-59d7-4c17-be26-148ad677ff16",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/59b02ea6-a55f-4c8a-9218-f5c1963d7356",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/72d570ba-2ec6-4755-82df-0b2f373f8874",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/900fb49b-bd4f-4d69-b807-589cb82312ad",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/17e68570-8bec-4540-9c60-8a379aaab8ac",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/342b89ef-befc-4bf1-9edb-8acf671dbd27",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/2d4ea279-7c0b-4b80-b092-ce099eb1322d",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/64d4aab7-2d5d-4481-bcfd-5b1ad3c95524",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/762a11fb-5e13-470e-9c5b-e6cf786f2305",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/967aa168-a60d-47bc-a35a-65e804cbb880",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/36423e06-9ff0-40b4-a8e0-a9c3296fe5ca",
+  "https://images.blocketcdn.se/dynamic/default/item/25397944/d6f317cf-e00c-4824-9935-f603d9124a07"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.09,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1974,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mariner/Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mariner (Mercury) 2t med 60 friska hästar, nyservad och helt ny impeller samt få gångtimmar.",
+   "engine_year_rejected": 2023,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f243af5e34bdbeb1"
+ },
+ "location": "Fjälkinge",
+ "lon": 14.37,
+ "make": "Mariner",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 553,
+  "fetched_ts": 1790522982694,
+  "text_sha": "f243af5e34bdbeb1"
+ },
+ "price": 36500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 36500
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Svart",
+  "Längd i fot": "19 fot",
+  "Modell": "Lillskär",
+  "Modellår": "1974",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mariner/Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Mariner",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "3",
+  "Toppfart": "30 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "495 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25397944",
+ "width_cm": 210,
+ "year": 1974
+}

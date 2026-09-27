@@ -1,0 +1,109 @@
+{
+ "ad_id": 25693847,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786695885000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1968,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 28.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1968,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ungdomsbåt 17ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ungdomsbåt 17ht",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25693847/a5d4eb25-361d-4bc3-a021-154366d75c7c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25693847/a5d4eb25-361d-4bc3-a021-154366d75c7c",
+  "https://images.blocketcdn.se/dynamic/default/item/25693847/831b61dd-e6ca-474a-a400-af53a9e0040b",
+  "https://images.blocketcdn.se/dynamic/default/item/25693847/0f4bc422-dc19-44f6-9a26-49b543dab19e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.94,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1968,
+   "engine_hours": null,
+   "engine_hp": 28,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "yamaha 28hp med elstart och dragstart",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "30a6f7c953c85b55"
+ },
+ "location": "Nusnäs",
+ "lon": 14.72,
+ "make": "Fjordling",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 290,
+  "fetched_ts": 1790523042041,
+  "text_sha": "30a6f7c953c85b55"
+ },
+ "price": 22000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 22000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "17ht",
+  "Modellår": "1968",
+  "Motor inkluderad": "Ja",
+  "Motortyp": "Utombordare",
+  "Märke": "Fjordling",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25693847",
+ "width_cm": 0,
+ "year": 1968
+}

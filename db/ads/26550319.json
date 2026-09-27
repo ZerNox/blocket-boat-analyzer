@@ -1,0 +1,75 @@
+{
+ "ad_id": 26550319,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789291693000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "SÖKER Hyttbåt Bella, SEA STAR m.fl\nÄr ute efter en bra transportbåt för skärgården. Är",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "SÖKER Hyttbåt Bella, SEA STAR m.fl",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26550319/971fbdca-d97f-49e0-8dec-971a4f9df3a0",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26550319/971fbdca-d97f-49e0-8dec-971a4f9df3a0"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.42,
+ "length_ft": 19,
+ "location": "Täby",
+ "lon": 18.11,
+ "make": "Sea Star",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 327,
+  "fetched_ts": 1790521000015,
+  "text_sha": "a603e0678f69ddf5"
+ },
+ "price": 0,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 0
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modellår": "2000",
+  "Märke": "Sea Star",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26550319",
+ "width_cm": 0,
+ "year": 2000
+}

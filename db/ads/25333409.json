@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Hidea",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -36,8 +38,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 465 med Hidea 15 hk (Elstart) & 30-trailer – Repobjekt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25333409/6e5567cd-6c1f-4429-9c15-27ae0c1ce9af",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.46644,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25333409/6e5567cd-6c1f-4429-9c15-27ae0c1ce9af",
+  "https://images.blocketcdn.se/dynamic/default/item/25333409/b65f69e2-0f8d-4dd2-b11d-b0d7a4d22b3e",
+  "https://images.blocketcdn.se/dynamic/default/item/25333409/5d773bf8-f40b-41c8-ade5-99f76e1ae9ac"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.47,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -68,12 +75,13 @@
   "text_sha": "80de42a231d0a9ca"
  },
  "location": "Åkersberga",
- "lon": 18.25032,
+ "lon": 18.25,
  "make": "Ryds",
  "max_speed": 18,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1232,
   "fetched_ts": 1790507768280,
@@ -103,7 +111,7 @@
   "Toppfart": "18 knop",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25333409",
  "width_cm": 175,
  "year": 2021

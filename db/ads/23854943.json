@@ -1,0 +1,125 @@
+{
+ "ad_id": 23854943,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785933501000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
+  "engine_maker": "Omc 3,0",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1988,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Bayliner capri motor nyservad drev nyservat med impeller går fint i motor + drev hamnkapell båtvagn ingår nytt batteri",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Bayliner capri motor nyservad drev nyservat med impeller går fint i motor + drev hamnkapell båtvagn ingår nytt batteri",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Bayliner capri",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23854943/72dfa5fa-1b92-4361-8f3e-5bfc7bfd23d0",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23854943/72dfa5fa-1b92-4361-8f3e-5bfc7bfd23d0",
+  "https://images.blocketcdn.se/dynamic/default/item/23854943/cde289a6-e70e-465e-9646-e40bf6b52cfb",
+  "https://images.blocketcdn.se/dynamic/default/item/23854943/15ee752b-8369-49d5-b46a-583c78bd459b",
+  "https://images.blocketcdn.se/dynamic/default/item/23854943/b7d687ab-f728-45cd-a60d-89096a365a1b",
+  "https://images.blocketcdn.se/dynamic/default/item/23854943/c111a55f-62c5-4998-82f2-3f945e1e1a31"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.34,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1988,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Omc",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Drev nyservad 2023 med impeller",
+   "engine_year_rejected": 2023,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1a92d4c5f8cc6a16"
+ },
+ "location": "Djurhamn",
+ "lon": 18.73,
+ "make": "Bayliner",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 118,
+  "fetched_ts": 1790522909975,
+  "text_sha": "1a92d4c5f8cc6a16"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "Capri",
+  "Modellår": "1988",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Omc 3,0",
+  "Motortyp": "Inombordare",
+  "Märke": "Bayliner",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "35 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23854943",
+ "width_cm": 0,
+ "year": 1988
+}

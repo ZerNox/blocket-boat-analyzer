@@ -1,0 +1,107 @@
+{
+ "ad_id": 25339198,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785688288000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ockelbo B15",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25339198/a1615f96-1a6e-4c6f-a673-2b91ec9d1688",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25339198/a1615f96-1a6e-4c6f-a673-2b91ec9d1688",
+  "https://images.blocketcdn.se/dynamic/default/item/25339198/285f092e-17ef-453d-a2c9-3ccc3d9d0206",
+  "https://images.blocketcdn.se/dynamic/default/item/25339198/752cb7a3-34f7-486a-9048-4f47d3e0e14c",
+  "https://images.blocketcdn.se/dynamic/default/item/25339198/00329ee3-d64d-49c7-878e-b86bdbac9d53"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.46,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0c9225b4badf39c2"
+ },
+ "location": "Vallda",
+ "lon": 11.92,
+ "make": "Ockelbo",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790520684961,
+  "text_sha": "0c9225b4badf39c2"
+ },
+ "price": 8000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 8000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "B15",
+  "Modellår": "1990",
+  "Märke": "Ockelbo",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "250 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25339198",
+ "width_cm": 180,
+ "year": 1990
+}

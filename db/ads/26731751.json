@@ -1,0 +1,118 @@
+{
+ "ad_id": 26731751,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1789890630000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100,
+  "engine_hp_source": "llm",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2008,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Fin båt med nytt kapell, gamla medföljer.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "AMT 185 HT ”Höstpris”",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "AMT 185 HT ”Höstpris”",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26731751/00a1ff96-b44b-46f6-869f-9e061a0eebb9",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26731751/00a1ff96-b44b-46f6-869f-9e061a0eebb9",
+  "https://images.blocketcdn.se/dynamic/default/item/26731751/b36f7642-ddbc-44d0-9bf3-bd12b32e92c8"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.02,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2008,
+   "engine_hours": null,
+   "engine_hp": 100,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c75a468999e3cceb"
+ },
+ "location": "Uddeholm",
+ "lon": 13.63,
+ "make": "AMT",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 219,
+  "fetched_ts": 1790523211048,
+  "text_sha": "c75a468999e3cceb"
+ },
+ "price": 154000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 154000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "185 HT",
+  "Modellår": "2008",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "AMT",
+  "Sittplatser": "7",
+  "Sovplatser": "2",
+  "Toppfart": "32 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26731751",
+ "width_cm": 0,
+ "year": 2008
+}

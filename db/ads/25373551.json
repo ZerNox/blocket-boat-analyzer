@@ -7,6 +7,8 @@
   "boat_year": 2019,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude (E75)",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -31,6 +33,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Sting 600 Pro HT",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -40,10 +46,26 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Sting 600 Pro HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25373551/023e3ab4-7995-4c28-96b8-dc3cb79c2cea",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.7554,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25373551/023e3ab4-7995-4c28-96b8-dc3cb79c2cea",
+  "https://images.blocketcdn.se/dynamic/default/item/25373551/0c1b76da-c8c1-4260-b608-5d236129e7d9",
+  "https://images.blocketcdn.se/dynamic/default/item/25373551/f8a6d08d-01bc-4143-b7ad-9d9addea0ff7",
+  "https://images.blocketcdn.se/dynamic/default/item/25373551/315afb92-b1d6-47e2-9fc9-2efcba6876a8",
+  "https://images.blocketcdn.se/dynamic/default/item/25373551/3bcef95a-5304-4445-9861-9d1cec607a90",
+  "https://images.blocketcdn.se/dynamic/default/item/25373551/d18e11be-6443-4944-87b6-ed70d9978ac3",
+  "https://images.blocketcdn.se/dynamic/default/item/25373551/2983bc01-e0fe-4af5-a940-2b0ac0f31b31",
+  "https://images.blocketcdn.se/dynamic/default/item/25373551/3dc42aa1-db86-45c9-80d3-5be8ccf3470b",
+  "https://images.blocketcdn.se/dynamic/default/item/25373551/32baa0af-fde2-497e-aadd-52a047acdcba",
+  "https://images.blocketcdn.se/dynamic/default/item/25373551/8f587b26-7e6f-48de-bc70-cc0ff1ce7b66",
+  "https://images.blocketcdn.se/dynamic/default/item/25373551/5decf36a-f135-4ed6-a71a-2a51d63e1c00"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.76,
  "length_ft": 20,
  "llm": {
   "at": "2026-09-27",
@@ -73,7 +95,7 @@
   "text_sha": "553a0ebbf51a9b9d"
  },
  "location": "Tanumshede",
- "lon": 11.34475,
+ "lon": 11.34,
  "make": "Sting",
  "max_speed": 28,
  "motor_fuel": "Bensin",

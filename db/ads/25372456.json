@@ -7,6 +7,8 @@
   "boat_year": 2023,
   "boat_year_source": "spec",
   "engine_hours": 101,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -43,8 +45,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR442sc Tohatsu 50hk med trailer 2023",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25372456/8a45e285-7fcd-44a7-b9dd-7ba486aaac94",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.16356,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25372456/8a45e285-7fcd-44a7-b9dd-7ba486aaac94",
+  "https://images.blocketcdn.se/dynamic/default/item/25372456/f1abadae-f930-424a-b255-c84a34d5ebb6",
+  "https://images.blocketcdn.se/dynamic/default/item/25372456/7d07a0cc-87e2-4af2-9f45-d424f3e9ae0f",
+  "https://images.blocketcdn.se/dynamic/default/item/25372456/67e15c29-a0cc-4f76-9be6-33bf093e95a6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.16,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -75,12 +83,13 @@
   "text_sha": "5c1b0c934e8c8e75"
  },
  "location": "Ludvika",
- "lon": 15.21505,
+ "lon": 15.22,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 186,
   "fetched_ts": 1790507812320,
@@ -110,7 +119,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "310 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25372456",
  "width_cm": 188,
  "year": 2023

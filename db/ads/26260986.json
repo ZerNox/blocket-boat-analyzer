@@ -1,0 +1,115 @@
+{
+ "ad_id": 26260986,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788372550000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 10,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod: Garmin Striker Vivid 4cv",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Obromsad 80-trailer.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Höga rodd 430S",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26260986/283e57ef-3473-4b18-9911-8084489aee50",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26260986/283e57ef-3473-4b18-9911-8084489aee50",
+  "https://images.blocketcdn.se/dynamic/default/item/26260986/cc225798-67e5-4ab7-aaf9-05fe2f039269",
+  "https://images.blocketcdn.se/dynamic/default/item/26260986/f4e4cb3b-eaa6-4bb5-ae60-10b536895d53",
+  "https://images.blocketcdn.se/dynamic/default/item/26260986/13406ae7-1062-4df6-993a-35cc814804b4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.18,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": null,
+   "engine_hours": null,
+   "engine_hp": 10,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor: Mariner 10 kW. Okänd årsmodell",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f1e2d3b05d61d079"
+ },
+ "location": "Fjugesta",
+ "lon": 14.87,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 288,
+  "fetched_ts": 1790520933512,
+  "text_sha": "f1e2d3b05d61d079"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "Höga rodd 430S",
+  "Modellår": "2000",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26260986",
+ "width_cm": 0,
+ "year": 2000
+}

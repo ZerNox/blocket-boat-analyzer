@@ -7,6 +7,8 @@
   "boat_year": 2001,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -31,8 +33,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster S1 Small",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26495015/aece5f9e-bac7-4032-b404-87bbd1d64ac3",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.30508,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26495015/aece5f9e-bac7-4032-b404-87bbd1d64ac3",
+  "https://images.blocketcdn.se/dynamic/default/item/26495015/c2c653e2-9d93-49b9-8ea5-29f835dea67b",
+  "https://images.blocketcdn.se/dynamic/default/item/26495015/52c1ef87-f75f-4c99-b9f1-f4958e5f74ea",
+  "https://images.blocketcdn.se/dynamic/default/item/26495015/9c4c9c39-e50c-4cfb-bf1a-b8fbfc2b90d5",
+  "https://images.blocketcdn.se/dynamic/default/item/26495015/7cea5ac3-f0ac-4a40-842f-a62a50beabc4",
+  "https://images.blocketcdn.se/dynamic/default/item/26495015/eef57b1d-1652-4b96-a46d-1884a9462845"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.31,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -62,12 +72,13 @@
   "text_sha": "e6767648ec7189f4"
  },
  "location": "Nacka",
- "lon": 18.15132,
+ "lon": 18.15,
  "make": "Buster",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 860,
   "fetched_ts": 1790508736552,
@@ -100,7 +111,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "350 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26495015",
  "width_cm": 182,
  "year": 2001

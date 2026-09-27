@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 440",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26666456/b64d9b7c-8d14-4fb9-aabd-b466322f7533",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.64017,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26666456/b64d9b7c-8d14-4fb9-aabd-b466322f7533",
+  "https://images.blocketcdn.se/dynamic/default/item/26666456/1b7b7388-33e2-4e61-b5ce-ffd281b518af",
+  "https://images.blocketcdn.se/dynamic/default/item/26666456/04b76f1f-ea28-4284-bdc3-81eb07dfa73e",
+  "https://images.blocketcdn.se/dynamic/default/item/26666456/d4620c43-9f0f-4ee4-8c70-58ca39df3ef9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.64,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +74,13 @@
   "text_sha": "088935b814eb72a4"
  },
  "location": "Gunnebo",
- "lon": 16.60973,
+ "lon": 16.61,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 47,
   "fetched_ts": 1790508857885,
@@ -99,7 +108,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26666456",
  "width_cm": 0,
  "year": 1980

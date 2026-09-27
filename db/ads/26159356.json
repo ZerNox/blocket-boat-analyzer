@@ -1,0 +1,106 @@
+{
+ "ad_id": 26159356,
+ "boat_class": "Annat",
+ "changed_ts": 1788087175000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": "äldre 4-cylindrig Volvo Penta dieselmotor, rak axel och Volvo Penta-reglage. Klassisk styrpulpet med träratt, rostfria r",
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Pollux 21 – klassisk Skärhamnsbåt med Volvo Penta diesel",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26159356/a923eb0d-6048-491e-88d0-6ece0f839b44",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26159356/a923eb0d-6048-491e-88d0-6ece0f839b44",
+  "https://images.blocketcdn.se/dynamic/default/item/26159356/dbf47714-01ae-4f8a-a0eb-a82ea092d11d",
+  "https://images.blocketcdn.se/dynamic/default/item/26159356/9baa35db-a1f6-4329-acb0-fa62bb14d4c7",
+  "https://images.blocketcdn.se/dynamic/default/item/26159356/be49f604-7426-4c6e-8fcb-99962fb9e1cc",
+  "https://images.blocketcdn.se/dynamic/default/item/26159356/e2969df9-1bad-48d0-abc2-005feeb61078",
+  "https://images.blocketcdn.se/dynamic/default/item/26159356/5c0128cd-d43a-4ae8-bc5e-41b506871eff",
+  "https://images.blocketcdn.se/dynamic/default/item/26159356/014d1fba-7e68-4819-a074-806cd6d1ea67",
+  "https://images.blocketcdn.se/dynamic/default/item/26159356/83420588-5d29-4b63-b541-bf31f729436c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.99,
+ "length_ft": 6,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": null,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6a4fd5d2cee647f8"
+ },
+ "location": "Skärhamn",
+ "lon": 11.56,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1337,
+  "fetched_ts": 1790520912909,
+  "text_sha": "6a4fd5d2cee647f8"
+ },
+ "price": 190000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 190000
+  }
+ ],
+ "specs": {
+  "Bredd": "3 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "6 fot",
+  "Modellår": "1970",
+  "Märke": "Övriga",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26159356",
+ "width_cm": 3,
+ "year": 1970
+}

@@ -7,6 +7,8 @@
   "boat_year": 1987,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 481R 40 hk yamaha",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26408472/fdfeea39-96e5-498d-8714-04c0cb3885a0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.45004,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26408472/fdfeea39-96e5-498d-8714-04c0cb3885a0",
+  "https://images.blocketcdn.se/dynamic/default/item/26408472/a656601f-91c1-4694-94da-0a7acb87d188",
+  "https://images.blocketcdn.se/dynamic/default/item/26408472/492e8733-f8ae-4ea4-b472-ece12a256b0e",
+  "https://images.blocketcdn.se/dynamic/default/item/26408472/383676e0-c96b-48b0-9625-240c244ec18d",
+  "https://images.blocketcdn.se/dynamic/default/item/26408472/c303de50-98cb-43dc-b9b4-30adf7675ee5",
+  "https://images.blocketcdn.se/dynamic/default/item/26408472/0639b4e4-c42b-46df-b437-44a62861299e",
+  "https://images.blocketcdn.se/dynamic/default/item/26408472/816f0830-8ac0-4467-aa9a-74e8b1ce5a6b",
+  "https://images.blocketcdn.se/dynamic/default/item/26408472/db3f9f55-95ec-422f-bde0-11345a241de0",
+  "https://images.blocketcdn.se/dynamic/default/item/26408472/ece12bb1-43c9-4693-863d-7cb1aadf24e3",
+  "https://images.blocketcdn.se/dynamic/default/item/26408472/0b34b72c-cd68-423f-8f92-1d8533f3635e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.45,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +84,13 @@
   "text_sha": "214c514c3dcae4af"
  },
  "location": "Gräsö",
- "lon": 18.45358,
+ "lon": 18.45,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 292,
   "fetched_ts": 1790508670474,
@@ -105,7 +120,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "275 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26408472",
  "width_cm": 188,
  "year": 1987

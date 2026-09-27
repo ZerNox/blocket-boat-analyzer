@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik HT med Johnson 40 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25294371/6fd54110-61f3-4039-8e07-78b5dd80de89",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.31022,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25294371/6fd54110-61f3-4039-8e07-78b5dd80de89",
+  "https://images.blocketcdn.se/dynamic/default/item/25294371/60d32e3f-9e21-4d2b-8a88-662ab24d8424"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.31,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +76,13 @@
   "text_sha": "557c97bcf07dc5fd"
  },
  "location": "Glimåkra",
- "lon": 14.14036,
+ "lon": 14.14,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 407,
   "fetched_ts": 1790507736993,
@@ -100,7 +107,7 @@
   "Märke": "Örnvik",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25294371",
  "width_cm": 0,
  "year": 1978

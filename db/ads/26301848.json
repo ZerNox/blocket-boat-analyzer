@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": null,
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt 40 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26301848/b31d2759-a966-47f0-9f40-f02738c26dba",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.84223,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26301848/b31d2759-a966-47f0-9f40-f02738c26dba",
+  "https://images.blocketcdn.se/dynamic/default/item/26301848/eb4f1b8a-444b-4f25-b05f-bc9cb20782d4",
+  "https://images.blocketcdn.se/dynamic/default/item/26301848/3faa0f58-6162-4296-8904-9b090021b27c",
+  "https://images.blocketcdn.se/dynamic/default/item/26301848/3eb279d8-1300-4faf-bc3e-c2d32d9c366a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.84,
  "length_ft": 5,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +74,13 @@
   "text_sha": "f0fef2e3e0bd7929"
  },
  "location": "Annelöv",
- "lon": 13.01525,
+ "lon": 13.02,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 40.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 54,
   "fetched_ts": 1790508583543,
@@ -95,7 +104,7 @@
   "Märke": "Crescent",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26301848",
  "width_cm": 0,
  "year": 1980

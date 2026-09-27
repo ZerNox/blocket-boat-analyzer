@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercery",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -43,8 +45,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 430 fiskebåt mercury 20hk 4takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26135305/35b5a099-3b9e-4280-ae9d-681c8e55c004",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.23677,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26135305/35b5a099-3b9e-4280-ae9d-681c8e55c004",
+  "https://images.blocketcdn.se/dynamic/default/item/26135305/29e31741-219a-406e-b83a-38b108b81b94",
+  "https://images.blocketcdn.se/dynamic/default/item/26135305/09cbd7ee-32d0-45de-8c43-22c1fa73be64",
+  "https://images.blocketcdn.se/dynamic/default/item/26135305/e144df98-42ca-4831-b09d-07d6546ac0ae"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.24,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -75,12 +83,13 @@
   "text_sha": "b5c7d8646c7502f9"
  },
  "location": "Stora Mellösa",
- "lon": 15.55252,
+ "lon": 15.55,
  "make": "Crescent",
  "max_speed": 18,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 533,
   "fetched_ts": 1790508479061,
@@ -111,7 +120,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "210 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26135305",
  "width_cm": 190,
  "year": 1978

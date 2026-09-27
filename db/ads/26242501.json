@@ -7,6 +7,8 @@
   "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -27,26 +29,34 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Höstfynd",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26242501/bc2053f3-9a62-4b05-9adb-52269f1ca1dd",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.59686,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26242501/bc2053f3-9a62-4b05-9adb-52269f1ca1dd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.6,
  "length_ft": 442,
  "location": "Donsö",
- "lon": 11.81988,
+ "lon": 11.82,
  "make": "HR",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 229,
   "fetched_ts": 1790508547055,
   "text_sha": "a353de8dfa4a52e7"
  },
- "price": 80000,
+ "price": 73000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 80000
+  },
+  {
+   "date": "2026-09-27",
+   "price": 73000
   }
  ],
  "specs": {
@@ -68,7 +78,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "1 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26242501",
  "width_cm": 0,
  "year": 2016

@@ -7,6 +7,8 @@
   "boat_year": 1972,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude VRO",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -23,6 +25,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "båt” för oss, härligt med hardtop och utrymme att lasta och förvara strandleksaker, solstolar, filtar och",
+  "hull_source": "rule:text",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -32,10 +38,19 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Ryds Camping",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22518149/0b497756-0ba5-4f0b-9eb2-24645b4ab43f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.88633,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22518149/0b497756-0ba5-4f0b-9eb2-24645b4ab43f",
+  "https://images.blocketcdn.se/dynamic/default/item/22518149/b4cb9cd7-8507-45a5-8eee-acd5f22edfd1",
+  "https://images.blocketcdn.se/dynamic/default/item/22518149/f6735f6e-a34d-4a91-99a9-511cec911742",
+  "https://images.blocketcdn.se/dynamic/default/item/22518149/c1a266ba-139b-48e1-a3c9-377e9bb802b3"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.89,
  "length_ft": 19,
  "llm": {
   "at": "2026-09-27",
@@ -65,7 +80,7 @@
   "text_sha": "6ebf704a625baa6d"
  },
  "location": "Nynäshamn",
- "lon": 17.93927,
+ "lon": 17.94,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",

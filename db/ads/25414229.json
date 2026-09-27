@@ -7,6 +7,8 @@
   "boat_year": 2014,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 480 SC *Nyservad",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25414229/85f3affa-cb96-4796-9238-dfd5fc65f532",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.31649,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25414229/85f3affa-cb96-4796-9238-dfd5fc65f532",
+  "https://images.blocketcdn.se/dynamic/default/item/25414229/20d6fdef-ed56-4808-9b0f-cce81b962858",
+  "https://images.blocketcdn.se/dynamic/default/item/25414229/55809bb4-6b55-4064-8341-14204753b79d",
+  "https://images.blocketcdn.se/dynamic/default/item/25414229/f6dc1541-754f-4c22-835a-ad9b155149e2",
+  "https://images.blocketcdn.se/dynamic/default/item/25414229/86467c24-6e2f-497c-b485-57f8074da181",
+  "https://images.blocketcdn.se/dynamic/default/item/25414229/7656eef0-dc80-46f6-8a31-15be9f2e6b8e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +75,13 @@
   "text_sha": "36ace7e145b73068"
  },
  "location": "Kristinehamn",
- "lon": 14.12145,
+ "lon": 14.12,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 182,
   "fetched_ts": 1790507849137,
@@ -98,7 +109,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "420 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25414229",
  "width_cm": 206,
  "year": 2014

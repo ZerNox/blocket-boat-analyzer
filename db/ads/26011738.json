@@ -7,6 +7,8 @@
   "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -36,8 +38,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Norrbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26011738/7c78dbc1-c965-4ecd-bc46-48e08df3b494",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.86216,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26011738/7c78dbc1-c965-4ecd-bc46-48e08df3b494",
+  "https://images.blocketcdn.se/dynamic/default/item/26011738/2708cd2a-0b24-44f7-8998-629b114060fe",
+  "https://images.blocketcdn.se/dynamic/default/item/26011738/70c893f6-1001-498c-857b-8cdc6e7e4783",
+  "https://images.blocketcdn.se/dynamic/default/item/26011738/12f44383-e35f-4f96-920a-bf581ee9c530"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.86,
  "length_ft": 123,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +75,13 @@
   "text_sha": "4a8acf12b1e39f70"
  },
  "location": "Boden",
- "lon": 21.58917,
+ "lon": 21.59,
  "make": "Norbåt",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 182,
   "fetched_ts": 1790508382791,
@@ -100,7 +109,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "65 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26011738",
  "width_cm": 0,
  "year": 2010

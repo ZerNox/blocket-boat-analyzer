@@ -1,0 +1,113 @@
+{
+ "ad_id": 25921362,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787990977000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2011,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Original dyner medföljer samt båtkärra och diverse utrustning såsom tampar ankare mm.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds 478 GTI",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25921362/c85472db-34de-4a74-b211-8715287d1c02",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25921362/c85472db-34de-4a74-b211-8715287d1c02",
+  "https://images.blocketcdn.se/dynamic/default/item/25921362/0d50e9d0-a11f-4044-a67e-d0c3e12adddc",
+  "https://images.blocketcdn.se/dynamic/default/item/25921362/9094b2c2-72d6-4704-ba95-566cbe2c7472",
+  "https://images.blocketcdn.se/dynamic/default/item/25921362/4c1edf00-c69d-4dd2-9feb-93bf8c4eb909",
+  "https://images.blocketcdn.se/dynamic/default/item/25921362/787262ba-26d0-4605-93a2-0293a219a59c",
+  "https://images.blocketcdn.se/dynamic/default/item/25921362/721b6899-f1f8-4cc3-91ac-541401e9dc53"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.72,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2011,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "970ca463f0477686"
+ },
+ "location": "Torslanda",
+ "lon": 11.72,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 219,
+  "fetched_ts": 1790520860969,
+  "text_sha": "970ca463f0477686"
+ },
+ "price": 100000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 100000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "Ryds 478 GTI",
+  "Modellår": "2011",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25921362",
+ "width_cm": 0,
+ "year": 2011
+}

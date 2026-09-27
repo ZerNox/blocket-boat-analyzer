@@ -7,6 +7,8 @@
   "boat_year": 2023,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -47,8 +49,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Kimple 460 Adventure",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25637829/e5e0d4e0-828d-41b6-a815-5a7cd075cff7",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.89359,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25637829/e5e0d4e0-828d-41b6-a815-5a7cd075cff7",
+  "https://images.blocketcdn.se/dynamic/default/item/25637829/125725a5-6fa5-4c3e-814b-11104c3334bb",
+  "https://images.blocketcdn.se/dynamic/default/item/25637829/10f95861-8609-4dc9-9f24-553ed3c73914"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.89,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -78,12 +85,13 @@
   "text_sha": "0aad7be79b085c1e"
  },
  "location": "Umeå",
- "lon": 20.36004,
+ "lon": 20.36,
  "make": "Kimple",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 834,
   "fetched_ts": 1790508067428,
@@ -111,7 +119,7 @@
   "Toppfart": "25 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25637829",
  "width_cm": 185,
  "year": 2023

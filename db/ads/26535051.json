@@ -1,0 +1,94 @@
+{
+ "ad_id": 26535051,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789225218000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2000,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer en välvårdad Uttern 5500 DC med pålitlig Mercury 90 hk 4-takt från 2000.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "plotter": {
+    "evidence": "Raymarine element 7s GPS",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ny 30-kärra.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 5500 DC",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Uttern 5500"
+ ],
+ "heading": "Uttern 5500 DC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26535051/9f479246-d524-4556-a8f6-dc71530c4ba2",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26535051/9f479246-d524-4556-a8f6-dc71530c4ba2",
+  "https://images.blocketcdn.se/dynamic/default/item/26535051/08d0c976-0de1-4a4a-b47d-fbd510e1fd0b",
+  "https://images.blocketcdn.se/dynamic/default/item/26535051/aeb15286-4f33-4ec6-a3d6-4ae1088b7a6f",
+  "https://images.blocketcdn.se/dynamic/default/item/26535051/037aab84-12c6-44b0-b97e-017c9eccf258"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.33,
+ "length_ft": 18,
+ "location": "Rödeby",
+ "lon": 15.62,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 446,
+  "fetched_ts": 1790523186403,
+  "text_sha": "5c801c70824025d1"
+ },
+ "price": 129000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 129000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "5500 dc",
+  "Modellår": "2000",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26535051",
+ "width_cm": 0,
+ "year": 2000
+}

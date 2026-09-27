@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 490",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26075639/065bcb04-b1d3-46c1-942b-2f24fa6a3c22",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.64631,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26075639/065bcb04-b1d3-46c1-942b-2f24fa6a3c22",
+  "https://images.blocketcdn.se/dynamic/default/item/26075639/d590fc33-a645-4750-a7c5-9901908c686a",
+  "https://images.blocketcdn.se/dynamic/default/item/26075639/087e1637-f92e-4999-b6d8-d6187f4176ce",
+  "https://images.blocketcdn.se/dynamic/default/item/26075639/223b429e-6788-4002-a3d7-42b85484652e",
+  "https://images.blocketcdn.se/dynamic/default/item/26075639/363f8863-3595-4bda-bb80-cd23c4d1b946"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.65,
  "length_ft": 490,
  "llm": {
   "at": "2026-09-27",
@@ -61,12 +70,13 @@
   "text_sha": "9f3c33fe31316327"
  },
  "location": "Västra Frölunda",
- "lon": 11.8558,
+ "lon": 11.86,
  "make": "Örnvik",
  "max_speed": 23,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 212,
   "fetched_ts": 1790508435915,
@@ -93,7 +103,7 @@
   "Toppfart": "23 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26075639",
  "width_cm": 0,
  "year": 1990

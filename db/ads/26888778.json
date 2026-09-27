@@ -7,6 +7,8 @@
   "boat_year": 2004,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Rana 17 med Yamaha 30hkr",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26888778/8f4150b4-7a9a-434d-8668-c17c480e3428",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.58171,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26888778/8f4150b4-7a9a-434d-8668-c17c480e3428",
+  "https://images.blocketcdn.se/dynamic/default/item/26888778/f1769745-5a01-45ca-8b4f-ee9b9a2794bc",
+  "https://images.blocketcdn.se/dynamic/default/item/26888778/587a4d3f-b4a2-48ac-baad-7d307a0b589e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.58,
  "length_ft": 5,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "ee09271345d8971f"
  },
  "location": "Luleå",
- "lon": 21.82567,
+ "lon": 21.83,
  "make": "Rana",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 355,
   "fetched_ts": 1790509003599,
@@ -94,7 +102,7 @@
   "Märke": "Rana",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26888778",
  "width_cm": 0,
  "year": 2004

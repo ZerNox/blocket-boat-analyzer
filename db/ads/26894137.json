@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Micore 49GT 70HK med tilt och trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26894137/c4fb371b-b728-43b4-9ebf-844cf6618d9c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.52228,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26894137/c4fb371b-b728-43b4-9ebf-844cf6618d9c",
+  "https://images.blocketcdn.se/dynamic/default/item/26894137/8a4f09e5-6570-4b3e-8bb4-c42b60318b68",
+  "https://images.blocketcdn.se/dynamic/default/item/26894137/5e60d04a-e49a-4784-b259-daf53e265526",
+  "https://images.blocketcdn.se/dynamic/default/item/26894137/150de4fd-cbf5-4854-94a6-5d53daf53ae1",
+  "https://images.blocketcdn.se/dynamic/default/item/26894137/ecfa38c5-dd97-4dbd-8513-5456c85a1bf0",
+  "https://images.blocketcdn.se/dynamic/default/item/26894137/6a3622eb-8c80-4f06-b08d-2babfd96e9b6",
+  "https://images.blocketcdn.se/dynamic/default/item/26894137/83ca02b2-3486-489d-9f8e-7f6cb5d795a1",
+  "https://images.blocketcdn.se/dynamic/default/item/26894137/9ecfdb5f-7ad0-43e7-8812-87bb6b2e1c20",
+  "https://images.blocketcdn.se/dynamic/default/item/26894137/4999c5a2-598b-4a47-93e1-3b525d3a0f59"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.52,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +79,13 @@
   "text_sha": "1f16aef3fad4e8e3"
  },
  "location": "Djurås",
- "lon": 15.09605,
+ "lon": 15.1,
  "make": "Micore",
  "max_speed": 38,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 268,
   "fetched_ts": 1790509007979,
@@ -101,7 +115,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "350 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26894137",
  "width_cm": 0,
  "year": 1995

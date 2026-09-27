@@ -7,6 +7,8 @@
   "boat_year": 2020,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder  445 Sportsman max o båttrailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25886880/0bc00127-6e7e-4612-b6ba-c31687dd3899",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.36045,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25886880/0bc00127-6e7e-4612-b6ba-c31687dd3899",
+  "https://images.blocketcdn.se/dynamic/default/item/25886880/668ef6fd-d2b6-471a-9a72-a8a02f0f0b04"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.36,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +76,13 @@
   "text_sha": "761eabb63dad44da"
  },
  "location": "Sundbyberg",
- "lon": 17.9617,
+ "lon": 17.96,
  "make": "Linder",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 319,
   "fetched_ts": 1790508274931,
@@ -103,7 +110,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25886880",
  "width_cm": 0,
  "year": 2020

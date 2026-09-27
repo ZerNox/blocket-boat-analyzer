@@ -1,0 +1,78 @@
+{
+ "ad_id": 25801838,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786987263000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2009,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Minn kota endura C2 34  -  2018",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Minn kota endura C2 34 - 2018",
+  "engine_year_source": "rule:spec",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Terhi saiman",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25801838/1317c2c5-0d50-4aa4-90f8-3451eeafb914",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25801838/1317c2c5-0d50-4aa4-90f8-3451eeafb914",
+  "https://images.blocketcdn.se/dynamic/default/item/25801838/6a770756-c834-4048-ac7e-fc856c93b3a5",
+  "https://images.blocketcdn.se/dynamic/default/item/25801838/48bb8e1b-e725-4c78-906f-55b02a62da13",
+  "https://images.blocketcdn.se/dynamic/default/item/25801838/6dbeec1e-48da-4b7a-af7e-be1ef45094a6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.12,
+ "length_ft": 15,
+ "location": "Hasslö",
+ "lon": 15.48,
+ "make": "Terhi",
+ "max_speed": null,
+ "motor_fuel": "Elektrisk",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790520837172,
+  "text_sha": "294f32b8ca1c0b95"
+ },
+ "price": 15500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Elektrisk",
+  "Längd i fot": "15 fot",
+  "Modell": "Saiman",
+  "Modellår": "2009",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Minn kota endura C2 34  -  2018",
+  "Motortyp": "Utombordare",
+  "Märke": "Terhi",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25801838",
+ "width_cm": 0,
+ "year": 2009
+}

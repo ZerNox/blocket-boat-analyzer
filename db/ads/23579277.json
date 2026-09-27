@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 3.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "1852-marine",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Gummibåt inkl 3hk elmotor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23579277/46637ab7-3aa5-4900-afd6-2565348125d5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.46364,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23579277/46637ab7-3aa5-4900-afd6-2565348125d5",
+  "https://images.blocketcdn.se/dynamic/default/item/23579277/6a2b6ed5-070e-4f33-8a57-4391317783a0",
+  "https://images.blocketcdn.se/dynamic/default/item/23579277/d1fe1082-99db-4a14-bbd7-cf02dd89f1b2",
+  "https://images.blocketcdn.se/dynamic/default/item/23579277/12ea9151-64af-422e-96c8-3d546862fa0f",
+  "https://images.blocketcdn.se/dynamic/default/item/23579277/491c5f2a-20cb-4d6c-acc5-57a56f80ec05"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.46,
  "length_ft": 8,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "be663e4bb1e5f593"
  },
  "location": "Vallda",
- "lon": 12.00941,
+ "lon": 12.01,
  "make": "AQUARIB",
  "max_speed": null,
  "motor_fuel": "Elektrisk",
  "motor_size": 3.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 28,
   "fetched_ts": 1790507517462,
@@ -95,7 +105,7 @@
   "Märke": "AQUARIB",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23579277",
  "width_cm": 0,
  "year": 2021

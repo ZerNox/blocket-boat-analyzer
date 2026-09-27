@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": 11,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sting 535 Pro Mercury F50 EFI",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26084162/01f0f213-fbce-4fac-bd3c-1c10ebdd82ea",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.32772,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26084162/01f0f213-fbce-4fac-bd3c-1c10ebdd82ea",
+  "https://images.blocketcdn.se/dynamic/default/item/26084162/8da920fb-04a7-4fe5-a56f-71d40ca59fe6",
+  "https://images.blocketcdn.se/dynamic/default/item/26084162/489cef4d-f5f9-40ec-8554-77e8e0e51651",
+  "https://images.blocketcdn.se/dynamic/default/item/26084162/b78deae9-0f7a-4b8b-835e-9908b9e1ec8c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.33,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +75,13 @@
   "text_sha": "c52633ee7a2c245d"
  },
  "location": "Själevad",
- "lon": 18.53007,
+ "lon": 18.53,
  "make": "Sting",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 192,
   "fetched_ts": 1790508444206,
@@ -102,7 +111,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26084162",
  "width_cm": 223,
  "year": 2021

@@ -7,6 +7,8 @@
   "boat_year": 2017,
   "boat_year_source": "spec",
   "engine_hours": 150,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 480 SC med Suzuki utombordare 60 HK",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25768436/0d2bc241-b164-4b84-a051-2622d8c4f95c",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.31374,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25768436/0d2bc241-b164-4b84-a051-2622d8c4f95c",
+  "https://images.blocketcdn.se/dynamic/default/item/25768436/7827a932-c08c-47a2-b387-7f0aa9e2a568",
+  "https://images.blocketcdn.se/dynamic/default/item/25768436/c7d7f316-18a0-46bd-9090-b3fc6acd0424",
+  "https://images.blocketcdn.se/dynamic/default/item/25768436/c06b920a-3c89-4ff6-b5ba-e93feb430f72",
+  "https://images.blocketcdn.se/dynamic/default/item/25768436/0af15546-071f-4a9b-8982-0e7d35adfeb2",
+  "https://images.blocketcdn.se/dynamic/default/item/25768436/d5bdb2f2-282c-4ff7-b15f-56ace3c78b0c",
+  "https://images.blocketcdn.se/dynamic/default/item/25768436/fe0858c2-01ee-4bc8-975d-aaf44bbe6a78"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.31,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +76,13 @@
   "text_sha": "82219c1d5a8fcb4b"
  },
  "location": "Skoghall",
- "lon": 13.473,
+ "lon": 13.47,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 132,
   "fetched_ts": 1790508173539,
@@ -96,7 +108,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25768436",
  "width_cm": 0,
  "year": 2017

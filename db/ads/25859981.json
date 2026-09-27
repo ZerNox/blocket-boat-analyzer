@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 535 – Mercury 60 hk – 50 000 kr",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25859981/003c67b5-2cd2-4e36-a446-2a3cfebe6856",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.32107,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25859981/003c67b5-2cd2-4e36-a446-2a3cfebe6856",
+  "https://images.blocketcdn.se/dynamic/default/item/25859981/bf83dd92-116a-4c36-9f8b-47d200b53a14",
+  "https://images.blocketcdn.se/dynamic/default/item/25859981/4d8eff43-55d9-4c50-89e9-76b5b8d05b24",
+  "https://images.blocketcdn.se/dynamic/default/item/25859981/bde799d8-7d36-4815-a06c-264befba9d0f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "a3bc8f59c4da5890"
  },
  "location": "Eskilstuna",
- "lon": 16.35681,
+ "lon": 16.36,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 354,
   "fetched_ts": 1790508254249,
@@ -90,7 +99,7 @@
   "Märke": "Ryds",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25859981",
  "width_cm": 0,
  "year": 2000

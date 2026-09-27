@@ -1,0 +1,108 @@
+{
+ "ad_id": 26038252,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787689160000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "75hk Mercury från -04",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell 2023",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Stereo och fyra högtalare.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "inkl trailer",
+    "included": true,
+    "year": 2023
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 530DC - 75hk Mercury - inkl trailer",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Ryds 530"
+ ],
+ "heading": "Ryds 530DC - 75hk Mercury - inkl trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26038252/86f51dc4-4fcf-4a5f-9c5f-e41a9f415715",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26038252/86f51dc4-4fcf-4a5f-9c5f-e41a9f415715",
+  "https://images.blocketcdn.se/dynamic/default/item/26038252/1f953913-f528-472f-9f87-9ebd2cad4969",
+  "https://images.blocketcdn.se/dynamic/default/item/26038252/322a71ae-8468-488a-b8d5-6b9ca482697e",
+  "https://images.blocketcdn.se/dynamic/default/item/26038252/713c79c3-1378-4482-afd2-3fa106707dce",
+  "https://images.blocketcdn.se/dynamic/default/item/26038252/bbb81c95-327e-4564-b51b-4f75da86489a",
+  "https://images.blocketcdn.se/dynamic/default/item/26038252/109e2178-35ef-404d-8848-4799b4a45fbf",
+  "https://images.blocketcdn.se/dynamic/default/item/26038252/49630786-3350-4135-ad58-5b1bc330371b",
+  "https://images.blocketcdn.se/dynamic/default/item/26038252/8a8e705e-bb28-4a74-b708-bba451ca1bb7",
+  "https://images.blocketcdn.se/dynamic/default/item/26038252/4fea5eeb-bcd8-41cb-869f-afb777601e05"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.38,
+ "length_ft": 18,
+ "location": "Fårbo",
+ "lon": 16.49,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 394,
+  "fetched_ts": 1790523110716,
+  "text_sha": "6389997752355532"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "530DC",
+  "Modellår": "1996",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26038252",
+ "width_cm": 220,
+ "year": 1996
+}

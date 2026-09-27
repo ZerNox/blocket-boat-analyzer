@@ -1,0 +1,138 @@
+{
+ "ad_id": 26169249,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788360032000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": 475,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury Optimax",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Oregistrerat 80-släp kan medfölja vid smidig affär.",
+    "included": true,
+    "kmh": 80
+   },
+   "vinterkapell": {
+    "evidence": "Vinterpresenning med ställning kan medfölja vid smidig affär.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Bella 572"
+ ],
+ "heading": "Bella 572 c",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26169249/8e024594-5818-4f83-b0fc-e6f23f3210b9",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26169249/8e024594-5818-4f83-b0fc-e6f23f3210b9",
+  "https://images.blocketcdn.se/dynamic/default/item/26169249/9b7a2861-4380-4b21-85b8-36a4ac318a11",
+  "https://images.blocketcdn.se/dynamic/default/item/26169249/8064d62c-6319-4b72-a1ba-74d5c02c2023",
+  "https://images.blocketcdn.se/dynamic/default/item/26169249/1f3dc461-e82a-412f-b913-4c1eca0a8eb2",
+  "https://images.blocketcdn.se/dynamic/default/item/26169249/19ac5ad2-7248-4563-a7f7-b8ef6de5bd79",
+  "https://images.blocketcdn.se/dynamic/default/item/26169249/5ff6c1a8-5732-4802-b8ba-167ce03f9f3b",
+  "https://images.blocketcdn.se/dynamic/default/item/26169249/4fae540a-1c50-4e79-8d8d-c9680c28301e",
+  "https://images.blocketcdn.se/dynamic/default/item/26169249/6db44d3f-add3-4a43-83ac-95a8235fc02d",
+  "https://images.blocketcdn.se/dynamic/default/item/26169249/099e3aed-b01d-4991-81c6-0a42e052c57a",
+  "https://images.blocketcdn.se/dynamic/default/item/26169249/8cc5b04e-03f1-493a-a3c9-8f40fcb952f2",
+  "https://images.blocketcdn.se/dynamic/default/item/26169249/b3d433c4-81d4-451b-b690-7bde653c8e2f"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.34,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": 475,
+   "engine_hp": 90,
+   "engine_maker": "Mercury Optimax",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mercury Optimax 90hk, 475 gångtimmar",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "included"
+   }
+  },
+  "text_sha": "c750d0731b408f7a"
+ },
+ "location": "Lidingö",
+ "lon": 18.2,
+ "make": "Bella",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 259,
+  "fetched_ts": 1790523127537,
+  "text_sha": "c750d0731b408f7a"
+ },
+ "price": 129000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 129000
+  }
+ ],
+ "specs": {
+  "Bredd": "208 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "65 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "572 C",
+  "Modellår": "2006",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury Optimax",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "700 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26169249",
+ "width_cm": 208,
+ "year": 2006
+}

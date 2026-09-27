@@ -7,6 +7,8 @@
   "boat_year": 2017,
   "boat_year_source": "spec",
   "engine_hours": 1,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Merury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Oskwig 370S Mercury 6hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26293505/e2642761-f9ec-4384-a321-e1c8ae5f9cad",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 63.2071,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26293505/e2642761-f9ec-4384-a321-e1c8ae5f9cad",
+  "https://images.blocketcdn.se/dynamic/default/item/26293505/358fb40d-7854-425e-aa97-d6696549ddaa",
+  "https://images.blocketcdn.se/dynamic/default/item/26293505/bb33f8f1-e7ab-4303-b8af-75f09e70c9eb",
+  "https://images.blocketcdn.se/dynamic/default/item/26293505/929cdd0a-1daa-4e79-b909-0c41d8576790",
+  "https://images.blocketcdn.se/dynamic/default/item/26293505/66930a58-ca4a-416d-a811-fca9c28f4180",
+  "https://images.blocketcdn.se/dynamic/default/item/26293505/2c7d5eec-55ca-4e93-82a6-d5e608364b40",
+  "https://images.blocketcdn.se/dynamic/default/item/26293505/01c6b2c8-9e8d-4e34-a12f-f7caa9479252",
+  "https://images.blocketcdn.se/dynamic/default/item/26293505/f38cdcc1-ec96-4fcb-a73e-c21f7d2af2a0",
+  "https://images.blocketcdn.se/dynamic/default/item/26293505/0e41e989-e641-424e-bbaf-a398dea59ef7",
+  "https://images.blocketcdn.se/dynamic/default/item/26293505/03482966-5588-4196-afda-3c9636c31940",
+  "https://images.blocketcdn.se/dynamic/default/item/26293505/5046b344-58c5-43b7-8e05-17aac60f622a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.21,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +80,13 @@
   "text_sha": "5fbe59d9cdab879e"
  },
  "location": "Domsjö",
- "lon": 18.79759,
+ "lon": 18.8,
  "make": "Mercury",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 6.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 220,
   "fetched_ts": 1790508578061,
@@ -99,7 +115,7 @@
   "Typ": "Annat",
   "Vikt": "55 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26293505",
  "width_cm": 150,
  "year": 2017

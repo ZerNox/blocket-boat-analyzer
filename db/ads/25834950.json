@@ -1,0 +1,111 @@
+{
+ "ad_id": 25834950,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787083667000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2012,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamarin 59DC 100HK Motor 2012.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell bytt 2022",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Landström 230v med extra uttag",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "GPS Plotter",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Stereo med bluetooth",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer ingår",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Yamarin 59DC 100HK Motor 2012",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Yamarin 59DC 100HK Motor 2012",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25834950/0f2cb564-fb27-4879-97fe-3c9fedfbd085",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25834950/0f2cb564-fb27-4879-97fe-3c9fedfbd085",
+  "https://images.blocketcdn.se/dynamic/default/item/25834950/ced08fe2-6b9d-41d1-b71e-ecbc59e0ec34",
+  "https://images.blocketcdn.se/dynamic/default/item/25834950/7a15426f-0f63-48c4-ae45-35fb275c3160",
+  "https://images.blocketcdn.se/dynamic/default/item/25834950/8b9adf7d-3507-482a-b246-a720d0e7545a",
+  "https://images.blocketcdn.se/dynamic/default/item/25834950/aaa2fc36-6536-467d-b2c1-626bdbc914a8",
+  "https://images.blocketcdn.se/dynamic/default/item/25834950/53dfd70c-a4b9-4031-94e1-cf5ead1fc564",
+  "https://images.blocketcdn.se/dynamic/default/item/25834950/741e7524-ebb9-4f95-9094-89856e14f291"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.53,
+ "length_ft": 20,
+ "location": "Västerås",
+ "lon": 16.39,
+ "make": "Yamarin",
+ "max_speed": 40,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 970,
+  "fetched_ts": 1790523073362,
+  "text_sha": "0895f053eede797c"
+ },
+ "price": 210000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 210000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modell": "59 DC 100HK Motor 2012",
+  "Modellår": "2012",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Sittplatser": "6",
+  "Sovplatser": "2",
+  "Toppfart": "40 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25834950",
+ "width_cm": 0,
+ "year": 2012
+}

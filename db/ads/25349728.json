@@ -7,6 +7,8 @@
   "boat_year": 2013,
   "boat_year_source": "spec",
   "engine_hours": 70,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 480 SC",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25349728/ac6c005a-4a8f-4799-ae09-1af0673591ed",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.55232,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25349728/ac6c005a-4a8f-4799-ae09-1af0673591ed",
+  "https://images.blocketcdn.se/dynamic/default/item/25349728/f1b46b33-3e0b-4dfc-951c-50500915502b",
+  "https://images.blocketcdn.se/dynamic/default/item/25349728/58f99853-cee5-4e20-8178-50eff51e34c2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.55,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +74,13 @@
   "text_sha": "b6829c127db44b96"
  },
  "location": "Enköping",
- "lon": 16.99729,
+ "lon": 17.0,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 139,
   "fetched_ts": 1790507783787,
@@ -97,7 +105,7 @@
   "Märke": "HR",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25349728",
  "width_cm": 0,
  "year": 2013

@@ -7,6 +7,8 @@
   "boat_year": 2007,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 478 GT Mercury 50 hk 4-takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26162003/d611dbdd-ea22-4f7f-a82e-f74c912b38d0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.32443,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26162003/d611dbdd-ea22-4f7f-a82e-f74c912b38d0",
+  "https://images.blocketcdn.se/dynamic/default/item/26162003/0048cbb5-2c9d-49a8-97ee-3cb8c142a22e",
+  "https://images.blocketcdn.se/dynamic/default/item/26162003/64040d1e-b0f8-487b-9704-a7f16881806a",
+  "https://images.blocketcdn.se/dynamic/default/item/26162003/d4fab7d5-92db-48fd-a506-5e7a57229e81"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "2227bd0de865ddfd"
  },
  "location": "Bromma",
- "lon": 17.95053,
+ "lon": 17.95,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 529,
   "fetched_ts": 1790508494907,
@@ -93,7 +102,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "410 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26162003",
  "width_cm": 191,
  "year": 2007

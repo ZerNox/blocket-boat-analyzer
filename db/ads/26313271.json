@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Hirvas",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26313271/3a20efa2-17bb-46f6-a753-151bc1757f22",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.4036,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26313271/3a20efa2-17bb-46f6-a753-151bc1757f22",
+  "https://images.blocketcdn.se/dynamic/default/item/26313271/3049959b-254d-4d3b-81bf-ef3d56242104",
+  "https://images.blocketcdn.se/dynamic/default/item/26313271/e866801a-d62f-4544-a150-7f712a113783",
+  "https://images.blocketcdn.se/dynamic/default/item/26313271/693a93e4-2dea-4f3e-915b-58502ee65336",
+  "https://images.blocketcdn.se/dynamic/default/item/26313271/0545db68-edc1-4bd9-9357-acb27c00fc01",
+  "https://images.blocketcdn.se/dynamic/default/item/26313271/698ecb92-e724-4f20-98fb-6c381b9e0f76",
+  "https://images.blocketcdn.se/dynamic/default/item/26313271/bdb17c12-fd81-4c47-a52e-7157c7e3637a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.4,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +71,13 @@
   "text_sha": "14e077321b3402dc"
  },
  "location": "Danderyd",
- "lon": 18.00891,
+ "lon": 18.01,
  "make": "Herwa",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 131,
   "fetched_ts": 1790508594918,
@@ -95,7 +107,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "90 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26313271",
  "width_cm": 155,
  "year": 1980

@@ -1,0 +1,111 @@
+{
+ "ad_id": 25849081,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787145653000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 10.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "a motor på båten så passar en utombordare upp till 10 hk alldeles utmärkt. Motorbåten planar normalt med en 5 hk motor m",
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2022,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Den fungerar också alldeles utmärkt med en mindre motor, eller varför inte en elmotor.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Aluminium roddbåt Kimple 365 Catch",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25849081/e4bc63df-5971-4036-95a1-a040a6493145",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25849081/e4bc63df-5971-4036-95a1-a040a6493145",
+  "https://images.blocketcdn.se/dynamic/default/item/25849081/db375326-2ad2-41c1-9cd7-e1f41166bc8d",
+  "https://images.blocketcdn.se/dynamic/default/item/25849081/97872e47-ab5a-4fa8-9061-61d3a944671f",
+  "https://images.blocketcdn.se/dynamic/default/item/25849081/b6524a08-dc7f-40c2-b4bb-530ce1d8d23d",
+  "https://images.blocketcdn.se/dynamic/default/item/25849081/845c3ce7-c9b7-4625-8723-03d89fbcb056",
+  "https://images.blocketcdn.se/dynamic/default/item/25849081/6be0e8cd-233e-4cc3-b733-7bd68619fdd4",
+  "https://images.blocketcdn.se/dynamic/default/item/25849081/f8a48b9d-a420-43d7-a2dc-ac32c26e9225"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.02,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2022,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "not_mentioned",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "113939efd14457aa"
+ },
+ "location": "Björklinge",
+ "lon": 17.59,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1148,
+  "fetched_ts": 1790520846031,
+  "text_sha": "113939efd14457aa"
+ },
+ "price": 18000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 18000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "Aluminium roddbåt Kimple 365 catch",
+  "Modellår": "2022",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25849081",
+ "width_cm": 0,
+ "year": 2022
+}

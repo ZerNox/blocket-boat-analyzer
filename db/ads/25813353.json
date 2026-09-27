@@ -7,6 +7,8 @@
   "boat_year": 1997,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster L",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25813353/e249c870-af37-47d9-a16d-4b290902cb03",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.29575,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25813353/e249c870-af37-47d9-a16d-4b290902cb03",
+  "https://images.blocketcdn.se/dynamic/default/item/25813353/f8d56ccd-6181-42e6-906a-fbd46afdf3bd",
+  "https://images.blocketcdn.se/dynamic/default/item/25813353/df1f5734-2ebc-44b8-8450-6dd78f65dfe4",
+  "https://images.blocketcdn.se/dynamic/default/item/25813353/02f65f16-fe48-498b-a6bc-b5c06763e967"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.3,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "f069504444601827"
  },
  "location": "Kvissleby",
- "lon": 17.49052,
+ "lon": 17.49,
  "make": "Buster",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 449,
   "fetched_ts": 1790508215563,
@@ -93,7 +102,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25813353",
  "width_cm": 0,
  "year": 1997

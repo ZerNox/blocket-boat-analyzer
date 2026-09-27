@@ -7,6 +7,8 @@
   "boat_year": 1978,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -35,8 +37,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds Arkö 455 båt med Mercury 15 hk + 30-släp",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26330387/e090d4cf-309b-443d-893f-b4e126d13a53",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.73686,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26330387/e090d4cf-309b-443d-893f-b4e126d13a53",
+  "https://images.blocketcdn.se/dynamic/default/item/26330387/c3e45c46-0b7d-44e9-8244-b46c2a7b0837",
+  "https://images.blocketcdn.se/dynamic/default/item/26330387/d2b8106d-1962-4af5-9a72-fc924bd88956",
+  "https://images.blocketcdn.se/dynamic/default/item/26330387/82b8adcb-bd8d-44bc-9159-ad8fba89b288",
+  "https://images.blocketcdn.se/dynamic/default/item/26330387/2a950f5b-a0b7-48d4-bff8-36a034098938",
+  "https://images.blocketcdn.se/dynamic/default/item/26330387/65a8541f-e840-4748-a710-e154a0c69173",
+  "https://images.blocketcdn.se/dynamic/default/item/26330387/a0312be9-20fa-460c-8cf5-5944290ab7df",
+  "https://images.blocketcdn.se/dynamic/default/item/26330387/4b19ad20-9cf3-4182-ae4e-56063f812f11",
+  "https://images.blocketcdn.se/dynamic/default/item/26330387/bfd79002-8948-429d-84a4-20e325504e0a",
+  "https://images.blocketcdn.se/dynamic/default/item/26330387/f72176ff-8c32-4992-af48-e632ac5905d3",
+  "https://images.blocketcdn.se/dynamic/default/item/26330387/3f723b36-e508-4f7b-bebf-0958bf91bbfc",
+  "https://images.blocketcdn.se/dynamic/default/item/26330387/1eccd227-6e95-4990-acf7-35cd7d8577d2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.74,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +82,13 @@
   "text_sha": "ccefcf9ec5bf4885"
  },
  "location": "Agunnaryd",
- "lon": 14.17526,
+ "lon": 14.18,
  "make": "Ryds",
  "max_speed": 18,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 887,
   "fetched_ts": 1790508605603,
@@ -100,7 +117,7 @@
   "Toppfart": "18 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26330387",
  "width_cm": 175,
  "year": 1978

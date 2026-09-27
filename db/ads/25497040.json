@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Notviken 6m mariner 30 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25497040/2fc6392f-bd2d-4852-b3a3-d56e2e6c184a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.94383,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25497040/2fc6392f-bd2d-4852-b3a3-d56e2e6c184a",
+  "https://images.blocketcdn.se/dynamic/default/item/25497040/3e0714ab-1ca7-4115-ac45-50375aea563d",
+  "https://images.blocketcdn.se/dynamic/default/item/25497040/6203cece-096d-4c88-94e6-d37db8018c35",
+  "https://images.blocketcdn.se/dynamic/default/item/25497040/98da72e1-4709-4bb7-8c7b-678f5eea6141"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.94,
  "length_ft": 20,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +74,13 @@
   "text_sha": "ae7ace2614376d94"
  },
  "location": "Haparanda",
- "lon": 23.95302,
+ "lon": 23.95,
  "make": "Övriga",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 360,
   "fetched_ts": 1790507925645,
@@ -104,7 +113,7 @@
   "Typ": "Annat",
   "Vikt": "400 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25497040",
  "width_cm": 200,
  "year": 1980

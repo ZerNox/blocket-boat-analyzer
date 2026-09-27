@@ -1,0 +1,135 @@
+{
+ "ad_id": 26004282,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1788194289000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1992,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 3.0,
+  "engine_hp_source": "llm",
+  "engine_maker": "MerCruiser 3.0",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1992,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Hamnkapell samt en fin 30 km/h-trailer medföljer.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Wakeboardbåge med högtalare",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "trailer ingår",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "dagsturer och bad som för övernattning.\nBåten är i väldigt fint skick för sin ålder. Skrovet är välbevarat",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Sea Ray 200 Overnighter 1992 – trailer ingår",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26004282/44a68e78-15ce-4f88-9f3f-9b1d894e4b95",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26004282/44a68e78-15ce-4f88-9f3f-9b1d894e4b95",
+  "https://images.blocketcdn.se/dynamic/default/item/26004282/e707c582-a66d-4d00-aa49-f45818e6eb61",
+  "https://images.blocketcdn.se/dynamic/default/item/26004282/f3277993-a719-429d-81d7-4d62d30678bf",
+  "https://images.blocketcdn.se/dynamic/default/item/26004282/c3b22483-4995-4dec-b19f-216b8e185b8a",
+  "https://images.blocketcdn.se/dynamic/default/item/26004282/f2319c35-5dc7-4935-aa97-26dd2b983fa1",
+  "https://images.blocketcdn.se/dynamic/default/item/26004282/8ddcf68b-98e2-4631-b5a0-cf3c83255b84",
+  "https://images.blocketcdn.se/dynamic/default/item/26004282/1f75d56a-222d-4c39-bdc5-6a10fc3515ac",
+  "https://images.blocketcdn.se/dynamic/default/item/26004282/151557cb-66b6-44ee-9050-f407fd0668a6",
+  "https://images.blocketcdn.se/dynamic/default/item/26004282/b78d2081-d168-4933-9431-544fa268953f",
+  "https://images.blocketcdn.se/dynamic/default/item/26004282/acebd252-b1e4-4895-be2f-263bcdfa051d",
+  "https://images.blocketcdn.se/dynamic/default/item/26004282/b204479c-023b-4508-ba47-cfb98b94b54b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.69,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1992,
+   "engine_hours": null,
+   "engine_hp": 3.0,
+   "engine_maker": "MerCruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Alpha One Gen II-drev. Den har endast körts wett fåtal timmar sedan service.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "42c2a32e6cc5b125"
+ },
+ "location": "Grebbestad",
+ "lon": 11.19,
+ "make": "Sea Ray",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 1803,
+  "fetched_ts": 1790523100846,
+  "text_sha": "42c2a32e6cc5b125"
+ },
+ "price": 99000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 99000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "20 fot",
+  "Modell": "200 Overnighter",
+  "Modellår": "1992",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "MerCruiser 3.0",
+  "Motortyp": "Inombordare",
+  "Märke": "Sea Ray",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26004282",
+ "width_cm": 0,
+ "year": 1992
+}

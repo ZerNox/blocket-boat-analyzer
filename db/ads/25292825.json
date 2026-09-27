@@ -7,6 +7,8 @@
   "boat_year": 1986,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Jofa båt med Yamaha motor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25292825/e1c22f3d-77a7-4e0d-a6c3-0f9bbfaad88b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.60859,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25292825/e1c22f3d-77a7-4e0d-a6c3-0f9bbfaad88b",
+  "https://images.blocketcdn.se/dynamic/default/item/25292825/3a7c0543-b609-4c34-9931-90629ebfd5a1",
+  "https://images.blocketcdn.se/dynamic/default/item/25292825/710f7105-b906-42e4-99fc-54b91f5fd8ec",
+  "https://images.blocketcdn.se/dynamic/default/item/25292825/2af38655-08f9-436b-8b5e-852e371745e2",
+  "https://images.blocketcdn.se/dynamic/default/item/25292825/6e078fd8-d1f7-42be-a178-8f75dfa8cdd6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.61,
  "length_ft": 4,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +75,13 @@
   "text_sha": "6441e8bbd2370c8b"
  },
  "location": "Yxlan",
- "lon": 18.83251,
+ "lon": 18.83,
  "make": "Crescent",
  "max_speed": 6,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 293,
   "fetched_ts": 1790507734287,
@@ -99,7 +109,7 @@
   "Toppfart": "6 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25292825",
  "width_cm": 0,
  "year": 1986

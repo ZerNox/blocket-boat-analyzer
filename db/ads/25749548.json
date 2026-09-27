@@ -1,0 +1,133 @@
+{
+ "ad_id": 25749548,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787474597000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1974,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 140.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercruiser 140 hk",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1974,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "- nyrenoverat kapell våren 2026",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "- gps ingår",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "- trailer bromsad 80km/h ingår.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Coronet 17 Runabout i utmärkt bruksskick. Inkl ny 80km/h bro",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25749548/dee54b65-2407-442d-90fc-fa7147e2d2ad",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25749548/dee54b65-2407-442d-90fc-fa7147e2d2ad",
+  "https://images.blocketcdn.se/dynamic/default/item/25749548/d5852b76-9b5e-4e5b-9e58-1f64ec6f31a2",
+  "https://images.blocketcdn.se/dynamic/default/item/25749548/58ad48d4-996e-44c2-8898-3649c394ac51"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.11,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1974,
+   "engine_hours": null,
+   "engine_hp": 140,
+   "engine_maker": "Mercruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Inombordare",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b5888abb12f7373a"
+ },
+ "location": "Domsten",
+ "lon": 12.62,
+ "make": "Coronet",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 496,
+  "fetched_ts": 1790523056916,
+  "text_sha": "b5888abb12f7373a"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Bredd": "212 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "35 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Beige/vit",
+  "Längd i fot": "17 fot",
+  "Modell": "17 Runabout",
+  "Modellår": "1974",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercruiser 140 hk",
+  "Motortyp": "Inombordare",
+  "Märke": "Coronet",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "35 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "709 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25749548",
+ "width_cm": 212,
+ "year": 1974
+}

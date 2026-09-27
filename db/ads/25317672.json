@@ -7,6 +7,8 @@
   "boat_year": 2004,
   "boat_year_source": "spec",
   "engine_hours": 5,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Hr 465 -04 med trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25317672/77ff6a38-e6d2-44a5-8dd5-3211a6148d6a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.56068,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25317672/77ff6a38-e6d2-44a5-8dd5-3211a6148d6a",
+  "https://images.blocketcdn.se/dynamic/default/item/25317672/b30ec6e0-5545-4125-b46a-31bf4c910eea",
+  "https://images.blocketcdn.se/dynamic/default/item/25317672/327c54e6-4c79-470a-ad68-fc6400a5b0e2",
+  "https://images.blocketcdn.se/dynamic/default/item/25317672/2480c173-f9c6-4676-9595-b2aced60428c",
+  "https://images.blocketcdn.se/dynamic/default/item/25317672/2923bf57-134f-41e2-9381-edc25fee66f7",
+  "https://images.blocketcdn.se/dynamic/default/item/25317672/a9f561c0-8c16-46f1-bb7b-450a3a71300c",
+  "https://images.blocketcdn.se/dynamic/default/item/25317672/fcab9b28-a26b-48e4-a8b5-756ff3ebc270"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.56,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +77,13 @@
   "text_sha": "f82909fcb759ab8b"
  },
  "location": "Vaggeryd",
- "lon": 14.21317,
+ "lon": 14.21,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 216,
   "fetched_ts": 1790507750908,
@@ -99,7 +111,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "350 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25317672",
  "width_cm": 188,
  "year": 2004

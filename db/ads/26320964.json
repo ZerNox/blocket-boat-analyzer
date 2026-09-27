@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fiskebåt Ryds Styrsö",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26320964/3668c427-444e-4df1-9cb8-e8f29c44176b",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.37166,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26320964/3668c427-444e-4df1-9cb8-e8f29c44176b",
+  "https://images.blocketcdn.se/dynamic/default/item/26320964/346a5dce-05d0-4ef3-824b-8076c6f228f8",
+  "https://images.blocketcdn.se/dynamic/default/item/26320964/2f7db742-06d6-494d-99da-820c698e2910",
+  "https://images.blocketcdn.se/dynamic/default/item/26320964/72817562-35ad-4b6e-a33b-d904201281ce",
+  "https://images.blocketcdn.se/dynamic/default/item/26320964/a87b58e7-e60d-442a-a222-7659a0df9224",
+  "https://images.blocketcdn.se/dynamic/default/item/26320964/2b04d71e-6050-4719-9428-aa39ef079e3e",
+  "https://images.blocketcdn.se/dynamic/default/item/26320964/58ccb5ca-bf14-4af5-86ae-ac4831160622",
+  "https://images.blocketcdn.se/dynamic/default/item/26320964/48d8e720-a7ca-4f9d-9d45-b11448dd9b82",
+  "https://images.blocketcdn.se/dynamic/default/item/26320964/ba0ac952-bfe4-4bc7-8202-c9dd552fca30",
+  "https://images.blocketcdn.se/dynamic/default/item/26320964/0226f9b3-fa07-49a4-8bbb-37381c56df9f",
+  "https://images.blocketcdn.se/dynamic/default/item/26320964/30fb8652-015a-4819-90f3-ee0bc74eaa2c",
+  "https://images.blocketcdn.se/dynamic/default/item/26320964/07987e7b-1195-47fd-abd7-8fb6bc1423c4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.37,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +76,13 @@
   "text_sha": "246dd366f59a4e3f"
  },
  "location": "Linköping",
- "lon": 15.65255,
+ "lon": 15.65,
  "make": "Ryds",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508599957,
@@ -95,7 +112,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "250 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26320964",
  "width_cm": 180,
  "year": 1990

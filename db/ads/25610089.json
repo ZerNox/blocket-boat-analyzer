@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15,
+  "engine_hp_source": "llm",
   "engine_maker": "Nissan",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bombard C4",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25610089/a333dee7-1fdc-49ec-aa4f-40b2eaab76ad",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.57737,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25610089/a333dee7-1fdc-49ec-aa4f-40b2eaab76ad",
+  "https://images.blocketcdn.se/dynamic/default/item/25610089/70fd54b9-d083-4ee6-8373-3cd4a3fea596",
+  "https://images.blocketcdn.se/dynamic/default/item/25610089/651e8e2a-52d7-4035-a3fc-425ef30f0e74",
+  "https://images.blocketcdn.se/dynamic/default/item/25610089/c7be3ac7-e474-42f6-a5db-21ea4cded7e4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.58,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +77,13 @@
   "text_sha": "d757637851da4bfb"
  },
  "location": "Fjällbacka",
- "lon": 11.13414,
+ "lon": 11.13,
  "make": "Bombard",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 56,
   "fetched_ts": 1790508044961,
@@ -103,7 +112,7 @@
   "Skrovmaterial": "Annat",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25610089",
  "width_cm": 175,
  "year": 1995

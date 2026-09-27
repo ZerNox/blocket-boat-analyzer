@@ -7,6 +7,8 @@
   "boat_year": 2009,
   "boat_year_source": "spec",
   "engine_hours": 110,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent primo",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22317251/c5bc5b8f-dc44-4601-9916-7825e97cf91d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.4998,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22317251/c5bc5b8f-dc44-4601-9916-7825e97cf91d",
+  "https://images.blocketcdn.se/dynamic/default/item/22317251/15d2f7aa-74c0-4642-a806-caf957bbaa74",
+  "https://images.blocketcdn.se/dynamic/default/item/22317251/2aa65b05-c3e8-47ad-a185-8149946ff04b",
+  "https://images.blocketcdn.se/dynamic/default/item/22317251/8b732932-63e9-4b28-9ae2-7e10447863f1",
+  "https://images.blocketcdn.se/dynamic/default/item/22317251/2999b29f-df0c-4eda-941e-507d2d085264"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.5,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +78,13 @@
   "text_sha": "1ee7320e26edb03e"
  },
  "location": "Åkersberga",
- "lon": 18.23607,
+ "lon": 18.24,
  "make": "Crescent",
  "max_speed": 27,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 226,
   "fetched_ts": 1790507446943,
@@ -105,7 +115,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "430 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/22317251",
  "width_cm": 203,
  "year": 2009

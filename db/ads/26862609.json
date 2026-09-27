@@ -1,0 +1,75 @@
+{
+ "ad_id": 26862609,
+ "boat_class": "Annat",
+ "changed_ts": 1790284543000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Plastbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26862609/2eb9c8ee-5421-4c3f-a3af-329d2fc68928",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26862609/2eb9c8ee-5421-4c3f-a3af-329d2fc68928",
+  "https://images.blocketcdn.se/dynamic/default/item/26862609/1b87dcf0-a6d2-41e5-9430-99743f17418f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.91,
+ "length_ft": 16,
+ "location": "Bettna",
+ "lon": 16.64,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 140,
+  "fetched_ts": 1790521071921,
+  "text_sha": "480f2ca502c36b8f"
+ },
+ "price": 1500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 1500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modellår": "1900",
+  "Märke": "Övriga",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26862609",
+ "width_cm": 0,
+ "year": 1900
+}

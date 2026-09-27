@@ -1,0 +1,93 @@
+{
+ "ad_id": 26937367,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790519768000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2014,
+  "boat_year_source": "spec",
+  "engine_hours": 300,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury F80",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2014,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Garmin GPS/plotter",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Även på trailern har jag gjort en del i vintras ny trailervinsch, stödrulle, ny baklykta.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds 548 Sport med 80hk Mercury motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26937367/7b559143-ad5a-4af1-b5ba-f184db611d36",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26937367/7b559143-ad5a-4af1-b5ba-f184db611d36",
+  "https://images.blocketcdn.se/dynamic/default/item/26937367/29ca7f67-25f8-4394-a662-2fef0605d913",
+  "https://images.blocketcdn.se/dynamic/default/item/26937367/3539e580-123f-4d4b-9a5f-ae573a2dc5bc",
+  "https://images.blocketcdn.se/dynamic/default/item/26937367/55f0bf33-e0a2-4a19-848a-777553d41284"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.24,
+ "length_ft": 18,
+ "location": "Ängelholm",
+ "lon": 12.88,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 687,
+  "fetched_ts": 1790521105986,
+  "text_sha": "bf9d542fe6d277a1"
+ },
+ "price": 179000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 179000
+  }
+ ],
+ "specs": {
+  "Bredd": "218 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "18 fot",
+  "Modell": "548 Sport",
+  "Modellår": "2014",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury F80",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "570 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26937367",
+ "width_cm": 218,
+ "year": 2014
+}

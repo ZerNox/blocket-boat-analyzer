@@ -7,6 +7,8 @@
   "boat_year": 1973,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 8.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -44,8 +46,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Plasteka med Johnson 8 hk 4-takt.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26866927/eaae3af0-993f-43e1-a4ce-f49db73947ce",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.50881,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26866927/eaae3af0-993f-43e1-a4ce-f49db73947ce",
+  "https://images.blocketcdn.se/dynamic/default/item/26866927/f8525eb7-982c-4b55-8401-8be1eaf808ad",
+  "https://images.blocketcdn.se/dynamic/default/item/26866927/9b6dfa2b-7f9b-4201-a905-5f9c9cbc9f3b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.51,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -75,12 +82,13 @@
   "text_sha": "f60b618f514b37d3"
  },
  "location": "Klässbol",
- "lon": 12.75343,
+ "lon": 12.75,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 8.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 246,
   "fetched_ts": 1790508987105,
@@ -107,7 +115,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26866927",
  "width_cm": 0,
  "year": 1973

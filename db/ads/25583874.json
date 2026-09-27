@@ -7,6 +7,8 @@
   "boat_year": 2001,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sportig Motorbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25583874/5049cd20-5e88-4d53-801d-79e6c086d629",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.38685,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25583874/5049cd20-5e88-4d53-801d-79e6c086d629",
+  "https://images.blocketcdn.se/dynamic/default/item/25583874/193b213d-45c1-46b0-8f19-ce8d3f9cc048",
+  "https://images.blocketcdn.se/dynamic/default/item/25583874/fad3f064-8133-4a14-8394-739b930a2c05",
+  "https://images.blocketcdn.se/dynamic/default/item/25583874/53c3d09a-491a-4f0a-89fe-992a04b6cd6b",
+  "https://images.blocketcdn.se/dynamic/default/item/25583874/9d0464c5-ed7b-45dd-b450-fde4c173613c",
+  "https://images.blocketcdn.se/dynamic/default/item/25583874/cebcd58a-0705-48c7-a434-e1f6ec8cde28"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.39,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "aa4b3158f3916bbf"
  },
  "location": "Värmdö",
- "lon": 18.52581,
+ "lon": 18.53,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 488,
   "fetched_ts": 1790508033387,
@@ -94,7 +105,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "370 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25583874",
  "width_cm": 204,
  "year": 2001

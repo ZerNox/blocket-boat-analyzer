@@ -7,6 +7,8 @@
   "boat_year": 2007,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude e-tec",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -29,8 +31,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Hr 465 med evinrude e-tec 50 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25470493/0ca35242-174b-4839-8da1-4425267eff54",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.65791,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25470493/0ca35242-174b-4839-8da1-4425267eff54",
+  "https://images.blocketcdn.se/dynamic/default/item/25470493/b4393fd2-bef3-44d6-9638-4f4c07fcb744",
+  "https://images.blocketcdn.se/dynamic/default/item/25470493/75d5c9d7-3384-4fb1-bfd5-6eb049224555"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.66,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +67,13 @@
   "text_sha": "f6dd7a38b1e5349e"
  },
  "location": "Arvika",
- "lon": 12.57942,
+ "lon": 12.58,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 482,
   "fetched_ts": 1790507900234,
@@ -92,7 +100,7 @@
   "Sittplatser": "5",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25470493",
  "width_cm": 0,
  "year": 2007

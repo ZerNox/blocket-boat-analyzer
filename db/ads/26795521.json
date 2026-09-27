@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 135.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "GreatWhite p150",
   "engine_stroke": null,
   "engine_type": "electric",
@@ -35,8 +37,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Gummibåt Lyfco 320 cm - Aluminiumdurk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26795521/ddca9768-8903-4517-aefd-53ac455be4ec",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.64609,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26795521/ddca9768-8903-4517-aefd-53ac455be4ec",
+  "https://images.blocketcdn.se/dynamic/default/item/26795521/61d68c38-e71e-46d8-b85c-a3b8164dfd46",
+  "https://images.blocketcdn.se/dynamic/default/item/26795521/49495f75-9157-43d3-84c7-dc7060e462ed",
+  "https://images.blocketcdn.se/dynamic/default/item/26795521/1461bd8c-0caf-4a4a-837a-00c49a2ff3a8",
+  "https://images.blocketcdn.se/dynamic/default/item/26795521/a18e10eb-dbd3-4156-8db1-51de00415b7f",
+  "https://images.blocketcdn.se/dynamic/default/item/26795521/9c6901f5-f3b5-4b41-bbb4-4008a704561b",
+  "https://images.blocketcdn.se/dynamic/default/item/26795521/94293fdd-3f6d-4a15-8fa2-e516045a0dc5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.65,
  "length_ft": 10,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +77,13 @@
   "text_sha": "6c88709c9e339e67"
  },
  "location": "Staffanstorp",
- "lon": 13.22047,
+ "lon": 13.22,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Elektrisk",
  "motor_size": 1.350000023841858,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 433,
   "fetched_ts": 1790508946219,
@@ -96,7 +108,7 @@
   "Märke": "Övriga",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26795521",
  "width_cm": 0,
  "year": 2021

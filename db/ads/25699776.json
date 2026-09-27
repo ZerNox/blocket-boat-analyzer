@@ -1,0 +1,129 @@
+{
+ "ad_id": 25699776,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786707095000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Garmin gps.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Obromsad 80 km trailer (Bålstadsläpet)",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Sport Båt Smiler 500",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25699776/ec7397a9-70ae-453e-b1ae-4638a042c355",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25699776/ec7397a9-70ae-453e-b1ae-4638a042c355",
+  "https://images.blocketcdn.se/dynamic/default/item/25699776/0b0910f5-d37e-4645-9558-3d37caf9e194",
+  "https://images.blocketcdn.se/dynamic/default/item/25699776/e7e4f607-cbe2-4f6a-aa65-5d281c1dc2cd",
+  "https://images.blocketcdn.se/dynamic/default/item/25699776/2d0b38dd-bd8c-4854-86c8-d6a8a8cfc2ec",
+  "https://images.blocketcdn.se/dynamic/default/item/25699776/4a84679c-1e06-4c3f-bd09-63688ab99b3d",
+  "https://images.blocketcdn.se/dynamic/default/item/25699776/1b5e01ba-330d-4e2d-9d9e-25efc1069af3",
+  "https://images.blocketcdn.se/dynamic/default/item/25699776/0960df42-60a5-4296-a611-36ec3446d77f",
+  "https://images.blocketcdn.se/dynamic/default/item/25699776/f4a9b710-7e15-429d-8733-d4ab55fb66b6"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.71,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ec89c1670fe1fbef"
+ },
+ "location": "Norrahammar",
+ "lon": 14.14,
+ "make": "Smiling",
+ "max_speed": 43,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 261,
+  "fetched_ts": 1790523043447,
+  "text_sha": "ec89c1670fe1fbef"
+ },
+ "price": 59000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 59000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "Smiler 500",
+  "Modellår": "2000",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Yamaha",
+  "Märke": "Smiling",
+  "Sittplatser": "5",
+  "Toppfart": "43 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25699776",
+ "width_cm": 0,
+ "year": 2000
+}

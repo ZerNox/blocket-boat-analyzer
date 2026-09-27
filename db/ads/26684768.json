@@ -1,0 +1,85 @@
+{
+ "ad_id": 26684768,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789733921000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1969,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1969,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Örnvik 550"
+ ],
+ "heading": "Örnvik GTX 5.50",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26684768/3e145687-7d83-479b-bf5e-cf588f2e64e3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26684768/3e145687-7d83-479b-bf5e-cf588f2e64e3",
+  "https://images.blocketcdn.se/dynamic/default/item/26684768/e5a2a886-ea00-4dc4-adf5-a53626549e82",
+  "https://images.blocketcdn.se/dynamic/default/item/26684768/84b5e9a1-61aa-479c-8461-45bfdfdb3dea",
+  "https://images.blocketcdn.se/dynamic/default/item/26684768/35c90d65-75e5-42ea-9254-5bd300b0ad35",
+  "https://images.blocketcdn.se/dynamic/default/item/26684768/37c0f9f8-2b5b-4a60-ba02-1e3031ac0fd1",
+  "https://images.blocketcdn.se/dynamic/default/item/26684768/ed2ce7cc-600f-4599-aa2a-6fdda493b20f"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 62.38,
+ "length_ft": 18,
+ "location": "Ankarsvik",
+ "lon": 17.41,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 106,
+  "fetched_ts": 1790523205485,
+  "text_sha": "34df36cc7408f3b3"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "Sportbåt 5.50 GTX",
+  "Modellår": "1969",
+  "Motor inkluderad": "Nej",
+  "Märke": "Örnvik",
+  "Sittplatser": "4",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26684768",
+ "width_cm": 0,
+ "year": 1969
+}

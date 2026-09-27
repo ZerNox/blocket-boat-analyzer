@@ -7,6 +7,8 @@
   "boat_year": 1970,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 35,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent avant 44",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25455168/6d4e7e39-b553-424e-b2c3-e5a21bc6b0d5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.35459,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25455168/6d4e7e39-b553-424e-b2c3-e5a21bc6b0d5",
+  "https://images.blocketcdn.se/dynamic/default/item/25455168/fa68cf8a-16f7-4b98-9c44-818cff3a41c2",
+  "https://images.blocketcdn.se/dynamic/default/item/25455168/3fa675c3-ec94-420c-94d8-294a86705084",
+  "https://images.blocketcdn.se/dynamic/default/item/25455168/9eb21c9b-9447-4b85-8dc9-0bf2a7ee2370",
+  "https://images.blocketcdn.se/dynamic/default/item/25455168/c5b40469-9e9c-402d-b117-7b5257e17940"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.35,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +74,13 @@
   "text_sha": "1bd40aea0eba4274"
  },
  "location": "Horred",
- "lon": 12.47476,
+ "lon": 12.47,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 35.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 254,
   "fetched_ts": 1790507881866,
@@ -95,7 +105,7 @@
   "Märke": "Crescent",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25455168",
  "width_cm": 0,
  "year": 1970

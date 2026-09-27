@@ -1,0 +1,100 @@
+{
+ "ad_id": 25570892,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786341030000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": 800,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer en fin flipper 575 ht med en 2005 Suzuki 4 takt 90 hk ca 800 gångtimmar var av mestadels i trollingfart.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Slänger med 2 stycken Lowrance hds 7 ekolod/plotter.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Slänger med 2 stycken Lowrance hds 7 ekolod/plotter.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ekipaget står på en TK 1500 kg 80 trailer som är besiktigad i april så bara att tuta och köra.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 575 ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Flipper 575"
+ ],
+ "heading": "Flipper 575 ht",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25570892/e3c83a1c-6184-45e4-a046-82e5ccca122b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25570892/e3c83a1c-6184-45e4-a046-82e5ccca122b",
+  "https://images.blocketcdn.se/dynamic/default/item/25570892/7b10876b-cfb5-422d-ab7d-4d8423fe9e07",
+  "https://images.blocketcdn.se/dynamic/default/item/25570892/20452648-00c0-48af-b7a7-4f76eab68ff5",
+  "https://images.blocketcdn.se/dynamic/default/item/25570892/a56bd58b-74a4-4d95-989e-a6484de8e8e5"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 55.44,
+ "length_ft": 19,
+ "location": "Höllviken",
+ "lon": 12.96,
+ "make": "Flipper",
+ "max_speed": 33,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 539,
+  "fetched_ts": 1790523023557,
+  "text_sha": "d50eb385d4b15210"
+ },
+ "price": 90000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 90000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modellår": "1980",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sovplatser": "2",
+  "Toppfart": "33 knop",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "520 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25570892",
+ "width_cm": 215,
+ "year": 1980
+}

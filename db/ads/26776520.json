@@ -1,0 +1,80 @@
+{
+ "ad_id": 26776520,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790002225000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2010,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Segelbåt Whitehall Dinge",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26776520/60522d36-44ce-4e77-b381-5363590565a3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26776520/60522d36-44ce-4e77-b381-5363590565a3",
+  "https://images.blocketcdn.se/dynamic/default/item/26776520/7347ee02-7f46-4bc0-9aad-a0aa687c6c30",
+  "https://images.blocketcdn.se/dynamic/default/item/26776520/bbab61fc-2a7a-4ce5-adbe-7b33348ed843",
+  "https://images.blocketcdn.se/dynamic/default/item/26776520/e8cc04b5-0f4c-451e-a19d-ff8cfa3d2a12",
+  "https://images.blocketcdn.se/dynamic/default/item/26776520/2b504b4b-a503-49fa-b419-5736b5b9bdad"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.31,
+ "length_ft": 12,
+ "location": "Kristinehamn",
+ "lon": 13.94,
+ "make": "Privilège Marine",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 51,
+  "fetched_ts": 1790521056323,
+  "text_sha": "a1acb7d36bc2c69c"
+ },
+ "price": 11000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 11000
+  }
+ ],
+ "specs": {
+  "Bredd": "130 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "25 cm",
+  "Färg": "Furu",
+  "Längd i fot": "12 fot",
+  "Modell": "Whitehall typ, Bakad epoxy",
+  "Modellår": "2010",
+  "Motor inkluderad": "Nej",
+  "Märke": "Privilège Marine",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "50 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26776520",
+ "width_cm": 130,
+ "year": 2010
+}

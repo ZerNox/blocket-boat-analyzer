@@ -7,6 +7,8 @@
   "boat_year": 1992,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -37,16 +39,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 495 GT med Mercury 50Hk 4-takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25988226/6793e6d2-32f7-4113-a06f-ac5f99d97359",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.14979,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25988226/6793e6d2-32f7-4113-a06f-ac5f99d97359",
+  "https://images.blocketcdn.se/dynamic/default/item/25988226/2576e825-2305-4e13-a6e0-362cf4fa5260"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.15,
  "length_ft": 16,
  "location": "Hanaskog",
- "lon": 14.10244,
+ "lon": 14.1,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 249,
   "fetched_ts": 1790508363585,
@@ -72,7 +79,7 @@
   "Märke": "Ryds",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25988226",
  "width_cm": 0,
  "year": 1992

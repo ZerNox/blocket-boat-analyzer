@@ -1,0 +1,74 @@
+{
+ "ad_id": 18385709,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788160581000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Avon 3.15 gummijolle",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/18385709/b182490a-7267-43fc-a9d0-e7c619dde62d",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/18385709/b182490a-7267-43fc-a9d0-e7c619dde62d",
+  "https://images.blocketcdn.se/dynamic/default/item/18385709/c733c7be-efe2-4c55-a7d2-be12fd2f3147",
+  "https://images.blocketcdn.se/dynamic/default/item/18385709/ed74f99c-584b-4d9d-979e-b3daeeef722d",
+  "https://images.blocketcdn.se/dynamic/default/item/18385709/0e9508dd-c1f5-4dd7-b485-646863e91d68",
+  "https://images.blocketcdn.se/dynamic/default/item/18385709/89b07090-c476-41df-9a5c-b3b6364dd1a4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.72,
+ "length_ft": 11,
+ "location": "Knivsta",
+ "lon": 17.81,
+ "make": "Avon",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 56,
+  "fetched_ts": 1790520575858,
+  "text_sha": "09c032192be577f7"
+ },
+ "price": 5500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "11 fot",
+  "Modellår": "2000",
+  "Motor inkluderad": "Nej",
+  "Märke": "Avon",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/18385709",
+ "width_cm": 0,
+ "year": 2000
+}

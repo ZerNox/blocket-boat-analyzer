@@ -1,0 +1,150 @@
+{
+ "ad_id": 25350249,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1786349213000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1977,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell i bra skick.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Obromsad TK-vagn och GPS ingår.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "ent 535, årsmodell 77\nFin övernattningsbåt för familjen. Väl omhändertagen. Gasolkök och fina dynor. Kapel",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Crescent 535"
+ ],
+ "heading": "Crescent 535, årsmodell 77",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25350249/650cdcbc-9d16-4579-9b67-440ef3a17808",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/650cdcbc-9d16-4579-9b67-440ef3a17808",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/f60d40e2-8265-445d-9311-1666339c05d3",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/d0811dbb-0b7d-4b6c-b237-d7a1750a5bd4",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/ea85f266-88f0-401e-bfff-6289c0bdc4d1",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/8d11f3bd-eb45-4490-bc79-2fe6b1abca17",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/5cba0012-334a-4b24-9d74-8acf234620e5",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/7a01a172-4a07-4d70-bd08-dad68d500181",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/35df63b8-1c70-48ab-908b-2baed56fe898",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/9492e51a-9bff-463a-8286-acc391b4f8f5",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/7d0703b1-da72-4d81-b9b3-a8c729a5c3e1",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/907e07fc-0de2-4daf-a4ab-11701a5c8472",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/2365b9a2-dcb7-42ac-a7c0-c0c31da6f679",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/7bb23f1e-0aa4-41fc-a64e-750e5d30d506",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/a2b988c4-3284-4694-963b-67e9a44ad47f",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/565bbfcf-d0d9-4b3a-9de4-c2f0694e1c4d",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/569cd2fc-99b1-4684-a1dd-c9d8448b2ca4",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/0835786c-a4f4-4767-bd0f-629fbd03aed1",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/6adedf4f-3a57-41a8-8def-bfb7efd62d04",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/cb0f02b2-cce0-45c3-8dcf-9995eb1cad3f",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/70dc8bfb-1f0a-471b-b8c6-83b6523140c1",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/9e41d7eb-b247-46b1-81d8-20a4bcfd055f",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/05cb65e0-910d-4164-8cd1-3659e0ece682",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/4c0b1f81-b476-4c1a-85fd-592148b0c516",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/be8d0b4c-bdb6-49b8-87de-c29f80e33093",
+  "https://images.blocketcdn.se/dynamic/default/item/25350249/fc3ecf93-1859-4089-8f1a-35fde59dfad2"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.69,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1977,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "cf248c5ba3eb0a04"
+ },
+ "location": "Västervik",
+ "lon": 16.72,
+ "make": "Crescent",
+ "max_speed": 22,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 333,
+  "fetched_ts": 1790522970015,
+  "text_sha": "cf248c5ba3eb0a04"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit/orange",
+  "Längd i fot": "18 fot",
+  "Modell": "535",
+  "Modellår": "1977",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "22 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "510 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25350249",
+ "width_cm": 210,
+ "year": 1977
+}

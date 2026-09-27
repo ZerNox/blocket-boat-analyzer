@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 18,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt med trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25255625/872f9777-127f-4963-ac00-d6d959975d7e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.31585,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25255625/872f9777-127f-4963-ac00-d6d959975d7e",
+  "https://images.blocketcdn.se/dynamic/default/item/25255625/7916b007-7965-4b40-b68c-1937e6bc0c96",
+  "https://images.blocketcdn.se/dynamic/default/item/25255625/086cb620-f54a-49f6-b872-41d99145856b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.32,
  "length_ft": null,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "47308729456913a9"
  },
  "location": "Nyhammar",
- "lon": 14.93225,
+ "lon": 14.93,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 18.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 23,
   "fetched_ts": 1790507693280,
@@ -95,7 +103,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "305 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25255625",
  "width_cm": 185,
  "year": 1980

@@ -1,0 +1,88 @@
+{
+ "ad_id": 25235148,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1785938893000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Säljer en Finnspeed 555 utan motor med 30-kärra!",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Finnspeed 555",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25235148/20efb644-24a5-4a5f-9384-19d6bbcf4a56",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25235148/20efb644-24a5-4a5f-9384-19d6bbcf4a56",
+  "https://images.blocketcdn.se/dynamic/default/item/25235148/6a756e9c-dc35-4050-ad04-1c321805672e",
+  "https://images.blocketcdn.se/dynamic/default/item/25235148/7c816f8c-ba99-4131-8d68-b2e56c9fc109",
+  "https://images.blocketcdn.se/dynamic/default/item/25235148/b41ddafe-9cb0-4d25-b2b9-3c0b9dc66578",
+  "https://images.blocketcdn.se/dynamic/default/item/25235148/a5825266-f3ba-4dfd-a1bc-21786238bea2",
+  "https://images.blocketcdn.se/dynamic/default/item/25235148/4762db0b-8dea-4a7b-a330-9810d549b583"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.2,
+ "length_ft": 18,
+ "location": "Södertälje",
+ "lon": 17.6,
+ "make": "Finnsport",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 115,
+  "fetched_ts": 1790522950206,
+  "text_sha": "84cd346199052fbb"
+ },
+ "price": 9000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "555",
+  "Modellår": "1980",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnsport",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25235148",
+ "width_cm": 180,
+ "year": 1980
+}

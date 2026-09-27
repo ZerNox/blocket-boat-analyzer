@@ -1,0 +1,135 @@
+{
+ "ad_id": 24665200,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785854670000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2012,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolodet som är på bilden och som följer med är ett humminbird helix 7.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båten kommer med 80 släp som den står på, tohatsu 50 hk motor utombordare som går hur fint som helst dock fungerar inte…",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Suvi 5050 duo",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24665200/4a4a0500-ec00-4a61-90d6-b380e64b97cd",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24665200/4a4a0500-ec00-4a61-90d6-b380e64b97cd",
+  "https://images.blocketcdn.se/dynamic/default/item/24665200/15c7695f-2f5b-41b1-bd31-1da61c4c7fc7",
+  "https://images.blocketcdn.se/dynamic/default/item/24665200/cb741ac4-875e-43de-bea1-1d128780e2ed",
+  "https://images.blocketcdn.se/dynamic/default/item/24665200/5ecc1a42-a4b4-433c-ab67-e9153662eff0",
+  "https://images.blocketcdn.se/dynamic/default/item/24665200/f5ad53be-de9a-4f27-bf49-759003ffea74",
+  "https://images.blocketcdn.se/dynamic/default/item/24665200/ff1751fd-ce02-4951-a7de-7c6cc588c8be",
+  "https://images.blocketcdn.se/dynamic/default/item/24665200/da6238be-1c21-4b7d-91bb-c2de54aada46",
+  "https://images.blocketcdn.se/dynamic/default/item/24665200/93879558-b7d5-46c7-bfec-80fa153bd263",
+  "https://images.blocketcdn.se/dynamic/default/item/24665200/6fb03dd5-04ad-4c43-9e1d-6cf8d85b38c1",
+  "https://images.blocketcdn.se/dynamic/default/item/24665200/7e3c0bbd-8f80-45ce-b081-2e40db36e465",
+  "https://images.blocketcdn.se/dynamic/default/item/24665200/d301d186-a3b8-43ab-9503-b281736bbc42",
+  "https://images.blocketcdn.se/dynamic/default/item/24665200/d636dd19-21b9-481d-b980-fa191b420325"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.17,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2012,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "345c8e6959f333ed"
+ },
+ "location": "Handen",
+ "lon": 18.16,
+ "make": "Suvi",
+ "max_speed": 29,
+ "motor_fuel": null,
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 689,
+  "fetched_ts": 1790522938832,
+  "text_sha": "345c8e6959f333ed"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "5050 duo",
+  "Modellår": "2012",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Suvi",
+  "Sittplatser": "6",
+  "Toppfart": "29 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "380 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24665200",
+ "width_cm": 200,
+ "year": 2012
+}

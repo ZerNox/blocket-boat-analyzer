@@ -7,6 +7,8 @@
   "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Glasfibereka med trailer + motor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25995853/dca5fe31-8f37-4577-be8a-2c3cba3caa8e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.35966,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25995853/dca5fe31-8f37-4577-be8a-2c3cba3caa8e",
+  "https://images.blocketcdn.se/dynamic/default/item/25995853/26eedfb8-3a5f-4e52-be45-139506955bc2",
+  "https://images.blocketcdn.se/dynamic/default/item/25995853/e66c6392-9d6b-444a-904a-5d24fb5c3323",
+  "https://images.blocketcdn.se/dynamic/default/item/25995853/3801a1c3-134d-4852-8303-6e0b37fdbbef",
+  "https://images.blocketcdn.se/dynamic/default/item/25995853/a1576859-6b10-414d-92df-d554692a1c4a",
+  "https://images.blocketcdn.se/dynamic/default/item/25995853/ba0562e6-a5aa-4366-95d8-7ea377735d20",
+  "https://images.blocketcdn.se/dynamic/default/item/25995853/98db1831-9cb5-477b-b878-7b7ec013f0cb"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.36,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +80,13 @@
   "text_sha": "0b544527c20a846d"
  },
  "location": "Horred",
- "lon": 12.4387,
+ "lon": 12.44,
  "make": "Enes",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 69,
   "fetched_ts": 1790508369302,
@@ -102,7 +114,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25995853",
  "width_cm": 160,
  "year": 2010

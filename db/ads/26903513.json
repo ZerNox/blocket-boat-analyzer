@@ -1,0 +1,131 @@
+{
+ "ad_id": 26903513,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790428195000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "omhändertagen väl. Motorn och drev går utan problem. Ny el dragen i båten med möjlighet att ladda via USB och 12V, ledl",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Örnvik 550 HT med motor och trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 550 HT med motor och trailer",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "declared outboard but text says 'drev'",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Örnvik 550"
+ ],
+ "heading": "Örnvik 550 HT med motor och trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26903513/33c5240a-dea6-498f-9466-e8b7eddd71d7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26903513/33c5240a-dea6-498f-9466-e8b7eddd71d7",
+  "https://images.blocketcdn.se/dynamic/default/item/26903513/9b95eb0e-e860-46a8-992d-96235087fbb4",
+  "https://images.blocketcdn.se/dynamic/default/item/26903513/e567cde1-e71b-4f22-b321-d8315cc46bb5",
+  "https://images.blocketcdn.se/dynamic/default/item/26903513/468958d5-5b7e-4254-a311-400658f5fc9e",
+  "https://images.blocketcdn.se/dynamic/default/item/26903513/016112ce-a28e-4ae3-ba8f-4b5274836fe6",
+  "https://images.blocketcdn.se/dynamic/default/item/26903513/c3a56d9e-3e4b-4b69-9c7e-e3813b32f5f3",
+  "https://images.blocketcdn.se/dynamic/default/item/26903513/4a3b6813-f08d-4ea2-a488-dcd88472e905",
+  "https://images.blocketcdn.se/dynamic/default/item/26903513/a44cec29-e5de-495a-bfa1-1ae638c27de6",
+  "https://images.blocketcdn.se/dynamic/default/item/26903513/2292c5a9-473f-4290-b539-88521380a9bc",
+  "https://images.blocketcdn.se/dynamic/default/item/26903513/ebb786b6-e258-4088-9c05-2005ea7c7fab"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.95,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny el dragen i båten med möjlighet att ladda via USB och 12V, ledlampor i tak, lanternor, Ankar, fendrar osv följer med.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "791bbee0229169ef"
+ },
+ "location": "Heby",
+ "lon": 16.86,
+ "make": "Örnvik",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 549,
+  "fetched_ts": 1790523234664,
+  "text_sha": "791bbee0229169ef"
+ },
+ "price": 36000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 36000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "550 HT",
+  "Modellår": "1978",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "3",
+  "Toppfart": "20 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26903513",
+ "width_cm": 0,
+ "year": 1978
+}

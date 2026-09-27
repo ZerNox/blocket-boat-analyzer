@@ -1,0 +1,86 @@
+{
+ "ad_id": 26285410,
+ "boat_class": "Annat",
+ "changed_ts": 1788453383000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1988,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Bayliner Capri -88..V8 5.0 L Vortec..bra bruksskick..går kanonbra 45-50 knop ..motorn är en Vortec V8 på 5.0L som ä lit…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30 kärra..kan tänka byte husbil.HÖSTPRIS..55000 nu annar säljer jag den till våren.. ring för mer info..070/5661749",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Bayliner 1952",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26285410/7e5665d8-1184-469f-bd67-ba7bb32768c8",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26285410/7e5665d8-1184-469f-bd67-ba7bb32768c8",
+  "https://images.blocketcdn.se/dynamic/default/item/26285410/1f671cb4-e459-4cff-bba8-4998f5fa72da",
+  "https://images.blocketcdn.se/dynamic/default/item/26285410/aeacb6eb-c722-4f98-bbd4-debdb224aaf2",
+  "https://images.blocketcdn.se/dynamic/default/item/26285410/ca313f72-e847-46b4-9919-d2793e9cfd62",
+  "https://images.blocketcdn.se/dynamic/default/item/26285410/b060cf9f-7da0-4b25-968f-175126db93b9",
+  "https://images.blocketcdn.se/dynamic/default/item/26285410/48621209-dd16-47b6-bdb3-02c0c437f820",
+  "https://images.blocketcdn.se/dynamic/default/item/26285410/69091b06-5853-4e7e-b4e1-fdebdaf8aa5b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.35,
+ "length_ft": 19,
+ "location": "Karlskoga",
+ "lon": 14.57,
+ "make": "Bayliner",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 289,
+  "fetched_ts": 1790520936640,
+  "text_sha": "31c884caeba2ad48"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modellår": "1988",
+  "Motor inkluderad": "Nej",
+  "Märke": "Bayliner",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26285410",
+ "width_cm": 0,
+ "year": 1988
+}

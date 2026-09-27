@@ -1,0 +1,126 @@
+{
+ "ad_id": 25904897,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1787318779000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "landstrom": {
+    "evidence": "- usb laddare",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 510HT, 60hk camping båt",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Örnvik 510HT, 60hk camping båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25904897/86f9cb4d-328a-4906-b2ae-7a5a9644071a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25904897/86f9cb4d-328a-4906-b2ae-7a5a9644071a",
+  "https://images.blocketcdn.se/dynamic/default/item/25904897/dd69856b-03ee-4c77-a123-e4dbc2b3cf35",
+  "https://images.blocketcdn.se/dynamic/default/item/25904897/67360de3-32b0-490b-9dc0-d6070c6c51e0",
+  "https://images.blocketcdn.se/dynamic/default/item/25904897/017e06dd-1ef5-4eb6-8f0e-42c20e06d29d",
+  "https://images.blocketcdn.se/dynamic/default/item/25904897/abb38a12-54e1-41b9-8257-8794f7cb652a",
+  "https://images.blocketcdn.se/dynamic/default/item/25904897/61f1dace-86b7-4b9b-8495-327828db78b4",
+  "https://images.blocketcdn.se/dynamic/default/item/25904897/0d806910-c332-43c2-9e92-c37de1bb308b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.38,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1975,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "motor evinrude 60hk 2t, genomgott och bytt oljur, tändstift och rengjort förgasarna och bränslepumppen samt bytt alla tätningar och slangar.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d4789b6f2c7b613b"
+ },
+ "location": "Lövstabruk",
+ "lon": 17.93,
+ "make": "Örnvik",
+ "max_speed": 26,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 446,
+  "fetched_ts": 1790523085540,
+  "text_sha": "d4789b6f2c7b613b"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Bredd": "192 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "510 HT",
+  "Modellår": "1975",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "26 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "400 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25904897",
+ "width_cm": 192,
+ "year": 1975
+}

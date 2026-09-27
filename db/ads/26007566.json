@@ -7,6 +7,8 @@
   "boat_year": 1991,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -27,6 +29,10 @@
     "included": false
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 535 HT",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "declared outboard but text says 'drevet'"
   ],
@@ -36,10 +42,33 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 535"
+ ],
  "heading": "Flipper 535 HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26007566/8391cfb5-d914-4f22-9bd3-c135258bc219",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.82358,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/8391cfb5-d914-4f22-9bd3-c135258bc219",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/64719f48-b129-48a7-923c-52ed8234c8dd",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/94ea5fdc-7233-4d8c-bbf8-a19a65d1e13f",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/a3863653-d03b-436e-97a9-3272a9fd8a34",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/da33c8a2-2a6c-4b58-b761-8cf59f4b6f2e",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/bc040fa4-d154-42aa-bb2b-65d333f711a7",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/18572213-2507-42d8-9603-f33a1b8d5ed8",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/7aa15c54-1d65-4c75-8273-95d00235af32",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/186af6f1-42c9-41f8-87a8-d28077cf321e",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/f7ec7b58-bcb3-4218-9518-4e76386d7d98",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/083cc851-82de-43c5-a6d2-f4eeb0b76621",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/2d3176cd-8dc4-425c-aa05-c3be324d1b4a",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/f4baf74c-9d5d-44be-8d0f-01165e825f94",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/4e13151f-83f0-4570-9299-ea21d4b9fa51",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/8ba0950b-6d03-4a36-b291-dd0006fbc19e",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/1d911fd2-415a-40e2-acbe-a557fed9ca7f",
+  "https://images.blocketcdn.se/dynamic/default/item/26007566/4b1e7dc6-5077-49de-bd24-1d121eb351d9"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.82,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -70,7 +99,7 @@
   "text_sha": "2ef6f7efe62dd183"
  },
  "location": "Västerljung",
- "lon": 17.48105,
+ "lon": 17.48,
  "make": "Flipper",
  "max_speed": 27,
  "motor_fuel": "Bensin",

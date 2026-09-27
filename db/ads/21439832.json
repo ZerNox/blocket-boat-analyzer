@@ -1,0 +1,107 @@
+{
+ "ad_id": 21439832,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789398585000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Whaly 435 med Yamaha 30 hk NY komplett båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21439832/efe02d24-dd87-48e6-8dbf-9c1d682c8feb",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21439832/efe02d24-dd87-48e6-8dbf-9c1d682c8feb",
+  "https://images.blocketcdn.se/dynamic/default/item/21439832/4f28ee82-01d2-428f-a062-9f6ae6a4c984",
+  "https://images.blocketcdn.se/dynamic/default/item/21439832/1e0d8e2c-deb4-4afa-ae83-429c3339eb30",
+  "https://images.blocketcdn.se/dynamic/default/item/21439832/32dd3be7-df9e-4fcb-9669-9740f4e40dbe"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.72,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2025,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor inkluderad: Ja Motortillverkare: Yamaha",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a9ee89b4fdb92989"
+ },
+ "location": "Göteborg",
+ "lon": 11.97,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 541,
+  "fetched_ts": 1790520588082,
+  "text_sha": "a9ee89b4fdb92989"
+ },
+ "price": 99000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 99000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "435",
+  "Modellår": "2025",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Yamaha",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/21439832",
+ "width_cm": 175,
+ "year": 2025
+}

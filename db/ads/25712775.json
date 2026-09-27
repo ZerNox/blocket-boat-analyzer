@@ -7,6 +7,8 @@
   "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 440 sc",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25712775/6a2ab5ca-c580-449f-9267-0575344292d6",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.35782,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25712775/6a2ab5ca-c580-449f-9267-0575344292d6",
+  "https://images.blocketcdn.se/dynamic/default/item/25712775/36048345-6b50-4f87-8887-ad387cab88b8",
+  "https://images.blocketcdn.se/dynamic/default/item/25712775/284dfbf4-53a8-48e8-a49c-b12bc42ff203",
+  "https://images.blocketcdn.se/dynamic/default/item/25712775/7982a538-e9e9-4674-b2bf-a73c2e4950da",
+  "https://images.blocketcdn.se/dynamic/default/item/25712775/bcd1011c-a49c-4d1f-83e8-d3b8ee4ca2fc",
+  "https://images.blocketcdn.se/dynamic/default/item/25712775/6fbd0e5f-c380-451f-b009-0e46e410ca36",
+  "https://images.blocketcdn.se/dynamic/default/item/25712775/ba65cf2c-a126-4828-872d-d4838b6aef81",
+  "https://images.blocketcdn.se/dynamic/default/item/25712775/21b758f8-eafd-43f9-83a1-8d3564c40d6c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.36,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +72,13 @@
   "text_sha": "0a0c072020216aa7"
  },
  "location": "Idkerberget",
- "lon": 15.2156,
+ "lon": 15.22,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508115201,
@@ -90,7 +103,7 @@
   "Märke": "HR",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25712775",
  "width_cm": 0,
  "year": 2016

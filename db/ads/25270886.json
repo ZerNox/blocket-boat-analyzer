@@ -1,0 +1,73 @@
+{
+ "ad_id": 25270886,
+ "boat_class": "Annat",
+ "changed_ts": 1785498890000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1997,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1997,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Träbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25270886/b877d1b0-69ac-461b-85fc-0e6db6e69462",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25270886/b877d1b0-69ac-461b-85fc-0e6db6e69462",
+  "https://images.blocketcdn.se/dynamic/default/item/25270886/17d18118-daa8-4792-b02a-66e4643494e1",
+  "https://images.blocketcdn.se/dynamic/default/item/25270886/6ffcb364-5a3a-456d-8ce9-b28c64a091fd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 63.68,
+ "length_ft": 14,
+ "location": "Holmsund",
+ "lon": 20.4,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 263,
+  "fetched_ts": 1790520665996,
+  "text_sha": "45c004f6d8e8737b"
+ },
+ "price": 6000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 6000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modellår": "1997",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Trä",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25270886",
+ "width_cm": 0,
+ "year": 1997
+}

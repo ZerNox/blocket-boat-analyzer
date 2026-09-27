@@ -36,10 +36,11 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "Styrpulpet",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25218491/72e4e57f-04f3-4ee5-9080-2a62ae50d1f9",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.52035,
+ "lat": 59.52,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -69,7 +70,7 @@
   "text_sha": "23245ee5d79efc63"
  },
  "location": "Bro",
- "lon": 17.65879,
+ "lon": 17.66,
  "make": "HR",
  "max_speed": 25,
  "motor_fuel": "Bensin",
@@ -107,7 +108,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "240 kg"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/25218491",
  "width_cm": 180,
  "year": 2006

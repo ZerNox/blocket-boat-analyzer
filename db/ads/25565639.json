@@ -1,0 +1,107 @@
+{
+ "ad_id": 25565639,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786303213000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": 280,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2009,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten är från 2008 och motorn som gått 280 timmar är från 2009.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Båten har hamnkapell(blått) och körkapellet (grått) som köptes 2021, tvättades och impregnerades våren 2026.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Till båten följer även en Garmin GPSmap 421s med kartor för Öresund med samt förtöjningsutrustning, fendrar och ankare.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "En Bålstatrailer 80km/h finns och kan köpas till för 20 000kr.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Finnmaster 5700 DC 2008",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Finnmaster 5700 DC 2008",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25565639/f8b8209b-1ad4-452e-b6e4-610dd8ce426e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25565639/f8b8209b-1ad4-452e-b6e4-610dd8ce426e",
+  "https://images.blocketcdn.se/dynamic/default/item/25565639/41d72424-21a8-4910-81d2-b6a2be4a9b52",
+  "https://images.blocketcdn.se/dynamic/default/item/25565639/e04d41fc-f3db-4427-a5f9-cef93c561223",
+  "https://images.blocketcdn.se/dynamic/default/item/25565639/f97e6891-69bf-4df6-ae19-3dd147de40c8",
+  "https://images.blocketcdn.se/dynamic/default/item/25565639/4e03e187-1cdc-4465-8980-85e3e303b136",
+  "https://images.blocketcdn.se/dynamic/default/item/25565639/08437741-00bc-4f58-845f-9ce353952278",
+  "https://images.blocketcdn.se/dynamic/default/item/25565639/31b3cafd-930c-4128-8edc-cd3d02354bab",
+  "https://images.blocketcdn.se/dynamic/default/item/25565639/6f48be65-e6c6-4634-b4e0-02a161edf31f"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 55.89,
+ "length_ft": 19,
+ "location": "Landskrona",
+ "lon": 12.79,
+ "make": "Finnmaster",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1436,
+  "fetched_ts": 1790523022168,
+  "text_sha": "236a067fcebd1e0e"
+ },
+ "price": 215000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 215000
+  }
+ ],
+ "specs": {
+  "Bredd": "224 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "85 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "5700 DC",
+  "Modellår": "2008",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnmaster",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25565639",
+ "width_cm": 224,
+ "year": 2008
+}

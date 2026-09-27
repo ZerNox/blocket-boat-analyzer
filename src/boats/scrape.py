@@ -149,12 +149,13 @@ def _search_fields(d: dict) -> dict:
     return {
         "ad_id": int(d["id"]),
         "url": d.get("canonical_url") or ITEM.format(id=d["id"]),
-        "heading": d.get("heading"),
+        "heading": store.scrub(d.get("heading"), 200),
         "make": d.get("make"),
         "boat_class": d.get("boat_class"),
         "location": d.get("location"),
-        "lat": coords.get("lat"),
-        "lon": coords.get("lon"),
+        # ~1 km is plenty for a distance filter; no need for more precision in a public repo.
+        "lat": round(coords["lat"], 2) if coords.get("lat") is not None else None,
+        "lon": round(coords["lon"], 2) if coords.get("lon") is not None else None,
         "dealer_segment": d.get("dealer_segment"),
         "price": (d.get("price") or {}).get("amount"),
         "year": d.get("year"),

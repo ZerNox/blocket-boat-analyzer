@@ -1,0 +1,82 @@
+{
+ "ad_id": 26291372,
+ "boat_class": "Annat",
+ "changed_ts": 1788467801000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Båtens yttre är i okej skick men trädetaljer invändigt är i behov av slipning och behandling ( oljning fernisning ) kap…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtens yttre är i okej skick men trädetaljer invändigt är i behov av slipning och behandling ( oljning fernisning ) kap…",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "525 ht",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26291372/11f950ba-03e3-4d8d-a0fd-24ba8c076551",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26291372/11f950ba-03e3-4d8d-a0fd-24ba8c076551"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.33,
+ "length_ft": 18,
+ "location": "Kristinehamn",
+ "lon": 14.13,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 270,
+  "fetched_ts": 1790520937861,
+  "text_sha": "aa10180288635b35"
+ },
+ "price": 2500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 2500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "525",
+  "Modellår": "1980",
+  "Motor inkluderad": "Nej",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26291372",
+ "width_cm": 0,
+ "year": 1980
+}

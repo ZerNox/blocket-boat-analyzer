@@ -7,6 +7,8 @@
   "boat_year": 2004,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 434",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25890131/0871efe7-9c4d-4176-a092-eb0e2a67c9bd",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.36403,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25890131/0871efe7-9c4d-4176-a092-eb0e2a67c9bd",
+  "https://images.blocketcdn.se/dynamic/default/item/25890131/046bb6a5-beac-4eb2-8854-d8eb0e089ad0",
+  "https://images.blocketcdn.se/dynamic/default/item/25890131/41c69ce6-f75c-4770-a2ee-34eda2c59f45",
+  "https://images.blocketcdn.se/dynamic/default/item/25890131/1fee1789-f777-42ec-9bb6-7aff54fd8957",
+  "https://images.blocketcdn.se/dynamic/default/item/25890131/f15f74b6-7e8e-4fb5-8b2f-58e8a32fc37f",
+  "https://images.blocketcdn.se/dynamic/default/item/25890131/f8257fb7-c516-4b1c-8c92-9e8728ca047c",
+  "https://images.blocketcdn.se/dynamic/default/item/25890131/502b9ce9-f913-42e6-a9c3-76c0acb3137b",
+  "https://images.blocketcdn.se/dynamic/default/item/25890131/9d9c93d4-72ab-48d0-a15a-386451db9ce4",
+  "https://images.blocketcdn.se/dynamic/default/item/25890131/0ee58b5c-25ab-4f6a-93db-b0b89c738acc"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.36,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +79,13 @@
   "text_sha": "a889cde4114e8363"
  },
  "location": "Vänersborg",
- "lon": 12.28804,
+ "lon": 12.29,
  "make": "Crescent",
  "max_speed": 18,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 635,
   "fetched_ts": 1790508284040,
@@ -104,7 +118,7 @@
   "Typ": "Annat",
   "Vikt": "210 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25890131",
  "width_cm": 170,
  "year": 2004

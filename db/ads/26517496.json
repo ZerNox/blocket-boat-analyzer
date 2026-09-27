@@ -7,6 +7,8 @@
   "boat_year": 2025,
   "boat_year_source": "spec",
   "engine_hours": 5,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -42,8 +44,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Micore 51 CCR-design toppskick",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26517496/b6185fd4-e503-4697-a097-8bc2e812b4cc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.25706,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26517496/b6185fd4-e503-4697-a097-8bc2e812b4cc",
+  "https://images.blocketcdn.se/dynamic/default/item/26517496/443c02ac-a295-4204-bfe2-6a455ee1c6fd",
+  "https://images.blocketcdn.se/dynamic/default/item/26517496/6a6b0f08-a4f1-4d56-a96d-067a88ef3a51",
+  "https://images.blocketcdn.se/dynamic/default/item/26517496/088e1144-82ac-46ac-9035-2ee99be20a5e",
+  "https://images.blocketcdn.se/dynamic/default/item/26517496/d0841b0d-aa91-4498-8e9d-58721e4b1620",
+  "https://images.blocketcdn.se/dynamic/default/item/26517496/a397b500-c664-4b61-b211-cc33f736dabd",
+  "https://images.blocketcdn.se/dynamic/default/item/26517496/0e5e030a-7edd-4f79-8558-16ce7e8e5e34",
+  "https://images.blocketcdn.se/dynamic/default/item/26517496/6f96ab53-3319-461d-9d07-96789c19fe18"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.26,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +85,13 @@
   "text_sha": "fa49113cd907d206"
  },
  "location": "Saltsjöbaden",
- "lon": 18.35086,
+ "lon": 18.35,
  "make": "Micore",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 587,
   "fetched_ts": 1790508755651,
@@ -110,7 +123,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "637 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26517496",
  "width_cm": 2100,
  "year": 2025

@@ -1,0 +1,115 @@
+{
+ "ad_id": 24120051,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786798893000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": 290,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2011,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 625 Dc",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Flipper 625 Dc",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24120051/f9b659f9-dcbd-4028-8712-faace5b8c702",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24120051/f9b659f9-dcbd-4028-8712-faace5b8c702",
+  "https://images.blocketcdn.se/dynamic/default/item/24120051/5e19c2cb-9687-488e-a3da-14f613c7d0d5",
+  "https://images.blocketcdn.se/dynamic/default/item/24120051/32cf38e2-744b-4c94-84fd-27b5da686a56",
+  "https://images.blocketcdn.se/dynamic/default/item/24120051/1e549a3b-8c62-4cbb-bbab-998d35ed0909",
+  "https://images.blocketcdn.se/dynamic/default/item/24120051/c06ed62f-176a-4925-8308-6ee14f3f0bc9",
+  "https://images.blocketcdn.se/dynamic/default/item/24120051/cd147a92-dc05-45de-9007-6a105286d169"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.33,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2011,
+   "engine_hours": 290,
+   "engine_hp": null,
+   "engine_maker": "Flipper",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Gångtid 290 timmar. Servad enligt protokoll och nyservad för året.",
+   "engine_year_rejected": 2011,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a0baa237a110280a"
+ },
+ "location": "Värmdö",
+ "lon": 18.63,
+ "make": "Flipper",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 300,
+  "fetched_ts": 1790522922332,
+  "text_sha": "a0baa237a110280a"
+ },
+ "price": 259800,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 259800
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "21 fot",
+  "Modell": "625 dc",
+  "Modellår": "2011",
+  "Motor inkluderad": "Ja",
+  "Motortyp": "Inombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Sovplatser": "2",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24120051",
+ "width_cm": 0,
+ "year": 2011
+}

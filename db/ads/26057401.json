@@ -1,0 +1,108 @@
+{
+ "ad_id": 26057401,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788365023000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": 162,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2012,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamaha F50 4-takt (2012), 162 timmar.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell från 2012, i fungerande skick",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Övrigt Trailer ingår ej.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 575 HT – Yamaha F50 4-takt (2012), 162 timmar",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 575"
+ ],
+ "heading": "Flipper 575 HT – Yamaha F50 4-takt (2012), 162 timmar",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26057401/777acbf1-dd5e-4bbc-82fb-8726b52b4070",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26057401/777acbf1-dd5e-4bbc-82fb-8726b52b4070",
+  "https://images.blocketcdn.se/dynamic/default/item/26057401/61c1d0af-cb39-44f0-a88b-c8e37932b310",
+  "https://images.blocketcdn.se/dynamic/default/item/26057401/5ecbd5e4-a4e0-4a8c-a4b2-131cea3be395",
+  "https://images.blocketcdn.se/dynamic/default/item/26057401/af47e3af-e273-454a-8816-82c10148bf19",
+  "https://images.blocketcdn.se/dynamic/default/item/26057401/d4040648-e97e-4ee3-b5c3-076c6dbb6b87",
+  "https://images.blocketcdn.se/dynamic/default/item/26057401/fa643c0a-eac1-4a41-93f6-4d9ef40e6371",
+  "https://images.blocketcdn.se/dynamic/default/item/26057401/c6c49424-3446-455e-b96a-0892aae6ef03",
+  "https://images.blocketcdn.se/dynamic/default/item/26057401/26add766-3051-4543-a47a-22b9922c683e",
+  "https://images.blocketcdn.se/dynamic/default/item/26057401/d3ea5204-657c-454a-8637-46419bcac2fa",
+  "https://images.blocketcdn.se/dynamic/default/item/26057401/1e7a85cb-b9d2-4aa4-ac9e-0d40e6f2237a"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.38,
+ "length_ft": 18,
+ "location": "Uddevalla",
+ "lon": 11.68,
+ "make": "Flipper",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1191,
+  "fetched_ts": 1790523113543,
+  "text_sha": "8db990a96ae6bd59"
+ },
+ "price": 67500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 67500
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit /Blå",
+  "Längd i fot": "18 fot",
+  "Modell": "575 HT",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "520 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26057401",
+ "width_cm": 220,
+ "year": 1990
+}

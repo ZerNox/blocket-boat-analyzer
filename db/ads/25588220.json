@@ -1,0 +1,124 @@
+{
+ "ad_id": 25588220,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786377916000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellet är gammalt och slitet.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Enklare Bluetooth stereo med fjärrkontroll.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ockelbo T17 de luxe",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25588220/32efac3a-7c77-4d26-83a7-89cf4ef37b2f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25588220/32efac3a-7c77-4d26-83a7-89cf4ef37b2f",
+  "https://images.blocketcdn.se/dynamic/default/item/25588220/b54179e4-ef40-4c0b-a459-3c349ab44fb8",
+  "https://images.blocketcdn.se/dynamic/default/item/25588220/6e3d86d8-8839-4fcd-b657-1473f7211eeb",
+  "https://images.blocketcdn.se/dynamic/default/item/25588220/f01f9a43-00b9-4c51-b0fe-4ffab28e22a8"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.8,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1975,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor Johnson 90hk.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "bbb77ab2d2f9b4ae"
+ },
+ "location": "Svärdsjö",
+ "lon": 16.08,
+ "make": "Ockelbo",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 868,
+  "fetched_ts": 1790523032194,
+  "text_sha": "bbb77ab2d2f9b4ae"
+ },
+ "price": 49000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 49000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Röd, bottenmålad svart",
+  "Längd i fot": "17 fot",
+  "Modell": "T17 Delux",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ockelbo",
+  "Sittplatser": "7",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25588220",
+ "width_cm": 0,
+ "year": 1975
+}

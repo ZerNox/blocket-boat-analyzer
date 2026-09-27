@@ -7,6 +7,9 @@
 url = "https://www.blocket.se/mobility/search/boat?class=7962&class=6923&class=2184&dealer_segment=1&length_feet_from=17&length_feet_to=21&motor_size_from=40&motor_size_to=100&price_to=300000"
 # Seconds between requests. Be polite: one sequential client, no parallelism.
 delay_s = 1.2
+# Where you'd collect the boat from: the site filters on straight-line distance (adjustable there).
+home = { name = "Kungälv", postcode = "44242", lat = 57.871, lon = 11.98 }
+max_km = 300
 # Exact models similar to the target, searched by name in every boat type (catches misfiled ads).
 # Only ads whose model family matches exactly are kept. Filters below apply to these searches.
 models = [
@@ -50,6 +53,8 @@ red_flag_penalty = 0.20
 ridge_lambda = 2.0
 # Prior strength (in ads) for model-level price effects: a model with n ads gets weight n / (n + k).
 model_prior = 4.0
+# How many weighted direct comparables it takes to outweigh the make/type model (weight n / (n + k)).
+comp_prior = 2.0
 # Market ads the price model learns from: comparable motorboats, not sailboats, jet skis or yachts.
 market_classes = ["Hyttbåt", "Kabinbåt", "Daycruiser", "Styrpulpetbåt", "Bowrider", "Fiskebåt/Arbetsbåt"]
 market_length_ft = [14, 26]

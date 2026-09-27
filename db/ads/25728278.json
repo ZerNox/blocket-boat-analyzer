@@ -7,6 +7,8 @@
   "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 8.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "River 290 XR",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25728278/8da1b469-cd3f-4a3a-b1bb-de73fe86004d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.57132,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25728278/8da1b469-cd3f-4a3a-b1bb-de73fe86004d",
+  "https://images.blocketcdn.se/dynamic/default/item/25728278/95f31c0f-d198-49f1-98e5-5d8c45b82406",
+  "https://images.blocketcdn.se/dynamic/default/item/25728278/cbaadb10-148f-436e-91ca-328329f95932",
+  "https://images.blocketcdn.se/dynamic/default/item/25728278/872dd3ae-1d6f-4f4b-830d-724d8807ef2f",
+  "https://images.blocketcdn.se/dynamic/default/item/25728278/479985ca-5749-4fc3-88c2-1dc7d1f5181f",
+  "https://images.blocketcdn.se/dynamic/default/item/25728278/e1525192-2f5c-4d27-8f98-3c5df10d1a9b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.57,
  "length_ft": 9,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +75,13 @@
   "text_sha": "98a56bda0ffb7e89"
  },
  "location": "Norrköping",
- "lon": 16.24655,
+ "lon": 16.25,
  "make": "River",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 8.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 672,
   "fetched_ts": 1790508143906,
@@ -98,7 +109,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25728278",
  "width_cm": 150,
  "year": 2016

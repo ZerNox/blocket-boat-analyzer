@@ -1,0 +1,130 @@
+{
+ "ad_id": 25793332,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1789731727000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": 2000,
+  "engine_year_est": 1979,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": "Yamaha 90hk årsmodell 2000",
+  "engine_year_source": "llm",
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell 2025, gamla medföljer",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30-trailer finns att köpa till.",
+    "included": false
+   },
+   "vinterkapell": {
+    "evidence": "A-ställning 6-8 meter och presenning ingår",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "engine type unknown",
+   "ambiguous engine years [2000, 2025]"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Uttern 590"
+ ],
+ "heading": "Uttern 590 sänkt pris till 44000kr",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25793332/bee6a10e-1355-451d-a214-a70612be3a04",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25793332/bee6a10e-1355-451d-a214-a70612be3a04",
+  "https://images.blocketcdn.se/dynamic/default/item/25793332/d0390616-6de0-4e4f-8375-ed014465a8a3",
+  "https://images.blocketcdn.se/dynamic/default/item/25793332/53812c27-9637-4df3-aa7e-0941a8f59234",
+  "https://images.blocketcdn.se/dynamic/default/item/25793332/ca28d334-d03f-433d-a244-90d599d7ca3b",
+  "https://images.blocketcdn.se/dynamic/default/item/25793332/2c8bd35d-2597-4814-91d2-59c08d4071b9",
+  "https://images.blocketcdn.se/dynamic/default/item/25793332/4d341195-9622-452f-8ae5-b3bda7bb60dc"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 55.94,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1979,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": 2000,
+   "engine_year_evidence": "Yamaha 90hk årsmodell 2000",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f881b1a47a02572f"
+ },
+ "location": "Åhus",
+ "lon": 14.31,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 90.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 314,
+  "fetched_ts": 1790523066754,
+  "text_sha": "f881b1a47a02572f"
+ },
+ "price": 49000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 49000
+  }
+ ],
+ "specs": {
+  "Bredd": "250 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "65 cm",
+  "Längd i fot": "19 fot",
+  "Modell": "590",
+  "Modellår": "1979",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Yamaha",
+  "Märke": "Uttern",
+  "Typ": "Kabinbåt",
+  "Vikt": "840 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25793332",
+ "width_cm": 250,
+ "year": 1979
+}

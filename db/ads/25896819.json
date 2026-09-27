@@ -1,0 +1,105 @@
+{
+ "ad_id": 25896819,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787303222000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 3.5,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2021,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Fish 240 gummibåt - 1250 kr",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25896819/2d26132e-0f16-4456-aa1c-e2d3bfa84fd1",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25896819/2d26132e-0f16-4456-aa1c-e2d3bfa84fd1"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.05,
+ "length_ft": 8,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2021,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "eb986f765ebab005"
+ },
+ "location": "Helsingborg",
+ "lon": 12.68,
+ "make": "Finnsport",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 346,
+  "fetched_ts": 1790520855953,
+  "text_sha": "eb986f765ebab005"
+ },
+ "price": 1250,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 1250
+  }
+ ],
+ "specs": {
+  "Bredd": "130 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Grå",
+  "Längd i fot": "8 fot",
+  "Modell": "240",
+  "Modellår": "2021",
+  "Motor inkluderad": "Ja",
+  "Märke": "Finnsport",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "30 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25896819",
+ "width_cm": 130,
+ "year": 2021
+}

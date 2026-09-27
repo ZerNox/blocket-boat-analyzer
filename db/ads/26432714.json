@@ -1,0 +1,116 @@
+{
+ "ad_id": 26432714,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788887720000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Örnvik 435 med Yamaha elmotor.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Örnvik 435 med Yamaha elmotor.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26432714/c747ba66-7e33-4713-a801-6e38f5c992b5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26432714/c747ba66-7e33-4713-a801-6e38f5c992b5",
+  "https://images.blocketcdn.se/dynamic/default/item/26432714/50235ee3-1b2a-4590-a00b-4e52c2f7f9e2",
+  "https://images.blocketcdn.se/dynamic/default/item/26432714/4ac3dc06-2de2-44ad-8205-6b3716613c7c",
+  "https://images.blocketcdn.se/dynamic/default/item/26432714/e5be62e9-1ebf-4c3f-9cd5-11bddb3e397c",
+  "https://images.blocketcdn.se/dynamic/default/item/26432714/63350263-4de1-4ce5-a0e2-c021cf2843fa",
+  "https://images.blocketcdn.se/dynamic/default/item/26432714/0e708a02-088d-4f23-a912-4afd5f8b4778",
+  "https://images.blocketcdn.se/dynamic/default/item/26432714/c6fac345-5a91-45e2-a404-92baf44274e4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.81,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Yamaha",
+   "engine_type": "electric",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "567b84c592e28e16"
+ },
+ "location": "Sandöverken",
+ "lon": 18.06,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Elektrisk",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 220,
+  "fetched_ts": 1790520966070,
+  "text_sha": "567b84c592e28e16"
+ },
+ "price": 11500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 11500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Elektrisk",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "435",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26432714",
+ "width_cm": 0,
+ "year": 1980
+}

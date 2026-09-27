@@ -7,6 +7,8 @@
   "boat_year": 2009,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Selva",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -38,8 +40,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sandström 495",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25244892/ed310f59-e33f-4c3c-b456-c7a4a7a1f483",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.23677,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25244892/ed310f59-e33f-4c3c-b456-c7a4a7a1f483",
+  "https://images.blocketcdn.se/dynamic/default/item/25244892/b294583c-c760-46ce-a40f-f43d49948d3f",
+  "https://images.blocketcdn.se/dynamic/default/item/25244892/082b2f7a-0b42-41ab-bc3a-54a81473d783",
+  "https://images.blocketcdn.se/dynamic/default/item/25244892/6a33f697-e56f-4b61-ae69-6d9a2bd7f753"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.24,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +77,13 @@
   "text_sha": "bf5ddbbec68173da"
  },
  "location": "Stora Mellösa",
- "lon": 15.55252,
+ "lon": 15.55,
  "make": "Sandström",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 83,
   "fetched_ts": 1790507681822,
@@ -101,7 +110,7 @@
   "Märke": "Sandström",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25244892",
  "width_cm": 0,
  "year": 2009

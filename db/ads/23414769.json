@@ -7,6 +7,8 @@
   "boat_year": 2003,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -43,8 +45,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Hösterbjudande – båt, båtkärra och båtplats (Stråken).",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23414769/7c75b9ff-40f0-4ea8-bebd-b900f67bbe27",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.99144,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23414769/7c75b9ff-40f0-4ea8-bebd-b900f67bbe27",
+  "https://images.blocketcdn.se/dynamic/default/item/23414769/3f29e9ab-a6bd-4cd9-8520-bda67cb8490e",
+  "https://images.blocketcdn.se/dynamic/default/item/23414769/cd84f219-0749-4db7-8508-ae6036fa8901",
+  "https://images.blocketcdn.se/dynamic/default/item/23414769/8ca3acfa-2097-40b2-9388-4324989ee91f",
+  "https://images.blocketcdn.se/dynamic/default/item/23414769/b0298069-b455-4138-b2bd-9db77e735fb2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.99,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -75,12 +84,13 @@
   "text_sha": "a05b664e093ce075"
  },
  "location": "Sandhem",
- "lon": 13.80015,
+ "lon": 13.8,
  "make": "Örnvik",
  "max_speed": 35,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 289,
   "fetched_ts": 1790507501671,
@@ -111,7 +121,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "480 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23414769",
  "width_cm": 220,
  "year": 2003

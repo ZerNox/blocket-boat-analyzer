@@ -1,0 +1,102 @@
+{
+ "ad_id": 26093961,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787902195000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Nymålad båt. 420 lång",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26093961/b5d59d0e-7554-4442-b291-15b5108296e7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26093961/b5d59d0e-7554-4442-b291-15b5108296e7",
+  "https://images.blocketcdn.se/dynamic/default/item/26093961/e212e3d3-af17-4b6f-b38d-c549b6bcbced",
+  "https://images.blocketcdn.se/dynamic/default/item/26093961/cca20981-5684-46da-9530-0a0a3f469079",
+  "https://images.blocketcdn.se/dynamic/default/item/26093961/30ebe5d3-9f4c-40f0-9588-e35840ef4080"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.3,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "not_mentioned",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1e9bbfe6b799931d"
+ },
+ "location": "Kvissleby",
+ "lon": 17.49,
+ "make": "Absolute",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 122,
+  "fetched_ts": 1790520898173,
+  "text_sha": "1e9bbfe6b799931d"
+ },
+ "price": 4500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modellår": "1990",
+  "Märke": "Absolute",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26093961",
+ "width_cm": 0,
+ "year": 1990
+}

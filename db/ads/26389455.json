@@ -1,0 +1,137 @@
+{
+ "ad_id": 26389455,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789378866000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": "krovnr SE-RYDDC133D404 motor: mercruiser 4,3 MPI Motor nr OW000988 Drev ALPHA ONE DREW nr : OM487107 Sötvatten kyld moto",
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2004,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "GPS Garmin ECHO MAP 70S",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Hamn kapell/ lagat",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "GPS Garmin ECHO MAP 70S",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båt inklusive 30 trailer 155.000:-",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 20 DC   2004",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds 20 DC   2004",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26389455/560da3bc-4ed6-4eea-88eb-aae48151a2c8",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26389455/560da3bc-4ed6-4eea-88eb-aae48151a2c8",
+  "https://images.blocketcdn.se/dynamic/default/item/26389455/5900a2e4-88c2-447b-8f25-c9ac2f61a1ce",
+  "https://images.blocketcdn.se/dynamic/default/item/26389455/cfedc3f4-bcb4-4cc5-aa9c-8917701a0a8b",
+  "https://images.blocketcdn.se/dynamic/default/item/26389455/94337633-52cc-4e49-941a-12a336c6ce31",
+  "https://images.blocketcdn.se/dynamic/default/item/26389455/09d08b2e-7d9e-4cc7-bbe3-3fa51b7a15dc",
+  "https://images.blocketcdn.se/dynamic/default/item/26389455/948faf1b-3c53-453e-a737-8b8489888089",
+  "https://images.blocketcdn.se/dynamic/default/item/26389455/84694bca-9904-4227-b5d3-0e8b99a01f55",
+  "https://images.blocketcdn.se/dynamic/default/item/26389455/53b2f472-f18e-4b3e-8a87-5065e850486d"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.92,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2004,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Drev ALPHA ONE DREW nr : OM487107 större service har gjorts juli 2026",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a7ce72e97779f642"
+ },
+ "location": "Väddö",
+ "lon": 18.94,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 648,
+  "fetched_ts": 1790523159352,
+  "text_sha": "a7ce72e97779f642"
+ },
+ "price": 155000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 155000
+  }
+ ],
+ "specs": {
+  "Bredd": "245 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modell": "20 DC",
+  "Modellår": "2004",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercury",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Sovplatser": "3",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26389455",
+ "width_cm": 245,
+ "year": 2004
+}

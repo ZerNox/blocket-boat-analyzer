@@ -1,0 +1,108 @@
+{
+ "ad_id": 26372886,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788708254000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 18.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår ej.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Tehri microfun fiskebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26372886/14f08ec5-565c-4565-b8d5-aeccb0a09b99",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26372886/14f08ec5-565c-4565-b8d5-aeccb0a09b99",
+  "https://images.blocketcdn.se/dynamic/default/item/26372886/864dead4-c67f-4ddd-aa3f-93e7aa604a74",
+  "https://images.blocketcdn.se/dynamic/default/item/26372886/22ab94c2-c9df-4601-b839-a274052ab9db",
+  "https://images.blocketcdn.se/dynamic/default/item/26372886/002b0d9a-b4e7-4e04-bbf6-cb1ebd58a96e",
+  "https://images.blocketcdn.se/dynamic/default/item/26372886/1717433e-7221-460b-8ad5-55541a0c5ecb"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.59,
+ "length_ft": 11,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 18,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor: 18hk Mercury (tvåtakt). Gick som den ska när den senast användes. Motorn är inte körd eller startad i år.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e0c19620a17f20da"
+ },
+ "location": "Lindesberg",
+ "lon": 15.23,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 320,
+  "fetched_ts": 1790520949398,
+  "text_sha": "e0c19620a17f20da"
+ },
+ "price": 12000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "11 fot",
+  "Modellår": "1990",
+  "Märke": "Övriga",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26372886",
+ "width_cm": 0,
+ "year": 1990
+}

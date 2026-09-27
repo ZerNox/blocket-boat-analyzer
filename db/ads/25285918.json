@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude 50",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -35,8 +37,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 440 gt med trim/tilt och trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25285918/bd08d7ec-cb70-46cf-87bc-b3e5ffed850f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.76671,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25285918/bd08d7ec-cb70-46cf-87bc-b3e5ffed850f",
+  "https://images.blocketcdn.se/dynamic/default/item/25285918/9f5f36fd-ac46-4c07-8ad5-00d5be11ceb8",
+  "https://images.blocketcdn.se/dynamic/default/item/25285918/4a000fb0-98ac-42b5-85a4-9804619cee60",
+  "https://images.blocketcdn.se/dynamic/default/item/25285918/914eb5f9-8610-4631-acec-095b516e4536",
+  "https://images.blocketcdn.se/dynamic/default/item/25285918/03798335-c3d9-4d6b-9d83-aefe8a90a7c5",
+  "https://images.blocketcdn.se/dynamic/default/item/25285918/ae52ac9d-f6b2-4796-81dc-3ff42ff1ecb4",
+  "https://images.blocketcdn.se/dynamic/default/item/25285918/36c07fcf-7ceb-4fb5-813c-f255ae70830b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.77,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +77,13 @@
   "text_sha": "44e4bea619f15e25"
  },
  "location": "Norrtälje",
- "lon": 18.72722,
+ "lon": 18.73,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 709,
   "fetched_ts": 1790507727215,
@@ -97,7 +109,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25285918",
  "width_cm": 0,
  "year": 1990

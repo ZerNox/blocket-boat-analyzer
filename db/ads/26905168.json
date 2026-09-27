@@ -7,6 +7,8 @@
   "boat_year": 1979,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -23,6 +25,10 @@
     "included": false
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Terhi 520 HT",
+  "hull_source": "rule:model",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [
@@ -32,13 +38,25 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Terhi 520 HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26905168/3938e5ff-d532-45a0-b037-474701fa6435",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.20331,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26905168/3938e5ff-d532-45a0-b037-474701fa6435",
+  "https://images.blocketcdn.se/dynamic/default/item/26905168/9c7e5721-4c12-493e-ae51-5d10ee766a51",
+  "https://images.blocketcdn.se/dynamic/default/item/26905168/ce590dab-69e2-4c9d-8f69-4060c22c7adc",
+  "https://images.blocketcdn.se/dynamic/default/item/26905168/2574ec43-20d6-43e5-8eaf-b0ad583aac9c",
+  "https://images.blocketcdn.se/dynamic/default/item/26905168/fd68485c-f582-4ae5-908e-98e520257a17",
+  "https://images.blocketcdn.se/dynamic/default/item/26905168/0cafd649-0148-44ce-8ab3-42db556d18b0",
+  "https://images.blocketcdn.se/dynamic/default/item/26905168/a6dd9f6e-afb1-48f0-9a9b-07843866a292"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.2,
  "length_ft": 17,
  "location": "Åskloster",
- "lon": 12.1969,
+ "lon": 12.2,
  "make": "Terhi",
  "max_speed": null,
  "motor_fuel": "Bensin",

@@ -1,0 +1,120 @@
+{
+ "ad_id": 25406701,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785871127000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2001,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "monterades hydraulisk styrning",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapellet fick nya dragkedjor och bättrade sömmar 2025",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Askeladden 515 Freestyle",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25406701/55573338-586e-4489-b302-f3df4ec255ae",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25406701/55573338-586e-4489-b302-f3df4ec255ae",
+  "https://images.blocketcdn.se/dynamic/default/item/25406701/cbba9045-0772-4407-985c-98dc1101750b",
+  "https://images.blocketcdn.se/dynamic/default/item/25406701/b93adca4-6c1e-4aa2-ab1e-ab53129fa832"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.29,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2001,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "277ac3a6f5065c67"
+ },
+ "location": "Uddevalla",
+ "lon": 11.65,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 176,
+  "fetched_ts": 1790522986935,
+  "text_sha": "277ac3a6f5065c67"
+ },
+ "price": 94000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 94000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "515 Freestyle",
+  "Modellår": "2001",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Askeladden",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25406701",
+ "width_cm": 0,
+ "year": 2001
+}

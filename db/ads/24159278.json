@@ -1,0 +1,93 @@
+{
+ "ad_id": 24159278,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1787009009000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Penta 2002",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2002,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Penta 2002",
+  "engine_year_source": "rule:spec",
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Snipa med påbyggnad",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24159278/ac62392d-14a1-4f30-b4ca-2dd17ee802fa",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24159278/ac62392d-14a1-4f30-b4ca-2dd17ee802fa",
+  "https://images.blocketcdn.se/dynamic/default/item/24159278/faae8fe9-f0af-4a13-b8b9-b6ad65183c45",
+  "https://images.blocketcdn.se/dynamic/default/item/24159278/d8d9ccab-9148-4be5-b151-a510fdb786b2",
+  "https://images.blocketcdn.se/dynamic/default/item/24159278/0544a87f-9cd4-400b-850f-44ffd44cf0d0",
+  "https://images.blocketcdn.se/dynamic/default/item/24159278/f8b32853-7078-4205-a36b-b265e6b5b74b",
+  "https://images.blocketcdn.se/dynamic/default/item/24159278/f57b7abe-1699-4de7-8bf6-0c4dafffcdcd",
+  "https://images.blocketcdn.se/dynamic/default/item/24159278/0f7fe232-d66a-41d2-a296-8d261df6f163",
+  "https://images.blocketcdn.se/dynamic/default/item/24159278/4853828b-7065-4d15-8494-d7f228d6bcea",
+  "https://images.blocketcdn.se/dynamic/default/item/24159278/179b293b-adec-4284-b128-9615f7fe9408"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.05,
+ "length_ft": 20,
+ "location": "Gualöv",
+ "lon": 14.42,
+ "make": "Övriga",
+ "max_speed": 12,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 180,
+  "fetched_ts": 1790522926323,
+  "text_sha": "00c6643186e3a18c"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "260 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit",
+  "Längd i fot": "20 fot",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Penta 2002",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "12 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "2 000 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24159278",
+ "width_cm": 260,
+ "year": 2000
+}

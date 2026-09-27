@@ -1,0 +1,75 @@
+{
+ "ad_id": 26098230,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787912319000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Plastbåt med styrpulpet 460cm",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26098230/5d24eebb-17d4-4f6a-a1ed-61c3f12ed2bb",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26098230/5d24eebb-17d4-4f6a-a1ed-61c3f12ed2bb",
+  "https://images.blocketcdn.se/dynamic/default/item/26098230/699a8ec7-997f-4ade-8a7a-a04341d4e743"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 66.66,
+ "length_ft": 15,
+ "location": "Lansjärv",
+ "lon": 22.19,
+ "make": "Albatross",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 31,
+  "fetched_ts": 1790520899625,
+  "text_sha": "0995b71c6fcd08ce"
+ },
+ "price": 6500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 6500
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Orange å vit",
+  "Längd i fot": "15 fot",
+  "Modell": "Osänkbar",
+  "Modellår": "1980",
+  "Motor inkluderad": "Nej",
+  "Märke": "Albatross",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26098230",
+ "width_cm": 170,
+ "year": 1980
+}

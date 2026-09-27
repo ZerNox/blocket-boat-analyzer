@@ -7,6 +7,8 @@
   "boat_year": 1970,
   "boat_year_source": "spec",
   "engine_hours": 50,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Selco",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22607436/dfaa6de4-c621-4065-8f3a-032ea27bc161",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.87364,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22607436/dfaa6de4-c621-4065-8f3a-032ea27bc161",
+  "https://images.blocketcdn.se/dynamic/default/item/22607436/7310789e-72bb-4f61-93c4-7b6d6813f11b",
+  "https://images.blocketcdn.se/dynamic/default/item/22607436/62b39b0b-156e-499e-b760-3a5c37a010c8",
+  "https://images.blocketcdn.se/dynamic/default/item/22607436/e104d016-ae35-415d-be66-a126ad68846e",
+  "https://images.blocketcdn.se/dynamic/default/item/22607436/8c19a543-5af5-4623-9d58-d3c71af85e43",
+  "https://images.blocketcdn.se/dynamic/default/item/22607436/cfa4f45a-5a8d-4f75-b866-0c0c6af5b3a6",
+  "https://images.blocketcdn.se/dynamic/default/item/22607436/baf311da-bca3-4f30-ba94-8cd6dd972f6e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.87,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +77,13 @@
   "text_sha": "a3bb06758b8440a5"
  },
  "location": "Ockelbo",
- "lon": 16.72347,
+ "lon": 16.72,
  "make": "Selco",
  "max_speed": 20,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 135,
   "fetched_ts": 1790507462371,
@@ -97,7 +109,7 @@
   "Toppfart": "20 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/22607436",
  "width_cm": 0,
  "year": 1970

@@ -7,6 +7,8 @@
   "boat_year": 2018,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -55,8 +57,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HÖSTPRIS! - Tracker Super Guide V16 - 2018",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26252452/03f7f63a-5914-4113-b87f-cb6a5a2b2ba9",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.32191,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26252452/03f7f63a-5914-4113-b87f-cb6a5a2b2ba9",
+  "https://images.blocketcdn.se/dynamic/default/item/26252452/b4af7b96-94e8-474f-8bb8-50ac98090ba0",
+  "https://images.blocketcdn.se/dynamic/default/item/26252452/14e5473b-1e8f-4270-90c2-48e878c2818d",
+  "https://images.blocketcdn.se/dynamic/default/item/26252452/7d4886ea-af14-46d4-94d7-66261203c639",
+  "https://images.blocketcdn.se/dynamic/default/item/26252452/2cc5882c-031e-4903-a1b7-6d181aa649ce",
+  "https://images.blocketcdn.se/dynamic/default/item/26252452/06cf07b1-1851-438a-8aff-4a5cad2eba8a",
+  "https://images.blocketcdn.se/dynamic/default/item/26252452/6389ca0e-f475-4ab2-89c7-b80cf985b591",
+  "https://images.blocketcdn.se/dynamic/default/item/26252452/671baddb-21dc-4d10-b2f3-a79cdde04fb2",
+  "https://images.blocketcdn.se/dynamic/default/item/26252452/7dd022f6-27a5-47b6-b8be-9ca39bb80473"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -86,12 +99,13 @@
   "text_sha": "ffbbb3bd6b74eec0"
  },
  "location": "Värmdö",
- "lon": 18.44756,
+ "lon": 18.45,
  "make": "Tracker",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 488,
   "fetched_ts": 1790508557109,
@@ -120,7 +134,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26252452",
  "width_cm": 193,
  "year": 2018

@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": 196,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Norrbåt med Yamaha 60 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25994153/9cd4a35f-93dd-4342-830c-0b0c1580fbb2",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.60453,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25994153/9cd4a35f-93dd-4342-830c-0b0c1580fbb2",
+  "https://images.blocketcdn.se/dynamic/default/item/25994153/82b238a3-805c-49f1-93c0-beb3d7324a95",
+  "https://images.blocketcdn.se/dynamic/default/item/25994153/705462df-9f95-4228-8389-04e9841776a8",
+  "https://images.blocketcdn.se/dynamic/default/item/25994153/bed7854a-d98f-4ff5-ada7-6aeeed3db98f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.6,
  "length_ft": 20,
  "llm": {
   "at": "2026-09-27",
@@ -61,12 +69,13 @@
   "text_sha": "d0b712e11ee39af7"
  },
  "location": "Luleå",
- "lon": 22.17771,
+ "lon": 22.18,
  "make": "Norbåt",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 94,
   "fetched_ts": 1790508365066,
@@ -94,7 +103,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25994153",
  "width_cm": 200,
  "year": 2000

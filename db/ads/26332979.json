@@ -1,0 +1,75 @@
+{
+ "ad_id": 26332979,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788611234000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Roddbåt, ideal 430",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26332979/bba5e27f-9041-45ed-82ae-e923359f2360",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26332979/bba5e27f-9041-45ed-82ae-e923359f2360",
+  "https://images.blocketcdn.se/dynamic/default/item/26332979/c6a06b5f-a208-471b-a921-f3bb74b326d9",
+  "https://images.blocketcdn.se/dynamic/default/item/26332979/d3c5aa33-fc2f-4acc-a0c6-3e7fdd5e72b7",
+  "https://images.blocketcdn.se/dynamic/default/item/26332979/6d0f55dd-4ce4-4c8d-82de-51977427c206"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.3,
+ "length_ft": 14,
+ "location": "Saltsjöbaden",
+ "lon": 18.3,
+ "make": "Ideal",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 87,
+  "fetched_ts": 1790520945030,
+  "text_sha": "e673d5040f750ea2"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "430",
+  "Modellår": "1990",
+  "Motor inkluderad": "Nej",
+  "Märke": "Ideal",
+  "Sittplatser": "5",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26332979",
+ "width_cm": 0,
+ "year": 1990
+}

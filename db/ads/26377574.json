@@ -1,0 +1,127 @@
+{
+ "ad_id": 26377574,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788716343000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1974,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1974,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Enkelt ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30km/h släp ingår",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 510ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Örnvik 510ht",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26377574/4daa246e-fe1b-4578-a00b-0f36c3e4abaf",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26377574/4daa246e-fe1b-4578-a00b-0f36c3e4abaf",
+  "https://images.blocketcdn.se/dynamic/default/item/26377574/ae44f76b-5114-4726-b427-033b9a79fef7",
+  "https://images.blocketcdn.se/dynamic/default/item/26377574/52d83d35-ea41-4d03-bfb2-7bfcc2e4e145",
+  "https://images.blocketcdn.se/dynamic/default/item/26377574/93fe515e-cb5b-419a-94c7-3a70849cdc70",
+  "https://images.blocketcdn.se/dynamic/default/item/26377574/9deba099-bd8d-415b-ae5e-7c5bcb8668fe"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 55.84,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1974,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6aaf3bd756c10b04"
+ },
+ "location": "Saxtorp",
+ "lon": 12.94,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 71,
+  "fetched_ts": 1790523155185,
+  "text_sha": "6aaf3bd756c10b04"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "510ht",
+  "Modellår": "1974",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26377574",
+ "width_cm": 0,
+ "year": 1974
+}

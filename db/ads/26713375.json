@@ -1,0 +1,77 @@
+{
+ "ad_id": 26713375,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789821199000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2004,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Gummibåt Otter YDA- 270",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26713375/fa510926-59b3-49fa-ac50-58093bff5400",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26713375/fa510926-59b3-49fa-ac50-58093bff5400",
+  "https://images.blocketcdn.se/dynamic/default/item/26713375/4b5a9501-4107-4e15-b6a8-81bb679f0669",
+  "https://images.blocketcdn.se/dynamic/default/item/26713375/20b957ed-5b18-4384-b4ec-c0240f07e9df",
+  "https://images.blocketcdn.se/dynamic/default/item/26713375/41e4e99c-f159-4f61-8a21-891bbe362684",
+  "https://images.blocketcdn.se/dynamic/default/item/26713375/1b828ad4-8a85-47ac-9ff4-12d9ee8cea93"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.63,
+ "length_ft": 9,
+ "location": "Bålsta",
+ "lon": 17.45,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 105,
+  "fetched_ts": 1790521041011,
+  "text_sha": "04fd8bb162ffa38b"
+ },
+ "price": 4400,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4400
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "9 fot",
+  "Modellår": "2004",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Sittplatser": "3",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "35 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26713375",
+ "width_cm": 150,
+ "year": 2004
+}

@@ -1,0 +1,125 @@
+{
+ "ad_id": 22056959,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1785828077000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellet är i mycket fint skick, utan fläckar eller skador.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper HT 575",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 575"
+ ],
+ "heading": "Flipper HT 575",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22056959/bcc60cea-1ee9-4a4b-9a62-539af6a129f4",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22056959/bcc60cea-1ee9-4a4b-9a62-539af6a129f4",
+  "https://images.blocketcdn.se/dynamic/default/item/22056959/1761c74a-ef59-41a1-a240-c776eb440268",
+  "https://images.blocketcdn.se/dynamic/default/item/22056959/ce111004-2bbb-4e17-b73c-23b168ae3d3e",
+  "https://images.blocketcdn.se/dynamic/default/item/22056959/c3819551-af60-4c6c-8dd6-4a8c513bbd64",
+  "https://images.blocketcdn.se/dynamic/default/item/22056959/bc70e556-4243-4afc-a2ae-f021d27de641",
+  "https://images.blocketcdn.se/dynamic/default/item/22056959/53f691a0-04eb-41ab-8e33-2290ba7d8f60",
+  "https://images.blocketcdn.se/dynamic/default/item/22056959/d86d3f5b-f74b-434e-9ca3-617b1281b967"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.56,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5cef30896a3f13ba"
+ },
+ "location": "Karlsborg",
+ "lon": 14.52,
+ "make": "Flipper",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 208,
+  "fetched_ts": 1790522864040,
+  "text_sha": "5cef30896a3f13ba"
+ },
+ "price": 39000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 39000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "575",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "4",
+  "Sovplatser": "2",
+  "Toppfart": "20 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22056959",
+ "width_cm": 0,
+ "year": 1990
+}

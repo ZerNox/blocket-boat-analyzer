@@ -7,6 +7,8 @@
   "boat_year": 2022,
   "boat_year_source": "spec",
   "engine_hours": 100,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -43,8 +45,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder 460",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26894074/c70288e8-8bae-48d3-8778-96fcb9183f27",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.28845,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26894074/c70288e8-8bae-48d3-8778-96fcb9183f27",
+  "https://images.blocketcdn.se/dynamic/default/item/26894074/ac9f2e8d-005b-42b5-9357-72f015400674",
+  "https://images.blocketcdn.se/dynamic/default/item/26894074/02a4d8a7-c1c1-4853-9996-594e55e63aff",
+  "https://images.blocketcdn.se/dynamic/default/item/26894074/f8087857-f545-49f3-bf84-f597e3f59137",
+  "https://images.blocketcdn.se/dynamic/default/item/26894074/0e9de713-fecd-419a-b8b0-7bdd86552fbb",
+  "https://images.blocketcdn.se/dynamic/default/item/26894074/b58cd2cb-0264-4be2-8ead-125a001e0e23",
+  "https://images.blocketcdn.se/dynamic/default/item/26894074/11d50784-439b-41bd-a396-8f2d24e7a59c",
+  "https://images.blocketcdn.se/dynamic/default/item/26894074/1d291f94-0e58-446d-b940-78be5b605767"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.29,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +86,13 @@
   "text_sha": "2d3fe6402a0ae4e8"
  },
  "location": "Saltsjöbaden",
- "lon": 18.27294,
+ "lon": 18.27,
  "make": "Linder",
  "max_speed": 32,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 323,
   "fetched_ts": 1790509006526,
@@ -110,7 +123,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "292 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26894074",
  "width_cm": 185,
  "year": 2022

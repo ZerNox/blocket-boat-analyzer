@@ -7,6 +7,8 @@
   "boat_year": 1982,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "none",
@@ -27,16 +29,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 4950",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26678756/b1883fd6-deda-4309-a59b-c03dfa40c9f5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.20965,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26678756/b1883fd6-deda-4309-a59b-c03dfa40c9f5",
+  "https://images.blocketcdn.se/dynamic/default/item/26678756/59b34a7f-1de7-42f3-9ce4-45aab5ad90f7",
+  "https://images.blocketcdn.se/dynamic/default/item/26678756/a6d7c7c4-6e1d-4372-9d41-2d9254e26baa"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.21,
  "length_ft": 495,
  "location": "Degerfors",
- "lon": 14.49123,
+ "lon": 14.49,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 25.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508867242,
@@ -60,7 +68,7 @@
   "Märke": "Övriga",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26678756",
  "width_cm": 0,
  "year": 1982

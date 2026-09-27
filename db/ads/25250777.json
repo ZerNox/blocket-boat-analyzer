@@ -1,0 +1,118 @@
+{
+ "ad_id": 25250777,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785421953000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo penta",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Selco 18",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25250777/9311b730-9460-4995-8fcc-1a778b8fbdb7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25250777/9311b730-9460-4995-8fcc-1a778b8fbdb7",
+  "https://images.blocketcdn.se/dynamic/default/item/25250777/a185729a-138e-4653-8cfa-f1e57ffc7dc1",
+  "https://images.blocketcdn.se/dynamic/default/item/25250777/b4399dd3-5372-4455-962d-7bfc9a1cc115",
+  "https://images.blocketcdn.se/dynamic/default/item/25250777/80eade21-0148-43f3-b1e6-49af55d4fca8",
+  "https://images.blocketcdn.se/dynamic/default/item/25250777/e30564a5-76e1-4285-8813-7a06793c65a6",
+  "https://images.blocketcdn.se/dynamic/default/item/25250777/70631190-f469-46e3-98b6-9c52caaa46e0",
+  "https://images.blocketcdn.se/dynamic/default/item/25250777/680da67d-4bbf-4995-9e79-2991135ea61d",
+  "https://images.blocketcdn.se/dynamic/default/item/25250777/b7cbf627-77ab-452c-a550-edfe9e581ee7",
+  "https://images.blocketcdn.se/dynamic/default/item/25250777/293a8439-90f3-4a34-8390-ade5e36b4c49",
+  "https://images.blocketcdn.se/dynamic/default/item/25250777/42a1c299-c7ef-4c54-9fed-ff938353347c"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.61,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3a98767d2e118bb3"
+ },
+ "location": "Gagnef",
+ "lon": 15.12,
+ "make": "Selco",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790520662898,
+  "text_sha": "3a98767d2e118bb3"
+ },
+ "price": 23000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 23000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "B20",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo penta",
+  "Motortyp": "Inombordare",
+  "Märke": "Selco",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25250777",
+ "width_cm": 0,
+ "year": 1980
+}

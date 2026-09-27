@@ -7,6 +7,8 @@
   "boat_year": 2017,
   "boat_year_source": "spec",
   "engine_hours": 80,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -36,8 +38,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR 480 SC",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26502424/b9234ee9-4e3a-4614-8259-9acfbca90af2",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.32764,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26502424/b9234ee9-4e3a-4614-8259-9acfbca90af2",
+  "https://images.blocketcdn.se/dynamic/default/item/26502424/9c8832a5-888f-478b-9219-042921862a29",
+  "https://images.blocketcdn.se/dynamic/default/item/26502424/27cebb9f-e7de-471a-9dce-32e4ca3ada36"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.33,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +74,13 @@
   "text_sha": "ddf009c7d15eea23"
  },
  "location": "Skoghall",
- "lon": 13.44807,
+ "lon": 13.45,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 180,
   "fetched_ts": 1790508744811,
@@ -99,7 +107,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26502424",
  "width_cm": 0,
  "year": 2017

@@ -1,0 +1,112 @@
+{
+ "ad_id": 25633246,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1786488278000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1995,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn har hydraulisk styrning, är från 1995, går mycket fint och båten är redo att bara starta och köra.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Motorn har hydraulisk styrning, är från 1995, går mycket fint och båten är redo att bara starta och köra.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nya fönster till kapellet 2026",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Vid snabb och smidig affär kan en 30-trailer ingå.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "HÖSTKLIPP! Flipper 570 HT - Yamaha 90 hk 2-takt - 1995",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 570"
+ ],
+ "heading": "HÖSTKLIPP! Flipper 570 HT - Yamaha 90 hk 2-takt - 1995",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25633246/76e0c66a-f051-4136-954a-60467a65b246",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25633246/76e0c66a-f051-4136-954a-60467a65b246",
+  "https://images.blocketcdn.se/dynamic/default/item/25633246/23c48fa9-f536-488d-b3fa-99c1a1728be2",
+  "https://images.blocketcdn.se/dynamic/default/item/25633246/769a1fda-6dea-4eb7-a3b4-c5af69c1c120",
+  "https://images.blocketcdn.se/dynamic/default/item/25633246/2f9ded78-0111-401e-8806-6d4920b352af",
+  "https://images.blocketcdn.se/dynamic/default/item/25633246/78c0a018-d289-4931-9195-d6458313d152",
+  "https://images.blocketcdn.se/dynamic/default/item/25633246/332d6423-a6eb-41b2-9712-3e1e3d569030",
+  "https://images.blocketcdn.se/dynamic/default/item/25633246/78fc1cd7-0f1c-48b5-8bfd-296f793e829d",
+  "https://images.blocketcdn.se/dynamic/default/item/25633246/6ebaf2ab-465e-491d-b846-845601bf8373",
+  "https://images.blocketcdn.se/dynamic/default/item/25633246/21f276c2-2be0-4fcd-8db3-0489f44454b0",
+  "https://images.blocketcdn.se/dynamic/default/item/25633246/3255baae-f4b8-442e-948f-3b8e60466c5b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.6,
+ "length_ft": 18,
+ "location": "Falun",
+ "lon": 15.67,
+ "make": "Flipper",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1067,
+  "fetched_ts": 1790523036651,
+  "text_sha": "761deef81387e2f7"
+ },
+ "price": 39900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 39900
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "570 HT",
+  "Modellår": "1979",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "32 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "520 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25633246",
+ "width_cm": 220,
+ "year": 1979
+}

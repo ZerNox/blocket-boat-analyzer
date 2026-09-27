@@ -1,0 +1,82 @@
+{
+ "ad_id": 26597080,
+ "boat_class": "Annat",
+ "changed_ts": 1789683611000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Flateka",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26597080/0fe65946-6639-4ecb-83a1-87d303ee34be",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26597080/0fe65946-6639-4ecb-83a1-87d303ee34be",
+  "https://images.blocketcdn.se/dynamic/default/item/26597080/a18536ec-a328-4868-8192-aff2c2226d07",
+  "https://images.blocketcdn.se/dynamic/default/item/26597080/b2f58b7f-dace-4238-929b-9f4c1dc361b0",
+  "https://images.blocketcdn.se/dynamic/default/item/26597080/c426e5f6-ff63-4bc2-b5f0-ce46b2baa459"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.83,
+ "length_ft": 14,
+ "location": "Vänge",
+ "lon": 17.34,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 89,
+  "fetched_ts": 1790521017147,
+  "text_sha": "eb8c0d35e378ed90"
+ },
+ "price": 19000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 19000
+  }
+ ],
+ "specs": {
+  "Bredd": "140 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "10 cm",
+  "Färg": "Tjärad",
+  "Längd i fot": "14 fot",
+  "Modell": "Flateka",
+  "Modellår": "2026",
+  "Motor inkluderad": "Ja",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Trä",
+  "Typ": "Annat",
+  "Vikt": "80 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26597080",
+ "width_cm": 140,
+ "year": 2026
+}

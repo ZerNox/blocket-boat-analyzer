@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury fyrtaktare",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 4612 styrpulpet Mercury 50HK",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26688360/61a9f9d6-0a90-4eac-8412-0865075b54c8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.06568,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26688360/61a9f9d6-0a90-4eac-8412-0865075b54c8",
+  "https://images.blocketcdn.se/dynamic/default/item/26688360/483154ef-3ef6-46aa-91ad-4d84c622fe91"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.07,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +72,13 @@
   "text_sha": "8bd03b4ba265aae8"
  },
  "location": "Björklinge",
- "lon": 17.42231,
+ "lon": 17.42,
  "make": "Uttern",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 218,
   "fetched_ts": 1790508873199,
@@ -102,7 +109,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "340 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26688360",
  "width_cm": 185,
  "year": 2000

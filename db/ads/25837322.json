@@ -1,0 +1,117 @@
+{
+ "ad_id": 25837322,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1787091451000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1994,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1994,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Fint 30 km släp",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Maxum 2100 Dc",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Maxum 2100 Dc",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25837322/4e2c8789-d9fa-4ce8-a8dd-c5788bf04082",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25837322/4e2c8789-d9fa-4ce8-a8dd-c5788bf04082",
+  "https://images.blocketcdn.se/dynamic/default/item/25837322/1605da91-a7e9-4aef-825a-e98119b62eee",
+  "https://images.blocketcdn.se/dynamic/default/item/25837322/5517b8b0-0c59-4a66-8442-3f6f421f0ece",
+  "https://images.blocketcdn.se/dynamic/default/item/25837322/08def4ee-bcac-481f-aa16-554f42bb79d1",
+  "https://images.blocketcdn.se/dynamic/default/item/25837322/42be23f1-cfcd-43b1-a0d3-a4f2d674ed94",
+  "https://images.blocketcdn.se/dynamic/default/item/25837322/aa90de12-0c51-4caa-9209-f7e86ff97001"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.84,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1994,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "5,7 V8 alpha",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Renoverad motor och drev mm 5,7 V8 alpha drev",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "af6f676656dd0b33"
+ },
+ "location": "Ljungby",
+ "lon": 13.94,
+ "make": "Maxum",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 127,
+  "fetched_ts": 1790523074863,
+  "text_sha": "af6f676656dd0b33"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "21 fot",
+  "Modell": "2100 Dc",
+  "Modellår": "1994",
+  "Motortyp": "Inombordare",
+  "Märke": "Maxum",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25837322",
+ "width_cm": 0,
+ "year": 1994
+}

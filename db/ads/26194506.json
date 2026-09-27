@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Historisk racerbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26194506/c77e5493-d1f4-4663-a9f5-1b6975ebf793",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.66207,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26194506/c77e5493-d1f4-4663-a9f5-1b6975ebf793",
+  "https://images.blocketcdn.se/dynamic/default/item/26194506/adf14ac5-588b-4989-97c2-33a5173aae5f",
+  "https://images.blocketcdn.se/dynamic/default/item/26194506/bf399d5e-162f-4911-923a-1c22e7a0946a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.66,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "a740eacd07882e9a"
  },
  "location": "Vimmerby",
- "lon": 15.84713,
+ "lon": 15.85,
  "make": "Ockelbo",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 15,
   "fetched_ts": 1790508509470,
@@ -99,7 +107,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26194506",
  "width_cm": 0,
  "year": 1975

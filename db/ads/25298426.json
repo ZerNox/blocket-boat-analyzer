@@ -7,6 +7,8 @@
   "boat_year": 2008,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury Optimax",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -38,8 +40,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern S52",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25298426/29fa83ce-c7c2-4673-96b7-7fee724667fc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.55476,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25298426/29fa83ce-c7c2-4673-96b7-7fee724667fc"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.55,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +74,13 @@
   "text_sha": "15c55aa4f1b35742"
  },
  "location": "Kullavik",
- "lon": 11.90119,
+ "lon": 11.9,
  "make": "Uttern",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 728,
   "fetched_ts": 1790507745322,
@@ -102,7 +108,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25298426",
  "width_cm": 0,
  "year": 2008

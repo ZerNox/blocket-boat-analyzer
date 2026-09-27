@@ -7,6 +7,8 @@
   "boat_year": 2024,
   "boat_year_source": "spec",
   "engine_hours": 14,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -38,16 +40,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Kimple 498 sniper 2024",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25742155/32a9e305-adbd-4610-a593-1eae9d607aad",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.26594,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25742155/32a9e305-adbd-4610-a593-1eae9d607aad",
+  "https://images.blocketcdn.se/dynamic/default/item/25742155/dd8d1858-1938-4e1d-9b3e-9a7e379e58b0",
+  "https://images.blocketcdn.se/dynamic/default/item/25742155/825b5dad-08a4-4864-8226-3287ef452816"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.27,
  "length_ft": 16,
  "location": "Örebro",
- "lon": 15.33678,
+ "lon": 15.34,
  "make": "Kimple",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 311,
   "fetched_ts": 1790508149630,
@@ -73,7 +81,7 @@
   "Märke": "Kimple",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25742155",
  "width_cm": 0,
  "year": 2024

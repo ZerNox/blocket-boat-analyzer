@@ -1,0 +1,81 @@
+{
+ "ad_id": 26749998,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789917975000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Amerikansk gummibåt 8 fot",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26749998/269f5303-b01c-495c-85de-f279ef3490e7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26749998/269f5303-b01c-495c-85de-f279ef3490e7",
+  "https://images.blocketcdn.se/dynamic/default/item/26749998/a9d7de40-a282-46a6-b093-f1b30a567af9",
+  "https://images.blocketcdn.se/dynamic/default/item/26749998/9ca2dc46-c4cd-4c2c-852d-7d05a26da154",
+  "https://images.blocketcdn.se/dynamic/default/item/26749998/0541825e-cedb-4d14-8a33-b3348ac11708",
+  "https://images.blocketcdn.se/dynamic/default/item/26749998/3f5e4093-397e-4ac6-9890-f07fb3a80d93"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.61,
+ "length_ft": 8,
+ "location": "Norrköping",
+ "lon": 16.26,
+ "make": "Quicksilver",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 258,
+  "fetched_ts": 1790521050803,
+  "text_sha": "5c11ac761d7bd67e"
+ },
+ "price": 3000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 3000
+  }
+ ],
+ "specs": {
+  "Bredd": "130 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "10 cm",
+  "Färg": "Grå",
+  "Längd i fot": "8 fot",
+  "Modell": "230",
+  "Modellår": "1990",
+  "Motor inkluderad": "Nej",
+  "Märke": "Quicksilver",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "25 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26749998",
+ "width_cm": 130,
+ "year": 1990
+}

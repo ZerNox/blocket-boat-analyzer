@@ -1,0 +1,132 @@
+{
+ "ad_id": 25572406,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1786346977000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell 4år gammalt fräscht dock en reva i bakrutan.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Släpet går just nu som 30 släp men går att registrera för 80.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 570"
+ ],
+ "heading": "Flipper 570",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25572406/de94494e-d3b3-4f94-b878-765d647cc9c5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25572406/de94494e-d3b3-4f94-b878-765d647cc9c5",
+  "https://images.blocketcdn.se/dynamic/default/item/25572406/ba6a073f-3e5d-4dc4-8edf-af8fbd5e2c36",
+  "https://images.blocketcdn.se/dynamic/default/item/25572406/43308c75-1fe1-4ec3-8874-17bb79c8c8e9",
+  "https://images.blocketcdn.se/dynamic/default/item/25572406/273aebe5-1256-4ecf-9782-b8f80f4e38e0",
+  "https://images.blocketcdn.se/dynamic/default/item/25572406/ce6ce8a7-03f5-4815-8a53-509b1f789812",
+  "https://images.blocketcdn.se/dynamic/default/item/25572406/e8141ace-cf97-4e64-b5da-01e4172685dc",
+  "https://images.blocketcdn.se/dynamic/default/item/25572406/ccf1276a-2be8-4e49-b31c-bda4aff0522d"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.3,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "dbc31a16022eeefe"
+ },
+ "location": "Värmdö",
+ "lon": 18.54,
+ "make": "Flipper",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 341,
+  "fetched_ts": 1790523024814,
+  "text_sha": "dbc31a16022eeefe"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "570",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25572406",
+ "width_cm": 0,
+ "year": 1978
+}

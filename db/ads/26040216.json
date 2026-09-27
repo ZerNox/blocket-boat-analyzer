@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 7.5,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -34,8 +36,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 430 – båt, Mercury 2-takt & kärra ingår",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26040216/b1018760-05b3-49c3-8734-8585800834dc",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.40965,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26040216/b1018760-05b3-49c3-8734-8585800834dc",
+  "https://images.blocketcdn.se/dynamic/default/item/26040216/5d178411-fc6f-4a25-9357-2659f28036d7",
+  "https://images.blocketcdn.se/dynamic/default/item/26040216/1c69bcff-cbe3-43c1-adc3-aad48c5f2c35",
+  "https://images.blocketcdn.se/dynamic/default/item/26040216/57adb946-d57c-469f-9dce-136d55e830f2",
+  "https://images.blocketcdn.se/dynamic/default/item/26040216/4de07f9b-be19-401c-b67d-7985557cee9b",
+  "https://images.blocketcdn.se/dynamic/default/item/26040216/34031ac9-2300-47f3-8ca3-65635b57e474",
+  "https://images.blocketcdn.se/dynamic/default/item/26040216/fe0d9247-3964-4bfb-b86d-a4f0a0ee550a",
+  "https://images.blocketcdn.se/dynamic/default/item/26040216/ff2ffd09-6955-42ea-8ae0-d8cf04f685f4",
+  "https://images.blocketcdn.se/dynamic/default/item/26040216/e6463db2-23ab-4b67-9910-9af98a49c448",
+  "https://images.blocketcdn.se/dynamic/default/item/26040216/75c135c5-801d-4908-ba92-4ae90b114428"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.41,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +79,13 @@
   "text_sha": "d152508dd56c2772"
  },
  "location": "Karlstad",
- "lon": 13.50566,
+ "lon": 13.51,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 7.5,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1380,
   "fetched_ts": 1790508409292,
@@ -99,7 +114,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "160 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26040216",
  "width_cm": 155,
  "year": 1990

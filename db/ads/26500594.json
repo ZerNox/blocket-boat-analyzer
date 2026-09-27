@@ -7,6 +7,8 @@
   "boat_year": 1972,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 29,
+  "engine_hp_source": "llm",
   "engine_maker": "Volvo Penta MD2030",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -38,8 +40,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Albin 25",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26500594/cc1b22a7-44ea-4b0e-a575-63fd77df8eb2",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.63597,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26500594/cc1b22a7-44ea-4b0e-a575-63fd77df8eb2",
+  "https://images.blocketcdn.se/dynamic/default/item/26500594/43adaa87-69ae-434f-af21-28cca88fae13",
+  "https://images.blocketcdn.se/dynamic/default/item/26500594/56084a57-72c5-4f3f-9679-48d13c155d6e",
+  "https://images.blocketcdn.se/dynamic/default/item/26500594/019a4844-79c0-4997-8109-64e2521b04bd",
+  "https://images.blocketcdn.se/dynamic/default/item/26500594/b4f7e78d-07c3-445e-9cfb-8db541129acb",
+  "https://images.blocketcdn.se/dynamic/default/item/26500594/315ef091-195a-407f-b3ba-f39897147b3c",
+  "https://images.blocketcdn.se/dynamic/default/item/26500594/404695ea-20aa-4d69-a7ad-520ccfb0cd24",
+  "https://images.blocketcdn.se/dynamic/default/item/26500594/df307e2a-b8be-4ea9-b5c6-2ba56851ea33",
+  "https://images.blocketcdn.se/dynamic/default/item/26500594/1a60f3d3-709f-4f10-805b-9570ecceaf5b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.64,
  "length_ft": 25,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +82,13 @@
   "text_sha": "3ae5ec8d98847cf5"
  },
  "location": "Härnösand",
- "lon": 17.94245,
+ "lon": 17.94,
  "make": "Albin",
  "max_speed": 7,
  "motor_fuel": "Diesel",
  "motor_size": 29.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 182,
   "fetched_ts": 1790508742254,
@@ -105,7 +119,7 @@
   "Toppfart": "7 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26500594",
  "width_cm": 260,
  "year": 1972

@@ -41,10 +41,11 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
  "heading": "Fiskebåt med Suzuki 50 hk, Garmin Echomap Ultra 102sv & Thule-trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25065907/db6cf96e-fcd3-4a3f-aafa-bee2a1b0596a",
  "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 61.71112,
+ "lat": 61.71,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -74,7 +75,7 @@
   "text_sha": "557279728acf8b88"
  },
  "location": "Järvsö",
- "lon": 16.17191,
+ "lon": 16.17,
  "make": "Övriga",
  "max_speed": 28,
  "motor_fuel": "Bensin",
@@ -108,7 +109,7 @@
   "Toppfart": "28 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "gone",
  "url": "https://www.blocket.se/mobility/item/25065907",
  "width_cm": 200,
  "year": 2001

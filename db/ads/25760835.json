@@ -1,0 +1,115 @@
+{
+ "ad_id": 25760835,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788776270000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2009,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten är utrustad med en Evinrude E-tec 90 hk från 2011.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "* Akterhyttskapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "* Plotter",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds 568 Crossmax + Fogelsta Släpvagn (80km/h)",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed cabin visible, all views show open cockpit and console.",
+  "hull_source": "bild",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Ryds 568"
+ ],
+ "heading": "Ryds 568 Crossmax + Fogelsta Släpvagn (80km/h)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25760835/42d23376-15be-42fa-856d-eb45b86fb613",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25760835/42d23376-15be-42fa-856d-eb45b86fb613",
+  "https://images.blocketcdn.se/dynamic/default/item/25760835/6043e48d-f9c3-4458-895b-bf7946c8345e",
+  "https://images.blocketcdn.se/dynamic/default/item/25760835/50e350ef-430c-42d8-95f6-c2eee6cb4e5a",
+  "https://images.blocketcdn.se/dynamic/default/item/25760835/3385a1e9-6d4a-4f5e-8806-1571f4102876",
+  "https://images.blocketcdn.se/dynamic/default/item/25760835/4a991240-d799-42a9-b7aa-6ff7875379c5",
+  "https://images.blocketcdn.se/dynamic/default/item/25760835/a747a595-2918-4b5d-b2a0-ed2fd0f5749d",
+  "https://images.blocketcdn.se/dynamic/default/item/25760835/098188e0-9fea-4eb9-8d97-1e411a3eb1e4",
+  "https://images.blocketcdn.se/dynamic/default/item/25760835/3fd5fc46-35b5-4dec-bc14-5038c26a3039"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 56.15,
+ "length_ft": 19,
+ "location": "Viken",
+ "lon": 12.59,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 903,
+  "fetched_ts": 1790523058150,
+  "text_sha": "9089bf6a3550ef33"
+ },
+ "price": 160000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 160000
+  }
+ ],
+ "specs": {
+  "Bredd": "218 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modell": "568 Crossmax",
+  "Modellår": "2009",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "695 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25760835",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "201c5c30c78862d3",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed cabin visible, all views show open cockpit and console.",
+   "hull_photo": 1
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 218,
+ "year": 2009
+}

@@ -1,0 +1,90 @@
+{
+ "ad_id": 26793580,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790189725000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Plasteka med åror, 30 släp och elmotor enl bilder.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Plasteka med åror, 30 släp och elmotor enl bilder.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Perfekt båt för höstfisket",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26793580/4d5ce571-8e41-4188-8507-19904735cd84",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26793580/4d5ce571-8e41-4188-8507-19904735cd84",
+  "https://images.blocketcdn.se/dynamic/default/item/26793580/fc0dcbb7-0f24-4da8-b07f-be78adede6a1",
+  "https://images.blocketcdn.se/dynamic/default/item/26793580/bc66468b-c82c-4094-89eb-9f478320c7b9",
+  "https://images.blocketcdn.se/dynamic/default/item/26793580/6e19fb39-0e95-4f0a-9f9c-62aee86111c9",
+  "https://images.blocketcdn.se/dynamic/default/item/26793580/6644c116-1aca-4ac5-9822-19077b826d9f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.78,
+ "length_ft": 15,
+ "location": "Skinnskatteberg",
+ "lon": 15.85,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 183,
+  "fetched_ts": 1790521060858,
+  "text_sha": "b9d87f715e4a0397"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "460",
+  "Modellår": "2000",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26793580",
+ "width_cm": 180,
+ "year": 2000
+}

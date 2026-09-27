@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -28,6 +30,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 5000 MC med Yamaha 50hk och 80-trailer",
+  "hull_source": "rule:model",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -35,13 +41,30 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Uttern 5000 MC med Yamaha 50hk och 80-trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26603722/f381765c-6705-4a3b-baa1-7c3de48afc0e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.11108,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26603722/f381765c-6705-4a3b-baa1-7c3de48afc0e",
+  "https://images.blocketcdn.se/dynamic/default/item/26603722/60c19186-eba5-4faa-9959-eb8d8c39126d",
+  "https://images.blocketcdn.se/dynamic/default/item/26603722/d4ed9e9c-1496-4966-80ce-5ea86f288753",
+  "https://images.blocketcdn.se/dynamic/default/item/26603722/79a3f200-2f4b-41f2-8183-3ce10655c933",
+  "https://images.blocketcdn.se/dynamic/default/item/26603722/a24387ff-7edf-4357-9d94-4f909cb18491",
+  "https://images.blocketcdn.se/dynamic/default/item/26603722/510d52c3-3d8c-4bc4-b453-615b5c5af4c9",
+  "https://images.blocketcdn.se/dynamic/default/item/26603722/e27fc047-2866-48f2-a142-a18a39501ad1",
+  "https://images.blocketcdn.se/dynamic/default/item/26603722/4d365a3d-341c-42f7-967e-c4aac83c70bb",
+  "https://images.blocketcdn.se/dynamic/default/item/26603722/7eec84a8-15db-45f8-af4e-14056dc88958",
+  "https://images.blocketcdn.se/dynamic/default/item/26603722/b8968221-fb10-41a4-ba3f-32150ee35152",
+  "https://images.blocketcdn.se/dynamic/default/item/26603722/c4caac2f-e84a-4808-b8b0-d1289ecae506",
+  "https://images.blocketcdn.se/dynamic/default/item/26603722/688473a2-29ea-4d28-a159-543e4d9c7db6"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.11,
  "length_ft": 17,
  "location": "Varberg",
- "lon": 12.24151,
+ "lon": 12.24,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",

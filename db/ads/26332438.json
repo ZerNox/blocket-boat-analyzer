@@ -1,0 +1,111 @@
+{
+ "ad_id": 26332438,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788611234000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 9.8,
+  "engine_hp_source": "llm",
+  "engine_maker": null,
+  "engine_stroke": 2,
+  "engine_type": null,
+  "engine_type_evidence": "er så kan man köpa den med en Yamaha VMAX 18 hästare som inte ännu är inkörd. Har bara gått i en timme. Det är också en",
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "förgasar-tvåtakt såldes inte ny i EU efter 2007",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Aruba light till Salu i Hypalone",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26332438/72a5bc8a-06c8-406b-b035-2b419349bb2a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26332438/72a5bc8a-06c8-406b-b035-2b419349bb2a",
+  "https://images.blocketcdn.se/dynamic/default/item/26332438/a9962fea-7384-42f9-beb1-7ca158302f49",
+  "https://images.blocketcdn.se/dynamic/default/item/26332438/9640c0ac-31ec-481f-bb44-27d33acf60cf",
+  "https://images.blocketcdn.se/dynamic/default/item/26332438/63636085-4390-49ab-b0f0-003e23d1ed17",
+  "https://images.blocketcdn.se/dynamic/default/item/26332438/d7a907b9-9001-426d-821e-4a972ca74650",
+  "https://images.blocketcdn.se/dynamic/default/item/26332438/e93d5fa2-be24-448c-b2a0-5dd6d4a03ee1"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.39,
+ "length_ft": 10,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2017,
+   "engine_hours": null,
+   "engine_hp": 9.8,
+   "engine_maker": "Thohatsu",
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": "köpt 2006",
+   "engine_year_rejected": 2006,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0861656d17c2448f"
+ },
+ "location": "Stocksund",
+ "lon": 18.05,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 492,
+  "fetched_ts": 1790520942281,
+  "text_sha": "0861656d17c2448f"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Grå",
+  "Längd i fot": "10 fot",
+  "Modell": "Aruba Light",
+  "Modellår": "2017",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "45 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26332438",
+ "width_cm": 0,
+ "year": 2017
+}

@@ -7,6 +7,8 @@
   "boat_year": 1970,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Seaking",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Eka + motor + båtkärra.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25520370/2e3625e0-d8d5-4026-846b-90a37358ce78",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.82944,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25520370/2e3625e0-d8d5-4026-846b-90a37358ce78",
+  "https://images.blocketcdn.se/dynamic/default/item/25520370/800b9ca2-2913-4c88-b4b8-6ea52f3abe10",
+  "https://images.blocketcdn.se/dynamic/default/item/25520370/e72243ba-538c-43b7-bf5f-dfc04db08dd6",
+  "https://images.blocketcdn.se/dynamic/default/item/25520370/9e550e30-9f95-4bb6-bd8b-c742b44cf13b",
+  "https://images.blocketcdn.se/dynamic/default/item/25520370/628eb71e-c01a-4203-88fd-2dbd84ebdc4d",
+  "https://images.blocketcdn.se/dynamic/default/item/25520370/fd9fbaab-1dff-45ba-ba6c-27d4ca406190",
+  "https://images.blocketcdn.se/dynamic/default/item/25520370/197041d5-4c5e-4f3d-9a1c-332fc3aa1204",
+  "https://images.blocketcdn.se/dynamic/default/item/25520370/a982f5f8-5209-4697-9b9d-476a931e7844",
+  "https://images.blocketcdn.se/dynamic/default/item/25520370/79ace604-7db5-47e1-acd0-88e0e9bfa65d",
+  "https://images.blocketcdn.se/dynamic/default/item/25520370/0cc7d971-60ba-4a1c-ba53-ba7c07e3f4f4",
+  "https://images.blocketcdn.se/dynamic/default/item/25520370/80f5d0d4-b85a-4f65-8a75-0a642e53fb63"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.83,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +80,13 @@
   "text_sha": "87f718e88c6c821a"
  },
  "location": "Olofstorp",
- "lon": 12.14749,
+ "lon": 12.15,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1211,
   "fetched_ts": 1790507951032,
@@ -95,7 +111,7 @@
   "Märke": "Övriga",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25520370",
  "width_cm": 0,
  "year": 1970

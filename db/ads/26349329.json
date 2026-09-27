@@ -7,6 +7,8 @@
   "boat_year": 2025,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 5.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": null,
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Aqua Marina Aircat 285 – Stabil uppblåsbar katamaran båt i toppskick!",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26349329/0ff9249e-55b4-41e4-9693-cb1c06366791",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.37948,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26349329/0ff9249e-55b4-41e4-9693-cb1c06366791",
+  "https://images.blocketcdn.se/dynamic/default/item/26349329/60fd5c83-d24b-4ae6-b36c-06f293a654d5",
+  "https://images.blocketcdn.se/dynamic/default/item/26349329/ea37c2b1-4d98-4530-a44f-1db620ac091a",
+  "https://images.blocketcdn.se/dynamic/default/item/26349329/5d0efbed-6357-4e0a-bd96-28720ca39bb0",
+  "https://images.blocketcdn.se/dynamic/default/item/26349329/0990445b-8b53-407a-bbd7-c296e93ab20e",
+  "https://images.blocketcdn.se/dynamic/default/item/26349329/039fd586-d48c-4e6f-ac23-ebc06032ca31"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.38,
  "length_ft": 9,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +75,13 @@
   "text_sha": "7585a61c949ceb81"
  },
  "location": "Eskilstuna",
- "lon": 16.45552,
+ "lon": 16.46,
  "make": "Aquamarine",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 5.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1597,
   "fetched_ts": 1790508618636,
@@ -99,7 +110,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "30 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26349329",
  "width_cm": 160,
  "year": 2025

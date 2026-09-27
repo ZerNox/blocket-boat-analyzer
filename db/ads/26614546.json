@@ -7,6 +7,8 @@
   "boat_year": 2011,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -48,8 +50,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder sportsman 445 max",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26614546/e50257ac-76a1-4fae-861e-6a5fa7bb8643",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.21733,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26614546/e50257ac-76a1-4fae-861e-6a5fa7bb8643",
+  "https://images.blocketcdn.se/dynamic/default/item/26614546/3c6e39d4-fcaa-4919-81d2-a76f2f2f07f3",
+  "https://images.blocketcdn.se/dynamic/default/item/26614546/f16fc543-a07b-456f-ad8d-ee93012a54f4",
+  "https://images.blocketcdn.se/dynamic/default/item/26614546/7156e1c6-1c4e-4873-9af9-05fa41d00634",
+  "https://images.blocketcdn.se/dynamic/default/item/26614546/7581797e-9715-482e-a2e5-8945a91e87d9",
+  "https://images.blocketcdn.se/dynamic/default/item/26614546/c5b525b0-7984-4c28-b655-274de43c0a0c",
+  "https://images.blocketcdn.se/dynamic/default/item/26614546/c0e8c4b1-f201-4705-8721-4971715cf423",
+  "https://images.blocketcdn.se/dynamic/default/item/26614546/8e5edc2a-760b-4057-917b-e317fb53acd2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.22,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -79,12 +91,13 @@
   "text_sha": "2bc5f832e515f485"
  },
  "location": "Säffle",
- "lon": 13.00078,
+ "lon": 13.0,
  "make": "Linder",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 25.0,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 231,
   "fetched_ts": 1790508822321,
@@ -109,7 +122,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26614546",
  "width_cm": 175,
  "year": 2011

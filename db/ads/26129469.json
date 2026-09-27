@@ -1,0 +1,142 @@
+{
+ "ad_id": 26129469,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788004835000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Äldre plotter ingår.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fogelsta 30-trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed cabin visible, only open cockpit and console.",
+  "hull_source": "bild",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Ryds 568"
+ ],
+ "heading": "Ryds 568 GT, Mercury 90 hk 2-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26129469/a962976d-ab2f-485f-9dbf-f9220e6d9018",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26129469/a962976d-ab2f-485f-9dbf-f9220e6d9018",
+  "https://images.blocketcdn.se/dynamic/default/item/26129469/85aa86d5-81b8-4e22-964c-725aff875d5e",
+  "https://images.blocketcdn.se/dynamic/default/item/26129469/b41f6bb2-854c-4ef5-a7ea-2974e855f48e",
+  "https://images.blocketcdn.se/dynamic/default/item/26129469/618c73fa-1c16-43e6-90b0-6f288f09e5cf",
+  "https://images.blocketcdn.se/dynamic/default/item/26129469/4d703aa0-b3f7-4fab-a896-fceae78a173d"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.02,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny motor 2026",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "excluded",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c1be6f4147dacebb"
+ },
+ "location": "Tranås",
+ "lon": 14.97,
+ "make": "Ryds",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 394,
+  "fetched_ts": 1790523123758,
+  "text_sha": "c1be6f4147dacebb"
+ },
+ "price": 100000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 100000
+  }
+ ],
+ "specs": {
+  "Bredd": "218 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "90 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "568 GT",
+  "Modellår": "2006",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Toppfart": "35 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "695 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26129469",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "61218741955c737d",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed cabin visible, only open cockpit and console.",
+   "hull_photo": 3
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 218,
+ "year": 2006
+}

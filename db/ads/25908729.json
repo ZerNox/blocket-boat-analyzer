@@ -7,6 +7,8 @@
   "boat_year": 2003,
   "boat_year_source": "spec",
   "engine_hours": 24,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -40,8 +42,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern S 52 Exlusiv. Mercury 60 hk, gångtid 24 timmar. Båtvagn medföljer.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25908729/d19b8784-6c25-4bda-ae21-a1a52f3f3396",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.31759,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25908729/d19b8784-6c25-4bda-ae21-a1a52f3f3396",
+  "https://images.blocketcdn.se/dynamic/default/item/25908729/c3b3dd88-6352-4c41-bb73-6cb0f5e74160",
+  "https://images.blocketcdn.se/dynamic/default/item/25908729/2e4763e1-2638-4403-91ba-b7ed4d26c63b",
+  "https://images.blocketcdn.se/dynamic/default/item/25908729/f1c8edee-a11b-4530-b817-e551bea19a36",
+  "https://images.blocketcdn.se/dynamic/default/item/25908729/946c098c-e937-45d2-8292-61b3b82ae1dc",
+  "https://images.blocketcdn.se/dynamic/default/item/25908729/96d3c56f-5e30-45a0-b91c-78f7d9c1c8d9",
+  "https://images.blocketcdn.se/dynamic/default/item/25908729/f49c465b-4ffb-4add-a644-23f477621a3d",
+  "https://images.blocketcdn.se/dynamic/default/item/25908729/902312e2-dc44-4776-b174-76913eafab4d",
+  "https://images.blocketcdn.se/dynamic/default/item/25908729/51a2d3ac-ba01-4d54-a0d7-81378a272523"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -72,12 +85,13 @@
   "text_sha": "a8a160bdd273b657"
  },
  "location": "Skoghall",
- "lon": 13.49723,
+ "lon": 13.5,
  "make": "Uttern",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 246,
   "fetched_ts": 1790508293530,
@@ -105,7 +119,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25908729",
  "width_cm": 0,
  "year": 2003

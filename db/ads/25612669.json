@@ -7,6 +7,8 @@
   "boat_year": 2015,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Honda. BF",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sandström  510",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25612669/048df2dd-bf45-481e-b8b1-374a6668d360",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 67.14616,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25612669/048df2dd-bf45-481e-b8b1-374a6668d360",
+  "https://images.blocketcdn.se/dynamic/default/item/25612669/510b404a-1c0a-4ea4-8a6b-a755538ccf18"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 67.15,
  "length_ft": 8,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +66,13 @@
   "text_sha": "84fd753a50ff6bd6"
  },
  "location": "Gällivare",
- "lon": 20.61944,
+ "lon": 20.62,
  "make": "Sandström",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508047979,
@@ -95,7 +102,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25612669",
  "width_cm": 210,
  "year": 2015

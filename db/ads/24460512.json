@@ -7,6 +7,8 @@
   "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": 100,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -42,8 +44,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ockelbo B18 cc",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24460512/84ef1b9f-28de-4bf2-9611-52de93ba74d6",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.912,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24460512/84ef1b9f-28de-4bf2-9611-52de93ba74d6",
+  "https://images.blocketcdn.se/dynamic/default/item/24460512/d99baa86-019d-4579-b460-d96b64e3b314",
+  "https://images.blocketcdn.se/dynamic/default/item/24460512/ff5fe352-4ef2-46fe-9ef2-1007d32921a6",
+  "https://images.blocketcdn.se/dynamic/default/item/24460512/6c467768-a9e0-490e-bc3e-59f3c6b1ce43",
+  "https://images.blocketcdn.se/dynamic/default/item/24460512/ff29d142-f4e1-4262-909b-01448e6a1f2d",
+  "https://images.blocketcdn.se/dynamic/default/item/24460512/c08d081c-6fc1-4aab-a3de-18777f687fd2",
+  "https://images.blocketcdn.se/dynamic/default/item/24460512/e756d681-3466-47af-a1c4-6ecb5c89361c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.91,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +84,13 @@
   "text_sha": "35e796dcba15071a"
  },
  "location": "Sala",
- "lon": 16.73591,
+ "lon": 16.74,
  "make": "Ockelbo",
  "max_speed": 32,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 362,
   "fetched_ts": 1790507595151,
@@ -105,7 +117,7 @@
   "Toppfart": "32 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24460512",
  "width_cm": 0,
  "year": 2016

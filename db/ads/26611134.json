@@ -7,6 +7,8 @@
   "boat_year": 1994,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "BUSTER RS, 4,5 m lång, 50 hk Yamaha",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26611134/fc3bebae-4ccd-45b4-a0f1-de288ad5cbf1",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.69799,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26611134/fc3bebae-4ccd-45b4-a0f1-de288ad5cbf1",
+  "https://images.blocketcdn.se/dynamic/default/item/26611134/4424c97a-0d4b-4f19-ab60-888dd93a81af",
+  "https://images.blocketcdn.se/dynamic/default/item/26611134/b04c47f4-9ea5-4d44-bd00-8b27ba64f13b",
+  "https://images.blocketcdn.se/dynamic/default/item/26611134/f0fcf16e-c610-4362-b090-9dc77fd912f6",
+  "https://images.blocketcdn.se/dynamic/default/item/26611134/bba4c7e1-a756-4cea-811f-4a1fbe4144d8",
+  "https://images.blocketcdn.se/dynamic/default/item/26611134/382f4c40-033b-4b6f-a1ce-877d8c396d70",
+  "https://images.blocketcdn.se/dynamic/default/item/26611134/d5aef080-073d-4d80-964d-def35dfad4a0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.7,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +77,13 @@
   "text_sha": "8a0e214e44b742dc"
  },
  "location": "Gävle",
- "lon": 17.16904,
+ "lon": 17.17,
  "make": "Buster",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1350,
   "fetched_ts": 1790508819756,
@@ -98,7 +110,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26611134",
  "width_cm": 0,
  "year": 1994

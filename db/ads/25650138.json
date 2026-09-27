@@ -1,0 +1,114 @@
+{
+ "ad_id": 25650138,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786546904000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Sea-horse",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Roddbåt på trailer med motor bensintank och åror.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Roddbåt med motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25650138/0d2ce978-a290-4219-b19a-cacaf1e4ec79",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25650138/0d2ce978-a290-4219-b19a-cacaf1e4ec79",
+  "https://images.blocketcdn.se/dynamic/default/item/25650138/57bfdf78-6f16-44a1-9690-4f4f2a8574e8",
+  "https://images.blocketcdn.se/dynamic/default/item/25650138/f1eaaf9d-b890-4675-9f7a-d095a2e53181",
+  "https://images.blocketcdn.se/dynamic/default/item/25650138/16a7240a-08b8-4aa7-8ffd-fc2ee794deb6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.15,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Sea-horse",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "73bf9851163757e0"
+ },
+ "location": "Tyringe",
+ "lon": 13.61,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 109,
+  "fetched_ts": 1790520747251,
+  "text_sha": "73bf9851163757e0"
+ },
+ "price": 6000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 6000
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "13 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Sea-horse",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25650138",
+ "width_cm": 160,
+ "year": 1980
+}

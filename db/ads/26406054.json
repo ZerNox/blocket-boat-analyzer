@@ -1,0 +1,132 @@
+{
+ "ad_id": 26406054,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788802529000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": 340,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha F100DET 4-takt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Oljefilter bytt Impeller bytt Drevolja bytt Trimanod bytt Bränslefilter bytt Tändstift bytt Motorn är regelbundet servad",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin Echomap Plus 72sv navigator/ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Flexibelt kapellsystem",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin Echomap Plus 72sv navigator/ekolod",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Finnmaster 5700 WA med Yamaha F100 – ca 340 gångtimmar",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "declared outboard but text says 'Drevolja'",
+   "ambiguous engine years [2006, 2026]"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Finnmaster 5700 WA med Yamaha F100 – ca 340 gångtimmar",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26406054/2e82025b-6680-41cb-8190-15588ab699cf",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26406054/2e82025b-6680-41cb-8190-15588ab699cf",
+  "https://images.blocketcdn.se/dynamic/default/item/26406054/97f7f18e-d586-4a43-9013-acfec3ead056",
+  "https://images.blocketcdn.se/dynamic/default/item/26406054/0f19f874-0377-41de-a009-99f122bd17c3",
+  "https://images.blocketcdn.se/dynamic/default/item/26406054/d4d4a55b-fa6b-4db6-a3a6-91a02ebb5999",
+  "https://images.blocketcdn.se/dynamic/default/item/26406054/ed8bbbbb-eaf1-4181-aa02-3af6fac7bc67"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.34,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2005,
+   "engine_hours": null,
+   "engine_hp": 100,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Yamaha F100DET från 2006",
+   "engine_year_rejected": 2006,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "db394ad2244e7510"
+ },
+ "location": "Saltsjö-Boo",
+ "lon": 18.33,
+ "make": "Finnmaster",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1061,
+  "fetched_ts": 1790523162087,
+  "text_sha": "db394ad2244e7510"
+ },
+ "price": 179000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 179000
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "5700 WA",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Yamaha F100DET 4-takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnmaster",
+  "Toppfart": "30 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "850 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26406054",
+ "width_cm": 230,
+ "year": 2005
+}

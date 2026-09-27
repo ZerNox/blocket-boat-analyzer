@@ -7,6 +7,8 @@
   "boat_year": 2014,
   "boat_year_source": "spec",
   "engine_hours": 150,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury Fourstroke",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -39,8 +41,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds F468",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26054975/a9d344b8-c334-4c4a-80cb-ab0b5edefc18",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.37547,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26054975/a9d344b8-c334-4c4a-80cb-ab0b5edefc18",
+  "https://images.blocketcdn.se/dynamic/default/item/26054975/51092da4-22df-42eb-908b-185728fab4e1",
+  "https://images.blocketcdn.se/dynamic/default/item/26054975/234e47ba-45e9-4c14-8ba1-c84c7407e865",
+  "https://images.blocketcdn.se/dynamic/default/item/26054975/0d392998-2389-4939-be09-39be099987ae",
+  "https://images.blocketcdn.se/dynamic/default/item/26054975/fe4e11d2-13a5-4b7d-8bcb-ea8010a9506b",
+  "https://images.blocketcdn.se/dynamic/default/item/26054975/10aacd50-8642-4a3b-91d1-d55c5e584deb",
+  "https://images.blocketcdn.se/dynamic/default/item/26054975/5ecd4522-1d13-47c2-aa13-758f5ccb1516"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.38,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +81,13 @@
   "text_sha": "a5beda4d2d39cc1c"
  },
  "location": "Sundsvall",
- "lon": 17.35705,
+ "lon": 17.36,
  "make": "Ryds",
  "max_speed": 28,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 315,
   "fetched_ts": 1790508419455,
@@ -102,7 +114,7 @@
   "Toppfart": "28 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26054975",
  "width_cm": 0,
  "year": 2014

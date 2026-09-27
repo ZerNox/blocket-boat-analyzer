@@ -1,0 +1,119 @@
+{
+ "ad_id": 25260774,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785445832000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercruiser",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1988,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Hamnkapell.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Regal sebring 195",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25260774/4c5dd651-8efe-4f37-9e39-21d8e00296e5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25260774/4c5dd651-8efe-4f37-9e39-21d8e00296e5",
+  "https://images.blocketcdn.se/dynamic/default/item/25260774/f60650ea-3ec2-43cf-9246-92aad2738e26",
+  "https://images.blocketcdn.se/dynamic/default/item/25260774/f9ac8921-662e-44ec-89cc-7c04f4ecb04f",
+  "https://images.blocketcdn.se/dynamic/default/item/25260774/1f8d2d14-21b7-4c7b-b6c5-c691ff0028d7",
+  "https://images.blocketcdn.se/dynamic/default/item/25260774/0e34eae4-d1c1-4678-9e6f-cfa0f6ee45df",
+  "https://images.blocketcdn.se/dynamic/default/item/25260774/031c87d2-2e01-4ff2-b3b6-e3137bb093eb",
+  "https://images.blocketcdn.se/dynamic/default/item/25260774/1680ef16-7910-47bb-8cb8-09644d86a616"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 65.67,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1988,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mercruiser 3.7L 4 cyl motor med alpha one drev.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "68b260b2d5fd24a8"
+ },
+ "location": "Luleå",
+ "lon": 22.12,
+ "make": "Regal",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 357,
+  "fetched_ts": 1790522954295,
+  "text_sha": "68b260b2d5fd24a8"
+ },
+ "price": 69900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modell": "Sebring",
+  "Modellår": "1988",
+  "Motortillverkare": "Mercruiser",
+  "Motortyp": "Inombordare",
+  "Märke": "Regal",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25260774",
+ "width_cm": 0,
+ "year": 1988
+}

@@ -7,6 +7,8 @@
   "boat_year": 2005,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -51,8 +53,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 478gt 60hk Mariner 2takt +80km trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26402775/990cc0cd-9430-4ec8-a320-db2dd287f3d8",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.65785,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26402775/990cc0cd-9430-4ec8-a320-db2dd287f3d8",
+  "https://images.blocketcdn.se/dynamic/default/item/26402775/0d861d7d-f046-44ee-91fe-ec5f1e69fc85",
+  "https://images.blocketcdn.se/dynamic/default/item/26402775/256d32d4-b757-4873-ac9c-132cf4e88d93",
+  "https://images.blocketcdn.se/dynamic/default/item/26402775/86b74d5e-6b7e-4c6a-9708-cc2079da9438",
+  "https://images.blocketcdn.se/dynamic/default/item/26402775/d0c125e7-22b3-4edd-acd1-b392df41cc17",
+  "https://images.blocketcdn.se/dynamic/default/item/26402775/7f282347-c1bf-478d-bdd5-a214603e5c6c",
+  "https://images.blocketcdn.se/dynamic/default/item/26402775/1d75c52e-a3a1-471e-b8dd-0c65a35bbaf4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.66,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -82,12 +93,13 @@
   "text_sha": "591421f7434b3a2d"
  },
  "location": "Halmstad",
- "lon": 12.77948,
+ "lon": 12.78,
  "make": "Ryds",
  "max_speed": 30,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 211,
   "fetched_ts": 1790508661178,
@@ -113,7 +125,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26402775",
  "width_cm": 0,
  "year": 2005

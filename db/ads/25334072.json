@@ -1,0 +1,121 @@
+{
+ "ad_id": 25334072,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785682596000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Båten är utrustad med vindruta, kompass, ekolod samt kartplotter över Haparanda och Kalik skärgård.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Båten är utrustad med vindruta, kompass, ekolod samt kartplotter över Haparanda och Kalik skärgård.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtvagn och åror medföljer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Styrpulpet uttern 495 säljes",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25334072/03cc4199-7ff0-49e0-aefc-af971b64b6ea",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25334072/03cc4199-7ff0-49e0-aefc-af971b64b6ea",
+  "https://images.blocketcdn.se/dynamic/default/item/25334072/9a35ce94-9d6d-475c-b5a1-1cfcf068d53f",
+  "https://images.blocketcdn.se/dynamic/default/item/25334072/d3be2060-1fb9-4501-a06a-67a17f812bd4",
+  "https://images.blocketcdn.se/dynamic/default/item/25334072/b8cc0ebf-0475-4224-af10-7eacddd523cf",
+  "https://images.blocketcdn.se/dynamic/default/item/25334072/b8e478aa-bc84-41bc-b60a-9b765d9f95ce"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.86,
+ "length_ft": 495,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0d9ecc46c437b1a0"
+ },
+ "location": "Haparanda",
+ "lon": 24.11,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 127,
+  "fetched_ts": 1790520682363,
+  "text_sha": "0d9ecc46c437b1a0"
+ },
+ "price": 34000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 34000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "495 fot",
+  "Modell": "495",
+  "Modellår": "1990",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25334072",
+ "width_cm": 0,
+ "year": 1990
+}

@@ -7,6 +7,8 @@
   "boat_year": 2011,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 478GTI",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26515613/9ece26cd-cd7c-4095-8c8c-3b2c590b55ce",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.91147,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26515613/9ece26cd-cd7c-4095-8c8c-3b2c590b55ce",
+  "https://images.blocketcdn.se/dynamic/default/item/26515613/34979dbd-ac50-4e97-9633-40d62bb1cb96",
+  "https://images.blocketcdn.se/dynamic/default/item/26515613/9795501d-46d4-4a75-bb3a-c41e176fc66c",
+  "https://images.blocketcdn.se/dynamic/default/item/26515613/437af49e-9209-4923-98ec-f6f9ec02a85f",
+  "https://images.blocketcdn.se/dynamic/default/item/26515613/ba0f9229-6b0a-4b6a-add9-4d04e3db2cbf",
+  "https://images.blocketcdn.se/dynamic/default/item/26515613/069cedc3-198e-4f56-b1b4-70307138abaa"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.91,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +80,13 @@
   "text_sha": "c81ae08ba3083338"
  },
  "location": "Sjövik",
- "lon": 12.37408,
+ "lon": 12.37,
  "make": "Ryds",
  "max_speed": 30,
  "motor_fuel": null,
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 479,
   "fetched_ts": 1790508754315,
@@ -104,7 +115,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26515613",
  "width_cm": 191,
  "year": 2011

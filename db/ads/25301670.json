@@ -7,6 +7,8 @@
   "boat_year": 2011,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -46,8 +48,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster LX 2011 – Yamaha F60 – Terrova i-Pilot – HELIX 7 – Trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25301670/39163df4-22ab-4e68-9563-5013ab284345",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.16612,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25301670/39163df4-22ab-4e68-9563-5013ab284345",
+  "https://images.blocketcdn.se/dynamic/default/item/25301670/bce6e107-f428-44c9-8e9a-a659ba8497b1",
+  "https://images.blocketcdn.se/dynamic/default/item/25301670/94184979-0c5b-41f8-9c7e-b64be8ba161a",
+  "https://images.blocketcdn.se/dynamic/default/item/25301670/ab5a7825-65c6-4ec4-85c4-cbf5844285ed",
+  "https://images.blocketcdn.se/dynamic/default/item/25301670/e5786416-c69c-4da3-9845-e64193f7c4df",
+  "https://images.blocketcdn.se/dynamic/default/item/25301670/91799b87-b349-47ca-b630-249414f56207",
+  "https://images.blocketcdn.se/dynamic/default/item/25301670/2064e81c-6b29-4e7e-8b47-4f5f260770dd",
+  "https://images.blocketcdn.se/dynamic/default/item/25301670/91996dc8-05c1-4896-ac88-39473c39950c",
+  "https://images.blocketcdn.se/dynamic/default/item/25301670/999faca4-fc9f-49c2-bb4f-22d1e97b488e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.17,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -77,12 +90,13 @@
   "text_sha": "b54698e764800636"
  },
  "location": "Hargshamn",
- "lon": 18.47491,
+ "lon": 18.47,
  "make": "Buster",
  "max_speed": 27,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 624,
   "fetched_ts": 1790507746560,
@@ -115,7 +129,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "440 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25301670",
  "width_cm": 199,
  "year": 2011

@@ -7,6 +7,8 @@
   "boat_year": 2005,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 2.5,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -30,8 +32,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fiskebåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25151529/311ce6d9-782e-490e-ac5f-663d6a792ca6",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.61518,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25151529/311ce6d9-782e-490e-ac5f-663d6a792ca6"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.62,
  "length_ft": 8,
  "llm": {
   "at": "2026-09-27",
@@ -61,12 +66,13 @@
   "text_sha": "ee847aaed3892b08"
  },
  "location": "Falun",
- "lon": 15.61904,
+ "lon": 15.62,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 2.5,
  "motor_type": null,
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 453,
   "fetched_ts": 1790507641062,
@@ -89,7 +95,7 @@
   "Märke": "Ryds",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25151529",
  "width_cm": 0,
  "year": 2005

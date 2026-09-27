@@ -7,6 +7,8 @@
   "boat_year": 2023,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -27,16 +29,22 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Person 460 med yamaha 15 hk 4t -2023",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26388357/bf9b5af9-e751-4bb4-b8ab-16d77ce93ac5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 67.99782,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26388357/bf9b5af9-e751-4bb4-b8ab-16d77ce93ac5",
+  "https://images.blocketcdn.se/dynamic/default/item/26388357/ceedb4f2-ea6b-4232-95e5-9f68d8204f59",
+  "https://images.blocketcdn.se/dynamic/default/item/26388357/f9f59583-d43f-449b-8b05-571e45ee34cd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 68.0,
  "length_ft": 15,
  "location": "Kiruna",
- "lon": 19.10163,
+ "lon": 19.1,
  "make": "Yamaha",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 69,
   "fetched_ts": 1790508655431,
@@ -62,7 +70,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26388357",
  "width_cm": 0,
  "year": 2023

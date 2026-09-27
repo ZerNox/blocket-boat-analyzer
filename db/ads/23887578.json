@@ -1,0 +1,97 @@
+{
+ "ad_id": 23887578,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1786278896000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": 426,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Suzuki-4 takt, årsmodell 99",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1999,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Suzuki-4 takt, årsmodell 99",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "trailer": {
+    "evidence": "Ryds Camping 76, med utombordare och 30-kärra.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": ".\nTrevlig dagstursbåt med övernattningsmöjlighet.\nMotorn har enligt mätning hos båtfirma gått 426 timmar.",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds Camping 76, med utombordare och 30-kärra.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23887578/4449543c-fb1f-4536-b253-7658577e5e7e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23887578/4449543c-fb1f-4536-b253-7658577e5e7e",
+  "https://images.blocketcdn.se/dynamic/default/item/23887578/1f51b57d-9031-41f6-b770-b016469a6b97",
+  "https://images.blocketcdn.se/dynamic/default/item/23887578/8d5ae737-71da-4d75-90e6-65cb91d8e114",
+  "https://images.blocketcdn.se/dynamic/default/item/23887578/58740326-0b42-4685-8f12-7b940186edd6",
+  "https://images.blocketcdn.se/dynamic/default/item/23887578/cd2d9604-16da-4395-b88a-700dbf052b46"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.14,
+ "length_ft": 19,
+ "location": "Säffle",
+ "lon": 12.95,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 129,
+  "fetched_ts": 1790522913964,
+  "text_sha": "cd3bb72aa501ff8b"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå",
+  "Längd i fot": "19 fot",
+  "Modell": "Camping",
+  "Modellår": "1976",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Suzuki-4 takt, årsmodell 99",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23887578",
+ "width_cm": 220,
+ "year": 1976
+}

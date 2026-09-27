@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 35.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -43,8 +45,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 500+80Trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25442826/a9721f6c-296a-4262-9cdc-4b018339f430",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.16812,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25442826/a9721f6c-296a-4262-9cdc-4b018339f430",
+  "https://images.blocketcdn.se/dynamic/default/item/25442826/e633e006-fdd2-4efe-9bdc-5c0b3a52a316",
+  "https://images.blocketcdn.se/dynamic/default/item/25442826/c73bf8eb-a8c5-42ec-b8d2-f1353d3ecc50",
+  "https://images.blocketcdn.se/dynamic/default/item/25442826/8462fafa-20b7-43f4-99db-957be62b9a45",
+  "https://images.blocketcdn.se/dynamic/default/item/25442826/52afa808-2c97-421a-a5c8-b37f9f0d6486",
+  "https://images.blocketcdn.se/dynamic/default/item/25442826/d2714b24-b47d-43a9-b89e-b5026ecf165f",
+  "https://images.blocketcdn.se/dynamic/default/item/25442826/d535c78c-6151-4a18-9440-c2fae1624f7e",
+  "https://images.blocketcdn.se/dynamic/default/item/25442826/316eae4c-adc9-4874-b002-93d7c9aea321"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.17,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +86,13 @@
   "text_sha": "e8469fa746f62e37"
  },
  "location": "Näsum",
- "lon": 14.49778,
+ "lon": 14.5,
  "make": "Crescent",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 35.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 816,
   "fetched_ts": 1790507873534,
@@ -106,7 +119,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25442826",
  "width_cm": 0,
  "year": 1990

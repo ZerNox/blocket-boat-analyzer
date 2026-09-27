@@ -1,0 +1,128 @@
+{
+ "ad_id": 26668194,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1790271760000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "mercruiser 1.7L DTI",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Plotter & Ekolod.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter & Ekolod.",
+    "included": true
+   },
+   "vhf": {
+    "evidence": "AIS & VHF.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "där 2 personer kan sova i ruffen. Den är utrustad med en mycket bränsleekonomisk Mercury 1.7l DTI dieselmo",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Örnvik 630 (2005) – Mercury Diesel, Bogpropeller.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26668194/54d13ac5-96b6-4b67-99b1-a6804c09fe4a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26668194/54d13ac5-96b6-4b67-99b1-a6804c09fe4a",
+  "https://images.blocketcdn.se/dynamic/default/item/26668194/6742ab80-d705-42aa-b6b3-a715135abbfa",
+  "https://images.blocketcdn.se/dynamic/default/item/26668194/a6854bbe-bd42-4cf7-8d24-d26968a22686",
+  "https://images.blocketcdn.se/dynamic/default/item/26668194/ca2f5ac6-95d2-40d4-80d1-ef8457b5c64b",
+  "https://images.blocketcdn.se/dynamic/default/item/26668194/85631e9d-c594-48bb-9d1c-af41a335437b"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.69,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2005,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercury",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor: Mercury 1.7L DTI Bogpropeller",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "included",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "30e85f2e92f60a8c"
+ },
+ "location": "Hönö",
+ "lon": 11.66,
+ "make": "Örnvik",
+ "max_speed": 25,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 985,
+  "fetched_ts": 1790521030958,
+  "text_sha": "30e85f2e92f60a8c"
+ },
+ "price": 155000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 155000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "21 fot",
+  "Modell": "630 Pilothouse",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "mercruiser 1.7L DTI",
+  "Motortyp": "Inombordare",
+  "Märke": "Örnvik",
+  "Sovplatser": "2",
+  "Toppfart": "25 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26668194",
+ "width_cm": 0,
+ "year": 2005
+}

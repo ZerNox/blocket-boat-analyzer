@@ -1,0 +1,124 @@
+{
+ "ad_id": 26081052,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787842044000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2002,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": 2017,
+  "engine_year_est": 2002,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": "En suzuki DF30 30hk från 2017",
+  "engine_year_source": "llm",
+  "equipment": {
+   "ekolod": {
+    "evidence": "En Lowrance ekolod från 2020",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "En motorguide elmotor xi5 från 2020",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "En Lowrance ekolod från 2020",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "En TK trailer från 2022",
+    "included": true,
+    "year": 2022
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "ambiguous engine years [2017, 2020]"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Cresent 500",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26081052/b5174181-c8c7-4c5b-937d-ab8dd1f4db41",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26081052/b5174181-c8c7-4c5b-937d-ab8dd1f4db41",
+  "https://images.blocketcdn.se/dynamic/default/item/26081052/6d89e9b8-4334-4859-b112-809ec73481f1",
+  "https://images.blocketcdn.se/dynamic/default/item/26081052/89e2b5c6-6603-4534-ac57-445cf3b1b689",
+  "https://images.blocketcdn.se/dynamic/default/item/26081052/a2e04578-c65d-4da5-9e00-655b94c104c7",
+  "https://images.blocketcdn.se/dynamic/default/item/26081052/786768be-367b-4e70-ad56-7ec9e51c43ff",
+  "https://images.blocketcdn.se/dynamic/default/item/26081052/ad9ff7e7-5f26-4c7f-82b2-c605c6570e29",
+  "https://images.blocketcdn.se/dynamic/default/item/26081052/76b021a0-87b8-4bde-8a26-06f549cb006f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.5,
+ "length_ft": 200,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2002,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": 2017,
+   "engine_year_evidence": "En suzuki DF30 30hk från 2017",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3d4248824e2bb7d0"
+ },
+ "location": "Bodafors",
+ "lon": 14.7,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 614,
+  "fetched_ts": 1790520896840,
+  "text_sha": "3d4248824e2bb7d0"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "200 fot",
+  "Modellår": "2002",
+  "Motor inkluderad": "Ja",
+  "Märke": "Crescent",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26081052",
+ "width_cm": 0,
+ "year": 2002
+}

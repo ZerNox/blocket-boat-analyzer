@@ -7,6 +7,8 @@
   "boat_year": 1981,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -38,8 +40,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Formuling Sportbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25527523/5455c332-5453-41d0-bb90-5f74a1cfb30a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.32375,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25527523/5455c332-5453-41d0-bb90-5f74a1cfb30a",
+  "https://images.blocketcdn.se/dynamic/default/item/25527523/a3b6b2ab-bc67-488b-abb0-8fa42159dd16",
+  "https://images.blocketcdn.se/dynamic/default/item/25527523/60dd2acc-cbc3-4c5a-bcd2-aa2111ccaddb",
+  "https://images.blocketcdn.se/dynamic/default/item/25527523/f114c8bd-a6ba-41b6-a979-b84725f331de",
+  "https://images.blocketcdn.se/dynamic/default/item/25527523/48b25f1f-79dd-4c5f-97a7-a90261fc75eb",
+  "https://images.blocketcdn.se/dynamic/default/item/25527523/d2c6664c-9949-4216-955e-9d64d4c256fb",
+  "https://images.blocketcdn.se/dynamic/default/item/25527523/a2a20979-e83a-487a-816f-3ec05460f880"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
  "length_ft": 10,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +80,13 @@
   "text_sha": "c19e04acd9ceeecf"
  },
  "location": "Nacka",
- "lon": 18.20077,
+ "lon": 18.2,
  "make": "Övriga",
  "max_speed": 35,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 2020,
   "fetched_ts": 1790507965341,
@@ -100,7 +112,7 @@
   "Toppfart": "35 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25527523",
  "width_cm": 0,
  "year": 1981

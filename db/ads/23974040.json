@@ -7,6 +7,8 @@
   "boat_year": 1976,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu 2003",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -28,6 +30,10 @@
     "kmh": 80
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -35,13 +41,25 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Ryds Camping 1976, Höst sänkning innan vinterförvaring 3 oktober",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23974040/6c75db5e-748d-4c44-bd7e-b6424722c204",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.23771,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23974040/6c75db5e-748d-4c44-bd7e-b6424722c204",
+  "https://images.blocketcdn.se/dynamic/default/item/23974040/11ce2f01-0d0b-4b47-8021-249e38bf9ddf",
+  "https://images.blocketcdn.se/dynamic/default/item/23974040/11087075-58dc-476b-9f83-bbb675039de3",
+  "https://images.blocketcdn.se/dynamic/default/item/23974040/02a7a733-6e28-4be4-abd5-7f26723fcb25",
+  "https://images.blocketcdn.se/dynamic/default/item/23974040/2ed09563-6f0e-4eb1-88e5-ec504f7fc4b7",
+  "https://images.blocketcdn.se/dynamic/default/item/23974040/7f60e8fd-b971-4fa3-b575-2ceae2237e3a",
+  "https://images.blocketcdn.se/dynamic/default/item/23974040/7e9d7daf-2362-4801-947d-358af20cb6b1"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.24,
  "length_ft": 19,
  "location": "Norsborg",
- "lon": 17.85916,
+ "lon": 17.86,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",

@@ -1,0 +1,122 @@
+{
+ "ad_id": 23509817,
+ "boat_class": "Annat",
+ "changed_ts": 1786396411000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2002,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2002,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Bromsad TK-trailer kan köpas till.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 550 WA",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "Örnvik 550"
+ ],
+ "heading": "Örnvik 550 WA",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23509817/3fefbd55-9c4b-4b5b-abd5-fde80cff7257",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23509817/3fefbd55-9c4b-4b5b-abd5-fde80cff7257",
+  "https://images.blocketcdn.se/dynamic/default/item/23509817/c75b8f82-44e3-4542-a976-077184d82976",
+  "https://images.blocketcdn.se/dynamic/default/item/23509817/8345db37-eccf-45e8-8f3a-f9707ded188b",
+  "https://images.blocketcdn.se/dynamic/default/item/23509817/b03de113-0098-43ad-875c-8b98851c5e28",
+  "https://images.blocketcdn.se/dynamic/default/item/23509817/79214c2e-3379-410c-8fb6-21f81159c2eb",
+  "https://images.blocketcdn.se/dynamic/default/item/23509817/058d7ec2-c0a5-4b94-beac-230ba294e18e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 64.72,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2002,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mercury 90 tvåtakt.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "80f90fb89cd7401c"
+ },
+ "location": "Skellefteå",
+ "lon": 21.11,
+ "make": "Örnvik",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 349,
+  "fetched_ts": 1790522899152,
+  "text_sha": "80f90fb89cd7401c"
+ },
+ "price": 119000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 119000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "550WA",
+  "Modellår": "2002",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23509817",
+ "width_cm": 0,
+ "year": 2002
+}

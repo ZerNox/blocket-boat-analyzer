@@ -1,0 +1,113 @@
+{
+ "ad_id": 25591240,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1786467261000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evenrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2000,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor: Evinrude 90 hk 2-takt med direktinsprutning (ca 2000-tal)",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Plotter (Garmin GPSmap 182C) & Ekolod (Humminbird Wide One Hundred) medföljer",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "BayStar hydraulstyrning (mycket lättstyrd och bekväm att köra)",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Hydralstyrning, Nytt kapell (2025) & Evinrude 90HK",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter (Garmin GPSmap 182C) & Ekolod (Humminbird Wide One Hundred) medföljer",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Scantic 575 HT – Hydralstyrning, Nytt kapell (2025) & Evinrude 90HK",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Scantic 575 HT – Hydralstyrning, Nytt kapell (2025) & Evinrude 90HK",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25591240/7239c9de-013e-4fc8-b19a-beb1a6de58d1",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25591240/7239c9de-013e-4fc8-b19a-beb1a6de58d1",
+  "https://images.blocketcdn.se/dynamic/default/item/25591240/20cfa02e-e43d-45a7-8649-2c215a05eb55",
+  "https://images.blocketcdn.se/dynamic/default/item/25591240/2e2e1d5a-e58e-4030-8390-2ee403af0243",
+  "https://images.blocketcdn.se/dynamic/default/item/25591240/692aa97f-4e4a-4bce-8164-10834044fb19",
+  "https://images.blocketcdn.se/dynamic/default/item/25591240/713b3641-a899-4641-bffa-c7140a065edf",
+  "https://images.blocketcdn.se/dynamic/default/item/25591240/d1d296fe-6fec-4b09-a859-878658564f4a",
+  "https://images.blocketcdn.se/dynamic/default/item/25591240/2ea57463-6ebb-4bde-997b-7e64b02ec0a0",
+  "https://images.blocketcdn.se/dynamic/default/item/25591240/42f98cd5-55da-4146-b244-4b824d04a320",
+  "https://images.blocketcdn.se/dynamic/default/item/25591240/43659e06-3389-487e-aca7-da6c86105075"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.42,
+ "length_ft": 19,
+ "location": "Torshälla",
+ "lon": 16.48,
+ "make": "Övriga",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 779,
+  "fetched_ts": 1790523033767,
+  "text_sha": "bfd34bacd28f0009"
+ },
+ "price": 32000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 32000
+  }
+ ],
+ "specs": {
+  "Bredd": "225 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "65 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Gul / Beige",
+  "Längd i fot": "19 fot",
+  "Modell": "Scantic 575",
+  "Modellår": "1979",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Evenrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "850 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25591240",
+ "width_cm": 225,
+ "year": 1979
+}

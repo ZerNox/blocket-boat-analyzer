@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -42,8 +44,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 520 st",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25888521/28e8cc9d-a03c-406a-81da-8f57fc87859e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.99637,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25888521/28e8cc9d-a03c-406a-81da-8f57fc87859e",
+  "https://images.blocketcdn.se/dynamic/default/item/25888521/daef1d2a-910b-46cd-a257-d6e13661a7c7",
+  "https://images.blocketcdn.se/dynamic/default/item/25888521/c17b2414-6981-4fef-969a-7bee852a5a21",
+  "https://images.blocketcdn.se/dynamic/default/item/25888521/6c1c73fe-6f04-406a-9906-44b58fbe889e",
+  "https://images.blocketcdn.se/dynamic/default/item/25888521/c7279190-4013-4d51-a417-348ab60923de"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.0,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +82,13 @@
   "text_sha": "027fc38d922024cd"
  },
  "location": "Alingsås",
- "lon": 12.46035,
+ "lon": 12.46,
  "make": "Ryds",
  "max_speed": 23,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 518,
   "fetched_ts": 1790508277567,
@@ -107,7 +117,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "525 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25888521",
  "width_cm": 220,
  "year": 1980

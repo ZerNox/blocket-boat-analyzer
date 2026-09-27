@@ -1,0 +1,102 @@
+{
+ "ad_id": 26078594,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787837117000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Nymålad båt säljes, 460Lång. Bredd 160.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26078594/563248ad-54dc-4bab-8ee6-4822e881536f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26078594/563248ad-54dc-4bab-8ee6-4822e881536f",
+  "https://images.blocketcdn.se/dynamic/default/item/26078594/aec69d22-c281-4563-90c8-e54f24e87568",
+  "https://images.blocketcdn.se/dynamic/default/item/26078594/925d15cb-50cd-4d2a-aabc-57abb95593ac"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.3,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f9661c2d0ed8e275"
+ },
+ "location": "Kvissleby",
+ "lon": 17.49,
+ "make": "Absolute",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 83,
+  "fetched_ts": 1790520892337,
+  "text_sha": "f9661c2d0ed8e275"
+ },
+ "price": 4999,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4999
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modellår": "1980",
+  "Motortyp": "Utombordare",
+  "Märke": "Absolute",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26078594",
+ "width_cm": 160,
+ "year": 1980
+}

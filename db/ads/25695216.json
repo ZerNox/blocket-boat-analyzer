@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 3.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": null,
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -39,8 +41,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Sea Eagle 375FC Foldcat",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25695216/6e2276b1-49e4-4a68-8f50-1f8f5107eae5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.20634,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25695216/6e2276b1-49e4-4a68-8f50-1f8f5107eae5",
+  "https://images.blocketcdn.se/dynamic/default/item/25695216/f3cdfa59-155c-4c8e-8d49-4391c4cbfce7",
+  "https://images.blocketcdn.se/dynamic/default/item/25695216/abb8bc46-8479-4c6a-aa67-0f0fc996dacc",
+  "https://images.blocketcdn.se/dynamic/default/item/25695216/a9a2e861-2009-445a-bb15-69fcf9e8062f",
+  "https://images.blocketcdn.se/dynamic/default/item/25695216/85a7a211-d194-442e-bf81-dcc4305edee4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.21,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +79,13 @@
   "text_sha": "9da3bb7b368e3506"
  },
  "location": "Fågelfors",
- "lon": 15.85143,
+ "lon": 15.85,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Elektrisk",
  "motor_size": 3.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 536,
   "fetched_ts": 1790508103765,
@@ -103,7 +113,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "30 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25695216",
  "width_cm": 0,
  "year": 2021

@@ -7,6 +7,8 @@
   "boat_year": 1986,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -27,6 +29,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -36,10 +42,21 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Finnspeed 550",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25411594/a763c7cb-5afd-48ec-bb92-28ea4fd757db",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.02341,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25411594/a763c7cb-5afd-48ec-bb92-28ea4fd757db",
+  "https://images.blocketcdn.se/dynamic/default/item/25411594/0a0ab9b2-8e18-4476-9ff7-611712ffd92f",
+  "https://images.blocketcdn.se/dynamic/default/item/25411594/48f2de11-13a8-4503-8c4f-54856a6d8442",
+  "https://images.blocketcdn.se/dynamic/default/item/25411594/5a2eefa0-391e-4844-8b3d-3cf019dec64b",
+  "https://images.blocketcdn.se/dynamic/default/item/25411594/75ef3cfa-636a-433f-bc5b-e575ed115638",
+  "https://images.blocketcdn.se/dynamic/default/item/25411594/d355166e-4b4c-4e1a-ab6f-c72565654a4c"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.02,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -69,7 +86,7 @@
   "text_sha": "f417549b4771d0cb"
  },
  "location": "Bengtsfors",
- "lon": 12.19833,
+ "lon": 12.2,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",

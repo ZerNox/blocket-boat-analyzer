@@ -7,6 +7,8 @@
   "boat_year": 2004,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -39,8 +41,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bella Europa Mercury 75hk 2takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25507393/e2691faf-085d-4c6e-ace8-ef9192e34508",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.8847,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25507393/e2691faf-085d-4c6e-ace8-ef9192e34508",
+  "https://images.blocketcdn.se/dynamic/default/item/25507393/063f3a9c-c898-49e6-98e8-665386a1b5f7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.88,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -70,12 +76,13 @@
   "text_sha": "d689b4c5a7f52bfc"
  },
  "location": "Borgholm",
- "lon": 16.68178,
+ "lon": 16.68,
  "make": "Bella",
  "max_speed": 35,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 149,
   "fetched_ts": 1790507939603,
@@ -105,7 +112,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "490 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25507393",
  "width_cm": 208,
  "year": 2004

@@ -1,0 +1,78 @@
+{
+ "ad_id": 26446797,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788949880000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Crescent 39 roddbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26446797/e705155f-41dc-409f-aa9f-ba62f1879e80",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26446797/e705155f-41dc-409f-aa9f-ba62f1879e80",
+  "https://images.blocketcdn.se/dynamic/default/item/26446797/43cefac8-adae-4add-ab35-5e53498e6100",
+  "https://images.blocketcdn.se/dynamic/default/item/26446797/eb26ac56-a977-4d06-99f5-8410407c0003",
+  "https://images.blocketcdn.se/dynamic/default/item/26446797/2d97c7fe-6bea-449c-9e9f-260bf3b7406f",
+  "https://images.blocketcdn.se/dynamic/default/item/26446797/f7e4f78e-f769-4879-bc0f-f7c47f13b312",
+  "https://images.blocketcdn.se/dynamic/default/item/26446797/49d8f12f-e72d-4c44-82f2-65857d3d0282"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.19,
+ "length_ft": 13,
+ "location": "Boxholm",
+ "lon": 15.09,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 232,
+  "fetched_ts": 1790520975868,
+  "text_sha": "b184732814db2604"
+ },
+ "price": 7990,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7990
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "13 fot",
+  "Modell": "39",
+  "Modellår": "1970",
+  "Motor inkluderad": "Nej",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26446797",
+ "width_cm": 0,
+ "year": 1970
+}

@@ -7,6 +7,8 @@
   "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 9.9,
+  "engine_hp_source": "llm",
   "engine_maker": "Selva 4-takt",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Gummibåt Interboat cross air YT285",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25987035/611a1045-1ce2-4c1b-81f1-a77eba376684",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.56311,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25987035/611a1045-1ce2-4c1b-81f1-a77eba376684",
+  "https://images.blocketcdn.se/dynamic/default/item/25987035/70d2fa20-8b04-4b82-9cae-43ca3453048c",
+  "https://images.blocketcdn.se/dynamic/default/item/25987035/ad7e856b-0cfa-4a83-9330-9617e06eb289",
+  "https://images.blocketcdn.se/dynamic/default/item/25987035/5eff52fa-b50b-4dd0-80e4-125588bcab40",
+  "https://images.blocketcdn.se/dynamic/default/item/25987035/fb42ae44-6d8d-4998-a8ca-857192695471"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.56,
  "length_ft": 10,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +69,13 @@
   "text_sha": "98c3ab44ce01050c"
  },
  "location": "Götene",
- "lon": 13.45987,
+ "lon": 13.46,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 9.899999618530273,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 144,
   "fetched_ts": 1790508360933,
@@ -90,7 +100,7 @@
   "Märke": "Övriga",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25987035",
  "width_cm": 0,
  "year": 2010

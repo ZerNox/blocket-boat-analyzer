@@ -1,0 +1,155 @@
+{
+ "ad_id": 24416748,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786609670000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": 180,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2016,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Extra utrustning vintertäckning solcell radio kapell rutöverdrag dyner samtliga platser beminitopp gångtimmar motor 180…",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Extra utrustning vintertäckning solcell radio kapell rutöverdrag dyner samtliga platser beminitopp gångtimmar motor 180…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Extra utrustning vintertäckning solcell radio kapell rutöverdrag dyner samtliga platser beminitopp gångtimmar motor 180…",
+    "included": true,
+    "kmh": 80
+   },
+   "vinterkapell": {
+    "evidence": "Extra utrustning vintertäckning solcell radio kapell rutöverdrag dyner samtliga platser beminitopp gångtimmar motor 180…",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds 628 sport",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24416748/c7b10bbc-6cd1-4f40-ade0-90fefdc172be",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24416748/c7b10bbc-6cd1-4f40-ade0-90fefdc172be",
+  "https://images.blocketcdn.se/dynamic/default/item/24416748/a3f1c5d3-4221-4fb0-8955-86520462ba01",
+  "https://images.blocketcdn.se/dynamic/default/item/24416748/e38af2f8-5705-4216-a89d-2532d14a1c22",
+  "https://images.blocketcdn.se/dynamic/default/item/24416748/a6df8865-baab-4258-9608-cec63c62719c",
+  "https://images.blocketcdn.se/dynamic/default/item/24416748/117fe768-7ec6-4be4-96db-68a97715ef42",
+  "https://images.blocketcdn.se/dynamic/default/item/24416748/b67157a1-4e15-4a0d-93f6-87835545cd8a",
+  "https://images.blocketcdn.se/dynamic/default/item/24416748/fa0091db-479b-4469-8823-daa8619b8027",
+  "https://images.blocketcdn.se/dynamic/default/item/24416748/7cb94f83-bbb7-4da6-b814-d9249aa453bb"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.27,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2016,
+   "engine_hours": 180,
+   "engine_hp": null,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "gångtimmar motor 180 tim",
+   "engine_year_rejected": 2016,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "included"
+   }
+  },
+  "text_sha": "533205299427195c"
+ },
+ "location": "Kristinehamn",
+ "lon": 14.02,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 229,
+  "fetched_ts": 1790522933221,
+  "text_sha": "533205299427195c"
+ },
+ "price": 220000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 220000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "Styrpulpeten",
+  "Modellår": "2016",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24416748",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "a57791425e38b5d8",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "brand": "YAMAHA",
+   "engine_photos": [
+    5
+   ],
+   "four_stroke": true,
+   "hp": null,
+   "photo": 5,
+   "text_seen": "ULTRA-LOW EMISSION"
+  },
+  "tasks": [
+   "hp"
+  ]
+ },
+ "width_cm": 0,
+ "year": 2016
+}

@@ -7,6 +7,8 @@
   "boat_year": 2000,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Honda 4takt",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Finnmaster 520 styrpulpetbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25513493/d213a385-c110-459a-bc4e-b06a80c7928e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.77942,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25513493/d213a385-c110-459a-bc4e-b06a80c7928e",
+  "https://images.blocketcdn.se/dynamic/default/item/25513493/daf1ab26-ab50-45d5-b7b5-1a0e5fe959d3",
+  "https://images.blocketcdn.se/dynamic/default/item/25513493/14ed3522-124c-4c7e-bdb1-cae9e0b7a0bf"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.78,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +73,13 @@
   "text_sha": "61f2893e6036ce90"
  },
  "location": "Torslanda",
- "lon": 11.83033,
+ "lon": 11.83,
  "make": "Finnmaster",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 166,
   "fetched_ts": 1790507943896,
@@ -99,7 +107,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25513493",
  "width_cm": 0,
  "year": 2000

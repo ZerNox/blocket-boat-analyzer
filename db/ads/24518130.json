@@ -7,6 +7,8 @@
   "boat_year": 1974,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
   "engine_maker": "Volvo Penta MD21",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -50,8 +52,19 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Familjebåt, campingbåt, Passaralla",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24518130/ae271cc0-853c-487b-a42e-23dca7a7d82d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.63996,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24518130/ae271cc0-853c-487b-a42e-23dca7a7d82d",
+  "https://images.blocketcdn.se/dynamic/default/item/24518130/8408f380-598f-4e73-8acb-fd93049cef7d",
+  "https://images.blocketcdn.se/dynamic/default/item/24518130/12be8fd2-ec99-4fdc-a11f-719b6d780fd9",
+  "https://images.blocketcdn.se/dynamic/default/item/24518130/9e0ffec5-bdf0-4e27-9903-04bf46e08f37",
+  "https://images.blocketcdn.se/dynamic/default/item/24518130/8e4570fb-7b22-47da-a38b-19651cdb9b0a",
+  "https://images.blocketcdn.se/dynamic/default/item/24518130/8132e067-c079-4b73-857d-313bc6b34e3c",
+  "https://images.blocketcdn.se/dynamic/default/item/24518130/d4779a18-1353-493c-83ac-f74ca687c29a",
+  "https://images.blocketcdn.se/dynamic/default/item/24518130/d220737a-ff01-42e1-8b1b-9fcbc24e23a2",
+  "https://images.blocketcdn.se/dynamic/default/item/24518130/82c94b20-0eb7-44f5-b128-6d43fc53e6f5"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.64,
  "length_ft": 22,
  "llm": {
   "at": "2026-09-27",
@@ -81,12 +94,13 @@
   "text_sha": "bd7dce33786a929d"
  },
  "location": "Enköping",
- "lon": 17.07709,
+ "lon": 17.08,
  "make": "Övriga",
  "max_speed": 12,
  "motor_fuel": "Diesel",
  "motor_size": 75.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 511,
   "fetched_ts": 1790507603453,
@@ -118,7 +132,7 @@
   "Toppfart": "12 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24518130",
  "width_cm": 2032,
  "year": 1974

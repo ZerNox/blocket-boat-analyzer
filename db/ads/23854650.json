@@ -1,0 +1,106 @@
+{
+ "ad_id": 23854650,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785940923000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2009,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Suzuki df80 4 takt från 2009",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Lowrance HDS5, sjöplotter och ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell är i ok skick, dragkedja akter behöver bytas.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance HDS5, sjöplotter och ekolod",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "AMT 185 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "AMT 185 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23854650/976d8251-ae8a-45f6-8b59-4d7511974919",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23854650/976d8251-ae8a-45f6-8b59-4d7511974919",
+  "https://images.blocketcdn.se/dynamic/default/item/23854650/cc1ebcaf-428f-41ff-b6f4-738f5f7c6b17",
+  "https://images.blocketcdn.se/dynamic/default/item/23854650/94849ac4-9d35-42df-a264-30e664dfbed5",
+  "https://images.blocketcdn.se/dynamic/default/item/23854650/29a85b42-ce57-4974-bc66-49cf38ad8486",
+  "https://images.blocketcdn.se/dynamic/default/item/23854650/6f7043e7-d4cd-4ef0-8fbb-23e3a7684412",
+  "https://images.blocketcdn.se/dynamic/default/item/23854650/d3a04b46-8a45-4212-ab53-051f2c583e18",
+  "https://images.blocketcdn.se/dynamic/default/item/23854650/7007363d-18bd-4efb-ac46-27d733cd0dd6",
+  "https://images.blocketcdn.se/dynamic/default/item/23854650/b6df666f-a53e-4871-bec4-07f4dfe13442",
+  "https://images.blocketcdn.se/dynamic/default/item/23854650/222c337e-04de-4c2f-a16f-dc1d3ca01127",
+  "https://images.blocketcdn.se/dynamic/default/item/23854650/59f96bba-fdc2-4c5f-ae9e-6fc6c6eb5680"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.67,
+ "length_ft": 18,
+ "location": "Göteborg",
+ "lon": 11.91,
+ "make": "AMT",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 559,
+  "fetched_ts": 1790522908649,
+  "text_sha": "e36079e9ea503e74"
+ },
+ "price": 149000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 149000
+  }
+ ],
+ "specs": {
+  "Bredd": "224 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "185 HT",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "AMT",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23854650",
+ "width_cm": 224,
+ "year": 2008
+}

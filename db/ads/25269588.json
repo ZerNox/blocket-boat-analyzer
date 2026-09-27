@@ -7,6 +7,8 @@
   "boat_year": 1998,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet 40 HK",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25269588/7fa0d9bc-4995-4d1c-95fc-8632c94e7b52",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.60859,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25269588/7fa0d9bc-4995-4d1c-95fc-8632c94e7b52",
+  "https://images.blocketcdn.se/dynamic/default/item/25269588/347d6210-d10e-4a7a-9cef-922dd23ceef8",
+  "https://images.blocketcdn.se/dynamic/default/item/25269588/577c439c-5958-4da0-afc9-760b312587e2",
+  "https://images.blocketcdn.se/dynamic/default/item/25269588/8a5ebfb2-2fa7-4f83-b870-4958ccc79ef2",
+  "https://images.blocketcdn.se/dynamic/default/item/25269588/2aadcfa4-b061-4999-9960-e8874d4f6e52",
+  "https://images.blocketcdn.se/dynamic/default/item/25269588/340dd5fd-67aa-42ea-95ac-4e8bf1d04cba",
+  "https://images.blocketcdn.se/dynamic/default/item/25269588/7dc9a6f2-88fb-42fd-a76b-d912ebb10ff7",
+  "https://images.blocketcdn.se/dynamic/default/item/25269588/dbc737ea-d17e-42ec-b811-1e87301b3004"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.61,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +77,13 @@
   "text_sha": "582c4a9ef3964221"
  },
  "location": "Yxlan",
- "lon": 18.83251,
+ "lon": 18.83,
  "make": "Ryds",
  "max_speed": 27,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 683,
   "fetched_ts": 1790507710716,
@@ -98,7 +111,7 @@
   "Toppfart": "27 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25269588",
  "width_cm": 0,
  "year": 1998

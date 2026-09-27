@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Storbådan 500",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26063532/07ea74ae-d556-4b27-a99d-cf9f796e27a9",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.38037,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26063532/07ea74ae-d556-4b27-a99d-cf9f796e27a9",
+  "https://images.blocketcdn.se/dynamic/default/item/26063532/22b5f6f8-90d5-4d26-9b58-40122a9850b5",
+  "https://images.blocketcdn.se/dynamic/default/item/26063532/f1a0f77c-cbf8-40c3-9a48-8614bb0c81f0",
+  "https://images.blocketcdn.se/dynamic/default/item/26063532/10f966fd-6fa5-48a4-a25a-a2af83e50bdf"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.38,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "c14dc693ce8b57f0"
  },
  "location": "Alnö",
- "lon": 17.52575,
+ "lon": 17.53,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 86,
   "fetched_ts": 1790508427803,
@@ -91,7 +100,7 @@
   "Märke": "Övriga",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26063532",
  "width_cm": 0,
  "year": 1980

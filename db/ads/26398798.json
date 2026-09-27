@@ -7,6 +7,8 @@
   "boat_year": 1976,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 35,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -43,8 +45,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden 16",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26398798/e39632b5-a7d4-4ca2-8899-8b7705059f82",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.34807,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26398798/e39632b5-a7d4-4ca2-8899-8b7705059f82",
+  "https://images.blocketcdn.se/dynamic/default/item/26398798/df0eaabf-7927-4392-a992-5a677102e059",
+  "https://images.blocketcdn.se/dynamic/default/item/26398798/b5c12e43-92a4-4965-ae58-07ef477f788f",
+  "https://images.blocketcdn.se/dynamic/default/item/26398798/a88fd7d6-4045-4458-ada7-53bd5bdf3169",
+  "https://images.blocketcdn.se/dynamic/default/item/26398798/6945b8f1-3cf2-439d-9f1c-ffaa7c0c764c",
+  "https://images.blocketcdn.se/dynamic/default/item/26398798/eeed16b9-5942-42a3-9386-ddfa58e34c57"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.35,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +84,13 @@
   "text_sha": "7cbd824c85d6a398"
  },
  "location": "Lönsboda",
- "lon": 14.35025,
+ "lon": 14.35,
  "make": "Askeladden",
  "max_speed": 19,
  "motor_fuel": "Bensin",
  "motor_size": 35.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 678,
   "fetched_ts": 1790508658172,
@@ -105,7 +116,7 @@
   "Toppfart": "19 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26398798",
  "width_cm": 0,
  "year": 1976

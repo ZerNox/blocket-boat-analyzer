@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 510 Mariner 50",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25834652/a90a17a6-ed62-4552-a6cd-a8cb8f2b769e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 64.30738,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25834652/a90a17a6-ed62-4552-a6cd-a8cb8f2b769e",
+  "https://images.blocketcdn.se/dynamic/default/item/25834652/c29d7627-9f0e-4d7f-bbbb-e261a7fd4a15",
+  "https://images.blocketcdn.se/dynamic/default/item/25834652/9a8c6a30-97fc-44a5-84b7-2369827f76b7",
+  "https://images.blocketcdn.se/dynamic/default/item/25834652/f5bcc3b2-b139-4b91-aee9-c6d52ef595db"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 64.31,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "04ff00f679ea27cc"
  },
  "location": "Granö",
- "lon": 19.16876,
+ "lon": 19.17,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 242,
   "fetched_ts": 1790508239913,
@@ -90,7 +99,7 @@
   "Sovplatser": "2",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25834652",
  "width_cm": 0,
  "year": 1980

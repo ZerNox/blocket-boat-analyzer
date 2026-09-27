@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,9 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "HR442 sc",
  "image": null,
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.45834,
+ "image_urls": [],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.46,
  "length_ft": 442,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +63,13 @@
   "text_sha": "71945e9b6c568585"
  },
  "location": "Frändefors",
- "lon": 12.35786,
+ "lon": 12.36,
  "make": "HR",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508884425,
@@ -92,7 +96,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26709674",
  "width_cm": 0,
  "year": 2021

@@ -7,6 +7,8 @@
   "boat_year": 1970,
   "boat_year_source": "spec",
   "engine_hours": 86,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 580 styrpulpetbåt & rostfri dieseltank",
  "image": "https://images.blocketcdn.se/dynamic/default/item/21742694/03ecae44-cfe3-4ce3-99cd-5e07b71a8818",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.77942,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21742694/03ecae44-cfe3-4ce3-99cd-5e07b71a8818",
+  "https://images.blocketcdn.se/dynamic/default/item/21742694/bf6dd73e-dd2d-42ab-9082-d68e956313be",
+  "https://images.blocketcdn.se/dynamic/default/item/21742694/825168af-5461-4434-8e60-5e9af1985542",
+  "https://images.blocketcdn.se/dynamic/default/item/21742694/cd53b6c8-3c8f-4a18-be28-f4564ec7ad14",
+  "https://images.blocketcdn.se/dynamic/default/item/21742694/87d44d45-a857-4970-abfc-798a0dbfd99c",
+  "https://images.blocketcdn.se/dynamic/default/item/21742694/32c2a625-961e-4e23-a14f-f027b90e4312",
+  "https://images.blocketcdn.se/dynamic/default/item/21742694/dd937531-0fd4-485a-b6fd-1f53b47536d2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.78,
  "length_ft": 20,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +77,13 @@
   "text_sha": "9a49e4cc0f7c111c"
  },
  "location": "Torslanda",
- "lon": 11.83033,
+ "lon": 11.83,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 951,
   "fetched_ts": 1790507428559,
@@ -97,7 +109,7 @@
   "Märke": "Örnvik",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/21742694",
  "width_cm": 0,
  "year": 1970

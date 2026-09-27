@@ -1,0 +1,82 @@
+{
+ "ad_id": 22438549,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789644952000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Bra skick luftdurk .har haft elmotor på den.åror finns",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Gummibåt 260",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22438549/282bb49c-510e-4e13-971d-2c44b52bea00",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22438549/282bb49c-510e-4e13-971d-2c44b52bea00",
+  "https://images.blocketcdn.se/dynamic/default/item/22438549/92695c1a-b200-4175-9d17-7e8753bdc18d",
+  "https://images.blocketcdn.se/dynamic/default/item/22438549/3b1b2895-ab2a-4c0b-85ed-31747a236a58"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.69,
+ "length_ft": 7,
+ "location": "Göteborg",
+ "lon": 11.96,
+ "make": "Aquaquick",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 54,
+  "fetched_ts": 1790520595234,
+  "text_sha": "d6ae43eb65047c56"
+ },
+ "price": 4200,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 4200
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Grå",
+  "Längd i fot": "7 fot",
+  "Modell": "260",
+  "Modellår": "2005",
+  "Motor inkluderad": "Nej",
+  "Märke": "Aquaquick",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "28 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/22438549",
+ "width_cm": 160,
+ "year": 2005
+}

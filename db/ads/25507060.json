@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -27,16 +29,20 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Örnvik 480 \" Fiskebåt\"",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25507060/22f04fe3-4ab0-49e9-b8a3-5eef67a7294a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.6319,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25507060/22f04fe3-4ab0-49e9-b8a3-5eef67a7294a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.63,
  "length_ft": 16,
  "location": "Nävekvarn",
- "lon": 16.79758,
+ "lon": 16.8,
  "make": "Örnvik",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 100,
   "fetched_ts": 1790507936573,
@@ -62,7 +68,7 @@
   "Märke": "Örnvik",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25507060",
  "width_cm": 186,
  "year": 1980

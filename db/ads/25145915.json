@@ -1,0 +1,107 @@
+{
+ "ad_id": 25145915,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1790360514000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Bella HT 561, Mercury 90Hk 4-takt årgång 2004.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Ny propeller, ny hydraulstyrning, nytt batteri, nytt kapell, kamrem bytt, garmin gps.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Ny propeller, ny hydraulstyrning, nytt batteri, nytt kapell, kamrem bytt, garmin gps.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ny propeller, ny hydraulstyrning, nytt batteri, nytt kapell, kamrem bytt, garmin gps.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Kan ev säljas med ny 80 kärra (19000 kr)",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Bella HT 561, Mercury 90Hk 4-takt årgång 2004",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Bella 561"
+ ],
+ "heading": "Bella HT 561, Mercury 90Hk 4-takt årgång 2004",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25145915/367b36fc-da0a-4aa9-95c7-5ff7b755dead",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25145915/367b36fc-da0a-4aa9-95c7-5ff7b755dead",
+  "https://images.blocketcdn.se/dynamic/default/item/25145915/42b4c543-3b4f-4e96-a9e7-98da5da977fa",
+  "https://images.blocketcdn.se/dynamic/default/item/25145915/16c97ce1-dd94-4db6-98e6-6daf0db6419d",
+  "https://images.blocketcdn.se/dynamic/default/item/25145915/686ee5e7-3c84-41bd-b31a-ce516f8691db",
+  "https://images.blocketcdn.se/dynamic/default/item/25145915/d475dd44-2537-4db4-84e9-43b10b4ebce2"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.81,
+ "length_ft": 17,
+ "location": "Floda",
+ "lon": 12.38,
+ "make": "Bella",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 271,
+  "fetched_ts": 1790522947489,
+  "text_sha": "7f1d6b887bc30538"
+ },
+ "price": 105000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 105000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit/blå",
+  "Längd i fot": "17 fot",
+  "Modell": "HT 561",
+  "Modellår": "2004",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "35 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25145915",
+ "width_cm": 0,
+ "year": 2004
+}

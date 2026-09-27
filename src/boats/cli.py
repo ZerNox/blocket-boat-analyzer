@@ -38,13 +38,16 @@ def cmd_market(cfg, args):
 
 def cmd_rank(cfg, args):
     ranked, model = rank.rank(store.all_ads(), cfg)
+    max_km = cfg["search"].get("max_km")
+    if max_km:
+        ranked = [r for r in ranked if r["distance_km"] is None or r["distance_km"] <= max_km]
     print(f"{model['n']} eligible ads, fit on {model['n_fit']}, residual sd {model['resid_sd_log']} (log price)\n")
     print(f"{'#':>3} {'value':>6} {'price':>8} {'fair':>8} {'year':>4} {'eng':>6} {'hp':>3}  extras / flags  heading")
     for r in ranked[: args.top]:
         eng = f"{r['engine_year'] or '?'}{'*' if (r['engine_year_source'] or '').startswith('llm') else ''}"
         extras = ",".join(r["extras"]) + (" !" + ",".join(r["red_flags"]) if r["red_flags"] else "")
         print(f"{r['rank']:>3} {r['value']:>+6.0%} {r['price']:>8} {r['fair_price']:>8} {r['boat_year'] or '?':>4} {eng:>6} "
-              f"{r['hp']:>3}  {extras[:28]:<28} {r['heading'][:40]}  {r['url']}")
+              f"{r['hp']:>3}  {extras[:28]:<28} {r['heading'][:40]} ({r['distance_km']} km)  {r['url']}")
 
 
 def cmd_audit(cfg, args):

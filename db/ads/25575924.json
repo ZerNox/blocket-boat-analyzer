@@ -7,6 +7,8 @@
   "boat_year": 2019,
   "boat_year_source": "spec",
   "engine_hours": 80,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Grisslan 498 60hk Honda",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25575924/ffda461f-dae1-4348-bf0e-ea2c9694fb57",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.78894,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25575924/ffda461f-dae1-4348-bf0e-ea2c9694fb57",
+  "https://images.blocketcdn.se/dynamic/default/item/25575924/aac1322d-39e7-4916-bf27-a9698542385f",
+  "https://images.blocketcdn.se/dynamic/default/item/25575924/59865c01-eb52-4c7e-9777-68a0212024fe",
+  "https://images.blocketcdn.se/dynamic/default/item/25575924/810ee167-09a4-4fd1-842d-7f9596161251"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.79,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -67,12 +75,13 @@
   "text_sha": "439aaa6486edaafe"
  },
  "location": "Kävlinge",
- "lon": 13.0927,
+ "lon": 13.09,
  "make": "Grisslan",
  "max_speed": 30,
  "motor_fuel": null,
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 358,
   "fetched_ts": 1790508023421,
@@ -98,7 +107,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25575924",
  "width_cm": 200,
  "year": 2019

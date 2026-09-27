@@ -7,6 +7,8 @@
   "boat_year": 1974,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds Camping + Suzuki 30hk 4-takt (få timmar)",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25350121/645a38ab-6a3a-4975-b5cd-0084e9bb7b43",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.79221,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25350121/645a38ab-6a3a-4975-b5cd-0084e9bb7b43",
+  "https://images.blocketcdn.se/dynamic/default/item/25350121/85aa767c-5f22-4be2-bbc9-1d3c646de848",
+  "https://images.blocketcdn.se/dynamic/default/item/25350121/6f39fe81-041a-4d89-991c-221ed9525f37"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.79,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "f580248aa1c55afc"
  },
  "location": "Jönköping",
- "lon": 14.12749,
+ "lon": 14.13,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 304,
   "fetched_ts": 1790507785050,
@@ -99,7 +107,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "450 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25350121",
  "width_cm": 220,
  "year": 1974

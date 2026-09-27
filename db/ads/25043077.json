@@ -1,0 +1,109 @@
+{
+ "ad_id": 25043077,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1790005918000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds Camping 56HT -77 med 60 hk Yamaha -03 fyrtakt.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Bra kapell, Lowrance ekolod, brandsläckare, fast rostfri bensintank på ca 70 liter, badstege, Gasolkök med två plattor …",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Bra kapell, Lowrance ekolod, brandsläckare, fast rostfri bensintank på ca 70 liter, badstege, Gasolkök med två plattor …",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Bra kapell, Lowrance ekolod, brandsläckare, fast rostfri bensintank på ca 70 liter, badstege, Gasolkök med två plattor …",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Står på en galvad AH trailer (30km).",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds Camping Yamaha 60 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25043077/dbc6dcaf-4f5a-4527-90e1-99f19dfe6c91",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25043077/dbc6dcaf-4f5a-4527-90e1-99f19dfe6c91",
+  "https://images.blocketcdn.se/dynamic/default/item/25043077/44efa49a-7ab0-43aa-90c1-82a461b98e71",
+  "https://images.blocketcdn.se/dynamic/default/item/25043077/0f7bd552-a124-493e-bf52-1a6ae7ca5b61",
+  "https://images.blocketcdn.se/dynamic/default/item/25043077/ea385962-492d-4556-b8dd-18a3028c0686",
+  "https://images.blocketcdn.se/dynamic/default/item/25043077/d1c48d71-ed22-4e03-99bc-5f85aa9d6d59",
+  "https://images.blocketcdn.se/dynamic/default/item/25043077/711d0a65-1d58-4c7d-971b-20c10fcddef4"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.39,
+ "length_ft": 18,
+ "location": "Vargön",
+ "lon": 12.37,
+ "make": "Ryds",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 275,
+  "fetched_ts": 1790522942977,
+  "text_sha": "7de80bd0117c357e"
+ },
+ "price": 56500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 56500
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Orange/Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "Camping",
+  "Modellår": "1977",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "27 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25043077",
+ "width_cm": 220,
+ "year": 1977
+}

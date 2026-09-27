@@ -7,6 +7,8 @@
   "boat_year": 2020,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Honda",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -46,8 +48,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Micore XW48SC",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25923023/c0225d8b-b952-47a3-beab-f76e86f384f7",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.24972,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25923023/c0225d8b-b952-47a3-beab-f76e86f384f7",
+  "https://images.blocketcdn.se/dynamic/default/item/25923023/29c51d79-6ff9-4625-a341-862ea20f1eba",
+  "https://images.blocketcdn.se/dynamic/default/item/25923023/4a653b5c-dffc-4b40-a6dd-970c52e525b1",
+  "https://images.blocketcdn.se/dynamic/default/item/25923023/e598549a-21c9-4dac-9bcd-73eb2bf6ba7e",
+  "https://images.blocketcdn.se/dynamic/default/item/25923023/3ac83706-c2d4-4d52-9077-1a13b5dd260d",
+  "https://images.blocketcdn.se/dynamic/default/item/25923023/515cadce-b99a-4d4d-92d6-59e8a6a8d0b0",
+  "https://images.blocketcdn.se/dynamic/default/item/25923023/b281d1b7-3a50-4980-80d2-1aab47483aa9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.25,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -77,12 +88,13 @@
   "text_sha": "204bb66b62ddb150"
  },
  "location": "Mariefred",
- "lon": 17.18286,
+ "lon": 17.18,
  "make": "Micore",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 232,
   "fetched_ts": 1790508304630,
@@ -109,7 +121,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25923023",
  "width_cm": 0,
  "year": 2020

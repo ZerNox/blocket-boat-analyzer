@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 35,
+  "engine_hp_source": "llm",
   "engine_maker": "MD17",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -31,8 +33,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Albin 23",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26218250/d21daff8-5d61-4412-8e84-8a781b0d12b5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.5308,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26218250/d21daff8-5d61-4412-8e84-8a781b0d12b5",
+  "https://images.blocketcdn.se/dynamic/default/item/26218250/3cc6a28b-da1d-42cb-aab0-395975b18a40",
+  "https://images.blocketcdn.se/dynamic/default/item/26218250/7d1c062e-4bea-4f48-9fc2-fda7b9df04d7",
+  "https://images.blocketcdn.se/dynamic/default/item/26218250/723c280a-64ff-462e-8149-960565275724",
+  "https://images.blocketcdn.se/dynamic/default/item/26218250/e2186bad-cc4d-49b3-9a39-106d28a3c62a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.53,
  "length_ft": 23,
  "llm": {
   "at": "2026-09-27",
@@ -62,12 +71,13 @@
   "text_sha": "aa4611086fc3202b"
  },
  "location": "Ljusterö",
- "lon": 18.69804,
+ "lon": 18.7,
  "make": "Albin",
  "max_speed": 9,
  "motor_fuel": "Diesel",
  "motor_size": 35.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 271,
   "fetched_ts": 1790508525739,
@@ -101,7 +111,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "1 700 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26218250",
  "width_cm": 270,
  "year": 1980

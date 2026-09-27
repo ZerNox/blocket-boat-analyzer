@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -29,8 +31,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "YAM Gummibåt med motor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26107917/ce784c06-3fca-4530-b9be-9b5bae4d393e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.28704,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26107917/ce784c06-3fca-4530-b9be-9b5bae4d393e",
+  "https://images.blocketcdn.se/dynamic/default/item/26107917/11f2b894-a2b5-407e-8533-20423a9c70d6",
+  "https://images.blocketcdn.se/dynamic/default/item/26107917/9bd5d4e4-6d58-4711-8b79-45853cc63530",
+  "https://images.blocketcdn.se/dynamic/default/item/26107917/64355e4c-bd66-451c-90fc-73ef25b1556e",
+  "https://images.blocketcdn.se/dynamic/default/item/26107917/abba7616-27e7-4d96-bfe8-333bb4a997bf",
+  "https://images.blocketcdn.se/dynamic/default/item/26107917/39f3fcdd-879d-4512-9a4f-551ee92b62df",
+  "https://images.blocketcdn.se/dynamic/default/item/26107917/c9620981-f8b5-4600-a256-51e6c63fe00f",
+  "https://images.blocketcdn.se/dynamic/default/item/26107917/06876841-3293-4e0f-a9bc-28cffbc57d7b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.29,
  "length_ft": 10,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +72,13 @@
   "text_sha": "923116998f0816b7"
  },
  "location": "Ekerö",
- "lon": 17.76844,
+ "lon": 17.77,
  "make": "Yam",
  "max_speed": 23,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 681,
   "fetched_ts": 1790508468059,
@@ -95,7 +108,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "32 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26107917",
  "width_cm": 150,
  "year": 2021

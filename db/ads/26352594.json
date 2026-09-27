@@ -1,0 +1,119 @@
+{
+ "ad_id": 26352594,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788721672000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": "otor. Lämplig motorstorlek 10-30 hk. Båtkärran är ej till salu då den är lånad. Årsmodell på båt endast uppskattad Passa",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Utrustad för fiske, spöhållare samt separat rigg för trollingmotor.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtkärran är ej till salu då den är lånad.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Ryds 430",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26352594/55939813-37ef-4ce5-8f73-39a1e1563048",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26352594/55939813-37ef-4ce5-8f73-39a1e1563048",
+  "https://images.blocketcdn.se/dynamic/default/item/26352594/07235dbc-4d73-49fd-aadb-3c97bf49ace8",
+  "https://images.blocketcdn.se/dynamic/default/item/26352594/2a8a60d5-b50c-43f4-8f91-a577fffb7527",
+  "https://images.blocketcdn.se/dynamic/default/item/26352594/11368e27-5e2d-4224-bb1d-6136707a869a",
+  "https://images.blocketcdn.se/dynamic/default/item/26352594/5af4a467-c818-42fe-b689-527745aaaee6",
+  "https://images.blocketcdn.se/dynamic/default/item/26352594/a3fc91a8-b7e0-4398-88bb-120468084311"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.39,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2005,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "99e4257ab6cd023f"
+ },
+ "location": "Dyltabruk",
+ "lon": 15.24,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 300,
+  "fetched_ts": 1790520946470,
+  "text_sha": "99e4257ab6cd023f"
+ },
+ "price": 23500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 23500
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "vit",
+  "Längd i fot": "14 fot",
+  "Modell": "430",
+  "Modellår": "2005",
+  "Motor inkluderad": "Nej",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "230 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26352594",
+ "width_cm": 180,
+ "year": 2005
+}

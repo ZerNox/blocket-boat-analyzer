@@ -1,0 +1,100 @@
+{
+ "ad_id": 26885543,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1790366858000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1994,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "2 st. Mercruiser V8",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1994,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Plotter Echomap 91 sv",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter Echomap 91 sv",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Bayliner 3055 ciera 1994",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26885543/ac96423a-058d-4f7c-bc25-153136391642",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26885543/ac96423a-058d-4f7c-bc25-153136391642",
+  "https://images.blocketcdn.se/dynamic/default/item/26885543/fb085cbd-3841-4116-9bd5-6dd0187e0b11",
+  "https://images.blocketcdn.se/dynamic/default/item/26885543/d9d60c76-2de2-4921-adc9-4d57bec62219",
+  "https://images.blocketcdn.se/dynamic/default/item/26885543/1700ecfc-d242-4b55-a56d-f4d3a03ff096",
+  "https://images.blocketcdn.se/dynamic/default/item/26885543/c9efabf6-c60a-40cd-9d7a-486ca8f49175",
+  "https://images.blocketcdn.se/dynamic/default/item/26885543/ffbf5be2-5929-4e21-bf8c-6255f9bd9f13",
+  "https://images.blocketcdn.se/dynamic/default/item/26885543/a15bb012-8168-47c2-a3da-a42ca39416d8",
+  "https://images.blocketcdn.se/dynamic/default/item/26885543/e699374c-ffab-4eb0-9dd4-e6e7e2c9c0a6",
+  "https://images.blocketcdn.se/dynamic/default/item/26885543/c8bc2e8f-b36c-441f-b7f8-8a16978989e4",
+  "https://images.blocketcdn.se/dynamic/default/item/26885543/d141b14f-4db0-4456-8d56-b6698ed5d44b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.02,
+ "length_ft": 30,
+ "location": "Ramlösa",
+ "lon": 12.75,
+ "make": "Bayliner",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 701,
+  "fetched_ts": 1790521076073,
+  "text_sha": "d58088e0f0aa7a33"
+ },
+ "price": 200000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 200000
+  }
+ ],
+ "specs": {
+  "Bredd": "305 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "90 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå/vit",
+  "Längd i fot": "30 fot",
+  "Modell": "3055 ciera",
+  "Modellår": "1994",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "2 st. Mercruiser V8",
+  "Motortyp": "Inombordare",
+  "Märke": "Bayliner",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "4",
+  "Typ": "Hyttbåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26885543",
+ "width_cm": 305,
+ "year": 1994
+}

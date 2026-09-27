@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Flipper 420 med 4hk Mariner och släp",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26923608/4b1ff36e-1bb5-44b1-8757-14ce97a0cf3d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.4994,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26923608/4b1ff36e-1bb5-44b1-8757-14ce97a0cf3d",
+  "https://images.blocketcdn.se/dynamic/default/item/26923608/9d42e8f7-100e-4bb8-b1d1-b317ddf800d9",
+  "https://images.blocketcdn.se/dynamic/default/item/26923608/09bc9cd0-abab-4f14-befa-2862e05862d8"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.5,
  "length_ft": 4,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +73,13 @@
   "text_sha": "1f2ba13116c46d5a"
  },
  "location": "Täby",
- "lon": 18.08837,
+ "lon": 18.09,
  "make": "Flipper",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 266,
   "fetched_ts": 1790509031508,
@@ -98,7 +106,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "120 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26923608",
  "width_cm": 160,
  "year": 1980

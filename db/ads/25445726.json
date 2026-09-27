@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 430 med Suzuki 30HK",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25445726/e8f5694e-f282-4771-b667-e674442fc156",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.35677,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25445726/e8f5694e-f282-4771-b667-e674442fc156",
+  "https://images.blocketcdn.se/dynamic/default/item/25445726/f416a067-2e68-4674-a908-8b277655d951",
+  "https://images.blocketcdn.se/dynamic/default/item/25445726/8e3208de-9d2a-420a-b77c-1983bade172c",
+  "https://images.blocketcdn.se/dynamic/default/item/25445726/20c65312-01ad-4601-a5bf-c03dbd94184f",
+  "https://images.blocketcdn.se/dynamic/default/item/25445726/7cb1e8e0-7431-40c2-b4c4-ca043cce9ef6",
+  "https://images.blocketcdn.se/dynamic/default/item/25445726/c7c4a900-e14e-4ec0-a454-58727bc66a5f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.36,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "693192590c69b3d4"
  },
  "location": "Örebro",
- "lon": 15.20298,
+ "lon": 15.2,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790507876271,
@@ -91,7 +102,7 @@
   "Märke": "Ryds",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25445726",
  "width_cm": 0,
  "year": 1995

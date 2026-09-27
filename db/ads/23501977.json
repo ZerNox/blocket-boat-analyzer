@@ -7,6 +7,8 @@
   "boat_year": 2015,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bella 470R",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23501977/1426b676-5897-400f-8311-fa5c4eb65032",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.30893,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23501977/1426b676-5897-400f-8311-fa5c4eb65032",
+  "https://images.blocketcdn.se/dynamic/default/item/23501977/623b9bb7-963a-4f74-af13-1a44b1480bda",
+  "https://images.blocketcdn.se/dynamic/default/item/23501977/404b73e1-e162-4a1c-9bf1-abc2ce699ebd",
+  "https://images.blocketcdn.se/dynamic/default/item/23501977/d405089d-58be-4646-99f9-d9bd949dd39b"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.31,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "d4cafdf707884fd4"
  },
  "location": "Värmdö",
- "lon": 18.611,
+ "lon": 18.61,
  "make": "Bella",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 281,
   "fetched_ts": 1790507511673,
@@ -99,7 +108,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23501977",
  "width_cm": 185,
  "year": 2015

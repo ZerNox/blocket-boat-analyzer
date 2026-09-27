@@ -7,6 +7,8 @@
   "boat_year": 2021,
   "boat_year_source": "spec",
   "engine_hours": 88,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha F40FETL",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -38,8 +40,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster M2Q 2021",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26457196/48d8120a-697b-4d16-af85-0878146bdb64",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.124,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26457196/48d8120a-697b-4d16-af85-0878146bdb64",
+  "https://images.blocketcdn.se/dynamic/default/item/26457196/638bc180-e35b-496f-a1bb-62fb19bb6e61"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.12,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +75,13 @@
   "text_sha": "361fd84a9dea1a13"
  },
  "location": "Dalarö",
- "lon": 18.47608,
+ "lon": 18.48,
  "make": "Buster",
  "max_speed": 27,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1284,
   "fetched_ts": 1790508701086,
@@ -105,7 +112,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "390 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26457196",
  "width_cm": 185,
  "year": 2021

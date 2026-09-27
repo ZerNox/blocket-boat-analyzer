@@ -1,0 +1,135 @@
+{
+ "ad_id": 25235286,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785362251000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": 180,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Honda BF80",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1976,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytvättat kapell samt översyn av sömmar -25.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Dynor samt plotter (Raymarine Element 7s)",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Uttern 630 Honda BF80-2017",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25235286/571ae558-0915-4ca9-872d-efaa1f0718d3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25235286/571ae558-0915-4ca9-872d-efaa1f0718d3",
+  "https://images.blocketcdn.se/dynamic/default/item/25235286/9e79f1e6-c1d4-4955-9ffc-6651051201e3",
+  "https://images.blocketcdn.se/dynamic/default/item/25235286/e4dac12f-562b-46b8-a1d1-14c42ff83f02",
+  "https://images.blocketcdn.se/dynamic/default/item/25235286/637018ad-7db3-478c-9833-3cbd12dbebfd",
+  "https://images.blocketcdn.se/dynamic/default/item/25235286/062bba0c-adb8-4367-aa85-5d57b9dcdb03",
+  "https://images.blocketcdn.se/dynamic/default/item/25235286/723fd0f7-4994-4a04-9b06-4e9dc3b3df78",
+  "https://images.blocketcdn.se/dynamic/default/item/25235286/339fcc5b-ef6e-4656-8c2b-107a441fa74c",
+  "https://images.blocketcdn.se/dynamic/default/item/25235286/37cadde1-feb6-48af-8331-624749f21fb1",
+  "https://images.blocketcdn.se/dynamic/default/item/25235286/c835799f-a3e7-4de2-bca9-0e810e086da6"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.43,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1976,
+   "engine_hours": 180,
+   "engine_hp": 80,
+   "engine_maker": "Honda BF80",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Honda BF80-2017",
+   "engine_year_rejected": 2017,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f9dff26d3c856682"
+ },
+ "location": "Täby",
+ "lon": 18.11,
+ "make": "Uttern",
+ "max_speed": 22,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 610,
+  "fetched_ts": 1790522951649,
+  "text_sha": "f9dff26d3c856682"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Bredd": "250 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "65 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "630",
+  "Modellår": "1976",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Honda BF80",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "4",
+  "Toppfart": "22 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "1 100 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25235286",
+ "width_cm": 250,
+ "year": 1976
+}

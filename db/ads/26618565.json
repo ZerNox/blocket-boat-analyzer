@@ -7,6 +7,8 @@
   "boat_year": 1993,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -40,8 +42,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Gammal klassisk Uttern 5000 HT till salu",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26618565/07f9e613-f95e-455b-a456-7b416b51ca95",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.31611,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26618565/07f9e613-f95e-455b-a456-7b416b51ca95",
+  "https://images.blocketcdn.se/dynamic/default/item/26618565/1299808c-6759-4865-af9c-5754affc3a1b",
+  "https://images.blocketcdn.se/dynamic/default/item/26618565/cbfa3358-836c-4759-80c1-1195668b1087",
+  "https://images.blocketcdn.se/dynamic/default/item/26618565/afedfa2d-2733-450c-a151-8ad010767601",
+  "https://images.blocketcdn.se/dynamic/default/item/26618565/f97b518a-4323-49ad-bfae-8b0e707af64f",
+  "https://images.blocketcdn.se/dynamic/default/item/26618565/74accf78-983a-433a-8c74-ef9ab2ce0de4"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.32,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -71,12 +81,13 @@
   "text_sha": "5a4b56ee78e42cee"
  },
  "location": "Stockholm",
- "lon": 18.01442,
+ "lon": 18.01,
  "make": "Uttern",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 521,
   "fetched_ts": 1790508827936,
@@ -108,7 +119,7 @@
   "Toppfart": "25 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26618565",
  "width_cm": 205,
  "year": 1993

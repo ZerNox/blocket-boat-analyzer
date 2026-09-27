@@ -1,0 +1,96 @@
+{
+ "ad_id": 25374098,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785859573000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1990,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är från ca 1985–1990 och fungerar fint att köra med.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Inklusive båtkärra/trailer",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "när båten ligger i sjön. Ruffen i fören kan enkelt göras om till en bekväm sovplats med hjälp av iläggssk",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds Camping -76 Yamaha tvåtakts 50hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25374098/02f9a206-aa81-4174-9a29-2636dfb0d02b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25374098/02f9a206-aa81-4174-9a29-2636dfb0d02b",
+  "https://images.blocketcdn.se/dynamic/default/item/25374098/4913fbda-5408-4020-b503-39d8f9985408",
+  "https://images.blocketcdn.se/dynamic/default/item/25374098/c62b0f98-a742-448d-b1ff-1bfda4838f17",
+  "https://images.blocketcdn.se/dynamic/default/item/25374098/45e155ed-5621-4d92-889c-7bf32d3b73c5",
+  "https://images.blocketcdn.se/dynamic/default/item/25374098/9557ff1d-ddc0-4b99-a88b-7f3ca4e46b75",
+  "https://images.blocketcdn.se/dynamic/default/item/25374098/c7f425dd-93c6-4d0f-a510-4d8ca7b05555",
+  "https://images.blocketcdn.se/dynamic/default/item/25374098/6c43df38-ad32-459b-a758-661fc598744e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.34,
+ "length_ft": 19,
+ "location": "Djurhamn",
+ "lon": 18.73,
+ "make": "Ryds",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 480,
+  "fetched_ts": 1790522975588,
+  "text_sha": "a97c0e02d5d6523c"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "Camping",
+  "Modellår": "1976",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25374098",
+ "width_cm": 220,
+ "year": 1976
+}

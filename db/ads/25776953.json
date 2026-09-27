@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Confibra 510 WA",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25776953/ec214f3b-5f86-4710-b243-3b6d8ed8569f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.31167,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25776953/ec214f3b-5f86-4710-b243-3b6d8ed8569f",
+  "https://images.blocketcdn.se/dynamic/default/item/25776953/6897b63f-5c16-4cc4-a304-8ccf20cbdd6f",
+  "https://images.blocketcdn.se/dynamic/default/item/25776953/b15b7c5f-5222-4530-979d-59e932dfdbfc",
+  "https://images.blocketcdn.se/dynamic/default/item/25776953/706184b9-38cb-4657-92bf-7454ac98defa",
+  "https://images.blocketcdn.se/dynamic/default/item/25776953/54deba1a-b2fc-4e00-b73a-59b457b1e416",
+  "https://images.blocketcdn.se/dynamic/default/item/25776953/5ddf7ceb-93ee-4ea4-b663-a8dcfd522f02"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.31,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +76,13 @@
   "text_sha": "6896743024c94dbb"
  },
  "location": "Kristinehamn",
- "lon": 13.93644,
+ "lon": 13.94,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 191,
   "fetched_ts": 1790508184577,
@@ -100,7 +111,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25776953",
  "width_cm": 0,
  "year": 2006

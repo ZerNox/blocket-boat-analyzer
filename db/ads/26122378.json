@@ -7,6 +7,8 @@
   "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Terhi 475 Twin C",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26122378/d8168ab6-af19-41eb-a875-5bcb3e06a7ec",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.69234,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26122378/d8168ab6-af19-41eb-a875-5bcb3e06a7ec",
+  "https://images.blocketcdn.se/dynamic/default/item/26122378/a245fc54-fc0b-4926-bf3f-215abf38f915",
+  "https://images.blocketcdn.se/dynamic/default/item/26122378/ba45c884-7a0e-4f85-af21-f70067983063",
+  "https://images.blocketcdn.se/dynamic/default/item/26122378/aff8eda0-92dd-4096-a185-72a5b59d3388"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.69,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +68,13 @@
   "text_sha": "6158c252b0081f03"
  },
  "location": "Grebbestad",
- "lon": 11.19342,
+ "lon": 11.19,
  "make": "Terhi",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790508472087,
@@ -91,7 +100,7 @@
   "Märke": "Terhi",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26122378",
  "width_cm": 185,
  "year": 2016

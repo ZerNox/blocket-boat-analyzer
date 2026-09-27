@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -46,8 +48,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Campingbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25374023/efcaabaf-edca-41e9-98cc-293c19c8ef34",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.60671,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25374023/efcaabaf-edca-41e9-98cc-293c19c8ef34",
+  "https://images.blocketcdn.se/dynamic/default/item/25374023/d36aa198-4027-47c5-ac59-d6a5c0a58690",
+  "https://images.blocketcdn.se/dynamic/default/item/25374023/fb79121f-a7cc-4139-9279-5e899d37aeaa"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.61,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -78,12 +85,13 @@
   "text_sha": "fa63b17e243f2eb9"
  },
  "location": "Norrköping",
- "lon": 16.24148,
+ "lon": 16.24,
  "make": "Övriga",
  "max_speed": 25,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 365,
   "fetched_ts": 1790507817641,
@@ -111,7 +119,7 @@
   "Toppfart": "25 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25374023",
  "width_cm": 0,
  "year": 1980

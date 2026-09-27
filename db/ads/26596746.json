@@ -1,0 +1,125 @@
+{
+ "ad_id": 26596746,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789411517000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 1976,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Finmar 17",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26596746/ad014583-dbfe-4f04-86e2-c28283bef4bb",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26596746/ad014583-dbfe-4f04-86e2-c28283bef4bb",
+  "https://images.blocketcdn.se/dynamic/default/item/26596746/08478a90-28e7-4888-95d0-61368d838f6a",
+  "https://images.blocketcdn.se/dynamic/default/item/26596746/77222611-e5f4-4258-af8f-06869f510ab9",
+  "https://images.blocketcdn.se/dynamic/default/item/26596746/913b4df5-71f1-43df-98de-ed496c1ab48d",
+  "https://images.blocketcdn.se/dynamic/default/item/26596746/c69abe8f-62f9-4916-877b-e8256843c9bd"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.6,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1976,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5710d120c43ab729"
+ },
+ "location": "Västerås",
+ "lon": 16.61,
+ "make": "Finnmaster",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790523191900,
+  "text_sha": "5710d120c43ab729"
+ },
+ "price": 9000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modellår": "1976",
+  "Märke": "Finnmaster",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26596746",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "bcc33f576e171301",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "brand": null,
+   "engine_photos": [],
+   "four_stroke": null,
+   "hp": null,
+   "photo": null,
+   "text_seen": null
+  },
+  "tasks": [
+   "hp"
+  ]
+ },
+ "width_cm": 0,
+ "year": 1976
+}

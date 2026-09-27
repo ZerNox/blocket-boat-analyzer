@@ -1,0 +1,122 @@
+{
+ "ad_id": 25464893,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786031924000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mariner 4-takt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1996,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "OBS trailer ingår ej, möjlighet att lyfta över till egen trailer finns.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Finnmaster / Mariner 50 hk 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25464893/bc4684b4-4dbd-47c1-b3cd-dd61458919b3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25464893/bc4684b4-4dbd-47c1-b3cd-dd61458919b3",
+  "https://images.blocketcdn.se/dynamic/default/item/25464893/636ab26c-6b1e-4171-a712-5fe953d604ea",
+  "https://images.blocketcdn.se/dynamic/default/item/25464893/dcb1f6a8-4a74-4890-8f3a-00486fd4c18b",
+  "https://images.blocketcdn.se/dynamic/default/item/25464893/9a1deb4d-b39a-490b-bb43-9cc94caf7263",
+  "https://images.blocketcdn.se/dynamic/default/item/25464893/01b467a2-275e-48b4-a37f-f138336d2fcd",
+  "https://images.blocketcdn.se/dynamic/default/item/25464893/4f3a8eda-615e-4676-9b11-30a41f86af72",
+  "https://images.blocketcdn.se/dynamic/default/item/25464893/4fe5230d-9aeb-4bac-a716-f2b55c2dbff4",
+  "https://images.blocketcdn.se/dynamic/default/item/25464893/8bafc48a-da10-4fed-bc9f-60ee6667453c"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.1,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1996,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6e2f0c8dc4758360"
+ },
+ "location": "Ödsmål",
+ "lon": 11.89,
+ "make": "Finnmaster",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 170,
+  "fetched_ts": 1790523001169,
+  "text_sha": "6e2f0c8dc4758360"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "570",
+  "Modellår": "1996",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mariner 4-takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnmaster",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25464893",
+ "width_cm": 0,
+ "year": 1996
+}

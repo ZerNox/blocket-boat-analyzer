@@ -7,6 +7,8 @@
   "boat_year": 2015,
   "boat_year_source": "spec",
   "engine_hours": 400,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,23 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 535DL",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22925016/c168cc62-1666-45a5-8774-db9a0138dc18",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.29627,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22925016/c168cc62-1666-45a5-8774-db9a0138dc18",
+  "https://images.blocketcdn.se/dynamic/default/item/22925016/e15d5578-85d3-4804-89f9-f3e109d3491a",
+  "https://images.blocketcdn.se/dynamic/default/item/22925016/41e5302a-d67f-4bee-8f06-6542827fea43",
+  "https://images.blocketcdn.se/dynamic/default/item/22925016/187529fb-0085-4a16-9f94-8a21aeb4166a",
+  "https://images.blocketcdn.se/dynamic/default/item/22925016/4fed8ae6-7b7f-4d1d-9b28-ccb59066efcf",
+  "https://images.blocketcdn.se/dynamic/default/item/22925016/217f4bbc-a736-4439-a0ba-aaa6439edea1",
+  "https://images.blocketcdn.se/dynamic/default/item/22925016/02e60a85-557b-4ab7-ad54-3db2e1cb3420",
+  "https://images.blocketcdn.se/dynamic/default/item/22925016/a8950ab1-c5bc-4bf4-b501-e2bdc793551f",
+  "https://images.blocketcdn.se/dynamic/default/item/22925016/27ff28c6-428a-45b2-be8f-3f1e6f23ab8b",
+  "https://images.blocketcdn.se/dynamic/default/item/22925016/b893f4cf-f728-4b2b-9c08-bb998db10072",
+  "https://images.blocketcdn.se/dynamic/default/item/22925016/e6faae3a-be2a-441b-8152-06412a58f133",
+  "https://images.blocketcdn.se/dynamic/default/item/22925016/a23d2ef0-43d8-43b1-a42e-c2705bc53e40",
+  "https://images.blocketcdn.se/dynamic/default/item/22925016/4b98b014-07bf-4f6a-ac79-81957ee9ec07"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.3,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +83,13 @@
   "text_sha": "156539e54713638a"
  },
  "location": "Vålberg",
- "lon": 13.27895,
+ "lon": 13.28,
  "make": "Ryds",
  "max_speed": 24,
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 309,
   "fetched_ts": 1790507472328,
@@ -99,7 +117,7 @@
   "Toppfart": "24 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/22925016",
  "width_cm": 0,
  "year": 2015

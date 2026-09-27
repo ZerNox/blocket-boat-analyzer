@@ -7,6 +7,8 @@
   "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15,
+  "engine_hp_source": "llm",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Stinger",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25326154/269c6628-b403-4bb2-a23a-1805c722d368",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.28273,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25326154/269c6628-b403-4bb2-a23a-1805c722d368",
+  "https://images.blocketcdn.se/dynamic/default/item/25326154/f0b36b43-fe1c-4619-951a-a0490366715c",
+  "https://images.blocketcdn.se/dynamic/default/item/25326154/3eaac399-c2cf-405d-a650-ab0c2e1374c9",
+  "https://images.blocketcdn.se/dynamic/default/item/25326154/e5f1d1ad-b686-4e2b-8d4b-e63cfd19addf",
+  "https://images.blocketcdn.se/dynamic/default/item/25326154/94a84348-d916-403f-a85a-95f7f147be0d",
+  "https://images.blocketcdn.se/dynamic/default/item/25326154/06221fe2-1799-4e5f-9b33-86fbfddaba24"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.28,
  "length_ft": 10,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "20d5f3a01613aa2d"
  },
  "location": "Valdemarsvik",
- "lon": 16.78079,
+ "lon": 16.78,
  "make": "Sting",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 364,
   "fetched_ts": 1790507761135,
@@ -97,7 +108,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "1 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25326154",
  "width_cm": 0,
  "year": 2010

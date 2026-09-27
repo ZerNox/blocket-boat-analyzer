@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bellona 16, Yamaha 70hk.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25717313/53f7239e-7c28-42f5-9df7-c6a105b3499f",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.28581,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25717313/53f7239e-7c28-42f5-9df7-c6a105b3499f",
+  "https://images.blocketcdn.se/dynamic/default/item/25717313/4730d60c-f313-426f-825a-f447ff0f8461"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.29,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +66,13 @@
   "text_sha": "f7b73f7206427af7"
  },
  "location": "Sturefors",
- "lon": 15.75634,
+ "lon": 15.76,
  "make": "Bella",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 180,
   "fetched_ts": 1790508123722,
@@ -90,7 +97,7 @@
   "Märke": "Bella",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25717313",
  "width_cm": 0,
  "year": 1990

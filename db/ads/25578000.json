@@ -1,0 +1,99 @@
+{
+ "ad_id": 25578000,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786358649000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2002,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo Penta (VP) 4.3 GL",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2015,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är en pålitlig Volvo Penta 4.3 GL och drevet är av nyare årsmodell än motorn, utbytt ca 2015.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Utrustad med både Biminitop (perfekt som solskydd på heta sommardagar) och ett vanligt kapell.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "I den vackra förarmiljön med klassisk träratt finns även moderna inslag som en nyare Garmin-plotter för smidig navigeri…",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Tillfälle! Välvårdad och unikt fullteakad Maxi 1 – 2002",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25578000/c6e2bc4b-6781-40b8-83e5-7e4cb6c8ff06",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25578000/c6e2bc4b-6781-40b8-83e5-7e4cb6c8ff06",
+  "https://images.blocketcdn.se/dynamic/default/item/25578000/5873e65a-fa3c-48a6-89d1-02c2fe5c3688",
+  "https://images.blocketcdn.se/dynamic/default/item/25578000/7a373832-d4ec-4b16-9c4c-d51fc74a2e18",
+  "https://images.blocketcdn.se/dynamic/default/item/25578000/be936fde-eaa5-4cf7-bee8-849f44d1f184",
+  "https://images.blocketcdn.se/dynamic/default/item/25578000/3260c273-e4b1-4260-9ddd-dbd2682f0eab"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.1,
+ "length_ft": 21,
+ "location": "Nösund",
+ "lon": 11.53,
+ "make": "Maxi",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 1486,
+  "fetched_ts": 1790523027651,
+  "text_sha": "26218f86f98d59ca"
+ },
+ "price": 195000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 195000
+  }
+ ],
+ "specs": {
+  "Bredd": "250 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "blå",
+  "Längd i fot": "21 fot",
+  "Modell": "1",
+  "Modellår": "2002",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo Penta (VP) 4.3 GL",
+  "Motortyp": "Inombordare",
+  "Märke": "Maxi",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "35 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "1 100 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25578000",
+ "width_cm": 250,
+ "year": 2002
+}

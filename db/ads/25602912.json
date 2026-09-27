@@ -1,0 +1,105 @@
+{
+ "ad_id": 25602912,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788508276000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 2010,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Terhi 385 fiskebåt roddbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25602912/46031ba9-1e28-4dea-8e9d-ca98c2176577",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25602912/46031ba9-1e28-4dea-8e9d-ca98c2176577",
+  "https://images.blocketcdn.se/dynamic/default/item/25602912/1d7a6bb8-5c98-4b22-9874-4a5c48b97a76",
+  "https://images.blocketcdn.se/dynamic/default/item/25602912/c6631fd6-f4ca-47dc-8a53-5704640298d8",
+  "https://images.blocketcdn.se/dynamic/default/item/25602912/a6e0e653-9651-4822-a869-3a937764cea0",
+  "https://images.blocketcdn.se/dynamic/default/item/25602912/8d387525-35cb-4b5b-b855-7f729b45e03c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.65,
+ "length_ft": 12,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2010,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2dcdbef2882d0a65"
+ },
+ "location": "Sandviken",
+ "lon": 16.69,
+ "make": "Terhi",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 235,
+  "fetched_ts": 1790520737428,
+  "text_sha": "2dcdbef2882d0a65"
+ },
+ "price": 14500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 14500
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "12 fot",
+  "Modellår": "2010",
+  "Märke": "Terhi",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "90 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25602912",
+ "width_cm": 150,
+ "year": 2010
+}

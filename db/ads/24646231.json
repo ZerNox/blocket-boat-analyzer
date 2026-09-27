@@ -1,12 +1,14 @@
 {
  "ad_id": 24646231,
  "boat_class": "Styrpulpetbåt",
- "changed_ts": 1788704951000,
+ "changed_ts": 1790510191000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2023,
   "boat_year_source": "spec",
   "engine_hours": 10,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha F20GEPL",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -29,8 +31,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster XSR säljes",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24646231/1f02c75b-5fd6-457e-a3ac-c16c6711588e",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.38203,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24646231/1f02c75b-5fd6-457e-a3ac-c16c6711588e",
+  "https://images.blocketcdn.se/dynamic/default/item/24646231/c9b06439-33d2-48e6-a094-7ffd5d64085d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.38,
  "length_ft": 137,
  "llm": {
   "at": "2026-09-27",
@@ -60,15 +66,16 @@
   "text_sha": "1cb75bd80b73d52d"
  },
  "location": "Stocksund",
- "lon": 18.07591,
+ "lon": 18.08,
  "make": "Buster",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 245,
-  "fetched_ts": 1790507611929,
+  "fetched_ts": 1790520640579,
   "text_sha": "1cb75bd80b73d52d"
  },
  "price": 95000,
@@ -95,7 +102,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "210 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24646231",
  "width_cm": 176,
  "year": 2023

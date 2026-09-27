@@ -7,6 +7,8 @@
   "boat_year": 2014,
   "boat_year_source": "spec",
   "engine_hours": 486,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -43,8 +45,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Linder Arkip 460",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25829602/3e830e16-78ab-402c-abde-2c90634425f5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.52502,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25829602/3e830e16-78ab-402c-abde-2c90634425f5",
+  "https://images.blocketcdn.se/dynamic/default/item/25829602/7c164322-3656-433a-9a6c-ca9d50caf286",
+  "https://images.blocketcdn.se/dynamic/default/item/25829602/6a39f4a3-aa6d-4d4a-bb03-eb69bcbb708a",
+  "https://images.blocketcdn.se/dynamic/default/item/25829602/ddda3589-b97d-4803-9b39-b059bfe31969",
+  "https://images.blocketcdn.se/dynamic/default/item/25829602/7ed9041c-c21e-4176-a828-f01bb51b8867"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.53,
  "length_ft": 15,
  "llm": {
   "at": "2026-09-27",
@@ -74,12 +83,13 @@
   "text_sha": "7ac0b3c11bf043b4"
  },
  "location": "Tingsryd",
- "lon": 14.9792,
+ "lon": 14.98,
  "make": "Linder",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 380,
   "fetched_ts": 1790508232984,
@@ -104,7 +114,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25829602",
  "width_cm": 0,
  "year": 2014

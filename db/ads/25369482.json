@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 4.5,
+  "engine_hp_source": "llm",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,12 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Askeladden segelbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25369482/12fde0ff-55b0-46b6-83bb-27f1f3e179c1",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.27453,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25369482/12fde0ff-55b0-46b6-83bb-27f1f3e179c1",
+  "https://images.blocketcdn.se/dynamic/default/item/25369482/25c4a817-e66f-4563-923d-7e5eab21dbdd"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.27,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +66,13 @@
   "text_sha": "98a6a78fbd711a4a"
  },
  "location": "Stavsnäs",
- "lon": 18.6759,
+ "lon": 18.68,
  "make": "Askeladden",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 4.5,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 121,
   "fetched_ts": 1790507804016,
@@ -90,7 +97,7 @@
   "Märke": "Askeladden",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25369482",
  "width_cm": 0,
  "year": 1980

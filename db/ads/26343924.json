@@ -7,6 +7,8 @@
   "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": 10,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "parsun",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Komplett Gummibåtspaket med motor och 80km/tim trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26343924/6307f75d-2591-4c47-96bd-9727bb8b52d0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.20563,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26343924/6307f75d-2591-4c47-96bd-9727bb8b52d0",
+  "https://images.blocketcdn.se/dynamic/default/item/26343924/7e1c4df7-beb4-40a7-a68e-7ce2521e275d",
+  "https://images.blocketcdn.se/dynamic/default/item/26343924/c3723936-029a-4420-b33e-1b4e15bf0017",
+  "https://images.blocketcdn.se/dynamic/default/item/26343924/b5454678-2234-4015-adc1-6da681b3cc13",
+  "https://images.blocketcdn.se/dynamic/default/item/26343924/77dad2a6-2111-44b3-85fe-300980e98ffd",
+  "https://images.blocketcdn.se/dynamic/default/item/26343924/2e78057b-b76e-4dc7-bbb1-7c445d7aa050",
+  "https://images.blocketcdn.se/dynamic/default/item/26343924/4d7c9236-a520-4c11-91ae-be408a0a0c74"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.21,
  "length_ft": 12,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +77,13 @@
   "text_sha": "8bbe6620677b94ba"
  },
  "location": "Hammarö",
- "lon": 13.54259,
+ "lon": 13.54,
  "make": "Quicksilver",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1622,
   "fetched_ts": 1790508612592,
@@ -102,7 +114,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "85 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26343924",
  "width_cm": 170,
  "year": 2016

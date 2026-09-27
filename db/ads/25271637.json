@@ -1,0 +1,125 @@
+{
+ "ad_id": 25271637,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785497740000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtvagnen (30 km/h) på bilden ingår.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 565 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Örnvik 565 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25271637/1a963023-cded-4c71-b5ce-0ad651be56df",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25271637/1a963023-cded-4c71-b5ce-0ad651be56df",
+  "https://images.blocketcdn.se/dynamic/default/item/25271637/2573a289-d4d4-41f5-a8af-813067255c21",
+  "https://images.blocketcdn.se/dynamic/default/item/25271637/cc83817c-e1a2-4584-a99f-dad627e8e620",
+  "https://images.blocketcdn.se/dynamic/default/item/25271637/044c72e2-7c28-4da2-808b-77efea8cd47f"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 65.6,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "da61b94cbe49ed6f"
+ },
+ "location": "Luleå",
+ "lon": 22.2,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 120,
+  "fetched_ts": 1790522957124,
+  "text_sha": "da61b94cbe49ed6f"
+ },
+ "price": 52000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 52000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "565 HT",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Plast",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25271637",
+ "width_cm": 0,
+ "year": 1985
+}

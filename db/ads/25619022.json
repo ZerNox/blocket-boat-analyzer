@@ -1,0 +1,86 @@
+{
+ "ad_id": 25619022,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787064184000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1996,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båt incl. trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Crescent 364 RODD",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25619022/f0176f6e-932b-4692-a15a-0b3f3242b6c4",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25619022/f0176f6e-932b-4692-a15a-0b3f3242b6c4",
+  "https://images.blocketcdn.se/dynamic/default/item/25619022/aba8497c-0905-4513-8fe4-1d614bd5ead9",
+  "https://images.blocketcdn.se/dynamic/default/item/25619022/84d32ee6-7252-4fdc-8f2d-9ca11f9015c5",
+  "https://images.blocketcdn.se/dynamic/default/item/25619022/a8b8de6e-944f-4d90-8b1b-3a57b09f2ffb",
+  "https://images.blocketcdn.se/dynamic/default/item/25619022/cb7790da-88bf-4ea1-9323-eb61ab167a9a",
+  "https://images.blocketcdn.se/dynamic/default/item/25619022/18991cd6-26e7-424c-a21a-dc82edec256c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.74,
+ "length_ft": 12,
+ "location": "Västervik",
+ "lon": 16.48,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 139,
+  "fetched_ts": 1790520743029,
+  "text_sha": "e0e5cd54c45dc0f8"
+ },
+ "price": 9950,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9950
+  }
+ ],
+ "specs": {
+  "Bredd": "137 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "vit",
+  "Längd i fot": "12 fot",
+  "Modell": "364 RODD",
+  "Modellår": "1996",
+  "Motor inkluderad": "Nej",
+  "Märke": "Crescent",
+  "Sittplatser": "3",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "65 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25619022",
+ "width_cm": 137,
+ "year": 1996
+}

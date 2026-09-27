@@ -1,0 +1,136 @@
+{
+ "ad_id": 26178904,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790277620000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercruiser",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod som visar hastighet, karta med mera",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Finns en minimal läcka i servostyrningen, det är funktionen som gör ratten mjukare när man svänger.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Stereo med tillhörande högtalare",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Inkl Rejäl trailer",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "En rymlig och uppskattad daycruiser som passar perfekt för skärgårdsliv, bad, fiske och weekendturer. Båt",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Maxum 2300 SC - MerCruiser 5.7 V8 - Inkl Rejäl trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26178904/3ae619b7-575a-439d-9284-db37b95e75dd",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26178904/3ae619b7-575a-439d-9284-db37b95e75dd",
+  "https://images.blocketcdn.se/dynamic/default/item/26178904/f552bd2e-92d4-47bd-81cd-6a4299a0c817",
+  "https://images.blocketcdn.se/dynamic/default/item/26178904/a5732faa-28e4-42d4-9571-787a352143f9",
+  "https://images.blocketcdn.se/dynamic/default/item/26178904/72cab34a-20cb-43d2-9127-1abb204c4967",
+  "https://images.blocketcdn.se/dynamic/default/item/26178904/7d42b486-e22e-4e5f-ae65-a564f795fb36",
+  "https://images.blocketcdn.se/dynamic/default/item/26178904/91da4a79-04b3-4c78-8310-ac91c6031648",
+  "https://images.blocketcdn.se/dynamic/default/item/26178904/6952f512-37b9-4793-8a7f-df5e136b8b6a",
+  "https://images.blocketcdn.se/dynamic/default/item/26178904/96833601-4de5-4d21-8aa5-33e0caeae7e9",
+  "https://images.blocketcdn.se/dynamic/default/item/26178904/e42d9048-0a59-4a4f-af07-18a4f3df5e1a"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.11,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "MerCruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "included",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e16e9ad9fe506f7a"
+ },
+ "location": "Järna",
+ "lon": 17.56,
+ "make": "Maxum",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 1349,
+  "fetched_ts": 1790523134441,
+  "text_sha": "e16e9ad9fe506f7a"
+ },
+ "price": 99000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 99000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "21 fot",
+  "Modell": "2300 SC - MerCruiser 5.7 V8 - Inkl Rejäl trailer",
+  "Modellår": "2000",
+  "Motortillverkare": "Mercruiser",
+  "Motortyp": "Inombordare",
+  "Märke": "Maxum",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26178904",
+ "width_cm": 0,
+ "year": 2000
+}

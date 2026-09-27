@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 520ST",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25559347/9cdbf2d3-fdc7-41e1-b8bf-2b5dd98a49d3",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.33114,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25559347/9cdbf2d3-fdc7-41e1-b8bf-2b5dd98a49d3",
+  "https://images.blocketcdn.se/dynamic/default/item/25559347/ae5887b7-9b1d-4bff-98fe-dbfed30f78b5",
+  "https://images.blocketcdn.se/dynamic/default/item/25559347/2e0f071f-280f-452e-9731-31fb59192c74",
+  "https://images.blocketcdn.se/dynamic/default/item/25559347/9fe68c99-955d-4bbb-9b38-e3d01993ffda",
+  "https://images.blocketcdn.se/dynamic/default/item/25559347/28e73363-7191-45a7-a5be-2edbf6887d0a",
+  "https://images.blocketcdn.se/dynamic/default/item/25559347/67f4b93f-225f-4790-bef4-3353dcffd94e",
+  "https://images.blocketcdn.se/dynamic/default/item/25559347/3ed0408a-d1e4-455c-8b68-f21dfc2d9540"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.33,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +76,13 @@
   "text_sha": "b9eb34eb9d817211"
  },
  "location": "Gräsö",
- "lon": 18.63382,
+ "lon": 18.63,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 125,
   "fetched_ts": 1790507996273,
@@ -96,7 +108,7 @@
   "Sittplatser": "8",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25559347",
  "width_cm": 0,
  "year": 1980

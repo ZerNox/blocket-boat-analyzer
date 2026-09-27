@@ -1,0 +1,115 @@
+{
+ "ad_id": 26406120,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788804255000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": 821,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercruiser 1,7 L turbodiesel",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Silver Eagle Cabin 650",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26406120/f11e4f93-e0de-497d-8123-4b7f891d07b4",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26406120/f11e4f93-e0de-497d-8123-4b7f891d07b4"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.99,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Inombordare",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "848335b1e62e6c96"
+ },
+ "location": "Muskö",
+ "lon": 18.14,
+ "make": "Silver",
+ "max_speed": 25,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 203,
+  "fetched_ts": 1790520960386,
+  "text_sha": "848335b1e62e6c96"
+ },
+ "price": 199000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 199000
+  }
+ ],
+ "specs": {
+  "Bredd": "240 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Färg": "Aluminiumskrov, vit överbyggnad",
+  "Längd i fot": "21 fot",
+  "Modell": "Silver Eagle Cabin 650",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Mercruiser 1,7 L turbodiesel",
+  "Motortyp": "Inombordare",
+  "Märke": "Silver",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Aluminium",
+  "Sovplatser": "2",
+  "Toppfart": "25 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26406120",
+ "width_cm": 240,
+ "year": 2006
+}

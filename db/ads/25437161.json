@@ -1,0 +1,114 @@
+{
+ "ad_id": 25437161,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785953090000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 115.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell i fint sick omsytt 2025",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Kärra ingår",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Nimo 19 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25437161/41548d02-a940-45f4-a1e0-53179aeb3342",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25437161/41548d02-a940-45f4-a1e0-53179aeb3342",
+  "https://images.blocketcdn.se/dynamic/default/item/25437161/5432b27c-9fb5-4273-9b9a-0b7dd4785155",
+  "https://images.blocketcdn.se/dynamic/default/item/25437161/fdcaa45f-c377-42d7-b1d2-feef8c7e057b",
+  "https://images.blocketcdn.se/dynamic/default/item/25437161/28e346b9-6608-4689-ba46-91087419617b",
+  "https://images.blocketcdn.se/dynamic/default/item/25437161/549cd6f9-c8d2-4969-9b95-321e0638767f",
+  "https://images.blocketcdn.se/dynamic/default/item/25437161/5cafe23b-0843-408d-bd7a-1d02b5a791ea"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.99,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 115,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny reglage 2025",
+   "engine_year_rejected": 2025,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "61e49d16785faddc"
+ },
+ "location": "Jörlanda",
+ "lon": 11.89,
+ "make": "Nimo",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 291,
+  "fetched_ts": 1790520696236,
+  "text_sha": "61e49d16785faddc"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modellår": "1980",
+  "Motortyp": "Utombordare",
+  "Märke": "Nimo",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25437161",
+ "width_cm": 0,
+ "year": 1980
+}

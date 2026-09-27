@@ -7,6 +7,8 @@
   "boat_year": 1951,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 25,
+  "engine_hp_source": "llm",
   "engine_maker": "Volvo Penta MD IIB",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Bohusjulle",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25920916/83d61b26-036c-4e80-8516-6656ba977885",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 55.66226,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25920916/83d61b26-036c-4e80-8516-6656ba977885",
+  "https://images.blocketcdn.se/dynamic/default/item/25920916/b817150c-6821-4c01-8675-6b2f7ec14bf6",
+  "https://images.blocketcdn.se/dynamic/default/item/25920916/60b61b13-e362-4278-aeae-b43f04b9a600",
+  "https://images.blocketcdn.se/dynamic/default/item/25920916/a91305cb-92ab-4990-842f-f032ac664ccf",
+  "https://images.blocketcdn.se/dynamic/default/item/25920916/1f012caa-f21a-4080-a5b7-255ef07cb28d",
+  "https://images.blocketcdn.se/dynamic/default/item/25920916/6c363b7f-ac88-4166-b79e-9398187aa1a2"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.66,
  "length_ft": 24,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +75,13 @@
   "text_sha": "6c453b5bddf304a5"
  },
  "location": "Kivik",
- "lon": 14.21889,
+ "lon": 14.22,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Diesel",
  "motor_size": 25.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 236,
   "fetched_ts": 1790508301955,
@@ -96,7 +107,7 @@
   "Märke": "Övriga",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25920916",
  "width_cm": 285,
  "year": 1951

@@ -1,0 +1,129 @@
+{
+ "ad_id": 26602007,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789456292000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Sista chansen innan vinterförvaringen blir den inte såld ställs den undan till våren.Så nu vart denna båt över tyvärr!b…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Medföljer en fin 80km BRENDERUP 1202R vagnen är precis nydonad med nya promsvajrar nytt fördelningsok bromsbackar spänn…",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Sista chansen innan vintern bad/fiskebåt/trolling",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26602007/52d403c0-e42c-45e3-91bf-6e2f818b87f0",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26602007/52d403c0-e42c-45e3-91bf-6e2f818b87f0",
+  "https://images.blocketcdn.se/dynamic/default/item/26602007/7ca313d6-0d5f-4abd-a81a-53fb97bfa1f6",
+  "https://images.blocketcdn.se/dynamic/default/item/26602007/94fb4d4c-1bb0-4db8-bde9-49c9067e0c1a",
+  "https://images.blocketcdn.se/dynamic/default/item/26602007/71ed0e63-0435-4a71-bcec-39088d08753a",
+  "https://images.blocketcdn.se/dynamic/default/item/26602007/9715f90f-d2bc-4cb1-9f65-9c1e5525db73",
+  "https://images.blocketcdn.se/dynamic/default/item/26602007/e2efe849-6e61-41a6-a095-63a48d1cf30d",
+  "https://images.blocketcdn.se/dynamic/default/item/26602007/a99ef0d7-9b5a-4a0a-90db-9486faa253f2"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 61.72,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a3dd41395cff37d7"
+ },
+ "location": "Särna",
+ "lon": 12.97,
+ "make": "Skibsplast",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1284,
+  "fetched_ts": 1790523194794,
+  "text_sha": "a3dd41395cff37d7"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "Förhytt",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Skibsplast",
+  "Sittplatser": "6",
+  "Sovplatser": "2",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26602007",
+ "width_cm": 200,
+ "year": 1990
+}

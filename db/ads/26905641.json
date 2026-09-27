@@ -7,6 +7,8 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": 84,
+  "engine_hp": 20.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Seafox",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -43,8 +45,21 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 425",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26905641/98ee844d-2305-4f08-b6aa-0986c45a1897",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.88868,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26905641/98ee844d-2305-4f08-b6aa-0986c45a1897",
+  "https://images.blocketcdn.se/dynamic/default/item/26905641/4de88467-0ecc-45c4-a4e2-ea955649ca59",
+  "https://images.blocketcdn.se/dynamic/default/item/26905641/3d99068d-eb95-4021-ba7b-72417ab4345e",
+  "https://images.blocketcdn.se/dynamic/default/item/26905641/6193dfad-3713-4615-b329-4f3096c0d66a",
+  "https://images.blocketcdn.se/dynamic/default/item/26905641/4b123168-ef6c-4c3b-849a-6c9bcd8cdf79",
+  "https://images.blocketcdn.se/dynamic/default/item/26905641/246e0437-9ca3-4479-91e3-67f710588aa6",
+  "https://images.blocketcdn.se/dynamic/default/item/26905641/6462ab79-a7fc-491f-aba9-f9282d6ca579",
+  "https://images.blocketcdn.se/dynamic/default/item/26905641/835e0e82-0cd6-40f4-b864-7e025f4bbe01",
+  "https://images.blocketcdn.se/dynamic/default/item/26905641/ec921c0f-7d31-4c14-ad85-6df48d1bdb20",
+  "https://images.blocketcdn.se/dynamic/default/item/26905641/e2aeefc4-b043-459d-9260-e5eb1fccdf60",
+  "https://images.blocketcdn.se/dynamic/default/item/26905641/5919ffb7-db82-4d3f-a1e8-b93055825c42"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.89,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -75,12 +90,13 @@
   "text_sha": "ffda3e908dac5242"
  },
  "location": "Alingsås",
- "lon": 12.44277,
+ "lon": 12.44,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 20.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 685,
   "fetched_ts": 1790509016339,
@@ -107,7 +123,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26905641",
  "width_cm": 0,
  "year": 1980

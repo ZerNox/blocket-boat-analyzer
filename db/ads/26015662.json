@@ -7,6 +7,8 @@
   "boat_year": 1991,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Ryds 480 ST, Johnson 30 HK, 80-trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26015662/f106254e-393a-4cc0-aa8f-5d118184d6b4",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.40069,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26015662/f106254e-393a-4cc0-aa8f-5d118184d6b4",
+  "https://images.blocketcdn.se/dynamic/default/item/26015662/705971d3-a593-443c-b894-87d5fad7266d",
+  "https://images.blocketcdn.se/dynamic/default/item/26015662/04b83525-e67d-4376-a824-d501f16a9fa6",
+  "https://images.blocketcdn.se/dynamic/default/item/26015662/98ddc0c8-d24f-45be-8a8e-7edaeca91a1c",
+  "https://images.blocketcdn.se/dynamic/default/item/26015662/979d3ae5-81db-497e-a701-1326133d6e0a"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.4,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +75,13 @@
   "text_sha": "38900187cec274ba"
  },
  "location": "Gustafs",
- "lon": 15.65733,
+ "lon": 15.66,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 421,
   "fetched_ts": 1790508392067,
@@ -96,7 +106,7 @@
   "Märke": "Ryds",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26015662",
  "width_cm": 0,
  "year": 1991

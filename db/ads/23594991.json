@@ -1,0 +1,77 @@
+{
+ "ad_id": 23594991,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789585665000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Åror ingår, finns ingen motor eller trailer till båten.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Crescent 445",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23594991/d907fc8f-b499-4a44-83c8-bf4a6c4f1c6d",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23594991/d907fc8f-b499-4a44-83c8-bf4a6c4f1c6d",
+  "https://images.blocketcdn.se/dynamic/default/item/23594991/3cf5278e-2fd6-4ad7-9f02-3ca18715498e"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.06,
+ "length_ft": 15,
+ "location": "Sölvesborg",
+ "lon": 14.55,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Annat",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 176,
+  "fetched_ts": 1790520612145,
+  "text_sha": "358851da15a2607b"
+ },
+ "price": 5500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Nej",
+  "Motortyp": "Annat",
+  "Märke": "Crescent",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/23594991",
+ "width_cm": 0,
+ "year": 1980
+}

@@ -1,0 +1,80 @@
+{
+ "ad_id": 25927021,
+ "boat_class": "Annat",
+ "changed_ts": 1787394214000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 18.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2004,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Tiger F18 2004 med 80 släp",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Tiger F18 2004 med 80 släp",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25927021/2d3eea5c-da1a-4e85-880a-a7f96e903485",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25927021/2d3eea5c-da1a-4e85-880a-a7f96e903485",
+  "https://images.blocketcdn.se/dynamic/default/item/25927021/75d4aa9a-fc02-4b11-85d0-b41679c378a6",
+  "https://images.blocketcdn.se/dynamic/default/item/25927021/fef31be6-598d-4983-bbfb-da0e4e9b472a",
+  "https://images.blocketcdn.se/dynamic/default/item/25927021/672405c2-538f-49f3-8b9a-b72f27a55491"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.73,
+ "length_ft": 18,
+ "location": "Bjärred",
+ "lon": 13.02,
+ "make": "Hobiecat",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 341,
+  "fetched_ts": 1790520862327,
+  "text_sha": "87ba7f50a170edb6"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "Hobie Cat Tiger F18",
+  "Modellår": "2004",
+  "Motor inkluderad": "Nej",
+  "Märke": "Hobiecat",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25927021",
+ "width_cm": 0,
+ "year": 2004
+}

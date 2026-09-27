@@ -1,0 +1,88 @@
+{
+ "ad_id": 21118108,
+ "boat_class": "Annat",
+ "changed_ts": 1789124033000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": 1400,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båt trailer medföljer och är en kraftig traktor trailer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Motorbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21118108/5583b87c-fd17-4221-a200-1c4a875ea953",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21118108/5583b87c-fd17-4221-a200-1c4a875ea953",
+  "https://images.blocketcdn.se/dynamic/default/item/21118108/044ea6bd-3f30-4365-b34d-6a532f85d7f7",
+  "https://images.blocketcdn.se/dynamic/default/item/21118108/c8136513-59f5-4bab-9cba-4d819a5fdde5",
+  "https://images.blocketcdn.se/dynamic/default/item/21118108/dbd7b587-3d75-4d80-9aea-31000ed95880",
+  "https://images.blocketcdn.se/dynamic/default/item/21118108/b534b597-d451-421a-9578-ecef734a6085",
+  "https://images.blocketcdn.se/dynamic/default/item/21118108/76bb67e8-1bdd-4182-8f49-b8daa2fc3a65",
+  "https://images.blocketcdn.se/dynamic/default/item/21118108/4654410d-1953-4337-b56a-3b58eb787160",
+  "https://images.blocketcdn.se/dynamic/default/item/21118108/3afa45cc-2f22-4097-a89e-82bf47a2d12f",
+  "https://images.blocketcdn.se/dynamic/default/item/21118108/8b8c338c-e976-4b18-a311-86bb6e1608a1",
+  "https://images.blocketcdn.se/dynamic/default/item/21118108/057caf84-7487-428a-997d-e367e403ce35",
+  "https://images.blocketcdn.se/dynamic/default/item/21118108/e7124516-f360-462e-b6d5-e6c3c3c5c2f8",
+  "https://images.blocketcdn.se/dynamic/default/item/21118108/7f3052f3-be93-4da8-ab80-d57cf267e411"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 55.54,
+ "length_ft": 26,
+ "location": "Tomelilla",
+ "lon": 13.94,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 793,
+  "fetched_ts": 1790520582448,
+  "text_sha": "6964adfd5a880962"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "26 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Nej",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Typ": "Annat"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/21118108",
+ "width_cm": 0,
+ "year": 1980
+}

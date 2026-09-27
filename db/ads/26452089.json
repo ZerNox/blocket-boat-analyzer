@@ -1,0 +1,107 @@
+{
+ "ad_id": 26452089,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788965578000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Johson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Johnson motorn helrenoverad 2007 Finns arbetsbeskrivning och kvitto på detta.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell saknas.",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "Fin Båtkärra 30 km medföljer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "ra utrymmen . 4 fullängds sovplatser. Dynor i fören är i behov av omklädning. Kapell saknas. Kapellbågar f",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Båt Säljes",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26452089/3d606657-a139-4ad4-a27a-dbfa07c1b103",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26452089/3d606657-a139-4ad4-a27a-dbfa07c1b103",
+  "https://images.blocketcdn.se/dynamic/default/item/26452089/478cd436-1f5e-43ac-b79d-20c99bd91297",
+  "https://images.blocketcdn.se/dynamic/default/item/26452089/810db817-5fe9-41d4-a9ae-d2d4fab642df",
+  "https://images.blocketcdn.se/dynamic/default/item/26452089/93c9e5f7-ae6b-4ed3-b2fc-76506a21ed79",
+  "https://images.blocketcdn.se/dynamic/default/item/26452089/3fa3e922-a420-46b0-9368-9fa04c70cf49",
+  "https://images.blocketcdn.se/dynamic/default/item/26452089/ad388590-1b99-4035-b851-d1887be320b5",
+  "https://images.blocketcdn.se/dynamic/default/item/26452089/77d22085-ff88-41fc-98b4-93cf444c9a00",
+  "https://images.blocketcdn.se/dynamic/default/item/26452089/5d224eaf-7fbe-48ff-9256-54ec82ff4b9b",
+  "https://images.blocketcdn.se/dynamic/default/item/26452089/ae0f009e-d86c-46f0-beef-e03c5e582c58",
+  "https://images.blocketcdn.se/dynamic/default/item/26452089/f8b48c80-a0e0-4376-8062-0b2b85076e95"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.44,
+ "length_ft": 17,
+ "location": "Strängnäs",
+ "lon": 16.86,
+ "make": "Crescent",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 561,
+  "fetched_ts": 1790523172254,
+  "text_sha": "b6e09ed3c4594a7d"
+ },
+ "price": 32000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 32000
+  }
+ ],
+ "specs": {
+  "Bredd": "224 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit/ orange",
+  "Längd i fot": "17 fot",
+  "Modell": "Hardtopp",
+  "Modellår": "1979",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Johson",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26452089",
+ "width_cm": 224,
+ "year": 1979
+}

@@ -7,6 +7,8 @@
   "boat_year": 2005,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Interboat 420 AR",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25725301/48d933fe-dd70-4757-bd29-e9aec8e3cee4",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 65.59561,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25725301/48d933fe-dd70-4757-bd29-e9aec8e3cee4",
+  "https://images.blocketcdn.se/dynamic/default/item/25725301/43cdf2e0-a29e-4d2a-8ba0-8d9686810305",
+  "https://images.blocketcdn.se/dynamic/default/item/25725301/f91cf5cb-01ed-408b-b77e-0a14b2aff38d",
+  "https://images.blocketcdn.se/dynamic/default/item/25725301/f7edfdd5-a3e5-44aa-a2f6-2ea847c0bf89",
+  "https://images.blocketcdn.se/dynamic/default/item/25725301/51b08af0-f563-48cb-a5a0-8a9a0d6338ca",
+  "https://images.blocketcdn.se/dynamic/default/item/25725301/66f1cd88-26eb-4fd8-bfcf-bd456b6b9270"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 65.6,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "754582e7b472580a"
  },
  "location": "Luleå",
- "lon": 22.20186,
+ "lon": 22.2,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 9.899999618530273,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 207,
   "fetched_ts": 1790508136854,
@@ -91,7 +102,7 @@
   "Skrovmaterial": "Annat",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25725301",
  "width_cm": 0,
  "year": 2005

@@ -7,6 +7,8 @@
   "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
   "engine_maker": "Johnsson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -29,8 +31,11 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fiskebåt Isbrytare",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26495966/b22e68eb-b8c6-4012-862b-74ca06e24af0",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.835,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26495966/b22e68eb-b8c6-4012-862b-74ca06e24af0"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.84,
  "length_ft": 23,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +65,13 @@
   "text_sha": "591314049e9faf44"
  },
  "location": "Nynäshamn",
- "lon": 17.82466,
+ "lon": 17.82,
  "make": "Övriga",
  "max_speed": 7,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 316,
   "fetched_ts": 1790508737919,
@@ -98,7 +104,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "2 500 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26495966",
  "width_cm": 250,
  "year": 1995

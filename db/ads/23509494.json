@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 17.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Volvopenta MD7B MS2/120S",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -34,8 +36,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fisher S21 snipa med Styrhytt/akterruff",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23509494/60f24937-d88c-4f8b-ad5c-61f70e9e0fd6",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.04942,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23509494/60f24937-d88c-4f8b-ad5c-61f70e9e0fd6",
+  "https://images.blocketcdn.se/dynamic/default/item/23509494/2a37c7c2-0290-4494-a110-068fe2c91750",
+  "https://images.blocketcdn.se/dynamic/default/item/23509494/50e7e039-642e-424e-9101-cb7822f30638",
+  "https://images.blocketcdn.se/dynamic/default/item/23509494/fd45996d-be4e-4fb8-b211-7635d476f73a",
+  "https://images.blocketcdn.se/dynamic/default/item/23509494/b67ef001-44e8-4f8b-ba58-327bf8339c6f",
+  "https://images.blocketcdn.se/dynamic/default/item/23509494/23e4f859-7f59-46e1-aaf6-d35d42aada19",
+  "https://images.blocketcdn.se/dynamic/default/item/23509494/e4a4234a-3d40-40d2-9511-19d234816028",
+  "https://images.blocketcdn.se/dynamic/default/item/23509494/ccb64d0a-7323-4c93-880a-75d30629f971"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.05,
  "length_ft": 21,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +77,13 @@
   "text_sha": "bbe417e6ce45db87"
  },
  "location": "Hallstavik",
- "lon": 18.61197,
+ "lon": 18.61,
  "make": "Övriga",
  "max_speed": 7,
  "motor_fuel": "Diesel",
  "motor_size": 17.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 741,
   "fetched_ts": 1790507513240,
@@ -104,7 +117,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "800 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23509494",
  "width_cm": 240,
  "year": 1985

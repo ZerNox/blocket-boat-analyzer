@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
   "engine_maker": "Prekins 4.108M",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -29,8 +31,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Nösunds Julle",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26730181/b40b9c90-917a-4f52-b21f-84763e3c02af",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.27805,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26730181/b40b9c90-917a-4f52-b21f-84763e3c02af",
+  "https://images.blocketcdn.se/dynamic/default/item/26730181/7a7d499f-b52e-4a80-82ce-1e72dd595a4a",
+  "https://images.blocketcdn.se/dynamic/default/item/26730181/f162f0a4-2f31-49c9-aa93-93effa838c66",
+  "https://images.blocketcdn.se/dynamic/default/item/26730181/abf572ea-e4ad-4daf-a4c6-d09429def83f",
+  "https://images.blocketcdn.se/dynamic/default/item/26730181/97cd0db3-d30b-43a9-af50-39d6d5d448b0",
+  "https://images.blocketcdn.se/dynamic/default/item/26730181/d72cc9aa-5a22-40bc-a7d5-4756e8eeba0c",
+  "https://images.blocketcdn.se/dynamic/default/item/26730181/d2b239b8-74df-42f3-90be-43c21c72b041"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.28,
  "length_ft": 24,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +71,13 @@
   "text_sha": "cb0f00b65e6bd177"
  },
  "location": "Lysekil",
- "lon": 11.44436,
+ "lon": 11.44,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Diesel",
  "motor_size": 50.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 85,
   "fetched_ts": 1790508896504,
@@ -95,7 +107,7 @@
   "Typ": "Annat",
   "Vikt": "3 500 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26730181",
  "width_cm": 250,
  "year": 1990

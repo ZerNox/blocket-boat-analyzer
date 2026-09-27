@@ -1,0 +1,107 @@
+{
+ "ad_id": 19539882,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786680375000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 6.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Pelican intruder",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/19539882/9db85a1a-e076-494c-8c13-048ea33e2d96",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/19539882/9db85a1a-e076-494c-8c13-048ea33e2d96",
+  "https://images.blocketcdn.se/dynamic/default/item/19539882/c38c27cc-8770-4a6c-b032-7b86a2980ca8",
+  "https://images.blocketcdn.se/dynamic/default/item/19539882/876c0694-582a-4050-96f5-d75180e05eec",
+  "https://images.blocketcdn.se/dynamic/default/item/19539882/096cbf45-edc8-4dc8-8ede-2d917abc3a30",
+  "https://images.blocketcdn.se/dynamic/default/item/19539882/813ed199-52fd-463b-8a72-0abc8f57b009",
+  "https://images.blocketcdn.se/dynamic/default/item/19539882/7aa138f6-4dab-4cd9-8031-f8ff51ebbd93"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.94,
+ "length_ft": 12,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2026,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "960c2b4bbd859e6b"
+ },
+ "location": "Mora",
+ "lon": 14.3,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 674,
+  "fetched_ts": 1790520579990,
+  "text_sha": "960c2b4bbd859e6b"
+ },
+ "price": 12900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12900
+  }
+ ],
+ "specs": {
+  "Bredd": "122 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "12 fot",
+  "Modell": "Pelican intruder",
+  "Modellår": "2026",
+  "Märke": "Övriga",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "57 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/19539882",
+ "width_cm": 122,
+ "year": 2026
+}

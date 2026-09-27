@@ -7,6 +7,8 @@
   "boat_year": 2014,
   "boat_year_source": "spec",
   "engine_hours": 85,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -35,8 +37,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Silver Wolf Avant 60hk Mercury inkl 80km/h Tiki vagn",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25188360/178292f7-ffe8-4f79-a4c1-112407ef3ca4",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 62.9357,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25188360/178292f7-ffe8-4f79-a4c1-112407ef3ca4",
+  "https://images.blocketcdn.se/dynamic/default/item/25188360/7feb8dc5-b3cf-4020-8eae-f1c53cd93762",
+  "https://images.blocketcdn.se/dynamic/default/item/25188360/a88e37b9-6858-47c3-87a2-03841556ccf9",
+  "https://images.blocketcdn.se/dynamic/default/item/25188360/3f2e1433-44fb-4209-903c-b8c141976698",
+  "https://images.blocketcdn.se/dynamic/default/item/25188360/3fb16586-6a0d-49a3-80a6-e49015054563",
+  "https://images.blocketcdn.se/dynamic/default/item/25188360/9eb28005-f9ee-4994-9160-e9254d3e1848"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 62.94,
  "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +76,13 @@
   "text_sha": "e9e4f1c986bfb4cb"
  },
  "location": "Kramfors",
- "lon": 17.79085,
+ "lon": 17.79,
  "make": "Silver",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 378,
   "fetched_ts": 1790507645276,
@@ -101,7 +112,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "480 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25188360",
  "width_cm": 198,
  "year": 2014

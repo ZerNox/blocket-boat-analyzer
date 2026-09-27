@@ -7,6 +7,8 @@
   "boat_year": 2023,
   "boat_year_source": "spec",
   "engine_hours": 450,
+  "engine_hp": 68.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,14 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Finval Rangy 420 Tiller",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26484424/78e766ca-96cc-430c-992f-71451e2c01af",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 56.73364,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26484424/78e766ca-96cc-430c-992f-71451e2c01af",
+  "https://images.blocketcdn.se/dynamic/default/item/26484424/673bde3b-9ba5-458d-bd16-671f5e2cd3d5",
+  "https://images.blocketcdn.se/dynamic/default/item/26484424/b9aaf06e-1813-4f40-bd60-2848de22e363",
+  "https://images.blocketcdn.se/dynamic/default/item/26484424/f10ad688-99ba-4844-81ae-edcf9a833540"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.73,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +73,13 @@
   "text_sha": "6329c75e0d1cec11"
  },
  "location": "Grimslöv",
- "lon": 14.53075,
+ "lon": 14.53,
  "make": "Finval",
  "max_speed": 36,
  "motor_fuel": "Bensin",
  "motor_size": 68.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 158,
   "fetched_ts": 1790508723558,
@@ -98,7 +107,7 @@
   "Toppfart": "36 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26484424",
  "width_cm": 0,
  "year": 2023

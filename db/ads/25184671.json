@@ -7,6 +7,8 @@
   "boat_year": 1987,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 30.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Tohatsu",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -35,8 +37,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Buster med Tohatsu 30hk motor med få gångtimmar",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25184671/a1acb527-68fb-4f0f-a477-c8b58343206d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.62558,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25184671/a1acb527-68fb-4f0f-a477-c8b58343206d",
+  "https://images.blocketcdn.se/dynamic/default/item/25184671/c79575c7-11a6-403d-930f-5f33aea8466a",
+  "https://images.blocketcdn.se/dynamic/default/item/25184671/786db1bb-69a6-4fc7-8419-87c9227ed175",
+  "https://images.blocketcdn.se/dynamic/default/item/25184671/121da177-b219-4b6e-9714-f19253ad5204",
+  "https://images.blocketcdn.se/dynamic/default/item/25184671/e1eef60b-fb3c-4347-8a26-838fce15f641"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.63,
  "length_ft": 13,
  "llm": {
   "at": "2026-09-27",
@@ -66,12 +75,13 @@
   "text_sha": "8c0edf071e678fec"
  },
  "location": "Sigtuna",
- "lon": 17.72649,
+ "lon": 17.73,
  "make": "Buster",
  "max_speed": null,
  "motor_fuel": null,
  "motor_size": 30.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 673,
   "fetched_ts": 1790507644013,
@@ -95,7 +105,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25184671",
  "width_cm": 0,
  "year": 1987

@@ -7,6 +7,8 @@
   "boat_year": 1990,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 2.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mariner",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -29,8 +31,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Crescent 310",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25946002/6bcfd5c3-7731-4725-b1c1-379f67bd6aba",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.71266,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25946002/6bcfd5c3-7731-4725-b1c1-379f67bd6aba",
+  "https://images.blocketcdn.se/dynamic/default/item/25946002/40aa8c78-5da3-45ca-a211-549349d03a1a",
+  "https://images.blocketcdn.se/dynamic/default/item/25946002/71460a27-4229-4a83-9431-9011f5b173a4",
+  "https://images.blocketcdn.se/dynamic/default/item/25946002/9bcea724-8753-480a-9bbf-422d817adb3e",
+  "https://images.blocketcdn.se/dynamic/default/item/25946002/017d5505-2d2a-42d1-b864-fad9422ecd1e",
+  "https://images.blocketcdn.se/dynamic/default/item/25946002/f14f7a0b-0437-4e39-8e23-926af173c428"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.71,
  "length_ft": 10,
  "llm": {
   "at": "2026-09-27",
@@ -60,12 +70,13 @@
   "text_sha": "17891d383aa5332a"
  },
  "location": "Mariestad",
- "lon": 13.86394,
+ "lon": 13.86,
  "make": "Crescent",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 2.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 515,
   "fetched_ts": 1790508321814,
@@ -94,7 +105,7 @@
   "Typ": "Småbåt/Gummibåt",
   "Vikt": "75 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25946002",
  "width_cm": 140,
  "year": 1990

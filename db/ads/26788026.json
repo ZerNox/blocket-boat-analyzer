@@ -7,6 +7,8 @@
   "boat_year": 2001,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury 4takt",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -42,8 +44,17 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Uttern 5412 Exklusive 75hp 4-takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26788026/08a77df3-5a59-4edc-acf6-2475331068d6",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 58.38503,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26788026/08a77df3-5a59-4edc-acf6-2475331068d6",
+  "https://images.blocketcdn.se/dynamic/default/item/26788026/616ca89b-9b4f-46d5-bf31-28288691c053",
+  "https://images.blocketcdn.se/dynamic/default/item/26788026/14585837-9b03-4ab3-a293-d904a52b0108",
+  "https://images.blocketcdn.se/dynamic/default/item/26788026/cb076272-ab1e-4bde-a1fa-79224d99550a",
+  "https://images.blocketcdn.se/dynamic/default/item/26788026/f45a3138-ef43-4e3f-aece-dda513bae300",
+  "https://images.blocketcdn.se/dynamic/default/item/26788026/268e7606-cee2-4f58-80ff-634720ffadf3",
+  "https://images.blocketcdn.se/dynamic/default/item/26788026/c3724b4b-82c1-403f-bc7f-73482e5021c7"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 58.39,
  "length_ft": 18,
  "llm": {
   "at": "2026-09-27",
@@ -73,12 +84,13 @@
   "text_sha": "60f5898ff1fd819a"
  },
  "location": "Vargön",
- "lon": 12.37121,
+ "lon": 12.37,
  "make": "Uttern",
  "max_speed": 34,
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 358,
   "fetched_ts": 1790508940698,
@@ -106,7 +118,7 @@
   "Toppfart": "34 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26788026",
  "width_cm": 0,
  "year": 2001

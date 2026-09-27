@@ -1,0 +1,89 @@
+{
+ "ad_id": 26577827,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789372129000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1998,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Säljer denna pärla då jag saknar båtplats och kärra.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Din Plasteka",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26577827/9934d792-c4a4-4312-b66c-48bebce5d6e1",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26577827/9934d792-c4a4-4312-b66c-48bebce5d6e1",
+  "https://images.blocketcdn.se/dynamic/default/item/26577827/f235b0a4-2de8-40ba-9ee6-41c6b025b043",
+  "https://images.blocketcdn.se/dynamic/default/item/26577827/f7364c13-15fa-467c-9fad-ca63cc248213",
+  "https://images.blocketcdn.se/dynamic/default/item/26577827/ac8360ad-8e8a-47ea-9f59-e2f5dd7d0772",
+  "https://images.blocketcdn.se/dynamic/default/item/26577827/cf473869-f8d2-42b3-a504-fe14fd9c09f8",
+  "https://images.blocketcdn.se/dynamic/default/item/26577827/b75ad50c-2ec6-4992-aed8-4866a11da3cf",
+  "https://images.blocketcdn.se/dynamic/default/item/26577827/74135097-7198-43cc-bc4d-3cd820d204bf",
+  "https://images.blocketcdn.se/dynamic/default/item/26577827/1227a6c5-e042-49f1-9b2e-c03f64b6918f"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.93,
+ "length_ft": 14,
+ "location": "Alingsås",
+ "lon": 12.57,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 276,
+  "fetched_ts": 1790521014064,
+  "text_sha": "2ca9a6adbe371f3d"
+ },
+ "price": 7000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "42",
+  "Modellår": "1998",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26577827",
+ "width_cm": 0,
+ "year": 1998
+}

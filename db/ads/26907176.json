@@ -7,6 +7,8 @@
   "boat_year": 2007,
   "boat_year_source": "spec",
   "engine_hours": 200,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Suzuki DF70TL",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -34,8 +36,13 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpetbåt AMT 170R",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26907176/988518a7-d9d5-48d6-aa81-9554fb3c1f3d",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 60.73573,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26907176/988518a7-d9d5-48d6-aa81-9554fb3c1f3d",
+  "https://images.blocketcdn.se/dynamic/default/item/26907176/b4f9365d-a9b0-4588-942e-66c67bd14597",
+  "https://images.blocketcdn.se/dynamic/default/item/26907176/bc5c3ce4-8b32-4c29-9195-3ac64be5dfb9"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 60.74,
  "length_ft": 16,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +72,13 @@
   "text_sha": "3efad910ccad7bc7"
  },
  "location": "Gävle",
- "lon": 17.40185,
+ "lon": 17.4,
  "make": "AMT",
  "max_speed": 35,
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 222,
   "fetched_ts": 1790509017732,
@@ -99,7 +107,7 @@
   "Toppfart": "35 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26907176",
  "width_cm": 205,
  "year": 2007

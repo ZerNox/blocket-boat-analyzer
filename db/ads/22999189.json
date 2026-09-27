@@ -1,0 +1,123 @@
+{
+ "ad_id": 22999189,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788693915000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": 10,
+  "engine_hp": 2.5,
+  "engine_hp_source": "llm",
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Pioner 8 Mini | Suzuki 2,5 | trailer | År 2021 Pioner 8 Mini är en båt med många användningsområden. Lägg",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2021,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "trailer",
+    "included": true,
+    "year": 2024
+   }
+  },
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Pioner 8 Mini | Suzuki 2,5 | trailer | År 2021",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22999189/29d25343-f569-401a-8fb6-4a8898e5b569",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22999189/29d25343-f569-401a-8fb6-4a8898e5b569",
+  "https://images.blocketcdn.se/dynamic/default/item/22999189/35f25df2-8e21-4275-9f4c-5fbe7fbbe635",
+  "https://images.blocketcdn.se/dynamic/default/item/22999189/817f45b0-04c4-4a43-972d-849958b23a0f",
+  "https://images.blocketcdn.se/dynamic/default/item/22999189/0a5e86ab-5e77-4d88-9367-6a0b56f909db",
+  "https://images.blocketcdn.se/dynamic/default/item/22999189/af66da92-c77f-4047-b91f-70e7e44d2ace",
+  "https://images.blocketcdn.se/dynamic/default/item/22999189/695a6b13-d5eb-4a1e-8ec7-04f91f6aeac6",
+  "https://images.blocketcdn.se/dynamic/default/item/22999189/1ccba78d-5cd1-43c5-ab8d-81142adb44a6",
+  "https://images.blocketcdn.se/dynamic/default/item/22999189/54ea7123-e7c3-493f-875a-fbbbeb3f628c",
+  "https://images.blocketcdn.se/dynamic/default/item/22999189/e0f747ab-0814-440f-9024-99bc91d1670b",
+  "https://images.blocketcdn.se/dynamic/default/item/22999189/f62f8ccf-30db-456c-83f5-5d3d3d3d35a6",
+  "https://images.blocketcdn.se/dynamic/default/item/22999189/d253a8a5-8dc8-4765-8601-48f8046c7695"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 56.15,
+ "length_ft": 8,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2021,
+   "engine_hours": null,
+   "engine_hp": 2.5,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Suzuki 2,5 fyrtakt Max 10 timmar, skick som ny. Nyservad.",
+   "engine_year_rejected": 2023,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6b312051bc1f437b"
+ },
+ "location": "Viken",
+ "lon": 12.59,
+ "make": "Pioner",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 726,
+  "fetched_ts": 1790520599656,
+  "text_sha": "6b312051bc1f437b"
+ },
+ "price": 9999,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9999
+  }
+ ],
+ "specs": {
+  "Bredd": "134 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "8 fot",
+  "Modell": "8 mini",
+  "Modellår": "2021",
+  "Motor inkluderad": "Nej",
+  "Märke": "Pioner",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "54 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/22999189",
+ "width_cm": 134,
+ "year": 2021
+}

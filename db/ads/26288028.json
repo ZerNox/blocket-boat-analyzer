@@ -1,0 +1,98 @@
+{
+ "ad_id": 26288028,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1788459283000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Årsmodell motor 2003 2- takt",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Nästan nytt kapell, målad med färg som är godkänd i alla båtklubbar. hydraulisk styrning och fast bränsle tank.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nästan nytt kapell, målad med färg som är godkänd i alla båtklubbar. hydraulisk styrning och fast bränsle tank.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Örnvik 660",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26288028/1fc7cb06-6ed0-4e8e-b567-08edaa86bb17",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26288028/1fc7cb06-6ed0-4e8e-b567-08edaa86bb17",
+  "https://images.blocketcdn.se/dynamic/default/item/26288028/2f59dfa3-1064-42b2-a55f-a61968e94b31",
+  "https://images.blocketcdn.se/dynamic/default/item/26288028/9079b0e0-92fd-43eb-afd4-5795a30f8639",
+  "https://images.blocketcdn.se/dynamic/default/item/26288028/465be055-3d3d-4b14-911b-f7d8f35a0219",
+  "https://images.blocketcdn.se/dynamic/default/item/26288028/7835defa-b938-4f3d-bcd7-0a288911997f",
+  "https://images.blocketcdn.se/dynamic/default/item/26288028/3f71e144-7714-4c7c-a1f4-cd6980251589",
+  "https://images.blocketcdn.se/dynamic/default/item/26288028/ce880324-c627-4270-a987-1cf9675c5567"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 58.38,
+ "length_ft": 21,
+ "location": "Östra Ryd",
+ "lon": 16.19,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 533,
+  "fetched_ts": 1790523141570,
+  "text_sha": "244222873a0ab309"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "21 fot",
+  "Modell": "660",
+  "Modellår": "1977",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sovplatser": "4",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26288028",
+ "width_cm": 220,
+ "year": 1977
+}

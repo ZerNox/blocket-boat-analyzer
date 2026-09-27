@@ -1,0 +1,123 @@
+{
+ "ad_id": 25397784,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1785855063000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Hamnkapell ok skick samt bimnitopp i fint skick medföljer.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Står på brenderup boogietrailer 30km/h med avtagbar belysning och däck i bra skick.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Wellcraft 210 XL daycruiser\nSjösatt för i år och bara ut att åka! \nVälomhändertagen, vinterförvar",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Wellcraft 210 XL daycruiser",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25397784/02b7a34e-2230-465f-99b6-1ff178373ffd",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25397784/02b7a34e-2230-465f-99b6-1ff178373ffd",
+  "https://images.blocketcdn.se/dynamic/default/item/25397784/854ae273-c404-48f5-a8d9-9d830af758ec",
+  "https://images.blocketcdn.se/dynamic/default/item/25397784/1d379e9d-c81c-4e58-8ed0-0e3f3944ce60",
+  "https://images.blocketcdn.se/dynamic/default/item/25397784/f187de66-4e66-4932-b9b5-733fc589b7ec",
+  "https://images.blocketcdn.se/dynamic/default/item/25397784/5c0ac1d0-0907-4825-a9b8-6f6a14f30b5d",
+  "https://images.blocketcdn.se/dynamic/default/item/25397784/c6a71e3b-22dc-43e1-b36c-6fed04c0e309",
+  "https://images.blocketcdn.se/dynamic/default/item/25397784/c4b12b0f-3905-4b6f-9af3-84a9b2e8aeff",
+  "https://images.blocketcdn.se/dynamic/default/item/25397784/cdc5c2a9-0b64-4726-9f98-899f53618ec2"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.61,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1989,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "5.0 mercruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "5.0 mercruiser v8 med elektronisk silent choice, alpha one drev.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2a184ead9a449a09"
+ },
+ "location": "Storvik",
+ "lon": 16.45,
+ "make": "Wellcraft",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 396,
+  "fetched_ts": 1790522980211,
+  "text_sha": "2a184ead9a449a09"
+ },
+ "price": 69000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "21 fot",
+  "Modell": "210 XL",
+  "Modellår": "1989",
+  "Motortyp": "Inombordare",
+  "Märke": "Wellcraft",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25397784",
+ "width_cm": 0,
+ "year": 1989
+}

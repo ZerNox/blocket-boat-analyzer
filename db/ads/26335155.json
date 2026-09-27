@@ -7,6 +7,8 @@
   "boat_year": 1985,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 42,
+  "engine_hp_source": "llm",
   "engine_maker": "Solé Mini 44",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -38,8 +40,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Stålbåt. Ny motor. Höstpris.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26335155/c96d6e4b-2c23-4bc7-8f3e-c97e32aaf8e5",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.65791,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26335155/c96d6e4b-2c23-4bc7-8f3e-c97e32aaf8e5",
+  "https://images.blocketcdn.se/dynamic/default/item/26335155/2e67e072-cfe1-4245-a9ef-f0060a3a796d",
+  "https://images.blocketcdn.se/dynamic/default/item/26335155/fa9d6d39-989c-4a2c-8181-a602d6c5f09a",
+  "https://images.blocketcdn.se/dynamic/default/item/26335155/d635b899-699c-4946-be1a-d5b1aa72e8b0",
+  "https://images.blocketcdn.se/dynamic/default/item/26335155/f6369a00-0e1e-4949-8836-e30f1a716a39",
+  "https://images.blocketcdn.se/dynamic/default/item/26335155/910498ea-3858-4a72-b54a-14d1ce12195c"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.66,
  "length_ft": 31,
  "llm": {
   "at": "2026-09-27",
@@ -69,12 +79,13 @@
   "text_sha": "0604b525848f18dd"
  },
  "location": "Arvika",
- "lon": 12.57942,
+ "lon": 12.58,
  "make": "Övriga",
  "max_speed": null,
  "motor_fuel": "Diesel",
  "motor_size": 42.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 975,
   "fetched_ts": 1790508608491,
@@ -101,7 +112,7 @@
   "Skrovmaterial": "Annat",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26335155",
  "width_cm": 330,
  "year": 1985

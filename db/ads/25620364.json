@@ -7,6 +7,8 @@
   "boat_year": 1992,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 15.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnson",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -34,8 +36,16 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Båt, utombordare & trailer i paket",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25620364/32df2f50-5b3d-4d05-b153-a54390c64fc2",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.58502,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25620364/32df2f50-5b3d-4d05-b153-a54390c64fc2",
+  "https://images.blocketcdn.se/dynamic/default/item/25620364/fd7debd0-8c04-4506-9e07-d96acf377a20",
+  "https://images.blocketcdn.se/dynamic/default/item/25620364/40e2ae35-59c5-40e2-94e4-ebe35ae3a830",
+  "https://images.blocketcdn.se/dynamic/default/item/25620364/312dbb54-ed99-421f-877a-71ac5dccffc5",
+  "https://images.blocketcdn.se/dynamic/default/item/25620364/bf677a57-9716-434b-a9ba-79b5c0bfa250",
+  "https://images.blocketcdn.se/dynamic/default/item/25620364/6a6a40e3-c5c8-4717-a6c9-75eb0a3b5fba"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.59,
  "length_ft": 14,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +75,13 @@
   "text_sha": "a4b94d238b300212"
  },
  "location": "Molkom",
- "lon": 13.8501,
+ "lon": 13.85,
  "make": "Ryds",
  "max_speed": null,
  "motor_fuel": "Bensin",
  "motor_size": 15.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 190,
   "fetched_ts": 1790508054884,
@@ -96,7 +107,7 @@
   "Märke": "Ryds",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25620364",
  "width_cm": 0,
  "year": 1992

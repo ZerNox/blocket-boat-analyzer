@@ -7,6 +7,8 @@
   "boat_year": 2007,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
   "engine_maker": "Evinrude e-tec",
   "engine_stroke": 2,
   "engine_type": "outboard",
@@ -28,6 +30,10 @@
     "kmh": 30
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ideal 550MC hyttbåt",
+  "hull_source": "rule:model",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -35,13 +41,26 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori",
+  "Ideal 550"
+ ],
  "heading": "Ideal 550MC hyttbåt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25476079/61282fdb-941c-4d35-8239-7d7ff2ca8e01",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 59.14607,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25476079/61282fdb-941c-4d35-8239-7d7ff2ca8e01",
+  "https://images.blocketcdn.se/dynamic/default/item/25476079/5159b27c-3bd1-4916-a4e2-3d86cca6a69e",
+  "https://images.blocketcdn.se/dynamic/default/item/25476079/b42036ab-6a1c-42dd-900d-d919d8e191e3",
+  "https://images.blocketcdn.se/dynamic/default/item/25476079/b5988bfa-d626-44fb-8522-4155ebd7205f",
+  "https://images.blocketcdn.se/dynamic/default/item/25476079/98fb3711-5e36-4334-85d5-1a110438234e",
+  "https://images.blocketcdn.se/dynamic/default/item/25476079/a0c3150a-41d1-47d6-ad72-7e8c21b6984d",
+  "https://images.blocketcdn.se/dynamic/default/item/25476079/887d7ae7-705b-492c-94f8-b599289b58d7"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 59.15,
  "length_ft": 18,
  "location": "Dalarö",
- "lon": 18.37243,
+ "lon": 18.37,
  "make": "Ideal",
  "max_speed": 23,
  "motor_fuel": "Bensin",

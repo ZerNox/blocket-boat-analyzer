@@ -1,0 +1,98 @@
+{
+ "ad_id": 26891875,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1790411161000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": "Volvo Penta Ad41 med ett 290 drev kopplat. Den säljs tillsammans med en 30km/h vagn som är kraftig och passar bra till",
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1977,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellet är helt å fint",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Oxelö 30",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26891875/869b5457-a4fa-4c07-b7e5-41d75dd1a775",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26891875/869b5457-a4fa-4c07-b7e5-41d75dd1a775",
+  "https://images.blocketcdn.se/dynamic/default/item/26891875/07021f59-7752-4de9-bd41-b013eb4a904e",
+  "https://images.blocketcdn.se/dynamic/default/item/26891875/dd4e6156-dc19-4528-b394-6eee6c4d9760",
+  "https://images.blocketcdn.se/dynamic/default/item/26891875/208d177d-b727-4715-bb26-83d0afc9fbd5",
+  "https://images.blocketcdn.se/dynamic/default/item/26891875/61360706-946a-4804-8eaf-7a94d9b8d5e7",
+  "https://images.blocketcdn.se/dynamic/default/item/26891875/84320eb3-1762-4884-8332-e7cc83c4f7fe",
+  "https://images.blocketcdn.se/dynamic/default/item/26891875/154b4c74-7db9-4c6f-9568-8987611f4a6e",
+  "https://images.blocketcdn.se/dynamic/default/item/26891875/85a7c277-18de-4fa0-a3e1-bee545a52b60",
+  "https://images.blocketcdn.se/dynamic/default/item/26891875/51b194f4-48ed-4845-a5b4-aa2a8e9b3cab",
+  "https://images.blocketcdn.se/dynamic/default/item/26891875/0ec998ea-6b85-46eb-b915-85e7e1b8e458",
+  "https://images.blocketcdn.se/dynamic/default/item/26891875/8e347e71-89a6-49fa-a2b6-ded56188807e",
+  "https://images.blocketcdn.se/dynamic/default/item/26891875/51120ea3-5e6d-4077-92d2-2206a10f1c2b",
+  "https://images.blocketcdn.se/dynamic/default/item/26891875/d4a92a03-01ea-4050-b9ac-c90e99c8a9c7",
+  "https://images.blocketcdn.se/dynamic/default/item/26891875/1c3d9c1b-da89-45b9-830d-1b6abbdf9512"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.34,
+ "length_ft": 30,
+ "location": "Gustavsberg",
+ "lon": 18.43,
+ "make": "Oxelö",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 1567,
+  "fetched_ts": 1790521078784,
+  "text_sha": "149f61c85738692c"
+ },
+ "price": 7500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7500
+  }
+ ],
+ "specs": {
+  "Bredd": "306 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "30 fot",
+  "Modell": "30",
+  "Modellår": "1977",
+  "Märke": "Oxelö",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "6",
+  "Typ": "Hyttbåt",
+  "Vikt": "3 500 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/26891875",
+ "width_cm": 306,
+ "year": 1977
+}

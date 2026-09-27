@@ -1,0 +1,98 @@
+{
+ "ad_id": 25808465,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787000322000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1982,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1982,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod ingår.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Behöver lite småfix (Kapellet).",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Exklusive trailer.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T14:48:38+00:00",
+ "heading": "Motorbåt Askeladden 15",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25808465/346348fd-544d-4ebe-9f53-b0c06f783e80",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25808465/346348fd-544d-4ebe-9f53-b0c06f783e80",
+  "https://images.blocketcdn.se/dynamic/default/item/25808465/5871e162-c368-4978-b071-1fb4774a33b4",
+  "https://images.blocketcdn.se/dynamic/default/item/25808465/11ce83a0-7c5d-4f70-aa42-ab2e3568f27b",
+  "https://images.blocketcdn.se/dynamic/default/item/25808465/d3af04a2-5d8c-44b7-93c6-85102e872cc9",
+  "https://images.blocketcdn.se/dynamic/default/item/25808465/fb0024c5-477b-4b6c-a0a5-99482bd7edb9",
+  "https://images.blocketcdn.se/dynamic/default/item/25808465/b7dc0b40-5a97-4303-a0bd-02f5920d0f08",
+  "https://images.blocketcdn.se/dynamic/default/item/25808465/54c0ab14-0874-4210-b9b3-4ff049048ce6",
+  "https://images.blocketcdn.se/dynamic/default/item/25808465/b549e02b-52a2-41a9-b504-9b681e204060",
+  "https://images.blocketcdn.se/dynamic/default/item/25808465/36c417f7-6e5a-48fe-82db-c0081eabaec9",
+  "https://images.blocketcdn.se/dynamic/default/item/25808465/56f2de48-e96a-4404-b5a4-29a67b83d24e",
+  "https://images.blocketcdn.se/dynamic/default/item/25808465/3a985c1f-3393-4f7a-894a-f12106baddce"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 59.24,
+ "length_ft": 17,
+ "location": "Örebro",
+ "lon": 15.24,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "not_in_search_since": "2026-09-27",
+ "page": {
+  "description_chars": 88,
+  "fetched_ts": 1790520838512,
+  "text_sha": "f69c228b40b5bc95"
+ },
+ "price": 8900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 8900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "15",
+  "Modellår": "1982",
+  "Motor inkluderad": "Nej",
+  "Märke": "Askeladden",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "260 kg"
+ },
+ "status": "not_in_search",
+ "url": "https://www.blocket.se/mobility/item/25808465",
+ "width_cm": 0,
+ "year": 1982
+}

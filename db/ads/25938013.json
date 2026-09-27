@@ -7,6 +7,8 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
   "engine_maker": "Suzuki",
   "engine_stroke": 4,
   "engine_type": "outboard",
@@ -43,8 +45,15 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Styrpulpet Hr480",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25938013/cf0e6a5e-3d98-4c3a-8d1e-92456be94d9a",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.85664,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25938013/cf0e6a5e-3d98-4c3a-8d1e-92456be94d9a",
+  "https://images.blocketcdn.se/dynamic/default/item/25938013/7ac61da1-8445-4c51-a194-25e2f692ab4a",
+  "https://images.blocketcdn.se/dynamic/default/item/25938013/434b19bd-782d-400d-87b8-854826750809",
+  "https://images.blocketcdn.se/dynamic/default/item/25938013/e08c33da-b158-4b13-b9ea-6551cde74750",
+  "https://images.blocketcdn.se/dynamic/default/item/25938013/3b29ca39-a14a-40db-bd64-d9925a6bda7d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.86,
  "length_ft": 146,
  "llm": {
   "at": "2026-09-27",
@@ -75,12 +84,13 @@
   "text_sha": "62073aeb438980d5"
  },
  "location": "Fristad",
- "lon": 12.92641,
+ "lon": 12.93,
  "make": "HR",
  "max_speed": 33,
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 76,
   "fetched_ts": 1790508316013,
@@ -107,7 +117,7 @@
   "Toppfart": "33 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25938013",
  "width_cm": 0,
  "year": 2006

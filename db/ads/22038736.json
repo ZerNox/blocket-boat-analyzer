@@ -1,0 +1,106 @@
+{
+ "ad_id": 22038736,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1786972956000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": 132,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury 4-takt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2009,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor från 2009 och båt från 2005.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Elektronik förberedd för GPS och ekolod.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nytt blått kapell som knappt använts.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Elektronik förberedd för GPS och ekolod.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Varvsskött Silver Hawk 540 DC med 80 Hk Mercury 4-takt",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Varvsskött Silver Hawk 540 DC med 80 Hk Mercury 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22038736/f57d1264-ab7c-4486-866a-5108ee818f7d",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22038736/f57d1264-ab7c-4486-866a-5108ee818f7d",
+  "https://images.blocketcdn.se/dynamic/default/item/22038736/8f600b2c-ba3e-4860-a1bf-829f32e6ddac",
+  "https://images.blocketcdn.se/dynamic/default/item/22038736/1b7bb1a0-da13-454f-b411-f37c724d91db",
+  "https://images.blocketcdn.se/dynamic/default/item/22038736/4ee19a1a-3664-44e8-9329-da4280a0ddfb",
+  "https://images.blocketcdn.se/dynamic/default/item/22038736/76e18c83-a6a6-4980-a7a7-c948dbd70f70",
+  "https://images.blocketcdn.se/dynamic/default/item/22038736/99603d9c-63ef-432e-bb8b-7f97e62df318"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 57.2,
+ "length_ft": 18,
+ "location": "Åskloster",
+ "lon": 12.2,
+ "make": "Silver",
+ "max_speed": 40,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 943,
+  "fetched_ts": 1790522862757,
+  "text_sha": "16844056b60c8cb2"
+ },
+ "price": 111000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 111000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "28 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Silver / Blå / Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "Hawk 540 DC",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury 4-takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Silver",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "40 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "540 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22038736",
+ "width_cm": 220,
+ "year": 2005
+}

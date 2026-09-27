@@ -7,6 +7,8 @@
   "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
+  "engine_hp": 80,
+  "engine_hp_source": "llm",
   "engine_maker": "Perkins A4.236",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -34,8 +36,18 @@
  "first_seen": "2026-09-27T11:08:04+00:00",
  "heading": "Fiskebåt Hvaler",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25441644/56978d97-1fc6-4533-8ef1-6d52791a3025",
- "last_seen": "2026-09-27T11:37:28+00:00",
- "lat": 57.40183,
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25441644/56978d97-1fc6-4533-8ef1-6d52791a3025",
+  "https://images.blocketcdn.se/dynamic/default/item/25441644/60f88e51-994f-491a-b614-a7e3c5f35ee3",
+  "https://images.blocketcdn.se/dynamic/default/item/25441644/825eda2d-5aad-4e0a-8752-0ca05240487a",
+  "https://images.blocketcdn.se/dynamic/default/item/25441644/64bdb5f5-b65e-4aed-9147-082d02ab2d11",
+  "https://images.blocketcdn.se/dynamic/default/item/25441644/fecec08d-170c-41f8-827f-21020aa83e04",
+  "https://images.blocketcdn.se/dynamic/default/item/25441644/90bb120e-da66-44d7-8ad8-449072066acd",
+  "https://images.blocketcdn.se/dynamic/default/item/25441644/e5e28a43-78b4-49c4-b40d-da5daea7fd04",
+  "https://images.blocketcdn.se/dynamic/default/item/25441644/069e79d0-07b0-4489-b404-5aee95ae202d"
+ ],
+ "last_seen": "2026-09-27T14:53:04+00:00",
+ "lat": 57.4,
  "length_ft": 28,
  "llm": {
   "at": "2026-09-27",
@@ -65,12 +77,13 @@
   "text_sha": "786fa2cb8b126853"
  },
  "location": "Onsala",
- "lon": 12.00772,
+ "lon": 12.01,
  "make": "Övriga",
  "max_speed": 9,
  "motor_fuel": "Diesel",
  "motor_size": 80.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1129,
   "fetched_ts": 1790507870746,
@@ -101,7 +114,7 @@
   "Toppfart": "9 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25441644",
  "width_cm": 310,
  "year": 1975

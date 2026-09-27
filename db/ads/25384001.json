@@ -1,0 +1,133 @@
+{
+ "ad_id": 25384001,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1785833429000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1984,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": 1984,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T15:26:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 580"
+ ],
+ "heading": "FLIPPER 580",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25384001/15e5a1fc-14bf-41ed-9972-ed4f7eb12adf",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25384001/15e5a1fc-14bf-41ed-9972-ed4f7eb12adf",
+  "https://images.blocketcdn.se/dynamic/default/item/25384001/77fcf6a6-572c-49af-b2a6-68b212756ed7",
+  "https://images.blocketcdn.se/dynamic/default/item/25384001/87b97994-3438-4e44-83df-6a3e69a56937",
+  "https://images.blocketcdn.se/dynamic/default/item/25384001/46e411a5-eeb0-4488-846d-785db70e2b3a",
+  "https://images.blocketcdn.se/dynamic/default/item/25384001/62e979e5-f71d-4c23-b3f4-3d98c35397e9",
+  "https://images.blocketcdn.se/dynamic/default/item/25384001/a9413406-5c70-42cc-a767-9377d913e52e"
+ ],
+ "last_seen": "2026-09-27T15:43:21+00:00",
+ "lat": 60.23,
+ "length_ft": null,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1984,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "16437becc5120e50"
+ },
+ "location": "Östhammar",
+ "lon": 18.55,
+ "make": "Flipper",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 75,
+  "fetched_ts": 1790522978738,
+  "text_sha": "16437becc5120e50"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Modell": "580",
+  "Modellår": "1984",
+  "Motor inkluderad": "Ja",
+  "Märke": "Flipper",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25384001",
+ "vision": {
+  "at": "2026-09-27",
+  "images_sha": "eb5790f88aba6d5a",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "brand": "MERCURY",
+   "engine_photos": [
+    2,
+    3
+   ],
+   "four_stroke": null,
+   "hp": null,
+   "photo": 2,
+   "text_seen": "850"
+  },
+  "tasks": [
+   "hp"
+  ]
+ },
+ "width_cm": 0,
+ "year": 1984
+}
