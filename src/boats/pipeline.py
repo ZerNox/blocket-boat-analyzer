@@ -26,7 +26,7 @@ def _merge(rule: dict, llm_res: dict | None) -> dict:
                 out["engine_year_evidence"] = llm_res.get("engine_year_evidence")
             else:
                 out["engine_year_source"] = (rule["engine_year_source"] or "") + "+llm"
-        elif rule["engine_year"] is not None and rule["llm_reasons"]:
+        elif rule["engine_year"] is not None and any("engine" in r and ("older" in r or "ambiguous" in r) for r in rule["llm_reasons"]):
             # LLM couldn't confirm the rule's shaky year: keep it, marked unconfirmed
             out["engine_year_source"] = (rule["engine_year_source"] or "") + "?"
     if out.get("engine_hours") is None and llm_res.get("engine_hours"):

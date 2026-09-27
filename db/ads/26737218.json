@@ -16,7 +16,7 @@
   "engine_year_est": null,
   "engine_year_est_reason": null,
   "engine_year_evidence": "Båt + motor från 2004",
-  "engine_year_source": "rule:text?",
+  "engine_year_source": "rule:text",
   "equipment": {},
   "llm_reasons": [
    "engine type unknown"

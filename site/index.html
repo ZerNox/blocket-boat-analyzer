@@ -60,6 +60,7 @@ details td { padding: 1px 12px 1px 0; }
 .ev { color: var(--muted); font-style: italic; }
 footer { color: var(--muted); font-size: .8rem; margin-top: 24px; }
 footer code { font-size: .78rem; }
+button { background: var(--surface); color: var(--accent); border: 1px solid var(--line); border-radius: 6px; padding: 8px 14px; font: inherit; cursor: pointer; width: 100%; }
 @media (max-width: 700px) {
   .boat { grid-template-columns: 1fr; }
   .boat img { width: 100%; height: 180px; }
@@ -82,7 +83,7 @@ footer code { font-size: .78rem; }
       <label>Motor från år (minst)<input type="number" id="min-engine" step="1" placeholder="alla"></label>
       <label>Hästkrafter (minst)<input type="number" id="min-hp" step="5" placeholder="alla"></label>
       <label>Båttyp<select id="class"><option value="">Alla</option></select></label>
-      <label>Sök<input type="search" id="q" placeholder="märke, ort, text…"></label>
+      <label>Sök<input type="search" id="q" placeholder="märke, ort, annons-nr eller länk…"></label>
       <label class="check"><input type="checkbox" id="need-trailer"> Måste ha trailer</label>
       <label class="check"><input type="checkbox" id="known-engine"> Endast känt motorår</label>
       <label class="check"><input type="checkbox" id="hide-flags" checked> Dölj renoveringsobjekt/defekta</label>
@@ -98,12 +99,16 @@ footer code { font-size: .78rem; }
 const $ = (id) => document.getElementById(id);
 const kr = (n) => n == null ? "–" : n.toLocaleString("sv-SE") + " kr";
 const pct = (x) => (x > 0 ? "+" : "") + Math.round(x * 100) + "%";
+// A pasted Blocket link or ad number finds that ad: ".../mobility/item/26630043" -> "26630043"
+const adQuery = (q) => (q.match(/item\/(\d+)/) || [null, q])[1];
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const EXTRA_LABELS = { trailer: "trailer", plotter: "plotter/GPS", ekolod: "ekolod", kapell: "kapell", vinterkapell: "vinterkapell", elmotor: "elmotor", hjalpmotor: "hjälpmotor", vhf: "VHF", stereo: "stereo", hydraulstyrning: "hydraulstyrning", landstrom: "landström" };
 const FLAG_LABELS = { project: "renoveringsobjekt", defect: "motorfel", leak: "läckage/spricka i skrov", untested: "otestad" };
 const SRC_LABELS = { "rule:spec": "annonsfält", "rule:text": "annonstext", "rule:original": "originalmotor", "llm": "lokal AI", "rule:text+llm": "text + AI", "rule:text?": "osäker" };
 const CONTROLS = ["w-value", "w-engine", "w-hp", "w-extras", "max-price", "min-engine", "min-hp", "class", "q", "need-trailer", "known-engine", "hide-flags"];
 let DATA = null;
+const PAGE = 100;
+let shown = PAGE;
 
 function zscores(vals) {
   const xs = vals.filter((v) => v != null);
@@ -126,7 +131,7 @@ function render() {
     (!$("need-trailer").checked || b.extras.includes("trailer")) &&
     (!$("known-engine").checked || b.engine_year) &&
     (!$("hide-flags").checked || b.red_flags.length === 0) &&
-    (!q || [b.heading, b.make, b.location, b.engine_maker].join(" ").toLowerCase().includes(q)));
+    (!q || [b.heading, b.make, b.location, b.engine_maker, b.ad_id].join(" ").toLowerCase().includes(adQuery(q))));
 
   const zv = zscores(boats.map((b) => b.score));
   const ze = zscores(boats.map((b) => b.engine_year));
@@ -138,8 +143,10 @@ function render() {
   $("stats").innerHTML = `<span>Visar <b>${boats.length}</b> av ${DATA.boats.length} rankade</span>` +
     `<span>Motorår känt: <b>${DATA.coverage.engine_year_known}</b> / ${DATA.coverage.active_ads}</span>` +
     `<span>Modell: ${DATA.model.n_fit} annonser, typfel ±${Math.round((Math.exp(DATA.model.resid_sd_log) - 1) * 100)}%</span>`;
-  $("list").innerHTML = boats.slice(0, 200).map((b, i) => card(b, i + 1)).join("") ||
-    `<p class="muted">Inga båtar matchar filtren.</p>`;
+  $("list").innerHTML = (boats.slice(0, shown).map((b, i) => card(b, i + 1)).join("") ||
+    `<p class="muted">Inga båtar matchar filtren. Båtar med inombordsmotor, utan motor eller med pris under ${kr(DATA.min_price)} rankas inte.</p>`) +
+    (boats.length > shown ? `<p><button id="more" type="button">Visa fler (${boats.length - shown} kvar)</button></p>` : "");
+  if ($("more")) $("more").onclick = () => { shown += PAGE; render(); };
 }
 
 function card(b, n) {
@@ -208,7 +215,7 @@ fetch("boats.json").then((r) => r.json()).then((data) => {
   $("footer").innerHTML = `Utrustning värderas som: ${ex}. Motorår tolkas med regler, och med lokal AI (Qwen 7B, verifierat mot citat ur annonsen) där reglerna inte räcker. ` +
     `Källkod: <a href="https://github.com/ZerNox/blocket-boat-analyzer">github.com/ZerNox/blocket-boat-analyzer</a>. Inte ansluten till Blocket.`;
   loadState();
-  for (const id of CONTROLS) $(id).addEventListener("input", () => { saveState(); render(); });
+  for (const id of CONTROLS) $(id).addEventListener("input", () => { shown = PAGE; saveState(); render(); });
   render();
 }).catch((e) => { $("sub").textContent = "Kunde inte ladda boats.json: " + e; });
 </script>

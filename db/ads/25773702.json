@@ -16,7 +16,7 @@
   "engine_year_est": null,
   "engine_year_est_reason": null,
   "engine_year_evidence": "Båt från 1996, motor från 2001.",
-  "engine_year_source": "rule:text?",
+  "engine_year_source": "rule:text",
   "equipment": {
    "ekolod": {
     "evidence": "Hummingbird Helix G3 ekolod (Dual Spectrum CHIRP fishfinder).",

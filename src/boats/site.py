@@ -28,6 +28,7 @@ def build(cfg: dict, out: Path) -> dict:
     payload = {
         "generated": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat(),
         "search_url": cfg["search"]["url"],
+        "min_price": cfg["ranking"]["min_price"],
         "coverage": coverage,
         "model": model,
         "boats": ranked,

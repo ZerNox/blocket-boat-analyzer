@@ -16,7 +16,7 @@
   "engine_year_est": null,
   "engine_year_est_reason": null,
   "engine_year_evidence": "En fin Uttern med en Mercury F60 ifrån 2011.",
-  "engine_year_source": "rule:text?",
+  "engine_year_source": "rule:text",
   "equipment": {
    "trailer": {
     "evidence": "Kvitto finns och en väldigt duglig 30 kärra medföljer",

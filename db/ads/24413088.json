@@ -16,7 +16,7 @@
   "engine_year_est": null,
   "engine_year_est_reason": null,
   "engine_year_evidence": "Ryds 510 GT 70hk Johnson -01 + 80km/h trailer -10.",
-  "engine_year_source": "rule:text?",
+  "engine_year_source": "rule:text",
   "equipment": {
    "trailer": {
     "evidence": "Ryds 510 GT 70hk Johnson -01 + 80km/h trailer -10",

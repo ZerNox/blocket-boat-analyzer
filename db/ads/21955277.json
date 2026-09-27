@@ -16,7 +16,7 @@
   "engine_year_est": null,
   "engine_year_est_reason": null,
   "engine_year_evidence": "Både motor och båt är från -98, ny drevolja, sidolantärnor, elektrisk trim/tilt, hydraulisk styrning, självläns, 20l tank, står på en hemmabyggd vagn.",
-  "engine_year_source": "rule:text?",
+  "engine_year_source": "rule:text",
   "equipment": {
    "hydraulstyrning": {
     "evidence": "Både motor och båt är från -98, ny drevolja, sidolantärnor, elektrisk trim/tilt, hydraulisk styrning, självläns, 20l ta…",

@@ -16,7 +16,7 @@
   "engine_year_est": null,
   "engine_year_est_reason": null,
   "engine_year_evidence": "Både båt och motor från -02.",
-  "engine_year_source": "rule:text?",
+  "engine_year_source": "rule:text",
   "equipment": {
    "trailer": {
     "evidence": "Båtvagnen ingår i köpet.",

@@ -16,7 +16,7 @@
   "engine_year_est": null,
   "engine_year_est_reason": null,
   "engine_year_evidence": "1 st Mercury 25 hk, 2-takt, 1997, rorkult utan elstart med lång rigg, mm",
-  "engine_year_source": "rule:text?",
+  "engine_year_source": "rule:text",
   "equipment": {
    "trailer": {
     "evidence": "30-kärra kan ev lånas för kortare transporter",

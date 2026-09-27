@@ -16,7 +16,7 @@
   "engine_year_est": null,
   "engine_year_est_reason": null,
   "engine_year_evidence": "Uttern 495 HT 1980 Mercury 40hk 2006.",
-  "engine_year_source": "rule:text?",
+  "engine_year_source": "rule:text",
   "equipment": {
    "kapell": {
     "evidence": "Kapellet i ok skick och håller tätt.",
