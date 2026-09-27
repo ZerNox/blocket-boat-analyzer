@@ -1,0 +1,27 @@
+[project]
+name = "blocket-boat-analyzer"
+version = "0.1.0"
+description = "Fetch Blocket boat ads, extract engine type/year and equipment, rank by value"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.12",
+    "httpx>=0.27",
+    "numpy>=1.26",
+]
+
+[project.scripts]
+boats = "boats.cli:main"
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/boats"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

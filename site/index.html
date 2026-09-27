@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Båtvärde</title>
+<meta name="description" content="Begagnade utombordsbåtar på Blocket rankade efter värde: pris mot marknaden, motorår, hästkrafter och medföljande utrustning.">
+<style>
+:root {
+  --bg: #f7f6f3; --surface: #ffffff; --text: #1d1d1b; --muted: #6b6a66; --line: #e3e1db;
+  --accent: #1f5f8b; --good: #1e7a46; --bad: #b3362c; --warn: #9a6400; --chip: #eef2f5;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #131416; --surface: #1c1e21; --text: #e8e6e1; --muted: #9a988f; --line: #2e3034;
+    --accent: #7db3dc; --good: #5fc28a; --bad: #ef7d73; --warn: #e0b35a; --chip: #262a30;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #131416; --surface: #1c1e21; --text: #e8e6e1; --muted: #9a988f; --line: #2e3034;
+  --accent: #7db3dc; --good: #5fc28a; --bad: #ef7d73; --warn: #e0b35a; --chip: #262a30;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 1100px; margin: 0 auto; padding: 20px 16px 60px; }
+h1 { font-size: 1.5rem; margin: 0 0 4px; }
+.sub { color: var(--muted); margin: 0 0 16px; font-size: .9rem; }
+.sub a { color: var(--accent); }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px; margin-bottom: 16px; }
+.controls { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px 20px; }
+.controls label { display: flex; flex-direction: column; gap: 4px; font-size: .85rem; color: var(--muted); }
+.controls label.check { flex-direction: row; align-items: center; gap: 8px; color: var(--text); }
+.controls output { color: var(--text); font-variant-numeric: tabular-nums; }
+input[type=range] { width: 100%; accent-color: var(--accent); }
+input[type=number], input[type=search], select { background: var(--bg); color: var(--text); border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; font: inherit; width: 100%; }
+.stats { display: flex; flex-wrap: wrap; gap: 8px 22px; font-size: .85rem; color: var(--muted); }
+.stats b { color: var(--text); font-variant-numeric: tabular-nums; }
+.boat { display: grid; grid-template-columns: 170px 1fr auto; gap: 14px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px; margin-bottom: 10px; }
+.boat img { width: 170px; height: 120px; object-fit: cover; border-radius: 6px; background: var(--chip); }
+.boat h2 { font-size: 1rem; margin: 0 0 4px; }
+.boat h2 a { color: var(--text); text-decoration: none; }
+.boat h2 a:hover { color: var(--accent); text-decoration: underline; }
+.rank { color: var(--muted); font-variant-numeric: tabular-nums; margin-right: 6px; }
+.facts { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: .88rem; }
+.facts span { white-space: nowrap; }
+.muted { color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
+.chip { background: var(--chip); border-radius: 999px; padding: 1px 9px; font-size: .78rem; }
+.chip.no { text-decoration: line-through; color: var(--muted); }
+.chip.flag { background: transparent; border: 1px solid var(--bad); color: var(--bad); }
+.chip.src { background: transparent; border: 1px solid var(--line); color: var(--muted); font-size: .72rem; }
+.price { text-align: right; font-variant-numeric: tabular-nums; min-width: 130px; }
+.price .ask { font-size: 1.15rem; font-weight: 600; }
+.value { font-weight: 600; }
+.value.pos { color: var(--good); } .value.neg { color: var(--bad); }
+details { margin-top: 6px; font-size: .82rem; }
+details summary { cursor: pointer; color: var(--accent); }
+details table { border-collapse: collapse; margin-top: 4px; }
+details td { padding: 1px 12px 1px 0; }
+.ev { color: var(--muted); font-style: italic; }
+footer { color: var(--muted); font-size: .8rem; margin-top: 24px; }
+footer code { font-size: .78rem; }
+@media (max-width: 700px) {
+  .boat { grid-template-columns: 1fr; }
+  .boat img { width: 100%; height: 180px; }
+  .price { text-align: left; display: flex; gap: 14px; align-items: baseline; flex-wrap: wrap; }
+}
+</style>
+</head>
+<body>
+<main>
+  <h1>Båtvärde</h1>
+  <p class="sub" id="sub">Laddar…</p>
+
+  <section class="panel">
+    <div class="controls">
+      <label>Vikt: pris mot marknaden <output id="o-w-value"></output><input type="range" id="w-value" min="0" max="100" value="100"></label>
+      <label>Vikt: ny motor <output id="o-w-engine"></output><input type="range" id="w-engine" min="0" max="100" value="25"></label>
+      <label>Vikt: hästkrafter <output id="o-w-hp"></output><input type="range" id="w-hp" min="0" max="100" value="0"></label>
+      <label>Vikt: utrustning (trailer, plotter…) <output id="o-w-extras"></output><input type="range" id="w-extras" min="0" max="100" value="25"></label>
+      <label>Maxpris (kr)<input type="number" id="max-price" step="5000" placeholder="alla"></label>
+      <label>Motor från år (minst)<input type="number" id="min-engine" step="1" placeholder="alla"></label>
+      <label>Hästkrafter (minst)<input type="number" id="min-hp" step="5" placeholder="alla"></label>
+      <label>Båttyp<select id="class"><option value="">Alla</option></select></label>
+      <label>Sök<input type="search" id="q" placeholder="märke, ort, text…"></label>
+      <label class="check"><input type="checkbox" id="need-trailer"> Måste ha trailer</label>
+      <label class="check"><input type="checkbox" id="known-engine"> Endast känt motorår</label>
+      <label class="check"><input type="checkbox" id="hide-flags" checked> Dölj renoveringsobjekt/defekta</label>
+    </div>
+  </section>
+
+  <section class="panel stats" id="stats"></section>
+  <section id="list"></section>
+
+  <footer id="footer"></footer>
+</main>
+<script>
+const $ = (id) => document.getElementById(id);
+const kr = (n) => n == null ? "–" : n.toLocaleString("sv-SE") + " kr";
+const pct = (x) => (x > 0 ? "+" : "") + Math.round(x * 100) + "%";
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const EXTRA_LABELS = { trailer: "trailer", plotter: "plotter/GPS", ekolod: "ekolod", kapell: "kapell", vinterkapell: "vinterkapell", elmotor: "elmotor", hjalpmotor: "hjälpmotor", vhf: "VHF", stereo: "stereo", hydraulstyrning: "hydraulstyrning", landstrom: "landström" };
+const FLAG_LABELS = { project: "renoveringsobjekt", defect: "defekt", leak: "läckage/röta", as_is: "befintligt skick", swap: "byte/bud" };
+const SRC_LABELS = { "rule:spec": "annonsfält", "rule:text": "annonstext", "rule:original": "originalmotor", "llm": "lokal AI", "rule:text+llm": "text + AI", "rule:text?": "osäker" };
+const CONTROLS = ["w-value", "w-engine", "w-hp", "w-extras", "max-price", "min-engine", "min-hp", "class", "q", "need-trailer", "known-engine", "hide-flags"];
+let DATA = null;
+
+function zscores(vals) {
+  const xs = vals.filter((v) => v != null);
+  const m = xs.reduce((a, b) => a + b, 0) / (xs.length || 1);
+  const sd = Math.sqrt(xs.reduce((a, b) => a + (b - m) ** 2, 0) / (xs.length || 1)) || 1;
+  return vals.map((v) => (v == null ? -0.5 : (v - m) / sd));
+}
+
+function render() {
+  const w = { value: +$("w-value").value / 100, engine: +$("w-engine").value / 100, hp: +$("w-hp").value / 100, extras: +$("w-extras").value / 100 };
+  for (const k of ["value", "engine", "hp", "extras"]) $("o-w-" + k).textContent = Math.round(w[k] * 100) + "%";
+  const maxPrice = +$("max-price").value || Infinity, minEngine = +$("min-engine").value || 0, minHp = +$("min-hp").value || 0;
+  const cls = $("class").value, q = $("q").value.trim().toLowerCase();
+
+  let boats = DATA.boats.filter((b) =>
+    b.price <= maxPrice &&
+    (!minEngine || (b.engine_year && b.engine_year >= minEngine)) &&
+    b.hp >= minHp &&
+    (!cls || b.boat_class === cls) &&
+    (!$("need-trailer").checked || b.extras.includes("trailer")) &&
+    (!$("known-engine").checked || b.engine_year) &&
+    (!$("hide-flags").checked || b.red_flags.length === 0) &&
+    (!q || [b.heading, b.make, b.location, b.engine_maker].join(" ").toLowerCase().includes(q)));
+
+  const zv = zscores(boats.map((b) => b.score));
+  const ze = zscores(boats.map((b) => b.engine_year));
+  const zh = zscores(boats.map((b) => b.hp));
+  const zx = zscores(boats.map((b) => b.extras_value));
+  boats = boats.map((b, i) => ({ ...b, composite: w.value * zv[i] + w.engine * ze[i] + w.hp * zh[i] + w.extras * zx[i] }))
+    .sort((a, b) => b.composite - a.composite);
+
+  $("stats").innerHTML = `<span>Visar <b>${boats.length}</b> av ${DATA.boats.length} rankade</span>` +
+    `<span>Motorår känt: <b>${DATA.coverage.engine_year_known}</b> / ${DATA.coverage.active_ads}</span>` +
+    `<span>Modell: ${DATA.model.n_fit} annonser, typfel ±${Math.round((Math.exp(DATA.model.resid_sd_log) - 1) * 100)}%</span>`;
+  $("list").innerHTML = boats.slice(0, 200).map((b, i) => card(b, i + 1)).join("") ||
+    `<p class="muted">Inga båtar matchar filtren.</p>`;
+}
+
+function card(b, n) {
+  const extras = Object.keys(EXTRA_LABELS).filter((k) => b.extras.includes(k)).map((k) => `<span class="chip">${EXTRA_LABELS[k]}</span>`)
+    .concat(b.extras_excluded.map((k) => `<span class="chip no" title="ingår inte">${EXTRA_LABELS[k] || k}</span>`))
+    .concat(b.red_flags.map((f) => `<span class="chip flag">${FLAG_LABELS[f] || f}</span>`)).join("");
+  const src = b.engine_year ? `<span class="chip src" title="${esc(b.engine_year_evidence)}">${SRC_LABELS[b.engine_year_source] || esc(b.engine_year_source)}</span>` : "";
+  const hist = b.price_history.length > 1 ? `<span class="muted">tidigare ${b.price_history.slice(0, -1).map((p) => kr(p.price)).join(" → ")}</span>` : "";
+  const rows = b.breakdown.map(([k, v]) => `<tr><td>${esc(k)}</td><td class="value ${v >= 0 ? "pos" : "neg"}">${pct(v)}</td></tr>`).join("");
+  return `<article class="boat">
+    <a href="${esc(b.url)}" target="_blank" rel="noopener">${b.image ? `<img loading="lazy" src="${esc(b.image.replace("/dynamic/default/", "/dynamic/320w/"))}" alt="">` : `<img alt="">`}</a>
+    <div>
+      <h2><span class="rank">${n}.</span><a href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.heading)}</a></h2>
+      <div class="facts">
+        <span>Båt ${b.boat_year ?? `<span class='muted' title='Annonsens årtal (${b.boat_year_listed ?? "–"}) verkar vara en platshållare'>år okänt</span>`}</span>
+        <span>Motor ${b.engine_year ?? "<span class='muted'>år okänt</span>"} ${src}</span>
+        <span>${b.hp} hk${b.engine_stroke ? ` ${b.engine_stroke}-takt` : ""}</span>
+        ${b.engine_maker ? `<span>${esc(b.engine_maker)}</span>` : ""}
+        ${b.engine_hours ? `<span>${b.engine_hours} h</span>` : ""}
+        ${b.length_ft ? `<span>${b.length_ft} fot</span>` : ""}
+        <span class="muted">${esc(b.boat_class)} · ${esc(b.location)}</span>
+      </div>
+      <div class="chips">${extras}</div>
+      <details><summary>Varför denna värdering?</summary>
+        <table>
+          <tr><td>Utgångspris</td><td>${kr(b.price)}</td></tr>
+          <tr><td>− utrustning (${b.extras.map((k) => EXTRA_LABELS[k] || k).join(", ") || "ingen"})</td><td>${kr(b.extras_value)}</td></tr>
+          <tr><td>= jämförpris</td><td>${kr(b.adjusted_price)}</td></tr>
+          <tr><td>Marknadspris för liknande båt</td><td>${kr(b.fair_price)}</td></tr>
+        </table>
+        <table><tr><td colspan="2" class="muted">Påverkan på marknadspris jämfört med snittbåten:</td></tr>${rows}</table>
+        ${b.engine_year_evidence ? `<p class="ev">Motorår från: "${esc(b.engine_year_evidence)}"</p>` : ""}
+        ${b.outlier ? `<p class="muted">Avviker kraftigt från modellen — dubbelkolla annonsen.</p>` : ""}
+      </details>
+    </div>
+    <div class="price">
+      <div class="ask">${kr(b.price)}</div>
+      <div class="value ${b.value >= 0 ? "pos" : "neg"}">${pct(b.value)} mot marknad</div>
+      <div class="muted">marknad ${kr(b.fair_price)}</div>
+      ${hist}
+      ${b.too_good ? `<div class="chip flag" title="Mer än 2,5 standardavvikelser under marknaden: ofta fel årtal, byte eller placeholder-pris">för bra för att vara sant?</div>` : ""}
+    </div>
+  </article>`;
+}
+
+function saveState() {
+  try { localStorage.setItem("boats-controls", JSON.stringify(Object.fromEntries(CONTROLS.map((id) => [id, $(id).type === "checkbox" ? $(id).checked : $(id).value])))); } catch (e) {}
+}
+function loadState() {
+  try {
+    const s = JSON.parse(localStorage.getItem("boats-controls") || "{}");
+    for (const [id, v] of Object.entries(s)) if ($(id)) $(id).type === "checkbox" ? ($(id).checked = v) : ($(id).value = v);
+  } catch (e) {}
+}
+
+fetch("boats.json").then((r) => r.json()).then((data) => {
+  DATA = data;
+  const classes = [...new Set(data.boats.map((b) => b.boat_class).filter(Boolean))].sort();
+  $("class").innerHTML += classes.map((c) => `<option>${esc(c)}</option>`).join("");
+  $("sub").innerHTML = `${data.coverage.ranked} utombordsbåtar från <a href="${esc(data.search_url)}" target="_blank" rel="noopener">Blocket-sökningen</a>, uppdaterad ${new Date(data.generated).toLocaleString("sv-SE")}. ` +
+    `Värde = marknadspris för en jämförbar båt (ålder, motorår, hk, längd, typ, märke) mot annonspriset minus utrustningens värde.`;
+  const ex = Object.entries(data.model.extras_sek).map(([k, v]) => `${EXTRA_LABELS[k] || k} ${kr(v)}`).join(", ");
+  $("footer").innerHTML = `Utrustning värderas som: ${ex}. Motorår tolkas med regler, och med lokal AI (Qwen 7B, verifierat mot citat ur annonsen) där reglerna inte räcker. ` +
+    `Källkod: <a href="https://github.com/ZerNox/blocket-boat-analyzer">github.com/ZerNox/blocket-boat-analyzer</a>. Inte ansluten till Blocket.`;
+  loadState();
+  for (const id of CONTROLS) $(id).addEventListener("input", () => { saveState(); render(); });
+  render();
+}).catch((e) => { $("sub").textContent = "Kunde inte ladda boats.json: " + e; });
+</script>
+</body>
+</html>

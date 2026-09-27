@@ -1,0 +1,7 @@
+# Full ad pages/descriptions stay local: the repo is public, and this is sellers' text.
+cache/
+_site/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/

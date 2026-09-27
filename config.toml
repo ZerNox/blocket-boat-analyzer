@@ -1,0 +1,43 @@
+# Blocket boat analyzer configuration.
+
+[search]
+# Any Blocket boat search URL; its filters are reused against the JSON search API.
+url = "https://www.blocket.se/mobility/search/boat?class=7962&class=6921&class=2186&class=3827&class=2258&dealer_segment=1&motor_size_to=80&price_to=300000"
+# Seconds between requests. Be polite: one sequential client, no parallelism.
+delay_s = 1.2
+# Refetch an ad page when the search result says it was updated, or when older than this.
+refetch_after_days = 7
+
+[llm]
+server_bin = "~/gpu-bench/llama.cpp/build/bin/llama-server"
+model = "~/gpu-bench/qwen7b-q4km.gguf"  # Qwen2.5-7B-Instruct Q4_K_M
+# Vulkan device indices change between boots; pick the device by name instead.
+device_match = "Arc"
+port = 8091
+ctx = 8192
+# Shared with the investor pipeline's Whisper job: only one GPU consumer at a time.
+gpu_lock = "~/.local/state/investor/gpu.lock"
+gpu_lock_timeout_s = 1800
+
+[ranking]
+# Prices below this are placeholders ("0 kr", "1 kr", "bud").
+min_price = 5000
+outboard_only = true
+# Score multiplier per red flag (renoveringsobjekt, defekt, läcker, ...).
+red_flag_penalty = 0.20
+ridge_lambda = 2.0
+
+# Estimated used-market value (SEK) an included item adds to the deal.
+# Subtracted from the asking price before comparing boats against each other.
+[extras]
+trailer = 15000
+plotter = 6000
+ekolod = 2500
+kapell = 4000
+vinterkapell = 1500
+elmotor = 5000
+hjalpmotor = 3000
+vhf = 1500
+stereo = 1000
+hydraulstyrning = 2000
+landstrom = 1000
