@@ -143,7 +143,9 @@ function render() {
 }
 
 function card(b, n) {
-  const extras = Object.keys(EXTRA_LABELS).filter((k) => b.extras.includes(k)).map((k) => `<span class="chip">${EXTRA_LABELS[k]}</span>`)
+  const trailerLabel = () => ["trailer", b.trailer.kmh ? `${b.trailer.kmh} km/h` : "", b.trailer.year ? `(${b.trailer.year})` : ""].filter(Boolean).join(" ");
+  const extras = Object.keys(EXTRA_LABELS).filter((k) => b.extras.includes(k))
+    .map((k) => `<span class="chip">${k === "trailer" ? trailerLabel() : EXTRA_LABELS[k]}</span>`)
     .concat(b.extras_excluded.map((k) => `<span class="chip no" title="ingår inte">${EXTRA_LABELS[k] || k}</span>`))
     .concat(b.red_flags.map((f) => `<span class="chip flag">${FLAG_LABELS[f] || f}</span>`))
     .concat(b.swap_offered ? [`<span class="chip src">byte möjligt</span>`] : []).join("");
@@ -156,7 +158,7 @@ function card(b, n) {
       <h2><span class="rank">${n}.</span><a href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.heading)}</a></h2>
       <div class="facts">
         <span>Båt ${b.boat_year ?? `<span class='muted' title='Annonsens årtal (${b.boat_year_listed ?? "–"}) verkar vara en platshållare'>år okänt</span>`}</span>
-        <span>Motor ${b.engine_year ?? "<span class='muted'>år okänt</span>"} ${src}</span>
+        <span>Motor ${b.engine_year ?? (b.engine_year_est ? `<span class='muted' title='Uppskattat: ${esc(b.engine_year_est_reason)}'>≈${b.engine_year_est}?</span>` : "<span class='muted'>år okänt</span>")} ${src}</span>
         <span>${b.hp} hk${b.engine_stroke ? ` ${b.engine_stroke}-takt` : ""}</span>
         ${b.engine_maker ? `<span>${esc(b.engine_maker)}</span>` : ""}
         ${b.engine_hours ? `<span>${b.engine_hours} h</span>` : ""}

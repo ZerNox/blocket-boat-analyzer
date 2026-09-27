@@ -206,3 +206,72 @@ def test_flag_false_positives(text):
 
 def test_leak():
     assert "leak" in rules.extract_red_flags("Motorn har ett kylvattenläckage, båten läcker lite.")
+
+
+# --- patterns mined from the first full crawl (2026-09-27) ---
+
+@pytest.mark.parametrize(
+    "desc,year",
+    [
+        ("MARINER 75HK + BRENDERUP TRAILER 2019. Motor: Mariner 75 hk 2-takt, 2004", 2004),
+        ("Ryds 440GT + Johnson 40hk -91 + Tiki 600 släp (2024, nyskick).", 1991),
+        ("Ryds 510 GT 70hk Johnson -01 + 80km/h trailer -10.", 2001),
+        ("Mercury 25 hk (2012)med ekolod, en fin Fogelstatrailer (2022) med boatbuckles.", 2012),
+        ("Trailer från 2003 motor från 2005.", 2005),
+        ("2011-Yamaha 70 F70-Båtsläp ingår.", 2011),
+        ("HR 460 Fishing 2021 med Honda 40hk från 2022.", 2022),
+        ("Uttern 495 HT 1980 Mercury 40hk 2006.", 2006),
+        ("Båten är från -91 och motorn Yamaha 60 hk från-07.", 2007),
+        ("Ryds 478 GT årsmodell 2003 med Mercury 60 Elpto-03 (2-takt), en ägare.", 2003),
+        ("Mercury 60 hk, tillverkningsår 2020, gångtid 24 timmar.", 2020),
+        ("Både motor ( Mercury 60 Efi 4-takt ) och båt är från 2003.", 2003),
+        ("Båt, motor och trailer från 2018 men uttagna 2019.", 2018),
+        ("En fin Ryds 435 ink en Evinrude 30 Hk samt TK 30 trailer allt från -98 med en ägare.", 1998),
+        ("Båt, motor och 80km/trailer från 2006 välvårdad.", 2006),
+        ("Båt, motor samt trailer i paketpris allt från 2020.", 2020),
+    ],
+)
+def test_mined_engine_years(desc, year):  # noqa: D103
+    r = ey(desc, boat_year=1980)
+    assert r["engine_year"] == year, r
+
+
+@pytest.mark.parametrize(
+    "desc",
+    ["Nyservad motor hösten -25.", "Motorn servad våren 2026.", "Kamremsbyte juni 2026 på motorn.",
+     "Motorn är servad inför säsongen 2026.", "Motorn är servad förra året (2025)."],
+)
+def test_season_and_month_are_events(desc):
+    assert ey(desc)["engine_year"] is None
+
+
+@pytest.mark.parametrize(
+    "desc,year,kmh",
+    [
+        ("Ryds 510 GT 70hk Johnson -01 + 80km/h trailer -10.", 2010, 80),
+        ("Fin Fogelstatrailer (2022) med boatbuckles.", 2022, None),
+        ("Inkl 30-kärra", None, 30),
+        ("Brenderup 80km/h besiktigad till 2027.", None, 80),
+        ("Paketpris inklusive besiktigad 80-trailer: 85.000kr", None, 80),
+        ("Trailer från 2003 motor från 2005.", 2003, None),
+    ],
+)
+def test_trailer_details(desc, year, kmh):
+    t = rules.extract_trailer(desc)
+    assert (t.get("year"), t.get("kmh")) == (year, kmh), t
+
+
+@pytest.mark.parametrize(
+    "text,boat_year,expected_max",
+    [
+        ("Johnson 40hk 2-takt", 2012, 2007),
+        ("Evinrude 60hk", 2015, 2007),
+        ("Evinrude E-TEC 50", 2022, 2020),
+        ("60hk Volvo Penta utombordare", 1995, 1990),
+        ("Mercury 40 hk tvåtakt", 2014, 2007),
+        ("Yamaha F60 fyrtakt", 2015, 2015),
+    ],
+)
+def test_engine_year_estimate(text, boat_year, expected_max):
+    est = rules.estimate_engine_year(text, "", boat_year)
+    assert est["year"] == expected_max, est

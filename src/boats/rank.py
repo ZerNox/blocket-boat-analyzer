@@ -30,9 +30,20 @@ def eligible(ad: dict, cfg: dict) -> bool:
     return bool(ad.get("motor_size"))
 
 
+def trailer_value(t: dict, prices: dict) -> int:
+    kmh = t.get("kmh")
+    base = prices.get("trailer_80" if kmh and kmh >= 80 else "trailer_30" if kmh and kmh <= 40 else "trailer", 0)
+    if t.get("year"):
+        age = max(THIS_YEAR - t["year"], 0)
+        base *= max(1 - prices.get("trailer_depreciation_per_year", 0) * age, 0.4)
+    return int(base)
+
+
 def extras_value(ext: dict, prices: dict) -> tuple[int, list[str]]:
-    items = [k for k, v in (ext.get("equipment") or {}).items() if v.get("included")]
-    return sum(prices.get(k, 0) for k in items), items
+    eq = ext.get("equipment") or {}
+    items = [k for k, v in eq.items() if v.get("included")]
+    total = sum(trailer_value(eq[k], prices) if k == "trailer" else prices.get(k, 0) for k in items)
+    return total, items
 
 
 def _features(ads: list[dict]) -> tuple[np.ndarray, list[str]]:
@@ -48,7 +59,9 @@ def _features(ads: list[dict]) -> tuple[np.ndarray, list[str]]:
         by = ext.get("boat_year")
         boat_age = min(max(THIS_YEAR - by, 0), 60) if by else med_age
         ey = ext.get("engine_year")
-        engine_age = min(max(THIS_YEAR - ey, 0), 60) if ey else boat_age
+        # Unknown engine year: the brand-era estimate (capped boat year), still flagged unknown below.
+        ey_or_est = ey or ext.get("engine_year_est")
+        engine_age = min(max(THIS_YEAR - ey_or_est, 0), 60) if ey_or_est else boat_age
         stroke = ext.get("engine_stroke")
         row = [
             boat_age,
@@ -151,6 +164,9 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
             "engine_year": ext.get("engine_year"),
             "engine_year_source": ext.get("engine_year_source"),
             "engine_year_evidence": ext.get("engine_year_evidence"),
+            "engine_year_est": ext.get("engine_year_est"),
+            "engine_year_est_reason": ext.get("engine_year_est_reason"),
+            "trailer": {k: v for k, v in ((ext.get("equipment") or {}).get("trailer") or {}).items() if k in ("kmh", "year")},
             "engine_maker": ext.get("engine_maker"),
             "engine_hours": ext.get("engine_hours"),
             "engine_stroke": ext.get("engine_stroke"),

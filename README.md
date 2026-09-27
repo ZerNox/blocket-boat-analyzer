@@ -34,6 +34,19 @@ before it:
 | new (ny, köpt ny) | engine year | `Ny motor 2026` |
 | event (servad, bytt, köpt, garanti…) | ignored | `servad 2023` |
 | boat (båt, skrov, byggd…) | boat year | `skrov årsmodell 2015` |
+| trailer (trailer, kärra, släp, Tiki, Fogelsta…) | trailer year | `Tiki 600 släp (2024)` |
+| date words (hösten, juni, säsongen, förra året) | ignored | `servad hösten -25` |
+
+Lists share a year: `Både motor (Mercury 60 Efi) och båt är från 2003`, `Båt, motor samt trailer
+… allt från 2020`. A year only counts as leading an engine (`2011-Yamaha 70`) at the start of its
+clause, so `Uttern 495 HT 1980 Mercury 40hk 2006` gives 2006, not 1980.
+
+When no engine year is stated, an **estimate** is used: the boat's year, capped by when that
+engine family stopped being sold new. Johnson and non-E-TEC Evinrude end at 2007, E-TEC at 2020,
+Volvo Penta outboards around 1990, and carburetted two-strokes (EU emission rules) at 2007. The
+site shows it as `≈2007?` with the reason, and the model still treats the year as unknown.
+
+The trailer's speed class (30 vs. 80 km/h) and year are parsed too, and set its value.
 
 The `Motortillverkare` spec field is checked first. If exactly one engine year is found, the
 rules accept it. If none is found, or there are conflicting years, or the engine looks much older
@@ -43,8 +56,8 @@ the model misreads as the engine year is thrown out.
 
 ### Value ranking
 
-1. **Adjusted price** = asking price − value of included extras (SEK values in `config.toml`,
-   e.g. trailer 15 000). Extras explicitly excluded ("trailer ingår ej", "kan köpas till")
+1. **Adjusted price** = asking price − value of included extras (SEK values in `config.toml`;
+   trailer 20 000 for 80 km/h, 7 000 for a 30 km/h kärra, 12 000 unknown, −4 %/year of age). Extras explicitly excluded ("trailer ingår ej", "kan köpas till")
    count for nothing.
 2. **Fair price**: ridge regression of log(adjusted price) on boat age, engine age, log(hp),
    length, 2/4-stroke, boat class and make, fitted on all comparable ads (outliers refit out).

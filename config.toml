@@ -30,7 +30,12 @@ ridge_lambda = 2.0
 # Estimated used-market value (SEK) an included item adds to the deal.
 # Subtracted from the asking price before comparing boats against each other.
 [extras]
-trailer = 15000
+# Trailer: by speed class when stated (80 km/h registered road trailer vs 30 km/h "kärra"),
+# depreciated per year of age when the trailer's year is stated.
+trailer = 12000
+trailer_80 = 20000
+trailer_30 = 7000
+trailer_depreciation_per_year = 0.04
 plotter = 6000
 ekolod = 2500
 kapell = 4000

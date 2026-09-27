@@ -13,7 +13,7 @@ from __future__ import annotations
 import datetime as dt
 import re
 
-RULES_VERSION = 7
+RULES_VERSION = 8
 THIS_YEAR = dt.date.today().year
 
 BRANDS = (
@@ -27,20 +27,30 @@ ENGINE_CUE = re.compile(
     r"|\b(?:fyrtakt\w*|tvåtakt\w*|[24]-?takt\w*)\b",
     re.I,
 )
-BOAT_CUE = re.compile(
-    r"\b(?:båt(?:en|ens)?|\w+båt(?:en)?|skrov(?:et|ets)?|hull|byggd|byggår|tillverkningsår)\b", re.I
+BOAT_CUE = re.compile(r"\b(?:båt(?:en|ens)?|\w+båt(?:en)?|skrov(?:et|ets)?|hull|byggd|byggår)\b", re.I)
+# Trailer years must not be read as engine years ("Johnson 40hk -91 + Tiki 600 släp (2024)").
+TRAILER_CUE = re.compile(
+    r"\w*trailer\w*|\w*kärra\w*|\w*vagn(?:en)?\b|\w*släp(?:et|vagn\w*)?\b|brenderup|\btiki\b|fogelsta|\brespo\b|boatbuckle\w*",
+    re.I,
 )
 # A year right after one of these is when something happened to the engine, not its age.
 EVENT_CUE = re.compile(
     r"\b(?:servad\w*|servade\w*|service\w*|servicad\w*|renover\w*|bytt\w*|byte|impeller\w*|"
     r"garanti\w*|besikt\w*|bottenmål\w*|målad\w*|lackad\w*|översyn\w*|genomgång\w*|"
     r"kontroller\w*|reparer\w*|lagad\w*|uppgrader\w*|tvättad\w*|försäkr\w*|"
-    r"vinterförvar\w*|sjösatt\w*|senast|sedan|köpt\w*|köpte\w*|inköpt\w*|ägt|förvärv\w*)\b",
+    r"vinterförvar\w*|sjösatt\w*|senast|sedan|köpt\w*|köpte\w*|inköpt\w*|ägt|förvärv\w*|"
+    # "servad hösten -25", "kamremsbyte juni 2026", "inför säsongen 2026": dates of events
+    r"hösten|våren|sommaren|vintern|januari|februari|mars|april|maj|juni|juli|augusti|september|oktober|"
+    r"november|december|säsong\w*|inför|förra\s+året|i\s+fjol)\b",
     re.I,
 )
 # "köpt ny 2019", "ny motor 2026" — the year the engine was new.
 NEW_CUE = re.compile(r"\b(?:köpt\w*\s+ny|ny(?:köpt)?|nyinköpt|levererad\s+ny)\b", re.I)
-MOTOR_AND_BOAT = re.compile(r"\b(?:både\s+)?(?:motor\w*\s+och\s+båt\w*|båt\w*\s+och\s+motor\w*)\b", re.I)
+_PART = r"[\w/-]*?(?:båt\w*|motor\w*|trailer\w*|vagn\w*)(?:\s*\([^)]*\))?"
+# "Både motor (Mercury 60 Efi) och båt är från 2003", "Båt, motor och trailer från 2018"
+MOTOR_AND_BOAT = re.compile(rf"\b(?:både\s+)?{_PART}(?:\s*,\s*{_PART})*\s+(?:och|o|&|samt)\s+{_PART}", re.I)
+# "... samt TK 30 trailer allt från -98": one year for everything listed, engine included
+ALL_FROM = re.compile(r"\b(?:allt|alla|samtliga|alltihop\w*)\s+(?:är\s+)?(?:från|årsmodell|av)\s*-?$", re.I)
 ENGINE_AGE = re.compile(r"(?:ca\.?\s+|cirka\s+|runt\s+)?(\d{1,2})\s*år\s+gam(?:mal|la|malt)(?!\s+(?:båt|skrov|\w+båt))", re.I)
 ORIGINAL_ENGINE = re.compile(
     r"\b(?:orginal|original)\s*motor|motor\w*\s+(?:är\s+)?(?:orginal|original)|"
@@ -49,7 +59,7 @@ ORIGINAL_ENGINE = re.compile(
 )
 YEAR = re.compile(r"(?<![\d.,/])(?<!\d-)(19[5-9]\d|20[0-4]\d)(?![\d.,]?\d)(?!\s?[-–]\s?(?:19|20)\d\d)(?!\s?(?:kr|:-|sek|mil|tim|h\b|rpm|varv|kg|mm|cm|st\b|km))", re.I)
 MONTH_YEAR = re.compile(r"(?<![\d/])(?:0?[1-9]|1[0-2])/((?:19|20)\d\d)\b")
-SHORT_YEAR = re.compile(r"(?:(?<=\s)-|årsmodell\s|årsm\.?\s?|mod\.?\s|år\s|\s')(\d{2})\b(?!\s?(?:hk|hp|kr|tim|h\b|%))", re.I)
+SHORT_YEAR = re.compile(r"(?:(?<=[\sa-zåäö])-|årsmodell\s|årsm\.?\s?|mod\.?\s|år\s|\s')(\d{2})\b(?!\s?(?:hk|hp|kr|tim|h\b|%))", re.I)
 
 HOURS = re.compile(
     r"(?:gångtid|gångtimmar|drifttimmar|timräknare)\D{0,12}?(\d{1,4})"
@@ -101,7 +111,7 @@ RED_FLAGS = {
 }
 RED_FLAG_RE = {k: re.compile(v, re.I) for k, v in RED_FLAGS.items()}
 
-SENTENCE_SPLIT = re.compile(r"(?<=[.!?])\s+(?=[A-ZÅÄÖ0-9])|\n+|;\s*|\s[-–•*]\s|[✅✔☑•▪►➤🔹🔸]\s*")
+SENTENCE_SPLIT = re.compile(r"(?<=[.!?])\s+(?=[A-ZÅÄÖ0-9])|\n+|;\s*|\s[-–•*|]\s|[✅✔☑•▪►➤🔹🔸]\s*")
 
 
 def sentences(text: str) -> list[str]:
@@ -113,13 +123,14 @@ def _plausible(year: int) -> bool:
 
 
 def _nearest_cue_before(sentence: str, pos: int) -> str | None:
-    """Kind of the cue closest before pos: 'new' | 'event' | 'engine' | 'boat' | None.
+    """Kind of the cue closest before pos: 'new' | 'event' | 'trailer' | 'engine' | 'boat' | None.
 
     On a tie in position the more specific kind wins ("köpt ny" is new, not a purchase event).
     """
     head = sentence[:pos]
     best: tuple[int, int, str] | None = None
-    for prio, (kind, rx) in enumerate((("boat", BOAT_CUE), ("engine", ENGINE_CUE), ("event", EVENT_CUE), ("new", NEW_CUE))):
+    cues = (("boat", BOAT_CUE), ("engine", ENGINE_CUE), ("trailer", TRAILER_CUE), ("event", EVENT_CUE), ("new", NEW_CUE))
+    for prio, (kind, rx) in enumerate(cues):
         for m in rx.finditer(head):
             cand = (m.start(), prio, kind)
             if best is None or cand[:2] > best[:2]:
@@ -148,8 +159,10 @@ def engine_year_candidates(text: str) -> list[dict]:
                 cands.append({"year": THIS_YEAR - int(m.group(1)), "evidence": sent, "how": "age"})
         for year, pos in year_mentions(sent):
             kind = _nearest_cue_before(sent, pos)
-            both = MOTOR_AND_BOAT.search(sent[:pos])
-            if both and pos - both.end() < 25:
+            both = next((m for m in MOTOR_AND_BOAT.finditer(sent[:pos]) if "motor" in m.group(0).lower()), None)
+            if (both and pos - both.end() < 25 and not year_mentions(sent[both.end() : pos])) or (
+                ALL_FROM.search(sent[:pos]) and ENGINE_CUE.search(sent[:pos])
+            ):
                 # "Både motor och båt är från -98"
                 cands.append({"year": year, "evidence": sent, "how": "both"})
                 continue
@@ -166,9 +179,13 @@ def engine_year_candidates(text: str) -> list[dict]:
                 cands.append({"year": year, "evidence": sent, "how": "cue"})
                 continue
             if kind is None:
-                # Year leads the clause: "2018 års Mercury 60", "2019 Yamaha F40"
-                tail = re.sub(r"^\s*(?:års?\s+)?", "", sent[pos + 4 : pos + 30])
-                if ENGINE_CUE.match(tail):
+                # Year leads its clause: "2018 års Mercury 60", "2011-Yamaha 70", "med 2019 Yamaha F40".
+                # Not "Uttern 495 HT 1980 Mercury 40hk 2006", where 1980 closes the boat's name.
+                end = pos + len(re.match(r"\d+", sent[pos:]).group())
+                tail = re.sub(r"^\s*(?:års?\s+|[-–]\s*)?", "", sent[end : end + 30])
+                clause = re.split(r"[,(+&:]", sent[:pos])[-1]
+                leads = not clause.strip() or re.search(r"\b(?:med|en|ett|och|samt)\s*$", clause, re.I)
+                if ENGINE_CUE.match(tail) and leads:
                     cands.append({"year": year, "evidence": sent, "how": "lead"})
     return cands
 
@@ -239,6 +256,52 @@ def extract_engine_year(heading: str, description: str, specs: dict, boat_year: 
 
 def _around(text: str, pos: int, width: int = 90) -> str:
     return text[max(0, pos - width // 3) : pos + width].strip()
+
+
+TRAILER_KMH = re.compile(r"\b(30|40|80|100)\s*(?:km/?h\b|km\b|-?\s*(?:kärra|trailer|vagn|släp))", re.I)
+
+
+def extract_trailer(text: str) -> dict:
+    """Trailer year and speed class (30 km/h kärra vs. 80 km/h road trailer) where stated."""
+    out: dict = {}
+    for sent in sentences(text):
+        if not TRAILER_CUE.search(sent):
+            continue
+        m = TRAILER_KMH.search(sent)
+        if m and "kmh" not in out:
+            out["kmh"] = int(m.group(1))
+        for year, pos in year_mentions(sent):
+            if "year" not in out and _nearest_cue_before(sent, pos) == "trailer":
+                out["year"] = year
+    return out
+
+
+# Engine families that stopped being sold new: bounds the engine year when the ad doesn't state it.
+ENGINE_ERAS = [
+    (re.compile(r"e-?tec|\bg2\b", re.I), 2020, "Evinrude E-TEC tillverkades till 2020"),
+    (re.compile(r"\bjohnson\b", re.I), 2007, "Johnson-motorer tillverkades till 2007"),
+    (re.compile(r"\bevinrude\b", re.I), 2007, "Evinrude utan E-TEC tillverkades till 2007"),
+    (re.compile(r"volvo\s*penta", re.I), 1990, "Volvo Penta slutade med utombordare kring 1990"),
+    (re.compile(r"optimax", re.I), 2016, "Mercury Optimax tillverkades till ca 2016"),
+]
+DIRECT_INJECTION = re.compile(r"e-?tec|optimax|tldi|hpdi|\bdi\b|direktinsprut", re.I)
+
+
+def estimate_engine_year(text: str, maker: str, boat_year: int | None) -> dict:
+    """Best guess when no engine year is stated: the boat's year, capped by the engine family's era.
+
+    An estimate, never presented as fact: a carburetted two-stroke on a 2014 hull is at most a 2007 engine.
+    """
+    if not boat_year:
+        return {"year": None, "reason": None}
+    blob = f"{maker} {text}"
+    for rx, last, why in ENGINE_ERAS:
+        if rx.search(blob):
+            return {"year": min(boat_year, last), "reason": why if boat_year > last else "antar originalmotor"}
+    if extract_stroke(text, maker) == 2 and not DIRECT_INJECTION.search(blob):
+        why = "förgasar-tvåtakt såldes inte ny i EU efter 2007"
+        return {"year": min(boat_year, 2007), "reason": why if boat_year > 2007 else "antar originalmotor"}
+    return {"year": boat_year, "reason": "antar originalmotor"}
 
 
 def extract_engine_type(heading: str, description: str, specs: dict, search_motor_type: str | None) -> dict:
@@ -347,6 +410,10 @@ def extract(heading: str, description: str, specs: dict, boat_year: int | None, 
         eyear = {"engine_year": None, "source": None, "needs_llm": False}
         reasons = []
     boat_year, boat_year_source = resolve_boat_year(heading, description, boat_year)
+    equipment = extract_equipment(heading, description)
+    if equipment.get("trailer", {}).get("included"):
+        equipment["trailer"].update(extract_trailer(text))
+    est = estimate_engine_year(text, maker, boat_year) if not eyear["engine_year"] else {"year": None, "reason": None}
     return {
         "rules_version": RULES_VERSION,
         "boat_year": boat_year,
@@ -360,7 +427,9 @@ def extract(heading: str, description: str, specs: dict, boat_year: int | None, 
         "engine_maker": maker or None,
         "engine_hours": extract_hours(text),
         "engine_stroke": extract_stroke(text, maker),
-        "equipment": extract_equipment(heading, description),
+        "engine_year_est": est["year"],
+        "engine_year_est_reason": est["reason"],
+        "equipment": equipment,
         "red_flags": [f for f in extract_red_flags(text) if f != "no_engine"],
         "swap_offered": swap_offered(text),
         "needs_llm": bool(etype["needs_llm"] or eyear["needs_llm"]),
