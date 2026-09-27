@@ -1,0 +1,107 @@
+{
+ "ad_id": 25425847,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790450741000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båt med tillhörande trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Båt med tillhörande trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25425847/c357a10e-d8dd-46ac-a88e-e010b6f301f1",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.54454,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "883f7557e9b970ec"
+ },
+ "location": "Vallentuna",
+ "lon": 18.01966,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 77,
+  "fetched_ts": 1790507858843,
+  "text_sha": "883f7557e9b970ec"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Orange",
+  "Längd i fot": "17 fot",
+  "Modell": "520?",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25425847",
+ "width_cm": 230,
+ "year": 1990
+}

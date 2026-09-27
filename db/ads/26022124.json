@@ -1,0 +1,106 @@
+{
+ "ad_id": 26022124,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787665313000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "-Nordflex hydraulstyrning",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 440 styrpulpet, med Mariner 60 hk (2-takt) och 30-vagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26022124/8702ee36-2656-435b-8ffe-2dab8c4cc3ad",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 67.34914,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn är från runt 1990 ?",
+   "engine_year_rejected": 1990,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d45cf1a27c704578"
+ },
+ "location": "Lovikka",
+ "lon": 22.63121,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 534,
+  "fetched_ts": 1790508397742,
+  "text_sha": "d45cf1a27c704578"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26022124",
+ "width_cm": 170,
+ "year": 1980
+}

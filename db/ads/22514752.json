@@ -1,0 +1,112 @@
+{
+ "ad_id": 22514752,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786042930000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercery",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2019,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Hösterbjudande Uttern S45 årsmodell 2015 motor 2019",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Nu säljer vi vår mycket välvårdade och fin Uttern S45 styrpullpetbåt med helkapell och pulpetkapell och motor Mercury 6…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Teaklaminatdurk, Trailer 80 km/h ingår i köpet.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Hösterbjudande Uttern S45",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22514752/5ea89075-52b7-4f9e-b2e2-c1219508c00d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.27453,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2015,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": 2019,
+   "engine_year_evidence": "Hösterbjudande Uttern S45 årsmodell 2015 motor 2019",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "75a334e6d2b69fa6"
+ },
+ "location": "Stavsnäs",
+ "lon": 18.6759,
+ "make": "Uttern",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 310,
+  "fetched_ts": 1790507458212,
+  "text_sha": "75a334e6d2b69fa6"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "36 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "S45",
+  "Modellår": "2015",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercery",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "28 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "401 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22514752",
+ "width_cm": 185,
+ "year": 2015
+}

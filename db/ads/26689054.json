@@ -1,0 +1,82 @@
+{
+ "ad_id": 26689054,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789741823000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 465R med en Yamaha 15 Hk 4-takt rorkult lång rigg 2004, går klockrent.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "elmotor": {
+    "evidence": "Det har suttit på en Frontmonterad elmotor, därav skruvhål.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Kärran ingår ej.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 465R med praktiskt kastdäck",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26689054/57b8b1b5-e33b-48be-adb0-bbfc12c5041f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.09347,
+ "length_ft": 15,
+ "location": "Järna",
+ "lon": 17.58503,
+ "make": "Ryds",
+ "max_speed": 15,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 403,
+  "fetched_ts": 1790508875975,
+  "text_sha": "d601b9cf5f2e563f"
+ },
+ "price": 28000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 28000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "465R",
+  "Modellår": "2000",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "15 knop",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "200 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26689054",
+ "width_cm": 175,
+ "year": 2000
+}

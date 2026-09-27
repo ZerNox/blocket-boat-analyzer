@@ -1,0 +1,74 @@
+{
+ "ad_id": 26245296,
+ "boat_class": "Annat",
+ "changed_ts": 1788339409000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki DF20A",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2022,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Suzuki DF20A årsmodell 2022",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Hamnkapell",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder 400 Sportsman med Suzuki 20 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26245296/9ea682a4-3234-44f7-8b91-dd0f0b5b4314",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.17061,
+ "length_ft": 13,
+ "location": "Stugun",
+ "lon": 15.60355,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 225,
+  "fetched_ts": 1790508551677,
+  "text_sha": "50943f0456afed6a"
+ },
+ "price": 74000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 74000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "13 fot",
+  "Modell": "Sportsman 400",
+  "Modellår": "2023",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Suzuki DF20A",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26245296",
+ "width_cm": 0,
+ "year": 2023
+}

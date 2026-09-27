@@ -1,0 +1,111 @@
+{
+ "ad_id": 24766139,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789122159000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": 48,
+  "engine_maker": "mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2023,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Pro packet, hajfena extra stabil ( gjord till båten), hydraulstyrning, navigator + ekolod (monterat invändigt)",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Pro packet, hajfena extra stabil ( gjord till båten), hydraulstyrning, navigator + ekolod (monterat invändigt)",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Skärgårds jeep, Sting 535 Pro",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24766139/f4906f01-69f7-45d6-b2f4-a1734c3cd0b0",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.34128,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2023,
+   "engine_hours": 48,
+   "engine_hp": 50,
+   "engine_maker": "mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "null",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "4f63b97d074eb1c9"
+ },
+ "location": "Stockholm",
+ "lon": 18.06785,
+ "make": "Sting",
+ "max_speed": 22,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 214,
+  "fetched_ts": 1790507618075,
+  "text_sha": "4f63b97d074eb1c9"
+ },
+ "price": 183000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 183000
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "18 fot",
+  "Modell": "535 Pro",
+  "Modellår": "2023",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Sting",
+  "Sittplatser": "8",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "22 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24766139",
+ "width_cm": 230,
+ "year": 2023
+}

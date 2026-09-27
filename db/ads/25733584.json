@@ -1,0 +1,75 @@
+{
+ "ad_id": 25733584,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786803031000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury 4-takt EFI 2019",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2019,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Mercury 4-takt EFI 2019",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "trailer": {
+    "evidence": "80-släpet på bild ingår ej.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 5 m. Med 15 hk 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25733584/ecb3e2c9-bac3-4161-874b-7551545db0ae",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.31669,
+ "length_ft": 15,
+ "location": "Hammarö",
+ "lon": 13.62441,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 139,
+  "fetched_ts": 1790508145218,
+  "text_sha": "ee33fc30b5569c3c"
+ },
+ "price": 29000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 29000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Grå/vit",
+  "Längd i fot": "15 fot",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Mercury 4-takt EFI 2019",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25733584",
+ "width_cm": 0,
+ "year": 1990
+}

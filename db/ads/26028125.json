@@ -1,0 +1,113 @@
+{
+ "ad_id": 26028125,
+ "boat_class": "Annat",
+ "changed_ts": 1788275147000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1958,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Säffle",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1958,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Lelång säljs med tillhörande delar inkl båtvagn.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "K-märkt Lidwall BVV 5 med original tändkulemotor och linspel!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26028125/72fb8a63-57d8-434d-8c1a-4ad9c3cf5e22",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.78128,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1958,
+   "engine_hours": null,
+   "engine_hp": 7,
+   "engine_maker": "Säffle",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Den gör fortfarande 2024 god tjänst i båten.",
+   "engine_year_rejected": 2024,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "76fa02f471487f1a"
+ },
+ "location": "Ramnäs",
+ "lon": 16.2123,
+ "make": "Övriga",
+ "max_speed": 5,
+ "motor_fuel": "Diesel",
+ "motor_size": 7.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 1350,
+  "fetched_ts": 1790508399264,
+  "text_sha": "76fa02f471487f1a"
+ },
+ "price": 48500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 48500
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Grön enligt original",
+  "Längd i fot": "15 fot",
+  "Modell": "Lidwall BVV 5",
+  "Modellår": "1958",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "7 hk",
+  "Motortillverkare": "Säffle",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Annat",
+  "Toppfart": "5 knop",
+  "Typ": "Annat",
+  "Vikt": "1 500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26028125",
+ "width_cm": 200,
+ "year": 1958
+}

@@ -1,0 +1,120 @@
+{
+ "ad_id": 25352131,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785747090000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "* Lowrance Elite FS 9” ekolod/kartplotter",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "* Komplett kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance Elite FS 9",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Big Buster – Mercury 75 hk – Lowrance Elite FS 9 – Trailer – Mycket fint skick",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25352131/8d25f44c-3211-4cc5-96d1-aacab1e52062",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 55.58137,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2a26b5029250aab5"
+ },
+ "location": "Klågerup",
+ "lon": 13.28997,
+ "make": "Buster",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 865,
+  "fetched_ts": 1790507789437,
+  "text_sha": "2a26b5029250aab5"
+ },
+ "price": 79000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 79000
+  }
+ ],
+ "specs": {
+  "Bredd": "190 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Röd",
+  "Längd i fot": "16 fot",
+  "Modell": "Big Buster",
+  "Modellår": "1990",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "32 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "350 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25352131",
+ "width_cm": 190,
+ "year": 1990
+}

@@ -1,0 +1,112 @@
+{
+ "ad_id": 26767911,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789981825000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "I våras gjordes en rejäl uppfräschning av båten där bland annat kapellet gjordes iordning med stor tvätt och impregneri…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "I priset ingår även en 30-trailer med helt nya däck.",
+    "included": true,
+    "kmh": 30
+   },
+   "vinterkapell": {
+    "evidence": "Båten står just nu på land under presenning.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 495 HT - 40hk Suzuki",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26767911/8703da13-fe56-4101-8ec8-4de366d1c277",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.25003,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1975,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn är en Suzuki 40hk, går bra och även den servades med ny impeller i våras.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "cb8f1e25d4821dc2"
+ },
+ "location": "Karlskrona",
+ "lon": 15.72848,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 730,
+  "fetched_ts": 1790508930445,
+  "text_sha": "cb8f1e25d4821dc2"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Orange",
+  "Längd i fot": "15 fot",
+  "Modell": "495",
+  "Modellår": "1975",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26767911",
+ "width_cm": 0,
+ "year": 1975
+}

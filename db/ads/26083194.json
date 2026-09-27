@@ -1,0 +1,68 @@
+{
+ "ad_id": 26083194,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787846278000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki år 2021/2022",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Suzuki år 2021/2022",
+  "engine_year_source": "rule:spec",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fiskebåt med Suzuki 4Hk och 30 vagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26083194/32ccacf9-2877-4393-856f-6e9f46dee24a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.6409,
+ "length_ft": 13,
+ "location": "Valbo",
+ "lon": 17.00921,
+ "make": "Lami",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 4.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 570,
+  "fetched_ts": 1790508442712,
+  "text_sha": "8e620786706acbc2"
+ },
+ "price": 13500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 13500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "13 fot",
+  "Modellår": "2021",
+  "Motorstorlek": "4 hk",
+  "Motortillverkare": "Suzuki år 2021/2022",
+  "Motortyp": "Utombordare",
+  "Märke": "Lami",
+  "Sittplatser": "5",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26083194",
+ "width_cm": 0,
+ "year": 2021
+}

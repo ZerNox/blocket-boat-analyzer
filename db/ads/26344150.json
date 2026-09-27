@@ -1,0 +1,114 @@
+{
+ "ad_id": 26344150,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789281710000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": 95,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2019,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin 92sv med GT52-givare, ekolod och sjökort för mellansverige med bl a Storsjön, Näkten och Revsundssjön.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "HR442sc med Suzuki 50, trailer för 80 och Trollingrigg",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR442sc med Suzuki 50, trailer för 80 och Trollingrigg",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26344150/094425b4-145c-466a-bddb-ab3ddc40cac8",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 62.88628,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2019,
+   "engine_hours": 95,
+   "engine_hp": 50,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Köpt båten komplett från Båtladan år 2019.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "56225ef50924e0c4"
+ },
+ "location": "Hackås",
+ "lon": 14.54874,
+ "make": "HR",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 924,
+  "fetched_ts": 1790508614121,
+  "text_sha": "56225ef50924e0c4"
+ },
+ "price": 130000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 130000
+  }
+ ],
+ "specs": {
+  "Bredd": "188 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "442sc",
+  "Modellår": "2019",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "310 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26344150",
+ "width_cm": 188,
+ "year": 2019
+}

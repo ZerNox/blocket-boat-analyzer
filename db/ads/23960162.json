@@ -1,0 +1,74 @@
+{
+ "ad_id": 23960162,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786433411000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor från 2005, båten oklar årsmodell.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Baystar hydraulstyrning.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ockelbo B16 med Mercury 75 hp",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23960162/15acfc7c-c80a-4724-af54-e500423ab7a8",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.79888,
+ "length_ft": 16,
+ "location": "Nyköping",
+ "lon": 17.12242,
+ "make": "Ockelbo",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 204,
+  "fetched_ts": 1790507555927,
+  "text_sha": "1dd7c616fd678c00"
+ },
+ "price": 39000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 39000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ockelbo",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23960162",
+ "width_cm": 0,
+ "year": 1980
+}

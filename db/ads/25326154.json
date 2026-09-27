@@ -1,0 +1,104 @@
+{
+ "ad_id": 25326154,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786274751000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "Evinrude utan E-TEC tillverkades till 2007",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Stinger",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25326154/269c6628-b403-4bb2-a23a-1805c722d368",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.28273,
+ "length_ft": 10,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2010,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "20d5f3a01613aa2d"
+ },
+ "location": "Valdemarsvik",
+ "lon": 16.78079,
+ "make": "Sting",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 364,
+  "fetched_ts": 1790507761135,
+  "text_sha": "20d5f3a01613aa2d"
+ },
+ "price": 18000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 18000
+  }
+ ],
+ "specs": {
+  "Bredd": "0 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "0 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "10 fot",
+  "Modell": "Stinger",
+  "Modellår": "2010",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Sting",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "1 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25326154",
+ "width_cm": 0,
+ "year": 2010
+}

@@ -1,0 +1,71 @@
+{
+ "ad_id": 26175235,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788711256000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": 25,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2025,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten köptes sommar 2025 begagnad (den är från 2024) och motorn är ny 2025.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Gummibåt med 3.5 hk motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26175235/87e5fb71-3c97-475e-950c-1b7a2b568034",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.34269,
+ "length_ft": 8,
+ "location": "Stockholm",
+ "lon": 18.0894,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 3.5,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 120,
+  "fetched_ts": 1790508503978,
+  "text_sha": "29d0269a2eae365d"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "136 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Ljusgrå",
+  "Längd i fot": "8 fot",
+  "Modell": "Aquasmart light 240",
+  "Modellår": "2023",
+  "Motorstorlek": "3.5 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "24 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26175235",
+ "width_cm": 136,
+ "year": 2023
+}

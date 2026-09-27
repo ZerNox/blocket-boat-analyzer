@@ -1,0 +1,115 @@
+{
+ "ad_id": 25777729,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786910371000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2015,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Pris: 115.000:- med alla utrustning eller 99.000:- utan elmotor och ekolod",
+    "included": false
+   },
+   "elmotor": {
+    "evidence": "Pris: 115.000:- med alla utrustning eller 99.000:- utan elmotor och ekolod",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "Båten kommer med en helt nyservad mercury 30hk EFI 4-takt, Trailer 80km/h obromsad båttrailer, nybesiktad i juli.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder sportsman 445 Max 2015 - 30hk mercury EFI- 9” Garmin - fiskeutrustad",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25777729/5fec1cb6-3bb4-4988-b7ff-11911e9653c3",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.19279,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2015,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Båten kommer med en helt nyservad mercury 30hk EFI 4-takt, Motortillverkare: Mercury, Motorstorlek: 30 hk, Motortyp: Utombordare",
+   "equipment": {
+    "ekolod": "excluded",
+    "elmotor": "excluded",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "64d5f5711dd011fc"
+ },
+ "location": "Knislinge",
+ "lon": 14.09093,
+ "make": "Linder",
+ "max_speed": 24,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 351,
+  "fetched_ts": 1790508186161,
+  "text_sha": "64d5f5711dd011fc"
+ },
+ "price": 99000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 99000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "445 Max",
+  "Modellår": "2015",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "24 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25777729",
+ "width_cm": 175,
+ "year": 2015
+}

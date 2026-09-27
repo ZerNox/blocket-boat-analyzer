@@ -1,0 +1,85 @@
+{
+ "ad_id": 24948594,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789202293000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": 55,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2020,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Micore Xw 48 sc & Honda 50 hk 4-takt -20 Superfin båt, aldrig körd i saltvatten, endast gått i sötvatten.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin echomap UHD 72 CV (gps och ekolod)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin echomap UHD 72 CV (gps och ekolod)",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "- LTC stereo med Bluetooth",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "- Tiki trailer EU-obromsad 750kg",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Micore Xw 48 sc",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24948594/734b28aa-fc3c-4f64-b57e-6b39c1bf6fd5",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.48796,
+ "length_ft": 15,
+ "location": "Borlänge",
+ "lon": 15.42828,
+ "make": "Micore",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 588,
+  "fetched_ts": 1790507631734,
+  "text_sha": "f3713557df204f27"
+ },
+ "price": 149000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 149000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "Xw 48sc",
+  "Modellår": "2020",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Micore",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24948594",
+ "width_cm": 0,
+ "year": 2020
+}

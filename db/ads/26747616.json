@@ -1,0 +1,103 @@
+{
+ "ad_id": 26747616,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789920700000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1993,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1993,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Uttern 4501 med 40 hk Yamaha-93 samt 30-trailer.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Uttern 4501 med 40 hk Yamaha-93 samt 30-trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 4501 med 40 hk Yamaha-93 samt 30-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26747616/c011e572-65e1-4e90-89c2-a4e67f3f4c89",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.3725,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1993,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortillverkare: Yamaha Motortyp: Utombordare Motorstorlek: 40 hk",
+   "engine_year_rejected": 1993,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f57b2d9b08760535"
+ },
+ "location": "Strängnäs",
+ "lon": 17.03153,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 499,
+  "fetched_ts": 1790508914790,
+  "text_sha": "f57b2d9b08760535"
+ },
+ "price": 28500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 28500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "4501",
+  "Modellår": "1993",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26747616",
+ "width_cm": 0,
+ "year": 1993
+}

@@ -1,0 +1,96 @@
+{
+ "ad_id": 25151529,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1790331696000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fiskebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25151529/311ce6d9-782e-490e-ac5f-663d6a792ca6",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.61518,
+ "length_ft": 8,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2005,
+   "engine_hours": null,
+   "engine_hp": 2.5,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ee847aaed3892b08"
+ },
+ "location": "Falun",
+ "lon": 15.61904,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 2.5,
+ "motor_type": null,
+ "page": {
+  "description_chars": 453,
+  "fetched_ts": 1790507641062,
+  "text_sha": "ee847aaed3892b08"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "8 fot",
+  "Modell": "255",
+  "Modellår": "2005",
+  "Motorstorlek": "2.5 hk",
+  "Motortillverkare": "Yamaha",
+  "Märke": "Ryds",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25151529",
+ "width_cm": 0,
+ "year": 2005
+}

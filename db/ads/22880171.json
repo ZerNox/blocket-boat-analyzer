@@ -1,0 +1,107 @@
+{
+ "ad_id": 22880171,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789977888000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin striker plus 5cv,",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Brenderup 80km/h besiktigad till 2027",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 5001 60hk evinrude",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22880171/9b124b1f-f352-4a1a-b0cf-7b531481dabe",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.70703,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Evinrude 60hk 2-takt, eltilt.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2dd86c0fefe714de"
+ },
+ "location": "Sandared",
+ "lon": 12.77804,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 442,
+  "fetched_ts": 1790507468041,
+  "text_sha": "2dd86c0fefe714de"
+ },
+ "price": 52000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 52000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modell": "5001",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22880171",
+ "width_cm": 0,
+ "year": 1990
+}

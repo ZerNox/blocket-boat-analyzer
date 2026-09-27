@@ -1,0 +1,106 @@
+{
+ "ad_id": 25290248,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787481862000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Helt kapell i bra skick",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Stabil 30-kärra ingår",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 545 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25290248/a6af73fe-3060-4d6e-9c4f-6692fbce6249",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.38319,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1900,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6df2e849f39d14bc"
+ },
+ "location": "Vålberg",
+ "lon": 13.1762,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 646,
+  "fetched_ts": 1790507732920,
+  "text_sha": "6df2e849f39d14bc"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modellår": "1900",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25290248",
+ "width_cm": 0,
+ "year": 1900
+}

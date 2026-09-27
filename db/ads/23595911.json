@@ -1,0 +1,79 @@
+{
+ "ad_id": 23595911,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785398262000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2014,
+  "boat_year_source": "spec",
+  "engine_hours": 73,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Liten styrpulpet (mittpulpet) i aluminium Buster SCC årsmodell 2014 med Yamaha F30 årsmodell 2018 Gångtid endast 73 timmar.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Båttrailer Tiki BS600 (80 km) ingår.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster SCC med Yamaha F30",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23595911/145d10ec-4964-42e1-b017-959733543747",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.54036,
+ "length_ft": 15,
+ "location": "Karlholmsbruk",
+ "lon": 17.62079,
+ "make": "Buster",
+ "max_speed": 24,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 266,
+  "fetched_ts": 1790507519981,
+  "text_sha": "a384b0d09baff511"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Bredd": "182 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "SCC",
+  "Modellår": "2014",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "24 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "275 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23595911",
+ "width_cm": 182,
+ "year": 2014
+}

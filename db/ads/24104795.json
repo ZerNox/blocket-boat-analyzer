@@ -1,0 +1,104 @@
+{
+ "ad_id": 24104795,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786731261000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1993,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1993,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Enklare kärra medföljer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Kållandsöjolle med två motorer Mariner 28 och Mariner 9,9",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24104795/1f3fe10e-f407-4291-b036-bb519921c454",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.5034,
+ "length_ft": 10,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1993,
+   "engine_hours": null,
+   "engine_hp": 28,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8a41b2b45ff48af0"
+ },
+ "location": "Lidköping",
+ "lon": 13.14032,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 28.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 179,
+  "fetched_ts": 1790507570490,
+  "text_sha": "8a41b2b45ff48af0"
+ },
+ "price": 17000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 17000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "10 fot",
+  "Modell": "Kållandsöjolle",
+  "Modellår": "1993",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "28 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24104795",
+ "width_cm": 0,
+ "year": 1993
+}

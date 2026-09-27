@@ -1,0 +1,90 @@
+{
+ "ad_id": 24800771,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789286458000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2026,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2026,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Linder 445 Catch Yamaha F30 -26 NYSKICK!.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "elmotor": {
+    "evidence": "Minn Kota Terrova 55 WR 54\" (Elmotor i fören som är mycket bättre än Powerdrive-varianterna)",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Victron Blue Smart laddare",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin GPS UHD 92SV plusw/o XDCR (integrerad i pulpeten)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Linder Sportsman 445 Catch med Yamaha F30 och 80-trailer i Toppskick!",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder 445 Catch Yamaha F30 -26 NYSKICK!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24800771/961a6fbd-f9cc-4404-b68f-7d3765e2a531",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.73673,
+ "length_ft": 15,
+ "location": "Leksand",
+ "lon": 14.98257,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 2009,
+  "fetched_ts": 1790507620721,
+  "text_sha": "7ccffde343b715d8"
+ },
+ "price": 199000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 199000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "Sportsman 445 Catch",
+  "Modellår": "2026",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "252 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24800771",
+ "width_cm": 175,
+ "year": 2026
+}

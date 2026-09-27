@@ -1,0 +1,84 @@
+{
+ "ad_id": 26836514,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790198513000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2017,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Stöldskyddsmärkt skrov, motorlås, lås till kulkoppling, GPS-spårning",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Praktisk båttrailer 80 km/h från Respo inköpt 2018 där ljusramp enkel fälls upp vid båt-iläggning/-upptagning.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Mycket fräsch HR 442SC med 50 hk Suzuki-motor från 2017",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26836514/4d26619b-e492-4cae-bd17-5587231323da",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.74451,
+ "length_ft": 15,
+ "location": "Ingelstad",
+ "lon": 14.91121,
+ "make": "HR",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1161,
+  "fetched_ts": 1790508968978,
+  "text_sha": "b501cf04fc9c7b8a"
+ },
+ "price": 118000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 118000
+  }
+ ],
+ "specs": {
+  "Bredd": "188 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "442SC",
+  "Modellår": "2017",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26836514",
+ "width_cm": 188,
+ "year": 2017
+}

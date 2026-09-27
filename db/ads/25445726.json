@@ -1,0 +1,98 @@
+{
+ "ad_id": 25445726,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786002142000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 430 med Suzuki 30HK",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25445726/e8f5694e-f282-4771-b667-e674442fc156",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.35677,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1995,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "693192590c69b3d4"
+ },
+ "location": "Örebro",
+ "lon": 15.20298,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790507876271,
+  "text_sha": "693192590c69b3d4"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "430",
+  "Modellår": "1995",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25445726",
+ "width_cm": 0,
+ "year": 1995
+}

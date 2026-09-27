@@ -1,0 +1,87 @@
+{
+ "ad_id": 25862069,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789988967000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda 50HK",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2017,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt och motor togs i bruk 2017, enda ägaren (köpt på marindepån).",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin 52EDV (ekolod/plotter)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin 52EDV (ekolod/plotter)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Tiki BT 700 båtvagn 80 km/h",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Terhi 475 Bowrider + Honda 50Hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25862069/7204b92a-88aa-4c52-b762-a55ebf6d4fdf",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.4017,
+ "length_ft": 16,
+ "location": "Sollentuna",
+ "lon": 17.9905,
+ "make": "Terhi",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 553,
+  "fetched_ts": 1790508255661,
+  "text_sha": "327f25db7cccb301"
+ },
+ "price": 99000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 99000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "475 Bowrider",
+  "Modellår": "2016",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda 50HK",
+  "Motortyp": "Utombordare",
+  "Märke": "Terhi",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "390 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25862069",
+ "width_cm": 185,
+ "year": 2016
+}

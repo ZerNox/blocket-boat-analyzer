@@ -1,0 +1,103 @@
+{
+ "ad_id": 25920916,
+ "boat_class": "Annat",
+ "changed_ts": 1787387053000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1951,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Volvo Penta MD IIB",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1951,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Bohusjulle",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25920916/83d61b26-036c-4e80-8516-6656ba977885",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 55.66226,
+ "length_ft": 24,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1951,
+   "engine_hours": null,
+   "engine_hp": 25,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6c453b5bddf304a5"
+ },
+ "location": "Kivik",
+ "lon": 14.21889,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": 25.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 236,
+  "fetched_ts": 1790508301955,
+  "text_sha": "6c453b5bddf304a5"
+ },
+ "price": 27000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 27000
+  }
+ ],
+ "specs": {
+  "Bredd": "285 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "24 fot",
+  "Modellår": "1951",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Volvo Penta MD IIB",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25920916",
+ "width_cm": 285,
+ "year": 1951
+}

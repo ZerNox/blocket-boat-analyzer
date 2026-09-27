@@ -1,0 +1,84 @@
+{
+ "ad_id": 26696064,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790447212000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mercury 60 hk 2-takt från 2005",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "plotter": {
+    "evidence": "Vid köp utan Lowrance demonteras utrustningen före leverans.",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "80-trailer",
+    "included": true,
+    "kmh": 80,
+    "year": 2019
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 5102 – mycket fint skick – Mercury 60 hk – 80-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26696064/669d6f2c-b51b-4d4f-b712-2d3f2818ca74",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.76798,
+ "length_ft": 17,
+ "location": "Tävelsås",
+ "lon": 14.81154,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1540,
+  "fetched_ts": 1790508880102,
+  "text_sha": "972db75103b01257"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "5102",
+  "Modellår": "1995",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "440 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26696064",
+ "width_cm": 205,
+ "year": 1995
+}

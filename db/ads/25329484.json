@@ -1,0 +1,102 @@
+{
+ "ad_id": 25329484,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785674506000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1959,
+  "boat_year_source": "spec",
+  "engine_hours": 3,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "electric",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1959,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Sjösättningstrailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Elbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25329484/6ced63ad-bb87-45bd-a502-dd01d7526008",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.74933,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1959,
+   "engine_hours": null,
+   "engine_hp": 6,
+   "engine_maker": "Toqeedoo",
+   "engine_type": "electric",
+   "engine_year": null,
+   "engine_year_evidence": "3500w24v batteri",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "192ee47ecb4a3586"
+ },
+ "location": "Norrtälje",
+ "lon": 18.67805,
+ "make": "Absolute",
+ "max_speed": null,
+ "motor_fuel": "Elektrisk",
+ "motor_size": 6.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 99,
+  "fetched_ts": 1790507765532,
+  "text_sha": "192ee47ecb4a3586"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Elektrisk",
+  "Längd i fot": "15 fot",
+  "Modell": "Elbåt",
+  "Modellår": "1959",
+  "Motorstorlek": "6 hk",
+  "Märke": "Absolute",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25329484",
+ "width_cm": 0,
+ "year": 1959
+}

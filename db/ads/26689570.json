@@ -1,0 +1,82 @@
+{
+ "ad_id": 26689570,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789745216000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": 30,
+  "engine_maker": "Parsun",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Höga Rodd 470 tillverkad 2009 med 20hk Parsun EFI 4-takt från 2021 säljes till höstpris.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Följer med batteri, bensintank, ekolod, åror, två nycklar, instruktionsbok, extra propeller, länspump och motorlås.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ingen båtvagn.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR470 20hk 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26689570/81a9d92c-f674-4ecd-b460-037736a5adf0",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.67121,
+ "length_ft": 16,
+ "location": "Umeå",
+ "lon": 20.01815,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 493,
+  "fetched_ts": 1790508877185,
+  "text_sha": "e3443e2c7292a492"
+ },
+ "price": 29000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 29000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "470",
+  "Modellår": "2021",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Parsun",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Skrovmaterial": "Plast",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "220 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26689570",
+ "width_cm": 175,
+ "year": 2021
+}

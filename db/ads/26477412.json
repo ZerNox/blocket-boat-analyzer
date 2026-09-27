@@ -1,0 +1,100 @@
+{
+ "ad_id": 26477412,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789046573000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2022,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Höstfynd",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26477412/4f7114b4-cf25-41a4-85eb-8a7c51ad31ca",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.28266,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2022,
+   "engine_hours": null,
+   "engine_hp": 6,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6111bf2c5862f552"
+ },
+ "location": "Örebro",
+ "lon": 15.21792,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790508715445,
+  "text_sha": "6111bf2c5862f552"
+ },
+ "price": 14900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 14900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "13 fot",
+  "Modell": "390",
+  "Modellår": "2022",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26477412",
+ "width_cm": 0,
+ "year": 2022
+}

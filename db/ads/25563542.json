@@ -1,0 +1,82 @@
+{
+ "ad_id": 25563542,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787474001000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1969,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1990,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Johnson 30 hk, årsmodell 1990",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Blått kapell ingår",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 44 Sport – klassisk Pelle Pettersson",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25563542/bd1dd924-982c-41aa-a299-843d6cfea5f6",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.11118,
+ "length_ft": 14,
+ "location": "Norrhult",
+ "lon": 15.19892,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1204,
+  "fetched_ts": 1790508003296,
+  "text_sha": "b637843d57af8235"
+ },
+ "price": 18900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 18900
+  }
+ ],
+ "specs": {
+  "Bredd": "165 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "44 Sport",
+  "Modellår": "1969",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "200 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25563542",
+ "width_cm": 165,
+ "year": 1969
+}

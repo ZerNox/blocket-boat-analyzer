@@ -1,0 +1,99 @@
+{
+ "ad_id": 26715664,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789830751000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "okänd",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 418 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26715664/b15d7b83-effe-4e5f-a32b-0a76fad51d48",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.98847,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 10,
+   "engine_maker": "okänd",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "16d9832476edebec"
+ },
+ "location": "Billingsfors",
+ "lon": 12.24933,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 10.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 129,
+  "fetched_ts": 1790508887068,
+  "text_sha": "16d9832476edebec"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blåvit",
+  "Längd i fot": "14 fot",
+  "Modell": "418 HT",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "10 hk",
+  "Motortillverkare": "okänd",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26715664",
+ "width_cm": 0,
+ "year": 1978
+}

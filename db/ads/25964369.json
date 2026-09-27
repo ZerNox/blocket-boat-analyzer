@@ -1,0 +1,84 @@
+{
+ "ad_id": 25964369,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789227456000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1997,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "* Yamaha 30 hk, 2-takt 1997",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "* Ekolod",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "* Stereo med högtalare",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Yamaha 30 hk 2-takt med kärra",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Cresent 525",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25964369/689647cc-e325-4ec2-99a3-45840e3b67d3",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.38319,
+ "length_ft": 17,
+ "location": "Vålberg",
+ "lon": 13.1762,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 456,
+  "fetched_ts": 1790508328731,
+  "text_sha": "902d7482bca89c9e"
+ },
+ "price": 31500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 31500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modellår": "1975",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "6",
+  "Sovplatser": "3",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25964369",
+ "width_cm": 0,
+ "year": 1975
+}

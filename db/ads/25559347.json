@@ -1,0 +1,103 @@
+{
+ "ad_id": 25559347,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786291632000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Ingår även en sjösättnings kärra",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 520ST",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25559347/9cdbf2d3-fdc7-41e1-b8bf-2b5dd98a49d3",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.33114,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b9eb34eb9d817211"
+ },
+ "location": "Gräsö",
+ "lon": 18.63382,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 125,
+  "fetched_ts": 1790507996273,
+  "text_sha": "b9eb34eb9d817211"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "520ST",
+  "Modellår": "1980",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "8",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25559347",
+ "width_cm": 0,
+ "year": 1980
+}

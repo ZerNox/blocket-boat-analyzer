@@ -1,0 +1,81 @@
+{
+ "ad_id": 22076684,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786277989000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2002,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Crescent 430 från 80 talet med en Suzuki 20 hk motor från 2002, med åror.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Eu-trailern på bilderna ingår inte i köpet och är inte till salu.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 430",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22076684/0552bd4a-faee-415d-99b4-cd5ce34dcf2c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.8409,
+ "length_ft": 14,
+ "location": "Kungälv",
+ "lon": 11.9773,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 139,
+  "fetched_ts": 1790507434323,
+  "text_sha": "f8449b33fa9fce5f"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "190 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "430",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "1",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "210 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22076684",
+ "width_cm": 190,
+ "year": 1980
+}

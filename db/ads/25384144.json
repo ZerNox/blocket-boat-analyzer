@@ -1,0 +1,117 @@
+{
+ "ad_id": 25384144,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787647269000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Raymarine Dragonfly-7 ekolod/GPS",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell över kabindelen",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Raymarine Dragonfly-7 ekolod/GPS",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "trailer & båtplats i centrala Strängnäs kan följa med",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Hardtopbåt i Strängnäs",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25384144/a348d452-a076-4213-8067-14d074c3b7e0",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.37362,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Yamaha 40 hästars 2-taktare. Motorn behöver en service – kostnaden för detta är inkluderad i priset, så köparen slipper den utgiften.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "905a57ceb8fabf8e"
+ },
+ "location": "Strängnäs",
+ "lon": 17.01929,
+ "make": "Lami",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 899,
+  "fetched_ts": 1790507827112,
+  "text_sha": "905a57ceb8fabf8e"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Lami",
+  "Sittplatser": "3",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25384144",
+ "width_cm": 185,
+ "year": 1980
+}

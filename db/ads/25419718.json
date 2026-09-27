@@ -1,0 +1,108 @@
+{
+ "ad_id": 25419718,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1785927782000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha F25AE",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båten säljes utan trailer och är i gott bruksskick och redo för nya fisketurer.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik 480",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25419718/b9f4c83f-db6a-433f-9236-c6ea2ba9285a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.30477,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 25,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Utombordare",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6adac4d77ceb4530"
+ },
+ "location": "Arboga",
+ "lon": 15.76524,
+ "make": "Örnvik",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 505,
+  "fetched_ts": 1790507853199,
+  "text_sha": "6adac4d77ceb4530"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Bredd": "193 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "480",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Yamaha F25AE",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "20 knop",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "215 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25419718",
+ "width_cm": 193,
+ "year": 1980
+}

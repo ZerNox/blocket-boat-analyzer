@@ -1,0 +1,105 @@
+{
+ "ad_id": 26555790,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789300504000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnsson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2016,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Det ingår både motor och trailer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Honda Honwave gummibåt inkl motor 9,9hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26555790/6685f3a9-fada-4167-b139-123248387e26",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.64861,
+ "length_ft": 9,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2016,
+   "engine_hours": null,
+   "engine_hp": 9.9,
+   "engine_maker": "Johnsson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8512785a74406304"
+ },
+ "location": "Motala",
+ "lon": 14.9535,
+ "make": "Honda",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 9.899999618530273,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 341,
+  "fetched_ts": 1790508784652,
+  "text_sha": "8512785a74406304"
+ },
+ "price": 9900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Gråt",
+  "Längd i fot": "9 fot",
+  "Modell": "Hon Wave 2,70",
+  "Modellår": "2016",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "9.9 hk",
+  "Motortillverkare": "Johnsson",
+  "Motortyp": "Utombordare",
+  "Märke": "Honda",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26555790",
+ "width_cm": 0,
+ "year": 2016
+}

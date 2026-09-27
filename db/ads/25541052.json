@@ -1,0 +1,81 @@
+{
+ "ad_id": 25541052,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786268427000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1992,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1994,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor: Yamaha 2-takt 1994, startar och går fint.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "En enklare (obromsad/30-trailer) ingår om så önskas och även en dolly för motorn.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 465 med Yamaha 25hk motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25541052/af4782ff-76f0-4f8c-b6df-035727c37d66",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.6166,
+ "length_ft": 15,
+ "location": "Västerås",
+ "lon": 16.57387,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 649,
+  "fetched_ts": 1790507976762,
+  "text_sha": "94d5d99c1da7aef2"
+ },
+ "price": 16500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 16500
+  }
+ ],
+ "specs": {
+  "Bredd": "182 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "20 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "465",
+  "Modellår": "1992",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "240 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25541052",
+ "width_cm": 182,
+ "year": 1992
+}

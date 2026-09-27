@@ -1,0 +1,103 @@
+{
+ "ad_id": 25987925,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787557979000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2019,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "V-Boat fish 46 Höstpris",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25987925/b65339eb-4555-4f37-aedc-71c7fe7f0b98",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.4999,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2019,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "403b1fbbe863af57"
+ },
+ "location": "Bro",
+ "lon": 17.61847,
+ "make": "V-Boats",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790508362365,
+  "text_sha": "403b1fbbe863af57"
+ },
+ "price": 230000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 230000
+  }
+ ],
+ "specs": {
+  "Bredd": "198 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "46 fish",
+  "Modellår": "2019",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "V-Boats",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "32 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25987925",
+ "width_cm": 198,
+ "year": 2019
+}

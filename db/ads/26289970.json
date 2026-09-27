@@ -1,0 +1,103 @@
+{
+ "ad_id": 26289970,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788462517000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Original kapell som är slitet och lite missfärgat men gör sitt jobb.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ockelbo HT15",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26289970/49473298-0873-445b-ba98-fa7f9419386a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 62.52117,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1975,
+   "engine_hours": null,
+   "engine_hp": 16,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Den gick när den togs upp förra säsongen.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0eaa123881f90c35"
+ },
+ "location": "Kovland",
+ "lon": 16.96305,
+ "make": "Ockelbo",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 16.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 497,
+  "fetched_ts": 1790508576505,
+  "text_sha": "0eaa123881f90c35"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "Ht15",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "16 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Ockelbo",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26289970",
+ "width_cm": 0,
+ "year": 1975
+}

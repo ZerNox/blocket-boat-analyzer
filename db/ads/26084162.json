@@ -1,0 +1,109 @@
+{
+ "ad_id": 26084162,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787848302000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": 11,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2021,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båtvagn 30 km/h.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sting 535 Pro Mercury F50 EFI",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26084162/01f0f213-fbce-4fac-bd3c-1c10ebdd82ea",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.32772,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2021,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn har endast 11 drifttimmar. Som ny!",
+   "engine_year_rejected": 2021,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c52633ee7a2c245d"
+ },
+ "location": "Själevad",
+ "lon": 18.53007,
+ "make": "Sting",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 192,
+  "fetched_ts": 1790508444206,
+  "text_sha": "c52633ee7a2c245d"
+ },
+ "price": 189000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 189000
+  }
+ ],
+ "specs": {
+  "Bredd": "223 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "535 Pro",
+  "Modellår": "2021",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Sting",
+  "Sittplatser": "8",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "1",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26084162",
+ "width_cm": 223,
+ "year": 2021
+}

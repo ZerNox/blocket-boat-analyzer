@@ -1,0 +1,112 @@
+{
+ "ad_id": 25908729,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787360334000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2003,
+  "boat_year_source": "spec",
+  "engine_hours": 24,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2020,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mercury 60 hk, tillverkningsår 2020, gångtid 24 timmar, endast körd i sötvatten.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Utrustning Bimini-topp vit.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "GPS Raymarine Dragonfly-5.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtvagn medföljer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern S 52 Exlusiv. Mercury 60 hk, gångtid 24 timmar. Båtvagn medföljer.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25908729/d19b8784-6c25-4bda-ae21-a1a52f3f3396",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.31759,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2003,
+   "engine_hours": 24,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mercury 60 hk, tillverkningsår 2020",
+   "engine_year_rejected": 2020,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a8a160bdd273b657"
+ },
+ "location": "Skoghall",
+ "lon": 13.49723,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 246,
+  "fetched_ts": 1790508293530,
+  "text_sha": "a8a160bdd273b657"
+ },
+ "price": 130000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 130000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå",
+  "Längd i fot": "17 fot",
+  "Modell": "S 52 Exclusiv",
+  "Modellår": "2003",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25908729",
+ "width_cm": 0,
+ "year": 2003
+}

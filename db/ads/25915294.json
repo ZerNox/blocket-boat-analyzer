@@ -1,0 +1,112 @@
+{
+ "ad_id": 25915294,
+ "boat_class": "Annat",
+ "changed_ts": 1787341786000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Helt nytt kapell i maj 2026.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer ingår (30km/h).",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Mycket fin Fugetive 3,80 sport-/tävlingsbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25915294/fd14864d-34aa-4a9d-878d-9d01a43ba4f9",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.32852,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor: 15hk Yamaha 2-taktare.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7b6e9bd70ae9961a"
+ },
+ "location": "Bollnäs",
+ "lon": 16.23458,
+ "make": "Övriga",
+ "max_speed": 21,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 452,
+  "fetched_ts": 1790508296056,
+  "text_sha": "7b6e9bd70ae9961a"
+ },
+ "price": 18000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 18000
+  }
+ ],
+ "specs": {
+  "Bredd": "130 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "13 fot",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "21 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25915294",
+ "width_cm": 130,
+ "year": 1985
+}

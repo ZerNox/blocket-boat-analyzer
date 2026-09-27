@@ -1,0 +1,77 @@
+{
+ "ad_id": 26547891,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789288031000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1986,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 480 ifrån 1986 med en Mercury 30HK 2 takts motor, ifrån 2006/2007.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "80-kärra ifrån 2008 ingår.",
+    "included": true,
+    "kmh": 80,
+    "year": 2008
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 480 30hk Mercury 2tkt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26547891/e921f411-c018-4201-bb3f-2e926bdf6d64",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.71741,
+ "length_ft": 15,
+ "location": "Kolmården",
+ "lon": 16.32982,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 98,
+  "fetched_ts": 1790508781936,
+  "text_sha": "0ac0088dad8331db"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "480",
+  "Modellår": "1986",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26547891",
+ "width_cm": 0,
+ "year": 1986
+}

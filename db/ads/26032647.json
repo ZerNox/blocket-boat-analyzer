@@ -1,0 +1,111 @@
+{
+ "ad_id": 26032647,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787676921000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": 2,
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2023,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Sandström 460 Classic styrpulpet med ruta , självläns, 2023, lite timmar, gps Garmin, el start, powertrim.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Obs ingen trailer eller båtvagn ingår!",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sandström Classic 460 2023 Honda 20 HK",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26032647/04d67109-ebd0-4058-b632-9cf79878c3ee",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.60224,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2023,
+   "engine_hours": 2,
+   "engine_hp": 20,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Båten har nu kört i 2 timmar sedan utförd service. Obs ingen trailer eller båtvagn ingår!",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d3251d5082a552f0"
+ },
+ "location": "Norrköping",
+ "lon": 16.26406,
+ "make": "Sandström",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 302,
+  "fetched_ts": 1790508400849,
+  "text_sha": "d3251d5082a552f0"
+ },
+ "price": 79000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 79000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "460 Classic",
+  "Modellår": "2023",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Sandström",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "270 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26032647",
+ "width_cm": 180,
+ "year": 2023
+}

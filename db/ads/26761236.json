@@ -1,0 +1,117 @@
+{
+ "ad_id": 26761236,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789933799000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1992,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1992,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellen är ganska sliten och skulle med fördel kunna bytas ut.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Under säsongen monterades även en helt ny propeller och en stereo installerades.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båten säljs inklusive en Fogelsta 30 trailer.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Flipper 535ht",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26761236/810942e4-c30d-4fe0-800a-c97dd2c75e88",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.51018,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1992,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn är servad i början av säsongen med: * Nytt impeller * Ny motorolja * Nya tändstift",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f571f673027ee407"
+ },
+ "location": "Vallentuna",
+ "lon": 18.05358,
+ "make": "Flipper",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 431,
+  "fetched_ts": 1790508926568,
+  "text_sha": "f571f673027ee407"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Bredd": "202 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "535ht",
+  "Modellår": "1992",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "28 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26761236",
+ "width_cm": 202,
+ "year": 1992
+}

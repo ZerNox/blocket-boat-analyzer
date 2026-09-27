@@ -1,0 +1,120 @@
+{
+ "ad_id": 22267311,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787471546000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": 28,
+  "engine_maker": "Yamaha F30",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2016,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Välutrustad Buster Scc 2016 mittpulpet med Yamaha 30 hk fyrtakt, securmärkt . med bl.a., motorlås, el ankarspel, trolli…",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Välutrustad Buster Scc 2016 mittpulpet med Yamaha 30 hk fyrtakt, securmärkt . med bl.a., motorlås, el ankarspel, trolli…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Välutrustad Buster Scc 2016 mittpulpet med Yamaha 30 hk fyrtakt, securmärkt . med bl.a., motorlås, el ankarspel, trolli…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båttrailer Majava besiktigad ingår i priset",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster Scc-16 med Yamaha F30 28tim",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22267311/57cc3d40-0118-43ea-9e46-d180b9482567",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.13683,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2016,
+   "engine_hours": 28,
+   "engine_hp": 30,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Längd (m): 4,43 Bredd (m): 1,82 Vikt (kg): 275 Motorm: Yamaha F30BETL Effekt (hk): 30, Länspump bytt 2024. Service utförd hösten 2025",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "40445a333cbe4f95"
+ },
+ "location": "Kristinehamn",
+ "lon": 13.88824,
+ "make": "Buster",
+ "max_speed": 24,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 454,
+  "fetched_ts": 1790507443014,
+  "text_sha": "40445a333cbe4f95"
+ },
+ "price": 139000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 139000
+  }
+ ],
+ "specs": {
+  "Bredd": "182 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "scc",
+  "Modellår": "2016",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Yamaha F30",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "24 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "275 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22267311",
+ "width_cm": 182,
+ "year": 2016
+}

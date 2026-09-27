@@ -1,0 +1,109 @@
+{
+ "ad_id": 26346791,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788633452000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnsson 30 hk",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Inget kapell eller dynor",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "trailer ingår",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 480 IRS 2000 med Johnson 30 hk – trailer ingår",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26346791/a3b2fc27-60b2-4167-abb5-00dad4d8d54c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.34032,
+ "length_ft": 480,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Servad 2025",
+   "engine_year_rejected": 2025,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ae658f2305c06d8f"
+ },
+ "location": "Onsala",
+ "lon": 11.95897,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 615,
+  "fetched_ts": 1790508615513,
+  "text_sha": "ae658f2305c06d8f"
+ },
+ "price": 36900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 36900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "480 fot",
+  "Modell": "480 irs",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Johnsson 30 hk",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26346791",
+ "width_cm": 0,
+ "year": 2000
+}

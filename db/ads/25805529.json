@@ -1,0 +1,111 @@
+{
+ "ad_id": 25805529,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787159401000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "- Skyddande kapell/överdrag & bensintank",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Yamaha 40hk, Båtvagn & Bluetooth-ljud",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Yamaha 40hk, Båtvagn & Bluetooth-ljud",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fräsch styrpulpet/sportbåt – Yamaha 40hk, Båtvagn & Bluetooth-ljud",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25805529/206d8516-6881-4599-a9e2-3fbb461852a0",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 64.1215,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1970,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Yamaha 40 hk (2-takt med elstart och Autolube så du slipper blanda olja i tanken). Motorn går jättefint, startar utan strul och skickar iväg båten i bra fart.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f15d3a80ca43e7d1"
+ },
+ "location": "Fredrika",
+ "lon": 18.26688,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 953,
+  "fetched_ts": 1790508213067,
+  "text_sha": "f15d3a80ca43e7d1"
+ },
+ "price": 23000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 23000
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modellår": "1970",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25805529",
+ "width_cm": 160,
+ "year": 1970
+}

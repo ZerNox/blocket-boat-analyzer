@@ -1,0 +1,105 @@
+{
+ "ad_id": 26092841,
+ "boat_class": "Annat",
+ "changed_ts": 1788508195000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "MD3",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1976,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell finns men är slitet och behöver sys om alternativt ersättas med ett nytt.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Vi säljer nu vår Albin 25 DL då tiden tyvärr inte räcker till.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26092841/26fce9ee-d0b8-46d9-b494-0302b76fedd4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.29128,
+ "length_ft": 25,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1976,
+   "engine_hours": null,
+   "engine_hp": 36,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d3156f6b0faab8d6"
+ },
+ "location": "Årjäng",
+ "lon": 11.98366,
+ "make": "Albin",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": 36.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 819,
+  "fetched_ts": 1790508454660,
+  "text_sha": "d3156f6b0faab8d6"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Bredd": "260 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "25 fot",
+  "Modell": "25DL",
+  "Modellår": "1976",
+  "Motorstorlek": "36 hk",
+  "Motortillverkare": "MD3",
+  "Motortyp": "Inombordare",
+  "Märke": "Albin",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26092841",
+ "width_cm": 260,
+ "year": 1976
+}

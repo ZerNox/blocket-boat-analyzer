@@ -1,0 +1,109 @@
+{
+ "ad_id": 25288052,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785534966000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": 54,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2008,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "stereo": {
+    "evidence": "Medföljer fendrar och stereo med blutooth.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailern (80) är en Easyline och besiktad 2025.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "RYDS 478 GT m. Honda 50 Fyrtakt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25288052/af0fb95a-5746-49ae-bff5-f2977da228f8",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.0435,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2008,
+   "engine_hours": 54,
+   "engine_hp": 50,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Gått väldigt få timmar, servad 2023",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b83b62ff4e4f303a"
+ },
+ "location": "Hagfors",
+ "lon": 13.67937,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 283,
+  "fetched_ts": 1790507728792,
+  "text_sha": "b83b62ff4e4f303a"
+ },
+ "price": 130000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 130000
+  }
+ ],
+ "specs": {
+  "Bredd": "191 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit och mörkblå",
+  "Längd i fot": "15 fot",
+  "Modell": "478 GT",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25288052",
+ "width_cm": 191,
+ "year": 2008
+}

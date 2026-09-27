@@ -1,0 +1,111 @@
+{
+ "ad_id": 23255514,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789242987000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "inkl propeller. Det är bara ”drevet” som behöver bytas ut. Helt nytt och oanvänt förhöjt kapell med nya kapellbågar, vi",
+  "engine_type_source": "llm",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "40hk tohatsu från 2003 med behov av att få riggröret/växelhuset utbytt.",
+  "engine_year_source": "rule:text?",
+  "equipment": {
+   "kapell": {
+    "evidence": "Helt nytt och oanvänt förhöjt kapell med nya kapellbågar, vilket gör den rymligare.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Du får gärna låna 80-kärran för att frakta hem den.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "declared outboard but text says 'drevet'"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 495 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23255514/05b00413-ed27-4d2a-958f-3e929d202ce5",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.9529,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor från 2003",
+   "engine_year_rejected": 2003,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "07d5420afa6eb4c7"
+ },
+ "location": "Blidsberg",
+ "lon": 13.44439,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 619,
+  "fetched_ts": 1790507483294,
+  "text_sha": "07d5420afa6eb4c7"
+ },
+ "price": 16000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 16000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "495 HT",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Annat",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23255514",
+ "width_cm": 0,
+ "year": 1980
+}

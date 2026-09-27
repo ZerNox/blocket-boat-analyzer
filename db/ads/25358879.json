@@ -1,0 +1,72 @@
+{
+ "ad_id": 25358879,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785757724000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Köpt av Smögen marin 2020, motor 2021 en Yamaha 6hp som startar väldigt lätt och går kanon.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Gummibåt Yam 275STi",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25358879/81e446a7-c6c4-4466-8bee-6ad96d0d55e7",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.8385,
+ "length_ft": 9,
+ "location": "Bankeryd",
+ "lon": 14.0493,
+ "make": "Yamaha",
+ "max_speed": 13,
+ "motor_fuel": "Bensin",
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 339,
+  "fetched_ts": 1790507794804,
+  "text_sha": "33040f0543be8e19"
+ },
+ "price": 18999,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 18999
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "9 fot",
+  "Modell": "Yam 275",
+  "Modellår": "2020",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamaha",
+  "Skrovmaterial": "Annat",
+  "Toppfart": "13 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "45 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25358879",
+ "width_cm": 160,
+ "year": 2020
+}

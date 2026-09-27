@@ -1,0 +1,114 @@
+{
+ "ad_id": 25938013,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789224220000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin echomapuhd 92sv",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin echomapuhd 92sv",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fint skick nyservad bytt impell 4-takt ny 80 trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Styrpulpet Hr480",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25938013/cf0e6a5e-3d98-4c3a-8d1e-92456be94d9a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.85664,
+ "length_ft": 146,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": null,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "ny motor 2006",
+   "engine_year_rejected": 2006,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "62073aeb438980d5"
+ },
+ "location": "Fristad",
+ "lon": 12.92641,
+ "make": "HR",
+ "max_speed": 33,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 76,
+  "fetched_ts": 1790508316013,
+  "text_sha": "62073aeb438980d5"
+ },
+ "price": 115000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 115000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "146 fot",
+  "Modell": "480",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Toppfart": "33 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25938013",
+ "width_cm": 0,
+ "year": 2006
+}

@@ -1,0 +1,109 @@
+{
+ "ad_id": 25505047,
+ "boat_class": "Annat",
+ "changed_ts": 1786360525000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Sportbåt 70hk 30 släp",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sportbåt 70hk 30 släp",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25505047/a871e1d7-f62a-43c5-9e2e-47b3494c5593",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.7821,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1970,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Utombordare -startar- (kan provstarten på land), men då den stått något år så behöver båt och motor ses över. Ett höst vinter projekt. Motorn 80-tal 2-takt",
+   "engine_year_rejected": 1980,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8f61b4c0f02b1853"
+ },
+ "location": "Hällefors",
+ "lon": 14.53532,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 316,
+  "fetched_ts": 1790507929564,
+  "text_sha": "8f61b4c0f02b1853"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå",
+  "Längd i fot": "15 fot",
+  "Modellår": "1970",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25505047",
+ "width_cm": 160,
+ "year": 1970
+}

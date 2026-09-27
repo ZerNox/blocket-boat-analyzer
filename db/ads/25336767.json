@@ -1,0 +1,85 @@
+{
+ "ad_id": 25336767,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1785686260000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mercury 6 hk fyrtaktsmotor, årsmodell 2008",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "30 000:- med ekolod,sjökort,batteri,givarfäste.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "750 kg trailer (30 kärra), årsmodell 2023",
+    "included": true,
+    "kmh": 30,
+    "year": 2023
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 1010 fiskebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25336767/a1e69904-9077-4bca-9392-6f85f2237eff",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.61598,
+ "length_ft": 14,
+ "location": "Hallstahammar",
+ "lon": 16.24242,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 632,
+  "fetched_ts": 1790507774876,
+  "text_sha": "9d6a71f436931a9b"
+ },
+ "price": 22000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 22000
+  }
+ ],
+ "specs": {
+  "Bredd": "2 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "20 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "1010",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "140 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25336767",
+ "width_cm": 2,
+ "year": 1980
+}

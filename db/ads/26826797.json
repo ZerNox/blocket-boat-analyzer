@@ -1,0 +1,119 @@
+{
+ "ad_id": 26826797,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790173370000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": 50,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2022,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Höj och sänkbart givarfäste till ekolodsgivare",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "En frontmonterad motorguide xi5 på snabbfäste, sitter 110ah victron AGM till denna.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "2 st lowrance FS9 som är sammalänkade, sitter monterade på ram mount.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Rejäl trailer obromsad 750kg fogelsta ubx med gångramp och 4st backljus",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Hr 460F fiskeanpassad",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26826797/c277b2c2-34ce-4cc3-a477-a4e94ba246aa",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 55.83241,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2022,
+   "engine_hours": 40,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3911c23e8938d0fb"
+ },
+ "location": "Eslöv",
+ "lon": 13.31602,
+ "make": "HR",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 526,
+  "fetched_ts": 1790508959054,
+  "text_sha": "3911c23e8938d0fb"
+ },
+ "price": 175000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 175000
+  }
+ ],
+ "specs": {
+  "Bredd": "188 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "460F",
+  "Modellår": "2022",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Sittplatser": "4",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "310 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26826797",
+ "width_cm": 188,
+ "year": 2022
+}

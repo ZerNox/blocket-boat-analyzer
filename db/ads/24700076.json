@@ -1,0 +1,81 @@
+{
+ "ad_id": 24700076,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789458558000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2010,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamaha 80 hk fyrtaktsmotor, årsmodell 2010",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer ingår",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project",
+   "defect"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster X 2007 – Yamaha 80 hk – Trailer ingår – Projekt/Reparationsobjekt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24700076/a2707ae8-7fa7-4cc8-b66f-8ffeac41cacd",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.17972,
+ "length_ft": 17,
+ "location": "Vendelsö",
+ "lon": 18.19037,
+ "make": "Buster",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 811,
+  "fetched_ts": 1790507615020,
+  "text_sha": "b7a67074badf5adb"
+ },
+ "price": 88000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 88000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "X",
+  "Modellår": "2007",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24700076",
+ "width_cm": 0,
+ "year": 2007
+}

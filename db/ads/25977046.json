@@ -1,0 +1,104 @@
+{
+ "ad_id": 25977046,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787504403000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Md21",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Motorn på plats , startar fint , en del pyssel kvar med att justera motorkuddarna , och göra motorkåpan , trailer ingår…",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Vingö 7m fiskebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25977046/75ea6b71-f3df-4e78-af20-4ec1b3a272ba",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.18161,
+ "length_ft": 23,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 80,
+   "engine_maker": "Md21",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8cad7461cca297e6"
+ },
+ "location": "Östervåla",
+ "lon": 17.18026,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": 80.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 270,
+  "fetched_ts": 1790508346666,
+  "text_sha": "8cad7461cca297e6"
+ },
+ "price": 29000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 29000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "23 fot",
+  "Modell": "Vingö",
+  "Modellår": "1980",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Md21",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25977046",
+ "width_cm": 0,
+ "year": 1980
+}

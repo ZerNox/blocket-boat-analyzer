@@ -1,0 +1,81 @@
+{
+ "ad_id": 25852880,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787149611000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor Mercury 2-takt 80 hp årsmodell 2008",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ny modern plotter Garmin med tuschskärm och ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "utan plotter 45 000:- med plotter 55 000:-",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Trevlig båt med valmöjligheter",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25852880/7f1a4c0f-163a-4910-a041-87b60def90fc",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.42391,
+ "length_ft": 18,
+ "location": "Karlstad",
+ "lon": 13.43929,
+ "make": "Selco",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 467,
+  "fetched_ts": 1790508250448,
+  "text_sha": "73a9893ec28534aa"
+ },
+ "price": 38000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 38000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "18HT",
+  "Modellår": "1975",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Selco",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25852880",
+ "width_cm": 0,
+ "year": 1975
+}

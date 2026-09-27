@@ -1,0 +1,120 @@
+{
+ "ad_id": 25614792,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786453810000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2018,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt, motor och trailer från 2018 men uttagna 2019.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod Lowrance hook2 reveal7 tripleshot med givare, sidescan, downscan och plotter.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Allt säljs för 70000kr men båten kan säljas utan elmotor, downrigger, spöhållare och ekolod för 55000kr.",
+    "included": false
+   },
+   "plotter": {
+    "evidence": "Frontmonterad elmotor 12v 65lbs med GPS köpt 2[tel] och monterad i maj, styrs med fjärrkontroll. (kvitto finns)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båt, motor och trailer från 2018 men uttagna 2019.",
+    "included": true,
+    "year": 2018
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster mini",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25614792/765c9575-30d0-4467-8258-b3a9914dac18",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 62.41721,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2018,
+   "engine_hours": null,
+   "engine_hp": 8,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Frontmonterad elmotor 12v 65lbs med GPS köpt 2[tel] och monterad i maj, styrs med fjärrkontroll. (kvitto finns)",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "536b3ca924345612"
+ },
+ "location": "Sundsvall",
+ "lon": 17.32304,
+ "make": "Buster",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 8.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1220,
+  "fetched_ts": 1790508052248,
+  "text_sha": "536b3ca924345612"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Bredd": "149 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Silver",
+  "Längd i fot": "13 fot",
+  "Modell": "Mini",
+  "Modellår": "2018",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "8 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "104 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25614792",
+ "width_cm": 149,
+ "year": 2018
+}

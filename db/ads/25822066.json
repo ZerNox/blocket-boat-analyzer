@@ -1,0 +1,104 @@
+{
+ "ad_id": 25822066,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787058474000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2018,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2018,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Välvårdad inkl båtkärra",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sandström Classic 460",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25822066/72d8f2c4-b75d-4941-aa4f-6c8007de4cb1",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.62359,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2018,
+   "engine_hours": null,
+   "engine_hp": 25,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "af233848ef30340e"
+ },
+ "location": "Fjällbacka",
+ "lon": 11.30301,
+ "make": "Sandström",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 39,
+  "fetched_ts": 1790508218438,
+  "text_sha": "af233848ef30340e"
+ },
+ "price": 68000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 68000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "Classic",
+  "Modellår": "2018",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Sandström",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25822066",
+ "width_cm": 0,
+ "year": 2018
+}

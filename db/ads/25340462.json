@@ -1,0 +1,105 @@
+{
+ "ad_id": 25340462,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1785690892000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": 25,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "20hk fyrtakt Suzuki från 2021 som gått ca 25timmar.",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Elmotor fram.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 426",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25340462/9d83facc-a900-430f-a2ad-7587a3ac4e6d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.86402,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2021,
+   "engine_hours": 25,
+   "engine_hp": 20,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": 2021,
+   "engine_year_evidence": "20hk fyrtakt Suzuki från 2021 som gått ca 25timmar.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "10bbe4dbb6e5eb56"
+ },
+ "location": "Korskrogen",
+ "lon": 15.51476,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 20.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 147,
+  "fetched_ts": 1790507777928,
+  "text_sha": "10bbe4dbb6e5eb56"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "426",
+  "Modellår": "2021",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Suzuki",
+  "Märke": "Crescent",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25340462",
+ "width_cm": 0,
+ "year": 2021
+}

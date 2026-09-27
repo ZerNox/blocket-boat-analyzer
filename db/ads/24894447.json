@@ -1,0 +1,115 @@
+{
+ "ad_id": 24894447,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789541267000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2019,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Motorguide Xi3 12V 55lb med AGM- 100ah batteri och laddare",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Motorguide Xi3 12V 55lb med AGM- 100ah batteri och laddare",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance Elite 9 Ti2 vid konsol med 3in1-givare",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer: Respo 750 multiroler, nästa besiktning 2027",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Tracker grizzly 1648sc mercury40",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24894447/ebed6bec-ed37-4b7a-b696-0b4ba7aeb548",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.57988,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2019,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6fe1a28dc64dd270"
+ },
+ "location": "Norrköping",
+ "lon": 16.18905,
+ "make": "Tracker",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 503,
+  "fetched_ts": 1790507626168,
+  "text_sha": "6fe1a28dc64dd270"
+ },
+ "price": 210000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 210000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Grassland camo",
+  "Längd i fot": "16 fot",
+  "Modell": "Grizzly 1648 sc",
+  "Modellår": "2019",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Tracker",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24894447",
+ "width_cm": 0,
+ "year": 2019
+}

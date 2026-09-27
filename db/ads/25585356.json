@@ -1,0 +1,112 @@
+{
+ "ad_id": 25585356,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786369327000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin echomap uhd.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin echomap uhd.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80 kärra Tiki-treiler Bt-700.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 478GT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25585356/91669cea-25a5-4ece-acf1-f0cf3c90bc83",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.37207,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "abbf829dbedc39c2"
+ },
+ "location": "Karlstad",
+ "lon": 13.51446,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 235,
+  "fetched_ts": 1790508034796,
+  "text_sha": "abbf829dbedc39c2"
+ },
+ "price": 99000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 99000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "478 GT",
+  "Modellår": "2006",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25585356",
+ "width_cm": 0,
+ "year": 2006
+}

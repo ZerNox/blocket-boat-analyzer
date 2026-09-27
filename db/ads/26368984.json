@@ -1,0 +1,106 @@
+{
+ "ad_id": 26368984,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788705012000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1988,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 465 styrpulpet med Yamaha 20 hk tvåtakt (Autolube).",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26368984/5a629203-83af-48a8-acf2-bd677e8aace0",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.51963,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1988,
+   "engine_hours": null,
+   "engine_hp": 20,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Yamaha 20 hk tvåtakt från slutet av 80-talet",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9b1091f21914cc03"
+ },
+ "location": "Vallentuna",
+ "lon": 18.06245,
+ "make": "Crescent",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1192,
+  "fetched_ts": 1790508632918,
+  "text_sha": "9b1091f21914cc03"
+ },
+ "price": 12500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12500
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "465",
+  "Modellår": "1988",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "290 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26368984",
+ "width_cm": 180,
+ "year": 1988
+}

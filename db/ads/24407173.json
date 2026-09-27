@@ -1,0 +1,109 @@
+{
+ "ad_id": 24407173,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790021584000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Fin Brenderup båtupptagningsvagn kan köpas till båten för 10000kr.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern S55 Exclusive 2005 med Mercury 75hk till höstpris",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24407173/a2e6c628-1d53-4562-9c66-5f31803f94c9",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.26959,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2005,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn är nyservad inför säsongen med oljor tändstift impeller mm. (servad 2023)",
+   "engine_year_rejected": 2023,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "45b36d429ec78432"
+ },
+ "location": "Bandhagen",
+ "lon": 18.05118,
+ "make": "Uttern",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 780,
+  "fetched_ts": 1790507589806,
+  "text_sha": "45b36d429ec78432"
+ },
+ "price": 89000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 89000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit blå",
+  "Längd i fot": "18 fot",
+  "Modell": "S55 Exclusive",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24407173",
+ "width_cm": 220,
+ "year": 2005
+}

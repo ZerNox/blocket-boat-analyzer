@@ -1,0 +1,87 @@
+{
+ "ad_id": 25567038,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786303907000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": 370,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer vår HR 440 SC från 2011 med Suzuki 40 hk fyrtaktsmotor, även den från 2011.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "* Äldre Garmin ekolod, delvis fungerande",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "* Stort soltak/bimini",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "HR 440 SC 2011 + Suzuki 40 hk 4-takt + båtvagn",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 440 SC 2011 + Suzuki 40 hk 4-takt + båtvagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25567038/98a6e6c0-b165-4098-9587-6840899405db",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.55853,
+ "length_ft": 15,
+ "location": "Hofors",
+ "lon": 16.28239,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 925,
+  "fetched_ts": 1790508013454,
+  "text_sha": "abdcc1d1d7cf3086"
+ },
+ "price": 84900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 84900
+  }
+ ],
+ "specs": {
+  "Bredd": "188 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "440 SC",
+  "Modellår": "2011",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "310 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25567038",
+ "width_cm": 188,
+ "year": 2011
+}

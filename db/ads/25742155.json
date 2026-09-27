@@ -1,0 +1,80 @@
+{
+ "ad_id": 25742155,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786823956000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2024,
+  "boat_year_source": "spec",
+  "engine_hours": 14,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2024,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Honda bf60 aug 2024 som hade gått 14 timmar vid senaste servicen i våras.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "plotter": {
+    "evidence": "sitter ett lowrance HDS live 12\" med en active imaging 3-1 givare.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "tiki BS750-R 2023 obromsad 80 trailer uttagen 2024",
+    "included": true,
+    "kmh": 80,
+    "year": 2023
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Kimple 498 sniper 2024",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25742155/32a9e305-adbd-4610-a593-1eae9d607aad",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.26594,
+ "length_ft": 16,
+ "location": "Örebro",
+ "lon": 15.33678,
+ "make": "Kimple",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 311,
+  "fetched_ts": 1790508149630,
+  "text_sha": "bfbf01f882d9944b"
+ },
+ "price": 225000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 225000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "498",
+  "Modellår": "2024",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Kimple",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25742155",
+ "width_cm": 0,
+ "year": 2024
+}

@@ -1,0 +1,81 @@
+{
+ "ad_id": 26912862,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790444669000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude E-tech 50 HK 2015",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2015,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Evinrude E-tech 50 HK 2015",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod Garmin",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30 km trailer medföljer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent Arrow 518 Årsmodell 2015",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26912862/dcd85ba8-488e-4884-aca8-ae70e77d3568",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.91678,
+ "length_ft": 17,
+ "location": "Romelanda",
+ "lon": 12.01946,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 353,
+  "fetched_ts": 1790509022153,
+  "text_sha": "c24dd4b396ebc525"
+ },
+ "price": 95000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 95000
+  }
+ ],
+ "specs": {
+  "Bredd": "203 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "Arrow 518",
+  "Modellår": "2015",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Evinrude E-tech 50 HK 2015",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26912862",
+ "width_cm": 203,
+ "year": 2015
+}

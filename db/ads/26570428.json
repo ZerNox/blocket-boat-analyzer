@@ -1,0 +1,100 @@
+{
+ "ad_id": 26570428,
+ "boat_class": "Annat",
+ "changed_ts": 1789324180000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Scantic 575, 80 hk 4-takt 2006.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin echomap 72cv plotter/ekolod.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Minnkota elmotor medföljer ( Aldrig använd )",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin echomap 72cv plotter/ekolod.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30-trailer.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Scantic 575, 80 hk 4-takt 2006",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26570428/cfcb8cae-df4d-4b66-9a4b-7fe116f61f1a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.38319,
+ "length_ft": 19,
+ "location": "Vålberg",
+ "lon": 13.1762,
+ "make": "Övriga",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 557,
+  "fetched_ts": 1790508791908,
+  "text_sha": "b3bca252426032fd"
+ },
+ "price": 62000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 62000
+  }
+ ],
+ "specs": {
+  "Bredd": "204 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "Scantic 575",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26570428",
+ "width_cm": 204,
+ "year": 1980
+}

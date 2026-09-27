@@ -1,0 +1,103 @@
+{
+ "ad_id": 25436542,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785956994000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Nya dynor 2024, upptagningskärra , 12 volts uttag, Bäddbart i fram för enklare övernattning.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "ambiguous engine years [1991, 2025]"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik 510HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25436542/16bfa577-3233-463f-b975-7a7f645b973a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.88543,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1975,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorstorlek: 40 hk Motortillverkare: Johnson Motortyp: Utombordare Örnvik 510 HT med en 40 hk 2 takts Johnson motor 1991",
+   "engine_year_rejected": 1991,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "176d3dc6241fe769"
+ },
+ "location": "Uppsala",
+ "lon": 17.60494,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 276,
+  "fetched_ts": 1790507867832,
+  "text_sha": "176d3dc6241fe769"
+ },
+ "price": 17000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 17000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "510HT",
+  "Modellår": "1975",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25436542",
+ "width_cm": 0,
+ "year": 1975
+}

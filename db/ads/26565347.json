@@ -1,0 +1,81 @@
+{
+ "ad_id": 26565347,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789314258000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2002,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2002,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor: 30 hk Mariner /2-taktare (2002)",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "30 trailer och tampar ingår",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 480 RSI",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26565347/b29c3d40-5cec-46ef-9b7d-72484cc97dbf",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.37142,
+ "length_ft": 16,
+ "location": "Eskilstuna",
+ "lon": 16.53211,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 717,
+  "fetched_ts": 1790508788874,
+  "text_sha": "365c15fb549bbade"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Bredd": "188 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "VIT",
+  "Längd i fot": "16 fot",
+  "Modell": "480 RSI",
+  "Modellår": "2002",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "250 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26565347",
+ "width_cm": 188,
+ "year": 2002
+}

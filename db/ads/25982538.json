@@ -1,0 +1,108 @@
+{
+ "ad_id": 25982538,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787514340000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "er eu certifierad (c) motorn 40 hp 4 takt Suzuki 2005 väldigt fint i tyst motor ,nu propeller , startar lätt och går ut",
+  "engine_type_source": "llm",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "motorn 40 hp 4 takt Suzuki 2005 väldigt fint i tyst motor ,nu propeller , startar lätt och går utmärkt, el trim, twå nycklar service bock, 30 km trailer ingår",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "trailer": {
+    "evidence": "motorn 40 hp 4 takt Suzuki 2005 väldigt fint i tyst motor ,nu propeller , startar lätt och går utmärkt, el trim, twå ny…",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "spec says no engine but text describes one"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25982538/a7aa7b2a-9449-4a9f-b56f-6263464e98c2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.69554,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": 2005,
+   "engine_year_evidence": "motorn 40 hp 4 takt Suzuki 2005 väldigt fint i tyst motor ,nu propeller , startar lätt och går utmärkt, el trim, twå nycklar service bock, 30 km trailer ingår",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f6f4f005e2eabe91"
+ },
+ "location": "Ankarsrum",
+ "lon": 16.33215,
+ "make": "Mazury",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 319,
+  "fetched_ts": 1790508358374,
+  "text_sha": "f6f4f005e2eabe91"
+ },
+ "price": 49000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 49000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "480 C",
+  "Modellår": "2006",
+  "Motor inkluderad": "Nej",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Mazury",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25982538",
+ "width_cm": 200,
+ "year": 2006
+}

@@ -1,0 +1,86 @@
+{
+ "ad_id": 25802023,
+ "boat_class": "Annat",
+ "changed_ts": 1786988624000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2018,
+  "boat_year_source": "spec",
+  "engine_hours": 50,
+  "engine_maker": "Mercury Pro Kicker",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt och motor köptes nya 2018 i Valdemarsvik och har sedan dess använts sparsamt, cirka 6 gångtimmar per säsong.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin Echomap Plus 62CV med fäste",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin Echomap Plus 62CV med fäste",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ingen trailer ingår.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Kimple 440 Adventure 2018, Mercury 15 hk ProKicker– mycket välskött",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25802023/30e89181-9385-4a19-9245-027356bd27f7",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.18967,
+ "length_ft": 15,
+ "location": "Gryt",
+ "lon": 16.9333,
+ "make": "Kimple",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1246,
+  "fetched_ts": 1790508205038,
+  "text_sha": "97fa2ffe1747655d"
+ },
+ "price": 69900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "bottenmålad svart",
+  "Längd i fot": "15 fot",
+  "Modell": "440 Adventure",
+  "Modellår": "2018",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Mercury Pro Kicker",
+  "Motortyp": "Utombordare",
+  "Märke": "Kimple",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "20 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25802023",
+ "width_cm": 0,
+ "year": 2018
+}

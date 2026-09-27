@@ -1,0 +1,115 @@
+{
+ "ad_id": 26618565,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790095210000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1993,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1993,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kan behöva lite kärlek för att vara i toppskick, där framförallt kapellet behöver lagas/bytas.",
+    "included": true
+   },
+   "vinterkapell": {
+    "evidence": "Ställning och presenning för vinterförvaring.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Gammal klassisk Uttern 5000 HT till salu",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26618565/07f9e613-f95e-455b-a456-7b416b51ca95",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.31611,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1993,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "included"
+   }
+  },
+  "text_sha": "5a4b56ee78e42cee"
+ },
+ "location": "Stockholm",
+ "lon": 18.01442,
+ "make": "Uttern",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 521,
+  "fetched_ts": 1790508827936,
+  "text_sha": "5a4b56ee78e42cee"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "5000 HT",
+  "Modellår": "1993",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26618565",
+ "width_cm": 205,
+ "year": 1993
+}

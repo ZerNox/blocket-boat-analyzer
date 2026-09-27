@@ -1,0 +1,98 @@
+{
+ "ad_id": 25971514,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787496453000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu 02",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Styrpulpet Dixie 450",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25971514/fa68102f-cc70-49d3-b687-caa80db98131",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.30219,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "467d143d5cfe4dae"
+ },
+ "location": "Årjäng",
+ "lon": 12.36794,
+ "make": "Dixie",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790508336723,
+  "text_sha": "467d143d5cfe4dae"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Tohatsu 02",
+  "Motortyp": "Utombordare",
+  "Märke": "Dixie",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25971514",
+ "width_cm": 0,
+ "year": 1985
+}

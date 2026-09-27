@@ -1,0 +1,104 @@
+{
+ "ad_id": 25964475,
+ "boat_class": "Annat",
+ "changed_ts": 1787487808000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Marine r",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1996,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Säljs med 30km kärra och 8hk motor med tank väldigt stabil båt den har sina skavanker men väldigt bra cirka 4,1m bred 1…",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fiske båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25964475/aed7f5b3-1f5e-43ff-8036-33e889db41d9",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.85332,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1996,
+   "engine_hours": null,
+   "engine_hp": 8,
+   "engine_maker": "Marine r",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f4b9780a375b3cf8"
+ },
+ "location": "Gråbo",
+ "lon": 12.27275,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 8.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 263,
+  "fetched_ts": 1790508330194,
+  "text_sha": "f4b9780a375b3cf8"
+ },
+ "price": 12000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12000
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "13 fot",
+  "Modellår": "1996",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "8 hk",
+  "Motortillverkare": "Marine r",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25964475",
+ "width_cm": 150,
+ "year": 1996
+}

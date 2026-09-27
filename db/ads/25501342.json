@@ -1,0 +1,106 @@
+{
+ "ad_id": 25501342,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786130248000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_maker": "Selva",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Fint kapell med några fläckar, liten polering och ny kabeldragning till lanternorna så har man en grym båt för dagsutfl…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Finns ett dåligt 30 släp som man kan få med som har ett kasst däck vid intresse så kan bilder skickas på det.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Askeladden",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25501342/a6fa25f8-2560-4549-8226-a958e9b718ae",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.7566,
+ "length_ft": 4,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2026,
+   "engine_hours": null,
+   "engine_hp": 5,
+   "engine_maker": "Selva",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "null",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8cd3ceea9db5c4a4"
+ },
+ "location": "Göteborg",
+ "lon": 12.05495,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 5.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 476,
+  "fetched_ts": 1790507928334,
+  "text_sha": "8cd3ceea9db5c4a4"
+ },
+ "price": 12000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "4 fot",
+  "Modellår": "2026",
+  "Motorstorlek": "5 hk",
+  "Motortillverkare": "Selva",
+  "Motortyp": "Utombordare",
+  "Märke": "Askeladden",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25501342",
+ "width_cm": 0,
+ "year": 2026
+}

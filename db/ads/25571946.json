@@ -1,0 +1,79 @@
+{
+ "ad_id": 25571946,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786348367000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2013,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2013,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt och motor från 2013.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "elmotor": {
+    "evidence": "Kan säljas utan elmotorn.",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "Buster SCC med EU 80 trailer Motorguide xi5",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster SCC med EU 80 trailer Motorguide xi5",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25571946/0a0bb5d2-02a2-4863-9c89-e718ecfa3eb7",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.63709,
+ "length_ft": 15,
+ "location": "Gävle",
+ "lon": 17.13085,
+ "make": "Buster",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 193,
+  "fetched_ts": 1790508021865,
+  "text_sha": "1968e2def71c903a"
+ },
+ "price": 110000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 110000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "Scc med 80 trailer - elmotor",
+  "Modellår": "2013",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25571946",
+ "width_cm": 0,
+ "year": 2013
+}

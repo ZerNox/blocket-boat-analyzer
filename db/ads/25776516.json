@@ -1,0 +1,114 @@
+{
+ "ad_id": 25776516,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789196660000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": 2020,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": "Årsmodell motor: 2018 (Uttagen 2020)",
+  "engine_year_source": "llm",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin EchoMap 9\" ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin EchoMap 9\" ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ekipage, båt, motor och trailer är uttaget från Motor & Marin i Bäckaskog 2020.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "ambiguous engine years [2018, 2020]"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder 445 Catch & Mercury 30 HK ink, Garmin 9” -2020",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25776516/92e9611b-6bff-40a8-94fb-5859287cca79",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.81024,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2020,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": 2018,
+   "engine_year_evidence": "Årsmodell motor: 2018 (Uttagen 2020)",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e8c9670673a14007"
+ },
+ "location": "Floda",
+ "lon": 12.37607,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 648,
+  "fetched_ts": 1790508183142,
+  "text_sha": "e8c9670673a14007"
+ },
+ "price": 149000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 149000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "445 Catch",
+  "Modellår": "2020",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "230 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25776516",
+ "width_cm": 175,
+ "year": 2020
+}

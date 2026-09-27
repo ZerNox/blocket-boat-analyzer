@@ -1,0 +1,109 @@
+{
+ "ad_id": 23668092,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786261384000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trimaster, Yamaha 70 hk, tiki trailer",
+    "included": true,
+    "kmh": 80,
+    "year": 2021
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Trimaster, Yamaha 70 hk, tiki trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23668092/eb86cb2e-f290-4968-a17a-6d0adabe15f4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.68425,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1970,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny impeller och packboxar.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "902aeb4c3b3e3f79"
+ },
+ "location": "Västerås",
+ "lon": 16.62284,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 319,
+  "fetched_ts": 1790507522897,
+  "text_sha": "902aeb4c3b3e3f79"
+ },
+ "price": 48000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 48000
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Grön,vit",
+  "Längd i fot": "14 fot",
+  "Modell": "Trimaster",
+  "Modellår": "1970",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23668092",
+ "width_cm": 170,
+ "year": 1970
+}

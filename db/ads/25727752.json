@@ -1,0 +1,104 @@
+{
+ "ad_id": 25727752,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786798289000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Jhonson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "OBS Trailer ingår inte i priset!!!!",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sportbåt/Styrpulpet inkl motor 70HK",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25727752/90f31794-3f72-4ffb-8327-7fb2d7d70333",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.53326,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Jhonson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "motorn nyligen servad och går fint!",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f1711d89a842d134"
+ },
+ "location": "Tingsryd",
+ "lon": 14.9651,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 395,
+  "fetched_ts": 1790508141254,
+  "text_sha": "f1711d89a842d134"
+ },
+ "price": 16900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 16900
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Jhonson",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25727752",
+ "width_cm": 205,
+ "year": 1985
+}

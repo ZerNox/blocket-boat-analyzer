@@ -1,0 +1,121 @@
+{
+ "ad_id": 23904482,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786109912000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2015,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "-Simrad plotter med kartor och för mellan Sverige och ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "-Simrad plotter med kartor och för mellan Sverige och ekolod",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "- Nya högtalare men trasig stereo.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båt säljes utan trailer men finns obesiktigat avställt bromsat släp att köpa till för 10 000:-",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Quicksilver 505 open",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23904482/5ea1da3c-d8c9-4be3-a967-7f97f3b67167",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.10754,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2015,
+   "engine_hours": null,
+   "engine_hp": 80,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "80hk 4takt Mercury",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "included",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d83ff6e21b68df74"
+ },
+ "location": "Grödinge",
+ "lon": 17.73396,
+ "make": "Quicksilver",
+ "max_speed": 33,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 667,
+  "fetched_ts": 1790507547181,
+  "text_sha": "d83ff6e21b68df74"
+ },
+ "price": 145000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 145000
+  }
+ ],
+ "specs": {
+  "Bredd": "212 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "37 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "505 Open",
+  "Modellår": "2015",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Quicksilver",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "33 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "582 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23904482",
+ "width_cm": 212,
+ "year": 2015
+}

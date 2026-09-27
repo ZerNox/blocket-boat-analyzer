@@ -1,0 +1,71 @@
+{
+ "ad_id": 25401464,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785861086000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1993,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Norrbåten med 80hk Mercury årsmodell 1993",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Norrbåten",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25401464/6b3b6721-9e3b-4002-aefd-1fff7cab6dd0",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 65.58026,
+ "length_ft": 20,
+ "location": "Luleå",
+ "lon": 22.21605,
+ "make": "Norbåt",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 104,
+  "fetched_ts": 1790507837823,
+  "text_sha": "3d5f85a2bca6d43c"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modell": "Öppen båt",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Norbåt",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25401464",
+ "width_cm": 210,
+ "year": 1985
+}

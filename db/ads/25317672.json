@@ -1,0 +1,106 @@
+{
+ "ad_id": 25317672,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786262018000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": 5,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2000,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "HR 465 -04 med Johnson 50 hk 2 takt -00",
+  "engine_year_source": "rule:text?",
+  "equipment": {
+   "trailer": {
+    "evidence": "Hr 465 -04 med trailer",
+    "included": true,
+    "year": 2004
+   }
+  },
+  "llm_reasons": [
+   "engine 2000 older than boat 2004"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Hr 465 -04 med trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25317672/77ff6a38-e6d2-44a5-8dd5-3211a6148d6a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.56068,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2004,
+   "engine_hours": 5,
+   "engine_hp": 50,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "servades förra hösten, kört 5 Tim efter det.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f82909fcb759ab8b"
+ },
+ "location": "Vaggeryd",
+ "lon": 14.21317,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 216,
+  "fetched_ts": 1790507750908,
+  "text_sha": "f82909fcb759ab8b"
+ },
+ "price": 67500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 67500
+  }
+ ],
+ "specs": {
+  "Bredd": "188 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "465",
+  "Modellår": "2004",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Sittplatser": "5",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "350 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25317672",
+ "width_cm": 188,
+ "year": 2004
+}

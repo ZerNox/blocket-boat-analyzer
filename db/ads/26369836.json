@@ -1,0 +1,112 @@
+{
+ "ad_id": 26369836,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788807099000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod finns installerat och följer med.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Batteriet i båten är kört en säsong och är ett 80ah litium batteri. (Tanken från börjat var att använda det till både s…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Timola 495 + bes 80km/h trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Timola 495 + bes 80km/h trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26369836/69304fbd-24b2-45b6-80bc-530738ed256f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.05613,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1970,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Suzuki dt40 som nyligen har genomgått en förgasartvätt",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1271c5bab83ceace"
+ },
+ "location": "Tranås",
+ "lon": 14.99547,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 786,
+  "fetched_ts": 1790508635895,
+  "text_sha": "1271c5bab83ceace"
+ },
+ "price": 22000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 22000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "Timola 495 + bes 80km/h trailer",
+  "Modellår": "1970",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26369836",
+ "width_cm": 0,
+ "year": 1970
+}

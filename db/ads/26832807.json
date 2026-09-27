@@ -1,0 +1,77 @@
+{
+ "ad_id": 26832807,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790356553000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1999,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt och motor från 1999.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer 80km/h tiki 2014 besiktigad ua iår.",
+    "included": true,
+    "kmh": 80,
+    "year": 2014
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 440gt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26832807/ddd17fe0-f169-40a9-be2a-63b2cd4bb68e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.2941,
+ "length_ft": 14,
+ "location": "Uddevalla",
+ "lon": 11.56605,
+ "make": "Ryds",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 215,
+  "fetched_ts": 1790508964664,
+  "text_sha": "bca8b8412c0617b8"
+ },
+ "price": 72000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 72000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "440gt",
+  "Modellår": "1999",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26832807",
+ "width_cm": 0,
+ "year": 1999
+}

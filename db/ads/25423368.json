@@ -1,0 +1,104 @@
+{
+ "ad_id": 25423368,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785931867000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1981,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1985,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Finnsport 410 med Mercury 25hk-85",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "30km/h båtvagn med",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Finnsport 410",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25423368/f07369eb-139e-45e6-a42a-6a2b1f11183c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.2449,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1981,
+   "engine_hours": null,
+   "engine_hp": 25,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Startmotor bytt -25",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "612a4400ce2c4bca"
+ },
+ "location": "Oskarshamn",
+ "lon": 16.46856,
+ "make": "Finnsport",
+ "max_speed": 22,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 266,
+  "fetched_ts": 1790507856145,
+  "text_sha": "612a4400ce2c4bca"
+ },
+ "price": 17000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 17000
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "410",
+  "Modellår": "1981",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnsport",
+  "Toppfart": "22 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25423368",
+ "width_cm": 160,
+ "year": 1981
+}

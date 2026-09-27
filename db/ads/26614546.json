@@ -1,0 +1,116 @@
+{
+ "ad_id": 26614546,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789483873000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2011,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Tillt på motorn,komplett dynasats .aluminium-åror.ekolod garmin.kapell ( passar dock ej med elmotorn monterad.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Tillt på motorn,komplett dynasats .aluminium-åror.ekolod garmin.kapell ( passar dock ej med elmotorn monterad.",
+    "included": false
+   },
+   "kapell": {
+    "evidence": "Tillt på motorn,komplett dynasats .aluminium-åror.ekolod garmin.kapell ( passar dock ej med elmotorn monterad.",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "Båt motor trailer från 2011.",
+    "included": true,
+    "year": 2011
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder sportsman 445 max",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26614546/e50257ac-76a1-4fae-861e-6a5fa7bb8643",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.21733,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2011,
+   "engine_hours": null,
+   "engine_hp": 25,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "excluded",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2bc5f832e515f485"
+ },
+ "location": "Säffle",
+ "lon": 13.00078,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 25.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 231,
+  "fetched_ts": 1790508822321,
+  "text_sha": "2bc5f832e515f485"
+ },
+ "price": 100000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 100000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "Sportsman 445 max",
+  "Modellår": "2011",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Yamaha",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26614546",
+ "width_cm": 175,
+ "year": 2011
+}

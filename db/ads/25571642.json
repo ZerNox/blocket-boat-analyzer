@@ -1,0 +1,109 @@
+{
+ "ad_id": 25571642,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786350725000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnsson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Besiktigad 80 kärra ingår.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Interboat 410 sr",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25571642/d0085460-b930-4c2c-aaed-1dce5b0567c7",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.26661,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Johnsson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorstorlek: 30 hk Motortillverkare: Johnsson Motortyp: Utombordare",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3213c09b8a1115c4"
+ },
+ "location": "Vintrosa",
+ "lon": 15.01094,
+ "make": "Övriga",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 412,
+  "fetched_ts": 1790508020358,
+  "text_sha": "3213c09b8a1115c4"
+ },
+ "price": 19000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 19000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "20 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "13 fot",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Johnsson",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "20 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "235 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25571642",
+ "width_cm": 180,
+ "year": 2000
+}

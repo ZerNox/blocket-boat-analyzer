@@ -1,0 +1,103 @@
+{
+ "ad_id": 25223217,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785333822000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Följer med en 30-kärra som syns på bilden.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 5000HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25223217/512c5b8d-2f62-49f1-baed-cabf3ef60499",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.65791,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1989,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "35fbc599d5c984b1"
+ },
+ "location": "Arvika",
+ "lon": 12.57942,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 301,
+  "fetched_ts": 1790507662013,
+  "text_sha": "35fbc599d5c984b1"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "5000 HT",
+  "Modellår": "1989",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25223217",
+ "width_cm": 0,
+ "year": 1989
+}

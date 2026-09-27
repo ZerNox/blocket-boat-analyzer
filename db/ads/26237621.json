@@ -1,0 +1,117 @@
+{
+ "ad_id": 26237621,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789740290000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Torqeedo",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2022,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "- Raymarine Axiom+ 9RV plotter med ekolod.",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "- Mastervolt 48/50 laddare",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "- Raymarine Axiom+ 9RV plotter med ekolod.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Elbåt Sandström 495 12kw Torqeedo",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26237621/7304166a-0cd4-461c-9558-cd1f8b53a390",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.8025,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2022,
+   "engine_hours": null,
+   "engine_hp": 12,
+   "engine_maker": "Torqeedo",
+   "engine_type": "electric",
+   "engine_year": null,
+   "engine_year_evidence": "null",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "included",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2c4ad55012db1382"
+ },
+ "location": "Resö",
+ "lon": 11.14768,
+ "make": "Sandström",
+ "max_speed": 12,
+ "motor_fuel": "Elektrisk",
+ "motor_size": 16.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 481,
+  "fetched_ts": 1790508544312,
+  "text_sha": "2c4ad55012db1382"
+ },
+ "price": 180000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 180000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Elektrisk",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "Torqeedo Elbåt",
+  "Modellår": "2022",
+  "Motorstorlek": "16 hk",
+  "Motortillverkare": "Torqeedo",
+  "Motortyp": "Utombordare",
+  "Märke": "Sandström",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "12 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "550 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26237621",
+ "width_cm": 200,
+ "year": 2022
+}

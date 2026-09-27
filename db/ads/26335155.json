@@ -1,0 +1,108 @@
+{
+ "ad_id": 26335155,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788617897000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Solé Mini 44",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "I båten finns det toalett, kylskåp, kök, ekolod och värmare m.m.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtvagnen medföljer givetvis.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Stålbåt. Ny motor. Höstpris.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26335155/c96d6e4b-2c23-4bc7-8f3e-c97e32aaf8e5",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.65791,
+ "length_ft": 31,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": 42,
+   "engine_maker": "Solé Mini 44",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Det är några år sedan jag satte i den, men den är aldrig körd.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0604b525848f18dd"
+ },
+ "location": "Arvika",
+ "lon": 12.57942,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": 42.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 975,
+  "fetched_ts": 1790508608491,
+  "text_sha": "0604b525848f18dd"
+ },
+ "price": 127000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 127000
+  }
+ ],
+ "specs": {
+  "Bredd": "330 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "31 fot",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "42 hk",
+  "Motortillverkare": "Solé Mini 44",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Annat",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26335155",
+ "width_cm": 330,
+ "year": 1985
+}

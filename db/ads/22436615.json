@@ -1,0 +1,85 @@
+{
+ "ad_id": 22436615,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786368722000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2010,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten är från 2010 och motorn från 2010.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Bra fiskebåt utrustad med elmotor och ekolod.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Bra fiskebåt utrustad med elmotor och ekolod.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80 trailer ingår samt lås både till trailer och båt.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Säljer HR 435 med 30 Hk mercury 4 takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22436615/78050236-f952-4c50-b631-9451239a817d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.87414,
+ "length_ft": 14,
+ "location": "Uppsala",
+ "lon": 17.59561,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 260,
+  "fetched_ts": 1790507455323,
+  "text_sha": "19dcf5a0cefaefb4"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "HR 435",
+  "Modellår": "2010",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Skrovmaterial": "Plast",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22436615",
+ "width_cm": 0,
+ "year": 2010
+}

@@ -1,0 +1,103 @@
+{
+ "ad_id": 26343168,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788625801000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "tillsammans med en Honda 8 hk utombordsmotor och 80-trailer. Båten är en smidig och lättskött modell som passar perfekt",
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2016,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Säljer en Terhi 400 i fint och välvårdat skick tillsammans med en Honda 8 hk utombordsmotor och 80-trailer.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Terhi 400",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26343168/e5fbf23b-8acf-4c99-953e-b635e9c4b71c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.65646,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2016,
+   "engine_hours": null,
+   "engine_hp": 8,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorstorlek: 8 hk",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8ac72db9e4df1978"
+ },
+ "location": "Arvika",
+ "lon": 12.59339,
+ "make": "Terhi",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 8.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 502,
+  "fetched_ts": 1790508611360,
+  "text_sha": "8ac72db9e4df1978"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "13 fot",
+  "Modell": "400",
+  "Modellår": "2016",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "8 hk",
+  "Motortillverkare": "Honda",
+  "Märke": "Terhi",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26343168",
+ "width_cm": 0,
+ "year": 2016
+}

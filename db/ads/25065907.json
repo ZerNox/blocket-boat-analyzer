@@ -1,0 +1,115 @@
+{
+ "ad_id": 25065907,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1785333036000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": 100,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2001,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Fiskebåt med Suzuki 50 hk, Garmin Echomap Ultra 102sv & Thule-trailer",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Fiskebåt med Suzuki 50 hk, Garmin Echomap Ultra 102sv & Thule-trailer",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fiskebåt med Suzuki 50 hk, Garmin Echomap Ultra 102sv & Thule-trailer",
+    "included": true,
+    "year": 2012
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fiskebåt med Suzuki 50 hk, Garmin Echomap Ultra 102sv & Thule-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25065907/db6cf96e-fcd3-4a3f-aafa-bee2a1b0596a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.71112,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2001,
+   "engine_hours": 100,
+   "engine_hp": 50,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Endast ca 100 gångtimmar",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "557279728acf8b88"
+ },
+ "location": "Järvsö",
+ "lon": 16.17191,
+ "make": "Övriga",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1113,
+  "fetched_ts": 1790507639791,
+  "text_sha": "557279728acf8b88"
+ },
+ "price": 95000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 95000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modellår": "2001",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "28 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25065907",
+ "width_cm": 200,
+ "year": 2001
+}

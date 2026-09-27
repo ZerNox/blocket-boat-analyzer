@@ -1,0 +1,105 @@
+{
+ "ad_id": 25453804,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787058414000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1994,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1994,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Fiskebåt med 4.5hk mercury inkl 30kärra",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fiskebåt med 4.5hk mercury inkl 30kärra",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25453804/6f0b7cfb-920d-4ac5-a08c-448e8b6f8157",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.00506,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1994,
+   "engine_hours": null,
+   "engine_hp": 4.5,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b607b3fb0775289e"
+ },
+ "location": "Vingåker",
+ "lon": 15.94245,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 4.5,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 90,
+  "fetched_ts": 1790507880582,
+  "text_sha": "b607b3fb0775289e"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modellår": "1994",
+  "Motorstorlek": "4.5 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25453804",
+ "width_cm": 160,
+ "year": 1994
+}

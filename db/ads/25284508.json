@@ -1,0 +1,111 @@
+{
+ "ad_id": 25284508,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785523124000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1979,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod, 10 liters bensintank.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fin Fogelstad båt trailer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ockelbo b14",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25284508/be366204-1d7f-4f0b-bb8a-4a23e41a87de",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.58449,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1979,
+   "engine_hours": null,
+   "engine_hp": 10,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8ea5eef473b6c801"
+ },
+ "location": "Storvik",
+ "lon": 16.53466,
+ "make": "Ockelbo",
+ "max_speed": 7,
+ "motor_fuel": "Bensin",
+ "motor_size": 10.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 288,
+  "fetched_ts": 1790507724308,
+  "text_sha": "8ea5eef473b6c801"
+ },
+ "price": 34000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 34000
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "B14",
+  "Modellår": "1979",
+  "Motorstorlek": "10 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Ockelbo",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "7 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "145 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25284508",
+ "width_cm": 160,
+ "year": 1979
+}

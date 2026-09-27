@@ -1,0 +1,78 @@
+{
+ "ad_id": 26449117,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788955264000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2002,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner fyrtakt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten är från 2002 och motorn, en Mariner 60 hk är från 2003.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Medföljer Fogelsta 30-släp med nya däck.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Höstpris! Örnvik Commander 500",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26449117/7fef0c08-1c16-4cc8-bb61-c1257205662a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.80945,
+ "length_ft": 16,
+ "location": "Vätö",
+ "lon": 18.96084,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 409,
+  "fetched_ts": 1790508694029,
+  "text_sha": "f34c7c637f933f47"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Bredd": "222 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "Commander",
+  "Modellår": "2002",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mariner fyrtakt",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "420 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26449117",
+ "width_cm": 222,
+ "year": 2002
+}

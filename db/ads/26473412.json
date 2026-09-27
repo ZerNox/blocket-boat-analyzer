@@ -1,0 +1,114 @@
+{
+ "ad_id": 26473412,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789645527000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2024,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Hidea",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2024,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Elmotor",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance HDS 7 monterat i förarkonsolen.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Nakhoda NJ1450 Bass DC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26473412/21c1f6e3-f939-40f9-b005-028fd16ece67",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.41684,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2024,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Hidea",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2c810cab9d2a116c"
+ },
+ "location": "Dyltabruk",
+ "lon": 15.24756,
+ "make": "Nakhoda",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 2062,
+  "fetched_ts": 1790508714115,
+  "text_sha": "2c810cab9d2a116c"
+ },
+ "price": 119000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 119000
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "NJ1450 Bass",
+  "Modellår": "2024",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Hidea",
+  "Motortyp": "Utombordare",
+  "Märke": "Nakhoda",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26473412",
+ "width_cm": 170,
+ "year": 2024
+}

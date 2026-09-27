@@ -1,0 +1,104 @@
+{
+ "ad_id": 22097486,
+ "boat_class": "Annat",
+ "changed_ts": 1786379156000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yanmar 3 cyl",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Välutrustad Scampi 30 med 3 cyl. motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22097486/7e6823f0-76f0-4995-ba13-08ca6d0af4bb",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.68567,
+ "length_ft": 30,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 20,
+   "engine_maker": "Yanmar",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "50ae1a6792c122f0"
+ },
+ "location": "Torslanda",
+ "lon": 11.74395,
+ "make": "Scampi",
+ "max_speed": 6,
+ "motor_fuel": "Diesel",
+ "motor_size": 20.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790507437121,
+  "text_sha": "50ae1a6792c122f0"
+ },
+ "price": 115000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 115000
+  }
+ ],
+ "specs": {
+  "Bredd": "300 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "165 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit med röd rand",
+  "Längd i fot": "30 fot",
+  "Modell": "Segelbåt",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Yanmar 3 cyl",
+  "Motortyp": "Inombordare",
+  "Märke": "Scampi",
+  "Sovplatser": "5",
+  "Toppfart": "6 knop",
+  "Typ": "Annat",
+  "Vikt": "3 500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22097486",
+ "width_cm": 300,
+ "year": 1978
+}

@@ -1,0 +1,101 @@
+{
+ "ad_id": 25372392,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785788550000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "RIB aluminiumskrov,",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25372392/abfe1282-da58-451c-ac35-8321d8488195",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.73573,
+ "length_ft": 9,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2007,
+   "engine_hours": null,
+   "engine_hp": 8,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Produktionsår motor: Gissningsvis mitten av nittiotalet.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "fec9a800f993cc12"
+ },
+ "location": "Gävle",
+ "lon": 17.40185,
+ "make": "Aquapro",
+ "max_speed": 18,
+ "motor_fuel": "Bensin",
+ "motor_size": 8.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 509,
+  "fetched_ts": 1790507810735,
+  "text_sha": "fec9a800f993cc12"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit/grå",
+  "Längd i fot": "9 fot",
+  "Modell": "SLR",
+  "Modellår": "2007",
+  "Motorstorlek": "8 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Aquapro",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "18 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "40 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25372392",
+ "width_cm": 0,
+ "year": 2007
+}

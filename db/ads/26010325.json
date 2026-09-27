@@ -1,0 +1,108 @@
+{
+ "ad_id": 26010325,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787602533000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Chrysler",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "På båten sitter en Chrystler 75hk motor med hydraulikstyrning som gör den väldigt lättmanövrerad.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sportbåt Selco - Chrysler 75hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26010325/18b297ba-d3f7-4184-a44c-0322ecd56c2c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.37735,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1975,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Chrysler",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8394b6c24932e749"
+ },
+ "location": "Moliden",
+ "lon": 18.44261,
+ "make": "Selco",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 720,
+  "fetched_ts": 1790508378629,
+  "text_sha": "8394b6c24932e749"
+ },
+ "price": 11000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 11000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Röd",
+  "Längd i fot": "14 fot",
+  "Modell": "14",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Chrysler",
+  "Motortyp": "Utombordare",
+  "Märke": "Selco",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26010325",
+ "width_cm": 0,
+ "year": 1975
+}

@@ -1,0 +1,98 @@
+{
+ "ad_id": 25671914,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786637020000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "förgasar-tvåtakt såldes inte ny i EU efter 2007",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Highfield UL 260",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25671914/2d984269-143c-446f-a77d-4e60a7821415",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.20379,
+ "length_ft": 9,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2010,
+   "engine_hours": null,
+   "engine_hp": 6,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a68b6c7ee8cf4901"
+ },
+ "location": "Rönninge",
+ "lon": 17.77675,
+ "make": "Highfield",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 134,
+  "fetched_ts": 1790508084785,
+  "text_sha": "a68b6c7ee8cf4901"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "9 fot",
+  "Modell": "UL 260",
+  "Modellår": "2010",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Highfield",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25671914",
+ "width_cm": 0,
+ "year": 2010
+}

@@ -1,0 +1,88 @@
+{
+ "ad_id": 22360123,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787896307000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2018,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor: Suzuki 80 hk 4-takt (Årsmodell 2018)",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Navigation: Stor och tydlig plotter/ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Övrigt: Kapellöverdrag till pulpet, ankare",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Navigation: Stor och tydlig plotter/ekolod",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Välvårdad Arronet 16 SP (2018) – Suzuki 80 hk & full servicehistorik",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22360123/7629bcdb-af6f-47ce-b71e-78d99f566b0a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.33866,
+ "length_ft": 16,
+ "location": "Stockholm",
+ "lon": 18.07963,
+ "make": "Arronet",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1274,
+  "fetched_ts": 1790507449770,
+  "text_sha": "bbea8448ed8a64d0"
+ },
+ "price": 285000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 285000
+  }
+ ],
+ "specs": {
+  "Bredd": "211 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "16 SP",
+  "Modellår": "2018",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Arronet",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "32 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "620 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22360123",
+ "width_cm": 211,
+ "year": 2018
+}

@@ -1,0 +1,106 @@
+{
+ "ad_id": 25513493,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786185890000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda 4takt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Fogelsta 30 trailer med nya hjullager.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Finnmaster 520 styrpulpetbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25513493/d213a385-c110-459a-bc4e-b06a80c7928e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.77942,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Honda 4takt",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Honda motor, servad och bytt kamrem startar och går som en klocka.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "61f2893e6036ce90"
+ },
+ "location": "Torslanda",
+ "lon": 11.83033,
+ "make": "Finnmaster",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 166,
+  "fetched_ts": 1790507943896,
+  "text_sha": "61f2893e6036ce90"
+ },
+ "price": 67000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 67000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "520 c",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda 4takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnmaster",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25513493",
+ "width_cm": 0,
+ "year": 2000
+}

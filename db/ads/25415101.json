@@ -1,0 +1,115 @@
+{
+ "ad_id": 25415101,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785921362000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude e-tec",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2011,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin Echomap uhd 72cv",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin Echomap uhd 72cv",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80-trailer ingår (besiktad)",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 530 cc",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25415101/5e1a30d3-28b9-4361-a516-3a06434ee039",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.38645,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": null,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Modellår: 2011",
+   "engine_year_rejected": 2011,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "cd58fdf2c418c565"
+ },
+ "location": "Söderfors",
+ "lon": 17.23804,
+ "make": "HR",
+ "max_speed": 35,
+ "motor_fuel": null,
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 275,
+  "fetched_ts": 1790507850509,
+  "text_sha": "cd58fdf2c418c565"
+ },
+ "price": 145000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 145000
+  }
+ ],
+ "specs": {
+  "Bredd": "218 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "530 cc",
+  "Modellår": "2011",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Evinrude e-tec",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Sittplatser": "6",
+  "Toppfart": "35 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25415101",
+ "width_cm": 218,
+ "year": 2011
+}

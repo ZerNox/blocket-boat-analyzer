@@ -1,0 +1,109 @@
+{
+ "ad_id": 25002163,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785860088000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1999,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Utrustning: Tohatsu 40 hk (05), 80-trailer, fendrar, Förtöjningslinor, dynor, ekolod, paddel, ankare, flagga samt flagg…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer 80-kärra ingår.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 440 GT, Tohatsu 40 hk – Trailer 80-kärra ingår.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25002163/0d666819-3e83-4c12-8499-b274c0f82e59",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.15807,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1999,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Tohatsu 40 hk (05)",
+   "engine_year_rejected": 2005,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ecf9a00bc084a43f"
+ },
+ "location": "Karlshamn",
+ "lon": 14.90865,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 715,
+  "fetched_ts": 1790507634383,
+  "text_sha": "ecf9a00bc084a43f"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "440 gt",
+  "Modellår": "1999",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25002163",
+ "width_cm": 180,
+ "year": 1999
+}

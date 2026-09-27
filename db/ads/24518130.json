@@ -1,0 +1,125 @@
+{
+ "ad_id": 24518130,
+ "boat_class": "Annat",
+ "changed_ts": 1788295669000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1974,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Volvo Penta MD21",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1974,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod och gps Garmin",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Fräscht kapell.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ekolod och gps Garmin",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Traktortrailer ingår.",
+    "included": true
+   },
+   "vinterkapell": {
+    "evidence": "Båtpresenning",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Familjebåt, campingbåt, Passaralla",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24518130/ae271cc0-853c-487b-a42e-23dca7a7d82d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.63996,
+ "length_ft": 22,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1974,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "bd7dce33786a929d"
+ },
+ "location": "Enköping",
+ "lon": 17.07709,
+ "make": "Övriga",
+ "max_speed": 12,
+ "motor_fuel": "Diesel",
+ "motor_size": 75.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 511,
+  "fetched_ts": 1790507603453,
+  "text_sha": "bd7dce33786a929d"
+ },
+ "price": 9000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9000
+  }
+ ],
+ "specs": {
+  "Bredd": "2032 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "80 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Ochragul",
+  "Längd i fot": "22 fot",
+  "Modell": "Passaralla",
+  "Modellår": "1974",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Volvo Penta MD21",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "12 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24518130",
+ "width_cm": 2032,
+ "year": 1974
+}

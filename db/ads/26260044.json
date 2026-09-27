@@ -1,0 +1,106 @@
+{
+ "ad_id": 26260044,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788368108000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Parson 5HK 4takt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "kärran som är på bilden ingår ej!",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Roddbåt med motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26260044/89b66253-e793-44f0-8c18-8fb598a6363c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.31971,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 5,
+   "engine_maker": "Parson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "motorn är nyservad",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6fa42700e615cca1"
+ },
+ "location": "Mariefred",
+ "lon": 17.23936,
+ "make": "Pardo",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 5.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 127,
+  "fetched_ts": 1790508561767,
+  "text_sha": "6fa42700e615cca1"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "5 hk",
+  "Motortillverkare": "Parson 5HK 4takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Pardo",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26260044",
+ "width_cm": 175,
+ "year": 1980
+}

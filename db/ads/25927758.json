@@ -1,0 +1,86 @@
+{
+ "ad_id": 25927758,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787395936000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": 2,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2016,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "40HK Mercury motor årsmodel 2016, 82 timmars gångtid, 2 tankar medföljer, Optima yellowtop, solcell för laddning, länspump, båtkärra 30 km/h (har varit en 80 Km/h papper finns för…",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "40HK Mercury motor årsmodel 2016, 82 timmars gångtid, 2 tankar medföljer, Optima yellowtop, solcell för laddning, länsp…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "40HK Mercury motor årsmodel 2016, 82 timmars gångtid, 2 tankar medföljer, Optima yellowtop, solcell för laddning, länsp…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "40HK Mercury motor årsmodel 2016, 82 timmars gångtid, 2 tankar medföljer, Optima yellowtop, solcell för laddning, länsp…",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik 540",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25927758/2416671e-111b-41a0-8058-1144fbb0cf01",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 55.57813,
+ "length_ft": 18,
+ "location": "Simrishamn",
+ "lon": 14.29753,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 348,
+  "fetched_ts": 1790508310331,
+  "text_sha": "154b7cbf23ed56c6"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Bredd": "203 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "540",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "300 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25927758",
+ "width_cm": 203,
+ "year": 1975
+}

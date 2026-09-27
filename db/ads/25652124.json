@@ -1,0 +1,108 @@
+{
+ "ad_id": 25652124,
+ "boat_class": "Annat",
+ "changed_ts": 1786548869000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell finns men har gått sönder i någon söm",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Obromsad 80 trailer från 2015 som är obesiktad",
+    "included": true,
+    "kmh": 80,
+    "year": 2015
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 495",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25652124/bc86e019-cc95-4698-9c7a-5d6947da3add",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 67.85626,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1975,
+   "engine_hours": null,
+   "engine_hp": 25,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Suzuki 25hk i fint skick",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "14edb9af92bb0a81"
+ },
+ "location": "Kiruna",
+ "lon": 20.26125,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 194,
+  "fetched_ts": 1790508073088,
+  "text_sha": "14edb9af92bb0a81"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "495",
+  "Modellår": "1975",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25652124",
+ "width_cm": 0,
+ "year": 1975
+}

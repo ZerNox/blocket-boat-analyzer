@@ -1,0 +1,82 @@
+{
+ "ad_id": 25476079,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1786084794000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude e-tec",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Årsmodell motor: 2007",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Lowrens Eagle ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30 trailer ingår.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ideal 550MC hyttbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25476079/61282fdb-941c-4d35-8239-7d7ff2ca8e01",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.14607,
+ "length_ft": 18,
+ "location": "Dalarö",
+ "lon": 18.37243,
+ "make": "Ideal",
+ "max_speed": 23,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 339,
+  "fetched_ts": 1790507902926,
+  "text_sha": "3afb0c76bcfc7fc8"
+ },
+ "price": 85000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 85000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "550MC",
+  "Modellår": "2007",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Evinrude e-tec",
+  "Motortyp": "Utombordare",
+  "Märke": "Ideal",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "23 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25476079",
+ "width_cm": 0,
+ "year": 2007
+}

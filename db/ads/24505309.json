@@ -1,0 +1,110 @@
+{
+ "ad_id": 24505309,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787651440000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Lättstartad Mercury, ekolod, ny solpanel, ny länspump.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Relativt nytt kapell men tyvärr ett par revor och några knappar borta..",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Släpvagn ingår ej.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Billig båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24505309/9e3d6b2b-b9ca-4ed2-8b95-97f46d16c49a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 55.78798,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": 7.5,
+   "engine_maker": "mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "50ffcce4322a29a9"
+ },
+ "location": "Hörby",
+ "lon": 13.88802,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 7.5,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 368,
+  "fetched_ts": 1790507602139,
+  "text_sha": "50ffcce4322a29a9"
+ },
+ "price": 6000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 6000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modellår": "1985",
+  "Motorstorlek": "7.5 hk",
+  "Motortillverkare": "mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24505309",
+ "width_cm": 0,
+ "year": 1985
+}

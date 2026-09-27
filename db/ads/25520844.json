@@ -1,0 +1,72 @@
+{
+ "ad_id": 25520844,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786801340000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": 100,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer min Seamaster Openline 480 från 2008 med Suzuki DF40 40 hk fyrtaktsmotor från 2008 .",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Seamaster 480 Openline med Suzuki DF40  -  endast knappt 100 timmar",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25520844/1c51503a-0722-40f2-a367-29de93b81e91",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.09989,
+ "length_ft": 16,
+ "location": "Nösund",
+ "lon": 11.53261,
+ "make": "Sea Master",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 914,
+  "fetched_ts": 1790507952275,
+  "text_sha": "5a10f2dec4590138"
+ },
+ "price": 64000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 64000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "480 Openline",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Sea Master",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25520844",
+ "width_cm": 200,
+ "year": 2008
+}

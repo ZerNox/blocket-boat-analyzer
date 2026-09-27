@@ -1,0 +1,79 @@
+{
+ "ad_id": 25565257,
+ "boat_class": "Annat",
+ "changed_ts": 1786301581000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury årsmodell 2003",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Mercury årsmodell 2003",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "ekolod": {
+    "evidence": "I priset ingår vattenskidor, badring, ekolod samt 30 båtkärra.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "I priset ingår vattenskidor, badring, ekolod samt 30 båtkärra.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Kyrkö 520 Trolling",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25565257/8e48ea6e-d117-4260-ab2d-fdff50cd7d2d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.71743,
+ "length_ft": 17,
+ "location": "Borås",
+ "lon": 12.97422,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 157,
+  "fetched_ts": 1790508007688,
+  "text_sha": "b62ba859015e1371"
+ },
+ "price": 50000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 50000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "Kyrkö 520 Trolling",
+  "Modellår": "1996",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury årsmodell 2003",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25565257",
+ "width_cm": 0,
+ "year": 1996
+}

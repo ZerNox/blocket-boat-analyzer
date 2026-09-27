@@ -1,0 +1,113 @@
+{
+ "ad_id": 25759049,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790346601000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2003,
+  "boat_year_source": "spec",
+  "engine_hours": 200,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Både motor ( Mercury 60 Efi 4-takt ) och båt är från 2003 och har varit mycket väl omhändertagna.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Använts till trollingfiske främst där flera spöhållare (inkl Scotty) och ekolod Garmin Striker vivid 7sv, ingår.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Extremt fina, näst intill oanvända orginaldynor och avtagbart bord ingår samt orginalkapellet och 30-trailer som även d…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Extremt fina, näst intill oanvända orginaldynor och avtagbart bord ingår samt orginalkapellet och 30-trailer som även d…",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Finnmaster 520 Troller",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25759049/14f125a4-20c3-41ac-811d-9c06c14c5ee6",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.37507,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2003,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mercury 60 Efi 4-takt",
+   "engine_year_rejected": 2003,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8cc03731e2109533"
+ },
+ "location": "Hässelby",
+ "lon": 17.82327,
+ "make": "Finnmaster",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 883,
+  "fetched_ts": 1790508162846,
+  "text_sha": "8cc03731e2109533"
+ },
+ "price": 95000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 95000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "520 Troller",
+  "Modellår": "2003",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnmaster",
+  "Sittplatser": "5",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25759049",
+ "width_cm": 205,
+ "year": 2003
+}

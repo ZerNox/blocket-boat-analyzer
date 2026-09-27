@@ -1,0 +1,78 @@
+{
+ "ad_id": 26872507,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790341646000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": 170,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2020,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer nu min Ryds 548 Mid C från 2020 med Mercury 80 hk, även den från 2020.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Plotter/ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter/ekolod",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 548 Mid C 2020 – Mercury 80 hk 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26872507/c0a946ef-acab-46cf-a870-033de388e99e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.66765,
+ "length_ft": 18,
+ "location": "Mölnlycke",
+ "lon": 12.15318,
+ "make": "Ryds",
+ "max_speed": 33,
+ "motor_fuel": null,
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 910,
+  "fetched_ts": 1790508989652,
+  "text_sha": "f05abeda0bda081b"
+ },
+ "price": 219000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 219000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "548 Mid-C",
+  "Modellår": "2020",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Toppfart": "33 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26872507",
+ "width_cm": 0,
+ "year": 2020
+}

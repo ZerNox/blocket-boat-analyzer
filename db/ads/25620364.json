@@ -1,0 +1,103 @@
+{
+ "ad_id": 25620364,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787076540000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1992,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1992,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båt, utombordare & trailer i paket",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Båt, utombordare & trailer i paket",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25620364/32df2f50-5b3d-4d05-b153-a54390c64fc2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.58502,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1992,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a4b94d238b300212"
+ },
+ "location": "Molkom",
+ "lon": 13.8501,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 190,
+  "fetched_ts": 1790508054884,
+  "text_sha": "a4b94d238b300212"
+ },
+ "price": 13000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 13000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "425 R",
+  "Modellår": "1992",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25620364",
+ "width_cm": 0,
+ "year": 1992
+}

@@ -1,0 +1,117 @@
+{
+ "ad_id": 25779985,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786957757000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": 127,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2021,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Plotter: Garmin Echomap UHD 72cv 7 tum med uppdaterade sjökort.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter: Garmin Echomap UHD 72cv 7 tum med uppdaterade sjökort.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Bluetooth stereo med 2st marinhögtalare.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 490 VI",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25779985/fd71be54-ad63-4869-bd76-434a155745cf",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.60859,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2021,
+   "engine_hours": 133,
+   "engine_hp": 60,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortimmar: ca 133",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "included",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "32483202afd97525"
+ },
+ "location": "Yxlan",
+ "lon": 18.83251,
+ "make": "Ryds",
+ "max_speed": 33,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 671,
+  "fetched_ts": 1790508190211,
+  "text_sha": "32483202afd97525"
+ },
+ "price": 165000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 165000
+  }
+ ],
+ "specs": {
+  "Bredd": "192 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "490 VI",
+  "Modellår": "2021",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "33 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "370 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25779985",
+ "width_cm": 192,
+ "year": 2021
+}

@@ -1,0 +1,119 @@
+{
+ "ad_id": 26250145,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788352533000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Startar lätt och ger bra fart.Extramotor: Elmotor (perfekt för ljudlös manövrering och fiske).Elsystem: Dubbla batterie…",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Startar lätt och ger bra fart.Extramotor: Elmotor (perfekt för ljudlös manövrering och fiske).Elsystem: Dubbla batterie…",
+    "included": true
+   },
+   "hjalpmotor": {
+    "evidence": "Startar lätt och ger bra fart.Extramotor: Elmotor (perfekt för ljudlös manövrering och fiske).Elsystem: Dubbla batterie…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Startar lätt och ger bra fart.Extramotor: Elmotor (perfekt för ljudlös manövrering och fiske).Elsystem: Dubbla batterie…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Komplett fiskepaket med dubbelmontage & 30-trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Komplett fiskepaket med dubbelmontage & 30-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26250145/053fce2e-5585-4c9d-99ab-91c6a6a29de5",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.73673,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3c4bdc24247bba2f"
+ },
+ "location": "Leksand",
+ "lon": 14.98257,
+ "make": "Väddö",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1096,
+  "fetched_ts": 1790508555790,
+  "text_sha": "3c4bdc24247bba2f"
+ },
+ "price": 42000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 42000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "450",
+  "Modellår": "1990",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Väddö",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26250145",
+ "width_cm": 0,
+ "year": 1990
+}

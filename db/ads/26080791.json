@@ -1,0 +1,107 @@
+{
+ "ad_id": 26080791,
+ "boat_class": "Annat",
+ "changed_ts": 1787843738000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Fint skick med fräscht kapell dynor till ruff.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fin Crescent 505 med trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fin Crescent 505 med trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26080791/85a7b1c2-19c7-4f7a-8790-4f071792a6c8",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.99159,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "cd53208ed2a199a4"
+ },
+ "location": "Mora",
+ "lon": 14.43834,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 159,
+  "fetched_ts": 1790508438702,
+  "text_sha": "cd53208ed2a199a4"
+ },
+ "price": 39000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 39000
+  }
+ ],
+ "specs": {
+  "Bredd": "203 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "505",
+  "Modellår": "1980",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26080791",
+ "width_cm": 203,
+ "year": 1980
+}

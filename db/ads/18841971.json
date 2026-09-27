@@ -1,0 +1,76 @@
+{
+ "ad_id": 18841971,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788271016000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer en trevlig och lättkörd Ryds 435 DL, årsmodell 2007, utrustad med en Mercury 25 hk 4-takts utombordare, även den från 2007.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "80-trailer ingår i priset men är obesiktigad och vissa lampor har ärjat.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 435dl",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/18841971/9e12fd82-031e-4634-b549-20aea75786f6",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.71831,
+ "length_ft": 15,
+ "location": "Torslanda",
+ "lon": 11.75257,
+ "make": "Ryds",
+ "max_speed": 18,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 903,
+  "fetched_ts": 1790507413355,
+  "text_sha": "ee6f0f5f32612409"
+ },
+ "price": 59000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 59000
+  }
+ ],
+ "specs": {
+  "Bredd": "186 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "435 dl",
+  "Modellår": "2007",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Toppfart": "18 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/18841971",
+ "width_cm": 186,
+ "year": 2007
+}

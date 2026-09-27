@@ -1,0 +1,79 @@
+{
+ "ad_id": 26011653,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787605702000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Tohatsu 40hk tvåtakt m separat oljesmörjning fr 2004, propellern liten skada på.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "plotter": {
+    "evidence": "Garmin Gps plotter m sjökort",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtvagn/upptagningsvagn 30km typ Fogelsta",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Båtskär 550",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26011653/0f3388e4-4b55-4eab-bb41-2e9f1bbe52c3",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 65.59561,
+ "length_ft": 18,
+ "location": "Luleå",
+ "lon": 22.20186,
+ "make": "Övriga",
+ "max_speed": 25,
+ "motor_fuel": null,
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 302,
+  "fetched_ts": 1790508381394,
+  "text_sha": "b3d2351394f5f0d1"
+ },
+ "price": 39000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 39000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "Båtskär 550",
+  "Modellår": "1999",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26011653",
+ "width_cm": 0,
+ "year": 1999
+}

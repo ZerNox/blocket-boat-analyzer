@@ -1,0 +1,115 @@
+{
+ "ad_id": 25605019,
+ "boat_class": "Annat",
+ "changed_ts": 1786447371000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnsson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Finsk fiskebåt med alla tillbehör+trailer+ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell finns som är helt",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Medföljer ekolodsystem och gps tror jag det var, eftermarknadsvärde på 5000 eller nått sånt",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Finsk fiskebåt med alla tillbehör+trailer+ekolod",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Finsk fiskebåt med alla tillbehör+trailer+ekolod",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25605019/f86773af-b944-415f-9906-b4e56a4265d6",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.17145,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 35.15,
+   "engine_maker": "Johnsson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Fin fiskebåt med en 35hk Johnsson motor med elstart å kablage å tank å allt sånt där",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "da92e2a9a6650bf8"
+ },
+ "location": "Tärnsjö",
+ "lon": 16.92858,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 35.150001525878906,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 566,
+  "fetched_ts": 1790508043360,
+  "text_sha": "da92e2a9a6650bf8"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modellår": "1990",
+  "Motorstorlek": "35.15 hk",
+  "Motortillverkare": "Johnsson",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25605019",
+ "width_cm": 200,
+ "year": 1990
+}

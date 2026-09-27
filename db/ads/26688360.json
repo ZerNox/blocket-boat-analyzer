@@ -1,0 +1,109 @@
+{
+ "ad_id": 26688360,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789740643000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury fyrtaktare",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Eventuellt kan en båttrailer 80km med totalvikt 600kg säljas för 10 000kr.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 4612 styrpulpet Mercury 50HK",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26688360/61a9f9d6-0a90-4eac-8412-0865075b54c8",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.06568,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8bd03b4ba265aae8"
+ },
+ "location": "Björklinge",
+ "lon": 17.42231,
+ "make": "Uttern",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 218,
+  "fetched_ts": 1790508873199,
+  "text_sha": "8bd03b4ba265aae8"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå/vit",
+  "Längd i fot": "16 fot",
+  "Modell": "4612",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury fyrtaktare",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "340 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26688360",
+ "width_cm": 185,
+ "year": 2000
+}

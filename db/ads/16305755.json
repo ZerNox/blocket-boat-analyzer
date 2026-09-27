@@ -1,0 +1,109 @@
+{
+ "ad_id": 16305755,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789310367000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "l och trygg på vattnet. Motor Suzuki DF25 V-Twin, 25 hk, 4-takt med elstart. Motorn går mycket fint, är tyst och mycket",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "I fören sitter en Haswing frontmonterad elmotor med:",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "fiskebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/16305755/66d37f41-7e27-471a-a349-6dd10de60ff9",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.60011,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": null,
+   "engine_hours": null,
+   "engine_hp": 25,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Suzuki DF25 V-Twin, 25 hk, 4-takt med elstart. Motorn servades i maj 2026:",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6368de187af837a1"
+ },
+ "location": "Kållered",
+ "lon": 12.05081,
+ "make": "SK",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1308,
+  "fetched_ts": 1790507318023,
+  "text_sha": "6368de187af837a1"
+ },
+ "price": 48000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 48000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modellår": "2006",
+  "Motor inkluderad": "Nej",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "SK",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/16305755",
+ "width_cm": 0,
+ "year": 2006
+}

@@ -1,0 +1,103 @@
+{
+ "ad_id": 25466031,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787805885000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Roddbåt/Motorbåt med Mariner 5 hk, trailer och åror",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Roddbåt/Motorbåt med Mariner 5 hk, trailer och åror",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25466031/3b0753c2-cf07-4ca9-957e-9bf87c618d86",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.31649,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1970,
+   "engine_hours": null,
+   "engine_hp": 5,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "bc6b6f4ffbbc9317"
+ },
+ "location": "Kristinehamn",
+ "lon": 14.12145,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 5.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 427,
+  "fetched_ts": 1790507896096,
+  "text_sha": "bc6b6f4ffbbc9317"
+ },
+ "price": 12500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12500
+  }
+ ],
+ "specs": {
+  "Bredd": "120 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "13 fot",
+  "Modellår": "1970",
+  "Motorstorlek": "5 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25466031",
+ "width_cm": 120,
+ "year": 1970
+}

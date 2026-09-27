@@ -1,0 +1,79 @@
+{
+ "ad_id": 26572032,
+ "boat_class": "Annat",
+ "changed_ts": 1789325842000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1982,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1990,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Finns tyvärr inget kapell och motorn är en Yamaha 60 hk 1990 , den går inte riktigt som den ska, den blir varm och går inte över 7 knop men har mer att ge, då jag är varken kunnig…",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Finns tyvärr inget kapell och motorn är en Yamaha 60 hk 1990 , den går inte riktigt som den ska, den blir varm och går …",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Move 500 HT (inkl 30 trailer)",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Move 500 HT (inkl 30 trailer)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26572032/2786aa81-1e09-488a-90ed-8be825e458c1",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.25062,
+ "length_ft": 5,
+ "location": "Ingarö",
+ "lon": 18.49613,
+ "make": "More",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 290,
+  "fetched_ts": 1790508797226,
+  "text_sha": "ba7d302d70604a79"
+ },
+ "price": 12000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12000
+  }
+ ],
+ "specs": {
+  "Bredd": "2 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "5 fot",
+  "Modell": "Move 500 HT",
+  "Modellår": "1982",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "More",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26572032",
+ "width_cm": 2,
+ "year": 1982
+}

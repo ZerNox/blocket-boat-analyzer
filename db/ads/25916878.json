@@ -1,0 +1,108 @@
+{
+ "ad_id": 25916878,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787346433000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2018,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2018,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "stereo": {
+    "evidence": "* stereo med bt",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Finns i Munkedal och kan provköras, enklare sjösättningskärra medföljer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern S45 50hk fyrtakt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25916878/ee806365-a5ba-48db-af7d-586c153145c0",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.48349,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2018,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "bb45ad704cd4744a"
+ },
+ "location": "Munkedal",
+ "lon": 11.74383,
+ "make": "Uttern",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 315,
+  "fetched_ts": 1790508297648,
+  "text_sha": "bb45ad704cd4744a"
+ },
+ "price": 130000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 130000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "S45",
+  "Modellår": "2018",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25916878",
+ "width_cm": 185,
+ "year": 2018
+}

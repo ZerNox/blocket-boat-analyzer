@@ -1,0 +1,100 @@
+{
+ "ad_id": 23767219,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785758269000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1999,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fin fiske båt med 30 vagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23767219/97e8d06c-3c18-4bab-8b97-31f9f999dd54",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.5938,
+ "length_ft": 432,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1999,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8addce60379ef8bf"
+ },
+ "location": "Valbo",
+ "lon": 16.97024,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 33,
+  "fetched_ts": 1790507535310,
+  "text_sha": "8addce60379ef8bf"
+ },
+ "price": 23000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 23000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "432 fot",
+  "Modell": "432 RS",
+  "Modellår": "1999",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23767219",
+ "width_cm": 0,
+ "year": 1999
+}

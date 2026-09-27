@@ -1,0 +1,119 @@
+{
+ "ad_id": 26433670,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788889928000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "ya tändstift varje år och byt drevolja. dynor, hyttkapell och störe kapell för bakre delen med skenor finns. Köpt helt n",
+  "engine_type_source": "llm",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "En mercury 75hk 2 takt från 2006 sitter på båten, servad med nya tändstift varje år och byt drevolja. dynor, hyttkapell och störe kapell för bakre delen med skenor finns.",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "ekolod": {
+    "evidence": "En Garmin med ekolod och knopmätare följer med båten.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "En mercury 75hk 2 takt från 2006 sitter på båten, servad med nya tändstift varje år och byt drevolja. dynor, hyttkapell…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "En 80 kärra som är obesiktigad och helt ny hjulbalk följer med på köpte.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "declared outboard but text says 'drevolja'"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 511 gts med hydralisk styrning",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26433670/f3d9d544-0df4-489d-9c19-c8ecde45671c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.98052,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2001,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": 2006,
+   "engine_year_evidence": "En mercury 75hk 2 takt från 2006 sitter på båten, servad med nya tändstift varje år och byt drevolja. dynor, hyttkapell och störe kapell för bakre delen med skenor finns.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0335905201a6bbee"
+ },
+ "location": "Skärhamn",
+ "lon": 11.53202,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 666,
+  "fetched_ts": 1790508691385,
+  "text_sha": "0335905201a6bbee"
+ },
+ "price": 85000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 85000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "15 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "511 gts",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "490 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26433670",
+ "width_cm": 220,
+ "year": 2001
+}

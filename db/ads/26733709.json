@@ -1,0 +1,104 @@
+{
+ "ad_id": 26733709,
+ "boat_class": "Annat",
+ "changed_ts": 1789893991000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båtvagn medföljer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Plastbåt, motor och vagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26733709/eaa05ae1-d6c1-4db5-b1f3-3ae96227af3b",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.88096,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1c72a95d715b1739"
+ },
+ "location": "Hamrångefjärden",
+ "lon": 17.03538,
+ "make": "Ockelbo",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 101,
+  "fetched_ts": 1790508897942,
+  "text_sha": "1c72a95d715b1739"
+ },
+ "price": 8500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 8500
+  }
+ ],
+ "specs": {
+  "Bredd": "155 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Röd/vit",
+  "Längd i fot": "14 fot",
+  "Modell": "B14",
+  "Modellår": "1980",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Ockelbo",
+  "Skrovmaterial": "Plast",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26733709",
+ "width_cm": 155,
+ "year": 1980
+}

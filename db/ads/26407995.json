@@ -1,0 +1,109 @@
+{
+ "ad_id": 26407995,
+ "boat_class": "Annat",
+ "changed_ts": 1788807583000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnsson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Dynor är lite slitna, kapellet är i helt ny skick , precis varit inne hos en kapellmakare .",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Crescent 49HT (inkl en fin 80trailer obromsad)",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 49HT (inkl en fin 80trailer obromsad)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26407995/10845aa6-ecf3-4ad3-a7c7-f4ddf0f45ad7",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.25062,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Johnsson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c6d56f30ba0cefff"
+ },
+ "location": "Ingarö",
+ "lon": 18.49613,
+ "make": "Crescent",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 435,
+  "fetched_ts": 1790508666575,
+  "text_sha": "c6d56f30ba0cefff"
+ },
+ "price": 27000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 27000
+  }
+ ],
+ "specs": {
+  "Bredd": "186 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "49 HT",
+  "Modellår": "1978",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Johnsson",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Toppfart": "28 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26407995",
+ "width_cm": 186,
+ "year": 1978
+}

@@ -1,0 +1,99 @@
+{
+ "ad_id": 26743133,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789905969000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2014,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2014,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 400 inkl Suzuki 4hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26743133/ee702965-4db2-4f49-af4d-bb59ac885b94",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.77533,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2014,
+   "engine_hours": null,
+   "engine_hp": 4,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9aa4bf650d48d9f2"
+ },
+ "location": "Västervik",
+ "lon": 16.59963,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 4.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 81,
+  "fetched_ts": 1790508909086,
+  "text_sha": "9aa4bf650d48d9f2"
+ },
+ "price": 12000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "13 fot",
+  "Modell": "400",
+  "Modellår": "2014",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "4 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26743133",
+ "width_cm": 0,
+ "year": 2014
+}

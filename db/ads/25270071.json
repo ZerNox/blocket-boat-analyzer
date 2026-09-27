@@ -1,0 +1,110 @@
+{
+ "ad_id": 25270071,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785496377000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Sitter ekolod på nu men följer endast med för en extra peng.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fin kärra ingår(30km/h)",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fin styrpulpet",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25270071/6518bb1a-f530-4b3c-810d-c19b3614ff1d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.78397,
+ "length_ft": 420,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": 25,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "excluded",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0bf518d158b39a5f"
+ },
+ "location": "Ljungby",
+ "lon": 13.90459,
+ "make": "Övriga",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 295,
+  "fetched_ts": 1790507713621,
+  "text_sha": "0bf518d158b39a5f"
+ },
+ "price": 28000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 28000
+  }
+ ],
+ "specs": {
+  "Bredd": "165 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "420 fot",
+  "Modellår": "1985",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Toppfart": "20 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "460 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25270071",
+ "width_cm": 165,
+ "year": 1985
+}

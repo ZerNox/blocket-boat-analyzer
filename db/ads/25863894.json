@@ -1,0 +1,70 @@
+{
+ "ad_id": 25863894,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787170820000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1993,
+  "boat_year_source": "spec",
+  "engine_hours": 378,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är en Yamaha 50 hk fyrtaktare från 2006, den är optimerad till 60 hk och känns stark och mer än tillräcklig!",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 510 mc i superskick.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25863894/b41fcfeb-8baf-4b14-9ca4-f2fdbe383cb1",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.62851,
+ "length_ft": 17,
+ "location": "Bålsta",
+ "lon": 17.44684,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 50.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 864,
+  "fetched_ts": 1790508259924,
+  "text_sha": "43e6e752135b0b0f"
+ },
+ "price": 95000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 95000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "510 mc",
+  "Modellår": "1993",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Inombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "4",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25863894",
+ "width_cm": 0,
+ "year": 1993
+}

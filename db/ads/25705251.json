@@ -1,0 +1,106 @@
+{
+ "ad_id": 25705251,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787329864000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2003,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury 2-takt",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 478 GT årsmodell 2003 med Mercury 60 Elpto-03 (2-takt), en ägare, motorn väl omhändertagen, fungerande powertrim/tilt, båten är generellt i bra skick med kosmetika brister so…",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Ingår komplett dynset i bra skick, ankare, fendrar 4st, 2 st tankar 25l samt ombromsad båtrailer (30 km/h) med fungeran…",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 478 GT (2003) med Mercury 60 Elpto (2-takt)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25705251/e802e379-3ee4-40c7-8f14-fadffd7357bc",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.70501,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2003,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorstorlek: 60 hk Motortillverkare: Mercury 2-takt",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b2b862810d77eacd"
+ },
+ "location": "Norrtälje",
+ "lon": 18.82881,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 411,
+  "fetched_ts": 1790508109252,
+  "text_sha": "b2b862810d77eacd"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Bredd": "191 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "478 GT",
+  "Modellår": "2003",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury 2-takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "410 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25705251",
+ "width_cm": 191,
+ "year": 2003
+}

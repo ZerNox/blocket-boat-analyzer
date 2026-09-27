@@ -1,0 +1,79 @@
+{
+ "ad_id": 26658638,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789643801000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1974,
+  "boat_year_source": "spec",
+  "engine_hours": 30,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2016,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor ny 2016 och har därefter gått straxt över 30 timmar.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Högt kapell.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Stereo",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds Camping Honda bf60",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26658638/da73785c-022a-413b-b4da-2a6a86c8d075",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.44814,
+ "length_ft": 19,
+ "location": "Vadstena",
+ "lon": 14.87974,
+ "make": "Ryds",
+ "max_speed": 26,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 326,
+  "fetched_ts": 1790508848616,
+  "text_sha": "2cdb0c322c23b78b"
+ },
+ "price": 50000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 50000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "Camping",
+  "Modellår": "1974",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Toppfart": "26 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26658638",
+ "width_cm": 0,
+ "year": 1974
+}

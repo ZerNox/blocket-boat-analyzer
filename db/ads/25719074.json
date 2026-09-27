@@ -1,0 +1,78 @@
+{
+ "ad_id": 25719074,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786780212000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2003,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 480 RSI och Mercury 30hk från 2003 säljes i fint befintligt skick..",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "80-trailer ingår i köpet.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 480 RSI och Mercury 30hk från 2003 säljes i fint befintligt skick.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25719074/be90e8b4-fd5a-4a7d-aff5-34b52ac34318",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.61639,
+ "length_ft": 16,
+ "location": "Hovås",
+ "lon": 11.93001,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 377,
+  "fetched_ts": 1790508127927,
+  "text_sha": "a56981aff881c226"
+ },
+ "price": 46900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 46900
+  }
+ ],
+ "specs": {
+  "Bredd": "188 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "480 RSI",
+  "Modellår": "2003",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "250 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25719074",
+ "width_cm": 188,
+ "year": 2003
+}

@@ -1,0 +1,112 @@
+{
+ "ad_id": 25223707,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785335938000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod ingår.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Silver Hawk 520 med trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "defect"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Silver Hawk 520 med trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25223707/c131293d-d5af-4195-9143-99bea31e844f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.33242,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Elektrisk tilt. Motor: Mercury 50 hk fyrtakt.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6b456ea04a6763df"
+ },
+ "location": "Bromma",
+ "lon": 17.90468,
+ "make": "Silver",
+ "max_speed": 26,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1152,
+  "fetched_ts": 1790507664845,
+  "text_sha": "6b456ea04a6763df"
+ },
+ "price": 100000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 100000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå / Silver",
+  "Längd i fot": "15 fot",
+  "Modell": "Hawk 520",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Silver",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "26 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25223707",
+ "width_cm": 0,
+ "year": 2000
+}

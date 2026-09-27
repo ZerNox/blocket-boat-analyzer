@@ -1,0 +1,107 @@
+{
+ "ad_id": 25527523,
+ "boat_class": "Annat",
+ "changed_ts": 1786206358000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1981,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1981,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Nytt ekolod som knappt är använt.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båten har vart i släkten sedan ny, har kört den mesta dels i Torneälven och på senaste år sparsamt i Stockholm skärgård…",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Formuling Sportbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25527523/5455c332-5453-41d0-bb90-5f74a1cfb30a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.32375,
+ "length_ft": 10,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1981,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn är servad varje år, samt nya tändstift förra året.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c19e04acd9ceeecf"
+ },
+ "location": "Nacka",
+ "lon": 18.20077,
+ "make": "Övriga",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 2020,
+  "fetched_ts": 1790507965341,
+  "text_sha": "c19e04acd9ceeecf"
+ },
+ "price": 16000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 16000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "10 fot",
+  "Modellår": "1981",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Toppfart": "35 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25527523",
+ "width_cm": 0,
+ "year": 1981
+}

@@ -1,0 +1,107 @@
+{
+ "ad_id": 26681777,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789726780000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1991,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1991,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Styrpulpet i bra bruksskick, separat oljeblandning motor (oljepump bytt), rostfri badstege, spöhållare, rostfria räcken…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Nymålad botten 2026, ny propeller och ny styrvajer 2026, medföljer 30 km/h galvad båtvagn.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Styrpulpet Särki 470 R",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26681777/2a549262-f878-440c-a677-d4cd99bcef0e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.69554,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1991,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "788a6ca129423671"
+ },
+ "location": "Ankarsrum",
+ "lon": 16.33215,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 488,
+  "fetched_ts": 1790508868776,
+  "text_sha": "788a6ca129423671"
+ },
+ "price": 26500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 26500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "Särki 470 R",
+  "Modellår": "1991",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26681777",
+ "width_cm": 0,
+ "year": 1991
+}

@@ -1,0 +1,112 @@
+{
+ "ad_id": 26837304,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790199509000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Allt detta tillsamman gör att jag skeppar iväg båt + båtvagn, åror och ett mindre tillhörande kapell till ett gör det s…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Allt detta tillsamman gör att jag skeppar iväg båt + båtvagn, åror och ett mindre tillhörande kapell till ett gör det s…",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Jula Viking 560",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26837304/7b2253c5-876a-4a11-a28b-354658e2d9ea",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.26083,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7ce71a36c0f98b46"
+ },
+ "location": "Bonässund",
+ "lon": 18.80209,
+ "make": "Jula",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 737,
+  "fetched_ts": 1790508970383,
+  "text_sha": "7ce71a36c0f98b46"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Röd/vit",
+  "Längd i fot": "18 fot",
+  "Modell": "Viking",
+  "Modellår": "1978",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Jula",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "375 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26837304",
+ "width_cm": 210,
+ "year": 1978
+}

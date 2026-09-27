@@ -1,0 +1,102 @@
+{
+ "ad_id": 26107917,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787930548000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mercury 15 hk tvåtaktsmotor från 2006 med manuell start och rorkult.",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {},
+  "llm_reasons": [
+   "engine 2006 older than boat 2021"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "YAM Gummibåt med motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26107917/ce784c06-3fca-4530-b9be-9b5bae4d393e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.28704,
+ "length_ft": 10,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2020,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": 2006,
+   "engine_year_evidence": "Mercury 15 hk tvåtaktsmotor från 2006 med manuell start och rorkult.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "923116998f0816b7"
+ },
+ "location": "Ekerö",
+ "lon": 17.76844,
+ "make": "Yam",
+ "max_speed": 23,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 681,
+  "fetched_ts": 1790508468059,
+  "text_sha": "923116998f0816b7"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "10 fot",
+  "Modell": "310 STi V",
+  "Modellår": "2021",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Yam",
+  "Skrovmaterial": "Annat",
+  "Toppfart": "23 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "32 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26107917",
+ "width_cm": 150,
+ "year": 2021
+}

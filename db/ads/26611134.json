@@ -1,0 +1,105 @@
+{
+ "ad_id": 26611134,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789479511000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1994,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1994,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Tiki-trailer 80 km/h, besiktad EU-trailer, perfekt anpassad för denna båt, finns att köpa till vid behov, ingår inte i …",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "BUSTER RS, 4,5 m lång, 50 hk Yamaha",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26611134/fc3bebae-4ccd-45b4-a0f1-de288ad5cbf1",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.69799,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1994,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "50 hk Yamaha 2 takt med separat-oljesmörjning.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8a0e214e44b742dc"
+ },
+ "location": "Gävle",
+ "lon": 17.16904,
+ "make": "Buster",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1350,
+  "fetched_ts": 1790508819756,
+  "text_sha": "8a0e214e44b742dc"
+ },
+ "price": 52000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 52000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "RS",
+  "Modellår": "1994",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26611134",
+ "width_cm": 0,
+ "year": 1994
+}

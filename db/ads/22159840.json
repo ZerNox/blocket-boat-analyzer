@@ -1,0 +1,98 @@
+{
+ "ad_id": 22159840,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787088314000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2023,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Alloycraft J500 Deluxe",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22159840/314d0745-0075-495a-ae6e-6ae13175a4d6",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.42929,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2023,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7a1b45ae9d7ec845"
+ },
+ "location": "Linköping",
+ "lon": 15.69171,
+ "make": "Alloycraft",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790507440098,
+  "text_sha": "7a1b45ae9d7ec845"
+ },
+ "price": 170000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 170000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modellår": "2023",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Alloycraft",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22159840",
+ "width_cm": 0,
+ "year": 2023
+}

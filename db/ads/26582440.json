@@ -1,0 +1,70 @@
+{
+ "ad_id": 26582440,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789383075000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1997,
+  "boat_year_source": "spec",
+  "engine_hours": 50,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "örnvkik 441 honda 50 hk fyrtakt 2021 endast 50 timmar",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik 441",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26582440/6a172719-33e1-4b5c-98e4-338721330cc4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.63939,
+ "length_ft": 15,
+ "location": "Västra Frölunda",
+ "lon": 11.87263,
+ "make": "Örnvik",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 53,
+  "fetched_ts": 1790508812528,
+  "text_sha": "71ce817d31e3246b"
+ },
+ "price": 74000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 74000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "441",
+  "Modellår": "1997",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Toppfart": "27 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26582440",
+ "width_cm": 0,
+ "year": 1997
+}

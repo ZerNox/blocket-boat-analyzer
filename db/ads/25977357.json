@@ -1,0 +1,108 @@
+{
+ "ad_id": 25977357,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788109663000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2008,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Perfekt båt, finns ankare lina, lanternor, 2 st bensindunkar,fendrar, självläns, pulpetkapell, bra förvaring utrymme, s…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Motor 4 taktare, båttrailer finns",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Micore 550 GTX",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25977357/af1b0174-3969-4642-9086-981673eb46a5",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.49206,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2008,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "844dd552c4397c72"
+ },
+ "location": "Kungsbacka",
+ "lon": 12.08422,
+ "make": "Micore",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 174,
+  "fetched_ts": 1790508348043,
+  "text_sha": "844dd552c4397c72"
+ },
+ "price": 115000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 115000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "550 GTX",
+  "Modellår": "2008",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Micore",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25977357",
+ "width_cm": 210,
+ "year": 2008
+}

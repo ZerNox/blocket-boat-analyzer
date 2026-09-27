@@ -1,0 +1,118 @@
+{
+ "ad_id": 26315091,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788550298000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1979,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Crescent 525 med Johnson 35 hk och båtvagn",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 525 med Johnson 35 hk och båtvagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26315091/aeb920d4-a1f2-4629-bdcb-174ddfac955f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 64.68816,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1979,
+   "engine_hours": null,
+   "engine_hp": 35,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Johnson 35 hk",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "included",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "df0fba3e2b3fda51"
+ },
+ "location": "Skellefteå",
+ "lon": 21.08194,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 35.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 466,
+  "fetched_ts": 1790508596055,
+  "text_sha": "df0fba3e2b3fda51"
+ },
+ "price": 32000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 32000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "525",
+  "Modellår": "1979",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "35 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt",
+  "Vikt": "540 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26315091",
+ "width_cm": 210,
+ "year": 1979
+}

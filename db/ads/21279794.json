@@ -1,0 +1,82 @@
+{
+ "ad_id": 21279794,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790341494000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": 100,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2015,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Kamrem och termostat bytt 2024 då även ett nytt batteri och ekolod med plotter köptes och installerades.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Kamrem och termostat bytt 2024 då även ett nytt batteri och ekolod med plotter köptes och installerades.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Står på kärra och kan provköras vid önskan.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Hr 460 fishing",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21279794/aba55c63-b2bd-43a7-b40d-611022b59a6a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.30663,
+ "length_ft": 15,
+ "location": "Örebro",
+ "lon": 15.19131,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 431,
+  "fetched_ts": 1790507421698,
+  "text_sha": "43257c2b8adaa942"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "460 fishing",
+  "Modellår": "2015",
+  "Motor inkluderad": "Nej",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/21279794",
+ "width_cm": 0,
+ "year": 2015
+}

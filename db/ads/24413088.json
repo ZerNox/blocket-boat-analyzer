@@ -1,0 +1,109 @@
+{
+ "ad_id": 24413088,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787987289000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "er inköpt och bytts inom kort Drevolja bytt efter varje säsong Båten står på trailern och motorn kan testas på plats och",
+  "engine_type_source": "llm",
+  "engine_year": 2001,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 510 GT 70hk Johnson -01 + 80km/h trailer -10.",
+  "engine_year_source": "rule:text?",
+  "equipment": {
+   "trailer": {
+    "evidence": "Ryds 510 GT 70hk Johnson -01 + 80km/h trailer -10",
+    "included": true,
+    "kmh": 80,
+    "year": 2010
+   }
+  },
+  "llm_reasons": [
+   "declared outboard but text says 'Drevolja'"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 510 GT 70hk Johnson -01 + 80km/h trailer -10",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24413088/f3d6eb6c-78b4-4c18-84ec-c41bd063431e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.41915,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2001,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny motor -18",
+   "engine_year_rejected": -18,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7e9476a4d9e34b2f"
+ },
+ "location": "Onsala",
+ "lon": 12.02018,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 598,
+  "fetched_ts": 1790507591365,
+  "text_sha": "7e9476a4d9e34b2f"
+ },
+ "price": 69000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "510 GT",
+  "Modellår": "2001",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "510 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24413088",
+ "width_cm": 220,
+ "year": 2001
+}

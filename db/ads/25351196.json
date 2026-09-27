@@ -1,0 +1,106 @@
+{
+ "ad_id": 25351196,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786351723000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": 15,
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2019,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår inte men mot en mindre avgift kan transport ordnas.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Theri 385 Honda 5 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25351196/20fb1302-2f01-4d37-bdee-bc2ae071fd06",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.61161,
+ "length_ft": 12,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2019,
+   "engine_hours": 15,
+   "engine_hp": 5,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "null",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a46df12228e02dab"
+ },
+ "location": "Skutskär",
+ "lon": 17.4069,
+ "make": "Salman Theri",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 5.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 235,
+  "fetched_ts": 1790507787989,
+  "text_sha": "a46df12228e02dab"
+ },
+ "price": 28000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 28000
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "12 fot",
+  "Modell": "385",
+  "Modellår": "2019",
+  "Motorstorlek": "5 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Salman Theri",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "105 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25351196",
+ "width_cm": 150,
+ "year": 2019
+}

@@ -1,0 +1,67 @@
+{
+ "ad_id": 26678756,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789720185000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1982,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1982,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 4950",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26678756/b1883fd6-deda-4309-a59b-c03dfa40c9f5",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.20965,
+ "length_ft": 495,
+ "location": "Degerfors",
+ "lon": 14.49123,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790508867242,
+  "text_sha": "c33788f9130842c0"
+ },
+ "price": 12000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "495 fot",
+  "Modellår": "1982",
+  "Motor inkluderad": "Nej",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26678756",
+ "width_cm": 0,
+ "year": 1982
+}

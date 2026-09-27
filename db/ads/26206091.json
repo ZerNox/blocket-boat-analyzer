@@ -1,0 +1,119 @@
+{
+ "ad_id": 26206091,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788200760000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": 121,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2012,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod: Garmin echomap uhd2 92sv med gt56 givare monterad på JKB fäste.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Elmotor: Minnkota powerdrive v2",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ekolod: Garmin echomap uhd2 92sv med gt56 givare monterad på JKB fäste.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer: Besiktad till 2[tel]",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Alumacraft Fisherman 145 CS",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26206091/b6a28ea4-d38f-4b93-a7fd-4df1318afdb5",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.80499,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2012,
+   "engine_hours": 121,
+   "engine_hp": 30,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "121 Timmar",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6d0c8a42d4622558"
+ },
+ "location": "Delsbo",
+ "lon": 16.53738,
+ "make": "Alumacraft",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 416,
+  "fetched_ts": 1790508513718,
+  "text_sha": "6d0c8a42d4622558"
+ },
+ "price": 170000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 170000
+  }
+ ],
+ "specs": {
+  "Bredd": "193 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Svart",
+  "Längd i fot": "15 fot",
+  "Modell": "Fisherman cs",
+  "Modellår": "2012",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Alumacraft",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26206091",
+ "width_cm": 193,
+ "year": 2012
+}

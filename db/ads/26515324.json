@@ -1,0 +1,104 @@
+{
+ "ad_id": 26515324,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789190328000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1969,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1982,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Weedo Gt med 60 hk Johnsson från-82.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Hamnkapell.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer medföljer ej.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Weedo GT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26515324/8a0ac2bf-8999-432f-ac58-f1a76643468b",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.09547,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1969,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Utombordare",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e49bd28823696f87"
+ },
+ "location": "Varberg",
+ "lon": 12.23336,
+ "make": "Johnson",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 355,
+  "fetched_ts": 1790508753015,
+  "text_sha": "e49bd28823696f87"
+ },
+ "price": 16000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 16000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "Weedo GT",
+  "Modellår": "1969",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Johnson",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26515324",
+ "width_cm": 0,
+ "year": 1969
+}

@@ -1,0 +1,97 @@
+{
+ "ad_id": 26232303,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788286363000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2017,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mercury F50ELPT Big Tiller årsmodell 2017.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Traxtechsystem för fäste av ekolod.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Dubbla litium fram till elmotorn samt victron laddare till de.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Transportkapell och vinter kapell.",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Dubbla litium fram till elmotorn samt victron laddare till de.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Båda SI Mega GPS.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fågelsta trailer 10018B bromsad, årsmodell 2017.",
+    "included": true,
+    "year": 2017
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Bra utrustad Alumacraft 165 tiller 50hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26232303/5695fdd2-73fb-4056-9506-d73c74c14b38",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.54056,
+ "length_ft": 16,
+ "location": "Motala",
+ "lon": 15.04226,
+ "make": "Alumacraft",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 2008,
+  "fetched_ts": 1790508535409,
+  "text_sha": "b114b36fbfbc0266"
+ },
+ "price": 249000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 249000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "Alumacraft 165 tiller",
+  "Modellår": "2017",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Alumacraft",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "28 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26232303",
+ "width_cm": 0,
+ "year": 2017
+}

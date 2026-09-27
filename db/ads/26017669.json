@@ -1,0 +1,108 @@
+{
+ "ad_id": 26017669,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787648720000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Enklare 30 kärra kan medfölja",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Lappi 400s, honda bf45 fyrtakt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26017669/3a2d9b32-d624-444d-b69a-31f45ddc4858",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.04344,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 45,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "fyrtakt från 98",
+   "engine_year_rejected": 1998,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "bfa7c7e00d55b241"
+ },
+ "location": "Gnesta",
+ "lon": 17.31537,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 45.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 322,
+  "fetched_ts": 1790508393444,
+  "text_sha": "bfa7c7e00d55b241"
+ },
+ "price": 30500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30500
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "13 fot",
+  "Modell": "Lappi 400",
+  "Modellår": "1980",
+  "Motorstorlek": "45 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26017669",
+ "width_cm": 160,
+ "year": 1980
+}

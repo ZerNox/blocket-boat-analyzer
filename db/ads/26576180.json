@@ -1,0 +1,121 @@
+{
+ "ad_id": 26576180,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789538154000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1998,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Kastdäck som är perfekt för fiske ihop med elmotor, båda kan lätt tas av.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance-elektronik samt fäste för livegivare ingår ej.",
+    "included": false
+   },
+   "stereo": {
+    "evidence": "X Minn Kota Terrova 55 lbs i-Pilot med Bluetooth, 54” rigg, 12 V inkl lifepo4 100aH batteri",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer: Respo 750V501T199, årsmodell 2021, 80 km/h",
+    "included": true,
+    "kmh": 80,
+    "year": 2021
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 480 RSI med kastdäck",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26576180/c03fd96c-8c4b-432a-a879-26ec2be0cb86",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.85245,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1998,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Elmotorn servad hos Comstedt våren 2026, servicekvitto finns",
+   "engine_year_rejected": -26,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "excluded",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "fe326569283ab069"
+ },
+ "location": "Alingsås",
+ "lon": 12.46093,
+ "make": "Ryds",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 734,
+  "fetched_ts": 1790508806073,
+  "text_sha": "fe326569283ab069"
+ },
+ "price": 72000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 72000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "480 RSI",
+  "Modellår": "1998",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "27 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26576180",
+ "width_cm": 0,
+ "year": 1998
+}

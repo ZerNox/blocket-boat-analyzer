@@ -1,0 +1,103 @@
+{
+ "ad_id": 25569966,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786363792000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Styrpulpetbåt + Suzuki 55 hk 2-takt + trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Styrpulpetbåt + Suzuki 55 hk 2-takt + trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25569966/45ae6c1c-8a7c-493f-9f08-a02ce3055753",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.21262,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 55,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "null",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "006f6fa9ab4c2c72"
+ },
+ "location": "Södertälje",
+ "lon": 17.58256,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 55.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 840,
+  "fetched_ts": 1790508017550,
+  "text_sha": "006f6fa9ab4c2c72"
+ },
+ "price": 14000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 14000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modellår": "1980",
+  "Motorstorlek": "55 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "4",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "400 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25569966",
+ "width_cm": 0,
+ "year": 1980
+}

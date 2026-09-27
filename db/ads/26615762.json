@@ -1,0 +1,91 @@
+{
+ "ad_id": 26615762,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789485024000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1994,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude e-teq",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2015,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "-Evinrude e-teq 60hk -15 med hydraulstyrning.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "-Lowrance hook reveal 7 Plotter med ekolod",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Om man inte vill ha elmotorn drar jag av 10 000.",
+    "included": false
+   },
+   "hydraulstyrning": {
+    "evidence": "-Evinrude e-teq 60hk -15 med hydraulstyrning.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "-Lowrance hook reveal 7 Plotter med ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "-Neptun 80hk/h kärra obromsad med elvinsch",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Askeladden 475 fighter",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26615762/07a557fc-fdbb-4d91-a1bd-6c0d50c617af",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.26007,
+ "length_ft": 16,
+ "location": "Oskarshamn",
+ "lon": 16.46902,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 549,
+  "fetched_ts": 1790508825156,
+  "text_sha": "50e178bc6df894e9"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Bredd": "195 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "475 fighter",
+  "Modellår": "1994",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Evinrude e-teq",
+  "Motortyp": "Utombordare",
+  "Märke": "Askeladden",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26615762",
+ "width_cm": 195,
+ "year": 1994
+}

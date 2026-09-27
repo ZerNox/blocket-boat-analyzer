@@ -1,0 +1,102 @@
+{
+ "ad_id": 25520370,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786195719000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Seaking",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Säljes båt, motor och tillbehör. (Inte kärra)",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Eka + motor + båtkärra.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25520370/2e3625e0-d8d5-4026-846b-90a37358ce78",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.82944,
+ "length_ft": 12,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1970,
+   "engine_hours": null,
+   "engine_hp": 4,
+   "engine_maker": "SeaKing",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "87f718e88c6c821a"
+ },
+ "location": "Olofstorp",
+ "lon": 12.14749,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 4.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1211,
+  "fetched_ts": 1790507951032,
+  "text_sha": "87f718e88c6c821a"
+ },
+ "price": 11000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 11000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "12 fot",
+  "Modellår": "1970",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "4 hk",
+  "Motortillverkare": "Seaking",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25520370",
+ "width_cm": 0,
+ "year": 1970
+}

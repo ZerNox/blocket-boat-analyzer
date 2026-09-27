@@ -1,0 +1,108 @@
+{
+ "ad_id": 22096514,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789318374000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1986,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Deutz",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1986,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båten står vinterförvarad på maskintrailer vilket medföljer i affären.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Arbetsbåt med bekväm boendemöjlighet - Stormskärs Junker med Deutz båtmotor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22096514/c13a30ff-daa2-4361-b494-c549960507b4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.26007,
+ "length_ft": 33,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1986,
+   "engine_hours": null,
+   "engine_hp": 35,
+   "engine_maker": "Deutz",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Tillverkningsår: 1980",
+   "engine_year_rejected": 1980,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "bd2403f391a43187"
+ },
+ "location": "Oskarshamn",
+ "lon": 16.46902,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": 35.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 642,
+  "fetched_ts": 1790507435786,
+  "text_sha": "bd2403f391a43187"
+ },
+ "price": 110000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 110000
+  }
+ ],
+ "specs": {
+  "Bredd": "360 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit",
+  "Längd i fot": "33 fot",
+  "Modell": "Stormkärs Junker",
+  "Modellår": "1986",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "35 hk",
+  "Motortillverkare": "Deutz",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "7",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22096514",
+ "width_cm": 360,
+ "year": 1986
+}

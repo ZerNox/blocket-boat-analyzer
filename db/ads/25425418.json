@@ -1,0 +1,107 @@
+{
+ "ad_id": 25425418,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785934804000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude E-tec",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2011,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Inklusive Evinrude E- tec 40 hk utombordare samt nybesiktigad bromsad TK- trailer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sandström 495 classic",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25425418/940beb5a-2084-4e13-a229-dfce7f24dba0",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.8582,
+ "length_ft": 495,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2011,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a09a4462cac31fd4"
+ },
+ "location": "Falkenberg",
+ "lon": 12.56989,
+ "make": "Sandström",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 127,
+  "fetched_ts": 1790507857394,
+  "text_sha": "a09a4462cac31fd4"
+ },
+ "price": 85000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 85000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "495 fot",
+  "Modell": "495 Classic",
+  "Modellår": "2011",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Evinrude E-tec",
+  "Motortyp": "Utombordare",
+  "Märke": "Sandström",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25425418",
+ "width_cm": 0,
+ "year": 2011
+}

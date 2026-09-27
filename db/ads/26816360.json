@@ -1,0 +1,70 @@
+{
+ "ad_id": 26816360,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1790149894000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2002,
+  "boat_year_source": "spec",
+  "engine_hours": 14,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2024,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Master 500 Mercury 4[tel] timmar.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Master 500 Mercury 40 2024 14 timmar",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26816360/d2c82ee6-f6dc-4af2-8945-5e350bf36009",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.87145,
+ "length_ft": 17,
+ "location": "Järlåsa",
+ "lon": 17.16928,
+ "make": "Master",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 198,
+  "fetched_ts": 1790508953453,
+  "text_sha": "a29555eb5448beaf"
+ },
+ "price": 99000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 99000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "500",
+  "Modellår": "2002",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Master",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26816360",
+ "width_cm": 0,
+ "year": 2002
+}

@@ -1,0 +1,82 @@
+{
+ "ad_id": 26378628,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788717131000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt och motor från 2006.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "plotter": {
+    "evidence": "Om intresse finns kan även en Lowrance Hook revel 9 med sjökort för samtliga skandinaviska vatten säljas separat.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds 478 GT, 4-takt och 80 trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 478 GT, 4-takt och 80 trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26378628/f8322a29-b5ac-4ef0-94d2-d60c7f626113",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.50922,
+ "length_ft": 15,
+ "location": "Källby",
+ "lon": 13.30354,
+ "make": "Ryds",
+ "max_speed": 23,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 531,
+  "fetched_ts": 1790508643259,
+  "text_sha": "41c8762e0d30f372"
+ },
+ "price": 85000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 85000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "478 GT",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "23 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26378628",
+ "width_cm": 0,
+ "year": 2006
+}

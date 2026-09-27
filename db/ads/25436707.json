@@ -1,0 +1,84 @@
+{
+ "ad_id": 25436707,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1786558174000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Tohatsu 50hk från 2018 med trolling läge.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin Striker 5cv med givare.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Simrad GO7 xce med givare och autopilot.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Nybesiktad 80 trailer.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 6000",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25436707/e064916b-12b5-406b-930a-fa657eea1b03",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 65.62727,
+ "length_ft": 19,
+ "location": "Luleå",
+ "lon": 21.55212,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 161,
+  "fetched_ts": 1790507869379,
+  "text_sha": "952543c595b7270f"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Bredd": "235 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "6000",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25436707",
+ "width_cm": 235,
+ "year": 1985
+}

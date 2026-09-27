@@ -1,0 +1,89 @@
+{
+ "ad_id": 24614134,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785417082000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha -07",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Yamaha -07",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "kapell": {
+    "evidence": "Utrustning:- Hamnkapell- Startspärr- Körkapell- Teakbord- Fäste för Ipad- Stereo med BT- Securemark",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Utrustning:- Hamnkapell- Startspärr- Körkapell- Teakbord- Fäste för Ipad- Stereo med BT- Securemark",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ingen båtvagn",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Yamarin 560 HT-06. Motor Yamaha 80 HK -07",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24614134/9a08449b-404a-4c11-98e9-cc2c41d308b6",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.51476,
+ "length_ft": 18,
+ "location": "Åkersberga",
+ "lon": 18.42871,
+ "make": "Yamarin",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 419,
+  "fetched_ts": 1790507607629,
+  "text_sha": "0924ce06f0ad2ba7"
+ },
+ "price": 139000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 139000
+  }
+ ],
+ "specs": {
+  "Bredd": "224 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "HT",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Yamaha -07",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt",
+  "Vikt": "640 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24614134",
+ "width_cm": 224,
+ "year": 2006
+}

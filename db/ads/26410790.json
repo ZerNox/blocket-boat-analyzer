@@ -1,0 +1,90 @@
+{
+ "ad_id": 26410790,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789464126000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är en Mercury 30 efi 4 takt från 2006.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "-Lowrance Elite 7 ti ekolod",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "-Minn kota Enduro elmotor (för tyst gång vid t ex fiske)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "-Lowrance Elite 7 ti ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Linder 445 Sportsman Max / Nyservad /Mercury 30 4 takt / 80 km/h Trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder 445 Sportsman Max / Nyservad /Mercury 30 4 takt / 80 km/h Trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26410790/8f7b0aa8-2da0-47df-8c87-3956227a6a7c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.32095,
+ "length_ft": 15,
+ "location": "Värmdö",
+ "lon": 18.47009,
+ "make": "Linder",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1182,
+  "fetched_ts": 1790508671748,
+  "text_sha": "3f8a55cf1013ec6d"
+ },
+ "price": 85000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 85000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "445 Sportsman Max",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "28 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "325 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26410790",
+ "width_cm": 0,
+ "year": 2008
+}

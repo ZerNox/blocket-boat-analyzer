@@ -1,0 +1,80 @@
+{
+ "ad_id": 25432605,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785946709000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu 4 takt 2004",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Tohatsu 4 takt 2004",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "trailer": {
+    "evidence": "Plastbåt Stiga 14 fot inkl båtvagn Brendrup 30 km",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Plastbåt Stiga 14 fot inkl båtvagn Brendrup 30 km",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25432605/7c007528-8aac-4e61-aeb4-d3ecebfde2ba",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.03543,
+ "length_ft": 14,
+ "location": "Kristianstad",
+ "lon": 14.15078,
+ "make": "Övriga",
+ "max_speed": 7,
+ "motor_fuel": "Bensin",
+ "motor_size": 8.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 105,
+  "fetched_ts": 1790507862789,
+  "text_sha": "e348dc527962332c"
+ },
+ "price": 18000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 18000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Röd",
+  "Längd i fot": "14 fot",
+  "Modell": "Mindre köl",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "8 hk",
+  "Motortillverkare": "Tohatsu 4 takt 2004",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "7 knop",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25432605",
+ "width_cm": 0,
+ "year": 1990
+}

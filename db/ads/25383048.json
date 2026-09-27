@@ -1,0 +1,111 @@
+{
+ "ad_id": 25383048,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786438033000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mecury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är från 2008 och har fungerat kanon då den använts och servats varje år.",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "kapell": {
+    "evidence": "Dynset (för och akter), kapell och ankare",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Säljes utan trailer.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "engine 2008 older than boat 2012"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern S51, en smidig och smart planerad familjebåt i gott skick",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25383048/c72d8755-b8c8-4fa3-8d12-de556c71fb37",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.595,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2012,
+   "engine_hours": null,
+   "engine_hp": 80,
+   "engine_maker": "Mecury",
+   "engine_type": "outboard",
+   "engine_year": 2008,
+   "engine_year_evidence": "Motorn är från 2008 och har fungerat kanon då den använts och servats varje år.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "fc8900f49d6c74b1"
+ },
+ "location": "Hovås",
+ "lon": 11.90154,
+ "make": "Uttern",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1045,
+  "fetched_ts": 1790507824320,
+  "text_sha": "fc8900f49d6c74b1"
+ },
+ "price": 150000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 150000
+  }
+ ],
+ "specs": {
+  "Bredd": "208 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit och grå",
+  "Längd i fot": "16 fot",
+  "Modell": "S51",
+  "Modellår": "2012",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mecury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "6",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25383048",
+ "width_cm": 208,
+ "year": 2012
+}

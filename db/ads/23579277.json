@@ -1,0 +1,102 @@
+{
+ "ad_id": 23579277,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789636449000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "1852-marine",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2021,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Gummibåt inkl 3hk elmotor",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Gummibåt inkl 3hk elmotor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23579277/46637ab7-3aa5-4900-afd6-2565348125d5",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.46364,
+ "length_ft": 8,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2021,
+   "engine_hours": null,
+   "engine_hp": 3,
+   "engine_maker": "1852-marine",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "be663e4bb1e5f593"
+ },
+ "location": "Vallda",
+ "lon": 12.00941,
+ "make": "AQUARIB",
+ "max_speed": null,
+ "motor_fuel": "Elektrisk",
+ "motor_size": 3.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 28,
+  "fetched_ts": 1790507517462,
+  "text_sha": "be663e4bb1e5f593"
+ },
+ "price": 9000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Elektrisk",
+  "Längd i fot": "8 fot",
+  "Modellår": "2021",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "3 hk",
+  "Motortillverkare": "1852-marine",
+  "Motortyp": "Utombordare",
+  "Märke": "AQUARIB",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23579277",
+ "width_cm": 0,
+ "year": 2021
+}

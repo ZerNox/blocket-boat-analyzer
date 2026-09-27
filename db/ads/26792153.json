@@ -1,0 +1,78 @@
+{
+ "ad_id": 26792153,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790064817000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude E-Tec",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2013,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn från -13.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Respo Bt750 trailer kan köpas till",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 495",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26792153/77d5450d-dfa1-4cd9-bebd-5d10df226c9f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.41541,
+ "length_ft": 16,
+ "location": "Sollentuna",
+ "lon": 17.97923,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 192,
+  "fetched_ts": 1790508943537,
+  "text_sha": "66a7af8f08e66913"
+ },
+ "price": 58000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 58000
+  }
+ ],
+ "specs": {
+  "Bredd": "30 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "495 Gt",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Evinrude E-Tec",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26792153",
+ "width_cm": 30,
+ "year": 1990
+}

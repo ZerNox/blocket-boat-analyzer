@@ -1,0 +1,107 @@
+{
+ "ad_id": 25435331,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786556363000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer medföljs inte.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25435331/ed4a919e-aa89-4f65-aad3-4b5bc2e9b32e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 62.92372,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 9.9,
+   "engine_maker": "mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f522ca7cbbc184f1"
+ },
+ "location": "Kramfors",
+ "lon": 17.80629,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 9.899999618530273,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 641,
+  "fetched_ts": 1790507866602,
+  "text_sha": "f522ca7cbbc184f1"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "155 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "15 cm",
+  "Färg": "Blå",
+  "Längd i fot": "14 fot",
+  "Modell": "400",
+  "Modellår": "1980",
+  "Motorstorlek": "9.9 hk",
+  "Motortillverkare": "mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "125 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25435331",
+ "width_cm": 155,
+ "year": 1980
+}

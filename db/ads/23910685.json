@@ -1,0 +1,119 @@
+{
+ "ad_id": 23910685,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786102866000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": 4,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Plotter/ekolod:",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Minn Kota Terrova 55 med Headingsensor och trådlös fjärrkontroll",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter/ekolod:",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Pedantskött under mina år och står under tak på trailer med dubbla lås",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 465 30hk Tohatsu 4t Sportfiskebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23910685/f1349499-333f-4958-b7ae-48b8676c6c73",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.21624,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Snudd på ny (max 10 timmars gångtid)",
+   "engine_year_rejected": 2023,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "dbd640eb25c3407d"
+ },
+ "location": "Nykvarn",
+ "lon": 17.42121,
+ "make": "Crescent",
+ "max_speed": 24,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1206,
+  "fetched_ts": 1790507548618,
+  "text_sha": "dbd640eb25c3407d"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit, orange",
+  "Längd i fot": "15 fot",
+  "Modell": "465",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "24 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23910685",
+ "width_cm": 0,
+ "year": 1990
+}

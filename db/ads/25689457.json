@@ -1,0 +1,109 @@
+{
+ "ad_id": 25689457,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787291436000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Örnvik 480 med johnson 20 och båtvagn",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik 480 med johnson 20 och båtvagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25689457/b2a16add-882c-4544-bf06-c32100c7ca7b",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 62.71098,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 20,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e584c5dae94bbcdc"
+ },
+ "location": "Älandsbro",
+ "lon": 17.83142,
+ "make": "Örnvik",
+ "max_speed": 26,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790508097892,
+  "text_sha": "e584c5dae94bbcdc"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "186 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit och röd reling",
+  "Längd i fot": "14 fot",
+  "Modell": "480",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "26 knop",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "215 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25689457",
+ "width_cm": 186,
+ "year": 1978
+}

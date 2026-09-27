@@ -1,0 +1,69 @@
+{
+ "ad_id": 23753599,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785741492000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2026,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2026,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "HR 442 SC Suzuki DF 50 2026.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 442 SC Suzuki DF 50 2026",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23753599/19282b11-9bd0-4f4e-ad29-089f8b969eb7",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.14092,
+ "length_ft": 14,
+ "location": "Säffle",
+ "lon": 12.93232,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 66,
+  "fetched_ts": 1790507533902,
+  "text_sha": "fdedf2802bea88b3"
+ },
+ "price": 159000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 159000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "442 SC",
+  "Modellår": "2026",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23753599",
+ "width_cm": 0,
+ "year": 2026
+}

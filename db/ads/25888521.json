@@ -1,0 +1,114 @@
+{
+ "ad_id": 25888521,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787261028000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Badbrygga med teleskopisk stege, eftermonterad motorfäste för elmotor finns.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell finns men är slitet, jag förbättrade sömmar för 2 års sedan, impregnerat inför varje säsong.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "22500kr för båt utan 80 kärra.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 520 st",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25888521/28e8cc9d-a03c-406a-81da-8f57fc87859e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.99637,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "027fc38d922024cd"
+ },
+ "location": "Alingsås",
+ "lon": 12.46035,
+ "make": "Ryds",
+ "max_speed": 23,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 518,
+  "fetched_ts": 1790508277567,
+  "text_sha": "027fc38d922024cd"
+ },
+ "price": 29500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 29500
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "520 ST",
+  "Modellår": "1980",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Toppfart": "23 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "525 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25888521",
+ "width_cm": 220,
+ "year": 1980
+}

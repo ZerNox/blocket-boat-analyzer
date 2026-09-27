@@ -1,0 +1,110 @@
+{
+ "ad_id": 25547938,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786276476000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": 700,
+  "engine_maker": "Suzuki df 60 fyrtakt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2001,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Pulpetkapell",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Mittpulpet Starfighter",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25547938/c36bf90a-fd62-4d5b-9644-2233100fe91c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.92613,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2001,
+   "engine_hours": 700,
+   "engine_hp": 60,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Bensinmotor går klockrent , ca 700timmar, aldrig krånglat.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8b7a74b871993de8"
+ },
+ "location": "Mullsjö",
+ "lon": 13.89221,
+ "make": "Ockelbo",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 185,
+  "fetched_ts": 1790507979400,
+  "text_sha": "8b7a74b871993de8"
+ },
+ "price": 89000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 89000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "Starfighter 500/ Ockelbo b16",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Suzuki df 60 fyrtakt",
+  "Motortyp": "Utombordare",
+  "Märke": "Ockelbo",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25547938",
+ "width_cm": 200,
+ "year": 2001
+}

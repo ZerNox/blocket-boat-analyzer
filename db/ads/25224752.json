@@ -1,0 +1,111 @@
+{
+ "ad_id": 25224752,
+ "boat_class": "Annat",
+ "changed_ts": 1785337057000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Bedford",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Finnes wc, dynor, ankarspel, fendrar, värmare, gångvärmare, äldre gps, mm.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Rospiggen-28",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25224752/371e9928-3160-4139-aa18-561a5e0a2de7",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.47519,
+ "length_ft": 28,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Bedford",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "excluded",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "035e571706951cf8"
+ },
+ "location": "Åkersberga",
+ "lon": 18.30167,
+ "make": "AL",
+ "max_speed": 9,
+ "motor_fuel": "Diesel",
+ "motor_size": 60.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 200,
+  "fetched_ts": 1790507666270,
+  "text_sha": "035e571706951cf8"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Bredd": "275 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "75 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit",
+  "Längd i fot": "28 fot",
+  "Modell": "Rospiggen-28",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Bedford",
+  "Motortyp": "Inombordare",
+  "Märke": "AL",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "6",
+  "Toppfart": "9 knop",
+  "Typ": "Annat",
+  "Vikt": "3 500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25224752",
+ "width_cm": 275,
+ "year": 1978
+}

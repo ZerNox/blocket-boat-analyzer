@@ -1,0 +1,76 @@
+{
+ "ad_id": 25645071,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786539257000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 435DL med 25hk Mercury 4-takt motor från 2008.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Ryds 435DL båt-motor-trailer",
+    "included": true,
+    "kmh": 80,
+    "year": 2023
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 435DL båt-motor-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25645071/f00757a5-6e66-476d-b4d4-691467a6935a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.06268,
+ "length_ft": 14,
+ "location": "Sölvesborg",
+ "lon": 14.58607,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 408,
+  "fetched_ts": 1790508070261,
+  "text_sha": "be9e7bc407f1a714"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "435DL",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25645071",
+ "width_cm": 0,
+ "year": 2008
+}

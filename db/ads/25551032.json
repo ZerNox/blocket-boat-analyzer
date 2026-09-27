@@ -1,0 +1,82 @@
+{
+ "ad_id": 25551032,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787302811000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha 3A Malta, årsmodell 1991",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1991,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Yamaha 3A Malta, årsmodell 1991",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "trailer": {
+    "evidence": "Linder 440 Fishing aluminiumbåt i fint skick med motor och 80-trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder 440 Fishing aluminiumbåt i fint skick med motor och 80-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25551032/4506934b-dc7e-40ee-83ff-15d670c4b16b",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.7497,
+ "length_ft": 14,
+ "location": "Norrtälje",
+ "lon": 18.82709,
+ "make": "Linder",
+ "max_speed": 6,
+ "motor_fuel": "Bensin",
+ "motor_size": 3.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 324,
+  "fetched_ts": 1790507985204,
+  "text_sha": "669f8e50c46cdc7e"
+ },
+ "price": 46000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 46000
+  }
+ ],
+ "specs": {
+  "Bredd": "164 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "(aluminiumfärgad)",
+  "Längd i fot": "14 fot",
+  "Modell": "Fishing 440",
+  "Modellår": "2012",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "3 hk",
+  "Motortillverkare": "Yamaha 3A Malta, årsmodell 1991",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "6 knop",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "100 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25551032",
+ "width_cm": 164,
+ "year": 2012
+}

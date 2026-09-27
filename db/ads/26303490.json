@@ -1,0 +1,116 @@
+{
+ "ad_id": 26303490,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789133106000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1981,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yanmar",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1981,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Navision ekolod och VHF.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Raymarine Element 9HV.",
+    "included": true
+   },
+   "vhf": {
+    "evidence": "Navision ekolod och VHF.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fiskebåt/fritidsbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26303490/c4c47f3d-33af-41a6-bcf7-652c3dc944da",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.25295,
+ "length_ft": 29,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1981,
+   "engine_hours": null,
+   "engine_hp": 33,
+   "engine_maker": "Yanmar",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Yanmar 3QM30, 33 hk, färskvattenkylning.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "included",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b73d1e80ac0849a8"
+ },
+ "location": "Fågelmara",
+ "lon": 16.05982,
+ "make": "Övriga",
+ "max_speed": 7,
+ "motor_fuel": "Diesel",
+ "motor_size": 33.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 604,
+  "fetched_ts": 1790508586277,
+  "text_sha": "b73d1e80ac0849a8"
+ },
+ "price": 100000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 100000
+  }
+ ],
+ "specs": {
+  "Bredd": "330 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "90 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit",
+  "Längd i fot": "29 fot",
+  "Modell": "Fiskebåt/ knubb",
+  "Modellår": "1981",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "33 hk",
+  "Motortillverkare": "Yanmar",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "7 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26303490",
+ "width_cm": 330,
+ "year": 1981
+}

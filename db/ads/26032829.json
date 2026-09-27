@@ -1,0 +1,96 @@
+{
+ "ad_id": 26032829,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787681394000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": 60,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2023,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor: 2023 Mercury 40:a ELPT EFI (ca 60 Tim körning) servad 2023,2024,2025",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "I priset ingår, båt, motor, ekolod, trailer.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Ingen framdriven elmotor, men snabbfäste finns.",
+    "included": false
+   },
+   "plotter": {
+    "evidence": "Humminbird 9 Helix MSI+GPS G4N (2021)",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Bluetooth",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båten e på en trailer, så vid intresse så kan vi boka en tid och dag för provkörning.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sportfiskebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26032829/b8389c11-3360-4970-86e3-98c7d7258d42",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.23093,
+ "length_ft": 15,
+ "location": "Farsta",
+ "lon": 18.10047,
+ "make": "Micore",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 2283,
+  "fetched_ts": 1790508402439,
+  "text_sha": "025d2f49fddb168a"
+ },
+ "price": 104990,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 104990
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "460 Fishing",
+  "Modellår": "2022",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Micore",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "200 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26032829",
+ "width_cm": 170,
+ "year": 2022
+}

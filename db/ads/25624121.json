@@ -1,0 +1,116 @@
+{
+ "ad_id": 25624121,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788014788000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": 9,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2022,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Garmin gps map",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Bluetooth stereo",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Mycket fin obromsad båtkärra (80km/h)",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 490S-Line – 2022 Nyskick! Endast 42,9 motortimmar",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25624121/cb819f95-d450-4ee2-8bcc-a7d93b6a7593",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.39583,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2022,
+   "engine_hours": 42,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "null",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "included",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0da5879d24fffad4"
+ },
+ "location": "Onsala",
+ "lon": 11.99376,
+ "make": "Ryds",
+ "max_speed": 33,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 553,
+  "fetched_ts": 1790508056204,
+  "text_sha": "0da5879d24fffad4"
+ },
+ "price": 170000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 170000
+  }
+ ],
+ "specs": {
+  "Bredd": "192 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "490",
+  "Modellår": "2022",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "33 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25624121",
+ "width_cm": 192,
+ "year": 2022
+}

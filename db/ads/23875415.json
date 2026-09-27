@@ -1,0 +1,84 @@
+{
+ "ad_id": 23875415,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788687273000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2003,
+  "boat_year_source": "spec",
+  "engine_hours": 190,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Fin och bra självlänsande styrpulpet med en Suzuki df 50hk motor ifrån -2003.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "stereo": {
+    "evidence": "Nytt: batteri, huvud strömbrytare och högtalare.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailern följer inte med (kan ev sälja med en galvad upptagningsvagn).",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Micore 500 gt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23875415/75f34df0-37ef-4deb-8592-baff07c4de74",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.38906,
+ "length_ft": 17,
+ "location": "Årjäng",
+ "lon": 12.14196,
+ "make": "Micore",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 375,
+  "fetched_ts": 1790507544429,
+  "text_sha": "5a26beb0726b340a"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "500gt",
+  "Modellår": "2003",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Micore",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "425 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23875415",
+ "width_cm": 210,
+ "year": 2003
+}

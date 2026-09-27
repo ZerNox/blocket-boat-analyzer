@@ -1,0 +1,131 @@
+{
+ "ad_id": 26381668,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1790234010000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2018,
+  "boat_year_source": "spec",
+  "engine_hours": 359,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2018,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Minn Kota trollingmotoranslutning i fören (ingen trollingmotor ingår!)",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "VEVOR Bimini Top (löstagbar)",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Batteriladdare CTEK MXS 5.0 (ny 08/2026)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance Elite HDS 9 Live vid förarplatsen",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "LTC Promarine 1111 marinstereo med USB och Bluetooth",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Alumacraft Escape 165 CS + Mercury F50 ELPT EFI + Fogelsta 750 kg 80 km trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Alumacraft Escape 165 CS + Mercury F50 ELPT EFI + Fogelsta 750 kg 80 km trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26381668/e67d2bda-fb10-4711-a0a0-16b3d40339f8",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.67603,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2018,
+   "engine_hours": 359,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "fyrtakt 359 timmar senaste service 05/2026",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "included",
+    "plotter": "included",
+    "stereo": "included",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c37535b013b4b73b"
+ },
+ "location": "Växjö",
+ "lon": 14.65087,
+ "make": "Alumacraft",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 2451,
+  "fetched_ts": 1790508648602,
+  "text_sha": "c37535b013b4b73b"
+ },
+ "price": 229000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 229000
+  }
+ ],
+ "specs": {
+  "Bredd": "194 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "svart",
+  "Längd i fot": "16 fot",
+  "Modell": "Escape 165 CS",
+  "Modellår": "2018",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Alumacraft",
+  "Sittplatser": "3",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "30 knop",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "315 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26381668",
+ "width_cm": 194,
+ "year": 2018
+}

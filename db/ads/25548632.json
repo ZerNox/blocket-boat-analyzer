@@ -1,0 +1,115 @@
+{
+ "ad_id": 25548632,
+ "boat_class": "Annat",
+ "changed_ts": 1786279864000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "- Äldre ekolod med vattentemperatur",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell, som framöver behöver lämnas på tvätt",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "- Äldre gps plotter (ej använd då jag haft digitalt sjökort i padda)",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Flipper 535 HT - Höstfynd - Sänkt pris !!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25548632/585cc414-e673-4465-8f3b-0f53c7286221",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.18446,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1989,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mercury 75 HK - 2005, 2 takt med separat oljetank på motorn",
+   "engine_year_rejected": 2005,
+   "equipment": {
+    "ekolod": "excluded",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "excluded",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ac3567677957fe61"
+ },
+ "location": "Grisslehamn",
+ "lon": 18.78015,
+ "make": "Flipper",
+ "max_speed": 33,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 2250,
+  "fetched_ts": 1790507983888,
+  "text_sha": "ac3567677957fe61"
+ },
+ "price": 59000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 59000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "535 HT - Höstfynd - SÄNKT PRIS !!",
+  "Modellår": "1989",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "3",
+  "Toppfart": "33 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25548632",
+ "width_cm": 0,
+ "year": 1989
+}

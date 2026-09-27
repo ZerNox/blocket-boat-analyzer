@@ -1,0 +1,82 @@
+{
+ "ad_id": 26267815,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788415704000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1983,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1990,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Hydraulstyrning med en driftsäker Yamaha 55hk 2 taktare från 1990",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning med en driftsäker Yamaha 55hk 2 taktare från 1990",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer ingår ej",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik 485R",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26267815/69930024-9665-4a21-a89c-fff45cee0ac7",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.78607,
+ "length_ft": 15,
+ "location": "Uppsala",
+ "lon": 17.63765,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 55.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 120,
+  "fetched_ts": 1790508566167,
+  "text_sha": "5c468e4096df9054"
+ },
+ "price": 24000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 24000
+  }
+ ],
+ "specs": {
+  "Bredd": "192 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "22 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "485R",
+  "Modellår": "1983",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "55 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "350 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26267815",
+ "width_cm": 192,
+ "year": 1983
+}

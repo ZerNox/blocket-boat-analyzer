@@ -1,0 +1,83 @@
+{
+ "ad_id": 25491791,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786111937000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2022,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Sandström 565 Classic 2017 med Mercury 60 2022.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Plotter och ekolod (Lowrance)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter och ekolod (Lowrance)",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sandström 565 Classic 2017 med Mercury 60 2022",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25491791/dbadfaa2-df77-4f0c-b1f2-17e5b9c44456",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.835,
+ "length_ft": 18,
+ "location": "Nynäshamn",
+ "lon": 17.82466,
+ "make": "Sandström",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 125,
+  "fetched_ts": 1790507921834,
+  "text_sha": "de31030181e10b71"
+ },
+ "price": 140000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 140000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "565 Classic",
+  "Modellår": "2017",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Sandström",
+  "Sittplatser": "6",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25491791",
+ "width_cm": 205,
+ "year": 2017
+}

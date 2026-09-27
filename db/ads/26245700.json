@@ -1,0 +1,87 @@
+{
+ "ad_id": 26245700,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788948700000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": 100,
+  "engine_maker": "Yamaha 2025",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2025,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Yamaha 2025",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Respo- trailer 80 km/h ingår.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Kabinbåt Bella 581",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26245700/1f0faf51-ec5b-480d-b957-22ed26cf2077",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.14467,
+ "length_ft": 19,
+ "location": "Svenshögen",
+ "lon": 11.92062,
+ "make": "Bella",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 412,
+  "fetched_ts": 1790508553150,
+  "text_sha": "c6c3330280dee15b"
+ },
+ "price": 170000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 170000
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "19 fot",
+  "Modell": "581",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Yamaha 2025",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "600 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26245700",
+ "width_cm": 170,
+ "year": 2005
+}

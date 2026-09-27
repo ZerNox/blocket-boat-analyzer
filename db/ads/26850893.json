@@ -1,0 +1,70 @@
+{
+ "ad_id": 26850893,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1790255600000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1972,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Sabb",
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1972,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Getterösnipa 22fot",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26850893/191cc3de-72e3-4a88-8462-0b294ae6d240",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.28878,
+ "length_ft": 22,
+ "location": "Veddige",
+ "lon": 12.33905,
+ "make": "Övriga",
+ "max_speed": 5,
+ "motor_fuel": "Diesel",
+ "motor_size": 20.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790508979977,
+  "text_sha": "4ca0cc430ac4d508"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Bredd": "260 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "22 fot",
+  "Modellår": "1972",
+  "Motor inkluderad": "Nej",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Sabb",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Toppfart": "5 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26850893",
+ "width_cm": 260,
+ "year": 1972
+}

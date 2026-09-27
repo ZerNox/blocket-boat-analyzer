@@ -1,0 +1,79 @@
+{
+ "ad_id": 26542539,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789416358000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer en färdigkittad Kimple 330 med en 6 hk suzuki motor 2011 låga timmar då den är använda ca 1-2 ggr om året.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Enkelt ekolod lowrance",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Enkelt ekolod lowrance",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Kimple 330 Takbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26542539/99ebe469-b8eb-4551-83e3-6e02284fee95",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.23865,
+ "length_ft": 10,
+ "location": "Ingarö",
+ "lon": 18.58073,
+ "make": "Kimple",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 279,
+  "fetched_ts": 1790508774984,
+  "text_sha": "617113d160affe55"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "10 fot",
+  "Modell": "330",
+  "Modellår": "2011",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Kimple",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26542539",
+ "width_cm": 0,
+ "year": 2011
+}

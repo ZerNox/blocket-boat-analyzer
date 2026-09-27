@@ -1,0 +1,112 @@
+{
+ "ad_id": 25959625,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789981492000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": 10,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Jag har också en Garmin Striker Vivid 9SV och en ny 80 hk trailer.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Jag har också en Garmin Striker Vivid 9SV och en ny 80 hk trailer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Yamarin 50SC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25959625/eb6a2952-266b-4de9-b63e-7cb1b7406525",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.90227,
+ "length_ft": 5,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2007,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorstorlek: 60 hk Motortillverkare: Mercury Motortyp: Utombordare",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c9abe0fb4acddf4c"
+ },
+ "location": "Nynäshamn",
+ "lon": 17.93365,
+ "make": "Yamarin",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 425,
+  "fetched_ts": 1790508327166,
+  "text_sha": "c9abe0fb4acddf4c"
+ },
+ "price": 90000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 90000
+  }
+ ],
+ "specs": {
+  "Bredd": "250 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vitt",
+  "Längd i fot": "5 fot",
+  "Modell": "50sc",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "30 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25959625",
+ "width_cm": 250,
+ "year": 2000
+}

@@ -141,8 +141,11 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
         fair = float(math.exp(p))
         value = fair / adj_price - 1
         flags = list(ext.get("red_flags") or [])
-        # Past 2.5 sd under the market it's more likely a data error than a deal: cap, don't reward.
-        score = min(value, math.exp(2.5 * resid_sd) - 1) - cfg["ranking"]["red_flag_penalty"] * len(flags)
+        # Past 2 sd under the market a "deal" is more likely a wreck, a raft or a placeholder price:
+        # credibility folds back, so +600% ranks below a believable +80%.
+        r, k = math.log(fair / adj_price), 2 * resid_sd
+        credible = r if r <= k else k - (r - k)
+        score = math.exp(credible) - 1 - cfg["ranking"]["red_flag_penalty"] * len(flags)
         if not ext.get("engine_year"):
             score -= 0.05  # unknown engine age is a risk the price must compensate
         out.append({
@@ -159,7 +162,7 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
             "boat_year": ext.get("boat_year"),
             "boat_year_listed": a.get("year"),
             "length_ft": a.get("length_ft"),
-            "hp": a["motor_size"],
+            "hp": round(a["motor_size"], 1),
             "engine_type": ext.get("engine_type"),
             "engine_year": ext.get("engine_year"),
             "engine_year_source": ext.get("engine_year_source"),

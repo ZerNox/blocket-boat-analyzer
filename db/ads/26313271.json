@@ -1,0 +1,102 @@
+{
+ "ad_id": 26313271,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788542624000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Hirvas",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26313271/3a20efa2-17bb-46f6-a753-151bc1757f22",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.4036,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 20,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "14e077321b3402dc"
+ },
+ "location": "Danderyd",
+ "lon": 18.00891,
+ "make": "Herwa",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 131,
+  "fetched_ts": 1790508594918,
+  "text_sha": "14e077321b3402dc"
+ },
+ "price": 3000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 3000
+  }
+ ],
+ "specs": {
+  "Bredd": "155 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "Hirvas green bean",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Herwa",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "90 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26313271",
+ "width_cm": 155,
+ "year": 1980
+}

@@ -1,0 +1,98 @@
+{
+ "ad_id": 26494258,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789116414000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": 5,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2012,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Båt med 5h motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26494258/daac6197-7736-40fa-9e60-daca33bf6847",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.9481,
+ "length_ft": 11,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2012,
+   "engine_hours": 3,
+   "engine_hp": 5,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn är en mercury 5h fyrtaktare som har gått ca 3 timmar i vattnet så i stort sätt ny.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5809c7591f49bdd7"
+ },
+ "location": "Nyköping",
+ "lon": 17.00557,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 5.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 443,
+  "fetched_ts": 1790508733596,
+  "text_sha": "5809c7591f49bdd7"
+ },
+ "price": 13000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 13000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "11 fot",
+  "Modellår": "2012",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "5 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26494258",
+ "width_cm": 0,
+ "year": 2012
+}

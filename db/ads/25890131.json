@@ -1,0 +1,111 @@
+{
+ "ad_id": 25890131,
+ "boat_class": "Annat",
+ "changed_ts": 1787256681000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2004,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båten är utrustad med en 20 hk utombordsmotor och säljs komplett med en 30-kärra.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 434",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25890131/0871efe7-9c4d-4176-a092-eb0e2a67c9bd",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.36403,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2004,
+   "engine_hours": null,
+   "engine_hp": 20,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "20 hk utombordsmotor",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a889cde4114e8363"
+ },
+ "location": "Vänersborg",
+ "lon": 12.28804,
+ "make": "Crescent",
+ "max_speed": 18,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 635,
+  "fetched_ts": 1790508284040,
+  "text_sha": "a889cde4114e8363"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "56 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "14 fot",
+  "Modell": "434",
+  "Modellår": "2004",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "18 knop",
+  "Typ": "Annat",
+  "Vikt": "210 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25890131",
+ "width_cm": 170,
+ "year": 2004
+}

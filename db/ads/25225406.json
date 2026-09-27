@@ -1,0 +1,109 @@
+{
+ "ad_id": 25225406,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786632397000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1991,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor: Mariner 75 hk 2-takt, 2004",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Några knappar för att sätta fast kapellet saknas.",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "MARINER 75HK + BRENDERUP TRAILER 2019",
+    "included": true,
+    "year": 2019
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "RYDS 475GTS - MARINER 75HK + BRENDERUP TRAILER 2019",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25225406/6fc32fbe-17cb-44eb-b994-5353dc75d3df",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.81507,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1991,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor: Mariner 75 hk 2004",
+   "engine_year_rejected": 2004,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f587870f33cffc0b"
+ },
+ "location": "Umeå",
+ "lon": 20.29102,
+ "make": "Ryds",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 753,
+  "fetched_ts": 1790507667817,
+  "text_sha": "f587870f33cffc0b"
+ },
+ "price": 49900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 49900
+  }
+ ],
+ "specs": {
+  "Bredd": "195 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "475 GTS",
+  "Modellår": "1991",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Toppfart": "35 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25225406",
+ "width_cm": 195,
+ "year": 1991
+}

@@ -1,0 +1,75 @@
+{
+ "ad_id": 26047983,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788532673000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": 20,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2022,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 435S med Mercury F15 ELPT EFI -22",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Ryds 435S, Mercury 15 hk , 30-trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 435S, Mercury 15 hk , 30-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26047983/dcbe7c1f-0661-4fdf-a878-e00bf7f13170",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.17766,
+ "length_ft": 14,
+ "location": "Lyckeby",
+ "lon": 15.66229,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 283,
+  "fetched_ts": 1790508415367,
+  "text_sha": "ec19fa28240838cd"
+ },
+ "price": 43000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 43000
+  }
+ ],
+ "specs": {
+  "Bredd": "186 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "435S",
+  "Modellår": "1995",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26047983",
+ "width_cm": 186,
+ "year": 1995
+}

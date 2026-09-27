@@ -1,0 +1,110 @@
+{
+ "ad_id": 25832982,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787077537000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnsson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellställningen bör bytas/köpas en ny och det finns begagnad på nätet har jag sätt för nån tusenlapp.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Rejäl 80 trailer som inte är inreggad",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds Camping 560HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25832982/1bda0202-66d9-4634-aee6-04ba89a0b1e2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.11954,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Johnsson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7b32b16d8c2bba66"
+ },
+ "location": "Hallen",
+ "lon": 13.94316,
+ "make": "Ryds",
+ "max_speed": 24,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 865,
+  "fetched_ts": 1790508236804,
+  "text_sha": "7b32b16d8c2bba66"
+ },
+ "price": 16000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 16000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "Camping 560 HT",
+  "Modellår": "1980",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Johnsson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "24 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25832982",
+ "width_cm": 220,
+ "year": 1980
+}

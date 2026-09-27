@@ -1,0 +1,97 @@
+{
+ "ad_id": 26719466,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789830206000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury F150 Efi",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Seastar 670",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26719466/4f909b98-c818-4ff8-97f2-51f28e418e80",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.41541,
+ "length_ft": 22,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1989,
+   "engine_hours": null,
+   "engine_hp": 150,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9e5cfd9136ee3b67"
+ },
+ "location": "Sollentuna",
+ "lon": 17.97923,
+ "make": "Sea Star",
+ "max_speed": 36,
+ "motor_fuel": null,
+ "motor_size": 0.15000000596046448,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 216,
+  "fetched_ts": 1790508891105,
+  "text_sha": "9e5cfd9136ee3b67"
+ },
+ "price": 220000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 220000
+  }
+ ],
+ "specs": {
+  "Bredd": "240 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "22 fot",
+  "Modellår": "1989",
+  "Motorstorlek": "0.15 hk",
+  "Motortillverkare": "Mercury F150 Efi",
+  "Motortyp": "Utombordare",
+  "Märke": "Sea Star",
+  "Toppfart": "36 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26719466",
+ "width_cm": 240,
+ "year": 1989
+}

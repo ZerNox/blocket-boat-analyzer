@@ -1,0 +1,103 @@
+{
+ "ad_id": 26486278,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789066004000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1993,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha Autolub 40 hk tvåtakt",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1993,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Skärgårdsbåt Uttern 560 akterruff",
+ "image": null,
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.3421,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1993,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Yamaha Autolub",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortillverkare: Yamaha Autolub 40 hk tvåtakt Motortyp: Utombordare Motor år: -96",
+   "engine_year_rejected": -96,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f8526f1d3df0a9cb"
+ },
+ "location": "Djurhamn",
+ "lon": 18.73203,
+ "make": "Uttern",
+ "max_speed": 23,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 443,
+  "fetched_ts": 1790508729300,
+  "text_sha": "f8526f1d3df0a9cb"
+ },
+ "price": 32900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 32900
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "benvit och orange Uttern-färg",
+  "Längd i fot": "18 fot",
+  "Modell": "\"Sörens båt i Skärgårdsdoktorn\" Uttern 560 Akterruff",
+  "Modellår": "1993",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Yamaha Autolub 40 hk tvåtakt",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "23 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26486278",
+ "width_cm": 230,
+ "year": 1993
+}

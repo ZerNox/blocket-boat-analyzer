@@ -1,0 +1,120 @@
+{
+ "ad_id": 25765696,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786891484000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2003,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1999,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Styrpulpet från 2003 med 50 hk 4 takt yamaha från 1999.",
+  "engine_year_source": "rule:text?",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod lowrance hook 4 medföljer, ej installerat.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Vid snabb smidig affär ingår elmotor (biltema) som kan fästas bak på båten och en djuprigg scotty.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ekolod lowrance hook 4 medföljer, ej installerat.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtvagn 750 kg från 2019 (BK Hengeren) som är besiktad sommaren 2025 och nästa besiktning är 2[tel].",
+    "included": true,
+    "year": 2019
+   }
+  },
+  "llm_reasons": [
+   "engine 1999 older than boat 2003"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern R43",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25765696/6b4f1b53-0bf8-44b2-b889-ef9781af315c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 67.14616,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2003,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor tillverkare: Yamaha från 1999.",
+   "engine_year_rejected": 1999,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "edf71fcc963fa7e6"
+ },
+ "location": "Gällivare",
+ "lon": 20.61944,
+ "make": "Uttern",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 619,
+  "fetched_ts": 1790508170346,
+  "text_sha": "edf71fcc963fa7e6"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "R43",
+  "Modellår": "2003",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "275 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25765696",
+ "width_cm": 180,
+ "year": 2003
+}

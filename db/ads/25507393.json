@@ -1,0 +1,112 @@
+{
+ "ad_id": 25507393,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786175759000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2004,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Akterkapell nytt",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Upptagningsvagn (30 kärra)",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Bella Europa Mercury 75hk 2takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25507393/e2691faf-085d-4c6e-ace8-ef9192e34508",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.8847,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2004,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d689b4c5a7f52bfc"
+ },
+ "location": "Borgholm",
+ "lon": 16.68178,
+ "make": "Bella",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 149,
+  "fetched_ts": 1790507939603,
+  "text_sha": "d689b4c5a7f52bfc"
+ },
+ "price": 85000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 85000
+  }
+ ],
+ "specs": {
+  "Bredd": "208 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå/vit",
+  "Längd i fot": "16 fot",
+  "Modellår": "2004",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "35 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "490 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25507393",
+ "width_cm": 208,
+ "year": 2004
+}

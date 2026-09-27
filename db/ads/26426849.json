@@ -1,0 +1,103 @@
+{
+ "ad_id": 26426849,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788878221000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Säljes höstpris 20000 kr alt 28000 med obromsad trailer på",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Styrpulpet båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26426849/d7f2e67a-9e81-41d4-8226-ee7f89c68db4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.21624,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "33a17c3d1c73f80c"
+ },
+ "location": "Nykvarn",
+ "lon": 17.42121,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 35.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 78,
+  "fetched_ts": 1790508680647,
+  "text_sha": "33a17c3d1c73f80c"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Bredd": "203 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "Örnvik 540",
+  "Modellår": "1978",
+  "Motorstorlek": "35 hk",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "200 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26426849",
+ "width_cm": 203,
+ "year": 1978
+}

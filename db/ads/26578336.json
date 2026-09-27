@@ -1,0 +1,99 @@
+{
+ "ad_id": 26578336,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789379594000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1992,
+  "boat_year_source": "spec",
+  "engine_hours": 123,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2014,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor Yamaha F50 2014",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod/plotter Lowrance Hook",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Frontmonterad elmotor (ej ankringsfunktion)",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Bimini topp för soliga dagar/eller som regnskydd (på den bilden sitter fel motor på)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ekolod/plotter Lowrance Hook",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Crescent 504 Yamaha F50 123 timmar + 80 trailer",
+    "included": true,
+    "kmh": 80,
+    "year": 2010
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 504 Yamaha F50 123 timmar + 80 trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26578336/56754237-fc48-4823-9c6a-1cb1b21054e4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.78288,
+ "length_ft": 16,
+ "location": "Jönköping",
+ "lon": 14.12975,
+ "make": "Crescent",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 2259,
+  "fetched_ts": 1790508809999,
+  "text_sha": "374cd94e090def43"
+ },
+ "price": 78000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 78000
+  }
+ ],
+ "specs": {
+  "Bredd": "195 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "16 fot",
+  "Modell": "504",
+  "Modellår": "1992",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "350 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26578336",
+ "width_cm": 195,
+ "year": 1992
+}

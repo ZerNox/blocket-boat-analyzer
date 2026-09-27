@@ -1,0 +1,73 @@
+{
+ "ad_id": 25977006,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787511834000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är årsmodell 2003 och lite använd.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Jifa Toppen",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25977006/e54c19a3-bae3-40d0-8c83-7573ed6e3cb2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 55.93964,
+ "length_ft": 14,
+ "location": "Glumslöv",
+ "lon": 12.785,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 5.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 257,
+  "fetched_ts": 1790508345379,
+  "text_sha": "fd764e057653b9b2"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "Jifa Toppen",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "5 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "160 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25977006",
+ "width_cm": 175,
+ "year": 1975
+}

@@ -1,0 +1,100 @@
+{
+ "ad_id": 25629375,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786474998000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2015,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Mercury gummibåt + 3,5 hk Mercury – familjens mest välbevarade äventyr!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25629375/b7409bbb-b64b-4ba7-a234-0dfd2de840d0",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.32624,
+ "length_ft": 7,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2015,
+   "engine_hours": null,
+   "engine_hp": 3.5,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ff4753a259ae170b"
+ },
+ "location": "Saltsjö-Boo",
+ "lon": 18.22794,
+ "make": "Mercury",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 3.5,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 978,
+  "fetched_ts": 1790508059380,
+  "text_sha": "ff4753a259ae170b"
+ },
+ "price": 9000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Grå",
+  "Längd i fot": "7 fot",
+  "Modell": "AA240119M",
+  "Modellår": "2015",
+  "Motorstorlek": "3.5 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Mercury",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "20 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25629375",
+ "width_cm": 0,
+ "year": 2015
+}

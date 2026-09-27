@@ -1,0 +1,107 @@
+{
+ "ad_id": 26725881,
+ "boat_class": "Annat",
+ "changed_ts": 1789865339000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson Seahorse",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Säljer min Crescent Hanö 390 med Johnson Seahorse 6 hk och Brenderup båtvagn.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent Hanö 390",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26725881/8fde6a22-c508-445b-b2fd-bc932f8ee89c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.91246,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1995,
+   "engine_hours": null,
+   "engine_hp": 6,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b3a3ab53119753bf"
+ },
+ "location": "Alvesta",
+ "lon": 14.55705,
+ "make": "Crescent",
+ "max_speed": 10,
+ "motor_fuel": "Bensin",
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 586,
+  "fetched_ts": 1790508893676,
+  "text_sha": "b3a3ab53119753bf"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "Hanö 390",
+  "Modellår": "1995",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "Johnson Seahorse",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "10 knop",
+  "Typ": "Annat",
+  "Vikt": "100 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26725881",
+ "width_cm": 150,
+ "year": 1995
+}

@@ -1,0 +1,108 @@
+{
+ "ad_id": 26577442,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790380323000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": 226,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "2011-Yamaha 70 F70-Båtsläp ingår.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Akterkapell över bakre sittplatserna och pulpit",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HÖSTPRIS: 150 000kr  Finnmaster 52 SC - 2011-Yamaha 70 F70-Båtsläp ingår",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26577442/eb96b09a-74cc-4319-bfef-360c42318edb",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.04946,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2011,
+   "engine_hours": 226,
+   "engine_hp": 70,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "226 gångtimmar",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "97c664a262bda351"
+ },
+ "location": "Sölvesborg",
+ "lon": 14.57261,
+ "make": "Finnmaster",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 610,
+  "fetched_ts": 1790508807412,
+  "text_sha": "97c664a262bda351"
+ },
+ "price": 150000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 150000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "65 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "52 SC",
+  "Modellår": "2011",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnmaster",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "580 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26577442",
+ "width_cm": 200,
+ "year": 2011
+}

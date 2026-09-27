@@ -1,0 +1,108 @@
+{
+ "ad_id": 26310540,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788537333000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": 30,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": 2022,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Suzuki 4 takt 2022",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båttrailer obromsad 80 km 2021",
+    "included": true,
+    "kmh": 80,
+    "year": 2021
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Robust 475 s",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26310540/323e84a5-0580-48f1-837d-7d9ed14f14a0",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.29893,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2021,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": 2022,
+   "engine_year_evidence": "Suzuki 4 takt 2022",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c2a83f4067ce68dd"
+ },
+ "location": "Dvärsätt",
+ "lon": 14.49415,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 111,
+  "fetched_ts": 1790508591750,
+  "text_sha": "c2a83f4067ce68dd"
+ },
+ "price": 145000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 145000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modellår": "2021",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26310540",
+ "width_cm": 0,
+ "year": 2021
+}

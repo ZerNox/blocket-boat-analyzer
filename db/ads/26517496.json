@@ -1,0 +1,117 @@
+{
+ "ad_id": 26517496,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789460554000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2025,
+  "boat_year_source": "spec",
+  "engine_hours": 5,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2025,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Garmin plotter.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Släpet är helt nytt, aldrig haft en båt på.",
+    "included": true
+   },
+   "vinterkapell": {
+    "evidence": "Det ingår även en Clean boat vilket är den presenningen som ligger under båten.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Micore 51 CCR-design toppskick",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26517496/b6185fd4-e503-4697-a097-8bc2e812b4cc",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.25706,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2025,
+   "engine_hours": 13,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "13,5 H gångtid på motorn.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "fa49113cd907d206"
+ },
+ "location": "Saltsjöbaden",
+ "lon": 18.35086,
+ "make": "Micore",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 587,
+  "fetched_ts": 1790508755651,
+  "text_sha": "fa49113cd907d206"
+ },
+ "price": 285000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 285000
+  }
+ ],
+ "specs": {
+  "Bredd": "2100 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Svart/vit",
+  "Längd i fot": "18 fot",
+  "Modell": "51CC R-design",
+  "Modellår": "2025",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Micore",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "637 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26517496",
+ "width_cm": 2100,
+ "year": 2025
+}

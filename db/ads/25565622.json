@@ -1,0 +1,75 @@
+{
+ "ad_id": 25565622,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787844475000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": 53,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor från 2021 Yamaha F50HETL gångtid 53,9 h.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Ryds 488 Sport med båttrailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 488 Sport med båttrailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25565622/a05bcf05-6d31-497d-ac6e-ed0fcd329050",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.98561,
+ "length_ft": 16,
+ "location": "Jörlanda",
+ "lon": 11.89101,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 329,
+  "fetched_ts": 1790508010576,
+  "text_sha": "3991742222f4dba8"
+ },
+ "price": 185000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 185000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "488 sport",
+  "Modellår": "2020",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25565622",
+ "width_cm": 0,
+ "year": 2020
+}

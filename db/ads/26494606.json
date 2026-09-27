@@ -1,0 +1,76 @@
+{
+ "ad_id": 26494606,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789117080000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2013,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamaha F25DMH -2013",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer Brenderup 80km/h -2020",
+    "included": true,
+    "kmh": 80,
+    "year": 2020
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 434 Yamaha 25hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26494606/ae39d640-305f-4b70-b2bb-75515290ff7f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.61806,
+ "length_ft": 434,
+ "location": "Hedekas",
+ "lon": 11.78333,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 375,
+  "fetched_ts": 1790508734956,
+  "text_sha": "d49163d8493e132f"
+ },
+ "price": 50000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 50000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "434 fot",
+  "Modell": "434",
+  "Modellår": "2005",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Plast",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26494606",
+ "width_cm": 0,
+ "year": 2005
+}

@@ -1,0 +1,82 @@
+{
+ "ad_id": 22238640,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788697099000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": 4,
+  "engine_maker": "Tohatsu 4 takt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2025,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Buster RS med fabriksny motor 4 takt endast 4 timmar -25.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin Striker inkl givare -25",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fogelsta båt vagn 40 km kärra -14",
+    "included": true,
+    "kmh": 40,
+    "year": 2014
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster RS med fabriksny motor 4 takt endast 4 timmar -25",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22238640/0baadf78-c018-41b5-be9e-b4f3f1f5e8c2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.81258,
+ "length_ft": 15,
+ "location": "Norrtälje",
+ "lon": 18.66491,
+ "make": "Buster",
+ "max_speed": 22,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 360,
+  "fetched_ts": 1790507441527,
+  "text_sha": "6d2b29467c7e2a32"
+ },
+ "price": 69000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "RS",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Tohatsu 4 takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "22 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22238640",
+ "width_cm": 0,
+ "year": 1990
+}

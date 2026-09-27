@@ -1,0 +1,79 @@
+{
+ "ad_id": 23699654,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1786391581000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": 213,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Välskött hyttbåt med Yamaha 50 hk och 4-takt( 2005 213 h) trailer.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Välskött hyttbåt med Yamaha 50 hk och 4-takt( 2005 213 h) trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Grisslan 600 – Välskött hyttbåt med Yamaha 50 hk och 4-takt( 2005 213 h) trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23699654/e8789b07-9200-4875-a62d-60dc57fb8940",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.30355,
+ "length_ft": 20,
+ "location": "Saltsjö-Boo",
+ "lon": 18.2664,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1140,
+  "fetched_ts": 1790507526942,
+  "text_sha": "846b83b03c603a89"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "20 fot",
+  "Modell": "Grisslan 600",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23699654",
+ "width_cm": 0,
+ "year": 1990
+}

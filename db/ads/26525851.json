@@ -1,0 +1,116 @@
+{
+ "ad_id": 26525851,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789212071000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Tillbehör: Kartplotter/ekolod Lowrance LMS-334,",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Tillbehör: Kartplotter/ekolod Lowrance LMS-334,",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Komplett paket: Örnvik 550 HT med Evinrude 40hk 4-takt & besiktigad trailer!",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Komplett paket: Örnvik 550 HT med Evinrude 40hk 4-takt & besiktigad trailer!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26525851/de80e8f7-eb48-4869-af52-782ab94322f4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.64745,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9702db3029f85b3c"
+ },
+ "location": "Mölndal",
+ "lon": 11.9997,
+ "make": "Örnvik",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 409,
+  "fetched_ts": 1790508762560,
+  "text_sha": "9702db3029f85b3c"
+ },
+ "price": 24000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 24000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "550HT",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "20 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "600 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26525851",
+ "width_cm": 200,
+ "year": 1978
+}

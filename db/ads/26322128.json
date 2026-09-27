@@ -1,0 +1,110 @@
+{
+ "ad_id": 26322128,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789200661000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2017,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Plotter Garmin 5” inkl sjökort",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer 80 släp, easyline från 2018.",
+    "included": true,
+    "kmh": 80,
+    "year": 2018
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent arrow inkl allt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26322128/e22ce23a-422c-4c4e-9352-94c73c0d87b2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 65.58656,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2017,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Med motor Suzuki DF 60 HK",
+   "engine_year_rejected": 2017,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "bdc8ccd6268ca76c"
+ },
+ "location": "Luleå",
+ "lon": 22.1306,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 337,
+  "fetched_ts": 1790508601362,
+  "text_sha": "bdc8ccd6268ca76c"
+ },
+ "price": 130000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 130000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "Crescent arrow 518",
+  "Modellår": "2017",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26322128",
+ "width_cm": 0,
+ "year": 2017
+}

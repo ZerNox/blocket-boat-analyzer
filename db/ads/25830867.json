@@ -1,0 +1,108 @@
+{
+ "ad_id": 25830867,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787074154000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Platta på aktern som man enkelt fäster elmotor.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Crescent 425 med 35hk + Nybesiktad 80 Trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 425 med 35hk + Nybesiktad 80 Trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25830867/ece076b3-56e9-4b11-af81-68f3fadd6055",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.49551,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 35,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Nybesiktad 80 kärra. TK-Trailern BT 500 från 98.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c58faff925ecac4e"
+ },
+ "location": "Norrköping",
+ "lon": 16.14422,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 35.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 315,
+  "fetched_ts": 1790508235490,
+  "text_sha": "c58faff925ecac4e"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "425",
+  "Modellår": "1980",
+  "Motorstorlek": "35 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25830867",
+ "width_cm": 180,
+ "year": 1980
+}

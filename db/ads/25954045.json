@@ -1,0 +1,85 @@
+{
+ "ad_id": 25954045,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787477227000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "- Båt och motor uttagna 2007",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "- Ny hydraulisk styrning installerad 2020",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "- Bromsat 80 km/h-släp från 2011",
+    "included": true,
+    "kmh": 80,
+    "year": 2011
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "ÖRNVIK 510 CRUISER MERCURY 75HP ELPTO",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25954045/6e5b3559-efd5-4940-8705-b47bbdff3447",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.27411,
+ "length_ft": 17,
+ "location": "Enskede",
+ "lon": 18.08629,
+ "make": "Örnvik",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1145,
+  "fetched_ts": 1790508324505,
+  "text_sha": "180ded66bace90ab"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Bredd": "233 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "Örnvik 510 cruiser",
+  "Modellår": "2004",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25954045",
+ "width_cm": 233,
+ "year": 2004
+}

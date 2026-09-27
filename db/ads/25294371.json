@@ -1,0 +1,107 @@
+{
+ "ad_id": 25294371,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785576745000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Enklare ekolod, spöhållare samt fendrar ingår.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80km/h-trailer (TK Trailer) i utmärkt skick ingår och är precis nybesiktad utan anmärkning för kommande två år.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik HT med Johnson 40 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25294371/6fd54110-61f3-4039-8e07-78b5dd80de89",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.31022,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "557c97bcf07dc5fd"
+ },
+ "location": "Glimåkra",
+ "lon": 14.14036,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 407,
+  "fetched_ts": 1790507736993,
+  "text_sha": "557c97bcf07dc5fd"
+ },
+ "price": 42500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 42500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "HT",
+  "Modellår": "1978",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25294371",
+ "width_cm": 0,
+ "year": 1978
+}

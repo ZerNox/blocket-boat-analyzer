@@ -1,0 +1,109 @@
+{
+ "ad_id": 25448853,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786007318000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Selva Gold fish 4-taktare",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1977,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Båt med kapell",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Säljes inklusive motor och 80-trailer obromsad.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Båt med kapell",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25448853/42bb6f4c-bd86-4e81-9e4b-8101bf5b5e43",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.64488,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1977,
+   "engine_hours": null,
+   "engine_hp": 4,
+   "engine_maker": "Selva Gold",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Nybesiktigad 260720",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "87644313337cb544"
+ },
+ "location": "Visby",
+ "lon": 18.54485,
+ "make": "Selva",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 4.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 124,
+  "fetched_ts": 1790507877487,
+  "text_sha": "87644313337cb544"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "Julajollen",
+  "Modellår": "1977",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "4 hk",
+  "Motortillverkare": "Selva Gold fish 4-taktare",
+  "Motortyp": "Utombordare",
+  "Märke": "Selva",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25448853",
+ "width_cm": 0,
+ "year": 1977
+}

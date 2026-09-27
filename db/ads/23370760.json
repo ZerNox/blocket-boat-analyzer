@@ -1,0 +1,112 @@
+{
+ "ad_id": 23370760,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789403229000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": 400,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Transportkapell och 30 trailer för sjösättning..",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Transportkapell och 30 trailer för sjösättning..",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Yamarin 56 SC i mkt fint skick.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23370760/d3b56de1-a990-497e-b8fd-1297c9d45157",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.7047,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": 400,
+   "engine_hp": 60,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn servad och konserverad varje år.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "cf9e80e9f1897927"
+ },
+ "location": "Torslanda",
+ "lon": 11.74056,
+ "make": "Yamarin",
+ "max_speed": 24,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 429,
+  "fetched_ts": 1790507494645,
+  "text_sha": "cf9e80e9f1897927"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "56 SC",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "24 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "800 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23370760",
+ "width_cm": 0,
+ "year": 2006
+}

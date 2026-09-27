@@ -1,0 +1,112 @@
+{
+ "ad_id": 26804807,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790092305000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude E-Tech 75 hk",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2015,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Fin båt med bra prestanda för alla väder, Med den populära Evinrude E-Tech 75 hk, Plotter, Nybesiktigad 80 km/h släpvag…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fin båt med bra prestanda för alla väder, Med den populära Evinrude E-Tech 75 hk, Plotter, Nybesiktigad 80 km/h släpvag…",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Brig N520 Evinrude E-tech 75 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26804807/6a08592e-096c-49d4-bfce-cff124ae6d6e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.35634,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2015,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1f5ec81449741b23"
+ },
+ "location": "Gnosjö",
+ "lon": 13.73177,
+ "make": "BRIG",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 262,
+  "fetched_ts": 1790508949248,
+  "text_sha": "1f5ec81449741b23"
+ },
+ "price": 145000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 145000
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Svart",
+  "Längd i fot": "17 fot",
+  "Modell": "N520",
+  "Modellår": "2015",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Evinrude E-Tech 75 hk",
+  "Motortyp": "Utombordare",
+  "Märke": "BRIG",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26804807",
+ "width_cm": 230,
+ "year": 2015
+}

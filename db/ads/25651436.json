@@ -1,0 +1,78 @@
+{
+ "ad_id": 25651436,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786548385000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki DF",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2022,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 478 GTI, 2004 med Suzuki DF50hk från 2022, fint skick..",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin Echomap Plus 42 CV (GPS)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin Echomap Plus 42 CV (GPS)",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 478 GTI, 2004 med Suzuki DF50hk från 2022, fint skick.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25651436/a6497284-1ab9-4b44-b2d5-c5eead4ffd7d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.12508,
+ "length_ft": 16,
+ "location": "Hälleviksstrand",
+ "lon": 11.43762,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 293,
+  "fetched_ts": 1790508071521,
+  "text_sha": "3a215684ec165458"
+ },
+ "price": 99500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 99500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "478 GTI",
+  "Modellår": "2022",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki DF",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25651436",
+ "width_cm": 0,
+ "year": 2022
+}

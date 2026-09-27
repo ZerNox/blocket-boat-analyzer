@@ -1,0 +1,118 @@
+{
+ "ad_id": 26426768,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788877554000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2001,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Självlänsande och går att utrusta med akterkapell (ingår ej).",
+    "included": false
+   },
+   "plotter": {
+    "evidence": "25-liters bärbar bensintank, plotter, ankare och diverse tampar följer med.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtupptagningskärra ingår men den är just upptagningskärra, bör inte köras någon längre sträcka.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Bella 512 Europa",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26426768/66dad699-6e3b-4bed-b79d-9f2ee0dc3a5e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.03891,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2001,
+   "engine_hours": null,
+   "engine_hp": 80,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Smidig styrpulpet med 80-hästars Yamaha 4-taktsmotor som alltid startat utan bekymmer.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "04240c565aa8e81e"
+ },
+ "location": "Tranås",
+ "lon": 14.97724,
+ "make": "Bella",
+ "max_speed": 33,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 695,
+  "fetched_ts": 1790508679081,
+  "text_sha": "04240c565aa8e81e"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Bredd": "208 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "65 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "512 Europa",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "33 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26426768",
+ "width_cm": 208,
+ "year": 2001
+}

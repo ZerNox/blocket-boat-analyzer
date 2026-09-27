@@ -1,0 +1,88 @@
+{
+ "ad_id": 25734622,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786808378000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": 40,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2022,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt, trailer och motor från 2022 (motorn har endast gått ca 40 timmar totalt.)",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin 92SV inkl sjökort till gps samt ekolodsgivare",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin 92SV inkl sjökort till gps samt ekolodsgivare",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Enkel att traila och lätt att ha på släp efter bilen.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder Sportsman 445 Max – en lätt och stadig aluminiumbåt.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25734622/56a9e002-98a9-4b47-923b-e7e38925e19d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.39466,
+ "length_ft": 15,
+ "location": "Karlstad",
+ "lon": 13.54825,
+ "make": "Linder",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1288,
+  "fetched_ts": 1790508146742,
+  "text_sha": "df2b78826b84c5e8"
+ },
+ "price": 140000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 140000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "Sportsman 445 Max",
+  "Modellår": "2022",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "227 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25734622",
+ "width_cm": 175,
+ "year": 2022
+}

@@ -1,0 +1,107 @@
+{
+ "ad_id": 26166717,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788096528000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2017,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Atlantic 445 med Suzuki 15 hk 4-takt & trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Atlantic 445 med Suzuki 15 hk 4-takt & trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26166717/960eb980-0bba-4aec-b6e9-fedc8cc4345b",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.83353,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2017,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Utombordare, Motor: Märke: Suzuki 15 hk, 4-takt (Modell DF15), Årsmodell: 2017",
+   "engine_year_rejected": 2017,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "59f32ab71474d3bf"
+ },
+ "location": "Björkvik",
+ "lon": 16.53142,
+ "make": "Atlantic",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 576,
+  "fetched_ts": 1790508499308,
+  "text_sha": "59f32ab71474d3bf"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "445",
+  "Modellår": "2017",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Atlantic",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26166717",
+ "width_cm": 0,
+ "year": 2017
+}

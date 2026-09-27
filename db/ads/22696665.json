@@ -1,0 +1,104 @@
+{
+ "ad_id": 22696665,
+ "boat_class": "Annat",
+ "changed_ts": 1787416443000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yammaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fugitive racerbåt med 15 HK Yamaha för två personer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22696665/57515a22-ab39-41c4-a6dd-85dc3ed3c998",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.27282,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "köpt 2020",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b18633b61a9e612b"
+ },
+ "location": "Älvsjö",
+ "lon": 17.98368,
+ "make": "Flipper",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 577,
+  "fetched_ts": 1790507463634,
+  "text_sha": "b18633b61a9e612b"
+ },
+ "price": 9000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9000
+  }
+ ],
+ "specs": {
+  "Bredd": "130 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "16 fot",
+  "Modell": "Fugitive sport",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Yammaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Annat",
+  "Vikt": "120 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22696665",
+ "width_cm": 130,
+ "year": 1990
+}

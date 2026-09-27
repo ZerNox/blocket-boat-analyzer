@@ -1,0 +1,122 @@
+{
+ "ad_id": 26462255,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789021622000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": 300,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "ter, tändstift samt ny olja i drevet. Nytt inför förra säsongen: Helt ny tiltmotor monterad under försäsongen. Nya växe",
+  "engine_type_source": "llm",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mercury 60 hk EFI (Fyrtakt), årsmodell 2008.",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Påkostad plotter/ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Skräddarsytt styrpulpetkapell (2025).",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Påkostad plotter/ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Mercury 60hk 4-takt (300h) + Trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "declared outboard but text says 'drevet'"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Välvårdad Ryds 535 DL (18 fot) - Mercury 60hk 4-takt (300h) + Trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26462255/f94931dd-9176-4e89-96e0-51fa4c7ba188",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.94386,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2008,
+   "engine_hours": 300,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": 2008,
+   "engine_year_evidence": "Mercury 60 hk EFI (Fyrtakt), årsmodell 2008.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "4ba422fd5c603465"
+ },
+ "location": "Kode",
+ "lon": 11.84468,
+ "make": "Ryds",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1519,
+  "fetched_ts": 1790508709753,
+  "text_sha": "4ba422fd5c603465"
+ },
+ "price": 110000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 110000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "535 DL",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "28 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "475 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26462255",
+ "width_cm": 215,
+ "year": 2008
+}

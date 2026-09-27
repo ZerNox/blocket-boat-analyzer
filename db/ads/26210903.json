@@ -1,0 +1,69 @@
+{
+ "ad_id": 26210903,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788204541000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "5 hk Tohatsu -06.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 440 m. 5 hk Tohatsu -06",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26210903/a1f7ed4b-8a59-4c15-b2b8-1831c04c5a4b",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.24139,
+ "length_ft": 14,
+ "location": "Eskilstuna",
+ "lon": 16.58879,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 5.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 259,
+  "fetched_ts": 1790508519840,
+  "text_sha": "ef7e090271f9dc99"
+ },
+ "price": 11500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 11500
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modellår": "2006",
+  "Motorstorlek": "5 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26210903",
+ "width_cm": 160,
+ "year": 2006
+}

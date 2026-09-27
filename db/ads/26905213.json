@@ -1,0 +1,100 @@
+{
+ "ad_id": 26905213,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790433135000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "HIDEA",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2021,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "GREATE WHITE HB430 MED HIDEA 15 HK",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26905213/ec826f45-d5a9-4c82-bdf0-12919b3fe6f3",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.39033,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2021,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "HIDEA",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "83035a524f0bb301"
+ },
+ "location": "Solna",
+ "lon": 18.00858,
+ "make": "Greatwhite",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 320,
+  "fetched_ts": 1790509014760,
+  "text_sha": "83035a524f0bb301"
+ },
+ "price": 31999,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 31999
+  }
+ ],
+ "specs": {
+  "Bredd": "190 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "HB430",
+  "Modellår": "2021",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "HIDEA",
+  "Motortyp": "Utombordare",
+  "Märke": "Greatwhite",
+  "Sittplatser": "7",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26905213",
+ "width_cm": 190,
+ "year": 2021
+}

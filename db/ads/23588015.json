@@ -1,0 +1,109 @@
+{
+ "ad_id": 23588015,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785953363000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": 18,
+  "engine_maker": "Parsun (Yamaha)",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2019,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sandström Classic 565",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23588015/4c316a89-c449-47e4-9456-62dda4901367",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.73573,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2019,
+   "engine_hours": 18,
+   "engine_hp": 60,
+   "engine_maker": "Parsun (Yamaha)",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1e3c512d6bc47bef"
+ },
+ "location": "Gävle",
+ "lon": 17.40185,
+ "make": "Sandström",
+ "max_speed": 33,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 100,
+  "fetched_ts": 1790507518692,
+  "text_sha": "1e3c512d6bc47bef"
+ },
+ "price": 175000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 175000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "565 Classic",
+  "Modellår": "2019",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Parsun (Yamaha)",
+  "Motortyp": "Utombordare",
+  "Märke": "Sandström",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "33 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "510 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23588015",
+ "width_cm": 205,
+ "year": 2019
+}

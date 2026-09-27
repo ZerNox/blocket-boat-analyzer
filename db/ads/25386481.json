@@ -1,0 +1,90 @@
+{
+ "ad_id": 25386481,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785838814000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": 83,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2019,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Flipper 535 ht med Yamaha 60hk (2019).",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "- Garmin Echomap cv72 med sjökort för Vänern och Västkusten",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "- Hydraulstyrning",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "- Nyare kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "- Garmin Echomap cv72 med sjökort för Vänern och Västkusten",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "- Brenderup 30km/h kärra",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Flipper 535 ht med Yamaha 60hk (2019)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25386481/1a599f6c-19f2-4c80-a408-05695bf3d2f1",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.37237,
+ "length_ft": 18,
+ "location": "Karlstad",
+ "lon": 13.5104,
+ "make": "Flipper",
+ "max_speed": 32,
+ "motor_fuel": null,
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 490,
+  "fetched_ts": 1790507828315,
+  "text_sha": "e2c244f8a0902d5d"
+ },
+ "price": 89000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 89000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "535 HT",
+  "Modellår": "1985",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Toppfart": "32 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25386481",
+ "width_cm": 0,
+ "year": 1985
+}

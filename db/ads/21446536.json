@@ -1,0 +1,70 @@
+{
+ "ad_id": 21446536,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788971357000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2014,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda 30 LRTU  2019 elstart 4-takt trimtilt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2019,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Honda 30 LRTU 2019 elstart 4-takt trimtilt",
+  "engine_year_source": "rule:spec",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Scandica 420 Vertical Pro",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21446536/8dc9c04f-cbff-4e68-a1aa-ea76c3426f43",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.21391,
+ "length_ft": 14,
+ "location": "Viksjöfors",
+ "lon": 15.86603,
+ "make": "Scandica",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 46,
+  "fetched_ts": 1790507424570,
+  "text_sha": "1b44d0c6175e842f"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "Vertical Pro 420",
+  "Modellår": "2014",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Honda 30 LRTU  2019 elstart 4-takt trimtilt",
+  "Motortyp": "Utombordare",
+  "Märke": "Scandica",
+  "Skrovmaterial": "Plast",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/21446536",
+ "width_cm": 0,
+ "year": 2014
+}

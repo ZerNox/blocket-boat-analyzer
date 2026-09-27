@@ -1,0 +1,84 @@
+{
+ "ad_id": 25716101,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786749334000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": 30,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Honda 10hk 2021",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod som tillval:",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance Elite FS 9 med TripleShot-givare kan köpas till för 10 000 kr extra.",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "endast 30h + trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Flipper 450 – Honda 10hk 2021 – endast 30h + trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25716101/05705806-436a-4d0e-bbb0-67649383c5b9",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.7842,
+ "length_ft": 15,
+ "location": "Lerum",
+ "lon": 12.24268,
+ "make": "Flipper",
+ "max_speed": 8,
+ "motor_fuel": "Bensin",
+ "motor_size": 10.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1252,
+  "fetched_ts": 1790508122159,
+  "text_sha": "c0d2739f89ee15c8"
+ },
+ "price": 47000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 47000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "450",
+  "Modellår": "2021",
+  "Motorstorlek": "10 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "8 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25716101",
+ "width_cm": 0,
+ "year": 2021
+}

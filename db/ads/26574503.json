@@ -1,0 +1,119 @@
+{
+ "ad_id": 26574503,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789939116000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2011,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Höga räcken runt om som ger bra säkerhet vid fiske. äldre ekolod/lod monterat vid pulpeten.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Tillbehör Vid en smidig och krångelfri affär kan en elmotor från Minn Kota och automatisk länspump skickas med på köpet.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Suzuki 60HK 4-takt & BT1000 trailer (80 km/h)",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Väddö 540 m. Suzuki 60HK 4-takt & BT1000 trailer (80 km/h)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26574503/b76d82d3-eed4-42a6-9e7b-2089d35aefc5",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.20826,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2011,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "N/A",
+   "equipment": {
+    "ekolod": "excluded",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7e9c81ecdcb77fc7"
+ },
+ "location": "Östersund",
+ "lon": 14.6299,
+ "make": "Väddö",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1171,
+  "fetched_ts": 1790508803199,
+  "text_sha": "7e9c81ecdcb77fc7"
+ },
+ "price": 79000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 79000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "35 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "20 fot",
+  "Modell": "540",
+  "Modellår": "2011",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Väddö",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "28 knop",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "650 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26574503",
+ "width_cm": 200,
+ "year": 2011
+}

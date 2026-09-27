@@ -1,0 +1,86 @@
+{
+ "ad_id": 23322637,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787400920000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1971,
+  "boat_year_source": "spec",
+  "engine_hours": 10,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Uttern 510 ht, Honda 50hk (2007).",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell Tvättat, impregnerat och renoverat -25",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance Elite 5m kartplotter",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Hemmbyggd båtvagn från 1970.",
+    "included": true,
+    "year": 1970
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 510 ht, Honda 50hk (2007)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23322637/784f6406-1f79-441f-8538-e861532295aa",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.39889,
+ "length_ft": 17,
+ "location": "Vaxholm",
+ "lon": 18.40605,
+ "make": "Uttern",
+ "max_speed": 26,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1014,
+  "fetched_ts": 1790507490015,
+  "text_sha": "2c43c9dd523fa24c"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "510ht favorit",
+  "Modellår": "1971",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Toppfart": "26 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23322637",
+ "width_cm": 205,
+ "year": 1971
+}

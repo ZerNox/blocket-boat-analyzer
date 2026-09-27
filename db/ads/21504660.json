@@ -1,0 +1,104 @@
+{
+ "ad_id": 21504660,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785698519000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Robin",
+  "engine_stroke": 4,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Har även en elmotor på 24V 3kw max 3000rpm med styrskåp som med lite klurighet borde kunna funka som elkonvertering och…",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Jaktkanot 15fot med inombordare 7,5hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21504660/1590621a-2be0-4f55-8143-63c7431da675",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.16262,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 7.5,
+   "engine_maker": "Robin",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "21ac8528e6af383f"
+ },
+ "location": "Ramdala",
+ "lon": 15.7349,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 7.5,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 675,
+  "fetched_ts": 1790507426050,
+  "text_sha": "21ac8528e6af383f"
+ },
+ "price": 12000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "7.5 hk",
+  "Motortillverkare": "Robin",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/21504660",
+ "width_cm": 0,
+ "year": 1980
+}

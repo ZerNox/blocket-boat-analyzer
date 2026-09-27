@@ -1,0 +1,69 @@
+{
+ "ad_id": 25278534,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785509877000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt och motor är från 2021.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Bra skick",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25278534/0fc1ee04-2a2d-4a9b-b022-766ad7c92900",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.54615,
+ "length_ft": 15,
+ "location": "Karlsborg",
+ "lon": 14.48408,
+ "make": "Terhi",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 9.899999618530273,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 105,
+  "fetched_ts": 1790507718925,
+  "text_sha": "75e07a3254e2e492"
+ },
+ "price": 29500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 29500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "440",
+  "Modellår": "2021",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "9.9 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Terhi",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25278534",
+ "width_cm": 0,
+ "year": 2021
+}

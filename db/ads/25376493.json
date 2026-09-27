@@ -1,0 +1,112 @@
+{
+ "ad_id": 25376493,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785785859000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnsson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Trailer&alla tillbehör med tampar,ekolod,batteri mm medföljer",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer&alla tillbehör med tampar,ekolod,batteri mm medföljer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 445 fiskebåt - höstpris!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25376493/4f89a8f9-715e-4a19-940e-47e206da8b94",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.49034,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Johnsson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "daa5f312e8586e4e"
+ },
+ "location": "Järfälla",
+ "lon": 17.80714,
+ "make": "Crescent",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 178,
+  "fetched_ts": 1790507818920,
+  "text_sha": "daa5f312e8586e4e"
+ },
+ "price": 15500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15500
+  }
+ ],
+ "specs": {
+  "Bredd": "178 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Orange",
+  "Längd i fot": "15 fot",
+  "Modell": "445",
+  "Modellår": "1980",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Johnsson",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "225 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25376493",
+ "width_cm": 178,
+ "year": 1980
+}

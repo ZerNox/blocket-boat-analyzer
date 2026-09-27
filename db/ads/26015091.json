@@ -1,0 +1,96 @@
+{
+ "ad_id": 26015091,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787774444000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2009,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2009,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Quicksilver 505",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26015091/62d0d9af-62eb-401b-bf4a-fe7af62c4d18",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.33188,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2009,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "not_mentioned",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8e6caf6cc0e7359c"
+ },
+ "location": "Hammarö",
+ "lon": 13.50555,
+ "make": "Quicksilver",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790508390833,
+  "text_sha": "8e6caf6cc0e7359c"
+ },
+ "price": 120000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 120000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "Commander",
+  "Modellår": "2009",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortyp": "Utombordare",
+  "Märke": "Quicksilver",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26015091",
+ "width_cm": 0,
+ "year": 2009
+}

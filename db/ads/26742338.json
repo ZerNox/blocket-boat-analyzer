@@ -1,0 +1,79 @@
+{
+ "ad_id": 26742338,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789921306000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2020,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt, motor samt trailer i paketpris allt från 2020.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "HR 480 BR med 80 trailer HÖSTPRIS!",
+    "included": true,
+    "kmh": 80,
+    "year": 2020
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 480 BR med 80 trailer HÖSTPRIS!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26742338/34ef1d75-67dd-4c9e-91fe-8ec5511feef2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.74305,
+ "length_ft": 15,
+ "location": "Finspång",
+ "lon": 15.92737,
+ "make": "HR",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 517,
+  "fetched_ts": 1790508907497,
+  "text_sha": "26f2b6b86efb5180"
+ },
+ "price": 149000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 149000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "15 fot",
+  "Modell": "480 BR",
+  "Modellår": "2020",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Toppfart": "28 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26742338",
+ "width_cm": 0,
+ "year": 2020
+}

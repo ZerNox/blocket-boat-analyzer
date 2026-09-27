@@ -1,0 +1,103 @@
+{
+ "ad_id": 25768436,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786896200000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": 150,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2017,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår inte.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 480 SC med Suzuki utombordare 60 HK",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25768436/0d2bc241-b164-4b84-a051-2622d8c4f95c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.31374,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2017,
+   "engine_hours": 150,
+   "engine_hp": 60,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "null",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "82219c1d5a8fcb4b"
+ },
+ "location": "Skoghall",
+ "lon": 13.473,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 132,
+  "fetched_ts": 1790508173539,
+  "text_sha": "82219c1d5a8fcb4b"
+ },
+ "price": 155000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 155000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "480 SC",
+  "Modellår": "2017",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25768436",
+ "width_cm": 0,
+ "year": 2017
+}

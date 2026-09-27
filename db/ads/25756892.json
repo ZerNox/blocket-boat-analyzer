@@ -1,0 +1,77 @@
+{
+ "ad_id": 25756892,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786879418000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2019,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ockelbo B14 med Mercury 9,9 hk fyrtakt från 2019 och båtvagn.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Kan säljas utan båtvagn.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ockelbo B14 med Mercury 9,9 hk fyrtakt från 2019 och båtvagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25756892/259f38a9-9f91-4228-b480-a4bfc185c602",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.62653,
+ "length_ft": 14,
+ "location": "Enköping",
+ "lon": 17.12063,
+ "make": "Ockelbo",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 9.899999618530273,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 659,
+  "fetched_ts": 1790508161587,
+  "text_sha": "d904c9952962494a"
+ },
+ "price": 24500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 24500
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "20 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "B14",
+  "Modellår": "1970",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "9.9 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ockelbo",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "180 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25756892",
+ "width_cm": 160,
+ "year": 1970
+}

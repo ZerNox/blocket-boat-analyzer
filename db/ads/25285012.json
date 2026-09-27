@@ -1,0 +1,84 @@
+{
+ "ad_id": 25285012,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785524363000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki 2005",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Suzuki 2005",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "plotter": {
+    "evidence": "GPS & plotter ingår.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80km/h trailer (nybes.)",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "MV-Marin 4600 40hk 4-takt inkl. 80km/h trailer (nybes.)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25285012/3fa312e6-4096-41e4-afdf-3535281ac3d7",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.27543,
+ "length_ft": 15,
+ "location": "Örebro",
+ "lon": 15.20048,
+ "make": "MV",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 235,
+  "fetched_ts": 1790507725703,
+  "text_sha": "317fc564e4c9762a"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Bredd": "195 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "MV-Marin 4600",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Suzuki 2005",
+  "Motortyp": "Utombordare",
+  "Märke": "MV",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "320 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25285012",
+ "width_cm": 195,
+ "year": 2006
+}

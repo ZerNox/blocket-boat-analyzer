@@ -1,0 +1,79 @@
+{
+ "ad_id": 25432314,
+ "boat_class": "Annat",
+ "changed_ts": 1785946013000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2002,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är en Mercury 75hp 2takt från 2002 som går klockrent och bara använd i sötva",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "tten. trailer följer med båten så klart.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Weedo GT Mercury 75hp 2 takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25432314/f4650532-9ea7-4a9c-8134-0f0920b2edfa",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 64.72817,
+ "length_ft": 16,
+ "location": "Skellefteå",
+ "lon": 21.07135,
+ "make": "WG boats",
+ "max_speed": 40,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 212,
+  "fetched_ts": 1790507861366,
+  "text_sha": "a587d0e488da47e0"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "Weedo GT",
+  "Modellår": "1970",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "WG boats",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "40 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25432314",
+ "width_cm": 180,
+ "year": 1970
+}

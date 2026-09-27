@@ -1,0 +1,110 @@
+{
+ "ad_id": 26294667,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788511340000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "h 1 st Monark/Crescent 585ht (inombordare B20/AQ130 m 280 drev) 1 st Mercury 25 hk, 2-takt, 1997, rorkult utan elstart m",
+  "engine_type_source": "llm",
+  "engine_year": 1997,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "1 st Mercury 25 hk, 2-takt, 1997, rorkult utan elstart med lång rigg, mm",
+  "engine_year_source": "rule:text?",
+  "equipment": {
+   "trailer": {
+    "evidence": "30-kärra kan ev lånas för kortare transporter",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "declared outboard but text says 'inombordare'"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Båtrensning - Höstrea",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26294667/fe249b6c-a256-4a71-9de6-2c2f6a549e9e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.36853,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1883,
+   "engine_hours": null,
+   "engine_hp": 4,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor Yamaha 4 hk, kort rigg",
+   "engine_year_rejected": 1983,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5a87226e89e41bfb"
+ },
+ "location": "Brastad",
+ "lon": 11.46559,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 4.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1489,
+  "fetched_ts": 1790508579316,
+  "text_sha": "5a87226e89e41bfb"
+ },
+ "price": 1999,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 1999
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "vit/orange",
+  "Längd i fot": "14 fot",
+  "Modell": "Eka, plasteka, roddbåt, fiskebåt",
+  "Modellår": "1883",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "4 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26294667",
+ "width_cm": 160,
+ "year": 1883
+}

@@ -1,0 +1,79 @@
+{
+ "ad_id": 25824585,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787065091000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2002,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki 4-takt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten är från 2002 och motorn från 2003 och gå bra. (tyvärr en liten sprick i motorkåpan)",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "HR 465 med Suzuki 50 hk 4-takts motor och 80 släp",
+    "included": true,
+    "kmh": 80,
+    "year": 2016
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Höstrea! HR 465 med Suzuki 50 hk 4-takts motor och 80 släp",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25824585/14c780c9-589d-42c9-b04e-265ad6470876",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.67442,
+ "length_ft": 16,
+ "location": "Jät",
+ "lon": 14.8065,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 467,
+  "fetched_ts": 1790508223943,
+  "text_sha": "bc534c1c9c9a0be2"
+ },
+ "price": 62500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 62500
+  }
+ ],
+ "specs": {
+  "Bredd": "188 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "465",
+  "Modellår": "2002",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki 4-takt",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "350 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25824585",
+ "width_cm": 188,
+ "year": 2002
+}

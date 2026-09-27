@@ -1,0 +1,111 @@
+{
+ "ad_id": 23918099,
+ "boat_class": "Annat",
+ "changed_ts": 1786123845000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": 200,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2021,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Kollar intresse för båt+trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 480BR Suzuki 80hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23918099/3256b21c-29b5-47d0-9fd0-3c3e01e67ad6",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.25219,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": null,
+   "engine_hours": 200,
+   "engine_hp": 80,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Inköpt 2021",
+   "engine_year_rejected": 2021,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f050cd49b93453e6"
+ },
+ "location": "Oskarshamn",
+ "lon": 16.47417,
+ "make": "HR",
+ "max_speed": 33,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 262,
+  "fetched_ts": 1790507551541,
+  "text_sha": "f050cd49b93453e6"
+ },
+ "price": 185000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 185000
+  }
+ ],
+ "specs": {
+  "Bredd": "206 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "480BR",
+  "Modellår": "2021",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "33 knop",
+  "Typ": "Annat",
+  "Vikt": "450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23918099",
+ "width_cm": 206,
+ "year": 2021
+}

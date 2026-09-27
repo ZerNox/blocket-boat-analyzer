@@ -1,0 +1,81 @@
+{
+ "ad_id": 23165671,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789364873000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1994,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1994,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Perfekt att ha som fiskebåt och för dagsutflykter Både båt och motor är från 1994.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Har körts väldigt lite de åren jag ägt båten och fungerar utan problem. *En 30-trailer från 2022 ingår. *Ekolod Garmin …",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds 440 GT Evinrude 40hk inkl. ny 30-trailer",
+    "included": true,
+    "kmh": 30,
+    "year": 2022
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 440 GT Evinrude 40hk inkl. ny 30-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23165671/0da302d3-0b34-4d2c-ac38-99273d2c7bf7",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.34032,
+ "length_ft": 15,
+ "location": "Onsala",
+ "lon": 11.95897,
+ "make": "Ryds",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 426,
+  "fetched_ts": 1790507479293,
+  "text_sha": "178bd3812d4be269"
+ },
+ "price": 38000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 38000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "440 GT med 40 Hk Evinrude och ny 30-trailer",
+  "Modellår": "1994",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23165671",
+ "width_cm": 0,
+ "year": 1994
+}

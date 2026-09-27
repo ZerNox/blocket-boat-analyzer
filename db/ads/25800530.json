@@ -1,0 +1,87 @@
+{
+ "ad_id": 25800530,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786985569000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": 40,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2019,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Det är en zolid 430cc med en 30 hp mercury motor ifrån 2019.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "- Lowrance 3 in 1 ekolod",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "- Elmotor: motorguide xi3 + 110 ah agm batteri (victron)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "- Lowrance plotter: Elite 7ti",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "- 80 trailer medföljer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Zolid 430cc",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25800530/be9a78e1-6050-415d-9bc1-f506d3e7ea8a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.46982,
+ "length_ft": 14,
+ "location": "Åkersberga",
+ "lon": 18.35066,
+ "make": "Övriga",
+ "max_speed": 24,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 594,
+  "fetched_ts": 1790508200826,
+  "text_sha": "e116cc8b61acda40"
+ },
+ "price": 140000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 140000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modellår": "2019",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "24 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25800530",
+ "width_cm": 0,
+ "year": 2019
+}

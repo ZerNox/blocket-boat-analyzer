@@ -1,0 +1,101 @@
+{
+ "ad_id": 25441798,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787333637000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Pioner MAXI styrpulpet 15hk 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25441798/5b2739e9-8a51-4836-9f86-66da03ad7978",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.69322,
+ "length_ft": 12,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1995,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny service på motorn inför iår",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8b560db89f8da463"
+ },
+ "location": "Mellerud",
+ "lon": 12.47575,
+ "make": "Pioner",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 319,
+  "fetched_ts": 1790507872116,
+  "text_sha": "8b560db89f8da463"
+ },
+ "price": 22000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 22000
+  }
+ ],
+ "specs": {
+  "Bredd": "163 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "12 fot",
+  "Modell": "Maxi",
+  "Modellår": "1995",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Pioner",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25441798",
+ "width_cm": 163,
+ "year": 1995
+}

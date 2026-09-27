@@ -1,0 +1,80 @@
+{
+ "ad_id": 26615756,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789485327000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2000,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Medföljer Suzuki DF30 fyrtakt från 2000.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Den säljs utan inredning och kapell, vilket gör den till ett bra och enkelt utgångsobjekt för den som vill bygga efter …",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "Crescent 495ht Suzuki df30 & trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 495ht Suzuki df30 & trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26615756/3b896d7a-7a1b-42ab-9f77-154b0434a307",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.57268,
+ "length_ft": 18,
+ "location": "Västerås",
+ "lon": 16.61353,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 811,
+  "fetched_ts": 1790508823793,
+  "text_sha": "a0a878e5a76133b5"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "495ht",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26615756",
+ "width_cm": 0,
+ "year": 1975
+}

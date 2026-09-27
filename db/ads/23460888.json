@@ -1,0 +1,105 @@
+{
+ "ad_id": 23460888,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789986608000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_maker": "Hidea 40hk EFI",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Styrpulpet Örnvik 500R med motor - ny. Klar för leverans.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23460888/394d74fe-7aa6-4e37-afdb-d3080c9a1c80",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.72165,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2025,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Hidea",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ddae3f3b5fe4d9d5"
+ },
+ "location": "Göteborg",
+ "lon": 11.97118,
+ "make": "Örnvik",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1118,
+  "fetched_ts": 1790507507417,
+  "text_sha": "ddae3f3b5fe4d9d5"
+ },
+ "price": 144500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 144500
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Metall",
+  "Längd i fot": "17 fot",
+  "Modell": "500R",
+  "Modellår": "2025",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Hidea 40hk EFI",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "325 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23460888",
+ "width_cm": 180,
+ "year": 2025
+}

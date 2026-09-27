@@ -1,0 +1,87 @@
+{
+ "ad_id": 26669720,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789665687000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "SELVA",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2025,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "SELVA 60hk 4 takt (2025 stor service tändstift, packning, kamrem, filter. olja etc.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båten säljs komplett med en bromsad 80km/h båttrailer, TK trailer 2017.",
+    "included": true,
+    "kmh": 80,
+    "year": 2017
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Atlantic Marine 505 Open",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26669720/ea44198c-3030-4b25-b0e7-fe8171929c75",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.37089,
+ "length_ft": 16,
+ "location": "Vänersborg",
+ "lon": 12.31951,
+ "make": "Atlantic Marine",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 702,
+  "fetched_ts": 1790508860647,
+  "text_sha": "3291e2ab49f1c66d"
+ },
+ "price": 90000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 90000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "VIT/BLÅ",
+  "Längd i fot": "16 fot",
+  "Modell": "505 OPEN",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "SELVA",
+  "Motortyp": "Utombordare",
+  "Märke": "Atlantic Marine",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "520 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26669720",
+ "width_cm": 210,
+ "year": 2006
+}

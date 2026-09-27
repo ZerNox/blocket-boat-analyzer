@@ -1,0 +1,67 @@
+{
+ "ad_id": 25946483,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787426825000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2020,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Årsmodell: 2020 Motor: Tohatsu 25 hk Skick: Mycket välvårdad och sparsamt använd",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Terhi 445C",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25946483/62c81568-7d64-4df4-8526-a843b6ce648f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.24727,
+ "length_ft": 15,
+ "location": "Östhammar",
+ "lon": 18.30406,
+ "make": "Terhi",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 398,
+  "fetched_ts": 1790508323106,
+  "text_sha": "1d055aa9feb4ddb0"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "445 C",
+  "Modellår": "2020",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Terhi",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25946483",
+ "width_cm": 0,
+ "year": 2020
+}

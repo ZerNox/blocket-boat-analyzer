@@ -1,0 +1,83 @@
+{
+ "ad_id": 26735886,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789897174000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1999,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten är 2001 och motorn är 1999.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Även en lowrance eagle 7 ekolod som köptes iår som medföljer.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Även en lowrance eagle 7 ekolod som köptes iår som medföljer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Yamarin 490 big ride",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26735886/f0e2f1d1-e3e4-4436-b5fa-1dbc056d1635",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.31216,
+ "length_ft": 16,
+ "location": "Söderhamn",
+ "lon": 17.07154,
+ "make": "Yamarin",
+ "max_speed": 26,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 548,
+  "fetched_ts": 1790508900532,
+  "text_sha": "9a88c91faaf190d9"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "490 Big ride",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "26 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "400 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26735886",
+ "width_cm": 210,
+ "year": 2001
+}

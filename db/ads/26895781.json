@@ -1,0 +1,113 @@
+{
+ "ad_id": 26895781,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790417979000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2002,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2002,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ryds 480S säljes komplett med mariner 30 hk , 80 trailer, ekolod , mobilhållare ,ankare , fender , spöhållare, samt öve…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds 480S säljes komplett med mariner 30 hk , 80 trailer, ekolod , mobilhållare ,ankare , fender , spöhållare, samt öve…",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 480S",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26895781/f1e1eb74-33d0-4d3a-bb97-0b5a6d662df8",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.19863,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2002,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "null",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8f343cde636080ab"
+ },
+ "location": "Södertälje",
+ "lon": 17.60756,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 380,
+  "fetched_ts": 1790509009361,
+  "text_sha": "8f343cde636080ab"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Bredd": "195 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "16 fot",
+  "Modell": "Ryds 480S",
+  "Modellår": "2002",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "400 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26895781",
+ "width_cm": 195,
+ "year": 2002
+}

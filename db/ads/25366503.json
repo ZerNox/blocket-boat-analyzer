@@ -1,0 +1,91 @@
+{
+ "ad_id": 25366503,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1785771244000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2013,
+  "boat_year_source": "spec",
+  "engine_hours": 495,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2013,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt & motor uttaget 2013",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "*-Humminbird helix 10g4MSI i pulpet.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "*-Minn kota terrova 24v 2019",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Negativt: Kapell skulle behöva några små lappar och ett par knappbyten, 2 plasthandtag till luckorna är avtrampade.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer:",
+    "included": true,
+    "year": 2015
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Starweld 1600 PRO SC Ready2Fish",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25366503/8947e986-c06b-40cf-b16a-0240aff5b165",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.43278,
+ "length_ft": 16,
+ "location": "Stora Skedvi",
+ "lon": 15.77921,
+ "make": "Starcraft",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1085,
+  "fetched_ts": 1790507800121,
+  "text_sha": "e65e0fab31ed78c5"
+ },
+ "price": 195000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 195000
+  }
+ ],
+ "specs": {
+  "Bredd": "208 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Svart",
+  "Längd i fot": "16 fot",
+  "Modell": "Starweld 1600 PRO SC",
+  "Modellår": "2013",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Starcraft",
+  "Sittplatser": "3",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "30 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25366503",
+ "width_cm": 208,
+ "year": 2013
+}

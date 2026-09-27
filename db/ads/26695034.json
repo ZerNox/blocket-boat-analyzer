@@ -1,0 +1,101 @@
+{
+ "ad_id": 26695034,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789753109000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1977,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Motorbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26695034/efd2166f-1ee1-4a92-bd62-91d13a510fde",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 65.83413,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1977,
+   "engine_hours": null,
+   "engine_hp": 20,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d00434c4fb79e07c"
+ },
+ "location": "Boden",
+ "lon": 21.7289,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 203,
+  "fetched_ts": 1790508878565,
+  "text_sha": "d00434c4fb79e07c"
+ },
+ "price": 9900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9900
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Orange",
+  "Längd i fot": "16 fot",
+  "Modellår": "1977",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "175 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26695034",
+ "width_cm": 180,
+ "year": 1977
+}

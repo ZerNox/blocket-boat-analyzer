@@ -1,0 +1,112 @@
+{
+ "ad_id": 25917134,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787349781000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": 10,
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2022,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Garmin GPS inkl sjökort för västkusten",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Micore 550CC 2022 Honda 60HK inkl båtkärra Endast 10 gångtimmar!",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Micore 550CC 2022 Honda 60HK  inkl båtkärra Endast 10 gångtimmar!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25917134/6b966091-cb9b-47ef-bb77-d69c43c2659b",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.71221,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2022,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Inkluderad motor: Ja Motorstorlek: 60 hk Motortillverkare: Honda Motortyp: Utombordare",
+   "engine_year_rejected": 2022,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "759364b0cad88952"
+ },
+ "location": "Göteborg",
+ "lon": 12.01003,
+ "make": "Micore",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 275,
+  "fetched_ts": 1790508298964,
+  "text_sha": "759364b0cad88952"
+ },
+ "price": 199000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 199000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "550CC Classic",
+  "Modellår": "2022",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Micore",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25917134",
+ "width_cm": 210,
+ "year": 2022
+}

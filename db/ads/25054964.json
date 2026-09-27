@@ -1,0 +1,99 @@
+{
+ "ad_id": 25054964,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786960718000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Askeladden 14 med 18 Hk Mercury",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25054964/35abab55-5843-4c6a-b3af-2fbbc5676e70",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 62.68413,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1975,
+   "engine_hours": null,
+   "engine_hp": 18,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "458196dfbda916b3"
+ },
+ "location": "Härnösand",
+ "lon": 17.59432,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 18.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790507638567,
+  "text_sha": "458196dfbda916b3"
+ },
+ "price": 6000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 6000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "14",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "18 hk",
+  "Motortillverkare": "Mercury",
+  "Märke": "Askeladden",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25054964",
+ "width_cm": 175,
+ "year": 1975
+}

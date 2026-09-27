@@ -1,0 +1,97 @@
+{
+ "ad_id": 26232043,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788279229000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu - 25",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2023,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Micore 460 Fishing - 23",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26232043/15914be9-e147-41ad-b201-3a9541e51072",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.17089,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2023,
+   "engine_hours": null,
+   "engine_hp": 25,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5a93a4e30bbea95c"
+ },
+ "location": "Nykvarn",
+ "lon": 17.42843,
+ "make": "Micore",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790508533950,
+  "text_sha": "5a93a4e30bbea95c"
+ },
+ "price": 90000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 90000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modell": "460 Fishing",
+  "Modellår": "2023",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Tohatsu - 25",
+  "Motortyp": "Utombordare",
+  "Märke": "Micore",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26232043",
+ "width_cm": 0,
+ "year": 2023
+}

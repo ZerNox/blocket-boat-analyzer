@@ -1,0 +1,92 @@
+{
+ "ad_id": 24046147,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786554732000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2023,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamaha 25 hk utombordare 2023 (elstart)",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "garmin ekolod/plotter",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "biminitopp/soltak",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "garmin ekolod/plotter",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "anpassad Respo 80 km trailer 2023 med elvinsch/fjärrkontroller (2st) (25 000)",
+    "included": true,
+    "kmh": 80,
+    "year": 2023
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Pioner",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24046147/74d40dcd-c443-4d1b-95c4-d81bc4528b71",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.59786,
+ "length_ft": 13,
+ "location": "Falun",
+ "lon": 15.75645,
+ "make": "Pioner",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 473,
+  "fetched_ts": 1790507566708,
+  "text_sha": "5021b24342584747"
+ },
+ "price": 99900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 99900
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "13 fot",
+  "Modell": "Steady 400",
+  "Modellår": "2023",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Pioner",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "200 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24046147",
+ "width_cm": 180,
+ "year": 2023
+}

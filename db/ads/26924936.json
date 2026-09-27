@@ -1,0 +1,103 @@
+{
+ "ad_id": 26924936,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790503427000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1986,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1986,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Askeladden 485 Intruder-Mercury 60 Hk-trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Askeladden 485 Intruder-Mercury 60 Hk-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26924936/1820a7f0-fee6-471c-b05c-8f09654f2de8",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.4605,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1986,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "32c215744d2d6167"
+ },
+ "location": "Vallda",
+ "lon": 11.91951,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 317,
+  "fetched_ts": 1790509032767,
+  "text_sha": "32c215744d2d6167"
+ },
+ "price": 49000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 49000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "485 Intruder",
+  "Modellår": "1986",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Askeladden",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26924936",
+ "width_cm": 0,
+ "year": 1986
+}

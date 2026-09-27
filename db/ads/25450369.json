@@ -1,0 +1,104 @@
+{
+ "ad_id": 25450369,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1786009860000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1977,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik 510",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25450369/5a28bde6-a1c5-48df-a787-af85d64a9fbb",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.95465,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1977,
+   "engine_hours": null,
+   "engine_hp": 65,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "16628d1e85b0ea6d"
+ },
+ "location": "Växjö",
+ "lon": 14.92026,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 65.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 591,
+  "fetched_ts": 1790507879011,
+  "text_sha": "16628d1e85b0ea6d"
+ },
+ "price": 23000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 23000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "Ht",
+  "Modellår": "1977",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "65 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25450369",
+ "width_cm": 0,
+ "year": 1977
+}

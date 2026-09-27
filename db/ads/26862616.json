@@ -1,0 +1,110 @@
+{
+ "ad_id": 26862616,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790342584000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2012,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "En fin och välfungerande underhållsfri Linder , 25 hk Mercury (2012)med ekolod Humminbird, elmotor Minnkota, länspump, en fin Fogelstatrailer (2022) med boatbuckles och gångramp s…",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "En fin och välfungerande underhållsfri Linder , 25 hk Mercury (2012)med ekolod Humminbird, elmotor Minnkota, länspump, …",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "En fin och välfungerande underhållsfri Linder , 25 hk Mercury (2012)med ekolod Humminbird, elmotor Minnkota, länspump, …",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "En fin och välfungerande underhållsfri Linder , 25 hk Mercury (2012)med ekolod Humminbird, elmotor Minnkota, länspump, …",
+    "included": true,
+    "year": 2022
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder 445 - komplett fiskeutrustad",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26862616/44749042-7b8b-460a-a3f1-b16b95531acd",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.58432,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2012,
+   "engine_hours": null,
+   "engine_hp": 25,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": 2012,
+   "engine_year_evidence": "En fin och välfungerande underhållsfri Linder , 25 hk Mercury (2012)med ekolod Humminbird, elmotor Minnkota, länspump, en fin Fogelstatrailer (2022) med boatbuckles och gångramp s…",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "52b95d73f358808d"
+ },
+ "location": "Falun",
+ "lon": 15.74576,
+ "make": "Linder",
+ "max_speed": 24,
+ "motor_fuel": null,
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 665,
+  "fetched_ts": 1790508985697,
+  "text_sha": "52b95d73f358808d"
+ },
+ "price": 112000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 112000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "445 Sportsman Catch",
+  "Modellår": "2012",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "24 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26862616",
+ "width_cm": 0,
+ "year": 2012
+}

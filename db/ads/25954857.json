@@ -1,0 +1,79 @@
+{
+ "ad_id": 25954857,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787586093000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": 10,
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "En fin styrpulpet från 2011 med en evinrude motor 30 hästkrafter 2-takt med insprut årsmodell 2011.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell finns till",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder Sportsman 445max",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25954857/2682365b-f121-4cec-8da9-d828047283dc",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.75359,
+ "length_ft": 14,
+ "location": "Nyköping",
+ "lon": 17.03016,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 260,
+  "fetched_ts": 1790508325839,
+  "text_sha": "758d8dff76b12943"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Silver/aluminium",
+  "Längd i fot": "14 fot",
+  "Modell": "445 max",
+  "Modellår": "2011",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "227 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25954857",
+ "width_cm": 175,
+ "year": 2011
+}

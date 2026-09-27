@@ -1,0 +1,108 @@
+{
+ "ad_id": 26218250,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788253877000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "MD17",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Albin 23",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26218250/d21daff8-5d61-4412-8e84-8a781b0d12b5",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.5308,
+ "length_ft": 23,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 35,
+   "engine_maker": "MD17",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "aa4611086fc3202b"
+ },
+ "location": "Ljusterö",
+ "lon": 18.69804,
+ "make": "Albin",
+ "max_speed": 9,
+ "motor_fuel": "Diesel",
+ "motor_size": 35.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 271,
+  "fetched_ts": 1790508525739,
+  "text_sha": "aa4611086fc3202b"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Bredd": "270 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "vit",
+  "Längd i fot": "23 fot",
+  "Modell": "albin 23",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "35 hk",
+  "Motortillverkare": "MD17",
+  "Motortyp": "Inombordare",
+  "Märke": "Albin",
+  "Sittplatser": "10",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "9 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "1 700 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26218250",
+ "width_cm": 270,
+ "year": 1980
+}

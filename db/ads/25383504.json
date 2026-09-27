@@ -1,0 +1,105 @@
+{
+ "ad_id": 25383504,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785831857000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1986,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1986,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Uttern 495, Johnson 50 hk, 30-kärra",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 495, Johnson 50 hk, 30-kärra",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25383504/c0fea3da-d7ba-4a6a-9c07-3c40487e265f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.07235,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1986,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d0506c7125da681f"
+ },
+ "location": "Björnlunda",
+ "lon": 17.16336,
+ "make": "Uttern",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 96,
+  "fetched_ts": 1790507825574,
+  "text_sha": "d0506c7125da681f"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "495",
+  "Modellår": "1986",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Toppfart": "28 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25383504",
+ "width_cm": 0,
+ "year": 1986
+}

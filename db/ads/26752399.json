@@ -1,0 +1,73 @@
+{
+ "ad_id": 26752399,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789918399000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2001,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamaha 30hk från 2001 i bra skick.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 430 med Yamaha 30",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26752399/8393fa43-71fb-4393-90d3-3bcacdac256f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.31635,
+ "length_ft": 14,
+ "location": "Gusum",
+ "lon": 16.65405,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 191,
+  "fetched_ts": 1790508917926,
+  "text_sha": "9ff00f23706a9e95"
+ },
+ "price": 19000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 19000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "430",
+  "Modellår": "1979",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26752399",
+ "width_cm": 185,
+ "year": 1979
+}

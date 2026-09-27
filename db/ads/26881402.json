@@ -1,0 +1,87 @@
+{
+ "ad_id": 26881402,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790354406000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1987,
+  "boat_year_source": "spec",
+  "engine_hours": 85,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2017,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Suzuki 4T 50HK monterades 2017, gångtid 85 tim.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Alltid stått på trailer i varmgarage då den inte används Brendrup Bromsad 80-trailer Garmin 72cv 7tums GPS med sjökort …",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Alltid stått på trailer i varmgarage då den inte används Brendrup Bromsad 80-trailer Garmin 72cv 7tums GPS med sjökort …",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Alltid stått på trailer i varmgarage då den inte används Brendrup Bromsad 80-trailer Garmin 72cv 7tums GPS med sjökort …",
+    "included": true,
+    "kmh": 80,
+    "year": 2023
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Välvårdad Buster RS",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26881402/4ba55f8e-c115-4c63-8be0-031c741547e3",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.67293,
+ "length_ft": 15,
+ "location": "Gävle",
+ "lon": 17.06648,
+ "make": "Buster",
+ "max_speed": 33,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 403,
+  "fetched_ts": 1790508998301,
+  "text_sha": "fd294302ea0d9545"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Bredd": "172 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "RS",
+  "Modellår": "1987",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "33 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26881402",
+ "width_cm": 172,
+ "year": 1987
+}

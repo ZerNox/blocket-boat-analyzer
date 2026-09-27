@@ -1,0 +1,69 @@
+{
+ "ad_id": 25326256,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785672203000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha 2006  154 tim",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Yamaha 2[tel] tim",
+  "engine_year_source": "rule:spec",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Utter 560 med 70 hk yamaha",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25326256/af56189a-c6a4-40c4-a5d7-d3de436e7473",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.45004,
+ "length_ft": 18,
+ "location": "Gräsö",
+ "lon": 18.45358,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790507762557,
+  "text_sha": "5a6505b7cd0ee5d5"
+ },
+ "price": 63000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 63000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "560",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Yamaha 2006  154 tim",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25326256",
+ "width_cm": 220,
+ "year": 1985
+}

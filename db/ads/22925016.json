@@ -1,0 +1,106 @@
+{
+ "ad_id": 22925016,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789301414000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": 400,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2009,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn från 2009.",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "trailer": {
+    "evidence": "Båttrailer 80km.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "engine 2009 older than boat 2015"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 535DL",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22925016/c168cc62-1666-45a5-8774-db9a0138dc18",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.29627,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2015,
+   "engine_hours": 400,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": 2009,
+   "engine_year_evidence": "Motorn från 2009.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "156539e54713638a"
+ },
+ "location": "Vålberg",
+ "lon": 13.27895,
+ "make": "Ryds",
+ "max_speed": 24,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 309,
+  "fetched_ts": 1790507472328,
+  "text_sha": "156539e54713638a"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "535DL",
+  "Modellår": "2015",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Toppfart": "24 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22925016",
+ "width_cm": 0,
+ "year": 2015
+}

@@ -1,0 +1,100 @@
+{
+ "ad_id": 26411095,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788864592000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Jonsson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Motorbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26411095/7d46ab56-cffa-44de-ae08-86dfbd637607",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.29989,
+ "length_ft": 164,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2005,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Jonsson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "496f2a93e978f6fb"
+ },
+ "location": "Söderhamn",
+ "lon": 17.04934,
+ "make": "Ideal",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790508674759,
+  "text_sha": "496f2a93e978f6fb"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "VIT",
+  "Längd i fot": "164 fot",
+  "Modell": "500",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Jonsson",
+  "Märke": "Ideal",
+  "Sittplatser": "5",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26411095",
+ "width_cm": 0,
+ "year": 2005
+}

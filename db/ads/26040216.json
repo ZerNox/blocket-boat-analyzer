@@ -1,0 +1,106 @@
+{
+ "ad_id": 26040216,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787706652000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Det är självklart ingen sprillans ny båt och kärran har sina bruksspår, men båten har fått färg invändigt och har använ…",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 430 – båt, Mercury 2-takt & kärra ingår",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26040216/b1018760-05b3-49c3-8734-8585800834dc",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.40965,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 7.5,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d152508dd56c2772"
+ },
+ "location": "Karlstad",
+ "lon": 13.50566,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 7.5,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1380,
+  "fetched_ts": 1790508409292,
+  "text_sha": "d152508dd56c2772"
+ },
+ "price": 12990,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12990
+  }
+ ],
+ "specs": {
+  "Bredd": "155 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit/grå",
+  "Längd i fot": "14 fot",
+  "Modell": "430",
+  "Modellår": "1990",
+  "Motorstorlek": "7.5 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "5",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "160 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26040216",
+ "width_cm": 155,
+ "year": 1990
+}

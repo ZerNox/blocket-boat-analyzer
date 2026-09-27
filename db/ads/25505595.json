@@ -1,0 +1,79 @@
+{
+ "ad_id": 25505595,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790484518000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2024,
+  "boat_year_source": "spec",
+  "engine_hours": 14,
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2024,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "MICORE 48 SC HONDA 60 hk 2024.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Micore 48 SC med Honda 60 hk inkl. fin trailer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "MICORE 48 SC HONDA 60 hk 2024",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25505595/5c39efb7-d65f-45ab-9f39-c57cba32b6d9",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.62459,
+ "length_ft": 16,
+ "location": "Karlsborg",
+ "lon": 14.59772,
+ "make": "Micore",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 342,
+  "fetched_ts": 1790507931057,
+  "text_sha": "96bd682193c62d6d"
+ },
+ "price": 170000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 170000
+  }
+ ],
+ "specs": {
+  "Bredd": "204 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "29 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "48 SC",
+  "Modellår": "2024",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Micore",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "32 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "400 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25505595",
+ "width_cm": 204,
+ "year": 2024
+}

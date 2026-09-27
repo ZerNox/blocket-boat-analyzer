@@ -1,0 +1,88 @@
+{
+ "ad_id": 25717332,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786775352000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": 100,
+  "engine_maker": "Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten är ifrån 2004 och motorn från 2005, allt fungerar klanderfritt.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Priset är utan ekolod och elmotor, som eventuellt kan säljas separat.",
+    "included": false
+   },
+   "elmotor": {
+    "evidence": "Priset är utan ekolod och elmotor, som eventuellt kan säljas separat.",
+    "included": false
+   },
+   "kapell": {
+    "evidence": "Finns även ett kapell som täcker hela ovansidan på båten.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailern är en obromsad 80km/h vagn för 750kg.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder 460 Arkip med 60hk Mariner",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25717332/c79d8295-4bda-4573-92ef-7997bb47b878",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.89097,
+ "length_ft": 18,
+ "location": "Falkenberg",
+ "lon": 12.51181,
+ "make": "Linder",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 731,
+  "fetched_ts": 1790508125199,
+  "text_sha": "6494c71b92c9816a"
+ },
+ "price": 120000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 120000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "Arkip 460",
+  "Modellår": "2004",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "32 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25717332",
+ "width_cm": 0,
+ "year": 2004
+}

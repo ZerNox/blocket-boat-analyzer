@@ -1,0 +1,88 @@
+{
+ "ad_id": 25866621,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787205322000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": 50,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2025,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Honda BF50, årsmodell 2025, under 50 timmar",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "MultiSteer hydraulstyrning från 2025",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nytt kapell/överdrag 2025",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Nyrenoverad och besiktigad Fogelsta-trailer (bromsad) ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Micore 490 GT med nästan ny Honda BF50",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25866621/ab03e9fb-44ae-4d1c-9cbb-69721e443b18",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.96284,
+ "length_ft": 16,
+ "location": "Rönnäng",
+ "lon": 11.61833,
+ "make": "Micore",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 801,
+  "fetched_ts": 1790508264098,
+  "text_sha": "55e0c68dce64865d"
+ },
+ "price": 97000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 97000
+  }
+ ],
+ "specs": {
+  "Bredd": "187 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "490 GT",
+  "Modellår": "2004",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Micore",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "360 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25866621",
+ "width_cm": 187,
+ "year": 2004
+}

@@ -1,0 +1,87 @@
+{
+ "ad_id": 25343611,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785698881000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2020,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor Suzuki DF30A årsmodell 2020",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "- Gps + ekolod Garmin Echomap Plus 62cv (Oslo-Trelleborg).",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "- kapell.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "- Gps + ekolod Garmin Echomap Plus 62cv (Oslo-Trelleborg).",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fogelsta båttrailer / upptagningsvagn ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sandström 495 Classic S",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25343611/820c162f-2379-4786-b594-049adcac2bbe",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.11219,
+ "length_ft": 16,
+ "location": "Varberg",
+ "lon": 12.25468,
+ "make": "Sandström",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 519,
+  "fetched_ts": 1790507779351,
+  "text_sha": "57c2758d3bf028be"
+ },
+ "price": 105000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 105000
+  }
+ ],
+ "specs": {
+  "Bredd": "195 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "495 Classic",
+  "Modellår": "2020",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Sandström",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25343611",
+ "width_cm": 195,
+ "year": 2020
+}

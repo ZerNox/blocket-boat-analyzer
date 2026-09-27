@@ -1,0 +1,110 @@
+{
+ "ad_id": 25462756,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786888248000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2012,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod (Garmin Striker 4 Plus inköpt i somras) inkl. batteri kan säljas till för 2 000kr.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "ambiguous engine years [2012, 2024]"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "River 350 Yamaha 9,9/15/20hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25462756/8c6cafe4-3dfb-4234-b806-37782b26dbad",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.33862,
+ "length_ft": 12,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": null,
+   "engine_hours": null,
+   "engine_hp": 9.9,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Yamaha F9.9HMH 6CAK från 2012",
+   "engine_year_rejected": 2012,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ebab21501f3a5285"
+ },
+ "location": "Åsa",
+ "lon": 12.09418,
+ "make": "River",
+ "max_speed": 18,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1141,
+  "fetched_ts": 1790507893381,
+  "text_sha": "ebab21501f3a5285"
+ },
+ "price": 23000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 23000
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "20 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Röd",
+  "Längd i fot": "12 fot",
+  "Modell": "350",
+  "Modellår": "2012",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "River",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "18 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "75 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25462756",
+ "width_cm": 150,
+ "year": 2012
+}

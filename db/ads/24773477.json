@@ -1,0 +1,76 @@
+{
+ "ad_id": 24773477,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786179083000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": 24,
+  "engine_maker": "Susuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2017,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Perfekt motor från 2017 men endast gått 24 timmar!",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Enklare 30 kärra ingår",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Perfekt fiske, vattenlek och badbåt med motor som endast gått 24 timmar",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24773477/b5013e13-7c43-4fdf-8f2a-86d12034a589",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.2282,
+ "length_ft": 15,
+ "location": "Stånga",
+ "lon": 18.53472,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 305,
+  "fetched_ts": 1790507619362,
+  "text_sha": "ddd1ea212132eb31"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Bredd": "188 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "480",
+  "Modellår": "1988",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Susuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24773477",
+ "width_cm": 188,
+ "year": 1988
+}

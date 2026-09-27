@@ -1,0 +1,84 @@
+{
+ "ad_id": 24926019,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789974232000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": 1100,
+  "engine_maker": "Vetus M4.17",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Hon har utbytt motor höst/vinter 2003 till Vetus M4:17 42hk 1100 h (går som en klocka) och då byttes även propelleraxel, backslag och alla genomföringar.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Fräscht kapell med nya rutor och omsydda sömmar 2024 som varje år tvättas och impregneras.",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Indraget för landströms laddning 2021.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Albin 25 De Luxe -Ronja",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24926019/a0a27549-3da0-489b-84b6-d9a07813260f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.28365,
+ "length_ft": 25,
+ "location": "Enskededalen",
+ "lon": 18.10167,
+ "make": "Albin",
+ "max_speed": 8,
+ "motor_fuel": "Diesel",
+ "motor_size": 42.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 2020,
+  "fetched_ts": 1790507627579,
+  "text_sha": "dfbfb0e11a8d1862"
+ },
+ "price": 115000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 115000
+  }
+ ],
+ "specs": {
+  "Bredd": "260 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit",
+  "Längd i fot": "25 fot",
+  "Modell": "Albin 25 De Luxe",
+  "Modellår": "1975",
+  "Motorstorlek": "42 hk",
+  "Motortillverkare": "Vetus M4.17",
+  "Motortyp": "Inombordare",
+  "Märke": "Albin",
+  "Sittplatser": "8",
+  "Sovplatser": "5",
+  "Toppfart": "8 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "1 600 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24926019",
+ "width_cm": 260,
+ "year": 1975
+}

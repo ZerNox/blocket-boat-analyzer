@@ -1,0 +1,104 @@
+{
+ "ad_id": 23373905,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789379352000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "jösättning. Enl. typskylt max 25 hk utombordare. Tillverkningsår okänd. Kärra ingår ej.",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Kärra ingår ej.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Stabil båt för utombordare",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23373905/bb3de8c0-98b6-49bb-8c04-940ad0c7f37e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.39406,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 25,
+   "engine_maker": "Övriga",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "30d9844a47bc375f"
+ },
+ "location": "Öxabäck",
+ "lon": 12.82415,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 25.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 198,
+  "fetched_ts": 1790507495876,
+  "text_sha": "30d9844a47bc375f"
+ },
+ "price": 7900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7900
+  }
+ ],
+ "specs": {
+  "Bredd": "183 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "Öppen för utombordare",
+  "Modellår": "2000",
+  "Motor inkluderad": "Nej",
+  "Motorstorlek": "25 hk",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23373905",
+ "width_cm": 183,
+ "year": 2000
+}

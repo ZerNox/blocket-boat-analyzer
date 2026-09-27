@@ -1,0 +1,110 @@
+{
+ "ad_id": 25378347,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786396984000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": 227,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod: garmin striker följer med.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Körkapell i bra skick följer med, perfekt om det regnar eller man bara vill ha lite skugga.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Yamarin 50SC/Yamaha 60hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25378347/9dd5c228-776c-4bdd-a687-822ceba2e3a2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.52214,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2007,
+   "engine_hours": 227,
+   "engine_hp": 60,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Gångtid motor: 227timmar",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7463865005fdae3b"
+ },
+ "location": "Kinna",
+ "lon": 12.72569,
+ "make": "Yamarin",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 935,
+  "fetched_ts": 1790507821590,
+  "text_sha": "7463865005fdae3b"
+ },
+ "price": 104900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 104900
+  }
+ ],
+ "specs": {
+  "Bredd": "204 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "50 SC",
+  "Modellår": "2007",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25378347",
+ "width_cm": 204,
+ "year": 2007
+}

@@ -1,0 +1,116 @@
+{
+ "ad_id": 25826368,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787066934000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Utrustning: Minn Kota Terrova BT, Ekolod Garmin UHD 92 SV, Komplett dynsats (vit), 2 st fendrar, Ankare, Kapell, Lanter…",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Utrustning: Minn Kota Terrova BT, Ekolod Garmin UHD 92 SV, Komplett dynsats (vit), 2 st fendrar, Ankare, Kapell, Lanter…",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Utrustning: Minn Kota Terrova BT, Ekolod Garmin UHD 92 SV, Komplett dynsats (vit), 2 st fendrar, Ankare, Kapell, Lanter…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Utrustning: Minn Kota Terrova BT, Ekolod Garmin UHD 92 SV, Komplett dynsats (vit), 2 st fendrar, Ankare, Kapell, Lanter…",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 478 GT -06",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25826368/70a8b15e-9c52-4791-aab4-7dc0fddbc982",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.0435,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7d7c266329e0f218"
+ },
+ "location": "Hagfors",
+ "lon": 13.67937,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 209,
+  "fetched_ts": 1790508225505,
+  "text_sha": "7d7c266329e0f218"
+ },
+ "price": 120000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 120000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "478 GT",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25826368",
+ "width_cm": 0,
+ "year": 2006
+}

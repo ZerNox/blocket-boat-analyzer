@@ -1,0 +1,114 @@
+{
+ "ad_id": 25773702,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786902637000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": 355,
+  "engine_maker": "Yamaha F50",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "50 AETL, 355 gångtimmar. Nytt drev och propeller för några år sedan, båten har inte körts mycket sedan dess. Ny impeller",
+  "engine_type_source": "llm",
+  "engine_year": 2001,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt från 1996, motor från 2001.",
+  "engine_year_source": "rule:text?",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Hummingbird Helix G3 ekolod (Dual Spectrum CHIRP fishfinder).",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin GPSMAP 620 inkl.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Behöver renovering av bromsar men kan köras som obromsat 30 släp.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "declared outboard but text says 'drev'"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster L",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25773702/6e52c072-b828-4f04-8d95-182b9b28fa24",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.27932,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1996,
+   "engine_hours": 355,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Fyrtaktsmotor Yamaha F50 AETL, 355 gångtimmar. Nytt drev och propeller för några år sedan, båten har inte körts mycket sedan dess.",
+   "engine_year_rejected": 2001,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "15db5562518a8256"
+ },
+ "location": "Älvsjö",
+ "lon": 17.98193,
+ "make": "Buster",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 800,
+  "fetched_ts": 1790508177907,
+  "text_sha": "15db5562518a8256"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "L",
+  "Modellår": "1996",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha F50",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25773702",
+ "width_cm": 0,
+ "year": 1996
+}

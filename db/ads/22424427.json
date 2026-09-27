@@ -1,0 +1,110 @@
+{
+ "ad_id": 22424427,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789300262000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": 67,
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell 2025.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "KG Vene Ninja",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22424427/d05340a8-ffb0-48d9-84a4-e376ffbfff6d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.83798,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1995,
+   "engine_hours": 67,
+   "engine_hp": 50,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor är nyservad och har endast gått 67 timmar.",
+   "engine_year_rejected": 2023,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0ef7fdf2cdf0aff5"
+ },
+ "location": "Uppsala",
+ "lon": 17.63782,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 82,
+  "fetched_ts": 1790507454028,
+  "text_sha": "0ef7fdf2cdf0aff5"
+ },
+ "price": 69000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "Ninja",
+  "Modellår": "1995",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22424427",
+ "width_cm": 0,
+ "year": 1995
+}

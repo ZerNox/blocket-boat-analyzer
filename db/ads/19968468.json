@@ -1,0 +1,98 @@
+{
+ "ad_id": 19968468,
+ "boat_class": "Annat",
+ "changed_ts": 1790408286000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1973,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Md21b",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1973,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Tresfjord 26",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/19968468/b13d52ce-f232-47e8-86b7-387a7659afe2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.5327,
+ "length_ft": 26,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1973,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Md21b",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a19f96af4e7e6648"
+ },
+ "location": "Laholm",
+ "lon": 13.15003,
+ "make": "Tresfjord",
+ "max_speed": 8,
+ "motor_fuel": "Diesel",
+ "motor_size": 70.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790507417446,
+  "text_sha": "a19f96af4e7e6648"
+ },
+ "price": 79000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 79000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "26 fot",
+  "Modellår": "1973",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Md21b",
+  "Motortyp": "Inombordare",
+  "Märke": "Tresfjord",
+  "Toppfart": "8 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/19968468",
+ "width_cm": 0,
+ "year": 1973
+}

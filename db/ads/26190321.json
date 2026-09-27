@@ -1,0 +1,88 @@
+{
+ "ad_id": 26190321,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788167682000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Välutrustad BUSTER Lx med Yamaha F60 4-takt årsmodell 2011.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Dynsats, akterkapell och skyddsöverdrag för stolarna.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance Elite 5m kartplotter (ej Lowrance som syns på båtbilden).",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "EU-trailer",
+    "included": true,
+    "kmh": 80,
+    "year": 2026
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster Lx, Yamaha F60, inkl. EU-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26190321/6007f766-eb44-4678-b3d9-4b90527d3627",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.87545,
+ "length_ft": 16,
+ "location": "Uppsala",
+ "lon": 17.63026,
+ "make": "Buster",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 589,
+  "fetched_ts": 1790508508241,
+  "text_sha": "56f2c5c547990672"
+ },
+ "price": 175000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 175000
+  }
+ ],
+ "specs": {
+  "Bredd": "199 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå/Silver",
+  "Längd i fot": "16 fot",
+  "Modell": "Lx",
+  "Modellår": "2011",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "440 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26190321",
+ "width_cm": 199,
+ "year": 2011
+}

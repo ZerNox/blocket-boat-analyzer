@@ -1,0 +1,107 @@
+{
+ "ad_id": 24086266,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786891635000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": 30,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2023,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Terhi 385 med Ny Mercury utombordare (30 timmar) och kärra",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Terhi 385 med Ny Mercury utombordare (30 timmar) och kärra",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24086266/2c843a76-d23a-4c6d-89c1-62e4e4294a5d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.50932,
+ "length_ft": 12,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2023,
+   "engine_hours": 30,
+   "engine_hp": 4,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Inköpt 2[tel]",
+   "engine_year_rejected": 2023,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "903e691b764d82a2"
+ },
+ "location": "Kungsbacka",
+ "lon": 12.20968,
+ "make": "Terhi",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 4.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 981,
+  "fetched_ts": 1790507569235,
+  "text_sha": "903e691b764d82a2"
+ },
+ "price": 19900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 19900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "12 fot",
+  "Modell": "385",
+  "Modellår": "2023",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "4 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Terhi",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "98 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24086266",
+ "width_cm": 0,
+ "year": 2023
+}

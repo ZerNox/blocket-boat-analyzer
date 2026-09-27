@@ -1,0 +1,122 @@
+{
+ "ad_id": 24560215,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789533965000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2025,
+  "boat_year_source": "spec",
+  "engine_hours": 16,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2025,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Senaste service maj på auktoriserad verkstad Gångtimmar ca 16h Alumacraft 165 cs Mercury 60 hk Fogelsta 201100B ASR X B…",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Senaste service maj på auktoriserad verkstad Gångtimmar ca 16h Alumacraft 165 cs Mercury 60 hk Fogelsta 201100B ASR X B…",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Biminitopp med fäste på alumatracks finns.",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Senaste service maj på auktoriserad verkstad Gångtimmar ca 16h Alumacraft 165 cs Mercury 60 hk Fogelsta 201100B ASR X B…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båten står på en underbar trailer som är en fröjd och påkostad.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "ALUMACRAFT CLASSIC 165 CS -som nytt. Hödtklipp",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24560215/b7e05b4e-6450-4e95-b1e7-8aa86bc9559a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.77578,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2025,
+   "engine_hours": 16,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "4a0852852186fb3f"
+ },
+ "location": "Jönköping",
+ "lon": 14.18332,
+ "make": "Alumacraft",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1053,
+  "fetched_ts": 1790507604786,
+  "text_sha": "4a0852852186fb3f"
+ },
+ "price": 275000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 275000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Svart",
+  "Längd i fot": "16 fot",
+  "Modell": "Classic Cs 165",
+  "Modellår": "2025",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Alumacraft",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24560215",
+ "width_cm": 210,
+ "year": 2025
+}

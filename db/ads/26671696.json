@@ -1,0 +1,101 @@
+{
+ "ad_id": 26671696,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789669409000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "evenrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1999,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "* Upptagningsvagn/båtvagn",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fin 14-fots båt med Evinrude 6 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26671696/bd098045-64d9-4d33-a0fa-fdffff5d1db0",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.99913,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1999,
+   "engine_hours": null,
+   "engine_hp": 6,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorstorlek: 6 hk Motortillverkare: evenrude Motortyp: Utombordare",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6541bee7659ea63f"
+ },
+ "location": "Moheda",
+ "lon": 14.58267,
+ "make": "Caravelle",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 434,
+  "fetched_ts": 1790508861955,
+  "text_sha": "6541bee7659ea63f"
+ },
+ "price": 9900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modellår": "1999",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "evenrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Caravelle",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26671696",
+ "width_cm": 0,
+ "year": 1999
+}

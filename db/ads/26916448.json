@@ -1,0 +1,101 @@
+{
+ "ad_id": 26916448,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790455551000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 4200, Mercury 3,3hp",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26916448/46e2e39c-bdc6-4372-8955-569d886c11d7",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.03565,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 3.3,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "acc1749e5eadc9a9"
+ },
+ "location": "Lesjöfors",
+ "lon": 14.17114,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 3.299999952316284,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 412,
+  "fetched_ts": 1790509027389,
+  "text_sha": "acc1749e5eadc9a9"
+ },
+ "price": 6000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 6000
+  }
+ ],
+ "specs": {
+  "Bredd": "165 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "4200",
+  "Modellår": "1990",
+  "Motorstorlek": "3.3 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26916448",
+ "width_cm": 165,
+ "year": 1990
+}

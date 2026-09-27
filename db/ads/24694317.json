@@ -1,0 +1,80 @@
+{
+ "ad_id": 24694317,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788839696000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor: Mercury 60hk (2-takt) från 2004.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Helt nytt ekolod medföljer.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Crescent 542 Bamse med Mercury 60hk & reggad 80-trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 542 Bamse med Mercury 60hk & reggad 80-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24694317/3046c804-d7a2-4874-b0da-e055a80d94eb",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.6903,
+ "length_ft": 18,
+ "location": "Mariestad",
+ "lon": 13.80403,
+ "make": "Crescent",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 579,
+  "fetched_ts": 1790507613508,
+  "text_sha": "7244d119e47b8806"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "542 Bamse",
+  "Modellår": "1900",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24694317",
+ "width_cm": 0,
+ "year": 1900
+}

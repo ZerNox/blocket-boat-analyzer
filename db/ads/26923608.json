@@ -1,0 +1,105 @@
+{
+ "ad_id": 26923608,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790500758000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Flipper 420 med 4hk Mariner och släp",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Flipper 420 med 4hk Mariner och släp",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26923608/4b1ff36e-1bb5-44b1-8757-14ce97a0cf3d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.4994,
+ "length_ft": 4,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 4,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1f2ba13116c46d5a"
+ },
+ "location": "Täby",
+ "lon": 18.08837,
+ "make": "Flipper",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 4.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 266,
+  "fetched_ts": 1790509031508,
+  "text_sha": "1f2ba13116c46d5a"
+ },
+ "price": 9500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9500
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "4 fot",
+  "Modell": "420",
+  "Modellår": "1980",
+  "Motorstorlek": "4 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "120 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26923608",
+ "width_cm": 160,
+ "year": 1980
+}

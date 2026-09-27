@@ -1,0 +1,75 @@
+{
+ "ad_id": 26823869,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790166930000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1993,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2002,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor från 2002.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Äldre 30 km/h kärra ingår.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crecent 465 med 30 hp Mercury",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26823869/4132c201-ef0f-48d2-a74e-420ae8ebb860",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.99451,
+ "length_ft": 15,
+ "location": "Skärhamn",
+ "lon": 11.54238,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 148,
+  "fetched_ts": 1790508956047,
+  "text_sha": "d956fc31f6ade8f7"
+ },
+ "price": 11000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 11000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "465",
+  "Modellår": "1993",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26823869",
+ "width_cm": 0,
+ "year": 1993
+}

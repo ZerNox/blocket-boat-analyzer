@@ -1,0 +1,75 @@
+{
+ "ad_id": 25323074,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785665903000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1993,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2000,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "25 hk från år 2000 som går fint.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "30 km/h kärra och manuell länspump, ankare och diverse trossar följer med.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fritidsbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25323074/a02344fd-61f2-4869-9f2f-1ea2033b56dd",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.30407,
+ "length_ft": 14,
+ "location": "Söderhamn",
+ "lon": 17.05977,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 199,
+  "fetched_ts": 1790507758272,
+  "text_sha": "150b8a882313de30"
+ },
+ "price": 17000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 17000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modellår": "1993",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Askeladden",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25323074",
+ "width_cm": 0,
+ "year": 1993
+}

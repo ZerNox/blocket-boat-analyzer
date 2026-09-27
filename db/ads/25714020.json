@@ -1,0 +1,74 @@
+{
+ "ad_id": 25714020,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786737992000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1980,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är en Yamaha 50hk 2-takt från 1980 som startar och går fint.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "plotter": {
+    "evidence": "-Garmin plotter (behövs sjökort för Stockholms skärgård)",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Styrpulpet med Yamaha 50hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25714020/2b90c1e0-c15f-444f-9e4e-765cc25fb8d1",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.52119,
+ "length_ft": 15,
+ "location": "Upplands Väsby",
+ "lon": 17.95603,
+ "make": "Uttern",
+ "max_speed": 29,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 730,
+  "fetched_ts": 1790508116465,
+  "text_sha": "48020308394ea41f"
+ },
+ "price": 34500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 34500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modellår": "1980",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "3",
+  "Toppfart": "29 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25714020",
+ "width_cm": 0,
+ "year": 1980
+}

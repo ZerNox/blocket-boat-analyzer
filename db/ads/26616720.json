@@ -1,0 +1,107 @@
+{
+ "ad_id": 26616720,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789487025000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "Evinrude utan E-TEC tillverkades till 2007",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Obromsad kärra för dragkrok ingår",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 325 mindre båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26616720/6ff21412-8376-422e-9815-92ff32dfcca9",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.23034,
+ "length_ft": 11,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2015,
+   "engine_hours": null,
+   "engine_hp": 3,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c60e9adf3e0495a6"
+ },
+ "location": "Kilafors",
+ "lon": 16.58124,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 3.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 209,
+  "fetched_ts": 1790508826676,
+  "text_sha": "c60e9adf3e0495a6"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "135 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "11 fot",
+  "Modell": "325",
+  "Modellår": "2015",
+  "Motorstorlek": "3 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "65 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26616720",
+ "width_cm": 135,
+ "year": 2015
+}

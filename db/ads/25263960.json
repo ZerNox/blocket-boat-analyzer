@@ -1,0 +1,108 @@
+{
+ "ad_id": 25263960,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785484063000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2024,
+  "boat_year_source": "spec",
+  "engine_hours": 5,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2024,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Ingår åror motorlås.kan även ingå båtkärra 30 km vid snabb affär.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Säljes",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25263960/1f3ab83b-2163-4031-8437-4d9192ec8893",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.05285,
+ "length_ft": 8,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2024,
+   "engine_hours": 5,
+   "engine_hp": 6,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Gångtid ca.5 Tim.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b019d59b5ed24848"
+ },
+ "location": "Hjälteby",
+ "lon": 11.70749,
+ "make": "Pioner",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 188,
+  "fetched_ts": 1790507700639,
+  "text_sha": "b019d59b5ed24848"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Bredd": "155 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Röd",
+  "Längd i fot": "8 fot",
+  "Modell": "13",
+  "Modellår": "2024",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Pioner",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "155 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25263960",
+ "width_cm": 155,
+ "year": 2024
+}

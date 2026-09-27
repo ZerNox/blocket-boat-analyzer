@@ -1,0 +1,88 @@
+{
+ "ad_id": 25671361,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786724587000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": 72,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2020,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer ett färdigt paket, en Finnark 425 ålder okänt med en Yamaha 50 HP från 2020, gångtid 72 Tim i skrivande stund, nyservad toppar 30+ knop, trailer Tiki BE600-R besiktad förra…",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Säljer ett färdigt paket, en Finnark 425 ålder okänt med en Yamaha 50 HP från 2020, gångtid 72 Tim i skrivande stund, n…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Säljer ett färdigt paket, en Finnark 425 ålder okänt med en Yamaha 50 HP från 2020, gångtid 72 Tim i skrivande stund, n…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Säljer ett färdigt paket, en Finnark 425 ålder okänt med en Yamaha 50 HP från 2020, gångtid 72 Tim i skrivande stund, n…",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Finnark 425",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25671361/9c72450c-13ff-4ce2-9118-d97bec2d6c86",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.01616,
+ "length_ft": 14,
+ "location": "Rottne",
+ "lon": 14.89221,
+ "make": "Övriga",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 617,
+  "fetched_ts": 1790508083407,
+  "text_sha": "e350fcd6833189e2"
+ },
+ "price": 59900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 59900
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå",
+  "Längd i fot": "14 fot",
+  "Modell": "425",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "150 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25671361",
+ "width_cm": 160,
+ "year": 1980
+}

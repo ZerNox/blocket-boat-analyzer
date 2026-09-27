@@ -1,0 +1,105 @@
+{
+ "ad_id": 26307509,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788554588000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår ej.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Kevo 500 walkaround/fiskebåt Mercury 60 2takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26307509/17b3d5c0-199d-4f0e-bcd5-822c0b9b299f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.93254,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Utombordare Motortillverkare: Mercury Motortyp: Utombordare Motorstorlek: 60 hk Motorn är en Mercury 60 2 takt från 00.",
+   "engine_year_rejected": 2000,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3b9a6bf4a3887048"
+ },
+ "location": "Nynäshamn",
+ "lon": 17.95486,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 268,
+  "fetched_ts": 1790508589095,
+  "text_sha": "3b9a6bf4a3887048"
+ },
+ "price": 39000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 39000
+  }
+ ],
+ "specs": {
+  "Bredd": "216 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "Kevo 500 walkaround/fiskebåt",
+  "Modellår": "2000",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26307509",
+ "width_cm": 216,
+ "year": 2000
+}

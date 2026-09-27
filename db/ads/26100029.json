@@ -1,0 +1,85 @@
+{
+ "ad_id": 26100029,
+ "boat_class": "Annat",
+ "changed_ts": 1788971357000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury 1999",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1999,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Mercury 1999",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell finns men är i dåligt skick och bör bytas.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds Hajen HT 495 med trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds Hajen HT 495 med trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26100029/211165cd-c8d0-4a85-b598-4ff70831d37d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.46644,
+ "length_ft": 16,
+ "location": "Åkersberga",
+ "lon": 18.25032,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 404,
+  "fetched_ts": 1790508460252,
+  "text_sha": "1f5b064c8eab8a3b"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Bredd": "190 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "80 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit med blått kapell",
+  "Längd i fot": "16 fot",
+  "Modell": "Hajen HT 495",
+  "Modellår": "1977",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mercury 1999",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Typ": "Annat",
+  "Vikt": "450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26100029",
+ "width_cm": 190,
+ "year": 1977
+}

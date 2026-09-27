@@ -1,0 +1,110 @@
+{
+ "ad_id": 25718093,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786777313000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2023,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "1 år gammal minnkota terrova ingår.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fogelsta 80 kärra 2023",
+    "included": true,
+    "kmh": 80,
+    "year": 2023
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder arkip 460     (70hk)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25718093/eb7078dd-bf92-480c-96b9-abc482e10d1d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.81181,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2023,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7988282a24cad033"
+ },
+ "location": "Hökerum",
+ "lon": 13.26983,
+ "make": "Linder",
+ "max_speed": 37,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 292,
+  "fetched_ts": 1790508126538,
+  "text_sha": "7988282a24cad033"
+ },
+ "price": 243000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 243000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "460 arkip",
+  "Modellår": "2023",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "37 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25718093",
+ "width_cm": 0,
+ "year": 2023
+}

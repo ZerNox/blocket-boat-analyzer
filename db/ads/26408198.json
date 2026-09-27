@@ -1,0 +1,107 @@
+{
+ "ad_id": 26408198,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788806494000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": 170,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2016,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod Garmin",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30 km trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent Arrow 518",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26408198/1300a974-070d-4d3c-9871-b243bc138f6f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 55.49237,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2016,
+   "engine_hours": 170,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Yamahamotor 50 hk 170 h 4-takt",
+   "engine_year_rejected": 2017,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e2096baa70061ff1"
+ },
+ "location": "Vellinge",
+ "lon": 13.01171,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 118,
+  "fetched_ts": 1790508669014,
+  "text_sha": "e2096baa70061ff1"
+ },
+ "price": 99000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 99000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modellår": "2016",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26408198",
+ "width_cm": 0,
+ "year": 2016
+}

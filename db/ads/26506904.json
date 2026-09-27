@@ -1,0 +1,104 @@
+{
+ "ad_id": 26506904,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789140611000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1960,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda 4-takt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1960,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Hämtas på Västra Orust, inkl äldre trailer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Småbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26506904/6db534f7-eca8-41ba-b4fe-6b93bd5dc74a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.17531,
+ "length_ft": 420,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1960,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Honda 4-takt",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Nyservad motor",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7a115ff7867bc6f3"
+ },
+ "location": "Ellös",
+ "lon": 11.53211,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 96,
+  "fetched_ts": 1790508750161,
+  "text_sha": "7a115ff7867bc6f3"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "420 fot",
+  "Modellår": "1960",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Honda 4-takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Askeladden",
+  "Sittplatser": "5",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26506904",
+ "width_cm": 180,
+ "year": 1960
+}

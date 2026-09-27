@@ -1,0 +1,117 @@
+{
+ "ad_id": 25596760,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786994431000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": 156,
+  "engine_maker": "Yamaha F60FETL",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2015,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "- Hamnkapell och som även kan täckas för när man kör (akterkapell)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Medföljer Garmin GPS, ankare med kätting, tampar, fendrar, mm.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30 kärra kan köpas till vid intresse.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Finnmaster 52 SC + Yamaha F60FETL",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25596760/e099cae4-7b6c-4058-8a34-6fbccf0bd32c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.74116,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2015,
+   "engine_hours": 156,
+   "engine_hp": 60,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn är nyligen servad + kamremsbyte juni 2026.",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e2a7a78bd5cfd9f9"
+ },
+ "location": "Norrtälje",
+ "lon": 18.94242,
+ "make": "Finnmaster",
+ "max_speed": 29,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 601,
+  "fetched_ts": 1790508037789,
+  "text_sha": "e2a7a78bd5cfd9f9"
+ },
+ "price": 160000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 160000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "65 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "52 SC",
+  "Modellår": "2015",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha F60FETL",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnmaster",
+  "Sittplatser": "6",
+  "Toppfart": "29 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "580 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25596760",
+ "width_cm": 200,
+ "year": 2015
+}

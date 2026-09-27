@@ -1,0 +1,114 @@
+{
+ "ad_id": 25775918,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786905327000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": 230,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2021,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin 12” och Garmin 9” ekolod",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Motorguide ix3 12v",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Dynsats finns till bänken bak samt hamnkapell",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer är en respo 750V571T209 har monterat en elvinsch",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Vboat fish 46",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25775918/21c647a7-cfb3-4d41-b3bf-b5a580aacfb7",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.17089,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2021,
+   "engine_hours": 230,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "included",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d2ba5eed4bf4de13"
+ },
+ "location": "Nykvarn",
+ "lon": 17.42843,
+ "make": "V-Boats",
+ "max_speed": 32,
+ "motor_fuel": null,
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 537,
+  "fetched_ts": 1790508181799,
+  "text_sha": "d2ba5eed4bf4de13"
+ },
+ "price": 260000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 260000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modell": "Fish 46",
+  "Modellår": "2021",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "V-Boats",
+  "Toppfart": "32 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25775918",
+ "width_cm": 0,
+ "year": 2021
+}

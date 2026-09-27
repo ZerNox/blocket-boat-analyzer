@@ -1,0 +1,104 @@
+{
+ "ad_id": 26407956,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788806554000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår EJ!!!",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fletcher",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26407956/5faa40d3-5345-4062-bfa4-46354db22a56",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.37579,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 55,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Nyckelfunktionen är trasig o har ersatts med startknapp, motor startar o går utan problem. (The ad does not explicitly state the engine year, only that it is new.)",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "adb441181f460239"
+ },
+ "location": "Östra Ryd",
+ "lon": 16.19021,
+ "make": "Fletcher",
+ "max_speed": 29,
+ "motor_fuel": "Bensin",
+ "motor_size": 55.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 330,
+  "fetched_ts": 1790508665273,
+  "text_sha": "adb441181f460239"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Gul",
+  "Längd i fot": "15 fot",
+  "Modellår": "2000",
+  "Motorstorlek": "55 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Fletcher",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "29 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26407956",
+ "width_cm": 0,
+ "year": 2000
+}

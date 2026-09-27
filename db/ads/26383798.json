@@ -1,0 +1,69 @@
+{
+ "ad_id": 26383798,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789223494000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2014,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Stabil båt säljes med Honda 8 hk motor från 2014.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 4,95 m med Honda 8 HK motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26383798/da1a0a96-b1cf-41e6-9efd-9b37e34c1c2f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.69472,
+ "length_ft": 16,
+ "location": "Gävle",
+ "lon": 17.14979,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 8.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 283,
+  "fetched_ts": 1790508650134,
+  "text_sha": "3ef946a5bf674706"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "8 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26383798",
+ "width_cm": 185,
+ "year": 1980
+}

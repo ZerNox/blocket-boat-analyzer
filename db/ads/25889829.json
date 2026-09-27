@@ -1,0 +1,80 @@
+{
+ "ad_id": 25889829,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787255775000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer Easyline ( Brenderup) Eu trailer 80kmh",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Askeladden 430 ST",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25889829/8d658713-673a-4748-ba42-b149e8a4cf8f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.14724,
+ "length_ft": 14,
+ "location": "Hässleholm",
+ "lon": 13.77654,
+ "make": "Askeladden",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 329,
+  "fetched_ts": 1790508282651,
+  "text_sha": "607c7bdd83154ed5"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Bredd": "178 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit och blå",
+  "Längd i fot": "14 fot",
+  "Modell": "430 ST",
+  "Modellår": "2006",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Askeladden",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "20 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "220 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25889829",
+ "width_cm": 178,
+ "year": 2006
+}

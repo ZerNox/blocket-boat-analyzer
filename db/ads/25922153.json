@@ -1,0 +1,102 @@
+{
+ "ad_id": 25922153,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788501855000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "5,5 meters båt med 10 hk tohatsu från 2007, 30 vagn Fogelsta för båtar upp till 6 meter från 2015.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Båtvagn och motor i mycket bra skick.",
+    "included": true,
+    "kmh": 30,
+    "year": 2015
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25922153/b44edcf0-f5f2-492a-9ef0-4be958759b91",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.91911,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 10,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": 2007,
+   "engine_year_evidence": "5,5 meters båt med 10 hk tohatsu från 2007, 30 vagn Fogelsta för båtar upp till 6 meter från 2015.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "641648591ad391a6"
+ },
+ "location": "Vännäs",
+ "lon": 19.58413,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 9.800000190734863,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 166,
+  "fetched_ts": 1790508303391,
+  "text_sha": "641648591ad391a6"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modellår": "1990",
+  "Motorstorlek": "9.8 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25922153",
+ "width_cm": 0,
+ "year": 1990
+}

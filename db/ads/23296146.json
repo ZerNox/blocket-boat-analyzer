@@ -1,0 +1,99 @@
+{
+ "ad_id": 23296146,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786294838000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki 65",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "STOR STYRPULPT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23296146/9ea3d0ac-5833-4c9c-854e-111e4e8acf39",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.44462,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1995,
+   "engine_hours": null,
+   "engine_hp": 65,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7e5cc747e7a56c9e"
+ },
+ "location": "Köping",
+ "lon": 15.9571,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 65.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 57,
+  "fetched_ts": 1790507487151,
+  "text_sha": "7e5cc747e7a56c9e"
+ },
+ "price": 47000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 47000
+  }
+ ],
+ "specs": {
+  "Bredd": "218 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modellår": "1995",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "65 hk",
+  "Motortillverkare": "Suzuki 65",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23296146",
+ "width_cm": 218,
+ "year": 1995
+}

@@ -1,0 +1,126 @@
+{
+ "ad_id": 26430829,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789490873000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1997,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1997,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod/plotter: Klassiska Lowrance LCX‑27c med givare för dubbla frekvenser 50 o 200kHz (sjökort för västra Sverige och…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ekolod/plotter: Klassiska Lowrance LCX‑27c med givare för dubbla frekvenser 50 o 200kHz (sjökort för västra Sverige och…",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "VHF‑radio: Uniden",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Beneteau Antares 550 Calanque + Yamaha F80 + Trailer 80km/h bromsad",
+    "included": true,
+    "kmh": 80
+   },
+   "vhf": {
+    "evidence": "VHF‑radio: Uniden",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Beneteau Antares 550 Calanque + Yamaha F80 + Trailer 80km/h bromsad",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26430829/bd2d4a55-66c6-4c2b-b91c-da9a7bb74efb",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.49645,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1997,
+   "engine_hours": null,
+   "engine_hp": 80,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "included",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d51e29e35a45729d"
+ },
+ "location": "Lidköping",
+ "lon": 13.11352,
+ "make": "Beneteau",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 202,
+  "fetched_ts": 1790508687345,
+  "text_sha": "d51e29e35a45729d"
+ },
+ "price": 119000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 119000
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "Antares 550 Calanque",
+  "Modellår": "1997",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Beneteau",
+  "Sittplatser": "4",
+  "Sovplatser": "2",
+  "Toppfart": "25 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "750 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26430829",
+ "width_cm": 230,
+ "year": 1997
+}

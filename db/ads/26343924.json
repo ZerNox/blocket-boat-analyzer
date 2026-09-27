@@ -1,0 +1,109 @@
+{
+ "ad_id": 26343924,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788628947000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": 10,
+  "engine_maker": "parsun",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2016,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Komplett Gummibåtspaket med motor och 80km/tim trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Komplett Gummibåtspaket med motor och 80km/tim trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26343924/6307f75d-2591-4c47-96bd-9727bb8b52d0",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.20563,
+ "length_ft": 12,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2016,
+   "engine_hours": null,
+   "engine_hp": 20,
+   "engine_maker": "Parsun",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8bbe6620677b94ba"
+ },
+ "location": "Hammarö",
+ "lon": 13.54259,
+ "make": "Quicksilver",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1622,
+  "fetched_ts": 1790508612592,
+  "text_sha": "8bbe6620677b94ba"
+ },
+ "price": 42000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 42000
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Grön",
+  "Längd i fot": "12 fot",
+  "Modell": "Mercury /Quicksilver 365 Heavy Duty / Sport",
+  "Modellår": "2016",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "parsun",
+  "Motortyp": "Utombordare",
+  "Märke": "Quicksilver",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "85 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26343924",
+ "width_cm": 170,
+ "year": 2016
+}

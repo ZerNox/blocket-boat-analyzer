@@ -1,0 +1,103 @@
+{
+ "ad_id": 26875619,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1790342402000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1994,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Jonsson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1994,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Servad i somras nu olja och impeller nytt batteri ,hydraulisk styrning, el tilt",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 485 DL",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26875619/1045a5fd-c92c-4303-b786-c3f58859d882",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.34507,
+ "length_ft": 485,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1994,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Jonsson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "840bae87d3a25bb8"
+ },
+ "location": "Tierp",
+ "lon": 17.50974,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 160,
+  "fetched_ts": 1790508992583,
+  "text_sha": "840bae87d3a25bb8"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "485 fot",
+  "Modell": "485DL",
+  "Modellår": "1994",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Jonsson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26875619",
+ "width_cm": 0,
+ "year": 1994
+}

@@ -1,0 +1,82 @@
+{
+ "ad_id": 25510995,
+ "boat_class": "Annat",
+ "changed_ts": 1788856328000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1963,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury Thunderbolt 350 -61",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1961,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Mercury Thunderbolt 350 -61",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "kapell": {
+    "evidence": "Ej varit i drift på 6 år då Kapellmakeriet tog lång tid på sig att fixa ”covern”.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Med dess 3,5x1,5 meter i ett alldeles strålande skick är detta en riktig ”Eyecatcher” på släp eller i vardagsrummet ell…",
+    "included": true,
+    "year": 1973
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Unik Retro Ragette Speedster MahognyRacer -63 Vit Mercury Thunderbolt-61",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25510995/0d8f4243-157b-4c7a-8e2f-23f2381d53df",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.27236,
+ "length_ft": 12,
+ "location": "Lysekil",
+ "lon": 11.41926,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 45.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1277,
+  "fetched_ts": 1790507940868,
+  "text_sha": "69367aff50688d05"
+ },
+ "price": 147000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 147000
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "12 fot",
+  "Modell": "Ragette Speedster",
+  "Modellår": "1963",
+  "Motorstorlek": "45 hk",
+  "Motortillverkare": "Mercury Thunderbolt 350 -61",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Trä",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25510995",
+ "width_cm": 150,
+ "year": 1963
+}

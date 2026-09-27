@@ -1,0 +1,102 @@
+{
+ "ad_id": 22886766,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788256234000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1955,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Seffle S15 BFV",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1955,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Lidwalls BVV - 10 nr 254  SIGVARD med Sefflemotor och spel. K-märkt HÖSTPRIS",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22886766/ce9fdd56-e325-4755-a9ca-174702da69d8",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.78463,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1955,
+   "engine_hours": null,
+   "engine_hp": 10,
+   "engine_maker": "Seffle",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "908cd943695a9c6d"
+ },
+ "location": "Leksand",
+ "lon": 15.09967,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": 10.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 540,
+  "fetched_ts": 1790507469515,
+  "text_sha": "908cd943695a9c6d"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "21 fot",
+  "Modell": "BVV 10",
+  "Modellår": "1955",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "10 hk",
+  "Motortillverkare": "Seffle S15 BFV",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Annat",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22886766",
+ "width_cm": 220,
+ "year": 1955
+}

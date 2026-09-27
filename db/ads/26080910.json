@@ -1,0 +1,109 @@
+{
+ "ad_id": 26080910,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787914404000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1973,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1973,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Det med kommer även en takbox som siter på båten samt en 80 kärra till båten. kärran är ej besiktad med det finns inga …",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26080910/3b224f09-8df0-4580-8d76-eaaa4ba16b6d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.66071,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1973,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "motorn bytte jag för 2 år sedan, köpte den i Nynäshamn marina.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a30fa3b852b106ab"
+ },
+ "location": "Nässjö",
+ "lon": 14.69045,
+ "make": "Ryds",
+ "max_speed": 24,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 727,
+  "fetched_ts": 1790508439975,
+  "text_sha": "a30fa3b852b106ab"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "svart/vit",
+  "Längd i fot": "19 fot",
+  "Modell": "camping båt",
+  "Modellår": "1973",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "8",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "24 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26080910",
+ "width_cm": 0,
+ "year": 1973
+}

@@ -1,0 +1,89 @@
+{
+ "ad_id": 25842807,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788249979000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": 155,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "lykter, transport etc. Yamaha orginalmotor (155 tim) Utrustningsinfo enligt nedan: Taklucka 30-kärra Tampar Bergskilar N",
+  "engine_year_source": "rule:original",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ny Plotter/ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ny Plotter/ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30-kärra",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Bella 572C hyttbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25842807/30e5056d-187e-4d33-9920-7f40ad6bd648",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.90132,
+ "length_ft": 19,
+ "location": "Trosa",
+ "lon": 17.60157,
+ "make": "Bella",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 423,
+  "fetched_ts": 1790508245028,
+  "text_sha": "5cb34635ff0d973e"
+ },
+ "price": 190000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 190000
+  }
+ ],
+ "specs": {
+  "Bredd": "208 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "65 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "572C",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "700 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25842807",
+ "width_cm": 208,
+ "year": 2008
+}

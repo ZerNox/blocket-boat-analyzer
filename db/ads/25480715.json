@@ -1,0 +1,106 @@
+{
+ "ad_id": 25480715,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786782841000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2018,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2018,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Tiki båttrailer 80, nybesiktigad, ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Micore 480 SC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25480715/fa37f230-646f-425f-aebc-384c85bb3ccf",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.64708,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2018,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7b749f0defe1aa37"
+ },
+ "location": "Valbo",
+ "lon": 17.00929,
+ "make": "Micore",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 157,
+  "fetched_ts": 1790507909843,
+  "text_sha": "7b749f0defe1aa37"
+ },
+ "price": 129000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 129000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "480 SC",
+  "Modellår": "2018",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Micore",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25480715",
+ "width_cm": 200,
+ "year": 2018
+}

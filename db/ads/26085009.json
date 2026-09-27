@@ -1,0 +1,105 @@
+{
+ "ad_id": 26085009,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788455685000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2014,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2014,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "30 km/h båtvagn med nya hjullager ingår.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "470 Motorbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26085009/220b3832-c4a4-4519-a0ec-cde90480db25",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 62.05071,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2014,
+   "engine_hours": null,
+   "engine_hp": 20,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "52ba2f93e525a993"
+ },
+ "location": "Gnarp",
+ "lon": 17.24933,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 383,
+  "fetched_ts": 1790508445761,
+  "text_sha": "52ba2f93e525a993"
+ },
+ "price": 33000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 33000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "470",
+  "Modellår": "2014",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26085009",
+ "width_cm": 175,
+ "year": 2014
+}

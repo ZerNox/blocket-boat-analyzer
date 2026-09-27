@@ -140,6 +140,8 @@ def test_red_flags():
     assert "defect" in rules.extract_red_flags("Renoveringsobjekt, motorn startar inte.")
     assert "defect" in rules.extract_red_flags("Nu har tyvärr ett motorfel uppstått.")
     assert "leak" in rules.extract_red_flags("Det finns en spricka i skrovet.")
+    for word in ("Repartionsobjekt", "Reparationsobjekt", "renoveringsbehov"):
+        assert "project" in rules.extract_red_flags(word)
     assert rules.extract_red_flags("Fin båt i toppskick.") == []
 
 

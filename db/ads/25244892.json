@@ -1,0 +1,108 @@
+{
+ "ad_id": 25244892,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785409881000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2009,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Selva",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2009,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Lowrance 522 plotter/ekolod.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance 522 plotter/ekolod.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sandström 495",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25244892/ed310f59-e33f-4c3c-b456-c7a4a7a1f483",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.23677,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2009,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Selva",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "bf5ddbbec68173da"
+ },
+ "location": "Stora Mellösa",
+ "lon": 15.55252,
+ "make": "Sandström",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 83,
+  "fetched_ts": 1790507681822,
+  "text_sha": "bf5ddbbec68173da"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "495 classic",
+  "Modellår": "2009",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Selva",
+  "Motortyp": "Utombordare",
+  "Märke": "Sandström",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25244892",
+ "width_cm": 0,
+ "year": 2009
+}

@@ -1,0 +1,107 @@
+{
+ "ad_id": 25603146,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788241221000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Vi har monterat en plotter med sjökort och snabbfäste. det finns även en djup/tempmätare som just nu ligger inne i skro…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Besiktad 80-Trailer med ny belysning finns att köpa till vid intresse.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Styrpulpet Grisslan 475 med 70hk Evinrude",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25603146/c189b6d5-0ce6-40fe-bf3b-4b841e536f20",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.21624,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorstorlek: 70 hk Motortillverkare: Evinrude Motortyp: Utombordare",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "4fc865a1ede36643"
+ },
+ "location": "Nykvarn",
+ "lon": 17.42121,
+ "make": "Grisslan",
+ "max_speed": 30,
+ "motor_fuel": null,
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 674,
+  "fetched_ts": 1790508041863,
+  "text_sha": "4fc865a1ede36643"
+ },
+ "price": 34500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 34500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Grisslan",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "250 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25603146",
+ "width_cm": 0,
+ "year": 1985
+}

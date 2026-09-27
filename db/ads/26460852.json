@@ -1,0 +1,76 @@
+{
+ "ad_id": 26460852,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788977071000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2002,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer vår Crescent Cosmos från 2001 med Yamaha 40 hk 2-taktsmotor från 2002 .",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Crescent Cosmos med Yamaha 40 hk och trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent Cosmos med Yamaha 40 hk och trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26460852/4ada6bb4-6639-496e-a049-1ac38cb39ef2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.46531,
+ "length_ft": 15,
+ "location": "Figeholm",
+ "lon": 16.66498,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1180,
+  "fetched_ts": 1790508708267,
+  "text_sha": "889719b4f81a3e2a"
+ },
+ "price": 43000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 43000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "Cosmos",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26460852",
+ "width_cm": 0,
+ "year": 2001
+}

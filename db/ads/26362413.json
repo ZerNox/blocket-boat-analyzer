@@ -1,0 +1,77 @@
+{
+ "ad_id": 26362413,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788694945000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": 147,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2022,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor mercury 30hk års 2022. med trim o tilt samt el start.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Tiki-Trailer Bs600-R år 2014.",
+    "included": true,
+    "year": 2014
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Kimple 395 hunter 30hk mercury",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26362413/afd6bcff-f105-45f6-aada-cb0a8683f9f4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.57751,
+ "length_ft": 13,
+ "location": "Norrköping",
+ "lon": 16.17443,
+ "make": "Kimple",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 433,
+  "fetched_ts": 1790508627101,
+  "text_sha": "df42f781e21cc6d3"
+ },
+ "price": 90000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 90000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "13 fot",
+  "Modell": "395 hunter",
+  "Modellår": "2021",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Kimple",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26362413",
+ "width_cm": 175,
+ "year": 2021
+}

@@ -1,0 +1,81 @@
+{
+ "ad_id": 25600940,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786396471000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2013,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": 2,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "förgasar-tvåtakt såldes inte ny i EU efter 2007",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod Humminbird fishfinder 525, sittdynor, badstege.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Hembygd trailer med ny axel.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Styrpulpet",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25600940/0cb9ead5-82ec-4fd0-90b0-7290974a049c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.8327,
+ "length_ft": 14,
+ "location": "Skillingsfors",
+ "lon": 11.97927,
+ "make": "Pioner",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 28.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 431,
+  "fetched_ts": 1790508040527,
+  "text_sha": "4a3bda55be647242"
+ },
+ "price": 43500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 43500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "14 Active",
+  "Modellår": "2013",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "28 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Pioner",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25600940",
+ "width_cm": 0,
+ "year": 2013
+}

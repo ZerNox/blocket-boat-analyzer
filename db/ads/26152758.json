@@ -1,0 +1,73 @@
+{
+ "ad_id": 26152758,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788079759000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu fyrtakt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2019,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Tohatsu 6 hk fyrtakt från 2019.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Fogelsta oregistrerad 30-kärra.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sandströms Basic 380",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26152758/417905e5-619c-4479-af33-ce91f4cce715",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.39406,
+ "length_ft": 12,
+ "location": "Öxabäck",
+ "lon": 12.82415,
+ "make": "Sandström",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 262,
+  "fetched_ts": 1790508487967,
+  "text_sha": "bbad3f4af8109c8d"
+ },
+ "price": 34000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 34000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "12 fot",
+  "Modell": "Basic 380",
+  "Modellår": "2019",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "Tohatsu fyrtakt",
+  "Motortyp": "Utombordare",
+  "Märke": "Sandström",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26152758",
+ "width_cm": 0,
+ "year": 2019
+}

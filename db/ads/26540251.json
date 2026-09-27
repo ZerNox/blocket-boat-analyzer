@@ -1,0 +1,86 @@
+{
+ "ad_id": 26540251,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789236796000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt, motor och 80km/trailer från 2006 välvårdad, förvarad inomhus under vintern.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "60hk-2 takt Mercury med hydraulik styrning.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter med sjökort hela kusten.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båt, motor och 80km/trailer från 2006 välvårdad, förvarad inomhus under vintern.",
+    "included": true,
+    "kmh": 80,
+    "year": 2006
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 510gti",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26540251/2aa56713-b342-4513-b3bc-f000cbf024f7",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.98811,
+ "length_ft": 17,
+ "location": "Katrineholm",
+ "lon": 16.24439,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 157,
+  "fetched_ts": 1790508772503,
+  "text_sha": "e953d7f8427cc321"
+ },
+ "price": 90000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 90000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "510GTI",
+  "Modellår": "2006",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "490 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26540251",
+ "width_cm": 220,
+ "year": 2006
+}

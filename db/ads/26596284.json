@@ -1,0 +1,78 @@
+{
+ "ad_id": 26596284,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789411275000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": 200,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Den drivs av en Yamaha F30 BETL från 2011 som gått ca 200 timmar, vinterförvarad i garage.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Buster SCC, Yamaha 30hk 4-takt, Fogelsta båttrailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster SCC, Yamaha 30hk 4-takt, Fogelsta båttrailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26596284/8dba12d7-99b8-4d1b-b2a1-fca68a39c665",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 65.59019,
+ "length_ft": 15,
+ "location": "Luleå",
+ "lon": 22.16727,
+ "make": "Buster",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 832,
+  "fetched_ts": 1790508815328,
+  "text_sha": "a2b00a8991cd23a7"
+ },
+ "price": 110000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 110000
+  }
+ ],
+ "specs": {
+  "Bredd": "182 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "26 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "SCC",
+  "Modellår": "2011",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "275 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26596284",
+ "width_cm": 182,
+ "year": 2011
+}

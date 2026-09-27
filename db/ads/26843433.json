@@ -1,0 +1,106 @@
+{
+ "ad_id": 26843433,
+ "boat_class": "Annat",
+ "changed_ts": 1790243768000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": 50,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Drömmen om kanalturen som försvann.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26843433/c959b99c-011b-477f-b9d6-91e9a32429fc",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 55.92186,
+ "length_ft": 32,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": 50,
+   "engine_hp": 68,
+   "engine_maker": "TD-Power",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny motor (TD-Power) gångtid 50 timmar. Ny 4bladig propeller pga motorbytet.",
+   "engine_year_rejected": 2025,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "bc1b5e14ebe9eb88"
+ },
+ "location": "Höör",
+ "lon": 13.58256,
+ "make": "Piet Hein Sloep",
+ "max_speed": 12,
+ "motor_fuel": "Diesel",
+ "motor_size": 68.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 506,
+  "fetched_ts": 1790508975981,
+  "text_sha": "bc1b5e14ebe9eb88"
+ },
+ "price": 270000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 270000
+  }
+ ],
+ "specs": {
+  "Bredd": "290 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "90 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "blå/vit",
+  "Längd i fot": "32 fot",
+  "Modell": "Grand Pedro",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "68 hk",
+  "Motortyp": "Inombordare",
+  "Märke": "Piet Hein Sloep",
+  "Sittplatser": "9",
+  "Skrovmaterial": "Annat",
+  "Sovplatser": "7",
+  "Toppfart": "12 knop",
+  "Typ": "Annat",
+  "Vikt": "6 700 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26843433",
+ "width_cm": 290,
+ "year": 1978
+}

@@ -1,0 +1,106 @@
+{
+ "ad_id": 26848868,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790319059000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda fyrtakt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Ryds 485S (16 fot) med Honda 50 hk fyrtakt, trailer och vinterställning",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 485S (16 fot) med Honda 50 hk fyrtakt, trailer och vinterställning",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26848868/614e0608-6da5-4588-aefc-5232648ec06d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.28827,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Honda fyrtakt",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e1f251a521e10c56"
+ },
+ "location": "Ekerö",
+ "lon": 17.7975,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 380,
+  "fetched_ts": 1790508978572,
+  "text_sha": "e1f251a521e10c56"
+ },
+ "price": 64900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 64900
+  }
+ ],
+ "specs": {
+  "Bredd": "195 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modell": "485 s",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda fyrtakt",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "380 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26848868",
+ "width_cm": 195,
+ "year": 2000
+}

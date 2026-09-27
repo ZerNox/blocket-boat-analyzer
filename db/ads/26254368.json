@@ -1,0 +1,108 @@
+{
+ "ad_id": 26254368,
+ "boat_class": "Annat",
+ "changed_ts": 1788361545000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1954,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Volvo  B18",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1954,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Fint svart kapell.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Mahognybåt fr  Skåléns båtsnickeri 1954",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26254368/2537b527-a116-40b3-a817-875ccd3f6f77",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.34002,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1954,
+   "engine_hours": null,
+   "engine_hp": 68,
+   "engine_maker": "Volvo",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "473de938a1e56b79"
+ },
+ "location": "Stockholm",
+ "lon": 18.07781,
+ "make": "Erikssons Båtbyggeri",
+ "max_speed": 12,
+ "motor_fuel": "Bensin",
+ "motor_size": 68.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 269,
+  "fetched_ts": 1790508558629,
+  "text_sha": "473de938a1e56b79"
+ },
+ "price": 42000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 42000
+  }
+ ],
+ "specs": {
+  "Bredd": "190 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Mahogny",
+  "Längd i fot": "21 fot",
+  "Modell": "Typ campingbåt",
+  "Modellår": "1954",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "68 hk",
+  "Motortillverkare": "Volvo  B18",
+  "Motortyp": "Inombordare",
+  "Märke": "Erikssons Båtbyggeri",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Trä",
+  "Toppfart": "12 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26254368",
+ "width_cm": 190,
+ "year": 1954
+}

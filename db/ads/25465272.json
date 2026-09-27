@@ -1,0 +1,89 @@
+{
+ "ad_id": 25465272,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786639526000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": 116,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2015,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt och motor är båda från 2015 och regelbundet underhållen och servad varje år.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Det följer även med en plotter från Garmin, Echomap UHD 72cv med sjökort Ostkusten (lilla kortet) Område: Västervik.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "-Hamnkapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Det följer även med en plotter från Garmin, Echomap UHD 72cv med sjökort Ostkusten (lilla kortet) Område: Västervik.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ca 4 år gammal 30 km/h trailer från Brenderup finns och ingår vid smidig affär.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 548 DUO -Mercury F80",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25465272/b7104421-6808-4255-9514-23a6dce08e69",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.90203,
+ "length_ft": 18,
+ "location": "Loftahammar",
+ "lon": 16.68915,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 702,
+  "fetched_ts": 1790507894668,
+  "text_sha": "fc002a8ac95931b7"
+ },
+ "price": 179500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 179500
+  }
+ ],
+ "specs": {
+  "Bredd": "218 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "548 DUO",
+  "Modellår": "2015",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25465272",
+ "width_cm": 218,
+ "year": 2015
+}

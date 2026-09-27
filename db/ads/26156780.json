@@ -1,0 +1,80 @@
+{
+ "ad_id": 26156780,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788084450000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1995,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Plastbåt med aktersnurra på 9.9 1995.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "INGEN TRAILER INGÅR …",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Plastbåt med aktersnurra på 9.9 1995",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26156780/c3547ca8-968b-4072-ad6e-8ada23ad85fa",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.07998,
+ "length_ft": 14,
+ "location": "Gålö",
+ "lon": 18.26611,
+ "make": "Övriga",
+ "max_speed": 12,
+ "motor_fuel": "Bensin",
+ "motor_size": 9.899999618530273,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 387,
+  "fetched_ts": 1790508490719,
+  "text_sha": "899ca11d54b2fa32"
+ },
+ "price": 8500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 8500
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vitt skrov",
+  "Längd i fot": "14 fot",
+  "Modell": "Rodd/snurrebåt",
+  "Modellår": "1980",
+  "Motorstorlek": "9.9 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "12 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "180 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26156780",
+ "width_cm": 175,
+ "year": 1980
+}

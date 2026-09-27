@@ -1,0 +1,105 @@
+{
+ "ad_id": 25333469,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785680566000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Parsun",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1998,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Vagnen på bilden ingår ej, Kommer säljas på en 30 kärra",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 425 fkskebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25333469/788ee8b1-7d99-4afb-9403-fd480b509444",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.44043,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1998,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Parsun",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "cb33aaa3b7161017"
+ },
+ "location": "Vetlanda",
+ "lon": 15.12727,
+ "make": "Crescent",
+ "max_speed": 18,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 233,
+  "fetched_ts": 1790507769561,
+  "text_sha": "cb33aaa3b7161017"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Svart",
+  "Längd i fot": "13 fot",
+  "Modell": "425",
+  "Modellår": "1998",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Parsun",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Toppfart": "18 knop",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25333469",
+ "width_cm": 0,
+ "year": 1998
+}

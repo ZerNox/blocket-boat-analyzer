@@ -1,0 +1,112 @@
+{
+ "ad_id": 25236823,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785392341000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": "membran Nytt batteri Ny olja drev Nya tändstift Polerad och vaxad Fast pris 80.000 pok innan vinterförvaring",
+  "engine_type_source": "llm",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mercury 75hk 2-takt 2007",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell över pulpet",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30-trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "declared outboard but text says 'drev'"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Höstpris! Ryds 510 GTI",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25236823/efe57bd8-7aec-4fa4-a499-788ec3c0e7e8",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.40568,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2007,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": 2007,
+   "engine_year_evidence": "Mercury 75hk 2-takt 2007",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "61758c76286e6cb4"
+ },
+ "location": "Linköping",
+ "lon": 15.51392,
+ "make": "Ryds",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 290,
+  "fetched_ts": 1790507679212,
+  "text_sha": "61758c76286e6cb4"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "510 GTI",
+  "Modellår": "2007",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "35 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "490 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25236823",
+ "width_cm": 220,
+ "year": 2007
+}

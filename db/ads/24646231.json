@@ -1,0 +1,102 @@
+{
+ "ad_id": 24646231,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788704951000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": 10,
+  "engine_maker": "Yamaha F20GEPL",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2023,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster XSR säljes",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24646231/1f02c75b-5fd6-457e-a3ac-c16c6711588e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.38203,
+ "length_ft": 137,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2023,
+   "engine_hours": 10,
+   "engine_hp": 20,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Utombordare Motortillverkare: Yamaha F20GEPL",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1cb75bd80b73d52d"
+ },
+ "location": "Stocksund",
+ "lon": 18.07591,
+ "make": "Buster",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 245,
+  "fetched_ts": 1790507611929,
+  "text_sha": "1cb75bd80b73d52d"
+ },
+ "price": 95000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 95000
+  }
+ ],
+ "specs": {
+  "Bredd": "176 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Grå",
+  "Längd i fot": "137 fot",
+  "Modell": "XSR",
+  "Modellår": "2023",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Yamaha F20GEPL",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "210 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24646231",
+ "width_cm": 176,
+ "year": 2023
+}

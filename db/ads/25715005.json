@@ -1,0 +1,87 @@
+{
+ "ad_id": 25715005,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1790345819000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1992,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1992,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Evinrude 70 hk från 1992, 2-takt, 3-cylindrig motor som går bra.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "* Ekolod",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Radio med kasettbandspelare.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern ’UMA’ - perfekt utlfyktsbåt för familjen!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25715005/62171594-45cd-4641-9f5e-47355c0c031a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.30241,
+ "length_ft": 17,
+ "location": "Stockholm",
+ "lon": 18.09456,
+ "make": "Uttern",
+ "max_speed": 26,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1424,
+  "fetched_ts": 1790508119338,
+  "text_sha": "be111f9430ca796b"
+ },
+ "price": 22000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 22000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "520 HT",
+  "Modellår": "1992",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "26 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "520 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25715005",
+ "width_cm": 210,
+ "year": 1992
+}

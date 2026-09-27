@@ -1,0 +1,82 @@
+{
+ "ad_id": 26121076,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787992701000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor årsmodell 2007",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Lowrance LMS 522 ekolod/plotter",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Båten är utrustad med en driftsäker och bränslesnål Suzuki DF50 fyrtaktsmotor och säljs komplett med 80 trailer, plotte…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "HR 465 med Suzuki DF50 4-takt inkl 80 trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 465 med Suzuki DF50 4-takt inkl 80 trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26121076/fdb40243-75b8-411b-9a97-cba2aa4b19f8",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.00414,
+ "length_ft": 15,
+ "location": "Hakenäset",
+ "lon": 11.73961,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 516,
+  "fetched_ts": 1790508470631,
+  "text_sha": "6f0f712b0f510fa1"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "465",
+  "Modellår": "2007",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26121076",
+ "width_cm": 0,
+ "year": 2007
+}

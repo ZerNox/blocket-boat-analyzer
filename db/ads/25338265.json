@@ -1,0 +1,100 @@
+{
+ "ad_id": 25338265,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785843646000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 370",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25338265/f6a7b5d5-31a0-49c4-9dd3-47fdfeb83c0a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 65.63962,
+ "length_ft": 12,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": 7.5,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b989a36501c07775"
+ },
+ "location": "Luleå",
+ "lon": 22.30071,
+ "make": "Uttern",
+ "max_speed": 15,
+ "motor_fuel": "Bensin",
+ "motor_size": 7.5,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 241,
+  "fetched_ts": 1790507776420,
+  "text_sha": "b989a36501c07775"
+ },
+ "price": 12000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "12 fot",
+  "Modell": "Uttern 370",
+  "Modellår": "1985",
+  "Motorstorlek": "7.5 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "15 knop",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25338265",
+ "width_cm": 0,
+ "year": 1985
+}

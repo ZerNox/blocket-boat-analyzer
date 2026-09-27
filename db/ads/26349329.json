@@ -1,0 +1,106 @@
+{
+ "ad_id": 26349329,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788675470000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2025,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2025,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Det här är en perfekt möjlighet för dig som vill ha en stabil och mångsidig uppblåsbar båt utan att behöva trailer elle…",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Aqua Marina Aircat 285 – Stabil uppblåsbar katamaran båt i toppskick!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26349329/0ff9249e-55b4-41e4-9693-cb1c06366791",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.37948,
+ "length_ft": 9,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2025,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7585a61c949ceb81"
+ },
+ "location": "Eskilstuna",
+ "lon": 16.45552,
+ "make": "Aquamarine",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 5.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1597,
+  "fetched_ts": 1790508618636,
+  "text_sha": "7585a61c949ceb81"
+ },
+ "price": 5500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5500
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit, grå, röd",
+  "Längd i fot": "9 fot",
+  "Modell": "Aqua Marina Aircat 285",
+  "Modellår": "2025",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "5 hk",
+  "Motortyp": "Utombordare",
+  "Märke": "Aquamarine",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "30 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26349329",
+ "width_cm": 160,
+ "year": 2025
+}

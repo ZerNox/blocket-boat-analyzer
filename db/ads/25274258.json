@@ -1,0 +1,111 @@
+{
+ "ad_id": 25274258,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785502371000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "* Utrustad med fast monterat ekolod/fishfinder",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Släp (Bröderna Franssons Verkstads AB)",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Styrpulpet Ryds",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25274258/d820c4cc-245e-44c3-8066-ba504bbe03aa",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.94873,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Nyligen servad, startar och går perfekt utan några problem",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a869d75ec26fcd41"
+ },
+ "location": "Älvängen",
+ "lon": 12.12397,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 834,
+  "fetched_ts": 1790507717640,
+  "text_sha": "a869d75ec26fcd41"
+ },
+ "price": 28000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 28000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Marinblå",
+  "Längd i fot": "14 fot",
+  "Modell": "Ryds Styrsö 440",
+  "Modellår": "1980",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "250 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25274258",
+ "width_cm": 180,
+ "year": 1980
+}

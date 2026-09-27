@@ -1,0 +1,112 @@
+{
+ "ad_id": 24460512,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789366864000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": 100,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "Evinrude utan E-TEC tillverkades till 2007",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ingår humminbird plotter/ekolod",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Minnkota terrova 55 frontmonterad motor med trådlös fjärrkontroll.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ingår humminbird plotter/ekolod",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ockelbo B18 cc",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24460512/84ef1b9f-28de-4bf2-9611-52de93ba74d6",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.912,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2016,
+   "engine_hours": 100,
+   "engine_hp": 75,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Inga skador, motorn har under 100 timmars gångtid.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "35e796dcba15071a"
+ },
+ "location": "Sala",
+ "lon": 16.73591,
+ "make": "Ockelbo",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 362,
+  "fetched_ts": 1790507595151,
+  "text_sha": "35e796dcba15071a"
+ },
+ "price": 239000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 239000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "B18 cc",
+  "Modellår": "2016",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Ockelbo",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "32 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24460512",
+ "width_cm": 0,
+ "year": 2016
+}

@@ -1,0 +1,88 @@
+{
+ "ad_id": 21862218,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786810884000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": 300,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2010,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor: Yamaha 40 hk fyrtakt (2010)",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Dubbla kapell: Både fräscht akterkapell samt stort soldäckskapell (ger skön skugga) medföljer.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Navigation & Säkerhet: Sjökortsplotter ingår.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Crescent Primo + Thule 80-trailer",
+    "included": true,
+    "kmh": 80,
+    "year": 2013
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent Primo + Thule 80-trailer | Komplett paket (97 000kr)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21862218/d2e394aa-cd74-47d2-9db8-0eed29305a41",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.38941,
+ "length_ft": 16,
+ "location": "Järfälla",
+ "lon": 17.85024,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 2153,
+  "fetched_ts": 1790507430092,
+  "text_sha": "9a981add9feb1883"
+ },
+ "price": 97000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 97000
+  }
+ ],
+ "specs": {
+  "Bredd": "203 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "Primo",
+  "Modellår": "2010",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "430 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/21862218",
+ "width_cm": 203,
+ "year": 2010
+}

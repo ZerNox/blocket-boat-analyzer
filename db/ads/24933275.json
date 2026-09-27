@@ -1,0 +1,86 @@
+{
+ "ad_id": 24933275,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786103592000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1998,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor: Honda BF50, fyrtaktare, år 1998",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod/GPS",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ekolod/GPS",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Kärra: Kärra godkänd för 30 km/h ingår i priset",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 475 GT – med Honda BF50",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24933275/ee85933f-8d1a-439a-9eb4-0074a9d1dddc",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.89346,
+ "length_ft": 475,
+ "location": "Nynäshamn",
+ "lon": 17.94752,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 452,
+  "fetched_ts": 1790507628886,
+  "text_sha": "7179198f7bab88a9"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Bredd": "195 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "475 fot",
+  "Modell": "gts 475",
+  "Modellår": "1998",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "335 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24933275",
+ "width_cm": 195,
+ "year": 1998
+}

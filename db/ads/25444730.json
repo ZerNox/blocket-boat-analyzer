@@ -1,0 +1,114 @@
+{
+ "ad_id": 25444730,
+ "boat_class": "Annat",
+ "changed_ts": 1786606290000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2014,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Volvo Penta D1 13",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "Volvo Penta slutade med utombordare kring 1990",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "VP D1 13, länspump med nivåvakt,landström,skräddarsytt kapell, båtvagn.",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "VP D1 13, länspump med nivåvakt,landström,skräddarsytt kapell, båtvagn.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "VP D1 13, länspump med nivåvakt,landström,skräddarsytt kapell, båtvagn.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Vacker snipa i fint skick",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25444730/31e967fa-c8c3-407d-a8a8-06ca8ce4217c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.28097,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2014,
+   "engine_hours": null,
+   "engine_hp": 13,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "included",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "4cd7d2b7a506d68b"
+ },
+ "location": "Saltsjöbaden",
+ "lon": 18.30837,
+ "make": "Övriga",
+ "max_speed": 6,
+ "motor_fuel": "Diesel",
+ "motor_size": 13.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 144,
+  "fetched_ts": 1790507874985,
+  "text_sha": "4cd7d2b7a506d68b"
+ },
+ "price": 105000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 105000
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "21 fot",
+  "Modell": "Öppen i ek",
+  "Modellår": "2014",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "13 hk",
+  "Motortillverkare": "Volvo Penta D1 13",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Trä",
+  "Toppfart": "6 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25444730",
+ "width_cm": 230,
+ "year": 2014
+}

@@ -1,0 +1,112 @@
+{
+ "ad_id": 26398798,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788790687000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1976,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolodsgivaren ej monterad.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Simrad plotter med sjökort över de flesta insjöarna i Sverige medföljer.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Stabil 30km/h kärra medföljer.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Askeladden 16",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26398798/e39632b5-a7d4-4ca2-8899-8b7705059f82",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.34807,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1976,
+   "engine_hours": null,
+   "engine_hp": 35,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn är en evinrude 35 2takt som startat och gått bra i min ägo.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7cbd824c85d6a398"
+ },
+ "location": "Lönsboda",
+ "lon": 14.35025,
+ "make": "Askeladden",
+ "max_speed": 19,
+ "motor_fuel": "Bensin",
+ "motor_size": 35.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 678,
+  "fetched_ts": 1790508658172,
+  "text_sha": "7cbd824c85d6a398"
+ },
+ "price": 19500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 19500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "16",
+  "Modellår": "1976",
+  "Motorstorlek": "35 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Askeladden",
+  "Toppfart": "19 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26398798",
+ "width_cm": 0,
+ "year": 1976
+}

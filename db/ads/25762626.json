@@ -1,0 +1,75 @@
+{
+ "ad_id": 25762626,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786886675000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Även motor och trailer är från 2007.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Även motor och trailer är från 2007.",
+    "included": true,
+    "year": 2007
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Terhi BigFun",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25762626/df17f674-8a3c-46c9-befe-95c275b6850e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 64.74445,
+ "length_ft": 15,
+ "location": "Skellefteå",
+ "lon": 20.92551,
+ "make": "Terhi",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 321,
+  "fetched_ts": 1790508167361,
+  "text_sha": "73f1ac1b87650d09"
+ },
+ "price": 79000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 79000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "BigFun",
+  "Modellår": "2007",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Terhi",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25762626",
+ "width_cm": 0,
+ "year": 2007
+}

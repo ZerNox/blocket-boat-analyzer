@@ -1,0 +1,75 @@
+{
+ "ad_id": 23299946,
+ "boat_class": "Annat",
+ "changed_ts": 1789335871000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Den har bytt motor till en fyrtakts Evinrude 70 hk ca 20 år gammal som går perfekt och har servats varje år av proffs.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell för två år sedan.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 560 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23299946/fa59f615-4289-424e-a493-415fafe0de3b",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.75336,
+ "length_ft": 18,
+ "location": "Nyköping",
+ "lon": 17.00739,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 563,
+  "fetched_ts": 1790507488678,
+  "text_sha": "29eef939002d35ab"
+ },
+ "price": 36000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 36000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "560 HT",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23299946",
+ "width_cm": 220,
+ "year": 1975
+}

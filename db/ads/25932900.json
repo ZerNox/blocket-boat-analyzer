@@ -1,0 +1,78 @@
+{
+ "ad_id": 25932900,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787405149000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2018,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Både båt och motor är från 2018, väldigt sparsamt använda och i mycket gott skick.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Mittöglan är förtöjningsögla och sidoöglorna för bogsering/släp.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Talamex Aqualine QLA270 (Luftdurk)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25932900/bbef0b96-eaee-45a6-8447-e69d717fb730",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.88161,
+ "length_ft": 9,
+ "location": "Nödinge",
+ "lon": 12.07983,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 536,
+  "fetched_ts": 1790508314482,
+  "text_sha": "668573faec2a28e4"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "152 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Grå",
+  "Längd i fot": "9 fot",
+  "Modell": "QLA270",
+  "Modellår": "2018",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "3",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "28 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25932900",
+ "width_cm": 152,
+ "year": 2018
+}

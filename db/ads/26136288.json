@@ -1,0 +1,82 @@
+{
+ "ad_id": 26136288,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788016664000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": 100,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2019,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor: årsmodell 2019.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "-Garmin ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "HR 442 SC, med Suzuki 50 HK 4-takt samt båtkärra TIKI 80 i mycket fint skick",
+    "included": true,
+    "year": 2021
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 442 SC, med Suzuki 50 HK 4-takt samt båtkärra TIKI 80 i mycket fint skick",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26136288/8dca2169-a183-48a0-b0b8-aff6d1b82270",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.01893,
+ "length_ft": 14,
+ "location": "Mora",
+ "lon": 14.55468,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 319,
+  "fetched_ts": 1790508480629,
+  "text_sha": "36f6ea5d51fcf841"
+ },
+ "price": 112000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 112000
+  }
+ ],
+ "specs": {
+  "Bredd": "188 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "Höga rodd 442 SC",
+  "Modellår": "2016",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "310 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26136288",
+ "width_cm": 188,
+ "year": 2016
+}

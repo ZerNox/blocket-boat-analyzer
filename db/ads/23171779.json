@@ -1,0 +1,111 @@
+{
+ "ad_id": 23171779,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787386631000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2002,
+  "boat_year_source": "spec",
+  "engine_hours": 850,
+  "engine_maker": "Sole",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2002,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Plotter fishfinder rorkult förtöjning motorn har gått 850 Tim",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter fishfinder rorkult förtöjning motorn har gått 850 Tim",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Kungsjulle combi",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23171779/e5e064bd-867b-4e2b-9e68-df2ea724fd59",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.04777,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2002,
+   "engine_hours": 850,
+   "engine_hp": 44,
+   "engine_maker": "Sole",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Inombordare",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "384f0bfbcb2d76fa"
+ },
+ "location": "Klövedal",
+ "lon": 11.53396,
+ "make": "Övriga",
+ "max_speed": 7,
+ "motor_fuel": "Diesel",
+ "motor_size": 44.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 61,
+  "fetched_ts": 1790507480573,
+  "text_sha": "384f0bfbcb2d76fa"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Bredd": "245 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "80 cm",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "21 fot",
+  "Modell": "Kungsjulle",
+  "Modellår": "2002",
+  "Motorstorlek": "44 hk",
+  "Motortillverkare": "Sole",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Sovplatser": "2",
+  "Toppfart": "7 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "1 300 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23171779",
+ "width_cm": 245,
+ "year": 2002
+}

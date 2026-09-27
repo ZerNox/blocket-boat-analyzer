@@ -1,0 +1,117 @@
+{
+ "ad_id": 25889086,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788433988000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": 240,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mercury Optimax 75 hk, årsmodell 2007",
+  "engine_year_source": "rule:text?",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Plotter med ekolod Raymarine Element 9 tum och Chirp ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter med ekolod Raymarine Element 9 tum och Chirp ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80km/h Trailer finns för 10000:-",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "engine 2007 older than boat 2012"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds F528 Sport till höstpris",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25889086/484ae59e-40b4-4844-b77e-776388acbd2e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.3844,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2012,
+   "engine_hours": 240,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mercury Optimax 75 hk – årsmodell 2007",
+   "engine_year_rejected": 2007,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "cb9140c3337750c6"
+ },
+ "location": "Solna",
+ "lon": 18.0002,
+ "make": "Ryds",
+ "max_speed": 36,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1146,
+  "fetched_ts": 1790508280071,
+  "text_sha": "cb9140c3337750c6"
+ },
+ "price": 129000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 129000
+  }
+ ],
+ "specs": {
+  "Bredd": "218 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "F528 Sport",
+  "Modellår": "2012",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "36 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "540 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25889086",
+ "width_cm": 218,
+ "year": 2012
+}

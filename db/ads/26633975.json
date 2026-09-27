@@ -1,0 +1,75 @@
+{
+ "ad_id": 26633975,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789556944000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten och motorn är ca 5 år gamla.Motern har elstart.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Fogelsta trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 4,25 Mercyr",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26633975/65c6f0da-f499-4d4a-bcc8-894d639cf07b",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.10197,
+ "length_ft": 15,
+ "location": "Värnamo",
+ "lon": 14.07947,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 218,
+  "fetched_ts": 1790508838964,
+  "text_sha": "7348fb4dd3b2956c"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "465 R",
+  "Modellår": "2017",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26633975",
+ "width_cm": 0,
+ "year": 2017
+}

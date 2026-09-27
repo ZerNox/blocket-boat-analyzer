@@ -1,0 +1,116 @@
+{
+ "ad_id": 25373551,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785783560000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude (E75)",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "Evinrude utan E-TEC tillverkades till 2007",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Integrerad GPS: Garmin Echomap Plus 92 SV",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Heltäckande kapell ingår.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Integrerad GPS: Garmin Echomap Plus 92 SV",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sting 600 Pro HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25373551/023e3ab4-7995-4c28-96b8-dc3cb79c2cea",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.7554,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2019,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortillverkare: Evinrude (E75)",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "553a0ebbf51a9b9d"
+ },
+ "location": "Tanumshede",
+ "lon": 11.34475,
+ "make": "Sting",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 492,
+  "fetched_ts": 1790507816358,
+  "text_sha": "553a0ebbf51a9b9d"
+ },
+ "price": 295000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 295000
+  }
+ ],
+ "specs": {
+  "Bredd": "236 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Gråvit",
+  "Längd i fot": "20 fot",
+  "Modell": "600 Pro HT",
+  "Modellår": "2019",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Evinrude (E75)",
+  "Motortyp": "Utombordare",
+  "Märke": "Sting",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "28 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "775 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25373551",
+ "width_cm": 236,
+ "year": 2019
+}

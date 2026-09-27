@@ -1,0 +1,77 @@
+{
+ "ad_id": 25296304,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785579956000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1999,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt med motor Yamaha (1999) 4hk fyrtaktare som är precis genomgången av marina, kvitto finns.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Cresent Monark med motor och kärra.",
+    "included": true
+   },
+   "vinterkapell": {
+    "evidence": "Medföljer boj, fendrar, presenning, manual till motor.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Cresent Monark med motor och kärra.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25296304/c6aacd62-ec83-4f93-854f-0a1192e16f71",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.262,
+ "length_ft": 13,
+ "location": "Trollhättan",
+ "lon": 12.15642,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 4.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 259,
+  "fetched_ts": 1790507741194,
+  "text_sha": "d09daa36eeaef402"
+ },
+ "price": 5500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "13 fot",
+  "Modell": "Monark",
+  "Modellår": "1980",
+  "Motorstorlek": "4 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25296304",
+ "width_cm": 0,
+ "year": 1980
+}

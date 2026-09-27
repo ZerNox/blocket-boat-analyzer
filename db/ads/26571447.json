@@ -1,0 +1,83 @@
+{
+ "ad_id": 26571447,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789324936000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1997,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury 4t",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1996,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Bella 512 Europa med 50 HK Mercury från -96.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Dynor till soffan bak samt kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "GPS",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80 trailer som båten står på",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Bella Europa 512",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26571447/87a78653-a8f0-4345-9f5f-0406b8bc8971",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.41638,
+ "length_ft": 18,
+ "location": "Söderköping",
+ "lon": 16.48785,
+ "make": "Bella",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 181,
+  "fetched_ts": 1790508794547,
+  "text_sha": "42d7dfc111dd0b1d"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "Europa 512",
+  "Modellår": "1997",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury 4t",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26571447",
+ "width_cm": 0,
+ "year": 1997
+}

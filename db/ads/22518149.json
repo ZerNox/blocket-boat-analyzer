@@ -1,0 +1,103 @@
+{
+ "ad_id": 22518149,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785699819000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1972,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude VRO",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1972,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "En båtvagn ingår också i köpet!",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds Camping",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22518149/0b497756-0ba5-4f0b-9eb2-24645b4ab43f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.88633,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1972,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn är en Evinrude VRO, 70hk 2-takt.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6ebf704a625baa6d"
+ },
+ "location": "Nynäshamn",
+ "lon": 17.93927,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 604,
+  "fetched_ts": 1790507459501,
+  "text_sha": "6ebf704a625baa6d"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "Camping",
+  "Modellår": "1972",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Evinrude VRO",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22518149",
+ "width_cm": 0,
+ "year": 1972
+}

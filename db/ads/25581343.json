@@ -1,0 +1,81 @@
+{
+ "ad_id": 25581343,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786363489000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": 63,
+  "engine_maker": "Selva",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2014,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten är utrustad med en Selva Aurana 40hk 4-takt, 2014.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Säljes endast som komplett paket, dvs. båt, motor, kapell.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Enkel trailer ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ockelbo B16 plast -78 med Selva 40 hk 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25581343/c596b377-88fe-44bf-ac69-2b7a530f184c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.29013,
+ "length_ft": 16,
+ "location": "Ingarö",
+ "lon": 18.45209,
+ "make": "Ockelbo",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 616,
+  "fetched_ts": 1790508031933,
+  "text_sha": "5e079805322a87bf"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Bredd": "195 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Orange",
+  "Längd i fot": "16 fot",
+  "Modell": "B16",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Selva",
+  "Motortyp": "Utombordare",
+  "Märke": "Ockelbo",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "300 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25581343",
+ "width_cm": 195,
+ "year": 1978
+}

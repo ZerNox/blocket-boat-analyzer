@@ -1,0 +1,77 @@
+{
+ "ad_id": 25477910,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786695522000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1995,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Årsmodell motor 1995, båt äldre.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår ej.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik 4,70",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25477910/df3a4b78-6048-4d55-9e1f-cb6684b51b94",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.46582,
+ "length_ft": 15,
+ "location": "Österskär",
+ "lon": 18.31295,
+ "make": "Örnvik",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 481,
+  "fetched_ts": 1790507905765,
+  "text_sha": "6ffa0df3b97feb5c"
+ },
+ "price": 19000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 19000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modellår": "1995",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "20 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25477910",
+ "width_cm": 180,
+ "year": 1995
+}

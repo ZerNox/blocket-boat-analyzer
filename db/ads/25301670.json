@@ -1,0 +1,122 @@
+{
+ "ad_id": 25301670,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785589099000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2011,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "En komplett sportfiskebåt för dig som vill ha en välutrustad Buster med bra motor, avancerad trollingmotor och ekolod",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Båten är utrustad med en Minn Kota Terrova med i-Pilot och Spot-Lock, vilket ger GPS-styrning och möjlighet att hålla b…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Båten är utrustad med en Minn Kota Terrova med i-Pilot och Spot-Lock, vilket ger GPS-styrning och möjlighet att hålla b…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster LX 2011 – Yamaha F60 – Terrova i-Pilot – HELIX 7 – Trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25301670/39163df4-22ab-4e68-9563-5013ab284345",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.16612,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2011,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b54698e764800636"
+ },
+ "location": "Hargshamn",
+ "lon": 18.47491,
+ "make": "Buster",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 624,
+  "fetched_ts": 1790507746560,
+  "text_sha": "b54698e764800636"
+ },
+ "price": 199000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 199000
+  }
+ ],
+ "specs": {
+  "Bredd": "199 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "33 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Aluminium",
+  "Längd i fot": "17 fot",
+  "Modell": "Lx",
+  "Modellår": "2011",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "27 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "440 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25301670",
+ "width_cm": 199,
+ "year": 2011
+}

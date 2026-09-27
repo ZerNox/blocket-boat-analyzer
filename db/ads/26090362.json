@@ -1,0 +1,117 @@
+{
+ "ad_id": 26090362,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787864975000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "mtliga filter, motorolja samt drevolja. Ligger i Vänern på Kållandsö just nu, båtplats resten av säsongen kan ev ingå o",
+  "engine_type_source": "llm",
+  "engine_year": 1998,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor: årsmodell 1998 med El-tilt",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod lowrance hook reveal 5",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ekolod lowrance hook reveal 5",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Besiktad 80km/h trailer med nya däck",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "declared outboard but text says 'drevolja'"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 4602 Mercury 50hk 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26090362/969624c2-9889-4aa5-9aba-134f360f8a50",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.22357,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": null,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": 1998,
+   "engine_year_evidence": "Motor: årsmodell 1998 med El-tilt",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5d71f5fe6686f5e2"
+ },
+ "location": "Vara",
+ "lon": 12.88578,
+ "make": "Uttern",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 481,
+  "fetched_ts": 1790508450092,
+  "text_sha": "5d71f5fe6686f5e2"
+ },
+ "price": 69000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "4602",
+  "Modellår": "1998",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "340 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26090362",
+ "width_cm": 185,
+ "year": 1998
+}

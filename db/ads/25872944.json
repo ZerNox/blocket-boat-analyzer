@@ -1,0 +1,108 @@
+{
+ "ad_id": 25872944,
+ "boat_class": "Annat",
+ "changed_ts": 1787230621000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johanson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Båten har kabin med kapell, gott om plats och passar perfekt för både dagsutflykter, fiske och härliga dagar på sjön.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "* Båtvagn/trailer ingår",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 50 Cabin",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25872944/88795328-45f6-4ecb-a216-b79f40e6ab75",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.49715,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a962885216ac0ea9"
+ },
+ "location": "Lidköping",
+ "lon": 13.16767,
+ "make": "Johnson",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 511,
+  "fetched_ts": 1790508268369,
+  "text_sha": "a962885216ac0ea9"
+ },
+ "price": 29900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 29900
+  }
+ ],
+ "specs": {
+  "Bredd": "206 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "1980",
+  "Modellår": "1980",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Johanson",
+  "Motortyp": "Utombordare",
+  "Märke": "Johnson",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25872944",
+ "width_cm": 206,
+ "year": 1980
+}

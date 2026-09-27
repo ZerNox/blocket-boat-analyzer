@@ -1,0 +1,81 @@
+{
+ "ad_id": 26573606,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789330467000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury F30 ELHPT EFI",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2023,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Örnvik 490, Mercury 30 hk (2023) och ny 80-trailer",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin Echomap UHD med ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin Echomap UHD med ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Kan möjligen sälja båt utan släp.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik 490, Mercury 30 hk (2023) och ny 80-trailer - \"Hummerbåt\"",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26573606/0e347bba-a534-4582-a4f7-ea1ae48772c5",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.27645,
+ "length_ft": 16,
+ "location": "Lysekil",
+ "lon": 11.4342,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 746,
+  "fetched_ts": 1790508800070,
+  "text_sha": "6f988e781841193c"
+ },
+ "price": 63000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 63000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modell": "490 RLX",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Mercury F30 ELHPT EFI",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26573606",
+ "width_cm": 0,
+ "year": 1990
+}

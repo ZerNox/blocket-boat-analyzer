@@ -1,0 +1,83 @@
+{
+ "ad_id": 26758991,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789928718000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": 245,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2015,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "HR 435 + Yamaha F40 2015 (245h) + Trailer",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Observera: Säljs utan ekolod och elmotor, men dessa kan köpas till vid intresse.",
+    "included": false
+   },
+   "elmotor": {
+    "evidence": "Observera: Säljs utan ekolod och elmotor, men dessa kan köpas till vid intresse.",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "HR 435 + Yamaha F40 2015 (245h) + Trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 435 + Yamaha F40 2015 (245h) + Trailer – Fint skick",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26758991/0bc2378d-e48e-4f50-bc65-3b654cd370c4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.56552,
+ "length_ft": 14,
+ "location": "Djurås",
+ "lon": 15.13837,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 524,
+  "fetched_ts": 1790508923673,
+  "text_sha": "07916c0614dba652"
+ },
+ "price": 63000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 63000
+  }
+ ],
+ "specs": {
+  "Bredd": "184 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "Hr435",
+  "Modellår": "2005",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26758991",
+ "width_cm": 184,
+ "year": 2005
+}

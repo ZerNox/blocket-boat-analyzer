@@ -1,0 +1,91 @@
+{
+ "ad_id": 26301228,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788521869000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": 260,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2017,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten är utrustad med en pålitlig, tyst och bränslesnål Honda 50hk 4-takt (2017. ca 260 timmar) som ger perfekt prestanda för både dagsutflykter, vattensport och fiske.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Raymarine Gps/ekolod med Sverige Norden-karta",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Minn Kota frontmonterad elmotor med gps, fäste och 100 Ah batteri",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Minn Kota frontmonterad elmotor med gps, fäste och 100 Ah batteri",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer Tiki 2015 (80 kmh) med elvinsch",
+    "included": true,
+    "kmh": 80,
+    "year": 2015
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Silver Fox 485 Avant 2017",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26301228/0110fb0a-7cec-475e-a1ce-79030e8cc330",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.2513,
+ "length_ft": 16,
+ "location": "Tyresö",
+ "lon": 18.28979,
+ "make": "Silver",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1076,
+  "fetched_ts": 1790508582197,
+  "text_sha": "743c5fc707bdf6cb"
+ },
+ "price": 150000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 150000
+  }
+ ],
+ "specs": {
+  "Bredd": "195 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "Fox",
+  "Modellår": "2017",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Silver",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26301228",
+ "width_cm": 195,
+ "year": 2017
+}

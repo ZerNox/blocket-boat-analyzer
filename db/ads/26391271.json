@@ -1,0 +1,107 @@
+{
+ "ad_id": 26391271,
+ "boat_class": "Annat",
+ "changed_ts": 1788776756000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1962,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1962,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Helt nytt tvådelat kapell tillverkat av Bil o Båt inredarna AB.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Tillhörande båtvagn i mycket fint skick med fungerande belysning och båtvagnslås.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Mahognyracer ( campingbåt)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26391271/607a14e3-1cab-4512-b47c-5387d1c1ed87",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.55496,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1962,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "50534d6ae6658fc4"
+ },
+ "location": "Kimstad",
+ "lon": 15.96672,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1831,
+  "fetched_ts": 1790508656953,
+  "text_sha": "50534d6ae6658fc4"
+ },
+ "price": 69000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modellår": "1962",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Trä",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26391271",
+ "width_cm": 0,
+ "year": 1962
+}

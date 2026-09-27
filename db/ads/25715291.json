@@ -1,0 +1,75 @@
+{
+ "ad_id": 25715291,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786792757000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1971,
+  "boat_year_source": "spec",
+  "engine_hours": 80,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2002,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ingår: åror & motor 6 hk Yamaha 2-takt årsmodell 2002 som fungera bra.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "(Lånad trailer och ingår inte)",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik 400",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25715291/282a344f-7f46-416c-a5e6-3cfeaa239b31",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.30477,
+ "length_ft": 13,
+ "location": "Arboga",
+ "lon": 15.76524,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 351,
+  "fetched_ts": 1790508120689,
+  "text_sha": "cdf2f2c745ec8525"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "154 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "13 fot",
+  "Modell": "400",
+  "Modellår": "1971",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "113 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25715291",
+ "width_cm": 154,
+ "year": 1971
+}

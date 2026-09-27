@@ -1,0 +1,83 @@
+{
+ "ad_id": 26410792,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788813993000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1994,
+  "boat_year_source": "spec",
+  "engine_hours": 109,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Tohatsu 50 hk 2021",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin plotter med ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin plotter med ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "En fiske båt med registrerad trailer och nyare motor",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Silver hawk 5.20",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26410792/7849f31a-63f6-4a97-8000-873e8ccb8519",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.37215,
+ "length_ft": 18,
+ "location": "Sundbyberg",
+ "lon": 17.95696,
+ "make": "Silver",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 134,
+  "fetched_ts": 1790508673180,
+  "text_sha": "7bffc779bc5f6653"
+ },
+ "price": 85000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 85000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "Hawk",
+  "Modellår": "1994",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Silver",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "27 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26410792",
+ "width_cm": 0,
+ "year": 1994
+}

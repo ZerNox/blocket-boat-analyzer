@@ -1,0 +1,73 @@
+{
+ "ad_id": 26316193,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788552593000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Säljer båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26316193/64d77b23-898b-4432-8806-588771061b02",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.18097,
+ "length_ft": 15,
+ "location": "Nykvarn",
+ "lon": 17.47956,
+ "make": "Sporty",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790508597462,
+  "text_sha": "97529eaacd4f3588"
+ },
+ "price": 15500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15500
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "430 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Orange",
+  "Längd i fot": "15 fot",
+  "Modell": "Rais sport 430",
+  "Modellår": "1970",
+  "Motor inkluderad": "Nej",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Sporty",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26316193",
+ "width_cm": 170,
+ "year": 1970
+}

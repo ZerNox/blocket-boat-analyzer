@@ -1,0 +1,79 @@
+{
+ "ad_id": 25219968,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785328500000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Crescent Flexi, Nyservad Yamaha 20hk (2011) inkl trailer (30km/h).",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Crescent Flexi, Nyservad Yamaha 20hk (2011) inkl trailer (30km/h)",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent Flexi, Nyservad Yamaha 20hk (2011) inkl trailer (30km/h)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25219968/6b52aceb-43d5-4f84-a396-49e7278aafe4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.36207,
+ "length_ft": 15,
+ "location": "Djurhamn",
+ "lon": 18.66371,
+ "make": "Crescent",
+ "max_speed": 22,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 230,
+  "fetched_ts": 1790507655120,
+  "text_sha": "fb7fe2a68ac02da9"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "Flexi 465",
+  "Modellår": "2011",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "22 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "240 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25219968",
+ "width_cm": 180,
+ "year": 2011
+}

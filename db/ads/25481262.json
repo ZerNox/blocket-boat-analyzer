@@ -1,0 +1,78 @@
+{
+ "ad_id": 25481262,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788447113000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor Yamaha F40, fyrtakt årsmodell 2011, nyservad med kamrem och impeller bytt 2026",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår ej",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder 460 arkip med Yamaha F40",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25481262/e5dd4b1d-5a13-405c-a217-45ee0051541e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.54036,
+ "length_ft": 14,
+ "location": "Karlholmsbruk",
+ "lon": 17.62079,
+ "make": "Linder",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 300,
+  "fetched_ts": 1790507911047,
+  "text_sha": "0d5c4b63d76b22c1"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "460 Arkip",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "27 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "292 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25481262",
+ "width_cm": 185,
+ "year": 2005
+}

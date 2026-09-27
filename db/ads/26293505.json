@@ -1,0 +1,106 @@
+{
+ "ad_id": 26293505,
+ "boat_class": "Annat",
+ "changed_ts": 1788501458000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": 1,
+  "engine_maker": "Merury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2017,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Nya hjullager på båtvagnen som ej varit i vattnet.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Oskwig 370S Mercury 6hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26293505/e2642761-f9ec-4384-a321-e1c8ae5f9cad",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.2071,
+ "length_ft": 12,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2017,
+   "engine_hours": 1,
+   "engine_hp": 6,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn nyservad med kvitto. Gått max en timme efter service.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5fbe59d9cdab879e"
+ },
+ "location": "Domsjö",
+ "lon": 18.79759,
+ "make": "Mercury",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 220,
+  "fetched_ts": 1790508578061,
+  "text_sha": "5fbe59d9cdab879e"
+ },
+ "price": 32000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 32000
+  }
+ ],
+ "specs": {
+  "Bredd": "150 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "12 fot",
+  "Modell": "Oskwig 370S",
+  "Modellår": "2017",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "Merury",
+  "Motortyp": "Utombordare",
+  "Märke": "Mercury",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Annat",
+  "Vikt": "55 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26293505",
+ "width_cm": 150,
+ "year": 2017
+}

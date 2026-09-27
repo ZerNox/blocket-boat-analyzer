@@ -1,0 +1,87 @@
+{
+ "ad_id": 24432269,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788016119000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1991,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Timola 490R 1970 med 60hk Evinrude 1991 (2t elektrisk choke)med power trim, Garmin ekolod (GPS), länspump, 30 trailer, 3st trollings fästen.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Timola 490R 1970 med 60hk Evinrude 1991 (2t elektrisk choke)med power trim, Garmin ekolod (GPS), länspump, 30 trailer, …",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Timola 490R 1970 med 60hk Evinrude 1991 (2t elektrisk choke)med power trim, Garmin ekolod (GPS), länspump, 30 trailer, …",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Timola 490R 1970 med 60hk Evinrude 1991 (2t elektrisk choke)med power trim, Garmin ekolod (GPS), länspump, 30 trailer, …",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Timola 490R",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24432269/8483b2fe-4445-49fe-bc84-ee7a0db02c83",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.19535,
+ "length_ft": 16,
+ "location": "Tullinge",
+ "lon": 17.89886,
+ "make": "Övriga",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 382,
+  "fetched_ts": 1790507592588,
+  "text_sha": "e55c75cb8a091de4"
+ },
+ "price": 24000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 24000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "Timola 490R",
+  "Modellår": "1970",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24432269",
+ "width_cm": 180,
+ "year": 1970
+}

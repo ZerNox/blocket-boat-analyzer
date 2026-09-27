@@ -1,0 +1,82 @@
+{
+ "ad_id": 25345820,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788603799000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Selva",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ligger i sjön klar för besiktning och provkörning, Selva motor på 50 hk, 2 taktare, modell 2004.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Båt kärra 30 km ingår, ankare, öskar, fendrar.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Säljes Styrpulpet Båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25345820/e6034b22-ff20-4479-a22f-0b60254ed81d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.35696,
+ "length_ft": 16,
+ "location": "Strängnäs",
+ "lon": 17.02053,
+ "make": "Övriga",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 350,
+  "fetched_ts": 1790507780816,
+  "text_sha": "260afb1441f2bc1a"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "Styrpulpet",
+  "Modellår": "2004",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Selva",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "3",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "1",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25345820",
+ "width_cm": 200,
+ "year": 2004
+}

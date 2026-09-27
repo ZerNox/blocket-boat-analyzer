@@ -1,0 +1,111 @@
+{
+ "ad_id": 25329128,
+ "boat_class": "Annat",
+ "changed_ts": 1785675749000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell i mycket fint skick från 2020",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Alicraft 14 inklusive 80 trailer.",
+    "included": true,
+    "kmh": 80,
+    "year": 2019
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Alicraft 14",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25329128/77c85219-a4b2-4ae1-a508-08d87c034729",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.51963,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1970,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Alicraft 14 med 30 hk Yamaha utombordare (Servad hösten 2025)",
+   "engine_year_rejected": 2025,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1933d8862e3db747"
+ },
+ "location": "Vallentuna",
+ "lon": 18.06245,
+ "make": "Alicraft",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 453,
+  "fetched_ts": 1790507764029,
+  "text_sha": "1933d8862e3db747"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå",
+  "Längd i fot": "14 fot",
+  "Modellår": "1970",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Alicraft",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25329128",
+ "width_cm": 0,
+ "year": 1970
+}

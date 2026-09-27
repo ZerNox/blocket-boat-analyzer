@@ -1,0 +1,76 @@
+{
+ "ad_id": 26458593,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789578163000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2015,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "En mkt fin och väl omhändertagen Ryds 405 säljes med en Suzuki 9.9hk 4-takts motor från 2015.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Båtvagnen på bild är helt nyinköpt med stödhjul monterat fram för lättare hantering.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 405 med Suzuki 9.9hk 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26458593/41f0ff40-1a05-4c86-8f1a-ad64b71f9191",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.60154,
+ "length_ft": 13,
+ "location": "Njutånger",
+ "lon": 16.84408,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 9.899999618530273,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 506,
+  "fetched_ts": 1790508702527,
+  "text_sha": "71a64e30283088bb"
+ },
+ "price": 24000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 24000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "13 fot",
+  "Modell": "405",
+  "Modellår": "2015",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "9.9 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26458593",
+ "width_cm": 0,
+ "year": 2015
+}

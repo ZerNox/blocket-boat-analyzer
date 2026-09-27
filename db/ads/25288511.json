@@ -1,0 +1,100 @@
+{
+ "ad_id": 25288511,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1785678506000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ockelbo B14 + Motor *höstpris",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25288511/1b21bf64-a423-402d-a0ea-fc583df713f1",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.38063,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 18,
+   "engine_maker": "evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Utombordare Motortillverkare: evinrude",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e464a710da194c29"
+ },
+ "location": "Bollnäs",
+ "lon": 16.50484,
+ "make": "Ockelbo",
+ "max_speed": 17,
+ "motor_fuel": "Bensin",
+ "motor_size": 18.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 435,
+  "fetched_ts": 1790507731426,
+  "text_sha": "e464a710da194c29"
+ },
+ "price": 7000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "B14",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "18 hk",
+  "Motortillverkare": "evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Ockelbo",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "17 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25288511",
+ "width_cm": 0,
+ "year": 1980
+}

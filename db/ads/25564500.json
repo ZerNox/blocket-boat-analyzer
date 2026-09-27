@@ -1,0 +1,79 @@
+{
+ "ad_id": 25564500,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786299797000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2021,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Tiki 750, 80 km/h båtvagn (2022) ingår (nypris ca 20.000)",
+    "included": true,
+    "kmh": 80,
+    "year": 2022
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "CREMO 490 SC,  Honda 60 Hk, Tiki 750-80 km/h",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25564500/c994ce55-167c-4419-86b4-0dc7e5c142ad",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.69976,
+ "length_ft": 16,
+ "location": "Gävle",
+ "lon": 17.19797,
+ "make": "Cremo",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1236,
+  "fetched_ts": 1790508004835,
+  "text_sha": "6edf2cd7560d10c4"
+ },
+ "price": 179000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 179000
+  }
+ ],
+ "specs": {
+  "Bredd": "203 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "23 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "490 SC",
+  "Modellår": "2021",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Cremo",
+  "Sittplatser": "6",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "365 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25564500",
+ "width_cm": 203,
+ "year": 2021
+}

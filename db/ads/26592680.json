@@ -1,0 +1,82 @@
+{
+ "ad_id": 26592680,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789404911000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1993,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Örnvik 510 HT -75 med Yamaha 50 -93 med Powertilt..",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Ett kapell som håller tätt, och du har alltid en torr båt när du kommer efter regn.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik 510 HT -75 med Yamaha 50 -93 med Powertilt.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26592680/2c04a1d3-b8c8-44d2-a958-8ce1926388c1",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 64.93694,
+ "length_ft": 17,
+ "location": "Byske",
+ "lon": 21.27805,
+ "make": "Örnvik",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 401,
+  "fetched_ts": 1790508813755,
+  "text_sha": "0399a188f96a0157"
+ },
+ "price": 27000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 27000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "17 fot",
+  "Modell": "Örnvik 510 HT - 75  med Yamaha 50 Hk -93",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "28 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "300 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26592680",
+ "width_cm": 185,
+ "year": 1975
+}

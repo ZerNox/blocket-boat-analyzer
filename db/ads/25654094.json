@@ -1,0 +1,122 @@
+{
+ "ad_id": 25654094,
+ "boat_class": "Annat",
+ "changed_ts": 1788731742000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2015,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Mycket fin Buster X med helt ny Yamaha F70 motor (under inkörning och med 5 års garanti), ny Garmin GPS med ekolod samt…",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Till båten medföljer kapell, ankare, fendrar, ställning för vintertäckning med presenning samt en 30-trailer.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Mycket fin Buster X med helt ny Yamaha F70 motor (under inkörning och med 5 års garanti), ny Garmin GPS med ekolod samt…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Till båten medföljer kapell, ankare, fendrar, ställning för vintertäckning med presenning samt en 30-trailer.",
+    "included": true,
+    "kmh": 30
+   },
+   "vinterkapell": {
+    "evidence": "Till båten medföljer kapell, ankare, fendrar, ställning för vintertäckning med presenning samt en 30-trailer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Höstpris! Buster X med helt ny (2026) drivlina och elektronik",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25654094/b20ea0e4-5842-44c3-80fc-96b69a8c9216",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.3421,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2015,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Helt ny Yamaha F70 motor (under inkörning och med 5 års garanti)",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0e78b4fe5268a2f8"
+ },
+ "location": "Djurhamn",
+ "lon": 18.73203,
+ "make": "Buster",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 348,
+  "fetched_ts": 1790508074676,
+  "text_sha": "0e78b4fe5268a2f8"
+ },
+ "price": 270000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 270000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "X",
+  "Modellår": "2015",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "32 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25654094",
+ "width_cm": 0,
+ "year": 2015
+}

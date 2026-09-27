@@ -1,0 +1,87 @@
+{
+ "ad_id": 25663065,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786612605000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": 126,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2010,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "HR 510 med Mercury F80 hk 2010.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Badstege Securemark Senaste Garmin ekolod GT54-givare för fiske.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Bimini på bilden ingår ej, Plotterenhet ingår ej då den skall vidare till nästa båt eftersom helt ny.",
+    "included": false
+   },
+   "plotter": {
+    "evidence": "Bimini på bilden ingår ej, Plotterenhet ingår ej då den skall vidare till nästa båt eftersom helt ny.",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "Säljes med TK trailer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 510 med Mercury F80 hk (4-takt) HÖSTPRIS! endast 126 tim sötvattenkörd",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25663065/1f64bca0-e5cd-4515-a7f3-3ec086f61120",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.39996,
+ "length_ft": 17,
+ "location": "Karlstad",
+ "lon": 13.60714,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 496,
+  "fetched_ts": 1790508077645,
+  "text_sha": "197074e2374cf0f4"
+ },
+ "price": 129000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 129000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "510",
+  "Modellår": "2010",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Sittplatser": "6",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25663065",
+ "width_cm": 0,
+ "year": 2010
+}

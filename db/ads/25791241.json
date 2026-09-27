@@ -1,0 +1,107 @@
+{
+ "ad_id": 25791241,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787573849000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1999,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Säljes komplett med båtvagn.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Stilren crescent 425 sport",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25791241/5298ffb8-e9d2-4555-bfe6-5410b32ffb16",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.70501,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1999,
+   "engine_hours": null,
+   "engine_hp": 35,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "46f83a88606b9adf"
+ },
+ "location": "Norrtälje",
+ "lon": 18.82881,
+ "make": "Crescent",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 35.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 388,
+  "fetched_ts": 1790508195476,
+  "text_sha": "46f83a88606b9adf"
+ },
+ "price": 31000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 31000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "425 sport",
+  "Modellår": "1999",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "35 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "35 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25791241",
+ "width_cm": 0,
+ "year": 1999
+}

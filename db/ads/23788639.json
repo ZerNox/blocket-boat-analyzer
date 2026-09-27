@@ -1,0 +1,80 @@
+{
+ "ad_id": 23788639,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785703324000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2013,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorns Årsmodell: 2018",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Terhi 4110",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23788639/24c30951-2494-4c83-af78-b6e9c35fc348",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.49034,
+ "length_ft": 13,
+ "location": "Järfälla",
+ "lon": 17.80714,
+ "make": "Terhi",
+ "max_speed": 29,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 266,
+  "fetched_ts": 1790507539276,
+  "text_sha": "dd13bafb82f1c44b"
+ },
+ "price": 74000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 74000
+  }
+ ],
+ "specs": {
+  "Bredd": "172 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "13 fot",
+  "Modell": "4110",
+  "Modellår": "2013",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Terhi",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "29 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "200 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23788639",
+ "width_cm": 172,
+ "year": 2013
+}

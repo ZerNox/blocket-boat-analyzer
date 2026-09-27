@@ -1,0 +1,86 @@
+{
+ "ad_id": 25256232,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785433110000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2024,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2024,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "- Garmin Echo Map (10tum)102sv med sjökort",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "- Minn Kota Terrova 55WR med snabbkontakter, snabbfäste, automatsäkring och 100amp AGM Batteri, batteritråg",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "- Batteriladdare",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "- Fogelsta 160750ubx 80km/h trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Välutrustad sportfiskebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25256232/b0952270-147b-44bb-9f21-3af03a16c75d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.33243,
+ "length_ft": 15,
+ "location": "Sturefors",
+ "lon": 15.72469,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 2684,
+  "fetched_ts": 1790507694643,
+  "text_sha": "e50d8fc941546715"
+ },
+ "price": 206900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 206900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "460",
+  "Modellår": "2024",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25256232",
+ "width_cm": 0,
+ "year": 2024
+}

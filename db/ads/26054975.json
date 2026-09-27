@@ -1,0 +1,109 @@
+{
+ "ad_id": 26054975,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787755222000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2014,
+  "boat_year_source": "spec",
+  "engine_hours": 150,
+  "engine_maker": "Mercury Fourstroke",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2014,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "stereo": {
+    "evidence": "En mycket fin båt med den snygga kombon röda dynor, vattenskidbåge, badstege, bluetooth radio, dragh, diverse tampar oc…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Nybesiktad obromsad 80 trailer ingår.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds F468",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26054975/a9d344b8-c334-4c4a-80cb-ab0b5edefc18",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 62.37547,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2014,
+   "engine_hours": 150,
+   "engine_hp": 50,
+   "engine_maker": "Mercury Fourstroke",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a5beda4d2d39cc1c"
+ },
+ "location": "Sundsvall",
+ "lon": 17.35705,
+ "make": "Ryds",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 315,
+  "fetched_ts": 1790508419455,
+  "text_sha": "a5beda4d2d39cc1c"
+ },
+ "price": 115000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 115000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "F468",
+  "Modellår": "2014",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury Fourstroke",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Toppfart": "28 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26054975",
+ "width_cm": 0,
+ "year": 2014
+}

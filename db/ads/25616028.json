@@ -1,0 +1,87 @@
+{
+ "ad_id": 25616028,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786454596000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": 200,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "ad med kamrem, olja & filter, drevolja, tändstift, impeller och nya anoder.NMEA 2000 startkit. Garmin 72 ekolod / plotte",
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten är 530 x 240 och är utrustad med en Yamaha F70 från 2018. ca 200 timmar.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin 72 ekolod / plotter. dubbla batterier med skiljerelä.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin 72 ekolod / plotter. dubbla batterier med skiljerelä.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Finns möjlighet att köpa till en riktigt smidig bromsad 80 trailer med elwinsch, reservhjul, gångbord , mm om man önska…",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "declared outboard but text says 'drevolja'"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Karlgrenare 530x240",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25616028/3b83c0b3-8ff8-4129-b299-3d9d5d3b8171",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.92604,
+ "length_ft": 17,
+ "location": "Romelanda",
+ "lon": 12.02632,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 632,
+  "fetched_ts": 1790508053606,
+  "text_sha": "bf8459dd2e7efc16"
+ },
+ "price": 160000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 160000
+  }
+ ],
+ "specs": {
+  "Bredd": "240 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "Karlgrenare",
+  "Modellår": "2017",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25616028",
+ "width_cm": 240,
+ "year": 2017
+}

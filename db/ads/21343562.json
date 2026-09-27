@@ -1,0 +1,90 @@
+{
+ "ad_id": 21343562,
+ "boat_class": "Annat",
+ "changed_ts": 1787821194000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": 60,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2022,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Tracker Super Guide V16T 2022 med Mercury 40 hk Nu säljer jag min välskötta Tracker Super Guide V16T från 2022, utrustad med en Mercury 40 hk fyrtaktsmotor från samma år.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Utrustning som kan köpas till Följande utrustning kan köpas till tillsammans med båten: Humminbird APEX 13 (2023)",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Ett av de främre stuvfacken är förberett för batteri till elmotor",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Original trailerkapell medföljer.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer och tillbehör:",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Tracker super guide v16T Säljes/bytes",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21343562/2e5127db-5cc3-4840-be8f-9bf21c342157",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.31669,
+ "length_ft": 16,
+ "location": "Hammarö",
+ "lon": 13.62441,
+ "make": "Tracker",
+ "max_speed": 26,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1197,
+  "fetched_ts": 1790507423151,
+  "text_sha": "71297eda42f9b502"
+ },
+ "price": 210000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 210000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Röd",
+  "Längd i fot": "16 fot",
+  "Modell": "Super guide v16T",
+  "Modellår": "2022",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Tracker",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "26 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/21343562",
+ "width_cm": 200,
+ "year": 2022
+}

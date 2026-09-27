@@ -1,0 +1,102 @@
+{
+ "ad_id": 26655783,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789636752000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1987,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda 4takt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1987,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "en 80km obromsad trailer med ny axel ingår.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Grisslan",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26655783/5407c0ca-eb8e-408d-8688-3f2b8bf4b30f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.48802,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1987,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9b9abdf4c4c19306"
+ },
+ "location": "Borlänge",
+ "lon": 15.47246,
+ "make": "Grisslan",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 203,
+  "fetched_ts": 1790508846193,
+  "text_sha": "9b9abdf4c4c19306"
+ },
+ "price": 44000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 44000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "16 fot",
+  "Modellår": "1987",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Honda 4takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Grisslan",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26655783",
+ "width_cm": 0,
+ "year": 1987
+}

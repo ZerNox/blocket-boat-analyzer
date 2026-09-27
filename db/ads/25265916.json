@@ -1,0 +1,115 @@
+{
+ "ad_id": 25265916,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785753786000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury ME-F60",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2010,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod + GPS ingår.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ekolod + GPS ingår.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Oregistrerat 30 Släp ingår.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 535 med 60hk Mercury",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25265916/ee4ac46d-1efc-4691-8044-8354a9cb06bf",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.35591,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2010,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "08387f49791d821e"
+ },
+ "location": "Brastad",
+ "lon": 11.38619,
+ "make": "Ryds",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 90,
+  "fetched_ts": 1790507705041,
+  "text_sha": "08387f49791d821e"
+ },
+ "price": 83000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 83000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "Ryds 535 DL S/M",
+  "Modellår": "2010",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury ME-F60",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25265916",
+ "width_cm": 0,
+ "year": 2010
+}

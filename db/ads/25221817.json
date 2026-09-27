@@ -1,0 +1,80 @@
+{
+ "ad_id": 25221817,
+ "boat_class": "Annat",
+ "changed_ts": 1785331675000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1997,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "70hk Evinrude -97.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "plotter": {
+    "evidence": "45 000 utan gps.",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "Enkel 30 kärra ingår i köpet.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Hansvik 18 ht",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25221817/7c9e90b7-c382-4780-aba3-c560f0ecb2aa",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.76729,
+ "length_ft": 18,
+ "location": "Västervik",
+ "lon": 16.61932,
+ "make": "Hansvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 173,
+  "fetched_ts": 1790507659231,
+  "text_sha": "d1afda547e75cd6c"
+ },
+ "price": 50000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 50000
+  }
+ ],
+ "specs": {
+  "Bredd": "212 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modellår": "1989",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Hansvik",
+  "Sittplatser": "5",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25221817",
+ "width_cm": 212,
+ "year": 1989
+}

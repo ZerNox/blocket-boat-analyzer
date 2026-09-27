@@ -1,0 +1,105 @@
+{
+ "ad_id": 25866616,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787206077000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1979,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båttrailer är av märket Bålstasläp 1250kg.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Monark 555",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25866616/ad17028a-6d71-4a2b-8061-94e7d5209a42",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.65329,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1979,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Båtmotorn är servad med ny växellådsolja och ny impeller.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0adc75686192c5bb"
+ },
+ "location": "Enköping",
+ "lon": 17.0821,
+ "make": "Monark",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 174,
+  "fetched_ts": 1790508262799,
+  "text_sha": "0adc75686192c5bb"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "555",
+  "Modellår": "1979",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Monark",
+  "Sittplatser": "5",
+  "Toppfart": "25 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "510 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25866616",
+ "width_cm": 0,
+ "year": 1979
+}

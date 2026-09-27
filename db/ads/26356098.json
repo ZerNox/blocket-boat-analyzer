@@ -1,0 +1,96 @@
+{
+ "ad_id": 26356098,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788686607000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": 266,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Buster X C4 och Yamaha F80 från 2007.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "-Garmin ECHOMAP Plus 72sv med Sweden South-East och ekolod",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "-Hydraulisk styrning.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "-Akterkapell och skydd mellan pulpeterna",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "-Garmin ECHOMAP Plus 72sv med Sweden South-East och ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80-trailer",
+    "included": true,
+    "kmh": 80,
+    "year": 2015
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster X - F80 - 80-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26356098/e41813f0-e68d-4c6f-9f4d-4ab14146aa30",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.34584,
+ "length_ft": 17,
+ "location": "Solna",
+ "lon": 18.00691,
+ "make": "Buster",
+ "max_speed": 29,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 612,
+  "fetched_ts": 1790508622833,
+  "text_sha": "35b8a1ab5b1491b4"
+ },
+ "price": 135000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 135000
+  }
+ ],
+ "specs": {
+  "Bredd": "206 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "X C4",
+  "Modellår": "2007",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "29 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "480 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26356098",
+ "width_cm": 206,
+ "year": 2007
+}

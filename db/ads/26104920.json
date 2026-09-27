@@ -1,0 +1,112 @@
+{
+ "ad_id": 26104920,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787925831000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "äldre ekolod Humminbird.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "hamnkapell",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30kmh båtkärra anpassad till båten.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 430/440 styrpulpet",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26104920/ae917a2f-7bb1-482b-8b43-30c3fcef8743",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.24969,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1900,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "excluded",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "excluded",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0c85c85c0936f7e4"
+ },
+ "location": "Tyresö",
+ "lon": 18.24818,
+ "make": "Crescent",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 307,
+  "fetched_ts": 1790508465550,
+  "text_sha": "0c85c85c0936f7e4"
+ },
+ "price": 36400,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 36400
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modellår": "1900",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26104920",
+ "width_cm": 0,
+ "year": 1900
+}

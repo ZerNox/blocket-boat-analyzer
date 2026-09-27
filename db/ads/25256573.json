@@ -1,0 +1,77 @@
+{
+ "ad_id": 25256573,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785434048000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": 40,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Gummibåt Yam 380S-Yamaha 25hp (2021) med båttrailler 80km/h.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Säljs med passande båttrailer samt en näst ny O'Brien åkring för 2/3 pers.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Gummibåt Yam 380S-Yamaha 25hp (2021) med båttrailler 80km/h",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25256573/b5d93b00-9f47-45af-81db-5809fe81a5a2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.14879,
+ "length_ft": 13,
+ "location": "Värnamo",
+ "lon": 14.00595,
+ "make": "Yam",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 355,
+  "fetched_ts": 1790507696260,
+  "text_sha": "c931ea14821e4e51"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Grå",
+  "Längd i fot": "13 fot",
+  "Modell": "Yam 380S",
+  "Modellår": "2021",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Yam",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "72 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25256573",
+ "width_cm": 0,
+ "year": 2021
+}

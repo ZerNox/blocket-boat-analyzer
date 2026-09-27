@@ -1,0 +1,117 @@
+{
+ "ad_id": 26096081,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787907755000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod/Plotter med sjökort",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Elmotorfäste akter + elmotor",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ekolod/Plotter med sjökort",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer 80km/h",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder 445 MAX",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26096081/aa8b24d9-a0af-4fcc-bc8e-a595a81d363d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.41361,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2025,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "34028d82510db769"
+ },
+ "location": "Vaxholm",
+ "lon": 18.30457,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 164,
+  "fetched_ts": 1790508458711,
+  "text_sha": "34028d82510db769"
+ },
+ "price": 149000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 149000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "445 MAX",
+  "Modellår": "2025",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26096081",
+ "width_cm": 0,
+ "year": 2025
+}

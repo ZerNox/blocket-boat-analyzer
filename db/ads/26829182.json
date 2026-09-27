@@ -1,0 +1,105 @@
+{
+ "ad_id": 26829182,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1790177514000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury 60 EFI",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Plotter",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 510 MC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26829182/49fdb752-7198-4954-96ff-4319b8e460dc",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.59686,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2007,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "26ca3cb7cdaba5b3"
+ },
+ "location": "Donsö",
+ "lon": 11.81988,
+ "make": "Ryds",
+ "max_speed": 24,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 223,
+  "fetched_ts": 1790508963299,
+  "text_sha": "26ca3cb7cdaba5b3"
+ },
+ "price": 110000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 110000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "510 MC",
+  "Modellår": "2007",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury 60 EFI",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Toppfart": "24 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "630 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26829182",
+ "width_cm": 220,
+ "year": 2007
+}

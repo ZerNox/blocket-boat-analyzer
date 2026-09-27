@@ -1,0 +1,87 @@
+{
+ "ad_id": 26233620,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788282464000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2003,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamaha 15hk fyrtakt från 2003 som startar lätt och går bra.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Lowrance ekolod.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Elmotorfäste",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance ekolod.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fin Tiki 30 trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Styrpulpet",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26233620/f4bd1e75-66eb-4bf7-bdbe-9b169ef55ca6",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.94234,
+ "length_ft": 15,
+ "location": "Mora",
+ "lon": 14.29925,
+ "make": "Yamaha",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 373,
+  "fetched_ts": 1790508536826,
+  "text_sha": "cfa8b66df4936cc5"
+ },
+ "price": 32000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 32000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modellår": "2003",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamaha",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26233620",
+ "width_cm": 0,
+ "year": 2003
+}

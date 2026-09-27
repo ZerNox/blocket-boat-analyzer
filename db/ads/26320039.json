@@ -1,0 +1,72 @@
+{
+ "ad_id": 26320039,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788591492000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2026,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu MFS9,9 CY EFS, rorkult, elstart, kort rigg",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2026,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Terhi 400 med 9.9 hk Tohatsu från 2026 med endast en timmes körtid säljes.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Terhi 400",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26320039/cfe762c6-2e97-45cb-8257-6f8bbd0d0332",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.40994,
+ "length_ft": 13,
+ "location": "Gällnöby",
+ "lon": 18.67445,
+ "make": "Terhi",
+ "max_speed": 18,
+ "motor_fuel": "Bensin",
+ "motor_size": 9.899999618530273,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 210,
+  "fetched_ts": 1790508598767,
+  "text_sha": "96cdea38edc7bef3"
+ },
+ "price": 52000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 52000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "13 fot",
+  "Modell": "400",
+  "Modellår": "2026",
+  "Motorstorlek": "9.9 hk",
+  "Motortillverkare": "Tohatsu MFS9,9 CY EFS, rorkult, elstart, kort rigg",
+  "Motortyp": "Utombordare",
+  "Märke": "Terhi",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "18 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "120 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26320039",
+ "width_cm": 0,
+ "year": 2026
+}

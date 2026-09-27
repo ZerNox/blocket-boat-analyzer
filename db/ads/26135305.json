@@ -1,0 +1,118 @@
+{
+ "ad_id": 26135305,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788012761000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercery",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Humminbird helix 9 si ekolod kan köpas till.",
+    "included": false
+   },
+   "elmotor": {
+    "evidence": "Elmotorn ej till salu, den följer inte med båten.",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "Båten står på en reggad fogelsta 750 kärra 80km Kärran är nybesiktigad 28/8",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 430 fiskebåt mercury 20hk 4takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26135305/35b5a099-3b9e-4280-ae9d-681c8e55c004",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.23677,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 20,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn är en mercury 20hk 4takt från 16",
+   "engine_year_rejected": 1996,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "excluded",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b5c7d8646c7502f9"
+ },
+ "location": "Stora Mellösa",
+ "lon": 15.55252,
+ "make": "Crescent",
+ "max_speed": 18,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 533,
+  "fetched_ts": 1790508479061,
+  "text_sha": "b5c7d8646c7502f9"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Bredd": "190 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "430",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Mercery",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "18 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "210 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26135305",
+ "width_cm": 190,
+ "year": 1978
+}

@@ -1,0 +1,82 @@
+{
+ "ad_id": 25527291,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787394516000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": 155,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ny motor, Mercury 50hk 4takt 2018 med endast 155 timmar.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "30-släp från Fogelsta ingår samt helt nya tampar, ankare, fendrar osv.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crecsent 535 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25527291/db46bf55-fb4d-4041-84de-b1825bc0a240",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.33609,
+ "length_ft": 16,
+ "location": "Saltsjö-Boo",
+ "lon": 18.32773,
+ "make": "Crescent",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 811,
+  "fetched_ts": 1790507963807,
+  "text_sha": "83c995df263fecde"
+ },
+ "price": 52000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 52000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "535 HT",
+  "Modellår": "1985",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "700 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25527291",
+ "width_cm": 200,
+ "year": 1985
+}

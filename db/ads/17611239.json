@@ -1,0 +1,81 @@
+{
+ "ad_id": 17611239,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785487540000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2009,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2009,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "fisherman 20 med 50hk tohatsu 2009 insprutning i toppskick, motorn går som en dröm och är väl omhändertagen.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "mycket användarvänlig båt byggd för att klara tuffa förhållanden. ekolod ingår så man ser vart fisken är. trailern ingå…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "mycket användarvänlig båt byggd för att klara tuffa förhållanden. ekolod ingår så man ser vart fisken är. trailern ingå…",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "6meter styrpulpet fisherman 20",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/17611239/9cbeb254-07c6-4a70-9ce8-40ed65fcb68d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.35782,
+ "length_ft": 20,
+ "location": "Idkerberget",
+ "lon": 15.2156,
+ "make": "Övriga",
+ "max_speed": 37,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 380,
+  "fetched_ts": 1790507321063,
+  "text_sha": "d7c3a03350a90b44"
+ },
+ "price": 34000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 34000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "20 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modellår": "2009",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Toppfart": "37 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "200 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/17611239",
+ "width_cm": 210,
+ "year": 2009
+}

@@ -1,0 +1,82 @@
+{
+ "ad_id": 25205808,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785332432000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2001,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamaha F50AETL -01",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Lite tampar, en kätting (inget lås) och en äldre Garmin echoMap 50S medföljer.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lite tampar, en kätting (inget lås) och en äldre Garmin echoMap 50S medföljer.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "HR 465 S, Yamaha F50AETL, Brenderup 600",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 465 S, Yamaha F50AETL, Brenderup 600",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25205808/c8c2a26c-f943-4d2e-84d1-2c6a4c4ec092",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.58538,
+ "length_ft": 15,
+ "location": "Norrköping",
+ "lon": 16.18179,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 218,
+  "fetched_ts": 1790507648002,
+  "text_sha": "b684e8fe66a3ba3f"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "465 S",
+  "Modellår": "1999",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25205808",
+ "width_cm": 0,
+ "year": 1999
+}

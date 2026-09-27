@@ -1,0 +1,109 @@
+{
+ "ad_id": 25829794,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787072825000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": 50,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2020,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båten levereras med en 30 km trailer med vinsch.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Theri 400 honda BF20D",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25829794/befac199-c5a1-42e4-ba5d-21fa7331508d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.80836,
+ "length_ft": 12,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2020,
+   "engine_hours": null,
+   "engine_hp": 20,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5fdae0c368b1e2ed"
+ },
+ "location": "Angered",
+ "lon": 12.02887,
+ "make": "Terhi",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 177,
+  "fetched_ts": 1790508234180,
+  "text_sha": "5fdae0c368b1e2ed"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Djupgående": "23 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "12 fot",
+  "Modell": "400c",
+  "Modellår": "2020",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Terhi",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "25 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "100 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25829794",
+ "width_cm": 0,
+ "year": 2020
+}

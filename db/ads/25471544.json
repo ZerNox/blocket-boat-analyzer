@@ -1,0 +1,106 @@
+{
+ "ad_id": 25471544,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786044109000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1999,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "båten går som den ska och står på en ”hemma” byggd 30 kärra som fås med om man vill det.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Micore 490 gt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25471544/5a1a0e41-466d-496a-a915-4a45abbc6c78",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.0551,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1999,
+   "engine_hours": null,
+   "engine_hp": 65,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "dc28c8f55fd63116"
+ },
+ "location": "Katrineholm",
+ "lon": 16.06177,
+ "make": "Micore",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 65.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 447,
+  "fetched_ts": 1790507901704,
+  "text_sha": "dc28c8f55fd63116"
+ },
+ "price": 52000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 52000
+  }
+ ],
+ "specs": {
+  "Bredd": "187 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "micore 490 gt",
+  "Modellår": "1999",
+  "Motorstorlek": "65 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Micore",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "360 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25471544",
+ "width_cm": 187,
+ "year": 1999
+}

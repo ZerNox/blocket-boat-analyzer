@@ -1,0 +1,87 @@
+{
+ "ad_id": 26246919,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789721577000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1990,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "* Evinrude 50 hk 2-takts utombordsmotor från ca 1990-talet",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "* Humminbird Helix 5 ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "* Hamnkapell",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "* Trailer ingår",
+    "included": true,
+    "kmh": 80,
+    "year": 2019
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fiskebåt Evinrude 50 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26246919/458f0438-8203-4c8d-955a-1fa3159cc8b4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.68606,
+ "length_ft": 14,
+ "location": "Malung",
+ "lon": 13.71069,
+ "make": "Ryds",
+ "max_speed": 16,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 856,
+  "fetched_ts": 1790508554578,
+  "text_sha": "10809faf2b428ca4"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Bredd": "165 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Svart mörkblå",
+  "Längd i fot": "14 fot",
+  "Modellår": "1990",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "16 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26246919",
+ "width_cm": 165,
+ "year": 1990
+}

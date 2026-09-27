@@ -1,0 +1,82 @@
+{
+ "ad_id": 25336415,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1785684443000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki df70 fyrtakt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds camping med Suzuki DF70 fyrtakt från 2007",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Elite 5 ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lawrence hds10m plotter",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds camping 570 trollingutrustad Suzuki 70 hk fyrtakt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25336415/7566b33c-1cfd-4a8f-80e8-9eb36b859833",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.20563,
+ "length_ft": 19,
+ "location": "Hammarö",
+ "lon": 13.54259,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 159,
+  "fetched_ts": 1790507773617,
+  "text_sha": "4c7cde1fb744c95a"
+ },
+ "price": 68000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 68000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Orange",
+  "Längd i fot": "19 fot",
+  "Modell": "Ryds camping",
+  "Modellår": "1977",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Suzuki df70 fyrtakt",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "800 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25336415",
+ "width_cm": 220,
+ "year": 1977
+}

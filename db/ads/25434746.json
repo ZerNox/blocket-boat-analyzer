@@ -1,0 +1,81 @@
+{
+ "ad_id": 25434746,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786555879000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "2008 Tohatsu Fourstroke 9.8 + lös tank på 12 liter.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Utan trailer: 23000:-",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 465E + Tohatsu Fourstroke 9.8 + Brenderup 80km/h trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25434746/5cbe187a-ace2-4278-a83e-d33d9aed87d7",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.09989,
+ "length_ft": 15,
+ "location": "Nösund",
+ "lon": 11.53261,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 9.800000190734863,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 425,
+  "fetched_ts": 1790507864088,
+  "text_sha": "1c6c7311da5e1a58"
+ },
+ "price": 38000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 38000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "465E",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "9.8 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "200 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25434746",
+ "width_cm": 175,
+ "year": 2008
+}

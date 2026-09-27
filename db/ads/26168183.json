@@ -1,0 +1,113 @@
+{
+ "ad_id": 26168183,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788100010000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury Big Foot",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1979,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell I renoverat o mycket bra skick.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds camping och bromsad trailer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds camping och  bromsad trailer.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26168183/140dc36f-c1ba-48b0-a6f4-48eb73e6aa6d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.18784,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1979,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury Big Foot",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f9b07ec7d5e458fd"
+ },
+ "location": "Nossebro",
+ "lon": 12.7281,
+ "make": "Ryds",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 177,
+  "fetched_ts": 1790508502377,
+  "text_sha": "f9b07ec7d5e458fd"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "Camping",
+  "Modellår": "1979",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury Big Foot",
+  "Märke": "Ryds",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "5",
+  "Toppfart": "25 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26168183",
+ "width_cm": 220,
+ "year": 1979
+}

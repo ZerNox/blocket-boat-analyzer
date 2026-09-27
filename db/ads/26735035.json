@@ -1,0 +1,76 @@
+{
+ "ad_id": 26735035,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789896507000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1995,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor mercury 30 hp 1995 2 takt",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailern är ett BT-vagn",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ht båt 440",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26735035/990e704b-1abc-477e-b8b4-b842e74fb819",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.37835,
+ "length_ft": 14,
+ "location": "Edsbyn",
+ "lon": 15.90983,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 238,
+  "fetched_ts": 1790508899155,
+  "text_sha": "78035f86c68a7b3a"
+ },
+ "price": 14000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 14000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modellår": "1970",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26735035",
+ "width_cm": 0,
+ "year": 1970
+}

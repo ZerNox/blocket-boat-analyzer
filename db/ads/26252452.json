@@ -1,0 +1,127 @@
+{
+ "ad_id": 26252452,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788354528000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2018,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "Evinrude utan E-TEC tillverkades till 2007",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "RAM Mounts-fäste för ekolod",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "100 Ah litiumbatteri med Bluetooth till elmotorn",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Original trailerkapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance Elite Ti² 9”",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "100 Ah litiumbatteri med Bluetooth till elmotorn",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Respo 80-trailer, 750 kg",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HÖSTPRIS! - Tracker Super Guide V16 - 2018",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26252452/03f7f63a-5914-4113-b87f-cb6a5a2b2ba9",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.32191,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2018,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ffbbb3bd6b74eec0"
+ },
+ "location": "Värmdö",
+ "lon": 18.44756,
+ "make": "Tracker",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 488,
+  "fetched_ts": 1790508557109,
+  "text_sha": "ffbbb3bd6b74eec0"
+ },
+ "price": 215000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 215000
+  }
+ ],
+ "specs": {
+  "Bredd": "193 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Svart",
+  "Längd i fot": "16 fot",
+  "Modell": "Super Guide V16",
+  "Modellår": "2018",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Tracker",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26252452",
+ "width_cm": 193,
+ "year": 2018
+}

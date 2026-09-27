@@ -1,0 +1,106 @@
+{
+ "ad_id": 25411594,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785910689000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1986,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1986,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellet har sett bättre dagar.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Finnspeed 550 med 75 hästar Yamaha motor (2takt) och båtkärra.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Finnspeed 550",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25411594/a763c7cb-5afd-48ec-bb92-28ea4fd757db",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.02341,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1986,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Båtens motor är 75 hästar Yamaha motor (2takt)",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f417549b4771d0cb"
+ },
+ "location": "Bengtsfors",
+ "lon": 12.19833,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 439,
+  "fetched_ts": 1790507846491,
+  "text_sha": "f417549b4771d0cb"
+ },
+ "price": 38000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 38000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modellår": "1986",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25411594",
+ "width_cm": 0,
+ "year": 1986
+}

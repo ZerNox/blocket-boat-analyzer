@@ -1,0 +1,72 @@
+{
+ "ad_id": 26206037,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788195589000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1998,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mercury 15hk 1998 går mycket bra och startar lätt",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailern på bild ingår ej",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Eka 15hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26206037/ad46f489-e5b9-4e2b-88b7-ad5b519a43e7",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.62308,
+ "length_ft": 13,
+ "location": "Sandviken",
+ "lon": 16.83968,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 116,
+  "fetched_ts": 1790508512349,
+  "text_sha": "75664e955783150e"
+ },
+ "price": 12000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "13 fot",
+  "Modellår": "1998",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26206037",
+ "width_cm": 0,
+ "year": 1998
+}

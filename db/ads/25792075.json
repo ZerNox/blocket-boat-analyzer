@@ -1,0 +1,114 @@
+{
+ "ad_id": 25792075,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786972865000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": 300,
+  "engine_maker": "Honda BF50",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": "Motor Honda bf 50 årsmodell 2007, gångtid 300 timmar",
+  "engine_year_source": "llm",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell (köptes nytt 2014)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "GPS Garmin 172c",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "I köpet ingår även en 80 km/h båtkärra från fogelsta som besiktigades så sent som den 27e juli i år.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "ambiguous engine years [2007, 2025]"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 478 gt med Honda BF50",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25792075/50d9ee22-044a-47c4-b626-958808288e12",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.52441,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2007,
+   "engine_hours": 300,
+   "engine_hp": 50,
+   "engine_maker": "Honda BF50",
+   "engine_type": "outboard",
+   "engine_year": 2007,
+   "engine_year_evidence": "Motor Honda bf 50 årsmodell 2007, gångtid 300 timmar",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "121ebbddb1d18fe0"
+ },
+ "location": "Hagby",
+ "lon": 16.2203,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 789,
+  "fetched_ts": 1790508196832,
+  "text_sha": "121ebbddb1d18fe0"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Bredd": "191 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "478 gt",
+  "Modellår": "2007",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda BF50",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25792075",
+ "width_cm": 191,
+ "year": 2007
+}

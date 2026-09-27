@@ -1,0 +1,123 @@
+{
+ "ad_id": 26601042,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790056383000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2009,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2001,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer en Scandica 440 med Yamaha 50Hk fyrtaktsmotor motor 2001, båt 2009",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ingår även ekolod Garmin ECHOMAP UHD2 92sv med GT56-givare",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "ingår även elmotor märke Watersnake Geo-Spot GPS SW 65lb/ 60\" (#9) inköpt ny 2025",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "ingår även elmotor märke Watersnake Geo-Spot GPS SW 65lb/ 60\" (#9) inköpt ny 2025",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fiskebåt, Scandica 440, Yamaha 50 HK, trailer Tiki BT-700 80Km/H",
+    "included": true,
+    "kmh": 80,
+    "year": 2009
+   }
+  },
+  "llm_reasons": [
+   "engine 2001 older than boat 2009"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fiskebåt, Scandica 440, Yamaha  50 HK, trailer Tiki BT-700 80Km/H",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26601042/a099212b-bdd4-4cc8-8cd2-05b42deb28a8",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.55943,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2009,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": 2001,
+   "engine_year_evidence": "Säljer en Scandica 440 med Yamaha 50Hk fyrtaktsmotor motor 2001, båt 2009",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1aa81daa0b0f99a6"
+ },
+ "location": "Motala",
+ "lon": 15.03295,
+ "make": "Scandica",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 422,
+  "fetched_ts": 1790508816652,
+  "text_sha": "1aa81daa0b0f99a6"
+ },
+ "price": 85000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 85000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå",
+  "Längd i fot": "14 fot",
+  "Modell": "440",
+  "Modellår": "2009",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Scandica",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "300 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26601042",
+ "width_cm": 180,
+ "year": 2009
+}

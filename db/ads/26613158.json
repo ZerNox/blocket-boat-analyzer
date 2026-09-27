@@ -1,0 +1,82 @@
+{
+ "ad_id": 26613158,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789481510000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2014,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2014,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer en fin och lättkörd Ryds F468 Sport från 2014 med Mercury 60 hk fyrtaktsmotor.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin Ekolod",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Röd dynsats samt ett kapell medföljer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 468 sport",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26613158/2e5c5638-1687-4a6b-b2bd-72935f273108",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.98635,
+ "length_ft": 15,
+ "location": "Tranås",
+ "lon": 14.97816,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": null,
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 915,
+  "fetched_ts": 1790508821075,
+  "text_sha": "7b102381e3e13b89"
+ },
+ "price": 138000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 138000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "468 sport",
+  "Modellår": "2014",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26613158",
+ "width_cm": 0,
+ "year": 2014
+}

@@ -1,0 +1,69 @@
+{
+ "ad_id": 18813403,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787150094000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": 100,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2020,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "HR 480 sc Mercury 80 hk 2020.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 480 sc Mercury 80 hk 2020",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/18813403/54cf067f-af11-42f6-9c2e-f25e1053f4c4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.17792,
+ "length_ft": 16,
+ "location": "Karlskrona",
+ "lon": 15.62117,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 140,
+  "fetched_ts": 1790507411751,
+  "text_sha": "27425fa48f641e50"
+ },
+ "price": 165000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 165000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "480 sc",
+  "Modellår": "2020",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/18813403",
+ "width_cm": 0,
+ "year": 2020
+}

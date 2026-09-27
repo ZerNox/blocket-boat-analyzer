@@ -1,0 +1,105 @@
+{
+ "ad_id": 26428220,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789374427000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2010,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Pioner 13 fot med 9,8 hk Tohatsu och 30-kärra.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Plastbåt med motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26428220/bb774fb0-1322-404f-9318-6a9f4e17632a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.31064,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2010,
+   "engine_hours": null,
+   "engine_hp": 9.8,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Nyservad motor med nytt batteri och ny bränsletank med tillbehör.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9272cc3ca392f347"
+ },
+ "location": "Kristinehamn",
+ "lon": 14.13947,
+ "make": "Pioner",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 9.800000190734863,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 112,
+  "fetched_ts": 1790508681972,
+  "text_sha": "9272cc3ca392f347"
+ },
+ "price": 28000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 28000
+  }
+ ],
+ "specs": {
+  "Bredd": "155 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "13 fot",
+  "Modell": "13",
+  "Modellår": "2010",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "9.8 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Pioner",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26428220",
+ "width_cm": 155,
+ "year": 2010
+}

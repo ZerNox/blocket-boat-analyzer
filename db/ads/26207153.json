@@ -1,0 +1,99 @@
+{
+ "ad_id": 26207153,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788200579000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "Evinrude utan E-TEC tillverkades till 2007",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sting 600 PRO",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26207153/b591c3c8-17a0-4227-b69c-b8c5a9fa52f4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 65.60297,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2019,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f6a4803504bb2538"
+ },
+ "location": "Luleå",
+ "lon": 22.11852,
+ "make": "Sting",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790508515278,
+  "text_sha": "f6a4803504bb2538"
+ },
+ "price": 270000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 270000
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modell": "600 PRO",
+  "Modellår": "2019",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Sting",
+  "Toppfart": "30 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26207153",
+ "width_cm": 230,
+ "year": 2019
+}

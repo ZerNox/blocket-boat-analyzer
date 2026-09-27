@@ -1,0 +1,84 @@
+{
+ "ad_id": 25822925,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787062703000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2022,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Hej jag har en Uttern s45 med en Mercury F50 EFI som är ny ifrån 2022.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "*Körkapell",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "*Stereo med 2 st högtalare",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern S45 Mercury F50 EFI",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25822925/9c4caaaa-02dc-4834-8af5-44a3d37b3f97",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.63009,
+ "length_ft": 15,
+ "location": "Sandviken",
+ "lon": 16.78396,
+ "make": "Uttern",
+ "max_speed": 26,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 986,
+  "fetched_ts": 1790508221260,
+  "text_sha": "fb40ecabe090402c"
+ },
+ "price": 165000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 165000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Grå och vit",
+  "Längd i fot": "15 fot",
+  "Modell": "S45",
+  "Modellår": "2022",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "26 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "401 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25822925",
+ "width_cm": 185,
+ "year": 2022
+}

@@ -1,0 +1,112 @@
+{
+ "ad_id": 25801190,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786989259000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2018,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "förgasar-tvåtakt såldes inte ny i EU efter 2007",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "I priset ingår en besiktad obromsad 80 km/h båtkärra från -21, ekolod, ring att köra efter båten samt bensintank.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "I priset ingår en besiktad obromsad 80 km/h båtkärra från -21, ekolod, ring att köra efter båten samt bensintank.",
+    "included": true,
+    "kmh": 80,
+    "year": 2021
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 442SC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25801190/17127fed-aab1-48e7-ad85-3c103a243dcb",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.89938,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2018,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Utombordare Motortillverkare: Yamaha Motor inkluderad: Ja Motorkvarter: en Yamaha tvåtaktare av äldre modell men servad och fungerar felfritt",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5dc286db15dcbd4f"
+ },
+ "location": "Hova",
+ "lon": 14.19338,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 517,
+  "fetched_ts": 1790508203802,
+  "text_sha": "5dc286db15dcbd4f"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Bredd": "188 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "442 SC",
+  "Modellår": "2018",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Sittplatser": "5",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25801190",
+ "width_cm": 188,
+ "year": 2018
+}

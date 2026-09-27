@@ -1,0 +1,102 @@
+{
+ "ad_id": 20968222,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786357711000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Hidea",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2021,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Alloycraft basspro 498",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/20968222/9947f8fa-4c93-4cda-be9d-09cb837ce8ae",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.2257,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2021,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Hidea",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d9d301a66cef06f6"
+ },
+ "location": "Ramdala",
+ "lon": 15.79479,
+ "make": "Alloycraft",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790507420281,
+  "text_sha": "d9d301a66cef06f6"
+ },
+ "price": 210000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 210000
+  }
+ ],
+ "specs": {
+  "Bredd": "224 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "25 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "498 basspro",
+  "Modellår": "2021",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Hidea",
+  "Motortyp": "Utombordare",
+  "Märke": "Alloycraft",
+  "Toppfart": "28 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/20968222",
+ "width_cm": 224,
+ "year": 2021
+}

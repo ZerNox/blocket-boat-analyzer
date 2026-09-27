@@ -1,0 +1,86 @@
+{
+ "ad_id": 25269162,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785493502000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": 75,
+  "engine_maker": "• Yamaha F40 FETL EFI, årsmodell 2020",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2020,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: • Yamaha F40 FETL EFI, årsmodell 2020",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin plotter",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "TIKI BB750 båtvagn ingår",
+    "included": true,
+    "year": 2021
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Terhi 450 C med Yamaha F40 EFI – endast 75 gångtimmar. TIKI BB750 båtvagn ingår",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25269162/29dabefb-d820-4921-9359-5b6d7c6c87d3",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.56756,
+ "length_ft": 15,
+ "location": "Nordmaling",
+ "lon": 19.47706,
+ "make": "Terhi",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 790,
+  "fetched_ts": 1790507707957,
+  "text_sha": "1ecd1deab947c411"
+ },
+ "price": 118000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 118000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "450C",
+  "Modellår": "2020",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "• Yamaha F40 FETL EFI, årsmodell 2020",
+  "Motortyp": "Utombordare",
+  "Märke": "Terhi",
+  "Toppfart": "28 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25269162",
+ "width_cm": 185,
+ "year": 2020
+}

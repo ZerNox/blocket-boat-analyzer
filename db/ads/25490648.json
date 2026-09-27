@@ -1,0 +1,108 @@
+{
+ "ad_id": 25490648,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786110456000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Säljes: Båt med två motorer, båtvagn och åror",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sibo 440 fiskebåt med 2 motorer!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25490648/82d3ccfe-145b-4b94-8278-bdca989bab97",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.52841,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 3.5,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor 1: Suzuki 3,5 hk (2-takt)",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "be1321c28bc2f2a6"
+ },
+ "location": "Storfors",
+ "lon": 14.25688,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 3.5,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 603,
+  "fetched_ts": 1790507917710,
+  "text_sha": "be1321c28bc2f2a6"
+ },
+ "price": 12000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12000
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Gul",
+  "Längd i fot": "14 fot",
+  "Modell": "Sibo 440",
+  "Modellår": "1980",
+  "Motorstorlek": "3.5 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "100 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25490648",
+ "width_cm": 170,
+ "year": 1980
+}

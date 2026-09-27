@@ -1,0 +1,74 @@
+{
+ "ad_id": 26359416,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788691214000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1989,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är en Evinrude 50 hk 2-takt, -89",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "båtvagn ingår",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 480 S",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26359416/c00ed2ee-f38f-44cb-aac4-e768e5aa90e2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.25096,
+ "length_ft": 16,
+ "location": "Arnäsvall",
+ "lon": 18.96057,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 210,
+  "fetched_ts": 1790508624199,
+  "text_sha": "9a01aacaef2b6d42"
+ },
+ "price": 34000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 34000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "480 S",
+  "Modellår": "1989",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26359416",
+ "width_cm": 0,
+ "year": 1989
+}

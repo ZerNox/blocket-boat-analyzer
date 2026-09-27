@@ -1,0 +1,112 @@
+{
+ "ad_id": 23714353,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785479743000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1996,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "GPS/ Plotter Ramarine Dragonfly 4 Pro.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Köp med en 80 kärra av Thule/ Brenderup från 2007 maxlast 1000kg då är priset 72.000:-",
+    "included": true,
+    "kmh": 80,
+    "year": 2007
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Askeladden 485 Intuder",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23714353/42f0befa-cebc-4356-bf68-b68f0c51451c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.91264,
+ "length_ft": 7,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1996,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Säljes med 75 HP Mercury 2 Takt. Båda från -96",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "17a31b5bdd1b952d"
+ },
+ "location": "Alingsås",
+ "lon": 12.55632,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 258,
+  "fetched_ts": 1790507529804,
+  "text_sha": "17a31b5bdd1b952d"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Bredd": "2008 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "7 fot",
+  "Modell": "485 intruder",
+  "Modellår": "1996",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Askeladden",
+  "Sittplatser": "7",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23714353",
+ "width_cm": 2008,
+ "year": 1996
+}

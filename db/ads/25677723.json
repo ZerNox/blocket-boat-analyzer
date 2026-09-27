@@ -1,0 +1,110 @@
+{
+ "ad_id": 25677723,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787054125000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2012,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Fiskebåt kastdäck 35hk+elmotor styrpulpet släp ingår",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fiskebåt kastdäck 35hk+elmotor styrpulpet släp ingår",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fiskebåt kastdäck 35hk+elmotor styrpulpet släp ingår",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25677723/8485ea42-6739-4503-ace9-f0aae837accb",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.89129,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2012,
+   "engine_hours": null,
+   "engine_hp": 35,
+   "engine_maker": "Övriga",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d998f6f485f42959"
+ },
+ "location": "Uppsala",
+ "lon": 17.46879,
+ "make": "Övriga",
+ "max_speed": 26,
+ "motor_fuel": "Bensin",
+ "motor_size": 35.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 599,
+  "fetched_ts": 1790508087809,
+  "text_sha": "d998f6f485f42959"
+ },
+ "price": 27000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 27000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Kamouflage",
+  "Längd i fot": "16 fot",
+  "Modellår": "2012",
+  "Motorstorlek": "35 hk",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "3",
+  "Skrovmaterial": "Annat",
+  "Toppfart": "26 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25677723",
+ "width_cm": 175,
+ "year": 2012
+}

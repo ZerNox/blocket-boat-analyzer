@@ -1,0 +1,78 @@
+{
+ "ad_id": 26218309,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789726848000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha F70",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Den rymmer ett helt lass barn och vuxna, bra med stuvutrymmen, kraftfull motor fr 2011, rek varmt vattenskidor och wakeboard.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Dynor, ankare, fendrar, tampar och trailer medföljer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent Stingray,  Yamaha 70 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26218309/2f25aaa5-e29c-4d85-9fe3-0c11d0e586b6",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.30004,
+ "length_ft": 17,
+ "location": "Stråvalla",
+ "lon": 12.20758,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 500,
+  "fetched_ts": 1790508526983,
+  "text_sha": "0d6c7b47e18b1209"
+ },
+ "price": 85000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 85000
+  }
+ ],
+ "specs": {
+  "Bredd": "196 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "Stingray V 20 Entre",
+  "Modellår": "2007",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Yamaha F70",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "6",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "550 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26218309",
+ "width_cm": 196,
+ "year": 2007
+}

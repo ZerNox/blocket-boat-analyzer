@@ -1,0 +1,79 @@
+{
+ "ad_id": 25324259,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786186846000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": 90,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "mercury 50 elpt efi fyrtakt från 2004.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Hook reveal 7 ekolod/plotter.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Hook reveal 7 ekolod/plotter.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Jämtö 6 m",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25324259/af013db2-764e-4ef1-8a17-4b0c6c3b933b",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 65.41782,
+ "length_ft": 20,
+ "location": "Rosvik",
+ "lon": 21.66984,
+ "make": "Övriga",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 388,
+  "fetched_ts": 1790507759555,
+  "text_sha": "2ef579864bcd444c"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modell": "Jämtö",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Toppfart": "27 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25324259",
+ "width_cm": 0,
+ "year": 1980
+}

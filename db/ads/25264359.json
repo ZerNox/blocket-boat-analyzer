@@ -1,0 +1,111 @@
+{
+ "ad_id": 25264359,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1785485392000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1987,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1987,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Finns ekolod till båten som är ipincip helt nytt, ett lowrance eagle 7 tripleshot och ett batteri.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Finns ekolod till båten som är ipincip helt nytt, ett lowrance eagle 7 tripleshot och ett batteri.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fiskebåt med 80 trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fiskebåt med 80 trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25264359/d86d8b23-e104-4949-b38e-b9ee4c91e520",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.7037,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1987,
+   "engine_hours": null,
+   "engine_hp": 25,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7a43e860e6860116"
+ },
+ "location": "Kolsva",
+ "lon": 15.79162,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 311,
+  "fetched_ts": 1790507702077,
+  "text_sha": "7a43e860e6860116"
+ },
+ "price": 33000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 33000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modellår": "1987",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25264359",
+ "width_cm": 0,
+ "year": 1987
+}

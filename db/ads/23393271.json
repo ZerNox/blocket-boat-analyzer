@@ -1,0 +1,111 @@
+{
+ "ad_id": 23393271,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788684488000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2012,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2012,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "ekolod ( Hummingbird ny 2023)",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "akter kapell (ej med på bild)",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Styrpulpet HR 530CC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23393271/8426d6b9-08f9-4e04-9226-cacb10e33347",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.87392,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2012,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "4cc40148c47002e0"
+ },
+ "location": "Charlottenberg",
+ "lon": 12.29544,
+ "make": "HR",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 348,
+  "fetched_ts": 1790507497179,
+  "text_sha": "4cc40148c47002e0"
+ },
+ "price": 135000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 135000
+  }
+ ],
+ "specs": {
+  "Bredd": "218 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "530cc",
+  "Modellår": "2012",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Suzuki",
+  "Märke": "HR",
+  "Sittplatser": "6",
+  "Toppfart": "35 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23393271",
+ "width_cm": 218,
+ "year": 2012
+}

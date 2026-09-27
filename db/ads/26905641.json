@@ -1,0 +1,114 @@
+{
+ "ad_id": 26905641,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790431741000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": 84,
+  "engine_maker": "Seafox",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod Lowrance Elite FS med sjökort.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ekolod Lowrance Elite FS med sjökort.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Säljes till höstpris komplett med 30-kärra som rullar på bra och en massa tillbehör som medföljer.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 425",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26905641/98ee844d-2305-4f08-b6aa-0986c45a1897",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.88868,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": 84,
+   "engine_hp": 20,
+   "engine_maker": "Seafox",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "inköpt 2[tel]",
+   "engine_year_rejected": 2023,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ffda3e908dac5242"
+ },
+ "location": "Alingsås",
+ "lon": 12.44277,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 685,
+  "fetched_ts": 1790509016339,
+  "text_sha": "ffda3e908dac5242"
+ },
+ "price": 28000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 28000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå",
+  "Längd i fot": "14 fot",
+  "Modell": "425",
+  "Modellår": "1980",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Seafox",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26905641",
+ "width_cm": 0,
+ "year": 1980
+}

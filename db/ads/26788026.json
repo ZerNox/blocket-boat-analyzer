@@ -1,0 +1,113 @@
+{
+ "ad_id": 26788026,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790024484000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury 4takt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Trailer från 2003 motor från 2005.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod flagga.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Div tillbehör medföljer fendrar tampar plotter för västkusten Vänern Vättern.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Har legat på trailer dom sista 12 åren.",
+    "included": true,
+    "kmh": 80,
+    "year": 2003
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 5412 Exklusive 75hp 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26788026/08a77df3-5a59-4edc-acf6-2475331068d6",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.38503,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2001,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": 2005,
+   "engine_year_evidence": "Trailer från 2003 motor från 2005.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "60f5898ff1fd819a"
+ },
+ "location": "Vargön",
+ "lon": 12.37121,
+ "make": "Uttern",
+ "max_speed": 34,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 358,
+  "fetched_ts": 1790508940698,
+  "text_sha": "60f5898ff1fd819a"
+ },
+ "price": 98000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 98000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "5412 exklusive",
+  "Modellår": "2001",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury 4takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "34 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26788026",
+ "width_cm": 0,
+ "year": 2001
+}

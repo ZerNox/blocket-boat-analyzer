@@ -1,0 +1,78 @@
+{
+ "ad_id": 24330013,
+ "boat_class": "Annat",
+ "changed_ts": 1787483303000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1971,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1989,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Plastbåt från 1971 med en 20hk motor (Johnson) från 1989.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell, bränsletank och olja till motorn finns och inkluderas med.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtvagn inkluderad.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Båt söker nytt hem",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24330013/b5d0f63e-ca71-4aa8-8f8d-be0cac909a38",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 65.29114,
+ "length_ft": 19,
+ "location": "Piteå",
+ "lon": 21.50097,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 192,
+  "fetched_ts": 1790507585591,
+  "text_sha": "4b3a80b13846f639"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modell": "Atoll",
+  "Modellår": "1971",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24330013",
+ "width_cm": 200,
+ "year": 1971
+}

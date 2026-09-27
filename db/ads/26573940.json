@@ -1,0 +1,122 @@
+{
+ "ad_id": 26573940,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789375325000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2021,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Båten är fullutrustad med plotter från Simrad, ekolod, vattenskidbåge, soldyna, bluetooth-radio, Eva-durk, fendrar, lan…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Båten är fullutrustad med plotter från Simrad, ekolod, vattenskidbåge, soldyna, bluetooth-radio, Eva-durk, fendrar, lan…",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Båten är fullutrustad med plotter från Simrad, ekolod, vattenskidbåge, soldyna, bluetooth-radio, Eva-durk, fendrar, lan…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Säljes med ett 80-km bromsat släp som fixades på verkstad 2025.",
+    "included": true,
+    "year": 2025
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 490 V Sport 2021",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26573940/fb97b96d-ad02-474f-a7b3-bf5d17d04455",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.22087,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2021,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn servad och kamrem bytt 2026",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "93e4769d22f924c3"
+ },
+ "location": "Henån",
+ "lon": 11.74718,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 718,
+  "fetched_ts": 1790508801649,
+  "text_sha": "93e4769d22f924c3"
+ },
+ "price": 180000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 180000
+  }
+ ],
+ "specs": {
+  "Bredd": "192 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit och svart",
+  "Längd i fot": "16 fot",
+  "Modell": "490 V Sport",
+  "Modellår": "2021",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "4",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "370 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26573940",
+ "width_cm": 192,
+ "year": 2021
+}

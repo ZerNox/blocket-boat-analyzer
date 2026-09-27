@@ -1,0 +1,91 @@
+{
+ "ad_id": 25980212,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787510626000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": 125,
+  "engine_maker": "Mercury F80 (4-takt)",
+  "engine_stroke": 4,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2017,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Lowrance ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Rejäl styrpulpetsöverdrag / kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Endast 125 timmar & inkl. kärra",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Mycket fin Ryds 528 WA (2012/2017) – Endast 125 timmar & inkl. kärra",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25980212/54677700-97fd-4b86-9e09-c31d39a1aff5",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.71367,
+ "length_ft": 18,
+ "location": "Göteborg",
+ "lon": 12.03463,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 974,
+  "fetched_ts": 1790508353838,
+  "text_sha": "46dcd09e53be9045"
+ },
+ "price": 169000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 169000
+  }
+ ],
+ "specs": {
+  "Bredd": "218 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "F528 WA",
+  "Modellår": "2017",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury F80 (4-takt)",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "540 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25980212",
+ "width_cm": 218,
+ "year": 2017
+}

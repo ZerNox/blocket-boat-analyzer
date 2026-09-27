@@ -1,0 +1,83 @@
+{
+ "ad_id": 25755069,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786877725000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2000,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Crescent 465 Trader (Cremo ) Tohatsu 25 hp elstart, årsmodell 2000..",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin Ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "EU Trailer, 80 km/h nästan ny som inte rullat mycket.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 465 Trader (Cremo ) Tohatsu 25 hp elstart,  årsmodell 2000.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25755069/bf56d675-48f9-4b14-a1e3-ce2fa3b037e3",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.35968,
+ "length_ft": 15,
+ "location": "Vänersborg",
+ "lon": 12.31751,
+ "make": "Crescent",
+ "max_speed": 22,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 459,
+  "fetched_ts": 1790508155995,
+  "text_sha": "dff568fd1bd58635"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "465 Trader (Cremo) Med helkapell som man kan dela.",
+  "Modellår": "2000",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "22 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25755069",
+ "width_cm": 200,
+ "year": 2000
+}

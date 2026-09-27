@@ -1,0 +1,81 @@
+{
+ "ad_id": 19379360,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787928190000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": 264,
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2017,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor: Evinrude E-tec ifrån 2017 är ny servad med impeller samt nya tändstift.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "stereo": {
+    "evidence": "Även satt i stereo med högtalare, totalt 4a högtalare finns i båten.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer: Fogelsta 750 80/km besiktigad till 270531.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Starweld 1600 SC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/19379360/0f3621e4-f871-4e4b-be00-7af0bb061b66",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.42437,
+ "length_ft": 16,
+ "location": "Karlstad",
+ "lon": 13.54759,
+ "make": "Starcraft",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1086,
+  "fetched_ts": 1790507416183,
+  "text_sha": "4818ce9287dbb410"
+ },
+ "price": 174900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 174900
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "Starweld 1600 SC",
+  "Modellår": "2015",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Starcraft",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "32 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/19379360",
+ "width_cm": 200,
+ "year": 2015
+}

@@ -1,0 +1,68 @@
+{
+ "ad_id": 25372728,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785778932000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha år 2005",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Yamaha år 2005",
+  "engine_year_source": "rule:spec",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 425 R",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25372728/6a5fe724-faf7-42f8-9f07-45c3d854a77d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.64943,
+ "length_ft": 14,
+ "location": "Västra Frölunda",
+ "lon": 11.87925,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 48,
+  "fetched_ts": 1790507813748,
+  "text_sha": "a4c9d656db09a2af"
+ },
+ "price": 19000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 19000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "Ryds 425 R",
+  "Modellår": "1995",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Yamaha år 2005",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25372728",
+ "width_cm": 0,
+ "year": 1995
+}

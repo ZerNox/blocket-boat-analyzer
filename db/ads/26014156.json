@@ -1,0 +1,87 @@
+{
+ "ad_id": 26014156,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787640925000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner 4 takt, årsmodell 2001",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2001,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Mariner 4 takt, årsmodell 2001",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Simrad cruise 5 navigator med ekolod från 2020",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Simrad cruise 5 navigator med ekolod från 2020",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtkärra ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 5102 med Mariner 50 hk fyrtakt.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26014156/7525ba4a-9220-4af0-9e49-7f9054621857",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.9979,
+ "length_ft": 16,
+ "location": "Skärhamn",
+ "lon": 11.55601,
+ "make": "Uttern",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 207,
+  "fetched_ts": 1790508388108,
+  "text_sha": "c47d688aedd8e219"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "5102",
+  "Modellår": "1999",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mariner 4 takt, årsmodell 2001",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "440 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26014156",
+ "width_cm": 0,
+ "year": 1999
+}

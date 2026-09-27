@@ -1,0 +1,107 @@
+{
+ "ad_id": 25752654,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786875518000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_maker": "Hidea",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båttrailer finns att köpa till, har rullat 35 mil, 80 km/h vagn.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Rejäl fiskebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25752654/8cbbe10a-7a2d-4395-b222-d266e1898d50",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.16003,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1900,
+   "engine_hours": null,
+   "engine_hp": 4,
+   "engine_maker": "Hidea",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny Hideamotor, mindre än 1 timme gångtid.",
+   "engine_year_rejected": 2023,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "299f44e054bec496"
+ },
+ "location": "Östersund",
+ "lon": 14.7396,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 4.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 171,
+  "fetched_ts": 1790508153376,
+  "text_sha": "299f44e054bec496"
+ },
+ "price": 14000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 14000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Grön",
+  "Längd i fot": "13 fot",
+  "Modell": "Siljan",
+  "Modellår": "1900",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "4 hk",
+  "Motortillverkare": "Hidea",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25752654",
+ "width_cm": 0,
+ "year": 1900
+}

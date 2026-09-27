@@ -1,0 +1,98 @@
+{
+ "ad_id": 26903429,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790428014000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster RS",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26903429/1ef0ec9a-7c9d-4f9c-bcc0-9f8e55c3f75e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.44833,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1989,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Nyservad - impeller, - Växelhusolja, - Ny stift, - Ny packning vid impellerhus, - Ny bälgar bak 3st, - Ny sittdynor, - Ny lackade sidor, - Nytt batteri, - Länspump, - Åror, - Två …",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "19040f1f4e5a388d"
+ },
+ "location": "Torshälla",
+ "lon": 16.45656,
+ "make": "Buster",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 65.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 541,
+  "fetched_ts": 1790509012263,
+  "text_sha": "19040f1f4e5a388d"
+ },
+ "price": 63000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 63000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modellår": "1989",
+  "Motorstorlek": "65 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "230 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26903429",
+ "width_cm": 0,
+ "year": 1989
+}

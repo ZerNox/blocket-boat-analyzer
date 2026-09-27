@@ -1,0 +1,82 @@
+{
+ "ad_id": 26780654,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790007945000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury F60",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Stark motor på 60hk från 2006.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "plotter": {
+    "evidence": "Plotter: Lowrance HOOK Reveal 7, 2022",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Släpvagn: THULE 0654U, 2008",
+    "included": true,
+    "year": 2008
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 4612",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26780654/404a5ae3-a4f1-4831-8a10-a3ddc985baa2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.68742,
+ "length_ft": 15,
+ "location": "Kalmar",
+ "lon": 16.39201,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 140,
+  "fetched_ts": 1790508937898,
+  "text_sha": "8cd40a1d6373149c"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "4612",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury F60",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "340 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26780654",
+ "width_cm": 185,
+ "year": 2001
+}

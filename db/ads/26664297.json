@@ -1,0 +1,82 @@
+{
+ "ad_id": 26664297,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789655936000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1998,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Nuvarande Mercury 40 hk 2-takt från 1998 har fungerat fint fram till nyligen.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "1998 självläns styrpulpet + båttrailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Robust 475 S - 1998 självläns styrpulpet + båttrailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26664297/c9153084-5770-4d75-b03b-f0542552a220",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.82945,
+ "length_ft": 16,
+ "location": "Umeå",
+ "lon": 20.25351,
+ "make": "R-boats",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1439,
+  "fetched_ts": 1790508856530,
+  "text_sha": "412111d5b54e4032"
+ },
+ "price": 34900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 34900
+  }
+ ],
+ "specs": {
+  "Bredd": "189 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "16 fot",
+  "Modell": "Robust 475 S",
+  "Modellår": "1998",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "R-boats",
+  "Sittplatser": "8",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "375 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26664297",
+ "width_cm": 189,
+ "year": 1998
+}

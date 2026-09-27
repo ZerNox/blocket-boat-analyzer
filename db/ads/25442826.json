@@ -1,0 +1,113 @@
+{
+ "ad_id": 25442826,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786024268000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": "tändstift och ny olja i växel/drev Styrning: Påkostad Nordflex hydraulstyrning som gör båten extremt lättmanövrerad och",
+  "engine_type_source": "llm",
+  "engine_year": 1998,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor: Johnson 35 hk 2-takt (1998) ca 25knop",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod: Garmin Striker Vivid 9sv",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Styrning: Påkostad Nordflex hydraulstyrning som gör båten extremt lättmanövrerad och skön att köra",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Crescent 500+80Trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "declared outboard but text says 'drev'"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 500+80Trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25442826/a9721f6c-296a-4262-9cdc-4b018339f430",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.16812,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 35,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": 1998,
+   "engine_year_evidence": "Motor: Johnson 35 hk 2-takt (1998) ca 25knop",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e8469fa746f62e37"
+ },
+ "location": "Näsum",
+ "lon": 14.49778,
+ "make": "Crescent",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 35.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 816,
+  "fetched_ts": 1790507873534,
+  "text_sha": "e8469fa746f62e37"
+ },
+ "price": 34000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 34000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "500",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "35 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25442826",
+ "width_cm": 0,
+ "year": 1990
+}

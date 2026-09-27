@@ -1,0 +1,126 @@
+{
+ "ad_id": 25293048,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785574080000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1981,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Volvo Penta MD21A",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1981,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Nytt ekolod.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Nyservad Bogmotor",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nytt kapell 2025 från Fisksätra Båtkapell.",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Batteriladdare.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin plotter.",
+    "included": true
+   },
+   "vinterkapell": {
+    "evidence": "Ny riktig vinterställning i lättmetall för vintertäckning ingår, dock ej pressening.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Nimbus 26 - PRISET FÖRHANDLINGSBART",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25293048/369102ec-d370-4aee-8641-5c79aa660fc3",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.27704,
+ "length_ft": 26,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1981,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn servad kontinuerligt och senast 2026.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "98a9b05754aa6599"
+ },
+ "location": "Ingarö",
+ "lon": 18.43589,
+ "make": "Nimbus",
+ "max_speed": 8,
+ "motor_fuel": "Diesel",
+ "motor_size": 75.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 2242,
+  "fetched_ts": 1790507735681,
+  "text_sha": "98a9b05754aa6599"
+ },
+ "price": 128700,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 128700
+  }
+ ],
+ "specs": {
+  "Bredd": "285 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "26 fot",
+  "Modell": "Nimbus 26",
+  "Modellår": "1981",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Volvo Penta MD21A",
+  "Motortyp": "Inombordare",
+  "Märke": "Nimbus",
+  "Toppfart": "8 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "2 350 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25293048",
+ "width_cm": 285,
+ "year": 1981
+}

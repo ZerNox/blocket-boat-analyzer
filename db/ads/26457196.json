@@ -1,0 +1,112 @@
+{
+ "ad_id": 26457196,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789577195000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": 88,
+  "engine_maker": "Yamaha F40FETL",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2021,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Dubbel pulpet / styrpulpet / vindruta / låsbara förv.utr / kompositdurk / badstege och plattform / brandsläckare / auto…",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Fishfinder i Q-skärm / Yamaha canvaspaket (fäll- och justerbart akterkapell) i aktersoffan / dynset (aktersoffa / spölå…",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster M2Q 2021",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26457196/48d8120a-697b-4d16-af85-0878146bdb64",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.124,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2021,
+   "engine_hours": 88,
+   "engine_hp": 40,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "included",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "361fd84a9dea1a13"
+ },
+ "location": "Dalarö",
+ "lon": 18.47608,
+ "make": "Buster",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1284,
+  "fetched_ts": 1790508701086,
+  "text_sha": "361fd84a9dea1a13"
+ },
+ "price": 172000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 172000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "M2Q",
+  "Modellår": "2021",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Yamaha F40FETL",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "27 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "390 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26457196",
+ "width_cm": 185,
+ "year": 2021
+}

@@ -1,0 +1,83 @@
+{
+ "ad_id": 25857591,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787762177000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2013,
+  "boat_year_source": "spec",
+  "engine_hours": 40,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2024,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Fin Terhi 4100(även kallad 4110) 2013, en finsk dubbelbottnad kvalitetsbåt med Tohatsu 30 HK fyrtaktsmotor som är uttagen 2024 med endast ca.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod Lowrance Elite 7 HDI medföljer med downscan och kartfunktion.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ekolod Lowrance Elite 7 HDI medföljer med downscan och kartfunktion.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "2013 Terhi 4100 till höstpris!!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25857591/b855f496-b059-48a8-860f-0702d055c1d4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.19216,
+ "length_ft": 410,
+ "location": "Värnamo",
+ "lon": 14.02306,
+ "make": "Terhi",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 883,
+  "fetched_ts": 1790508251772,
+  "text_sha": "876a2f88221894e0"
+ },
+ "price": 68000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 68000
+  }
+ ],
+ "specs": {
+  "Bredd": "176 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Grå/Vit",
+  "Längd i fot": "410 fot",
+  "Modell": "4100/4110",
+  "Modellår": "2013",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Terhi",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "28 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "260 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25857591",
+ "width_cm": 176,
+ "year": 2013
+}

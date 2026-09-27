@@ -1,0 +1,108 @@
+{
+ "ad_id": 25441644,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1785997427000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1975,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Perkins A4.236",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1975,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ombord finns rymlig styrhytt med god sikt och med möjlighet att köra båten utifrån på kastdäck. fiskerulle/vinsch, dies…",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fiskebåt Hvaler",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25441644/56978d97-1fc6-4533-8ef1-6d52791a3025",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.40183,
+ "length_ft": 28,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1975,
+   "engine_hours": null,
+   "engine_hp": 80,
+   "engine_maker": "Perkins A4.236",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "786fa2cb8b126853"
+ },
+ "location": "Onsala",
+ "lon": 12.00772,
+ "make": "Övriga",
+ "max_speed": 9,
+ "motor_fuel": "Diesel",
+ "motor_size": 80.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 1129,
+  "fetched_ts": 1790507870746,
+  "text_sha": "786fa2cb8b126853"
+ },
+ "price": 120000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 120000
+  }
+ ],
+ "specs": {
+  "Bredd": "310 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "90 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit/svart",
+  "Längd i fot": "28 fot",
+  "Modell": "Hvaler",
+  "Modellår": "1975",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Perkins A4.236",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "9 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25441644",
+ "width_cm": 310,
+ "year": 1975
+}

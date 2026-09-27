@@ -1,0 +1,104 @@
+{
+ "ad_id": 25995310,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787573214000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "e år har kvitto på en helt ny drev som kostade 40 000 motorn är som ny har haft en i ca tre år funderat på att köpa stör",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 2010,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "declared outboard but text says 'drev'",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "fiskebåt och liten familjebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25995310/9650be50-e46a-4063-8733-4bdfa401a370",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.55282,
+ "length_ft": 480,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2010,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Utombordare Ny motor som ny har haft en i ca tre år",
+   "engine_year_rejected": 2020,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d1e6d8377a8e890e"
+ },
+ "location": "Bålsta",
+ "lon": 17.55858,
+ "make": "HR",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 142,
+  "fetched_ts": 1790508366654,
+  "text_sha": "d1e6d8377a8e890e"
+ },
+ "price": 95000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 95000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "480 fot",
+  "Modell": "Hr480",
+  "Modellår": "2010",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25995310",
+ "width_cm": 210,
+ "year": 2010
+}

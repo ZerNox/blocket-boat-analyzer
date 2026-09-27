@@ -1,0 +1,82 @@
+{
+ "ad_id": 25864278,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787172570000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1974,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1974,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "På båten från 1974 sitter en Mariner 25hk tvåtakt från 1974 och alltsammans sitter i sin tur på en trailer i fint skick som är nyare än 1974.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Terhi 410 motorbåt styrpulpet 25 hk Mariner och trailer",
+    "included": true,
+    "year": 1974
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Terhi 410 motorbåt styrpulpet 25 hk Mariner och trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25864278/8f949246-98e1-42a2-bc57-9db3128c96e8",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.5839,
+ "length_ft": 13,
+ "location": "Brottby",
+ "lon": 18.30343,
+ "make": "Terhi",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1392,
+  "fetched_ts": 1790508261423,
+  "text_sha": "81b2c6918010bad0"
+ },
+ "price": 26000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 26000
+  }
+ ],
+ "specs": {
+  "Bredd": "170 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "gul",
+  "Längd i fot": "13 fot",
+  "Modell": "410",
+  "Modellår": "1974",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Terhi",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "170 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25864278",
+ "width_cm": 170,
+ "year": 1974
+}

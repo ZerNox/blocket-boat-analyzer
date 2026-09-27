@@ -1,0 +1,125 @@
+{
+ "ad_id": 25370172,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786973441000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": 135,
+  "engine_maker": "Evinrude E-Tec 75",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2010,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Humminbird Helix 7 X Sonar GP (Ekolod/Plotter) Sjökort Mälaren m.m. ( Chart 5G599S2, Version 696.27, Sweden Lakes inclu…",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning, Motor nyservad och servad regelbundet sen inköp.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Humminbird Helix 7 X Sonar GP (Ekolod/Plotter) Sjökort Mälaren m.m. ( Chart 5G599S2, Version 696.27, Sweden Lakes inclu…",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Humminbird Helix 7 X Sonar GP (Ekolod/Plotter) Sjökort Mälaren m.m. ( Chart 5G599S2, Version 696.27, Sweden Lakes inclu…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båten kommer med LAXÅTRAILERN ( 30 Km /H ) för MAX 800Kg, båt & motor har bara gått i sötvatten, Mälaren & Strömsund, J…",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Pioner Supersport Styrpulpet 17 / PERFEKT  Fiskebåt, Fritidsbåt, Arbetsbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25370172/bd3344aa-88e8-4bb3-8c7c-b07998e238a3",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.52746,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2010,
+   "engine_hours": 135,
+   "engine_hp": 75,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor, Evinrude E-Tec 75Hk, total gångtid 135 Tim",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "included",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ed95dcb054420a7d"
+ },
+ "location": "Västerås",
+ "lon": 16.39333,
+ "make": "Pioner",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 684,
+  "fetched_ts": 1790507807960,
+  "text_sha": "ed95dcb054420a7d"
+ },
+ "price": 165000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 165000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Beige",
+  "Längd i fot": "17 fot",
+  "Modell": "Supersport 17",
+  "Modellår": "2010",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Evinrude E-Tec 75",
+  "Motortyp": "Utombordare",
+  "Märke": "Pioner",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "30 knop",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "420 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25370172",
+ "width_cm": 215,
+ "year": 2010
+}

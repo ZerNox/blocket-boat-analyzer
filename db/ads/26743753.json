@@ -1,0 +1,49 @@
+{
+ "ad_id": 26743753,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789908487000,
+ "dealer_segment": "Privat",
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
+ "heading": "Finnsport 480R med Mercury 60 2-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26743753/430f399b-fd4d-46d1-a180-d6f90e4fcd5e",
+ "last_seen": "2026-09-27T11:09:35+00:00",
+ "lat": 57.68769,
+ "length_ft": 16,
+ "location": "Göteborg",
+ "lon": 11.97223,
+ "make": "Finnsport",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1175,
+  "fetched_ts": 1790508910343,
+  "text_sha": "2f92b047c8a7015d"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "480R",
+  "Modellår": "1990",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnsport",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "gone",
+ "url": "https://www.blocket.se/mobility/item/26743753",
+ "width_cm": 0,
+ "year": 1990
+}

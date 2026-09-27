@@ -1,0 +1,90 @@
+{
+ "ad_id": 25813197,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788858321000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": 80,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2019,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamaha fyrtakts utombordare, 30 kW, årsmodell 2019",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin ECHOMAP UHD 72SV ekolod/GPS",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Yamaha 30 kW, Minn Kota, Garmin & trailer",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin ECHOMAP UHD 72SV ekolod/GPS",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Yamaha 30 kW, Minn Kota, Garmin & trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Askeladden 430SL – Yamaha 30 kW, Minn Kota, Garmin & trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25813197/d2b208af-7dae-4e4a-b190-1447c88d4db4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.34819,
+ "length_ft": 14,
+ "location": "Bollnäs",
+ "lon": 16.39022,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 634,
+  "fetched_ts": 1790508214294,
+  "text_sha": "3ed7fbede2f51c0e"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "430SL",
+  "Modellår": "2010",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Askeladden",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25813197",
+ "width_cm": 180,
+ "year": 2010
+}

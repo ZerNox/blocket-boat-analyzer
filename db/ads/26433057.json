@@ -1,0 +1,81 @@
+{
+ "ad_id": 26433057,
+ "boat_class": "Annat",
+ "changed_ts": 1788951028000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1986,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är från 1986 och går bra.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Kärra ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds Camping",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26433057/3dece6c1-b1bb-4882-b350-1ee094050e9d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.38196,
+ "length_ft": 18,
+ "location": "Hässelby",
+ "lon": 17.80855,
+ "make": "Ryds",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 101,
+  "fetched_ts": 1790508690062,
+  "text_sha": "dbe015db8dd11abd"
+ },
+ "price": 29000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 29000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå",
+  "Längd i fot": "18 fot",
+  "Modell": "Ryds Camping",
+  "Modellår": "1976",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "4",
+  "Toppfart": "20 knop",
+  "Typ": "Annat",
+  "Vikt": "620 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26433057",
+ "width_cm": 220,
+ "year": 1976
+}

@@ -1,0 +1,88 @@
+{
+ "ad_id": 26716589,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789825871000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1999,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "- Yamaha 50 hk fyrtakt 1999.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Autopilot, GPS, Ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "-Kapell i slitet skick",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Autopilot, GPS, Ekolod",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "-Stereo",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Hansvik 18 Combi Yamaha 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26716589/c653b992-2685-4cfd-a0d5-ae11fcab6b4a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.68433,
+ "length_ft": 18,
+ "location": "Obbola",
+ "lon": 20.29499,
+ "make": "Hansvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 861,
+  "fetched_ts": 1790508888296,
+  "text_sha": "8400b887187fd923"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "18 Combi",
+  "Modellår": "1985",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Hansvik",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26716589",
+ "width_cm": 0,
+ "year": 1985
+}

@@ -1,0 +1,101 @@
+{
+ "ad_id": 25237282,
+ "boat_class": "Annat",
+ "changed_ts": 1786869592000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Klassisk träbåt från 1940-talet – Tohatsu 30 hk 4-takt, vagn och tält ingår",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25237282/e2270729-0765-4943-b0a2-07821c9eff98",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.23524,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1940,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Tohatsu MFS30B, 30 hk fyrtakt med bränsleinsprutning (dvs inte orginal Evinrude maskin). Servad våren 2026, motorolja, oljefilter, bränslefilter, tändstift och impeller bytt (växe…",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "30f724cc81f1400f"
+ },
+ "location": "Tyresö",
+ "lon": 18.3354,
+ "make": "Övriga",
+ "max_speed": 15,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1702,
+  "fetched_ts": 1790507680500,
+  "text_sha": "30f724cc81f1400f"
+ },
+ "price": 49000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 49000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modellår": "1940",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Trä",
+  "Toppfart": "15 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25237282",
+ "width_cm": 0,
+ "year": 1940
+}

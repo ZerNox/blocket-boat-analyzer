@@ -1,0 +1,105 @@
+{
+ "ad_id": 24500055,
+ "boat_class": "Annat",
+ "changed_ts": 1785992808000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": 3,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2015,
+  "engine_year_est": 2015,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": "30 hk mercury EFI fyrtakt rorkult 2015 uttagen 2016",
+  "engine_year_source": "llm",
+  "equipment": {
+   "trailer": {
+    "evidence": "Ev kan en 30 kärra med renoveringsbehov ingå.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "ambiguous engine years [2015, 2016]"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik 480, 30 hk Mercury fyrtakt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24500055/947ff888-b8bf-408c-aaa2-6e8f710b424a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.32662,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2015,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": 2015,
+   "engine_year_evidence": "30 hk mercury EFI fyrtakt rorkult 2015 uttagen 2016",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3aa56d5078f5602a"
+ },
+ "location": "Öregrund",
+ "lon": 18.42705,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 380,
+  "fetched_ts": 1790507599440,
+  "text_sha": "3aa56d5078f5602a"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modellår": "2015",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Plast",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24500055",
+ "width_cm": 0,
+ "year": 2015
+}

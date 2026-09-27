@@ -1,0 +1,78 @@
+{
+ "ad_id": 26927729,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790505185000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1989,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer en westfjord 430 med en yamaha 30hk från 1989, motorn är nyservad o går bra, Kärra kan köpas till för 5000:- motorn kan även köpas separat kom med bud isf",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Säljer en westfjord 430 med en yamaha 30hk från 1989, motorn är nyservad o går bra, Kärra kan köpas till för 5000:- mot…",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Westfjord 430 med yamaha 30hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26927729/e347d967-ad78-4ed6-8a4a-a96169fb53fe",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.84733,
+ "length_ft": 14,
+ "location": "Kärna",
+ "lon": 11.79348,
+ "make": "Övriga",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 161,
+  "fetched_ts": 1790509039930,
+  "text_sha": "dd6cab4395b884b2"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "168 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "Westfjord 430",
+  "Modellår": "1989",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "150 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26927729",
+ "width_cm": 168,
+ "year": 1989
+}

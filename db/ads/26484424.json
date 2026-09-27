@@ -1,0 +1,105 @@
+{
+ "ad_id": 26484424,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789061711000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": 450,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2023,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer/kärra",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Finval Rangy 420 Tiller",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26484424/78e766ca-96cc-430c-992f-71451e2c01af",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.73364,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2023,
+   "engine_hours": 450,
+   "engine_hp": 68,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "450 gångtimmar",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6329c75e0d1cec11"
+ },
+ "location": "Grimslöv",
+ "lon": 14.53075,
+ "make": "Finval",
+ "max_speed": 36,
+ "motor_fuel": "Bensin",
+ "motor_size": 68.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 158,
+  "fetched_ts": 1790508723558,
+  "text_sha": "6329c75e0d1cec11"
+ },
+ "price": 229000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 229000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modellår": "2023",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "68 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Finval",
+  "Sittplatser": "2",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "36 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26484424",
+ "width_cm": 0,
+ "year": 2023
+}

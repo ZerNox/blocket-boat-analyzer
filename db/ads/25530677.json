@@ -1,0 +1,79 @@
+{
+ "ad_id": 25530677,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786213337000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1999,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mercury 50 hk (4-takt), årsmodell 1999",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell samt 30-släp (obromsad båttrailer)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Kapell samt 30-släp (obromsad båttrailer)",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Big Buster med Mercury 50 hk 4-takt – Nyservad och redo!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25530677/7c2ca244-90e9-4530-a8e8-41403d41c7f4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.42929,
+ "length_ft": 17,
+ "location": "Linköping",
+ "lon": 15.69171,
+ "make": "Buster",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 922,
+  "fetched_ts": 1790507971061,
+  "text_sha": "a9574c6f8004bad7"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "Big buster 4.95m",
+  "Modellår": "1999",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25530677",
+ "width_cm": 0,
+ "year": 1999
+}

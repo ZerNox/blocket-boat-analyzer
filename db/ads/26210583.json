@@ -1,0 +1,86 @@
+{
+ "ad_id": 26210583,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788204238000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2023,
+  "boat_year_source": "spec",
+  "engine_hours": 20,
+  "engine_maker": "Mercury 2025",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2025,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Mercury 2025",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ny båt och motor uttagen 2025 samt EU-trailer 80km/h Motorn har 20 gångtimmar Medföljer tampar fendrar ankare med lina …",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ny båt och motor uttagen 2025 samt EU-trailer 80km/h Motorn har 20 gångtimmar Medföljer tampar fendrar ankare med lina …",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Hr480sc med EU-trailer 80 kärra obromsad",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Hr480sc med EU-trailer 80 kärra obromsad",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26210583/b1881122-3ae6-43e5-8203-2505a4a10773",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.71359,
+ "length_ft": 16,
+ "location": "Mariestad",
+ "lon": 13.79941,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 163,
+  "fetched_ts": 1790508518399,
+  "text_sha": "b7a56bf4b61ae42c"
+ },
+ "price": 178000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 178000
+  }
+ ],
+ "specs": {
+  "Bredd": "206 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "480 sc",
+  "Modellår": "2023",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury 2025",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Sittplatser": "5",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "420 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26210583",
+ "width_cm": 206,
+ "year": 2023
+}

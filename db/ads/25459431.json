@@ -1,0 +1,113 @@
+{
+ "ad_id": 25459431,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786023965000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Trevlig båt för dagsutflykter, plotter och ekolod följer med.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Trevlig båt för dagsutflykter, plotter och ekolod följer med.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "750 kg besiktigad obromsad 80 kärra ingår.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent Primo",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25459431/0eec4d04-39d6-40a2-a2b6-a6f2c0c6a6bc",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.78628,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor: Mercury 60hk Elpto (tvåtakt)-06",
+   "engine_year_rejected": 2006,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "503cc20e7fea5ce0"
+ },
+ "location": "Rockneby",
+ "lon": 16.44343,
+ "make": "Crescent",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 173,
+  "fetched_ts": 1790507887278,
+  "text_sha": "503cc20e7fea5ce0"
+ },
+ "price": 74000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 74000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "Primo 480",
+  "Modellår": "2006",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25459431",
+ "width_cm": 0,
+ "year": 2006
+}

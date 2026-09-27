@@ -1,0 +1,106 @@
+{
+ "ad_id": 26037507,
+ "boat_class": "Annat",
+ "changed_ts": 1787688496000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1955,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Bolinder-Munktell, BR 1051",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1955,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båtvagn ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Flottningshistoria",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26037507/9324dad4-d497-4014-893c-f63b2980f2fb",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.23034,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1955,
+   "engine_hours": null,
+   "engine_hp": 11.5,
+   "engine_maker": "Bolinder-Munktell",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "18086c6b9998fbc4"
+ },
+ "location": "Kilafors",
+ "lon": 16.58124,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": 11.5,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 300,
+  "fetched_ts": 1790508407901,
+  "text_sha": "18086c6b9998fbc4"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit/Blå/Röd",
+  "Längd i fot": "19 fot",
+  "Modell": "Lidwall & Söner AB, BVV-5",
+  "Modellår": "1955",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "11.5 hk",
+  "Motortillverkare": "Bolinder-Munktell, BR 1051",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Annat",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26037507",
+ "width_cm": 200,
+ "year": 1955
+}

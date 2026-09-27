@@ -1,0 +1,109 @@
+{
+ "ad_id": 25422489,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785941348000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Watersnake",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Gummibåt inkl elmotor",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Gummibåt inkl elmotor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25422489/c3f81a3e-55a0-464b-944e-3b533f8a4a6e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.98138,
+ "length_ft": 10,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 18,
+   "engine_maker": "Watersnake",
+   "engine_type": "electric",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5f1e3b2b4f1326cd"
+ },
+ "location": "Ösmo",
+ "lon": 17.90646,
+ "make": "Aquapro",
+ "max_speed": null,
+ "motor_fuel": "Elektrisk",
+ "motor_size": 18.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 57,
+  "fetched_ts": 1790507854717,
+  "text_sha": "5f1e3b2b4f1326cd"
+ },
+ "price": 2200,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 2200
+  }
+ ],
+ "specs": {
+  "Bredd": "130 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "0 cm",
+  "Drivmedel": "Elektrisk",
+  "Färg": "Silver",
+  "Längd i fot": "10 fot",
+  "Modell": "Aquasmart",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "18 hk",
+  "Motortillverkare": "Watersnake",
+  "Motortyp": "Utombordare",
+  "Märke": "Aquapro",
+  "Sittplatser": "3",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "10 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25422489",
+ "width_cm": 130,
+ "year": 2000
+}

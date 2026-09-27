@@ -1,0 +1,109 @@
+{
+ "ad_id": 26107300,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787930336000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Linder Sportsman 400 med styrpulpet, Suzuki 15 hk och 80-släp",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder Sportsman 400, Suzuki 15 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26107300/f560d5c0-378a-4abf-8def-6a29278389c2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.40955,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Årsmodell 2004",
+   "engine_year_rejected": 2004,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0bf5296e67ba2886"
+ },
+ "location": "Karlstad",
+ "lon": 13.47559,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1150,
+  "fetched_ts": 1790508466860,
+  "text_sha": "0bf5296e67ba2886"
+ },
+ "price": 42500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 42500
+  }
+ ],
+ "specs": {
+  "Bredd": "164 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "13 fot",
+  "Modell": "Sportsman 400",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "125 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26107300",
+ "width_cm": 164,
+ "year": 2000
+}

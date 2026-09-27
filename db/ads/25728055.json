@@ -1,0 +1,117 @@
+{
+ "ad_id": 25728055,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1786794147000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1976,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "- Plotter/ekolod, där sjökarta över Vättern följer med.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "- Kapellet är slitet och behöver bytas, men vi har gjort ett vattentät \"kapell\" av pressenning,som vi sätter dit över b…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "- Plotter/ekolod, där sjökarta över Vättern följer med.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "- Besiktad och reggad 80-kärra medföljer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 495 ht",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25728055/cd4bc8df-ba4e-4c45-bf69-57dee19bc1cb",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.43958,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1976,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a833c6e129566119"
+ },
+ "location": "Vadstena",
+ "lon": 14.90619,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1289,
+  "fetched_ts": 1790508142539,
+  "text_sha": "a833c6e129566119"
+ },
+ "price": 28000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 28000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Svart/vit",
+  "Längd i fot": "15 fot",
+  "Modell": "495ht",
+  "Modellår": "1976",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25728055",
+ "width_cm": 0,
+ "year": 1976
+}

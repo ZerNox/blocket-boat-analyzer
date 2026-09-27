@@ -1,0 +1,91 @@
+{
+ "ad_id": 25295261,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1786184680000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2001,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Uttern 520 HT (ny motor 2001, nytt 80km/h släp).",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "GPS: Garmin 525s med ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapellet sprucket runt bågarna.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Gul fin hardtop, årsmodell ca 1985, med utombordare från 2001 och GPS.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtsläp: 80 km/h släp, nytt från 2023, kan fås med för 5 000 kr",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 520 HT (ny motor 2001, nytt 80km/h släp)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25295261/17e9341e-7bd4-4d76-ae26-c71a00787d11",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.05085,
+ "length_ft": 17,
+ "location": "Valdemarsvik",
+ "lon": 16.71329,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 523,
+  "fetched_ts": 1790507738441,
+  "text_sha": "b2bbc76b42ddb27e"
+ },
+ "price": 39000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 39000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Gul",
+  "Längd i fot": "17 fot",
+  "Modell": "520 HT",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Plast",
+  "Typ": "Hyttbåt",
+  "Vikt": "570 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25295261",
+ "width_cm": 210,
+ "year": 1985
+}

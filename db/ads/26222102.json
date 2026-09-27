@@ -1,0 +1,81 @@
+{
+ "ad_id": 26222102,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788870044000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2025,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Fin Kimple 460 Adveture från 2020 knappt använd med ny Mercury 4 takt 30 hk från 2025.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Finns 80 km båtkärra som är besiktad 2025 om så önskas.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Kimple 46 Adventure 2020",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26222102/bffe3473-9fc4-4eb4-8d00-f4c668579bc4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.36648,
+ "length_ft": 14,
+ "location": "Sundbyberg",
+ "lon": 17.96199,
+ "make": "Kimple",
+ "max_speed": 22,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 565,
+  "fetched_ts": 1790508529798,
+  "text_sha": "5ba9d4fee160fc70"
+ },
+ "price": 130000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 130000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "460 Adveture",
+  "Modellår": "2020",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Kimple",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "22 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "218 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26222102",
+ "width_cm": 185,
+ "year": 2020
+}

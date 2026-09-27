@@ -1,0 +1,119 @@
+{
+ "ad_id": 25460000,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786024208000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod med plotter Hummingbird helix 5 följer med vid snabb affär!",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Elmotor MinnKota Powerdrive från 2023 kan köpas till för 10k.",
+    "included": false
+   },
+   "plotter": {
+    "evidence": "Ekolod med plotter Hummingbird helix 5 följer med vid snabb affär!",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Crescent 48 / Evinrude 30hk / Fogelsta trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 48 / Evinrude 30hk  / Fogelsta trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25460000/67c2dfe1-7bdb-421b-9bc0-768e3ae93eb5",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.17853,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn är en äldre Evinrude, pålitlig 2-taktare och går som en klocka, startar på första draget.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "excluded",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a4d19547e3d0a466"
+ },
+ "location": "Undersåker",
+ "lon": 13.17598,
+ "make": "Crescent",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 640,
+  "fetched_ts": 1790507888807,
+  "text_sha": "a4d19547e3d0a466"
+ },
+ "price": 27000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 27000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Grå",
+  "Längd i fot": "16 fot",
+  "Modell": "48",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "20 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25460000",
+ "width_cm": 0,
+ "year": 1980
+}

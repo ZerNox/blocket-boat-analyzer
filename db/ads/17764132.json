@@ -1,0 +1,93 @@
+{
+ "ad_id": 17764132,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786471492000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2009,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor: Yamaha 50hk, 08/2011",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin/GPS/ekolod/fishfinder",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell styrpulpeten + överdrag + bimini top",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin/GPS/ekolod/fishfinder",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Stereo (blåtand)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Boston Whaler Montauk 150 med orginaltrailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Boston Whaler Montauk 150 – En av få i Sverige!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/17764132/f7b8d140-805e-4915-af18-fd11477b8ade",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.34175,
+ "length_ft": 15,
+ "location": "Stockholm",
+ "lon": 18.04573,
+ "make": "Boston Whaler",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 945,
+  "fetched_ts": 1790507322309,
+  "text_sha": "6e6b61c3cdfc7a0c"
+ },
+ "price": 279000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 279000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "Montauk",
+  "Modellår": "2009",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Boston Whaler",
+  "Toppfart": "28 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/17764132",
+ "width_cm": 200,
+ "year": 2009
+}

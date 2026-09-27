@@ -1,0 +1,121 @@
+{
+ "ad_id": 25231754,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785352860000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1993,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1986,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mariner 40 hk, 2-takt (årsmodell 1986).",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod/Plotter:",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Elmotor & Strömförsörjning:",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Hydra Skypoint (årsmodell 2025) med inbyggd GPS och \"Sky Anchor\" (elektroniskt ankare).",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "100 Ah Litiumbatteri (LiFePO4) med Bluetooth-övervakning via app.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer & Vinsch:",
+    "included": true,
+    "year": 2024
+   }
+  },
+  "llm_reasons": [
+   "engine 1986 older than boat 1993"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 426",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25231754/09be8040-63fb-497a-9867-f4ad4260b030",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.06148,
+ "length_ft": 426,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1993,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": 1986,
+   "engine_year_evidence": "Mariner 40 hk, 2-takt (årsmodell 1986).",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "4ab73eaf6e683f39"
+ },
+ "location": "Färlöv",
+ "lon": 14.09793,
+ "make": "Crescent",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1448,
+  "fetched_ts": 1790507676205,
+  "text_sha": "4ab73eaf6e683f39"
+ },
+ "price": 50000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 50000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "426 fot",
+  "Modell": "426",
+  "Modellår": "1993",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Toppfart": "27 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25231754",
+ "width_cm": 0,
+ "year": 1993
+}

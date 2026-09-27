@@ -1,0 +1,69 @@
+{
+ "ad_id": 25396278,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785857303000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1999,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Johnson 30 hk (1999)",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Rana 5,2 m – Johnson 30 hk (1999) – Nyservad & körklar!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25396278/8229efb9-e72b-45a5-b308-8cfaebcebe62",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.43912,
+ "length_ft": 17,
+ "location": "Onsala",
+ "lon": 12.05257,
+ "make": "Mörebas",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790507835209,
+  "text_sha": "eaacf8bb9e9efdff"
+ },
+ "price": 39000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 39000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modellår": "1999",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Mörebas",
+  "Sittplatser": "8",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25396278",
+ "width_cm": 0,
+ "year": 1999
+}

@@ -1,0 +1,100 @@
+{
+ "ad_id": 25490764,
+ "boat_class": "Annat",
+ "changed_ts": 1786110546000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1981,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1981,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Lohi",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25490764/c213ebd8-cf18-4961-b412-d6ae613f19ae",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.58398,
+ "length_ft": 12,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1981,
+   "engine_hours": null,
+   "engine_hp": 4.5,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "953c816764177516"
+ },
+ "location": "Kolsva",
+ "lon": 15.87004,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 4.5,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790507919041,
+  "text_sha": "953c816764177516"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Bredd": "152 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Orange",
+  "Längd i fot": "12 fot",
+  "Modellår": "1981",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "4.5 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25490764",
+ "width_cm": 152,
+ "year": 1981
+}

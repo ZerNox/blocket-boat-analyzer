@@ -1,0 +1,83 @@
+{
+ "ad_id": 26458745,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789577014000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1988,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Den säljs med en defekt mercury 70hk från 1988.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod ingår ej",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "Kärra ingår i köp av båten, allt till motor följer med och en reservdels mercury 80hk från 84 med knäckt vevaxel.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Fritids båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26458745/d5f8e52a-0f56-445d-901e-f338e69fb10c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.30046,
+ "length_ft": 21,
+ "location": "Uddevalla",
+ "lon": 11.92991,
+ "make": "Övriga",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 414,
+  "fetched_ts": 1790508703951,
+  "text_sha": "e6acc2ac8262fe91"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "100 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modellår": "1988",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "25 knop",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "750 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26458745",
+ "width_cm": 180,
+ "year": 1988
+}

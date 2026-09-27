@@ -1,0 +1,96 @@
+{
+ "ad_id": 25491074,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788762208000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1996,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är en fyrtakts bränslesnål Yamaha F50 från 1996, servad efter och inför varje säsong med nya filter, tändstift,oljor, impeller mm.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod Lawrence äldre modell fungerar ok",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell, inte det renaste och finaste men det fungerar",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Gps- plotter Navman 5000",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "WHF radio ej testad",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtvagn är en fin obromsad fågelsta 80 trailer med vinsch.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 4455 C",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25491074/731c9dd0-0a08-448c-a63b-59e7c8da5b5b",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 65.63156,
+ "length_ft": 445,
+ "location": "Luleå",
+ "lon": 22.20461,
+ "make": "Uttern",
+ "max_speed": 19,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 933,
+  "fetched_ts": 1790507920462,
+  "text_sha": "ee89ea77d584a783"
+ },
+ "price": 48000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 48000
+  }
+ ],
+ "specs": {
+  "Bredd": "195 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "445 fot",
+  "Modell": "4455C",
+  "Modellår": "1996",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "4",
+  "Sovplatser": "2",
+  "Toppfart": "19 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25491074",
+ "width_cm": 195,
+ "year": 1996
+}

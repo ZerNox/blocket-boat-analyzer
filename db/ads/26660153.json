@@ -1,0 +1,80 @@
+{
+ "ad_id": 26660153,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790251725000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2014,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Murcery",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2014,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Crescent 518 Arrow med motor från 2014",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "elmotor": {
+    "evidence": "Välskött kombinerad fritids och fiskebåt med Minn Kota Terrova motor i fören och en 60 hk Murcery i aktern.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Nybesiktigad Fogelsta 80-trailer ingår med nya däck från 2025.",
+    "included": true,
+    "kmh": 80,
+    "year": 2025
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 518 Arrow",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26660153/a0619791-caab-4a26-97e5-d6408347f819",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.24301,
+ "length_ft": 17,
+ "location": "Broby",
+ "lon": 14.07646,
+ "make": "Crescent",
+ "max_speed": 28,
+ "motor_fuel": null,
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 436,
+  "fetched_ts": 1790508850088,
+  "text_sha": "d53f087f82f77c7b"
+ },
+ "price": 149000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 149000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "518 Arrow",
+  "Modellår": "2014",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Murcery",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Toppfart": "28 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26660153",
+ "width_cm": 200,
+ "year": 2014
+}

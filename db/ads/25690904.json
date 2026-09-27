@@ -1,0 +1,82 @@
+{
+ "ad_id": 25690904,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788501699000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Finnmaster 49CC Yamaha 60 -2011.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "plotter": {
+    "evidence": "Garmin 92 gps",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Thule 30km/h släp",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Finnmaster 49CC Yamaha 60 -2011",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25690904/e1e0dbb4-3168-46ec-84d9-d9cb17431e63",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.34509,
+ "length_ft": 16,
+ "location": "Strängnäs",
+ "lon": 17.10458,
+ "make": "Finnmaster",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 206,
+  "fetched_ts": 1790508100724,
+  "text_sha": "1302a7872ad1fcbb"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "49CC",
+  "Modellår": "2011",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnmaster",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "400 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25690904",
+ "width_cm": 200,
+ "year": 2011
+}

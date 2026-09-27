@@ -1,0 +1,79 @@
+{
+ "ad_id": 23734949,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785921968000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2017,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten är uttagen 2005 motorn är från 2017.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Står uppställd på en 30-kärra.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Pioner Viking Darkline",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23734949/10304aab-6380-4ca7-a6c3-61a9888facfc",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.77447,
+ "length_ft": 15,
+ "location": "Åby",
+ "lon": 16.15338,
+ "make": "Pioner",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 162,
+  "fetched_ts": 1790507531263,
+  "text_sha": "5938b4b0cd6f7ada"
+ },
+ "price": 79000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 79000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Svart",
+  "Längd i fot": "15 fot",
+  "Modell": "Viking",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Pioner",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "25 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23734949",
+ "width_cm": 0,
+ "year": 2005
+}

@@ -1,0 +1,103 @@
+{
+ "ad_id": 26015662,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787644580000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1991,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1991,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Ryds 480 ST, Johnson 30 HK, 80-trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 480 ST, Johnson 30 HK, 80-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26015662/f106254e-393a-4cc0-aa8f-5d118184d6b4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.40069,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1991,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Nyservad (juni) motor",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "38900187cec274ba"
+ },
+ "location": "Gustafs",
+ "lon": 15.65733,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 421,
+  "fetched_ts": 1790508392067,
+  "text_sha": "38900187cec274ba"
+ },
+ "price": 32000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 32000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "480 ST",
+  "Modellår": "1991",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26015662",
+ "width_cm": 0,
+ "year": 1991
+}

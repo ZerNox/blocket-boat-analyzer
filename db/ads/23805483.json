@@ -1,0 +1,74 @@
+{
+ "ad_id": 23805483,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786635388000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 535 DL Hälleviksbåt, 2004 Mariner 60hk, 2004 Brenderup 80km trailer.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Ryds 535 DL Hälleviksbåt, 2004 Mariner 60hk, 2004 Brenderup 80km trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 535 DL Hälleviksbåt, 2004 Mariner 60hk, 2004 Brenderup 80km trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23805483/d845bfcc-6522-445a-9b29-0976c4d4a79a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 55.5206,
+ "length_ft": null,
+ "location": "Tygelsjö",
+ "lon": 13.00358,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790507540493,
+  "text_sha": "9d1e41d5594703b9"
+ },
+ "price": 64000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 64000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Modell": "535 DL",
+  "Modellår": "2004",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23805483",
+ "width_cm": 0,
+ "year": 2004
+}

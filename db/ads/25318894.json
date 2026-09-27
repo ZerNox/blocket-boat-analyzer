@@ -1,0 +1,121 @@
+{
+ "ad_id": 25318894,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789202586000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2026,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2026,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Bultad ram kula för montering av ekolodsfäste.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "* Motorguide xi5 12v elmotor med snabbkontakt.",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Kan säljas med ett 125Ah lithium HEAT ,2st Victron blue smart IP67 25A laddare och active target 2XL med z bait givarfä…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "*Lowrance Point-1 GPS",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båten står på en Respo 400 float on (Medar) med två st Boat-Buckles.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Mojo jon 1338 PW med 6HK Mercury - 2026",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25318894/3b96e596-9892-42bc-837c-882de79c0c93",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 64.82423,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2026,
+   "engine_hours": null,
+   "engine_hp": 6,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "null",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c2536d62ceccb386"
+ },
+ "location": "Kåge",
+ "lon": 20.99876,
+ "make": "Övriga",
+ "max_speed": 7,
+ "motor_fuel": null,
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 862,
+  "fetched_ts": 1790507752439,
+  "text_sha": "c2536d62ceccb386"
+ },
+ "price": 79000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 79000
+  }
+ ],
+ "specs": {
+  "Bredd": "140 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "13 fot",
+  "Modell": "Mojo jon 1338 PW",
+  "Modellår": "2026",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "7 knop",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "63 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25318894",
+ "width_cm": 140,
+ "year": 2026
+}

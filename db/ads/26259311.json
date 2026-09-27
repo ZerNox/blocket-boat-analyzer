@@ -1,0 +1,114 @@
+{
+ "ad_id": 26259311,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789410831000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2022,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "HR 460 Fishing 2021 motor Honda 40hk 2022.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Förberett för Garminplotter med ekolodsgivare och fäste men själva plottern saknas.",
+    "included": false
+   },
+   "elmotor": {
+    "evidence": "Förberedd för trollingmotor. (Elen är dragen)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Förberett för Garminplotter med ekolodsgivare och fäste men själva plottern saknas.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "TK-Trailer 80km/h kan köpas till för 10.000:- om så önskas.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 460 Fishing 2021 motor Honda 40hk 2022",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26259311/d78e1a74-fc5d-498d-9d88-2f14eb86dfc9",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.1582,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2021,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": 2022,
+   "engine_year_evidence": "HR 460 Fishing 2021 med Honda 40hk från 2022.",
+   "equipment": {
+    "ekolod": "excluded",
+    "elmotor": "excluded",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "excluded",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "99af8db2dc678c9f"
+ },
+ "location": "Södertälje",
+ "lon": 17.7019,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 455,
+  "fetched_ts": 1790508560180,
+  "text_sha": "99af8db2dc678c9f"
+ },
+ "price": 85000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 85000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "460 Fishing",
+  "Modellår": "2021",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26259311",
+ "width_cm": 0,
+ "year": 2021
+}

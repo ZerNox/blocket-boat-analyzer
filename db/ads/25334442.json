@@ -1,0 +1,75 @@
+{
+ "ad_id": 25334442,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785681929000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2017,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är en Mercury 5hk, endast ca 8-9år gammal, startar på första rycket.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår EJ.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HAJBÅT! Motorbåt 4.3m 5hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25334442/5611b3e1-5f25-424c-a31d-19b527a41fba",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.3803,
+ "length_ft": 14,
+ "location": "Skara",
+ "lon": 13.43593,
+ "make": "Saga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 5.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 563,
+  "fetched_ts": 1790507772370,
+  "text_sha": "6aa4079627c723e0"
+ },
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 10000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "Båtsman",
+  "Modellår": "1988",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "5 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Saga",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25334442",
+ "width_cm": 0,
+ "year": 1988
+}

@@ -1,0 +1,88 @@
+{
+ "ad_id": 26305957,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789741224000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": 11,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Sting 530 S Mercury 80hk 2021 OBS 11h",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin GPS/Plotter & Ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin GPS/Plotter & Ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Finns ej trailer/båtvagn till båten.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sting 530 S Mercury 80hk 2021 OBS 11h - Som ny / Nyskick - årets fynd!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26305957/d1dd5bd3-cf9a-4da4-84e7-5beea4323567",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.50895,
+ "length_ft": 18,
+ "location": "Kungsbacka",
+ "lon": 12.06874,
+ "make": "Sting",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1075,
+  "fetched_ts": 1790508587516,
+  "text_sha": "004cb0b40f6b6ca6"
+ },
+ "price": 199000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 199000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "530 S",
+  "Modellår": "2021",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Sting",
+  "Sittplatser": "8",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "650 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26305957",
+ "width_cm": 215,
+ "year": 2021
+}

@@ -1,0 +1,85 @@
+{
+ "ad_id": 24251918,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789321036000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2001,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "båten är från 1999 och motor från 2001,",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "ekolod fs 9 ingår med givare",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "lowrance ghost och hds 12 ingår inte i priset,",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "trailer ny 26, med elvinsch och batteri",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster L",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24251918/98ce793e-f1c5-4fa6-9337-90f07f37590f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.22919,
+ "length_ft": 16,
+ "location": "Jämjö",
+ "lon": 15.8613,
+ "make": "Buster",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 321,
+  "fetched_ts": 1790507581819,
+  "text_sha": "8fa4385c0b9c33a3"
+ },
+ "price": 98000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 98000
+  }
+ ],
+ "specs": {
+  "Bredd": "199 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "L",
+  "Modellår": "1999",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "28 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24251918",
+ "width_cm": 199,
+ "year": 1999
+}

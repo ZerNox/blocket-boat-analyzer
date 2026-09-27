@@ -1,0 +1,111 @@
+{
+ "ad_id": 25829602,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787071707000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2014,
+  "boat_year_source": "spec",
+  "engine_hours": 486,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2014,
+  "engine_year_est": 2014,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": "Mercury 50hk 2014",
+  "engine_year_source": "llm",
+  "equipment": {
+   "elmotor": {
+    "evidence": "Motorguide XI 5 2020",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance Elite FS 9 2022 på D-kula.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer Thule 2014 med egen gjord ramp.",
+    "included": true,
+    "year": 2014
+   }
+  },
+  "llm_reasons": [
+   "ambiguous engine years [2014, 2020]"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder Arkip 460",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25829602/3e830e16-78ab-402c-abde-2c90634425f5",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.52502,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2014,
+   "engine_hours": 486,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": 2014,
+   "engine_year_evidence": "Mercury 50hk 2014",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7ac0b3c11bf043b4"
+ },
+ "location": "Tingsryd",
+ "lon": 14.9792,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 380,
+  "fetched_ts": 1790508232984,
+  "text_sha": "7ac0b3c11bf043b4"
+ },
+ "price": 170000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 170000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "460 Arkip",
+  "Modellår": "2014",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25829602",
+ "width_cm": 0,
+ "year": 2014
+}

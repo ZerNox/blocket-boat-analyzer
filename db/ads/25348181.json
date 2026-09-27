@@ -1,0 +1,112 @@
+{
+ "ad_id": 25348181,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787635129000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1982,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1982,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell finns med till båten, men det har släppt/är trasigt lite vid kanterna.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Vator ht 17 med evinrude 70hk med 80km/h trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Vator ht 17 med evinrude 70hk med 80km/h trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25348181/b1c1e21f-8ef5-45e9-b952-84a0ea6feff1",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.66687,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1982,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "67d0f8f14d05564e"
+ },
+ "location": "Vimmerby",
+ "lon": 15.85206,
+ "make": "Vator",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 698,
+  "fetched_ts": 1790507782405,
+  "text_sha": "67d0f8f14d05564e"
+ },
+ "price": 22000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 22000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Gul",
+  "Längd i fot": "17 fot",
+  "Modell": "Ht 17",
+  "Modellår": "1982",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Vator",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25348181",
+ "width_cm": 205,
+ "year": 1982
+}

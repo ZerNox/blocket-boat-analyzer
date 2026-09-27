@@ -1,0 +1,73 @@
+{
+ "ad_id": 24011556,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787578263000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude/Suzuki",
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "RYDS 535 DL",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24011556/59a35a91-1070-4f4d-ac68-5364660a223c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.34032,
+ "length_ft": 18,
+ "location": "Onsala",
+ "lon": 11.95897,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1790507562670,
+  "text_sha": "b13c7bbfbbfc1441"
+ },
+ "price": 92000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 92000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "535 DL",
+  "Modellår": "2000",
+  "Motor inkluderad": "Nej",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Evinrude/Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "475 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24011556",
+ "width_cm": 215,
+ "year": 2000
+}

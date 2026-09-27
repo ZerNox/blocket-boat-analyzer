@@ -1,0 +1,86 @@
+{
+ "ad_id": 26525485,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789821563000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1984,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1984,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten och motor är från 1984 med originalstolar och dynor i mycket fint skick.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin STRIKER plus 7 cv med ekolod från 2019",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapellet byttes 2020 och är i bra skick men behöver en ordentlig tvätt eftersom det blev kraftigt angripet av svartmöge…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Det ingår en anpassad 30-trailer med nytt stödhjul.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Askeladden 15/3000 med 15 hk Yamaha 2-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26525485/532d3d27-23a5-45da-a37f-748cca54cd75",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.97824,
+ "length_ft": 15,
+ "location": "Gullspång",
+ "lon": 14.02291,
+ "make": "Askeladden",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 730,
+  "fetched_ts": 1790508761340,
+  "text_sha": "4b708963203b8750"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "15/3000",
+  "Modellår": "1984",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Askeladden",
+  "Sittplatser": "6",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "280 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26525485",
+ "width_cm": 180,
+ "year": 1984
+}

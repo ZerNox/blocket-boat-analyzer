@@ -1,0 +1,109 @@
+{
+ "ad_id": 26149945,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788074529000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "vinterkapell": {
+    "evidence": "Står under presenning.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Styrpulpet",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26149945/4571ba61-1239-4bcf-9ba8-411d5718f92c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.87402,
+ "length_ft": 7,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1900,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2a482670295c67b7"
+ },
+ "location": "Torsö",
+ "lon": 13.64738,
+ "make": "Terhi",
+ "max_speed": 18,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 91,
+  "fetched_ts": 1790508486423,
+  "text_sha": "2a482670295c67b7"
+ },
+ "price": 8500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 8500
+  }
+ ],
+ "specs": {
+  "Bredd": "120 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "7 fot",
+  "Modell": "Styrpulpet",
+  "Modellår": "1900",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Terhi",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "18 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "150 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26149945",
+ "width_cm": 120,
+ "year": 1900
+}

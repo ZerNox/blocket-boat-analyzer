@@ -1,0 +1,114 @@
+{
+ "ad_id": 26866927,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790324197000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1973,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1973,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Elmotor och ekolod medföljer ej.",
+    "included": false
+   },
+   "elmotor": {
+    "evidence": "Elmotor och ekolod medföljer ej.",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "Båten står på en jättefin Neptun båttrailer 80 km/h från 2023.",
+    "included": true,
+    "kmh": 80,
+    "year": 2023
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Plasteka med Johnson 8 hk 4-takt.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26866927/eaae3af0-993f-43e1-a4ce-f49db73947ce",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.50881,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1973,
+   "engine_hours": null,
+   "engine_hp": 8,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "excluded",
+    "elmotor": "excluded",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f60b618f514b37d3"
+ },
+ "location": "Klässbol",
+ "lon": 12.75343,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 8.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 246,
+  "fetched_ts": 1790508987105,
+  "text_sha": "f60b618f514b37d3"
+ },
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modellår": "1973",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "8 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26866927",
+ "width_cm": 0,
+ "year": 1973
+}

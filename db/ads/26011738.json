@@ -1,0 +1,107 @@
+{
+ "ad_id": 26011738,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787606939000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2022,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Kapell, tak & väggar, ekolod hds5 Suzuki 15 4-takt-22 kort rigg, få timmar endast gått i fjällsjöar.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Kapell, tak & väggar, ekolod hds5 Suzuki 15 4-takt-22 kort rigg, få timmar endast gått i fjällsjöar.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell, tak & väggar, ekolod hds5 Suzuki 15 4-takt-22 kort rigg, få timmar endast gått i fjällsjöar.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Norrbåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26011738/7c78dbc1-c965-4ecd-bc46-48e08df3b494",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 65.86216,
+ "length_ft": 123,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2010,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Få timmar endast gått i fjällsjöar.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "4a8acf12b1e39f70"
+ },
+ "location": "Boden",
+ "lon": 21.58917,
+ "make": "Norbåt",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 182,
+  "fetched_ts": 1790508382791,
+  "text_sha": "4a8acf12b1e39f70"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Djupgående": "20 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "123 fot",
+  "Modell": "4,80m",
+  "Modellår": "2010",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Norbåt",
+  "Skrovmaterial": "Annat",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "65 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26011738",
+ "width_cm": 0,
+ "year": 2010
+}

@@ -1,0 +1,112 @@
+{
+ "ad_id": 26281891,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788447568000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1987,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1987,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "denna båt har hydraulstyrning ,ny dragen el, varv å knoppmätare, 2 år gammal däck på båtvagnen, dubbla tankar, diverse …",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "säljer denna fina flipper 535ht, perfekt för dagsturer. även möjlighet att övernatta. fräscht kapell,",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Flipper 535ht Evinrude 70 med trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sänkt pris. Flipper 535ht Evinrude 70 med trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26281891/16bd74f7-6f41-4648-b364-e83243d203d9",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.71601,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1987,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c0e9c698ebcbde87"
+ },
+ "location": "Västerås",
+ "lon": 16.67478,
+ "make": "Flipper",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 324,
+  "fetched_ts": 1790508572443,
+  "text_sha": "c0e9c698ebcbde87"
+ },
+ "price": 50000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 50000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "535",
+  "Modellår": "1987",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Toppfart": "35 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26281891",
+ "width_cm": 0,
+ "year": 1987
+}

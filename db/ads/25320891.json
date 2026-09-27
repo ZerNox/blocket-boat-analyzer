@@ -1,0 +1,81 @@
+{
+ "ad_id": 25320891,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785662360000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1989,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Uttern 440 (styrpulpet) med Yamaha 25 HK -89, 2 taktare med elstart.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Inkluderar batteri, full bränsletank, åror och båtkärra.",
+    "included": true
+   },
+   "vinterkapell": {
+    "evidence": "Båtpresenning (nyskick) kan köpas till.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 440 med yamaha elstart",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25320891/b8920467-64eb-4fd5-b25e-98302a00ca3c",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.70159,
+ "length_ft": 14,
+ "location": "Göteborg",
+ "lon": 11.95927,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 193,
+  "fetched_ts": 1790507755426,
+  "text_sha": "790b4957c5c1d236"
+ },
+ "price": 18000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 18000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "14 fot",
+  "Modell": "440",
+  "Modellår": "1989",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25320891",
+ "width_cm": 0,
+ "year": 1989
+}

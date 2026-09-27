@@ -1,0 +1,81 @@
+{
+ "ad_id": 22933551,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788266209000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": 326,
+  "engine_maker": "Mercury F60 EFI -05",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Mercury F60 EFI -05",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "trailer": {
+    "evidence": "Båtvagn 80 km / Fogelsta (WYB 495)",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder 460 Arkip / Mercury F60 EFI -05",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22933551/e780b5ff-3f9c-44d5-a579-d66d7a20f037",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.63009,
+ "length_ft": 15,
+ "location": "Sandviken",
+ "lon": 16.78396,
+ "make": "Linder",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 243,
+  "fetched_ts": 1790507473843,
+  "text_sha": "c0900632ff91b918"
+ },
+ "price": 130000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 130000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Aluminium / Blå",
+  "Längd i fot": "15 fot",
+  "Modell": "460 Arkip",
+  "Modellår": "2004",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury F60 EFI -05",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "485 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22933551",
+ "width_cm": 185,
+ "year": 2004
+}

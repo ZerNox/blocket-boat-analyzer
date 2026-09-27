@@ -1,0 +1,78 @@
+{
+ "ad_id": 25367060,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785770003000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1992,
+  "boat_year_source": "spec",
+  "engine_hours": 50,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2012,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är från 2012 har gått ca 50 timmar.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Släp, dragg, tampar, ekolod Garmin mm ingår.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Släp, dragg, tampar, ekolod Garmin mm ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 410",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25367060/56278bb5-875e-4623-b85e-d2307f252c4b",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.11786,
+ "length_ft": 13,
+ "location": "Varekil",
+ "lon": 11.70072,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 9.899999618530273,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 346,
+  "fetched_ts": 1790507801478,
+  "text_sha": "3ca3bd496213ca24"
+ },
+ "price": 20500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 20500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "13 fot",
+  "Modellår": "1992",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "9.9 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25367060",
+ "width_cm": 0,
+ "year": 1992
+}

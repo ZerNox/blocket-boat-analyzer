@@ -1,0 +1,114 @@
+{
+ "ad_id": 25568067,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786306505000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": 110,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2011,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Lawrence plotter och ekolod med sjökort!",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lawrence plotter och ekolod med sjökort!",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Nästan ny 30km båtvagn!",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 440 SC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25568067/c33d334a-2e38-4e75-9db9-9d0373b736f4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 61.29895,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2011,
+   "engine_hours": 110,
+   "engine_hp": 40,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "15fea77aa4179e7a"
+ },
+ "location": "Söderhamn",
+ "lon": 17.10948,
+ "make": "HR",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 271,
+  "fetched_ts": 1790508014667,
+  "text_sha": "15fea77aa4179e7a"
+ },
+ "price": 83000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 83000
+  }
+ ],
+ "specs": {
+  "Bredd": "188 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "HR 440 SC",
+  "Modellår": "2011",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Sittplatser": "5",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25568067",
+ "width_cm": 188,
+ "year": 2011
+}

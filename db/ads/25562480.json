@@ -1,0 +1,100 @@
+{
+ "ad_id": 25562480,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1786557661000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1997,
+  "boat_year_source": "spec",
+  "engine_hours": 10,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1997,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Plastbåt HR 340 med 5 hk motor.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25562480/d15c635b-da06-4d0b-9f12-bb30aecbaaad",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.68983,
+ "length_ft": 11,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1997,
+   "engine_hours": null,
+   "engine_hp": 5,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Gångtid mindre än 10h.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "fbed7d06649a7665"
+ },
+ "location": "Värends Nöbbele",
+ "lon": 15.04646,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 5.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 107,
+  "fetched_ts": 1790507997661,
+  "text_sha": "fbed7d06649a7665"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "146 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "11 fot",
+  "Modell": "340",
+  "Modellår": "1997",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "5 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "85 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25562480",
+ "width_cm": 146,
+ "year": 1997
+}

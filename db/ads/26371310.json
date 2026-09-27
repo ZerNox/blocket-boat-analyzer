@@ -1,0 +1,101 @@
+{
+ "ad_id": 26371310,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788705801000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "BMW D35",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1976,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Albin 25",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26371310/3f511d58-5b78-4577-bffa-930d9bf09fe3",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.34106,
+ "length_ft": 25,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1976,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "BMW D35",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "0428942de360d130"
+ },
+ "location": "Lidingö",
+ "lon": 18.20189,
+ "make": "Albin",
+ "max_speed": 7,
+ "motor_fuel": "Diesel",
+ "motor_size": 30.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 568,
+  "fetched_ts": 1790508637503,
+  "text_sha": "0428942de360d130"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Bredd": "270 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Liv",
+  "Längd i fot": "25 fot",
+  "Modell": "Albin 25",
+  "Modellår": "1976",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "BMW D35",
+  "Motortyp": "Inombordare",
+  "Märke": "Albin",
+  "Toppfart": "7 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26371310",
+ "width_cm": 270,
+ "year": 1976
+}

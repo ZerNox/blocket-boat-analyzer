@@ -1,0 +1,116 @@
+{
+ "ad_id": 25497743,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787936381000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell finns.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Stereo och högtalare",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Hemmabyggd trailer som ligger bra på vägen hänger me",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds camping",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25497743/976a7d22-af00-4169-ab3a-f3836c376709",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.38645,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 55,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "included",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5eb7445b064d348b"
+ },
+ "location": "Söderfors",
+ "lon": 17.23804,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 55.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 604,
+  "fetched_ts": 1790507926916,
+  "text_sha": "5eb7445b064d348b"
+ },
+ "price": 16500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 16500
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Röd vir",
+  "Längd i fot": "18 fot",
+  "Modell": "Camping",
+  "Modellår": "1980",
+  "Motorstorlek": "55 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "3",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt",
+  "Vikt": "625 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25497743",
+ "width_cm": 220,
+ "year": 1980
+}

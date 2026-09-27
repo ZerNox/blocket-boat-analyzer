@@ -1,0 +1,115 @@
+{
+ "ad_id": 23960052,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786980186000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "kapell fungerar men slitet",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds hajen 80 trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds hajen 80 trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23960052/76f50026-561e-45c9-8045-dff4b181def1",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.17065,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "motor johnson 60hp tvåtakt från 87 bort kopplad vro (olja)",
+   "engine_year_rejected": 1987,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "91ffdbd4eed7c0d1"
+ },
+ "location": "Grödinge",
+ "lon": 17.79672,
+ "make": "Ryds",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 157,
+  "fetched_ts": 1790507554346,
+  "text_sha": "91ffdbd4eed7c0d1"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "Hajen",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "27 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "550 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23960052",
+ "width_cm": 180,
+ "year": 1978
+}

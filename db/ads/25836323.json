@@ -1,0 +1,69 @@
+{
+ "ad_id": 25836323,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787087017000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2020,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer en mycket välskött Suzumar 265 med Suzuki 8 hk fyrtaktsmotor, båda från 2020.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Suzumar 265 + Suzuki 8 hk – mycket fint skick, få gångtimmar",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25836323/1a7340fe-b6f9-4dd0-ab0f-b31fbccaa820",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.46684,
+ "length_ft": 9,
+ "location": "Söderköping",
+ "lon": 16.32119,
+ "make": "Suzumar",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 8.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 726,
+  "fetched_ts": 1790508241133,
+  "text_sha": "aa0021cb89a59679"
+ },
+ "price": 23500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 23500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Svart och Vit",
+  "Längd i fot": "9 fot",
+  "Modell": "DS 265 KIB och Suzuki DF 8 AS",
+  "Modellår": "2020",
+  "Motorstorlek": "8 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Suzumar",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25836323",
+ "width_cm": 0,
+ "year": 2020
+}

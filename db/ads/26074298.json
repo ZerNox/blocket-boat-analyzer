@@ -1,0 +1,86 @@
+{
+ "ad_id": 26074298,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789233639000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Fin stabil fiske båt med mittpulpet och fyrtakt motor 2005.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod Lowrance 9 tum, trimplan, självläns och dubbla batterier.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ekolod Lowrance 9 tum, trimplan, självläns och dubbla batterier.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtvagn med i priset sista pris!",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik 485 -30hk Yamaha fyrtakt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26074298/940930cf-65a8-4c74-bdc2-c417eff48de3",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.83297,
+ "length_ft": 16,
+ "location": "Umeå",
+ "lon": 20.35431,
+ "make": "Örnvik",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 185,
+  "fetched_ts": 1790508434588,
+  "text_sha": "2192136e54adf93e"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "20 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26074298",
+ "width_cm": 180,
+ "year": 1990
+}

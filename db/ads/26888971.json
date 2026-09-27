@@ -1,0 +1,49 @@
+{
+ "ad_id": 26888971,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790410797000,
+ "dealer_segment": "Privat",
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "gone_since": "2026-09-27",
+ "heading": "Slumpas till högst bjudande",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26888971/ac19011b-cdbb-41e7-9245-150787479806",
+ "last_seen": "2026-09-27T11:09:35+00:00",
+ "lat": 59.36976,
+ "length_ft": 15,
+ "location": "Värmdö",
+ "lon": 18.47976,
+ "make": "Johnson",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 212,
+  "fetched_ts": 1790509005107,
+  "text_sha": "0287894200556cae"
+ },
+ "price": 3500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 3500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "Hard top jofa Wint",
+  "Modellår": "1970",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Johnson",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "gone",
+ "url": "https://www.blocket.se/mobility/item/26888971",
+ "width_cm": 0,
+ "year": 1970
+}

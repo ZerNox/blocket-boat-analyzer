@@ -1,0 +1,113 @@
+{
+ "ad_id": 26757348,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790004133000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Samt Motorguide xi5 frontmonterad elmotor för 12500:-",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Har även ett 9\" Lowrance Elite att sälja för 7500:- med givare.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer ingår ej men kan eventuellt hjälpa till med transport",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster Sun med Suzuki 15hk 4takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26757348/fb4d9a8e-b35a-47ec-b5dd-3575cee7816a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.63709,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 15,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Utombordare",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f6fd248209725832"
+ },
+ "location": "Gävle",
+ "lon": 17.13085,
+ "make": "Buster",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 437,
+  "fetched_ts": 1790508921059,
+  "text_sha": "f6fd248209725832"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "Sun",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26757348",
+ "width_cm": 0,
+ "year": 1990
+}

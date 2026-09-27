@@ -1,0 +1,110 @@
+{
+ "ad_id": 26876422,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790343853000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2001,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "GPS",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer ingår inte och säljs inte heller, men kan lånas ut för att ta hem båten.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 410 Sport med Yamaha Fyrtakt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26876422/53dd9a9c-f562-4475-bec4-caf78a54cf28",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.02438,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2001,
+   "engine_hours": null,
+   "engine_hp": 25,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Höga rodd 410 Sport med nyservad Yamaha 25HP Fyrtakt. Motortyp: Utombordare.",
+   "engine_year_rejected": 2023,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3d017f57e8ce24f7"
+ },
+ "location": "Kristianstad",
+ "lon": 14.13863,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 187,
+  "fetched_ts": 1790508995529,
+  "text_sha": "3d017f57e8ce24f7"
+ },
+ "price": 37900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 37900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26876422",
+ "width_cm": 0,
+ "year": 2001
+}

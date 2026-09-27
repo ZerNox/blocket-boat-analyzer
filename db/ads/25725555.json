@@ -1,0 +1,82 @@
+{
+ "ad_id": 25725555,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1786794813000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1973,
+  "boat_year_source": "spec",
+  "engine_hours": 70,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2020,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Örnvik 510 HT m Tohatsu 4takt 30hk (2020).",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Lowrance Elite 9 Ti2 (sidoseende ekolod/kartplotter). (2020) inklusive Sjökort C-map Discover Y208 Stockholm. (2026)",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell (2022)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance Elite 9 Ti2 (sidoseende ekolod/kartplotter). (2020) inklusive Sjökort C-map Discover Y208 Stockholm. (2026)",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik 510 HT m Tohatsu 4takt 30hk (2020)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25725555/83997691-aebc-41dd-a657-f33f39d8a531",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.4066,
+ "length_ft": 17,
+ "location": "Vaxholm",
+ "lon": 18.33176,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 835,
+  "fetched_ts": 1790508138229,
+  "text_sha": "8b2455e37baca965"
+ },
+ "price": 59000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 59000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "510 HT",
+  "Modellår": "1973",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25725555",
+ "width_cm": 0,
+ "year": 1973
+}

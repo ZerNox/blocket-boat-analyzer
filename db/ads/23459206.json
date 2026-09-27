@@ -1,0 +1,127 @@
+{
+ "ad_id": 23459206,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1785623962000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Volvo penta",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "alltid servad enligt manual, ny bottenfärger inför säsongen 2026 och målades med godkänd färg för Mälaren, värmepump so…",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "alltid servad enligt manual, ny bottenfärger inför säsongen 2026 och målades med godkänd färg för Mälaren, värmepump so…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "alltid servad enligt manual, ny bottenfärger inför säsongen 2026 och målades med godkänd färg för Mälaren, värmepump so…",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "alltid servad enligt manual, ny bottenfärger inför säsongen 2026 och målades med godkänd färg för Mälaren, värmepump so…",
+    "included": true
+   },
+   "vhf": {
+    "evidence": "alltid servad enligt manual, ny bottenfärger inför säsongen 2026 och målades med godkänd färg för Mälaren, värmepump so…",
+    "included": true
+   },
+   "vinterkapell": {
+    "evidence": "alltid servad enligt manual, ny bottenfärger inför säsongen 2026 och målades med godkänd färg för Mälaren, värmepump so…",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Albin 25 Deluxe",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23459206/e63cfcc4-c0e1-4d21-8a5a-f2a1f120bb6d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.41062,
+ "length_ft": 25,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 38,
+   "engine_maker": "Volvo penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "included",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6301974f0ae2d6a8"
+ },
+ "location": "Sollentuna",
+ "lon": 17.96693,
+ "make": "Albin",
+ "max_speed": 8,
+ "motor_fuel": "Diesel",
+ "motor_size": 38.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 496,
+  "fetched_ts": 1790507506185,
+  "text_sha": "6301974f0ae2d6a8"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Bredd": "260 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "25 fot",
+  "Modell": "25",
+  "Modellår": "1978",
+  "Motorstorlek": "38 hk",
+  "Motortillverkare": "Volvo penta",
+  "Motortyp": "Inombordare",
+  "Märke": "Albin",
+  "Sovplatser": "4",
+  "Toppfart": "8 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "2 000 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23459206",
+ "width_cm": 260,
+ "year": 1978
+}

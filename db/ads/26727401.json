@@ -1,0 +1,118 @@
+{
+ "ad_id": 26727401,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789849829000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2018,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": 2018,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": "HR 442 SC -18 med Honda 50 hk fyrtakt.",
+  "engine_year_source": "llm",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Utrustning som trailer 80kmh, Plotter/Ekolod, fendrar, tampar m.m ingår i köpet.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Vid köpet ingår fabriksmonterad elmotor (Snabbfäste)Minnkota Terrova med gps/ankarfunktion inklusive extra batteri samt…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Vid köpet ingår fabriksmonterad elmotor (Snabbfäste)Minnkota Terrova med gps/ankarfunktion inklusive extra batteri samt…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Utrustning som trailer 80kmh, Plotter/Ekolod, fendrar, tampar m.m ingår i köpet.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Hr 442sc",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26727401/df99aa0a-2e0f-4783-925c-b485023820a3",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.12338,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2018,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": 2018,
+   "engine_year_evidence": "HR 442 SC -18 med Honda 50 hk fyrtakt.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6461dcb8eba36b27"
+ },
+ "location": "Grödinge",
+ "lon": 17.84166,
+ "make": "HR",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1012,
+  "fetched_ts": 1790508894891,
+  "text_sha": "6461dcb8eba36b27"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Bredd": "188 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "442sc",
+  "Modellår": "2018",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "28 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26727401",
+ "width_cm": 188,
+ "year": 2018
+}

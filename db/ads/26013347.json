@@ -1,0 +1,88 @@
+{
+ "ad_id": 26013347,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1787639808000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Uttern 5000 HT säljes med yamaha f60 4-takt motor från 2005.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Nyare kapell (Henriksson) i väldigt bra skick.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ankare, badstege, fendrar och tampar garminplotter ingår.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Botten säljes tillsammans med trailer 80 km/h årsmodell 2021, besiktigad till 31/07/2027.",
+    "included": true,
+    "kmh": 80,
+    "year": 2021
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 5000HT Yamaha 60 hk F60 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26013347/9b102d1f-485d-4568-b051-310cd836ab43",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.06148,
+ "length_ft": 500,
+ "location": "Färlöv",
+ "lon": 14.09793,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 692,
+  "fetched_ts": 1790508386808,
+  "text_sha": "2ed1cb741b962724"
+ },
+ "price": 69000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 69000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "500 fot",
+  "Modell": "5000HT",
+  "Modellår": "1995",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26013347",
+ "width_cm": 200,
+ "year": 1995
+}

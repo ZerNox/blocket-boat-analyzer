@@ -1,0 +1,90 @@
+{
+ "ad_id": 26236905,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788288721000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2018,
+  "boat_year_source": "spec",
+  "engine_hours": 130,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer en mycket fin och välskött Ryds 448 Sport, årsmodell 2018, med Mercury 50 hk fyrtakt från 2018.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "* Lowrance HOOK Reveal 7 kartplotter/ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "* Pulpetkapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "* Lowrance HOOK Reveal 7 kartplotter/ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "* 80 km/h trailer",
+    "included": true,
+    "kmh": 80,
+    "year": 2018
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 448 Sport – Mercury 50 hk 4-takt – sötvattenkörd",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26236905/b013c1d9-6149-4b78-ae5b-1ab2ec1ac486",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.8283,
+ "length_ft": 15,
+ "location": "Ljungby",
+ "lon": 13.96082,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1020,
+  "fetched_ts": 1790508541225,
+  "text_sha": "5eeb6dd893b4d80e"
+ },
+ "price": 129000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 129000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "448 Sport",
+  "Modellår": "2018",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26236905",
+ "width_cm": 0,
+ "year": 2018
+}

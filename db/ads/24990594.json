@@ -1,0 +1,124 @@
+{
+ "ad_id": 24990594,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790141343000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2003,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2003,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Navman navigation med ekolod och fysisk paddelgivare.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Rigg för trollingmotor.",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Pulpet kapell och helkapell för vinterförvaring.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds 485DL med släpvagn",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 485DL med släpvagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24990594/c15d7832-c8b7-43a5-a5d8-9618d7b4205d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.2451,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2003,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Årsmodell 2003",
+   "engine_year_rejected": 2003,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "included"
+   }
+  },
+  "text_sha": "9bbf617df99a38b6"
+ },
+ "location": "Tyresö",
+ "lon": 18.22269,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 871,
+  "fetched_ts": 1790507633085,
+  "text_sha": "9bbf617df99a38b6"
+ },
+ "price": 72000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 72000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "485DL",
+  "Modellår": "2003",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24990594",
+ "width_cm": 0,
+ "year": 2003
+}

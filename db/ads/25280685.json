@@ -1,0 +1,75 @@
+{
+ "ad_id": 25280685,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788954204000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1972,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "AD21 - 1973",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1973,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: AD21 - 1973",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "landstrom": {
+    "evidence": "2 förbruknings batterier, 1start batteri, landström, badbrygga, Kylskåp.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Halva priset av 50000kr är 25000kr plus 2137kr uppställnings plats",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25280685/0a3a813b-07bf-499f-bcba-75d7f72a4e0a",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 60.69507,
+ "length_ft": 25,
+ "location": "Gävle",
+ "lon": 17.11938,
+ "make": "Albin",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": 22.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 121,
+  "fetched_ts": 1790507721751,
+  "text_sha": "749bbbc601535747"
+ },
+ "price": 27137,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 27137
+  }
+ ],
+ "specs": {
+  "Bredd": "260 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "25 fot",
+  "Modell": "25",
+  "Modellår": "1972",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "22 hk",
+  "Motortillverkare": "AD21 - 1973",
+  "Motortyp": "Inombordare",
+  "Märke": "Albin",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25280685",
+ "width_cm": 260,
+ "year": 1972
+}

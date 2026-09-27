@@ -1,0 +1,120 @@
+{
+ "ad_id": 26367806,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788701556000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1991,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1991,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 440GT + Johnson 40hk -91 + Tiki 600 släp (2024, nyskick).",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Följer med: Lowrance Elite-5x ekolod, nyinköpt badring och vattenskidlina, enkelt kapell till båten, klass 3-lås med kä…",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Följer med: Lowrance Elite-5x ekolod, nyinköpt badring och vattenskidlina, enkelt kapell till båten, klass 3-lås med kä…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Följer med: Lowrance Elite-5x ekolod, nyinköpt badring och vattenskidlina, enkelt kapell till båten, klass 3-lås med kä…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds 440GT + Johnson 40hk -91 + Tiki 600 släp (2024, nyskick)",
+    "included": true,
+    "year": 2024
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 440GT + Johnson 40hk -91 + Tiki 600 släp (2024, nyskick)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26367806/92256798-c925-471e-a7b3-110fbc965680",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.42391,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1991,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": 1991,
+   "engine_year_evidence": "Ryds 440GT + Johnson 40hk -91 + Tiki 600 släp (2024, nyskick).",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5fe5b4a41bf0ab32"
+ },
+ "location": "Karlstad",
+ "lon": 13.43929,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 662,
+  "fetched_ts": 1790508631412,
+  "text_sha": "5fe5b4a41bf0ab32"
+ },
+ "price": 39000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 39000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "440GT",
+  "Modellår": "1991",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "280 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26367806",
+ "width_cm": 180,
+ "year": 1991
+}

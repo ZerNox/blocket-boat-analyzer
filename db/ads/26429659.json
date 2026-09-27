@@ -1,0 +1,112 @@
+{
+ "ad_id": 26429659,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788883969000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1991,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "YAMAHA",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1991,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "-Ekolod",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sea Star 600S",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26429659/5ad28ce3-7ecb-4f65-b344-2b69264a9b46",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.41361,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1991,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "YAMAHA",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny motor 2025",
+   "engine_year_rejected": 2025,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3ac76c5fa6474592"
+ },
+ "location": "Vaxholm",
+ "lon": 18.30457,
+ "make": "Sea Star",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 324,
+  "fetched_ts": 1790508684584,
+  "text_sha": "3ac76c5fa6474592"
+ },
+ "price": 85000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 85000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "19 fot",
+  "Modell": "600 Sportfisher",
+  "Modellår": "1991",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "YAMAHA",
+  "Motortyp": "Utombordare",
+  "Märke": "Sea Star",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Annat",
+  "Sovplatser": "2",
+  "Toppfart": "25 knop",
+  "Typ": "Fiskebåt/Arbetsbåt",
+  "Vikt": "650 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26429659",
+ "width_cm": 220,
+ "year": 1991
+}

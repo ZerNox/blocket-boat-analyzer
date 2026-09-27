@@ -1,0 +1,73 @@
+{
+ "ad_id": 25390999,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1785844109000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1968,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude e-tec",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2009,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Idag sitter en evinrude e-tec 30 hk med elstart och rorkult (årsmodell 2009) på båten.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "En obromsad båtvagn följer med båten.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25390999/6664c187-1f59-4175-89aa-0c87e5f3ff74",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 63.80377,
+ "length_ft": 20,
+ "location": "Umeå",
+ "lon": 20.3711,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 401,
+  "fetched_ts": 1790507832493,
+  "text_sha": "623a9f075c020386"
+ },
+ "price": 19000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 19000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modellår": "1968",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Evinrude e-tec",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25390999",
+ "width_cm": 210,
+ "year": 1968
+}

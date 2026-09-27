@@ -1,0 +1,75 @@
+{
+ "ad_id": 24618715,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789285098000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2010,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Praktisk öppen styrpulpetbåt med pålitlig Honda 4-taktsmotor från 2010.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Båtkärra ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Styrpulpetbåt med Honda 4-taktsmotor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24618715/e1a3be9f-d642-4f36-b334-989cf56547e6",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.8025,
+ "length_ft": 16,
+ "location": "Resö",
+ "lon": 11.14768,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 273,
+  "fetched_ts": 1790507609050,
+  "text_sha": "f3d772eb84bea2b0"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Bredd": "190 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "495 GT",
+  "Modellår": "1988",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24618715",
+ "width_cm": 190,
+ "year": 1988
+}

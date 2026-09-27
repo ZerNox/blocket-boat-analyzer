@@ -1,0 +1,92 @@
+{
+ "ad_id": 26095124,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1789197298000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": 1,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2026,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Fick precis en helt ny Mercury 40hk (2026) monterad av marinan på ett försäkringsärende efter en skada på växelhuset på min gamla motor.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod: Lowrance Elite med Cmap sjökort (tror det är Baltic inkl alla sjöar)",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Elmotor: Minn Kota Terrova med Spotlock (ankring).",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Ctek-laddare följer med.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ekolod: Lowrance Elite med Cmap sjökort (tror det är Baltic inkl alla sjöar)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer: Respo med ramp och 3 Boat buckles (nästa besiktning 2[tel])",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Tracker Grizzly 1648 med helt ny Mercury F40",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26095124/660645ea-4af2-4733-a408-6da2023bd2b4",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.01452,
+ "length_ft": 16,
+ "location": "Kristianstad",
+ "lon": 14.19611,
+ "make": "Tracker",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1200,
+  "fetched_ts": 1790508455922,
+  "text_sha": "4375611fed2fc4f1"
+ },
+ "price": 195000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 195000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Camo",
+  "Längd i fot": "16 fot",
+  "Modell": "Grizzly 1648",
+  "Modellår": "2019",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Tracker",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26095124",
+ "width_cm": 0,
+ "year": 2019
+}

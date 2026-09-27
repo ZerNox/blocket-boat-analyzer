@@ -1,0 +1,84 @@
+{
+ "ad_id": 26834758,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1790189332000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2025,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2025,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 465 Yamaha 20 hp 2025.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ett Lowrance Elite 9\" ekolod kan få köpas till för ett fint pris vid en smidig och enkel affär.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Ett Lowrance Elite 9\" ekolod kan få köpas till för ett fint pris vid en smidig och enkel affär.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailern är en Brenderup 80 km/h kärra så gott som ny !",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 465 Yamaha 20 hp 2025",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26834758/f3c5331e-ce7f-4c60-9213-19ad4b6aa0b2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.00693,
+ "length_ft": 465,
+ "location": "Kristianstad",
+ "lon": 14.14299,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 801,
+  "fetched_ts": 1790508965896,
+  "text_sha": "9415d137d175e5cd"
+ },
+ "price": 50000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 50000
+  }
+ ],
+ "specs": {
+  "Bredd": "130 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "465 fot",
+  "Modell": "465",
+  "Modellår": "2025",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26834758",
+ "width_cm": 130,
+ "year": 2025
+}

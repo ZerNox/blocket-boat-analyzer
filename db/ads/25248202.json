@@ -1,0 +1,113 @@
+{
+ "ad_id": 25248202,
+ "boat_class": "Annat",
+ "changed_ts": 1785428272000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "MSW  2,5 bensin --Deep See 640W 12V",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2019,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "elmotor": {
+    "evidence": "Finns för den som så önskar utveckling av rodd, gå till www.muskelrodd.se . (innovativa elsystemet helt separerat från …",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailern är väg-reggad men fäste för 30 skylt finns",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Lättrodd Theri Saiman utrustad med rowing slide eller rigg för trolling-dörj",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25248202/f6bdbead-e1b5-48d0-a069-0c2c696330f3",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.12508,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2019,
+   "engine_hours": null,
+   "engine_hp": 2.5,
+   "engine_maker": "MSW",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "4bb87938bcc61e32"
+ },
+ "location": "Hälleviksstrand",
+ "lon": 11.43762,
+ "make": "Salman Theri",
+ "max_speed": 5,
+ "motor_fuel": "Hybrid",
+ "motor_size": 2.5,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1351,
+  "fetched_ts": 1790507684574,
+  "text_sha": "4bb87938bcc61e32"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Bredd": "148 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "10 cm",
+  "Drivmedel": "Hybrid",
+  "Färg": "vit",
+  "Längd i fot": "15 fot",
+  "Modell": "Hunter",
+  "Modellår": "2019",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "2.5 hk",
+  "Motortillverkare": "MSW  2,5 bensin --Deep See 640W 12V",
+  "Motortyp": "Utombordare",
+  "Märke": "Salman Theri",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "5 knop",
+  "Typ": "Annat",
+  "Vikt": "105 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25248202",
+ "width_cm": 148,
+ "year": 2019
+}

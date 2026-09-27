@@ -1,0 +1,79 @@
+{
+ "ad_id": 25988226,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788364812000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1992,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer min Ryds 495GT med mercury 50hk 4takt 2006 programvara uppdaterad till 60hk.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod Garmin Striker 9\", Frontmotor Watersnake Geo-spot, 100AH batteri.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer obromsad 80Km/h säljes ny besiktad",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 495 GT med Mercury 50Hk 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25988226/6793e6d2-32f7-4113-a06f-ac5f99d97359",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.14979,
+ "length_ft": 16,
+ "location": "Hanaskog",
+ "lon": 14.10244,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 249,
+  "fetched_ts": 1790508363585,
+  "text_sha": "c9a30a67f354ff67"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "495GT",
+  "Modellår": "1992",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25988226",
+ "width_cm": 0,
+ "year": 1992
+}

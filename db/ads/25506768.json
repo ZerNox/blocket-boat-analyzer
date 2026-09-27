@@ -1,0 +1,100 @@
+{
+ "ad_id": 25506768,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1786175457000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2002,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2002,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ny jolle till båten?",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25506768/54ad9a06-3665-4be3-949b-1266c33c9d8e",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.57955,
+ "length_ft": 8,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2002,
+   "engine_hours": null,
+   "engine_hp": 6,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Årsmodell 2020",
+   "engine_year_rejected": 2020,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9fc4496c0acbf7ea"
+ },
+ "location": "Norrköping",
+ "lon": 16.22819,
+ "make": "Quicksilver",
+ "max_speed": 12,
+ "motor_fuel": "Bensin",
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 748,
+  "fetched_ts": 1790507935181,
+  "text_sha": "9fc4496c0acbf7ea"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit/grå/blå",
+  "Längd i fot": "8 fot",
+  "Modell": "240 Air",
+  "Modellår": "2002",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Quicksilver",
+  "Toppfart": "12 knop",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25506768",
+ "width_cm": 0,
+ "year": 2002
+}

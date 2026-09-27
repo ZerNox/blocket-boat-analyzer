@@ -1,0 +1,110 @@
+{
+ "ad_id": 26630043,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1789548411000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2016,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude E-Tec",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Första motorn stals, så ny motor -18 installerades.",
+  "engine_year_source": "rule:text?",
+  "equipment": {
+   "kapell": {
+    "evidence": "Akterkapell",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sandström 560MC m 60 Hk - Höstpris",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26630043/96fc81e6-e1f8-415a-8b60-321d3d20e095",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.83885,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2016,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Evinrude E-Tec",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "ny motor -18 installerades",
+   "engine_year_rejected": -18,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ac947d434a69e359"
+ },
+ "location": "Norrtälje",
+ "lon": 18.81863,
+ "make": "Sandström",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 621,
+  "fetched_ts": 1790508834764,
+  "text_sha": "ac947d434a69e359"
+ },
+ "price": 159000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 159000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "560 MC",
+  "Modellår": "2016",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Evinrude E-Tec",
+  "Märke": "Sandström",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "700 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26630043",
+ "width_cm": 205,
+ "year": 2016
+}

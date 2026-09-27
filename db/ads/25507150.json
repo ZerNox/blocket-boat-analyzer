@@ -1,0 +1,77 @@
+{
+ "ad_id": 25507150,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786779517000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": 70,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2019,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Både båt och motor är från 2019, och den driftsäkra Suzuki DF80A (80 hk) har endast gått cirka 70 timmar.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "AMT 185 R 2019 – Suzuki DF80A – ca 70 timmar – Trailer ingår",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25507150/b9be9ff5-2427-43ed-b95e-6f8000733f42",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.80945,
+ "length_ft": 18,
+ "location": "Vätö",
+ "lon": 18.96084,
+ "make": "AMT",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 347,
+  "fetched_ts": 1790507938120,
+  "text_sha": "18660b181ce5aaa9"
+ },
+ "price": 200000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 200000
+  }
+ ],
+ "specs": {
+  "Bredd": "224 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "185 R",
+  "Modellår": "2019",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "AMT",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25507150",
+ "width_cm": 224,
+ "year": 2019
+}

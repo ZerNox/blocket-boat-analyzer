@@ -1,0 +1,82 @@
+{
+ "ad_id": 26091556,
+ "boat_class": "Annat",
+ "changed_ts": 1788004199000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Nissan",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1990,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn Nissan 18 hk med nissan org bränsletank med mätare , går billigt ,alltid varit lättstartad både med startmotor o dragstart.Endast körd i insjö sen 1990 o troligen tidigare.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Båtkärra o ekolod ingår.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtkärra o ekolod ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Båt Cresent 418 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26091556/56ba186a-363c-46a5-b0aa-e4c0e610d6bf",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.41963,
+ "length_ft": 14,
+ "location": "Årjäng",
+ "lon": 12.20248,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 18.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 404,
+  "fetched_ts": 1790508453101,
+  "text_sha": "10a67c403e212793"
+ },
+ "price": 12000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 12000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "14 fot",
+  "Modell": "418 HT",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "18 hk",
+  "Motortillverkare": "Nissan",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "3",
+  "Typ": "Annat",
+  "Vikt": "310 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26091556",
+ "width_cm": 180,
+ "year": 1978
+}

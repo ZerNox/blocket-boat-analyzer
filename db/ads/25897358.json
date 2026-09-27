@@ -1,0 +1,112 @@
+{
+ "ad_id": 25897358,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1787304553000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1950,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "SABB",
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1950,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Mast, dörjestänger, ekolod och GPS ingår.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Mast, dörjestänger, ekolod och GPS ingår.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtkärra medföljer om önskas.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Träjulle plastad",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25897358/be166e10-239f-415c-92c1-cc1f62a26cec",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.98713,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1950,
+   "engine_hours": null,
+   "engine_hp": 10,
+   "engine_maker": "SABB",
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "03b716bfd8af26a2"
+ },
+ "location": "Skärhamn",
+ "lon": 11.54331,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": 10.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 318,
+  "fetched_ts": 1790508288094,
+  "text_sha": "03b716bfd8af26a2"
+ },
+ "price": 29000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 29000
+  }
+ ],
+ "specs": {
+  "Bredd": "280 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "20 fot",
+  "Modell": "Orustbyggd Jolle",
+  "Modellår": "1950",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "10 hk",
+  "Motortillverkare": "SABB",
+  "Märke": "Övriga",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25897358",
+ "width_cm": 280,
+ "year": 1950
+}

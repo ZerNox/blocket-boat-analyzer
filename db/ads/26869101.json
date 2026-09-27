@@ -1,0 +1,70 @@
+{
+ "ad_id": 26869101,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1790328550000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2020,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Crescent 410 + Mercury 9,9 hk (4-takt från 2020).",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "leak"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 410 + Mercury 9,9 hk (4-takt från 2020)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26869101/54f8979f-f2c2-4f39-9101-20f6c808aa4b",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.67931,
+ "length_ft": 13,
+ "location": "Norrtälje",
+ "lon": 18.6897,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 9.899999618530273,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 420,
+  "fetched_ts": 1790508988354,
+  "text_sha": "b78cde89a39fb669"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "13 fot",
+  "Modell": "410",
+  "Modellår": "2020",
+  "Motorstorlek": "9.9 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26869101",
+ "width_cm": 0,
+ "year": 2020
+}

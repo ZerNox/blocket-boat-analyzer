@@ -1,0 +1,106 @@
+{
+ "ad_id": 25292825,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1785573899000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1986,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1986,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Obs 30 trailer medföljer den här dock punka på ena däcket och är väldigt gammal men man måste ta med den om man köper b…",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Jofa båt med Yamaha motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25292825/e1c22f3d-77a7-4e0d-a6c3-0f9bbfaad88b",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.60859,
+ "length_ft": 4,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1986,
+   "engine_hours": null,
+   "engine_hp": 4,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "6441e8bbd2370c8b"
+ },
+ "location": "Yxlan",
+ "lon": 18.83251,
+ "make": "Crescent",
+ "max_speed": 6,
+ "motor_fuel": "Bensin",
+ "motor_size": 4.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 293,
+  "fetched_ts": 1790507734287,
+  "text_sha": "6441e8bbd2370c8b"
+ },
+ "price": 7000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 7000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Orange/vit",
+  "Längd i fot": "4 fot",
+  "Modellår": "1986",
+  "Motorstorlek": "4 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Annat",
+  "Toppfart": "6 knop",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25292825",
+ "width_cm": 0,
+ "year": 1986
+}

@@ -1,0 +1,78 @@
+{
+ "ad_id": 26565041,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790415322000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2000,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "r hela familjen! Tillhörande motor från samma årtal är av märke Johnson med 70 pigga hästkrafter som kyler fint och sta",
+  "engine_year_source": "rule:original",
+  "equipment": {
+   "kapell": {
+    "evidence": "- Kapell",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Vägregistrerad Rekotrailer 900kg kan köpas till för 10.000kr.",
+    "included": false
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 511 GTS + 70hk Johnson",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26565041/4165cab6-c3af-48a9-ade6-c1a1f8d0914b",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.33775,
+ "length_ft": 17,
+ "location": "Gustavsberg",
+ "lon": 18.39432,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 784,
+  "fetched_ts": 1790508787426,
+  "text_sha": "73dfdc4c6a4e6e22"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "511GTS",
+  "Modellår": "2000",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26565041",
+ "width_cm": 0,
+ "year": 2000
+}

@@ -1,0 +1,105 @@
+{
+ "ad_id": 26231244,
+ "boat_class": "Annat",
+ "changed_ts": 1788277990000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1998,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Ingår fin båtkärra.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Säljes Väddö 450",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26231244/c902679e-a06f-4d6f-a3f1-e5035e709db2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.30893,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1998,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "445bcfdcca6b5808"
+ },
+ "location": "Värmdö",
+ "lon": 18.611,
+ "make": "Väddö",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 439,
+  "fetched_ts": 1790508532489,
+  "text_sha": "445bcfdcca6b5808"
+ },
+ "price": 57000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 57000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "450",
+  "Modellår": "1998",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Väddö",
+  "Sittplatser": "4",
+  "Toppfart": "25 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26231244",
+ "width_cm": 0,
+ "year": 1998
+}

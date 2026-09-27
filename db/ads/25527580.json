@@ -1,0 +1,78 @@
+{
+ "ad_id": 25527580,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786206570000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude 70",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1998,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 475 GT från 1998 och med Evinrude 70 hk från 1998",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Det sitter hydrauliskt styrning,Allt fungerar som det ska och den är redo att läggas i och köras.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds 475gt med trailer och trim/tilt",
+    "included": true
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 475gt med trailer och trim/tilt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25527580/61d4d657-f3dd-437d-aaa8-d4cca3435b02",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.76671,
+ "length_ft": 16,
+ "location": "Norrtälje",
+ "lon": 18.72722,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 748,
+  "fetched_ts": 1790507966680,
+  "text_sha": "c65cdf2614e01820"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "475gt",
+  "Modellår": "1998",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Evinrude 70",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25527580",
+ "width_cm": 0,
+ "year": 1998
+}

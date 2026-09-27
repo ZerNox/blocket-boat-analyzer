@@ -1,0 +1,120 @@
+{
+ "ad_id": 26402775,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788797259000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Mycket välskött båt med hydraulisk styrning Garmin gpsmap 721xs Ekolod/plotter nybesiktigad 80trailer med aluminium fäl…",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Mycket välskött båt med hydraulisk styrning Garmin gpsmap 721xs Ekolod/plotter nybesiktigad 80trailer med aluminium fäl…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Mycket välskött båt med hydraulisk styrning Garmin gpsmap 721xs Ekolod/plotter nybesiktigad 80trailer med aluminium fäl…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds 478gt 60hk Mariner 2takt +80km trailer",
+    "included": true,
+    "kmh": 80
+   },
+   "vinterkapell": {
+    "evidence": "Helt vinterkapell",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ryds 478gt 60hk Mariner 2takt +80km trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26402775/990cc0cd-9430-4ec8-a320-db2dd287f3d8",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.65785,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2005,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "591421f7434b3a2d"
+ },
+ "location": "Halmstad",
+ "lon": 12.77948,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 211,
+  "fetched_ts": 1790508661178,
+  "text_sha": "591421f7434b3a2d"
+ },
+ "price": 73000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 73000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "478gt",
+  "Modellår": "2005",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Toppfart": "30 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26402775",
+ "width_cm": 0,
+ "year": 2005
+}

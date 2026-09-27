@@ -1,0 +1,84 @@
+{
+ "ad_id": 25674857,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786654661000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2025,
+  "boat_year_source": "spec",
+  "engine_hours": 48,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2025,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Buster M2 2025 / Yamaha F40 FETL 2025 Inkl.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Akterkapell/körkapell",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Buster M2 2025 / Yamaha F40 FETL 2025 Inkl. Trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25674857/5b311b1c-a66d-49cb-b3f2-be81331a99d2",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.03829,
+ "length_ft": 16,
+ "location": "Landfjärden",
+ "lon": 17.96753,
+ "make": "Buster",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 610,
+  "fetched_ts": 1790508086293,
+  "text_sha": "d371d24e7d956238"
+ },
+ "price": 240000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 240000
+  }
+ ],
+ "specs": {
+  "Bredd": "185 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Aluminium",
+  "Längd i fot": "16 fot",
+  "Modell": "M2 (Comfort Edition)",
+  "Modellår": "2025",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "27 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "390 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25674857",
+ "width_cm": 185,
+ "year": 2025
+}

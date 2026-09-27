@@ -1,0 +1,101 @@
+{
+ "ad_id": 25373423,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1785785829000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Murcury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Gummibåt 240 cm",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25373423/75f6eb55-faaf-41ae-9713-c2f4964868c8",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.69234,
+ "length_ft": 8,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": 3.3,
+   "engine_maker": "Murcury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mercury 3,3 hk utombordare i bra skick utan skador",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d212ed4420997cd2"
+ },
+ "location": "Grebbestad",
+ "lon": 11.19342,
+ "make": "Quicksilver",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 3.299999952316284,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 367,
+  "fetched_ts": 1790507815140,
+  "text_sha": "d212ed4420997cd2"
+ },
+ "price": 9500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 9500
+  }
+ ],
+ "specs": {
+  "Bredd": "154 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "10 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Grå",
+  "Längd i fot": "8 fot",
+  "Modell": "Quicksilver 240 Air Deck",
+  "Modellår": "2006",
+  "Motorstorlek": "3.3 hk",
+  "Motortillverkare": "Murcury",
+  "Motortyp": "Utombordare",
+  "Märke": "Quicksilver",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25373423",
+ "width_cm": 154,
+ "year": 2006
+}

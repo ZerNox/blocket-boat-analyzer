@@ -1,0 +1,111 @@
+{
+ "ad_id": 23698844,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787228202000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Suzuki",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Trailer och äldre Raymarine ekolod ingår.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Trailer och äldre Raymarine ekolod ingår.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer och äldre Raymarine ekolod ingår.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HR 435",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23698844/76b42582-81af-4d7b-a262-9ddc5349ec77",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.90357,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2007,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Suzuki DT30",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "021bbd5a93792ce7"
+ },
+ "location": "Ljungby",
+ "lon": 13.83078,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 82,
+  "fetched_ts": 1790507525582,
+  "text_sha": "021bbd5a93792ce7"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Bredd": "184 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "14 fot",
+  "Modell": "435",
+  "Modellår": "2007",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23698844",
+ "width_cm": 184,
+ "year": 2007
+}

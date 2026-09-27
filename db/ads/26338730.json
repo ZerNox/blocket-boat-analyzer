@@ -1,0 +1,109 @@
+{
+ "ad_id": 26338730,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789224764000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2024,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2024,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "VIB 430 RIB med Mercury 20 hk och trailer",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "VIB 430 RIB med Mercury 20 hk och trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26338730/5955da74-3381-44a7-a321-f4401465161f",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.41748,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2024,
+   "engine_hours": null,
+   "engine_hp": 20,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Senast servad hos Marindepån i juni 2026",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d7f37447957ef913"
+ },
+ "location": "Järfälla",
+ "lon": 17.81116,
+ "make": "Greatwhite",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 697,
+  "fetched_ts": 1790508609768,
+  "text_sha": "d7f37447957ef913"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Bredd": "188 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Svart",
+  "Längd i fot": "14 fot",
+  "Modell": "VIB430",
+  "Modellår": "2024",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Greatwhite",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "20 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "100 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26338730",
+ "width_cm": 188,
+ "year": 2024
+}

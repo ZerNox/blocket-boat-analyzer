@@ -1,0 +1,113 @@
+{
+ "ad_id": 26431345,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1788887781000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Helrenoverat skrov in och utvändigt,lackad med De ijssel coating,ombyggd till styrpulpet från akterhytt.fast tank med n…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Helrenoverat skrov in och utvändigt,lackad med De ijssel coating,ombyggd till styrpulpet från akterhytt.fast tank med n…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Helrenoverat skrov in och utvändigt,lackad med De ijssel coating,ombyggd till styrpulpet från akterhytt.fast tank med n…",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Scantic 580",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26431345/488069db-52ed-42b3-a4de-d00ed609cbf1",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.76938,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mercury 75 3cyl år ca 94-98",
+   "engine_year_rejected": 1994,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b348d0ba8b0b103a"
+ },
+ "location": "Nyköping",
+ "lon": 16.9775,
+ "make": "Bella",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 471,
+  "fetched_ts": 1790508688580,
+  "text_sha": "b348d0ba8b0b103a"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "Scantic 580",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26431345",
+ "width_cm": 0,
+ "year": 1985
+}

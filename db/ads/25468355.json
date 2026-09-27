@@ -1,0 +1,113 @@
+{
+ "ad_id": 25468355,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787852743000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2025,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2025,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Tohatsu 9,8 hk, elmotor och ekolod (komplett fiskepaket)",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Tohatsu 9,8 hk, elmotor och ekolod (komplett fiskepaket)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Säljes endast eftersom jag redan har köpt en betydligt större båt på trailer.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "4 m gummibåt 2025 – Tohatsu 9,8 hk, elmotor och ekolod (komplett fiskepaket)",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25468355/1158cb9b-db49-4050-8cf3-42abe48a45bc",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.81892,
+ "length_ft": 13,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2025,
+   "engine_hours": null,
+   "engine_hp": 9.8,
+   "engine_maker": "Tohatsu",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorstorlek: 9.8 hk Motortillverkare: Tohatsu",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c248e35c857eb079"
+ },
+ "location": "Gråbo",
+ "lon": 12.25575,
+ "make": "Nova",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 9.800000190734863,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 865,
+  "fetched_ts": 1790507897545,
+  "text_sha": "c248e35c857eb079"
+ },
+ "price": 54900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 54900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "grå",
+  "Längd i fot": "13 fot",
+  "Modell": "Navigator 4m",
+  "Modellår": "2025",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "9.8 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Nova",
+  "Sittplatser": "4",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25468355",
+ "width_cm": 0,
+ "year": 2025
+}

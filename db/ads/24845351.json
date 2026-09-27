@@ -1,0 +1,110 @@
+{
+ "ad_id": 24845351,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790072748000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1984,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "TOHATSU MFS30D WETL",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1984,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "* Ekolod ingår",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "* Kapell",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Sjöjeep",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24845351/16b0f2b9-a2bd-4b70-a351-84176d9097db",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.43954,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1984,
+   "engine_hours": null,
+   "engine_hp": 30,
+   "engine_maker": "TOHATSU",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny Tohatsu 30 hk",
+   "engine_year_rejected": 2023,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c1e49df9077e4e85"
+ },
+ "location": "Vadstena",
+ "lon": 14.88993,
+ "make": "Sea Jeep",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 585,
+  "fetched_ts": 1790507624901,
+  "text_sha": "c1e49df9077e4e85"
+ },
+ "price": 59995,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 59995
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Alu/Blå",
+  "Längd i fot": "14 fot",
+  "Modell": "Sjöjeep",
+  "Modellår": "1984",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "TOHATSU MFS30D WETL",
+  "Motortyp": "Utombordare",
+  "Märke": "Sea Jeep",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24845351",
+ "width_cm": 0,
+ "year": 1984
+}

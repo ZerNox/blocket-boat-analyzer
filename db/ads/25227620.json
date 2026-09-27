@@ -1,0 +1,114 @@
+{
+ "ad_id": 25227620,
+ "boat_class": "Annat",
+ "changed_ts": 1785342345000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Volvo Penta MD17C",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "4 st räddningsvästar och Garmin Echomap ingår i priset.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nytt kapell för säsongen, ny brandsläckare.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "4 st räddningsvästar och Garmin Echomap ingår i priset.",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Nytt pris, Saga 24",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25227620/41a8ef5c-6e24-428a-93a8-63cf4be74eda",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 56.91313,
+ "length_ft": 24,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 35,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Saga 24 årsmodell 1980-81 med Volvo Penta MD17 C Inombordsmotor maxfart ca 7 knop.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "fbad55964fb8b48a"
+ },
+ "location": "Falkenberg",
+ "lon": 12.43804,
+ "make": "Saga",
+ "max_speed": 7,
+ "motor_fuel": "Diesel",
+ "motor_size": 35.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 206,
+  "fetched_ts": 1790507670461,
+  "text_sha": "fbad55964fb8b48a"
+ },
+ "price": 50000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 50000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "24 fot",
+  "Modell": "Saga 24",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "35 hk",
+  "Motortillverkare": "Volvo Penta MD17C",
+  "Motortyp": "Inombordare",
+  "Märke": "Saga",
+  "Sittplatser": "2",
+  "Sovplatser": "2",
+  "Toppfart": "7 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25227620",
+ "width_cm": 0,
+ "year": 1980
+}

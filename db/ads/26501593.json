@@ -1,0 +1,100 @@
+{
+ "ad_id": 26501593,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789132955000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1993,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Tillsammans med en utombordare Yamaha 4hk 2-takt år 1993.",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {},
+  "llm_reasons": [
+   "engine 1993 older than boat 1998"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Örnvik 412",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26501593/7ab3cac3-0ff9-4f6e-807b-56a206348a87",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.70501,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": null,
+   "engine_hours": null,
+   "engine_hp": 4,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": 1993,
+   "engine_year_evidence": "Tillsammans med en utombordare Yamaha 4hk 2-takt år 1993.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8ceb47d8d8454b59"
+ },
+ "location": "Norrtälje",
+ "lon": 18.82881,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 4.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 150,
+  "fetched_ts": 1790508743401,
+  "text_sha": "8ceb47d8d8454b59"
+ },
+ "price": 6600,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 6600
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "412",
+  "Modellår": "1998",
+  "Motorstorlek": "4 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "152 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26501593",
+ "width_cm": 0,
+ "year": 1998
+}

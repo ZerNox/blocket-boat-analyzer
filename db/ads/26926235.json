@@ -1,0 +1,114 @@
+{
+ "ad_id": 26926235,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790503760000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": 68,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2019,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "* Humminbird Helix 7 vid förarplatsen",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Minn Kota Terrova",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Det är helt enkelt bara att koppla på trailern och ge sig ut.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Linder Sportsman 445 Catch – 2019 | Yamaha 30 hk | Minn Kota Terrova | Helix 7 |",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26926235/d6091efd-ba12-4eec-bc33-4e6da49b6361",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.14039,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2019,
+   "engine_hours": 68,
+   "engine_hp": 30,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Yamaha 30 hk – endast 68 gångtimmar",
+   "engine_year_rejected": 2019,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "54f961c031c41dd9"
+ },
+ "location": "Varberg",
+ "lon": 12.28784,
+ "make": "Linder",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 905,
+  "fetched_ts": 1790509035587,
+  "text_sha": "54f961c031c41dd9"
+ },
+ "price": 173000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 173000
+  }
+ ],
+ "specs": {
+  "Bredd": "175 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "Sportsman 445 Catch",
+  "Modellår": "2019",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Linder",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26926235",
+ "width_cm": 175,
+ "year": 2019
+}

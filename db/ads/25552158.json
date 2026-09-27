@@ -1,0 +1,74 @@
+{
+ "ad_id": 25552158,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1786281770000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Crescent 465 Trader med Yamaha 30 hk från 2008.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Obromsat 30-släp ingår.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 465 Trader, 2008",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25552158/00ecc416-0864-48d4-aa0a-80837b6d75fd",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.32112,
+ "length_ft": 15,
+ "location": "Saltsjö-Boo",
+ "lon": 18.26966,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 30.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 143,
+  "fetched_ts": 1790507988011,
+  "text_sha": "ec7bdba77bcc3def"
+ },
+ "price": 65000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 65000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "465 Trader",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "30 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25552158",
+ "width_cm": 0,
+ "year": 2008
+}

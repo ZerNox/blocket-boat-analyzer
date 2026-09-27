@@ -1,0 +1,108 @@
+{
+ "ad_id": 25967064,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1788344597000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1991,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury 4 takt",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1991,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer medföljer + åror .",
+    "included": true
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Smögen 45:a till salu",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25967064/e074a514-5b3a-4fde-bac6-7e3e7ed022dc",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.36537,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1991,
+   "engine_hours": null,
+   "engine_hp": 6,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Båt ca 1991 , motor okänt årtal .",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "fb7466c1f083a3ad"
+ },
+ "location": "Kungshamn",
+ "lon": 11.2482,
+ "make": "NorPlast",
+ "max_speed": 7,
+ "motor_fuel": "Bensin",
+ "motor_size": 6.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 157,
+  "fetched_ts": 1790508332662,
+  "text_sha": "fb7466c1f083a3ad"
+ },
+ "price": 11900,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 11900
+  }
+ ],
+ "specs": {
+  "Bredd": "160 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "15 fot",
+  "Modell": "Smögen 45:a",
+  "Modellår": "1991",
+  "Motorstorlek": "6 hk",
+  "Motortillverkare": "Mercury 4 takt",
+  "Motortyp": "Utombordare",
+  "Märke": "NorPlast",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "1",
+  "Toppfart": "7 knop",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25967064",
+ "width_cm": 160,
+ "year": 1991
+}

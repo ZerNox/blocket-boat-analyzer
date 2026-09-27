@@ -1,0 +1,101 @@
+{
+ "ad_id": 25946002,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787425407000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mariner",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 310",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25946002/6bcfd5c3-7731-4725-b1c1-379f67bd6aba",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 58.71266,
+ "length_ft": 10,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 2,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "17891d383aa5332a"
+ },
+ "location": "Mariestad",
+ "lon": 13.86394,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 2.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 515,
+  "fetched_ts": 1790508321814,
+  "text_sha": "17891d383aa5332a"
+ },
+ "price": 6500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 6500
+  }
+ ],
+ "specs": {
+  "Bredd": "140 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "10 fot",
+  "Modell": "310",
+  "Modellår": "1990",
+  "Motorstorlek": "2 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Plast",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "75 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25946002",
+ "width_cm": 140,
+ "year": 1990
+}

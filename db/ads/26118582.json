@@ -1,0 +1,107 @@
+{
+ "ad_id": 26118582,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787987531000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2020,
+  "boat_year_source": "spec",
+  "engine_hours": 50,
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor 2006.",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "trailer": {
+    "evidence": "Kärra ingår inte.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "engine 2006 older than boat 2020"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Båt för fisket",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26118582/6cc50363-dc5d-4f60-9485-1cb9d76f1d43",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 65.53119,
+ "length_ft": 14,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2020,
+   "engine_hours": null,
+   "engine_hp": 8,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": 2006,
+   "engine_year_evidence": "Motor 2006.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "7781136e9ff5d3a6"
+ },
+ "location": "Altersbruk",
+ "lon": 21.31383,
+ "make": "HR",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 8.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 229,
+  "fetched_ts": 1790508469289,
+  "text_sha": "7781136e9ff5d3a6"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Bredd": "158 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "14 fot",
+  "Modell": "430STD",
+  "Modellår": "2020",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "8 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "HR",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "150 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26118582",
+ "width_cm": 158,
+ "year": 2020
+}

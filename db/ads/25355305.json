@@ -1,0 +1,98 @@
+{
+ "ad_id": 25355305,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785753786000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "OPTIMAX 75HK 2008",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "raymarine CPT-S Ekolod",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Helt ny Baystar+ Hydraulstyrning",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nytt hamnkapell Jonetti",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "raymarine Element 7S Plotter",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Finns en ny 2025 80kmh bromsad trailer att köpa till",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "RYDS 510 GTI 2008 - INTRESSEKOLL, MYCKET PÅKOSTAD",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25355305/9805cd6c-ffcb-42c2-bf63-400dad61d1b6",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.51466,
+ "length_ft": 17,
+ "location": "Åkersberga",
+ "lon": 18.29163,
+ "make": "Ryds",
+ "max_speed": 34,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1326,
+  "fetched_ts": 1790507793502,
+  "text_sha": "8f34c243e84f64e3"
+ },
+ "price": 130000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 130000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "510 GTI",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "34 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "530 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25355305",
+ "width_cm": 220,
+ "year": 2008
+}

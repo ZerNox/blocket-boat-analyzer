@@ -1,0 +1,85 @@
+{
+ "ad_id": 26005857,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1787592138000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Parsun",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2019,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Parsun 15 hk 4-takt från 2019 med elstart.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Kan även säljas utan ekolod om köparen inte är intresserad av det.",
+    "included": false
+   },
+   "plotter": {
+    "evidence": "Lowrance Hook Reveal 5 ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Uttern 495 med Parsun 15hk 4-takt, styrpulpet, kärra & ekolod",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Uttern 495 med Parsun 15hk 4-takt, styrpulpet, kärra & ekolod",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26005857/11132c83-393b-4a74-b862-72c80a0abd62",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.77864,
+ "length_ft": 17,
+ "location": "Jönköping",
+ "lon": 14.16265,
+ "make": "Uttern",
+ "max_speed": 14,
+ "motor_fuel": "Bensin",
+ "motor_size": 15.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1045,
+  "fetched_ts": 1790508373124,
+  "text_sha": "2baa3d3cc3382736"
+ },
+ "price": 27500,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 27500
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "495",
+  "Modellår": "2019",
+  "Motorstorlek": "15 hk",
+  "Motortillverkare": "Parsun",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "14 knop",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26005857",
+ "width_cm": 200,
+ "year": 2019
+}

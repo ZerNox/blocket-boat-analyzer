@@ -1,0 +1,68 @@
+{
+ "ad_id": 25888727,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1787253055000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt och motor är från 2006 Motorn är en 25 hk 2 takt.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent 465",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25888727/251499b1-b5e8-4897-9f7b-3987ea45459d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.34032,
+ "length_ft": 15,
+ "location": "Onsala",
+ "lon": 11.95897,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 25.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 152,
+  "fetched_ts": 1790508278889,
+  "text_sha": "e4f1978d01417295"
+ },
+ "price": 24000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 24000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "15 fot",
+  "Modell": "465 Cirrus",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "25 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25888727",
+ "width_cm": 0,
+ "year": 2006
+}

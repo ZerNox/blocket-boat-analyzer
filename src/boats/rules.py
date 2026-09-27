@@ -100,7 +100,7 @@ NEG_AFTER = re.compile(
 TRAILER_FALSE = re.compile(r"trailerbar\w*|trailervänlig\w*|lätt\s+att\s+traila|trailas", re.I)
 
 RED_FLAGS = {
-    "project": r"renoveringsobjekt|renoveringsbehov|projektbåt|\bprojekt\b|behöver\s+(?:renoveras|lagas|åtgärdas|ses\s+över)",
+    "project": r"\bre(?:n|p)\w*(?:objekt|behov)\w*|projektbåt|\bprojekt\b|behöver\s+(?:renoveras|lagas|åtgärdas|ses\s+över)",
     "defect": r"motorfel|motorhaveri|haveri\w*|\bskurit\b|\bskar\b|startar\s+(?:inte|ej)|går\s+(?:inte|ej)\s+(?:att\s+)?(?:starta|igång)|"
               r"kompression\w*\s+(?:låg|dålig)|(?:motor\w*|växelhus\w*|drev\w*|rigg\w*)\s+(?:är\s+)?(?:trasig|defekt)\w*|behöver\s+felsökas|"
               r"trasig\w*\s+(?:motor|växelhus|drev)",

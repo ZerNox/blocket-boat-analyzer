@@ -1,0 +1,72 @@
+{
+ "ad_id": 26676250,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1789735283000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2026,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Mercury 5hk",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2026,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "7OC 260 AIRDECK 5HK Mercury allt från 2026.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "7OC 260 AIRDECK 5HK Mercury allt från 2026",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26676250/0d160c37-5808-4df4-8d60-359e9fa43012",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.68872,
+ "length_ft": 8,
+ "location": "Göteborg",
+ "lon": 11.99727,
+ "make": "Zodiac",
+ "max_speed": 15,
+ "motor_fuel": "Bensin",
+ "motor_size": 5.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 267,
+  "fetched_ts": 1790508864706,
+  "text_sha": "dcefd9ff0fe65644"
+ },
+ "price": 19995,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 19995
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Grå",
+  "Längd i fot": "8 fot",
+  "Modell": "7OC 260",
+  "Modellår": "2026",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "5 hk",
+  "Motortillverkare": "Mercury 5hk",
+  "Motortyp": "Utombordare",
+  "Märke": "Zodiac",
+  "Toppfart": "15 knop",
+  "Typ": "Småbåt/Gummibåt",
+  "Vikt": "36 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26676250",
+ "width_cm": 0,
+ "year": 2026
+}

@@ -1,0 +1,112 @@
+{
+ "ad_id": 22317251,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789577185000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2009,
+  "boat_year_source": "spec",
+  "engine_hours": 110,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "Evinrude utan E-TEC tillverkades till 2007",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "perfekt båt för familjens bad och äventyr.Nyservad bara vrida nyckeln och köra endast 110 timmar på motorn. dynor och a…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80 trailer kan köpas till vid intresse.provkörning möjlig vid seriöst intresse.",
+    "included": false
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Crescent primo",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22317251/c5bc5b8f-dc44-4601-9916-7825e97cf91d",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.4998,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2009,
+   "engine_hours": 110,
+   "engine_hp": 50,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Endast vrida nyckeln och köra endast 110 timmar på motorn.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1ee7320e26edb03e"
+ },
+ "location": "Åkersberga",
+ "lon": 18.23607,
+ "make": "Crescent",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 226,
+  "fetched_ts": 1790507446943,
+  "text_sha": "1ee7320e26edb03e"
+ },
+ "price": 95000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 95000
+  }
+ ],
+ "specs": {
+  "Bredd": "203 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "Primo",
+  "Modellår": "2009",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "27 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "430 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22317251",
+ "width_cm": 203,
+ "year": 2009
+}

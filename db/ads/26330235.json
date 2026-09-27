@@ -1,0 +1,113 @@
+{
+ "ad_id": 26330235,
+ "boat_class": "Fiskebåt/Arbetsbåt",
+ "changed_ts": 1788938231000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1995,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Lowrance Eagle 9 ekolod med tripleshot-givare",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance Eagle 9 ekolod med tripleshot-givare",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ultra Marin Fiskebåt med 80-släp",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Ultra Marin Fiskebåt med 80-släp",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26330235/48ad2208-5354-41b9-b1a4-3a5cc3f7ae51",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 59.31759,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1995,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2d89620e2801a893"
+ },
+ "location": "Skoghall",
+ "lon": 13.49723,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 181,
+  "fetched_ts": 1790508604238,
+  "text_sha": "2d89620e2801a893"
+ },
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 70000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå",
+  "Längd i fot": "16 fot",
+  "Modell": "Ultra Marin",
+  "Modellår": "1995",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Fiskebåt/Arbetsbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26330235",
+ "width_cm": 200,
+ "year": 1995
+}

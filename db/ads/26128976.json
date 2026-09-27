@@ -1,0 +1,110 @@
+{
+ "ad_id": 26128976,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1788003019000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1983,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Johnsons",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1983,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Fint kapell",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Rejäl 30 kärra ingår.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "HT båt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26128976/a254e073-c25a-4d98-9288-4b10b8d96702",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.64774,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1983,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Johnsons",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "ny servad motor",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b23e492897b901b1"
+ },
+ "location": "Taberg",
+ "lon": 14.10255,
+ "make": "Crescent",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 66,
+  "fetched_ts": 1790508477503,
+  "text_sha": "b23e492897b901b1"
+ },
+ "price": 27000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 27000
+  }
+ ],
+ "specs": {
+  "Bredd": "186 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "490",
+  "Modellår": "1983",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Johnsons",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Skrovmaterial": "Plast",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26128976",
+ "width_cm": 186,
+ "year": 1983
+}

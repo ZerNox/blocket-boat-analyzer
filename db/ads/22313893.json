@@ -1,0 +1,102 @@
+{
+ "ad_id": 22313893,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1785409518000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2015,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2015,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-27T11:08:04+00:00",
+ "heading": "Pioner 15 med Yamaha F20BEPL – Stabil och mångsidig båt i toppskick",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22313893/4346ea2b-0605-40a0-93ee-ec683e3b0c57",
+ "last_seen": "2026-09-27T11:37:28+00:00",
+ "lat": 57.40687,
+ "length_ft": 15,
+ "llm": {
+  "at": "2026-09-27",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2015,
+   "engine_hours": null,
+   "engine_hp": 20,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor: Yamaha F20BEPL (20 hk, 4-takt). Servad senast 2024, inte använd alls under 2025.",
+   "engine_year_rejected": 2024,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "db5cad5f715633ff"
+ },
+ "location": "Onsala",
+ "lon": 11.92654,
+ "make": "Pioner",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": 20.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 920,
+  "fetched_ts": 1790507445674,
+  "text_sha": "db5cad5f715633ff"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-09-27",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "15 fot",
+  "Modell": "Pioner 15",
+  "Modellår": "2015",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "20 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Pioner",
+  "Toppfart": "20 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "220 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22313893",
+ "width_cm": 180,
+ "year": 2015
+}
