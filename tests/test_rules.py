@@ -138,6 +138,8 @@ def test_stroke():
 def test_red_flags():
     assert "project" in rules.extract_red_flags("Renoveringsobjekt, motorn startar inte.")
     assert "defect" in rules.extract_red_flags("Renoveringsobjekt, motorn startar inte.")
+    assert "defect" in rules.extract_red_flags("Nu har tyvärr ett motorfel uppstått.")
+    assert "leak" in rules.extract_red_flags("Det finns en spricka i skrovet.")
     assert rules.extract_red_flags("Fin båt i toppskick.") == []
 
 
@@ -183,5 +185,24 @@ def test_resolve_boat_year(heading, desc, spec, expected):
     assert rules.resolve_boat_year(heading, desc, spec)[0] == expected
 
 
-def test_swap_flag():
-    assert "swap" in rules.extract_red_flags("Båt 25HK + Vagn BYTE?")
+@pytest.mark.parametrize(
+    "text,offered",
+    [("Båt 25HK + Vagn BYTE?", True), ("Kan tänka mig byte mot vattenskoter.", True), ("Säljes/bytes", True),
+     ("Hösten 2024 byte av ny startmotor.", False), ("Byte impellerhus 2026.", False), ("Kom gärna med bud!", False)],
+)
+def test_swap(text, offered):
+    assert rules.swap_offered(text) is offered
+
+
+@pytest.mark.parametrize(
+    "text",
+    ["Brandsläckare och fendrar ingår.", "Fint kapell med några fläckar.", "Snyggt rött/vitt skrov.",
+     "Inga lagningar eller sprickor i skrovet.", "Spolmuff. Inga läckage.", "Inget läckage.", "Läcker inte.",
+     "Innergolvet har en spricka.", "Säljes i befintligt skick.", "Trä i relingen något defekt."],
+)
+def test_flag_false_positives(text):
+    assert rules.extract_red_flags(text) == []
+
+
+def test_leak():
+    assert "leak" in rules.extract_red_flags("Motorn har ett kylvattenläckage, båten läcker lite.")

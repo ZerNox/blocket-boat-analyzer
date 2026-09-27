@@ -162,6 +162,7 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
             "value": round(value, 3),
             "score": round(score, 3),
             "red_flags": flags,
+            "swap_offered": bool(ext.get("swap_offered")),
             "outlier": not bool(k),
             "too_good": bool((math.log(fair) - math.log(adj_price)) > 2.5 * resid_sd),
             "breakdown": _breakdown(names, w * z),

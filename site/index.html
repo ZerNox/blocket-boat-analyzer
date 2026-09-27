@@ -100,7 +100,7 @@ const kr = (n) => n == null ? "–" : n.toLocaleString("sv-SE") + " kr";
 const pct = (x) => (x > 0 ? "+" : "") + Math.round(x * 100) + "%";
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const EXTRA_LABELS = { trailer: "trailer", plotter: "plotter/GPS", ekolod: "ekolod", kapell: "kapell", vinterkapell: "vinterkapell", elmotor: "elmotor", hjalpmotor: "hjälpmotor", vhf: "VHF", stereo: "stereo", hydraulstyrning: "hydraulstyrning", landstrom: "landström" };
-const FLAG_LABELS = { project: "renoveringsobjekt", defect: "defekt", leak: "läckage/röta", as_is: "befintligt skick", swap: "byte/bud" };
+const FLAG_LABELS = { project: "renoveringsobjekt", defect: "motorfel", leak: "läckage/spricka i skrov", untested: "otestad" };
 const SRC_LABELS = { "rule:spec": "annonsfält", "rule:text": "annonstext", "rule:original": "originalmotor", "llm": "lokal AI", "rule:text+llm": "text + AI", "rule:text?": "osäker" };
 const CONTROLS = ["w-value", "w-engine", "w-hp", "w-extras", "max-price", "min-engine", "min-hp", "class", "q", "need-trailer", "known-engine", "hide-flags"];
 let DATA = null;
@@ -145,7 +145,8 @@ function render() {
 function card(b, n) {
   const extras = Object.keys(EXTRA_LABELS).filter((k) => b.extras.includes(k)).map((k) => `<span class="chip">${EXTRA_LABELS[k]}</span>`)
     .concat(b.extras_excluded.map((k) => `<span class="chip no" title="ingår inte">${EXTRA_LABELS[k] || k}</span>`))
-    .concat(b.red_flags.map((f) => `<span class="chip flag">${FLAG_LABELS[f] || f}</span>`)).join("");
+    .concat(b.red_flags.map((f) => `<span class="chip flag">${FLAG_LABELS[f] || f}</span>`))
+    .concat(b.swap_offered ? [`<span class="chip src">byte möjligt</span>`] : []).join("");
   const src = b.engine_year ? `<span class="chip src" title="${esc(b.engine_year_evidence)}">${SRC_LABELS[b.engine_year_source] || esc(b.engine_year_source)}</span>` : "";
   const hist = b.price_history.length > 1 ? `<span class="muted">tidigare ${b.price_history.slice(0, -1).map((p) => kr(p.price)).join(" → ")}</span>` : "";
   const rows = b.breakdown.map(([k, v]) => `<tr><td>${esc(k)}</td><td class="value ${v >= 0 ? "pos" : "neg"}">${pct(v)}</td></tr>`).join("");

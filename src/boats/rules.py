@@ -13,7 +13,7 @@ from __future__ import annotations
 import datetime as dt
 import re
 
-RULES_VERSION = 5
+RULES_VERSION = 7
 THIS_YEAR = dt.date.today().year
 
 BRANDS = (
@@ -91,10 +91,12 @@ TRAILER_FALSE = re.compile(r"trailerbar\w*|trailervänlig\w*|lätt\s+att\s+trail
 
 RED_FLAGS = {
     "project": r"renoveringsobjekt|renoveringsbehov|projektbåt|\bprojekt\b|behöver\s+(?:renoveras|lagas|åtgärdas|ses\s+över)",
-    "defect": r"defekt\w*|trasig\w*|haveri\w*|skär(?:t|er)|startar\s+(?:inte|ej)|går\s+(?:inte|ej)\s+(?:att\s+)?(?:starta|igång)|motorfel|kompression\w*\s+(?:låg|dålig)",
-    "leak": r"läck\w*|vatten\s+i\s+(?:båten|skrovet|kölsvinet)|spricka|sprickor|röt\w*",
-    "as_is": r"befintligt\s+skick|säljes\s+som\s+den\s+är|i\s+befintligt|okänd\s+status|ej\s+provkörd",
-    "swap": r"\bbyte\b|\bbytes\b|byta\s+mot|\bbud\b|högstbjudande|lägg\s+bud",
+    "defect": r"motorfel|motorhaveri|haveri\w*|\bskurit\b|\bskar\b|startar\s+(?:inte|ej)|går\s+(?:inte|ej)\s+(?:att\s+)?(?:starta|igång)|"
+              r"kompression\w*\s+(?:låg|dålig)|(?:motor\w*|växelhus\w*|drev\w*|rigg\w*)\s+(?:är\s+)?(?:trasig|defekt)\w*|behöver\s+felsökas|"
+              r"trasig\w*\s+(?:motor|växelhus|drev)",
+    "leak": r"\bläck(?:er|ande|age|aget|te)\b(?!\s+(?:inte|ej))|\bvatten\s+i\s+(?:båten|skrovet|kölsvinet)|"
+            r"\bsprick\w*\s+(?:i|på)\s+(?:skrovet|botten|kölen|akterspegeln)|\bröt(?:a|skad\w*)\b",
+    "untested": r"okänd\s+status|ej\s+provkörd|inte\s+provkörd|otestad|ej\s+testad\s+(?:i\s+sjön|motor)",
     "no_engine": r"\butan\s+motor\b|motor\s+ingår\s+(?:ej|inte)|motorn\s+ingår\s+(?:ej|inte)|säljes\s+utan\s+motor",
 }
 RED_FLAG_RE = {k: re.compile(v, re.I) for k, v in RED_FLAGS.items()}
@@ -315,8 +317,24 @@ def extract_equipment(heading: str, description: str) -> dict:
     return out
 
 
+SWAP = re.compile(r"\bbyt(?:e|a|es)\s+(?:mot|till)\b|\bsäljes\s*/\s*bytes\b|\bbyte\s*\?|tänka\s+mig\s+(?:ett\s+)?byte|\bbyte\s+av\s+intresse", re.I)
+FLAG_NEG = re.compile(r"\b(?:inga|inget|ingen|utan|aldrig|ej|inte|fri\s+från)\b(?:(?!\bmen\b)[^,.;\n]){0,30}$", re.I)
+
+
 def extract_red_flags(text: str) -> list[str]:
-    return [k for k, rx in RED_FLAG_RE.items() if rx.search(text)]
+    flags = []
+    for kind, rx in RED_FLAG_RE.items():
+        for sent in sentences(text):
+            m = rx.search(sent)
+            if m and not FLAG_NEG.search(sent[: m.start()]):
+                flags.append(kind)
+                break
+    return flags
+
+
+def swap_offered(text: str) -> bool:
+    """Seller would consider a trade. Informational: the asking price is still real."""
+    return bool(SWAP.search(text))
 
 
 def extract(heading: str, description: str, specs: dict, boat_year: int | None, search_motor_type: str | None) -> dict:
@@ -344,6 +362,7 @@ def extract(heading: str, description: str, specs: dict, boat_year: int | None, 
         "engine_stroke": extract_stroke(text, maker),
         "equipment": extract_equipment(heading, description),
         "red_flags": [f for f in extract_red_flags(text) if f != "no_engine"],
+        "swap_offered": swap_offered(text),
         "needs_llm": bool(etype["needs_llm"] or eyear["needs_llm"]),
         "llm_reasons": reasons,
     }
