@@ -1,5 +1,6 @@
 name: Publish site
 
+# Pages serves the gh-pages branch; this rebuilds it from db/ on every data or code push.
 on:
   push:
     branches: [main]
@@ -7,31 +8,22 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: pages
   cancel-in-progress: true
 
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v6
       - run: uv run pytest -q
-      - run: uv run boats site --out _site
-      - uses: actions/upload-pages-artifact@v3
+      - run: uv run boats site --out _site && touch _site/.nojekyll
+      - uses: peaceiris/actions-gh-pages@v4
         with:
-          path: _site
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _site
+          force_orphan: true

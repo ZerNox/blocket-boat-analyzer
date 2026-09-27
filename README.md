@@ -98,6 +98,7 @@ The repo is public, so `db/` holds only structured fields (price, year, hp, spec
 extracted values and short evidence quotes with phone numbers and emails removed. Full ad pages
 stay in `cache/`, which is gitignored. The site links to the original ads on Blocket.
 
-## GitHub Pages setup (once)
+## Site
 
-Repo → Settings → Pages → Source: **GitHub Actions**.
+https://zernox.github.io/blocket-boat-analyzer/ is served from the `gh-pages` branch. The
+"Publish site" workflow rebuilds it on every push to `main` that touches `db/`, `site/` or `src/`.
