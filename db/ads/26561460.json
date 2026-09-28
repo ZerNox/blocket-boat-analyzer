@@ -24,6 +24,10 @@
     "evidence": "Örnvik 540 med bromsad trailer",
     "included": true,
     "year": 1998
+   },
+   "vinsch": {
+    "evidence": "Den har vinsch och stödhjul.",
+    "included": true
    }
   },
   "hull": "open",

@@ -40,6 +40,10 @@
     "evidence": "Plotter med ekolod.",
     "included": true
    },
+   "solpanel": {
+    "evidence": "Solpanel med regulator för laddning.",
+    "included": true
+   },
    "trailer": {
     "evidence": "Fin Flipper 575 med besiktigad 80 km/h trailer",
     "included": true,

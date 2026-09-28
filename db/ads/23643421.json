@@ -35,6 +35,10 @@
    "trailer": {
     "evidence": "BAYLINER 2052 LS med Trailer",
     "included": true
+   },
+   "varmare": {
+    "evidence": "Planar snabbt och enkel att köra.",
+    "included": true
    }
   },
   "hull": "cabin",

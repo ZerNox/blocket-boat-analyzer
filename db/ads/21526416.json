@@ -81,9 +81,9 @@
  "motor_type": "Inombordare",
  "not_in_search_since": "2026-09-27",
  "page": {
-  "description_chars": 36,
+  "description_chars": 197,
   "fetched_ts": 1790507427288,
-  "text_sha": "51d18fed02c081d8"
+  "text_sha": "8377d36aafb71b72"
  },
  "price": 50000,
  "price_history": [

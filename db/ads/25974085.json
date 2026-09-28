@@ -27,6 +27,10 @@
    "trailer": {
     "evidence": "Släpet av märket TK-trailer klarar av vikt upp till 2 ton.",
     "included": true
+   },
+   "vinsch": {
+    "evidence": "Nätvinsch",
+    "included": true
    }
   },
   "hull": "cabin",

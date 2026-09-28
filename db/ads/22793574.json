@@ -24,6 +24,10 @@
     "evidence": "Fint kapell",
     "included": true
    },
+   "solpanel": {
+    "evidence": "Liten solpanel monterad",
+    "included": true
+   },
    "stereo": {
     "evidence": "Ny stereo",
     "included": true

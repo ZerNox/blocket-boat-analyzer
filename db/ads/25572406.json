@@ -24,6 +24,10 @@
     "evidence": "Kapell 4år gammalt fräscht dock en reva i bakrutan.",
     "included": true
    },
+   "plotter": {
+    "evidence": "Garmin gps 5år utan kort.",
+    "included": true
+   },
    "trailer": {
     "evidence": "Släpet går just nu som 30 släp men går att registrera för 80.",
     "included": true,
@@ -62,7 +66,7 @@
  "lat": 59.3,
  "length_ft": 19,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1978,
@@ -71,22 +75,28 @@
    "engine_maker": "Mercury",
    "engine_type": "outboard",
    "engine_year": null,
-   "engine_year_evidence": null,
+   "engine_year_evidence": "Dynor bytta 2022",
+   "engine_year_rejected": 2022,
    "equipment": {
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "excluded",
     "landstrom": "not_mentioned",
-    "plotter": "not_mentioned",
+    "plotter": "excluded",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "dbc31a16022eeefe"
+  "text_sha": "8229d55bb9230deb"
  },
  "location": "Värmdö",
  "lon": 18.54,
@@ -96,9 +106,9 @@
  "motor_size": 60.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 341,
+  "description_chars": 379,
   "fetched_ts": 1790523024814,
-  "text_sha": "dbc31a16022eeefe"
+  "text_sha": "8229d55bb9230deb"
  },
  "price": 45000,
  "price_history": [

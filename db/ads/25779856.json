@@ -14,20 +14,28 @@
   "engine_type": "outboard",
   "engine_type_evidence": null,
   "engine_type_source": "rule:spec",
-  "engine_year": null,
-  "engine_year_est": 1987,
-  "engine_year_est_reason": "antar originalmotor",
-  "engine_year_evidence": null,
-  "engine_year_source": null,
-  "equipment": {},
+  "engine_year": 1991,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mercury 60 hk -91",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell i bra skick, nya dragkedjor",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Nya hjullager på 30-kärran",
+    "included": true,
+    "kmh": 30
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "Hyttbåt – Mercury 60 hk",
+  "hull_evidence": "Hyttbåt – Mercury 60 hk\nUtrustning:\nHyttbåt – Mercury 60 hk -91 – mycket utrustn",
   "hull_source": "rule:text",
-  "llm_reasons": [
-   "no engine year found"
-  ],
-  "needs_llm": true,
+  "llm_reasons": [],
+  "needs_llm": false,
   "red_flags": [],
   "rules_version": 8,
   "swap_offered": false
@@ -86,9 +94,9 @@
  "motor_size": 60.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 0,
+  "description_chars": 833,
   "fetched_ts": 1790508187594,
-  "text_sha": "d5de77e7aea83baa"
+  "text_sha": "a187430bd1d1a2b2"
  },
  "price": 45000,
  "price_history": [

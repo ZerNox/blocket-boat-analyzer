@@ -19,7 +19,29 @@
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "elmotor": {
+    "evidence": "Elmotor",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapellet är inlämnat och lagat så det är i bra skick.",
+    "included": true
+   },
+   "solpanel": {
+    "evidence": "Stor solcell på taket",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30 kärra ingår",
+    "included": true,
+    "kmh": 30
+   },
+   "varmare": {
+    "evidence": "Diesel värmare",
+    "included": true
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "Båttyp: Hyttbåt",
@@ -54,7 +76,7 @@
  "lat": 59.58,
  "length_ft": 19,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1978,
@@ -66,19 +88,24 @@
    "engine_year_evidence": null,
    "equipment": {
     "ekolod": "not_mentioned",
-    "elmotor": "not_mentioned",
+    "elmotor": "included",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
-    "kapell": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "included",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "included",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "3d20516d66905d19"
+  "text_sha": "66799bd3a3aa6b0a"
  },
  "location": "Rosersberg",
  "lon": 17.89,
@@ -88,9 +115,9 @@
  "motor_size": 70.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 0,
+  "description_chars": 574,
   "fetched_ts": 1790508206263,
-  "text_sha": "3d20516d66905d19"
+  "text_sha": "66799bd3a3aa6b0a"
  },
  "price": 45000,
  "price_history": [

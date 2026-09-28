@@ -7,8 +7,8 @@
   "boat_year": 1976,
   "boat_year_source": "spec",
   "engine_hours": null,
-  "engine_hp": 115,
-  "engine_hp_source": "llm",
+  "engine_hp": null,
+  "engine_hp_source": null,
   "engine_maker": "Volvo Penta AQ115A",
   "engine_stroke": null,
   "engine_type": "inboard",
@@ -63,32 +63,37 @@
  "lat": 59.24,
  "length_ft": 21,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1976,
    "engine_hours": null,
-   "engine_hp": 115,
+   "engine_hp": null,
    "engine_maker": "Volvo Penta",
    "engine_type": "inboard",
    "engine_year": null,
-   "engine_year_evidence": "Motortillverkare: Volvo Penta AQ115A Motortyp: Inombordare Motor renoverad 2026",
+   "engine_year_evidence": "Motor renoverad 2026 med sotningssats och nya kolvringar.",
    "engine_year_rejected": 2026,
    "equipment": {
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "02af096fe9cab964"
+  "text_sha": "a174db81b08249db"
  },
  "location": "Ingarö",
  "lon": 18.58,
@@ -98,9 +103,9 @@
  "motor_size": null,
  "motor_type": "Inombordare",
  "page": {
-  "description_chars": 463,
+  "description_chars": 513,
   "fetched_ts": 1790523128945,
-  "text_sha": "02af096fe9cab964"
+  "text_sha": "a174db81b08249db"
  },
  "price": 30000,
  "price_history": [

@@ -23,6 +23,10 @@
    "landstrom": {
     "evidence": "- usb laddare",
     "included": true
+   },
+   "solpanel": {
+    "evidence": "- nytt solpanel",
+    "included": true
    }
   },
   "hull": "cabin",

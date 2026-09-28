@@ -43,3 +43,12 @@ def test_qualifier_makes_variant():
     assert market.model_keys("Sandström", None, "SANDSTRÖM CLASSIC 560 HONDA 60 HK") == ("sandström 560", "sandström 560 classic")
     assert market.model_keys("Sandström", None, "Sandström 565 Classic 2017") == ("sandström 565", "sandström 565 classic")
     assert market.model_keys("Sandström", None, "Sandström 560 MC") == ("sandström 560", "sandström 560 mc")
+
+
+def test_parse_reads_utrustning_section():
+    from boats.parse import parse_item
+
+    html = ('<section><h2 class="t3 mb-0">Beskrivning</h2><div data-testid="expandable-section"><div><p>Fin båt.</p></div></div></section>'
+            '<section><h2 class="t3 mb-0">Utrustning</h2><div data-testid="expandable-section"><div><p>Ny dieselvärmare. Radar.</p></div></div></section>')
+    d = parse_item(html)["description"]
+    assert "Fin båt." in d and "Utrustning:" in d and "dieselvärmare" in d

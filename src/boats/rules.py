@@ -84,9 +84,14 @@ EQUIPMENT = {
     "elmotor": r"\belmotor\w*|\bel-motor\w*|trolling\s?-?motor\w*|minn\s?kota|motorguide|garmin\s+force|bogmotor\w*",
     "hjalpmotor": r"hjälpmotor\w*|reservmotor\w*|extramotor\w*",
     "vhf": r"\bvhf\b|kommunikationsradio",
-    "stereo": r"stereo\w*|\bfusion\b|högtalare|bluetooth|\bradio\b",
+    "stereo": r"stereo\w*|\bfusion\b|högtalare|bluetooth|(?<!vhf )\bradio\b|båtradio|bilradio|musikanläggning",
     "hydraulstyrning": r"hydraul\w*\s?styr\w*|servostyr\w*|hydrauliskt?\s+styr\w*",
     "landstrom": r"landström\w*|batteriladdare|\bladdare\b",
+    "varmare": r"\w*värmare\b|dieselvärm\w*|webasto|eberspächer|eberspacher|\bplanar\b|autoterm|värmepanna",
+    "radar": r"\bradar\w*|radom\w*",
+    "inverter": r"\w*inverter\w*|växelriktare",
+    "solpanel": r"solpanel\w*|solcell\w*",
+    "vinsch": r"\w*vinsch\w*|ankarspel\w*",
 }
 EQUIPMENT_RE = {k: re.compile(v, re.I) for k, v in EQUIPMENT.items()}
 NEG_BEFORE = re.compile(r"\b(?:utan|ej|inte|ingen|inga|exkl\w*|exklusive|förutom)\b(?:(?!\bmen\b)[^,.;\n]){0,25}$", re.I)

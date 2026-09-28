@@ -19,7 +19,16 @@
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "ekolod": {
+    "evidence": "ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "garmin plotter",
+    "included": true
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "Båttyp: Kabinbåt",
@@ -48,31 +57,36 @@
  "lat": 59.17,
  "length_ft": 17,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2006,
-   "engine_hours": 70,
+   "engine_hours": null,
    "engine_hp": 60,
    "engine_maker": "Mercery",
    "engine_type": "outboard",
    "engine_year": null,
    "engine_year_evidence": null,
    "equipment": {
-    "ekolod": "not_mentioned",
+    "ekolod": "included",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
-    "plotter": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "932bfeebe3837144"
+  "text_sha": "df40e67f04dfee5c"
  },
  "location": "Brandbergen",
  "lon": 18.18,
@@ -82,9 +96,9 @@
  "motor_size": 60.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 57,
+  "description_chars": 153,
   "fetched_ts": 1790523092482,
-  "text_sha": "932bfeebe3837144"
+  "text_sha": "df40e67f04dfee5c"
  },
  "price": 99000,
  "price_history": [

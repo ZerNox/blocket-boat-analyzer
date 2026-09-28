@@ -55,9 +55,9 @@
  "motor_type": null,
  "not_in_search_since": "2026-09-27",
  "page": {
-  "description_chars": 0,
+  "description_chars": 131,
   "fetched_ts": 1790520970228,
-  "text_sha": "6baaa71873de14aa"
+  "text_sha": "807e1d9efe610b63"
  },
  "price": 6500,
  "price_history": [

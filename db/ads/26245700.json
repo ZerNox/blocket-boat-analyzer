@@ -12,30 +12,68 @@
   "engine_maker": "Yamaha 2025",
   "engine_stroke": 4,
   "engine_type": "outboard",
-  "engine_type_evidence": null,
-  "engine_type_source": "rule:spec",
+  "engine_type_evidence": "1000W 35 och 200 kHz monterad inombords samt 200 kHz i aktern. Inga bordsgenomföringar under vattenlinjen. Elvinsch för",
+  "engine_type_source": "llm",
   "engine_year": 2025,
   "engine_year_est": null,
   "engine_year_est_reason": null,
   "engine_year_evidence": "Motortillverkare: Yamaha 2025",
-  "engine_year_source": "rule:spec",
+  "engine_year_source": "rule:spec+llm",
   "equipment": {
+   "ekolod": {
+    "evidence": "Simrads navigationscentra med kartplotter, ekolod radar med radom-antenn.",
+    "included": true
+   },
    "hydraulstyrning": {
     "evidence": "Hydraulstyrning.",
+    "included": true
+   },
+   "inverter": {
+    "evidence": "Victronic 1500 W AC sinusinverter m laddningsregulator.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Simrads navigationscentra med kartplotter, ekolod radar med radom-antenn.",
+    "included": true
+   },
+   "radar": {
+    "evidence": "Simrads navigationscentra med kartplotter, ekolod radar med radom-antenn.",
+    "included": true
+   },
+   "solpanel": {
+    "evidence": "50 W solpanel.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "VHF radio samt båtradio m antenn.",
     "included": true
    },
    "trailer": {
     "evidence": "Respo- trailer 80 km/h ingår.",
     "included": true,
     "kmh": 80
+   },
+   "varmare": {
+    "evidence": "Ny dieselvärmare.",
+    "included": true
+   },
+   "vhf": {
+    "evidence": "VHF radio samt båtradio m antenn.",
+    "included": true
+   },
+   "vinsch": {
+    "evidence": "Elvinsch för drag av tinor.",
+    "included": true
    }
   },
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "Kabinbåt Bella 581\nUtsökt tillfälle att skaffa en mycket fin och rikt utrustad k",
   "hull_source": "rule:text",
-  "llm_reasons": [],
-  "needs_llm": false,
+  "llm_reasons": [
+   "declared outboard but text says 'inombords'"
+  ],
+  "needs_llm": true,
   "red_flags": [],
   "rules_version": 8,
   "swap_offered": false
@@ -58,6 +96,38 @@
  "last_seen": "2026-09-27T15:43:21+00:00",
  "lat": 58.14,
  "length_ft": 19,
+ "llm": {
+  "at": "2026-09-28",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2005,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": 2025,
+   "engine_year_evidence": "Motortillverkare: Yamaha 2025",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "inverter": "included",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "included",
+    "solpanel": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "included",
+    "vhf": "included",
+    "vinsch": "included",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ab9be4825c95620f"
+ },
  "location": "Svenshögen",
  "lon": 11.92,
  "make": "Bella",
@@ -66,9 +136,9 @@
  "motor_size": 70.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 412,
+  "description_chars": 1107,
   "fetched_ts": 1790508553150,
-  "text_sha": "c6c3330280dee15b"
+  "text_sha": "ab9be4825c95620f"
  },
  "price": 170000,
  "price_history": [

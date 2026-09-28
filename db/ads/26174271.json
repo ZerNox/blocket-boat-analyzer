@@ -40,6 +40,10 @@
     "evidence": "30-trailer",
     "included": true,
     "kmh": 30
+   },
+   "varmare": {
+    "evidence": "Wallas 1300 värmare, cirka 2 år gammal",
+    "included": true
    }
   },
   "hull": "cabin",

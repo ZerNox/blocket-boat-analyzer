@@ -20,6 +20,10 @@
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {
+   "ekolod": {
+    "evidence": "ekolod",
+    "included": true
+   },
    "hydraulstyrning": {
     "evidence": "denna båt har hydraulstyrning ,ny dragen el, varv å knoppmätare, 2 år gammal däck på båtvagnen, dubbla tankar, diverse …",
     "included": true
@@ -28,9 +32,14 @@
     "evidence": "säljer denna fina flipper 535ht, perfekt för dagsturer. även möjlighet att övernatta. fräscht kapell,",
     "included": true
    },
+   "plotter": {
+    "evidence": "plotter,",
+    "included": true
+   },
    "trailer": {
     "evidence": "Flipper 535ht Evinrude 70 med trailer",
-    "included": true
+    "included": true,
+    "kmh": 30
    }
   },
   "hull": "cabin",
@@ -62,7 +71,7 @@
  "lat": 59.72,
  "length_ft": 17,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1987,
@@ -73,20 +82,25 @@
    "engine_year": null,
    "engine_year_evidence": null,
    "equipment": {
-    "ekolod": "not_mentioned",
-    "elmotor": "included",
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "included",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "c0e9c698ebcbde87"
+  "text_sha": "70a897ed9506a292"
  },
  "location": "Västerås",
  "lon": 16.67,
@@ -96,9 +110,9 @@
  "motor_size": 70.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 324,
+  "description_chars": 443,
   "fetched_ts": 1790508572443,
-  "text_sha": "c0e9c698ebcbde87"
+  "text_sha": "70a897ed9506a292"
  },
  "price": 50000,
  "price_history": [

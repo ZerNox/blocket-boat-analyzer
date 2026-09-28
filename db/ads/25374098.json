@@ -20,6 +20,14 @@
   "engine_year_evidence": "Motorn är från ca 1985–1990 och fungerar fint att köra med.",
   "engine_year_source": "rule:text",
   "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell",
+    "included": true
+   },
+   "solpanel": {
+    "evidence": "Solceller håller batteriet laddat när båten ligger i sjön.",
+    "included": true
+   },
    "trailer": {
     "evidence": "Inklusive båtkärra/trailer",
     "included": true
@@ -61,9 +69,9 @@
  "motor_size": 50.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 480,
+  "description_chars": 866,
   "fetched_ts": 1790522975588,
-  "text_sha": "a97c0e02d5d6523c"
+  "text_sha": "eaa10d985a3f3929"
  },
  "price": 40000,
  "price_history": [

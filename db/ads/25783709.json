@@ -20,6 +20,10 @@
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {
+   "plotter": {
+    "evidence": "Navigation Raymarine Element 7\"",
+    "included": true
+   },
    "trailer": {
     "evidence": "Motorbåt +reg trailer 80km finns även båtplats att hyra",
     "included": true,
@@ -51,7 +55,7 @@
  "lat": 56.13,
  "length_ft": 17,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2016,
@@ -66,16 +70,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
-    "trailer": "included",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "55ca31ef61496e84"
+  "text_sha": "54a9a3fe5b9c7199"
  },
  "location": "Senoren",
  "lon": 15.75,
@@ -85,9 +94,9 @@
  "motor_size": 50.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 0,
+  "description_chars": 43,
   "fetched_ts": 1790508192935,
-  "text_sha": "55ca31ef61496e84"
+  "text_sha": "54a9a3fe5b9c7199"
  },
  "price": 130000,
  "price_history": [

@@ -19,11 +19,25 @@
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin GPS, plotter, ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin GPS, plotter, ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fogelsta 30-trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
   "hull": "open",
-  "hull_certain": true,
-  "hull_evidence": "No enclosed space, only open cockpit and console visible.",
-  "hull_source": "bild",
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -49,31 +63,36 @@
  "lat": 56.16,
  "length_ft": 19,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2007,
    "engine_hours": null,
    "engine_hp": 90,
-   "engine_maker": "MERCURY",
+   "engine_maker": "Mercury",
    "engine_type": "outboard",
    "engine_year": null,
    "engine_year_evidence": null,
    "equipment": {
-    "ekolod": "not_mentioned",
+    "ekolod": "included",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
-    "plotter": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
-    "trailer": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "d8e18507a1af63de"
+  "text_sha": "8bbcf97550b4222e"
  },
  "location": "Trensum",
  "lon": 14.96,
@@ -83,9 +102,9 @@
  "motor_size": 90.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 122,
+  "description_chars": 285,
   "fetched_ts": 1790522890930,
-  "text_sha": "d8e18507a1af63de"
+  "text_sha": "8bbcf97550b4222e"
  },
  "price": 118000,
  "price_history": [

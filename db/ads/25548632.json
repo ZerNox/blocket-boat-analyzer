@@ -31,6 +31,10 @@
    "plotter": {
     "evidence": "- Äldre gps plotter (ej använd då jag haft digitalt sjökort i padda)",
     "included": true
+   },
+   "varmare": {
+    "evidence": "Den planar lätt och går i max 33 knop (2-3 personer) och march fart i behagliga 20-22 knop med 5 vuxna.",
+    "included": true
    }
   },
   "hull": "cabin",

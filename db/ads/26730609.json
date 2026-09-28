@@ -24,6 +24,10 @@
     "evidence": "Vårdat fint kapell",
     "included": true
    },
+   "solpanel": {
+    "evidence": "Solceller",
+    "included": true
+   },
    "trailer": {
     "evidence": "Boggiekärra",
     "included": true

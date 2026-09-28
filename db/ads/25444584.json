@@ -29,6 +29,10 @@
     "included": true,
     "kmh": 80
    },
+   "vinsch": {
+    "evidence": "Bromsad 80kmh släpkärra (obesiktigad) ingår med handvinsch.",
+    "included": true
+   },
    "vinterkapell": {
     "evidence": "Vinter kapell finns samt lite träställning och presenning för förvaring",
     "included": true

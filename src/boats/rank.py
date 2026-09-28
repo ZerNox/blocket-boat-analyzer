@@ -232,7 +232,19 @@ def engine_premium(ad: dict, ev: dict) -> float:
     if not (by and ey) or ey == by:
         return 0.0
     hp, stroke = hp_of(ad), ext.get("engine_stroke")
-    return engine_value(hp, THIS_YEAR - ey, stroke, ev) - engine_value(hp, THIS_YEAR - by, stroke, ev)
+    return engine_value(hp, engine_effective_age(ad, ev), stroke, ev) - engine_value(hp, THIS_YEAR - by, stroke, ev)
+
+
+def engine_effective_age(ad: dict, ev: dict) -> float:
+    """Calendar age, plus a year per `excess_hours_per_year` of running hours beyond normal use."""
+    ext = ad.get("extraction") or {}
+    ey = ext.get("engine_year") or ext.get("engine_year_est")
+    age = max(THIS_YEAR - ey, 0) if ey else 0
+    hours = ext.get("engine_hours")
+    if hours and ext.get("engine_year"):
+        excess = hours - ev.get("typical_hours_per_year", 15) * max(age, 1)
+        age += max(excess, 0) / ev.get("excess_hours_per_year", 50)
+    return age
 
 
 def _detail_features(a: dict) -> list[float]:
@@ -426,6 +438,7 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
             "extras_value": ev,
             "extras_typical": round(typical_ev),
             "engine_premium": round(premium),
+            "engine_effective_age": round(engine_effective_age(a, evc), 1),
             "adjusted_price": round(adj_price),
             "fair_price": round(fair),
             "value": round(value, 3),

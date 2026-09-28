@@ -58,9 +58,9 @@
  "motor_size": 50.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 214,
+  "description_chars": 450,
   "fetched_ts": 1790508567735,
-  "text_sha": "e818968816a6f30e"
+  "text_sha": "becd12527c9d45a5"
  },
  "price": 60000,
  "price_history": [

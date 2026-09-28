@@ -28,6 +28,10 @@
     "evidence": "Lågt skyddskapell i bra skick.",
     "included": true
    },
+   "solpanel": {
+    "evidence": "Solceller finns på taket.",
+    "included": true
+   },
    "trailer": {
     "evidence": "Båtvagn BR Fransson för hastighet 80 km/h inkluderad.",
     "included": true,

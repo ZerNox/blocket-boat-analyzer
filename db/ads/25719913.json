@@ -6,11 +6,11 @@
  "extraction": {
   "boat_year": 2003,
   "boat_year_source": "spec",
-  "engine_hours": null,
+  "engine_hours": 250,
   "engine_hp": 100.0,
   "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
-  "engine_stroke": null,
+  "engine_stroke": 4,
   "engine_type": "outboard",
   "engine_type_evidence": null,
   "engine_type_source": "rule:spec",
@@ -19,7 +19,29 @@
   "engine_year_est_reason": null,
   "engine_year_evidence": "Flipper 630oc 100hk -03.",
   "engine_year_source": "rule:text",
-  "equipment": {},
+  "equipment": {
+   "ekolod": {
+    "evidence": "-Ny plotter / ekolod 2024 9tum garmin echomap",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "-Nytt kapell 2026",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "-Ny plotter / ekolod 2024 9tum garmin echomap",
+    "included": true
+   },
+   "solpanel": {
+    "evidence": "-Solpanel med regulator",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "-Ny fogelsta 1500kg kärra med självjusterade vaggor 2024.",
+    "included": true,
+    "year": 2024
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "Båttyp: Kabinbåt",
@@ -28,7 +50,7 @@
   "needs_llm": false,
   "red_flags": [],
   "rules_version": 8,
-  "swap_offered": false
+  "swap_offered": true
  },
  "first_seen": "2026-09-27T15:26:08+00:00",
  "found_by": [
@@ -53,9 +75,9 @@
  "motor_size": 100.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 0,
+  "description_chars": 812,
   "fetched_ts": 1790523047868,
-  "text_sha": "4e40c103ac53578c"
+  "text_sha": "e86f61ac08e38623"
  },
  "price": 165000,
  "price_history": [

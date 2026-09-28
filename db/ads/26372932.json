@@ -19,7 +19,12 @@
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "solpanel": {
+    "evidence": "Solceller för laddning av driftel.",
+    "included": true
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "Hyttbåt / bobåt\nEn enkel och praktisk Hyttbåt med två (tre) sovplatser innehålla",

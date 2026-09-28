@@ -7,8 +7,8 @@
   "boat_year": 1977,
   "boat_year_source": "spec",
   "engine_hours": null,
-  "engine_hp": 90,
-  "engine_hp_source": "llm",
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -19,11 +19,28 @@
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "ekolod": {
+    "evidence": "GPS & Ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell med nya fönsterrutor, fendrar, tampar och badstege ingår.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "GPS & Ekolod",
+    "included": true
+   },
+   "solpanel": {
+    "evidence": "100 W Solceller installerade på taket med tillhörande 2 st 90 A förbrukningsbatterier installerade 2024 som komplettera…",
+    "included": true
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "Båttyp: Hyttbåt",
-  "hull_source": "rule:spec",
+  "hull_evidence": "ör både dagsutflykter och övernattningar, 2 sovplatser i främre kabin.\nRymlig sittbrunn med plats för hela",
+  "hull_source": "rule:text",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -54,7 +71,7 @@
  "lat": 59.34,
  "length_ft": 20,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1977,
@@ -63,22 +80,27 @@
    "engine_maker": "Yamaha",
    "engine_type": "outboard",
    "engine_year": null,
-   "engine_year_evidence": null,
+   "engine_year_evidence": "Yamaha 90HK 2 -takts motor ca 1,1 L Distansen.",
    "equipment": {
-    "ekolod": "not_mentioned",
+    "ekolod": "included",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
-    "hydraulstyrning": "not_mentioned",
-    "kapell": "not_mentioned",
+    "hydraulstyrning": "included",
+    "inverter": "not_mentioned",
+    "kapell": "included",
     "landstrom": "not_mentioned",
-    "plotter": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "included",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "4acb22348062f0b9"
+  "text_sha": "f7fc2ffae5bf119f"
  },
  "location": "Djurhamn",
  "lon": 18.73,
@@ -88,9 +110,9 @@
  "motor_size": 90.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 0,
+  "description_chars": 794,
   "fetched_ts": 1790522856831,
-  "text_sha": "4acb22348062f0b9"
+  "text_sha": "f7fc2ffae5bf119f"
  },
  "price": 60000,
  "price_history": [

@@ -27,6 +27,14 @@
    "kapell": {
     "evidence": "Nästan nytt kapell, målad med färg som är godkänd i alla båtklubbar. hydraulisk styrning och fast bränsle tank.",
     "included": true
+   },
+   "solpanel": {
+    "evidence": "Solcell på tak och en lös som går lägga upp.",
+    "included": true
+   },
+   "varmare": {
+    "evidence": "Stor och rymlig båt, sitter dieselvärmare i, 2 st helt nya 115 amp batterier, kylfack, vattentoalett med rostfri tank, …",
+    "included": true
    }
   },
   "hull": "cabin",

@@ -19,7 +19,20 @@
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Stereo",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Nya hjullager på trailern",
+    "included": true
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "Flipper 580 kabin\nNu säljer vi våran Flipper pga tidsbrist. Flippers unika trimaranskrov gör",
@@ -53,7 +66,7 @@
  "lat": 60.15,
  "length_ft": 19,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2000,
@@ -67,17 +80,22 @@
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
-    "hydraulstyrning": "not_mentioned",
-    "kapell": "not_mentioned",
+    "hydraulstyrning": "included",
+    "inverter": "not_mentioned",
+    "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
-    "stereo": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "included",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "769e89c9459ce258"
+  "text_sha": "df9db643e38919b9"
  },
  "location": "Torsby",
  "lon": 13.12,
@@ -87,9 +105,9 @@
  "motor_size": 90.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 397,
+  "description_chars": 556,
   "fetched_ts": 1790522878103,
-  "text_sha": "769e89c9459ce258"
+  "text_sha": "df9db643e38919b9"
  },
  "price": 69000,
  "price_history": [

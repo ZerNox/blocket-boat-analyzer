@@ -23,6 +23,14 @@
    "plotter": {
     "evidence": "Fast tank 120 liter, Gångvärme/defroster, Wallas 1300 värmare, Garmin GPS typ 182 och kompass.",
     "included": true
+   },
+   "varmare": {
+    "evidence": "Fast tank 120 liter, Gångvärme/defroster, Wallas 1300 värmare, Garmin GPS typ 182 och kompass.",
+    "included": true
+   },
+   "vinsch": {
+    "evidence": "Båten har Ankarspel MIDI 201, 12 v, 600 w med blyad 50 m lina och rostfri plätt.",
+    "included": true
    }
   },
   "hull": "cabin",

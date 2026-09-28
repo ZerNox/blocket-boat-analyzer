@@ -19,11 +19,16 @@
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "kapell": {
+    "evidence": "* Kapell, dynor, tampar, ankare, fendrar,",
+    "included": true
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "Båttyp: Hyttbåt",
-  "hull_source": "rule:spec",
+  "hull_evidence": "tabil och mycket prisvärd kabinbåt som passar perfekt för mysiga dagsutflykter, fiske eller enklare överna",
+  "hull_source": "rule:text",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -54,7 +59,7 @@
  "lat": 60.61,
  "length_ft": 18,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1980,
@@ -63,22 +68,27 @@
    "engine_maker": "Volvo penta",
    "engine_type": "inboard",
    "engine_year": null,
-   "engine_year_evidence": null,
+   "engine_year_evidence": "Motor: Volvo Penta B20 (bensin (inombordare))",
    "equipment": {
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
-    "kapell": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
-    "trailer": "excluded",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "3a98767d2e118bb3"
+  "text_sha": "dac65ba8b2c098bc"
  },
  "location": "Gagnef",
  "lon": 15.12,
@@ -88,9 +98,9 @@
  "motor_size": null,
  "motor_type": "Inombordare",
  "page": {
-  "description_chars": 0,
+  "description_chars": 947,
   "fetched_ts": 1790520662898,
-  "text_sha": "3a98767d2e118bb3"
+  "text_sha": "dac65ba8b2c098bc"
  },
  "price": 23000,
  "price_history": [

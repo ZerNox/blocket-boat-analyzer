@@ -68,6 +68,10 @@ per_hp = 1200
 two_stroke_factor = 0.75
 depreciation = 0.12
 floor = 0.08
+# Running hours: the ads' median is ~12 h/year. Hours beyond typical_hours_per_year add engine age,
+# one extra year per excess_hours_per_year (100 h on a 1-year-old engine -> ~2.7 years).
+typical_hours_per_year = 15
+excess_hours_per_year = 50
 
 # Your buying profile: the site's defaults. At or under target_price counts as excellent.
 [profile]
@@ -95,3 +99,8 @@ vhf = 1500
 stereo = 1000
 hydraulstyrning = 2000
 landstrom = 1000
+varmare = 8000
+radar = 10000
+inverter = 2500
+solpanel = 800
+vinsch = 2500

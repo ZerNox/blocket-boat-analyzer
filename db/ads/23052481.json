@@ -19,11 +19,21 @@
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod, dynor, åror och brandsläckare, 30km brenderup trailer",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ekolod, dynor, åror och brandsläckare, 30km brenderup trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
   "hull": "open",
-  "hull_certain": true,
-  "hull_evidence": "No roof, windows or door visible. Open cockpit with console.",
-  "hull_source": "bild",
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -46,7 +56,7 @@
  "lat": 55.52,
  "length_ft": 18,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2022,
@@ -57,20 +67,25 @@
    "engine_year": null,
    "engine_year_evidence": null,
    "equipment": {
-    "ekolod": "not_mentioned",
+    "ekolod": "included",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
-    "trailer": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "88fa2c24edb42833"
+  "text_sha": "137c2c41280f898b"
  },
  "location": "Tygelsjö",
  "lon": 13.0,
@@ -80,9 +95,9 @@
  "motor_size": 60.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 0,
+  "description_chars": 73,
   "fetched_ts": 1790507476488,
-  "text_sha": "88fa2c24edb42833"
+  "text_sha": "137c2c41280f898b"
  },
  "price": 180000,
  "price_history": [

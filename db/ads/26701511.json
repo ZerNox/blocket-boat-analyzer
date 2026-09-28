@@ -31,6 +31,10 @@
    "trailer": {
     "evidence": "Trailer ingår ej.",
     "included": false
+   },
+   "varmare": {
+    "evidence": "Kylskåp , värmare , diskho , hydraulstyrning, Inbyggd bensintank 120 L.",
+    "included": true
    }
   },
   "hull": "cabin",

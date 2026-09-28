@@ -24,6 +24,10 @@
     "evidence": "Det enda som behöver göras är att fixa en liten reva i kapellet och en dragkedja, allt annat fungerar som det ska.",
     "included": true
    },
+   "plotter": {
+    "evidence": "Raymarine Dragonfly-5 PRO sonst/GPS",
+    "included": true
+   },
    "trailer": {
     "evidence": "Olympia 570 Holiday med Yamaha 80 HK och 80-släp",
     "included": true,
@@ -79,9 +83,9 @@
  "motor_size": 80.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 748,
+  "description_chars": 905,
   "fetched_ts": 1790523012441,
-  "text_sha": "c045073cedaeba96"
+  "text_sha": "a4845db56f2f2fed"
  },
  "price": 130000,
  "price_history": [

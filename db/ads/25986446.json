@@ -19,7 +19,12 @@
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "vinsch": {
+    "evidence": "Vagn med vinsch medföljer.",
+    "included": true
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "Båttyp: Daycruiser",

@@ -11,24 +11,30 @@
   "engine_hp_source": null,
   "engine_maker": null,
   "engine_stroke": null,
-  "engine_type": null,
+  "engine_type": "none",
   "engine_type_evidence": null,
-  "engine_type_source": null,
+  "engine_type_source": "rule:text",
   "engine_year": null,
   "engine_year_est": 1976,
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "kapell": {
+    "evidence": "Båten är i bra skick med hamnkapell!",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ingen trailer",
+    "included": false
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "Båttyp: Daycruiser",
   "hull_source": "rule:spec",
-  "llm_reasons": [
-   "engine type unknown",
-   "no engine year found"
-  ],
-  "needs_llm": true,
+  "llm_reasons": [],
+  "needs_llm": false,
   "red_flags": [],
   "rules_version": 8,
   "swap_offered": false
@@ -84,9 +90,9 @@
  "motor_size": null,
  "motor_type": null,
  "page": {
-  "description_chars": 0,
+  "description_chars": 102,
   "fetched_ts": 1790523191900,
-  "text_sha": "5710d120c43ab729"
+  "text_sha": "96ad76c1cec53a70"
  },
  "price": 9000,
  "price_history": [

@@ -31,6 +31,10 @@
    "plotter": {
     "evidence": "GPS Plotter samt ekolod med givare på insidan skrovet.",
     "included": true
+   },
+   "varmare": {
+    "evidence": "Motorvärmare",
+    "included": true
    }
   },
   "hull": "cabin",

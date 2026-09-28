@@ -7,27 +7,35 @@
   "boat_year": 1984,
   "boat_year_source": "spec",
   "engine_hours": null,
-  "engine_hp": 60,
-  "engine_hp_source": "llm",
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Johnsdon(Suzuki)",
-  "engine_stroke": null,
+  "engine_stroke": 4,
   "engine_type": "outboard",
   "engine_type_evidence": null,
   "engine_type_source": "rule:spec",
-  "engine_year": null,
-  "engine_year_est": 1984,
-  "engine_year_est_reason": "antar originalmotor",
-  "engine_year_evidence": null,
-  "engine_year_source": null,
-  "equipment": {},
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "60HK Johnsson fyrtaktare från 2004(Suzuki).",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "landstrom": {
+    "evidence": "Spritkök, kylskåp( dålig), landström, separerat förbrukning/start batteri.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Nybesiktat bromsad trailer Eysyline 13[tel] utan anmärkning.",
+    "included": true,
+    "year": 2026
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "Båttyp: Kabinbåt",
   "hull_source": "rule:spec",
-  "llm_reasons": [
-   "no engine year found"
-  ],
-  "needs_llm": true,
+  "llm_reasons": [],
+  "needs_llm": false,
   "red_flags": [],
   "rules_version": 8,
   "swap_offered": false
@@ -84,9 +92,9 @@
  "motor_size": 60.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 0,
+  "description_chars": 345,
   "fetched_ts": 1790523178036,
-  "text_sha": "e53b14af766c555d"
+  "text_sha": "4cb3ef79d4c67a73"
  },
  "price": 70000,
  "price_history": [

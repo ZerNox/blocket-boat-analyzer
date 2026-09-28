@@ -26,9 +26,9 @@
    }
   },
   "hull": "open",
-  "hull_certain": true,
-  "hull_evidence": "No enclosed space visible, only open cockpit and steering console.",
-  "hull_source": "bild",
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -52,11 +52,11 @@
  "lat": 60.74,
  "length_ft": 19,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2019,
-   "engine_hours": 18,
+   "engine_hours": null,
    "engine_hp": 60,
    "engine_maker": "Parsun (Yamaha)",
    "engine_type": "outboard",
@@ -67,16 +67,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "1e3c512d6bc47bef"
+  "text_sha": "68b1f18649ccdb18"
  },
  "location": "Gävle",
  "lon": 17.4,
@@ -86,9 +91,9 @@
  "motor_size": 60.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 100,
+  "description_chars": 139,
   "fetched_ts": 1790507518692,
-  "text_sha": "1e3c512d6bc47bef"
+  "text_sha": "68b1f18649ccdb18"
  },
  "price": 175000,
  "price_history": [

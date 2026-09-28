@@ -19,7 +19,12 @@
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "varmare": {
+    "evidence": "planar fint med den och drar inte allt för mycket bränsle.",
+    "included": true
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "Ungdomsbåt 17ht",

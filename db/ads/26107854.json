@@ -23,6 +23,10 @@
    "kapell": {
     "evidence": "Fint marinblått kapell i bra skick",
     "included": true
+   },
+   "varmare": {
+    "evidence": "Värmare och ventilation i akterdäck och i ruffen",
+    "included": true
    }
   },
   "hull": "cabin",

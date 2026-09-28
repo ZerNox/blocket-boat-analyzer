@@ -7,10 +7,10 @@
   "boat_year": 2001,
   "boat_year_source": "spec",
   "engine_hours": null,
-  "engine_hp": 75,
-  "engine_hp_source": "llm",
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
-  "engine_stroke": null,
+  "engine_stroke": 4,
   "engine_type": "outboard",
   "engine_type_evidence": null,
   "engine_type_source": "rule:spec",
@@ -19,7 +19,21 @@
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "ekolod": {
+    "evidence": "*äldre ekolod garmin",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "*brenderup 80km trailer [obesiktad]",
+    "included": true,
+    "kmh": 80
+   },
+   "varmare": {
+    "evidence": "*dieselvärmare med kanaler till sittbrunn samt ruff",
+    "included": true
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "Uttern 5500dc",
@@ -50,7 +64,7 @@
  "lat": 60.93,
  "length_ft": 18,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2001,
@@ -61,20 +75,25 @@
    "engine_year": null,
    "engine_year_evidence": null,
    "equipment": {
-    "ekolod": "not_mentioned",
+    "ekolod": "included",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
-    "plotter": "not_mentioned",
+    "plotter": "excluded",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
-    "trailer": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "included",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "4f6678d05e7a5f9e"
+  "text_sha": "9a348e5048fe89c8"
  },
  "location": "Vikarbyn",
  "lon": 14.95,
@@ -84,9 +103,9 @@
  "motor_size": 75.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 0,
+  "description_chars": 174,
   "fetched_ts": 1790523063595,
-  "text_sha": "4f6678d05e7a5f9e"
+  "text_sha": "9a348e5048fe89c8"
  },
  "price": 100000,
  "price_history": [

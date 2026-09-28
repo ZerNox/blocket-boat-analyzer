@@ -20,6 +20,10 @@
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {
+   "solpanel": {
+    "evidence": "Solceller som laddar startbatteri",
+    "included": true
+   },
    "trailer": {
     "evidence": "Oregistrerat 80-släp kan medfölja vid smidig affär.",
     "included": true,

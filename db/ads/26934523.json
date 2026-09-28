@@ -36,6 +36,10 @@
     "evidence": "30 kärra ingår",
     "included": true,
     "kmh": 30
+   },
+   "varmare": {
+    "evidence": "- gasolvärmare",
+    "included": true
    }
   },
   "hull": "cabin",

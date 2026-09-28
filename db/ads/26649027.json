@@ -23,6 +23,10 @@
    "kapell": {
     "evidence": "Medföljer: Nytt stort kapell och ett litet kapell.",
     "included": true
+   },
+   "varmare": {
+    "evidence": "Planar lätt.",
+    "included": true
    }
   },
   "hull": "cabin",

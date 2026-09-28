@@ -27,6 +27,10 @@
    "trailer": {
     "evidence": "Kärra ingår ej, men kan köpas till för 20 000.",
     "included": false
+   },
+   "vinsch": {
+    "evidence": "Den har ny vinsch men behöver 3 nya kölrullar.",
+    "included": true
    }
   },
   "hull": "cabin",

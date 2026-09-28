@@ -31,6 +31,15 @@
    "plotter": {
     "evidence": "Elektronik förberedd för GPS och ekolod.",
     "included": true
+   },
+   "trailer": {
+    "evidence": "(Båtvagn)",
+    "included": true,
+    "kmh": 30
+   },
+   "varmare": {
+    "evidence": "Den går torrt även i höga farter och planar med 7-8 personer i båten.",
+    "included": true
    }
   },
   "hull": "cabin",
@@ -68,9 +77,9 @@
  "motor_size": 80.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 943,
+  "description_chars": 1364,
   "fetched_ts": 1790522862757,
-  "text_sha": "16844056b60c8cb2"
+  "text_sha": "08376049a6a98752"
  },
  "price": 111000,
  "price_history": [

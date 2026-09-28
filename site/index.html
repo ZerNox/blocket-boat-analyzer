@@ -108,7 +108,7 @@ const pct = (x) => (x > 0 ? "+" : "") + Math.round(x * 100) + "%";
 // A pasted Blocket link or ad number finds that ad: ".../mobility/item/26630043" -> "26630043"
 const adQuery = (q) => (q.match(/item\/(\d+)/) || [null, q])[1];
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
-const EXTRA_LABELS = { trailer: "trailer", plotter: "plotter/GPS", ekolod: "ekolod", kapell: "kapell", vinterkapell: "vinterkapell", elmotor: "elmotor", hjalpmotor: "hjälpmotor", vhf: "VHF", stereo: "stereo", hydraulstyrning: "hydraulstyrning", landstrom: "landström" };
+const EXTRA_LABELS = { trailer: "trailer", plotter: "plotter/GPS", ekolod: "ekolod", kapell: "kapell", vinterkapell: "vinterkapell", elmotor: "elmotor", hjalpmotor: "hjälpmotor", vhf: "VHF", stereo: "stereo", hydraulstyrning: "hydraulstyrning", landstrom: "landström", varmare: "värmare", radar: "radar", inverter: "inverter", solpanel: "solpanel", vinsch: "vinsch/ankarspel" };
 const FLAG_LABELS = { project: "renoveringsobjekt", defect: "motorfel", leak: "läckage/spricka i skrov", untested: "otestad" };
 const SRC_LABELS = { "rule:spec": "annonsfält", "rule:text": "annonstext", "rule:original": "originalmotor", "llm": "lokal AI", "rule:text+llm": "text + AI", "rule:text?": "osäker" };
 const CONTROLS = ["w-value", "w-engine", "w-budget", "w-hp", "w-extras", "max-price", "target-price", "postcode", "max-km", "min-boat", "min-engine", "min-hp", "class", "q", "need-trailer", "known-engine", "hide-flags", "hide-unsure"];
@@ -229,7 +229,7 @@ function card(b, n) {
           <tr><td>Utgångspris</td><td>${kr(b.price)}</td></tr>
           <tr><td>− utrustning utöver det vanliga (${b.extras.map((k) => EXTRA_LABELS[k] || k).join(", ") || "ingen"}: ${kr(b.extras_value)}, typiskt ${kr(b.extras_typical)})</td><td>${kr(b.extras_value - b.extras_typical)}</td></tr>
           <tr><td>= jämförpris</td><td>${kr(b.adjusted_price)}</td></tr>
-          ${b.engine_premium ? `<tr><td>Motorns värde utöver en motor lika gammal som skrovet</td><td>${b.engine_premium > 0 ? "+" : ""}${kr(b.engine_premium)} (ingår i marknadspriset)</td></tr>` : ""}
+          ${b.engine_premium ? `<tr><td>Motorns värde utöver en motor lika gammal som skrovet${b.engine_hours ? ` (${b.engine_hours} h räknas som ${b.engine_effective_age} års ålder)` : ""}</td><td>${b.engine_premium > 0 ? "+" : ""}${kr(b.engine_premium)} (ingår i marknadspriset)</td></tr>` : ""}
           <tr><td>Marknadspris för liknande båt</td><td>${kr(b.fair_price)}</td></tr>
         </table>
         ${b.comparables.length ? `<table><tr><td colspan="3" class="muted">Jämförbara annonser av samma modell (${Math.round(b.comparables_weight * 100)} % av värderingen), priset justerat till denna båts år/hk/längd:</td></tr>` +

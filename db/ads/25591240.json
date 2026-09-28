@@ -35,6 +35,10 @@
    "plotter": {
     "evidence": "Plotter (Garmin GPSmap 182C) & Ekolod (Humminbird Wide One Hundred) medföljer",
     "included": true
+   },
+   "solpanel": {
+    "evidence": "Solcellspanel monterad med laddningsregulator för underhållsladdning av batteriet",
+    "included": true
    }
   },
   "hull": "cabin",

@@ -28,6 +28,10 @@
     "evidence": "Båtvagn max 30km/h medföljer vid köp.",
     "included": true,
     "kmh": 30
+   },
+   "varmare": {
+    "evidence": "dynor, plotter av märke Garmin, badstege, spritkök, fendrar, 2 batterier, kylskåp, värmare",
+    "included": true
    }
   },
   "hull": "cabin",

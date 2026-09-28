@@ -23,6 +23,10 @@
    "trailer": {
     "evidence": "Till och med trailern, så bara att koppla på bilen och köra hem.",
     "included": true
+   },
+   "varmare": {
+    "evidence": "Drar lätt vattenskidor och planar ut riktigt.",
+    "included": true
    }
   },
   "hull": "cabin",

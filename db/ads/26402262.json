@@ -36,6 +36,10 @@
     "evidence": "Kan köpas till Tiki båttrailer 80km/h 1000kg YYO438.",
     "included": true,
     "kmh": 80
+   },
+   "varmare": {
+    "evidence": "Dieselvärmare",
+    "included": true
    }
   },
   "hull": "cabin",

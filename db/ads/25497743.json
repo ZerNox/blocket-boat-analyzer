@@ -31,6 +31,10 @@
    "trailer": {
     "evidence": "Hemmabyggd trailer som ligger bra på vägen hänger me",
     "included": true
+   },
+   "varmare": {
+    "evidence": "Men går fint och båten planar snabbt",
+    "included": true
    }
   },
   "hull": "cabin",

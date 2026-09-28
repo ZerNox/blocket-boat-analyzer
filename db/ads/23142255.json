@@ -7,10 +7,10 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
-  "engine_hp": 100,
-  "engine_hp_source": "llm",
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
-  "engine_stroke": null,
+  "engine_stroke": 2,
   "engine_type": "outboard",
   "engine_type_evidence": null,
   "engine_type_source": "rule:spec",
@@ -19,7 +19,21 @@
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "ekolod": {
+    "evidence": "GPS/Ekolod- Garmin striker vivid 7sv",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "GPS/Ekolod- Garmin striker vivid 7sv",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "TK 30 trailer (2år gammal)",
+    "included": true,
+    "kmh": 30
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "Båttyp: Daycruiser",
@@ -50,7 +64,7 @@
  "lat": 65.5,
  "length_ft": 19,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1980,
@@ -59,22 +73,27 @@
    "engine_maker": "Mercury",
    "engine_type": "outboard",
    "engine_year": null,
-   "engine_year_evidence": null,
+   "engine_year_evidence": "Mercury 100hk tvåtaktare",
    "equipment": {
-    "ekolod": "not_mentioned",
+    "ekolod": "included",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
-    "plotter": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
-    "trailer": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "excluded",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "8840f41152a482eb"
+  "text_sha": "541acc8dd99f43c4"
  },
  "location": "Luleå",
  "lon": 22.08,
@@ -84,9 +103,9 @@
  "motor_size": 100.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 0,
+  "description_chars": 199,
   "fetched_ts": 1790522887053,
-  "text_sha": "8840f41152a482eb"
+  "text_sha": "541acc8dd99f43c4"
  },
  "price": 50000,
  "price_history": [

@@ -20,6 +20,18 @@
   "engine_year_evidence": "motor är en mercury 2 takt från 2006 med runt 600 till 900 timmar. går fint i vattnet.",
   "engine_year_source": "rule:text",
   "equipment": {
+   "plotter": {
+    "evidence": "linor, ankare, två stycken plotter, en radar raymarine smat plotter , och en garmin plotter.",
+    "included": true
+   },
+   "radar": {
+    "evidence": "vhf är uppkopplad och klart, man kan sätta en bättre anten om man vill. radar är inte monterad ännu med går fort med li…",
+    "included": true
+   },
+   "varmare": {
+    "evidence": "vhf,radar,värmare,",
+    "included": true
+   },
    "vhf": {
     "evidence": "vhf är uppkopplad och klart, man kan sätta en bättre anten om man vill. radar är inte monterad ännu med går fort med li…",
     "included": true
@@ -60,9 +72,9 @@
  "motor_size": 75.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 481,
+  "description_chars": 618,
   "fetched_ts": 1790507418827,
-  "text_sha": "320e9c91a7cf66c1"
+  "text_sha": "2a0bad45b1f769d7"
  },
  "price": 38000,
  "price_history": [

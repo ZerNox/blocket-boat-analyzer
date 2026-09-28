@@ -20,6 +20,10 @@
   "engine_year_evidence": "Ryds Camping med Mercury 70hk -09.",
   "engine_year_source": "rule:text",
   "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod",
+    "included": true
+   },
    "kapell": {
     "evidence": "Kapell av äldre modell medföljer.",
     "included": true
@@ -58,9 +62,9 @@
  "motor_size": 70.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 249,
+  "description_chars": 278,
   "fetched_ts": 1790522879496,
-  "text_sha": "f85f6612fdd57fcd"
+  "text_sha": "fb4ebabec1644f7c"
  },
  "price": 45000,
  "price_history": [

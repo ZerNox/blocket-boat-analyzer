@@ -11,15 +11,23 @@
   "engine_hp_source": "rule:text",
   "engine_maker": "Honda",
   "engine_stroke": 4,
-  "engine_type": "outboard",
-  "engine_type_evidence": "Ryds 548 Sport – 2016 – 100 hk – Mycket fin och välhållen Ryds 548 Sport – 2016 – 100 hk – Mycket fin och välhålle",
-  "engine_type_source": "llm",
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
   "engine_year": null,
   "engine_year_est": 2016,
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter",
+    "included": true
+   },
    "trailer": {
     "evidence": "Båttrailer kan läggas till båtköpet (märke Tiki)– redo för säsong från dag ett",
     "included": true
@@ -29,11 +37,8 @@
   "hull_certain": false,
   "hull_evidence": "No enclosed space, only open cockpit and console visible.",
   "hull_source": "bild",
-  "llm_reasons": [
-   "spec says no engine but text describes one",
-   "no engine year found"
-  ],
-  "needs_llm": true,
+  "llm_reasons": [],
+  "needs_llm": false,
   "red_flags": [],
   "rules_version": 8,
   "swap_offered": false
@@ -89,9 +94,9 @@
  "motor_size": 100.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 1032,
+  "description_chars": 1387,
   "fetched_ts": 1790522868341,
-  "text_sha": "0c51ecc03a5cd7d0"
+  "text_sha": "cf4ad3076696e3b4"
  },
  "price": 184900,
  "price_history": [

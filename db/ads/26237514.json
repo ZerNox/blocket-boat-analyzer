@@ -12,19 +12,25 @@
   "engine_maker": "Mariner",
   "engine_stroke": null,
   "engine_type": "outboard",
-  "engine_type_evidence": null,
-  "engine_type_source": "rule:spec",
+  "engine_type_evidence": "ning: Bromsat släp obesiktat drev saknas på motor en båt för den händige",
+  "engine_type_source": "llm",
   "engine_year": null,
   "engine_year_est": 1979,
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "trailer": {
+    "evidence": "Bromsat släp",
+    "included": true
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "Örnvik 530 Ht",
   "hull_source": "rule:model",
   "llm_reasons": [
+   "declared outboard but text says 'drev'",
    "no engine year found"
   ],
   "needs_llm": true,
@@ -50,7 +56,7 @@
  "lat": 56.08,
  "length_ft": 17,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1979,
@@ -65,16 +71,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "ab1c06682bcca8fd"
+  "text_sha": "aacd9b8a9c007b77"
  },
  "location": "Bjuv",
  "lon": 12.91,
@@ -84,9 +95,9 @@
  "motor_size": 40.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 0,
+  "description_chars": 79,
   "fetched_ts": 1790508542719,
-  "text_sha": "ab1c06682bcca8fd"
+  "text_sha": "aacd9b8a9c007b77"
  },
  "price": 6000,
  "price_history": [

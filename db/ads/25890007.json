@@ -31,6 +31,10 @@
    "plotter": {
     "evidence": "Raymarine plotter medföljer med karta för hela Sverige.",
     "included": true
+   },
+   "solpanel": {
+    "evidence": "Solpanel på 50W för bra underhållsladdning (regulatorn behöver dock eventuellt bytas ut).",
+    "included": true
    }
   },
   "hull": "cabin",

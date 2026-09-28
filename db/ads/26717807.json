@@ -23,6 +23,10 @@
    "kapell": {
     "evidence": "- Kapell med ståhöjd",
     "included": true
+   },
+   "varmare": {
+    "evidence": "-Det finns en Wallas värmare som startar men jag har inte använt den.",
+    "included": true
    }
   },
   "hull": "cabin",

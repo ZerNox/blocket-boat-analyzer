@@ -20,6 +20,10 @@
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {
+   "solpanel": {
+    "evidence": "Det finns en solpanel som laddar batterierna.",
+    "included": true
+   },
    "trailer": {
     "evidence": "Jag säljer båten med trailern, inte separat.",
     "included": false

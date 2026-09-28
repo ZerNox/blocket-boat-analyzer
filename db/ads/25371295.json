@@ -31,6 +31,10 @@
    "trailer": {
     "evidence": "Crescent 53 DC, ca 520 lång, från cirka 1975-1980 säljes med defekt Suzuki 65 hk tvåtaktsmotor och båtvagn.",
     "included": true
+   },
+   "varmare": {
+    "evidence": "Planar ganska lätt trots ganska vass v-form",
+    "included": true
    }
   },
   "hull": "cabin",

@@ -31,6 +31,10 @@
    "trailer": {
     "evidence": "Viss prutmån finns men beroende på bud väljer jag att sälja trailern separat.",
     "included": false
+   },
+   "varmare": {
+    "evidence": "Kupévärmare Wallas (OBS ej testad och är inte inkopplad i dagsläget",
+    "included": true
    }
   },
   "hull": "cabin",

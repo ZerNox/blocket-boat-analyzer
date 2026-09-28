@@ -19,7 +19,16 @@
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "kapell": {
+    "evidence": "Nyare, fräscht kapell",
+    "included": true
+   },
+   "vinterkapell": {
+    "evidence": "Täckställning och presenning samt 30-vagn i gott skick med nya däck kan fås för 5000:-",
+    "included": false
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "Båttyp: Kabinbåt",
@@ -50,7 +59,7 @@
  "lat": 59.38,
  "length_ft": 17,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1987,
@@ -65,16 +74,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
-    "kapell": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "563bc8035cb35638"
+  "text_sha": "f26d9bed9680b0a7"
  },
  "location": "Lidingö",
  "lon": 18.18,
@@ -84,9 +98,9 @@
  "motor_size": 50.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 221,
+  "description_chars": 412,
   "fetched_ts": 1790522872354,
-  "text_sha": "563bc8035cb35638"
+  "text_sha": "f26d9bed9680b0a7"
  },
  "price": 27000,
  "price_history": [

@@ -36,6 +36,14 @@
     "evidence": "Kärra respo 1200kg 2020 årsmodell.",
     "included": true,
     "year": 2020
+   },
+   "varmare": {
+    "evidence": "Comradio, dieselvärmare med fjärr.",
+    "included": true
+   },
+   "vinsch": {
+    "evidence": "Elvinsch med fjärr och separat låda med batteri.",
+    "included": false
    }
   },
   "hull": "cabin",

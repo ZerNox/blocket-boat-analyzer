@@ -28,6 +28,10 @@
     "evidence": "Honda bf-90hk 4-takt -1997 & nybesiktigad 80-trailer",
     "included": true,
     "kmh": 80
+   },
+   "varmare": {
+    "evidence": "Värme: Wallasvärmare",
+    "included": true
    }
   },
   "hull": "cabin",

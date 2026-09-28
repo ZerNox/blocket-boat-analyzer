@@ -57,7 +57,7 @@
  "lat": 58.56,
  "length_ft": 19,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1990,
@@ -66,22 +66,27 @@
    "engine_maker": "Suzuki",
    "engine_type": "outboard",
    "engine_year": null,
-   "engine_year_evidence": null,
+   "engine_year_evidence": "Fin Flipper HT - 50hk Suzuki med service varje år.",
    "equipment": {
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "5cef30896a3f13ba"
+  "text_sha": "617ad52b2a6f2044"
  },
  "location": "Karlsborg",
  "lon": 14.52,
@@ -91,9 +96,9 @@
  "motor_size": 50.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 208,
+  "description_chars": 331,
   "fetched_ts": 1790522864040,
-  "text_sha": "5cef30896a3f13ba"
+  "text_sha": "617ad52b2a6f2044"
  },
  "price": 39000,
  "price_history": [

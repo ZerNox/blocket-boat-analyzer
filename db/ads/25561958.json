@@ -23,6 +23,11 @@
    "kapell": {
     "evidence": "Badstege och kapell.",
     "included": true
+   },
+   "trailer": {
+    "evidence": "Fin båttrailer 30 km",
+    "included": true,
+    "kmh": 30
    }
   },
   "hull": "cabin",
@@ -59,7 +64,7 @@
  "lat": 61.27,
  "length_ft": 17,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1992,
@@ -74,16 +79,21 @@
     "elmotor": "included",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
-    "trailer": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "5455771171c6d6c7"
+  "text_sha": "134d9f47ed7fd12c"
  },
  "location": "Segersta",
  "lon": 16.64,
@@ -93,9 +103,9 @@
  "motor_size": 90.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 135,
+  "description_chars": 168,
   "fetched_ts": 1790523020735,
-  "text_sha": "5455771171c6d6c7"
+  "text_sha": "134d9f47ed7fd12c"
  },
  "price": 47000,
  "price_history": [

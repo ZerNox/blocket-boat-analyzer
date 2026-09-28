@@ -43,6 +43,10 @@
    "vhf": {
     "evidence": "Handhållen VHF (Cobra HH600)",
     "included": true
+   },
+   "vinsch": {
+    "evidence": "Båttrailer med ny vinsch från 2026",
+    "included": true
    }
   },
   "hull": "cabin",

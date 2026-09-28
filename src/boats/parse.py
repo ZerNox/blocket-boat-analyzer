@@ -11,18 +11,21 @@ from bs4 import BeautifulSoup
 def parse_item(html: str) -> dict:
     soup = BeautifulSoup(html, "html.parser")
 
-    description = ""
+    # "Beskrivning" is the free text; "Utrustning" is a separate section further down that sellers
+    # use for the equipment list (heater, radar, plotter...). Both are read.
+    sections = {"Beskrivning": "", "Utrustning": ""}
     for h2 in soup.find_all("h2"):
-        if h2.get_text(strip=True) == "Beskrivning":
+        title = h2.get_text(strip=True)
+        if title in sections and not sections[title]:
             box = h2.find_next("div", attrs={"data-testid": "expandable-section"})
             if box:
                 for br in box.find_all("br"):
                     br.replace_with("\n")
                 parts = [p.get_text(" ", strip=False) for p in box.find_all(["p", "li"])]
-                description = "\n".join(parts) if parts else box.get_text("\n")
-            break
-    description = re.sub(r"[ \t ]+", " ", description)
-    description = re.sub(r"\n\s*\n+", "\n", description).strip()
+                sections[title] = _clean("\n".join(parts) if parts else box.get_text("\n"))
+    description = sections["Beskrivning"]
+    if sections["Utrustning"]:
+        description = f"{description}\nUtrustning:\n{sections['Utrustning']}".strip()
 
     specs: dict[str, str] = {}
     for dl in soup.select("section.key-info dl, div.specifications-area dl"):
@@ -37,6 +40,11 @@ def parse_item(html: str) -> dict:
         "description": description,
         "specs": specs,
     }
+
+
+def _clean(text: str) -> str:
+    text = re.sub(r"[ \t\u00a0]+", " ", text)
+    return re.sub(r"\n\s*\n+", "\n", text).strip()
 
 
 def text_sha(heading: str, description: str, specs: dict) -> str:

@@ -20,8 +20,28 @@
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {
+   "ekolod": {
+    "evidence": "Garmin 9 tum plotter + ekolod",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Fullhöjdskapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin 9 tum plotter + ekolod",
+    "included": true
+   },
    "trailer": {
     "evidence": "Båten kan ta väldigt grov sjö bra och är ändå tillräckligt enkel att ta upp och ned på trailer.",
+    "included": true
+   },
+   "vinsch": {
+    "evidence": "Ankare med ankarspel i frontförvaring",
     "included": true
    }
   },
@@ -58,31 +78,36 @@
  "lat": 58.95,
  "length_ft": 18,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2010,
    "engine_hours": null,
    "engine_hp": 90,
-   "engine_maker": "Mercury OptiMax",
+   "engine_maker": "Mercury",
    "engine_type": "outboard",
    "engine_year": null,
    "engine_year_evidence": null,
    "equipment": {
-    "ekolod": "not_mentioned",
+    "ekolod": "included",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
-    "hydraulstyrning": "not_mentioned",
-    "kapell": "not_mentioned",
+    "hydraulstyrning": "included",
+    "inverter": "not_mentioned",
+    "kapell": "included",
     "landstrom": "not_mentioned",
-    "plotter": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "f3a134004be6f069"
+  "text_sha": "9e09dfef678ae61c"
  },
  "location": "Katrineholm",
  "lon": 16.32,
@@ -92,9 +117,9 @@
  "motor_size": 90.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 509,
+  "description_chars": 820,
   "fetched_ts": 1790522866847,
-  "text_sha": "f3a134004be6f069"
+  "text_sha": "9e09dfef678ae61c"
  },
  "price": 159000,
  "price_history": [

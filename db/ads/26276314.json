@@ -33,6 +33,10 @@
     "included": true,
     "kmh": 80,
     "year": 2024
+   },
+   "varmare": {
+    "evidence": "Wallas värmare",
+    "included": true
    }
   },
   "hull": "cabin",

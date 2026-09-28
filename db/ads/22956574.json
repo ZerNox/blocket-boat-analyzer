@@ -31,6 +31,14 @@
    "trailer": {
     "evidence": "Finns 30 trailer fr 2023 men ingår inte i priset.",
     "included": false
+   },
+   "varmare": {
+    "evidence": "Wallas Spis med värmare",
+    "included": true
+   },
+   "vinsch": {
+    "evidence": "Ankarspel i aktern.",
+    "included": true
    }
   },
   "hull": "cabin",

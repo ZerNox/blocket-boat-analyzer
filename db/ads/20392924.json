@@ -57,7 +57,7 @@
  "lat": 56.49,
  "length_ft": 19,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1997,
@@ -66,22 +66,27 @@
    "engine_maker": "Mercruisier",
    "engine_type": "inboard",
    "engine_year": null,
-   "engine_year_evidence": "Motortyp: Inombordare Motortillverkare: Mercruisier 3.0 Alpa drev",
+   "engine_year_evidence": "Motortyp: Inombordare",
    "equipment": {
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "excluded",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "2735e4679c4234ac"
+  "text_sha": "3f9218dc86106181"
  },
  "location": "Tingsryd",
  "lon": 15.17,
@@ -91,9 +96,9 @@
  "motor_size": null,
  "motor_type": "Inombordare",
  "page": {
-  "description_chars": 246,
+  "description_chars": 276,
   "fetched_ts": 1790522852710,
-  "text_sha": "2735e4679c4234ac"
+  "text_sha": "3f9218dc86106181"
  },
  "price": 55000,
  "price_history": [

@@ -55,9 +55,9 @@
  "motor_type": "Annat",
  "not_in_search_since": "2026-09-27",
  "page": {
-  "description_chars": 187,
+  "description_chars": 233,
   "fetched_ts": 1790520574425,
-  "text_sha": "b4fc5c69de81207b"
+  "text_sha": "b9282c2f090a1eea"
  },
  "price": 1000,
  "price_history": [

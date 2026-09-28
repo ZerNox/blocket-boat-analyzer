@@ -12,14 +12,18 @@
   "engine_maker": "Mercury Optimax",
   "engine_stroke": 2,
   "engine_type": "outboard",
-  "engine_type_evidence": null,
-  "engine_type_source": "rule:spec",
+  "engine_type_evidence": "g Dynor fören Låsögla i fören Drevolja bytt inför varje säsong, ny impeller till denna säsongen Bottenmålad och säsongs",
+  "engine_type_source": "llm",
   "engine_year": null,
   "engine_year_est": 2010,
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {
+   "plotter": {
+    "evidence": "Lowrance integrated GPS, karta västkusten",
+    "included": true
+   },
    "trailer": {
     "evidence": "Fogelsta 30km kärra kan ingå i priset vid smidig affär.",
     "included": false
@@ -30,6 +34,7 @@
   "hull_evidence": "Ryds 568 GTS",
   "hull_source": "rule:model",
   "llm_reasons": [
+   "declared outboard but text says 'Drevolja'",
    "no engine year found"
   ],
   "needs_llm": true,
@@ -56,7 +61,7 @@
  "lat": 57.42,
  "length_ft": 19,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2010,
@@ -65,22 +70,27 @@
    "engine_maker": "Mercury Optimax",
    "engine_type": "outboard",
    "engine_year": null,
-   "engine_year_evidence": "null",
+   "engine_year_evidence": "Motor ca 320 timmar",
    "equipment": {
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
-    "plotter": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "e63e4926a3b413f4"
+  "text_sha": "030db3149cc62c7e"
  },
  "location": "Onsala",
  "lon": 12.05,
@@ -90,9 +100,9 @@
  "motor_size": 90.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 761,
+  "description_chars": 997,
   "fetched_ts": 1790522881112,
-  "text_sha": "e63e4926a3b413f4"
+  "text_sha": "030db3149cc62c7e"
  },
  "price": 149000,
  "price_history": [

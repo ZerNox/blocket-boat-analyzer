@@ -35,6 +35,10 @@
    "trailer": {
     "evidence": "* Tillval: Möjlighet finns att köpa till en nytillverkad kärra för 5 000 kr.",
     "included": true
+   },
+   "varmare": {
+    "evidence": "* Komfort: Mysig ruff med tillhörande dynor och värmare i hytten",
+    "included": true
    }
   },
   "hull": "cabin",

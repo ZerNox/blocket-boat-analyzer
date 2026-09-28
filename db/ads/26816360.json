@@ -46,9 +46,9 @@
  "motor_type": "Utombordare",
  "not_in_search_since": "2026-09-27",
  "page": {
-  "description_chars": 198,
+  "description_chars": 298,
   "fetched_ts": 1790508953453,
-  "text_sha": "a29555eb5448beaf"
+  "text_sha": "6c11b93bf59eb3af"
  },
  "price": 99000,
  "price_history": [

@@ -20,9 +20,25 @@
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {
+   "ekolod": {
+    "evidence": "Garmin Echomap plus 72sv",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Extra batteri med ctec-laddare.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin Echomap plus 72sv",
+    "included": true
+   },
    "trailer": {
     "evidence": "Bromsad TK-trailer kan köpas till.",
     "included": false
+   },
+   "varmare": {
+    "evidence": "Planar lätt tack vare fyrbladig propeller.",
+    "included": true
    }
   },
   "hull": "cabin",
@@ -55,7 +71,7 @@
  "lat": 64.72,
  "length_ft": 18,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2002,
@@ -65,21 +81,27 @@
    "engine_type": "outboard",
    "engine_year": null,
    "engine_year_evidence": "Mercury 90 tvåtakt.",
+   "engine_year_rejected": 2002,
    "equipment": {
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
-    "plotter": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "excluded",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "80f90fb89cd7401c"
+  "text_sha": "eb7e5e5a7d4fae20"
  },
  "location": "Skellefteå",
  "lon": 21.11,
@@ -89,9 +111,9 @@
  "motor_size": 90.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 349,
+  "description_chars": 590,
   "fetched_ts": 1790522899152,
-  "text_sha": "80f90fb89cd7401c"
+  "text_sha": "eb7e5e5a7d4fae20"
  },
  "price": 119000,
  "price_history": [

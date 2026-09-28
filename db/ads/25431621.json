@@ -7,27 +7,35 @@
   "boat_year": 2006,
   "boat_year_source": "spec",
   "engine_hours": null,
-  "engine_hp": 75,
-  "engine_hp_source": "llm",
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Mercury",
-  "engine_stroke": null,
+  "engine_stroke": 4,
   "engine_type": "outboard",
   "engine_type_evidence": null,
   "engine_type_source": "rule:spec",
-  "engine_year": null,
-  "engine_year_est": 2006,
-  "engine_year_est_reason": "antar originalmotor",
-  "engine_year_evidence": null,
-  "engine_year_source": null,
-  "equipment": {},
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten är årsmodell 2006 och drivs av en driftsäker och bränslesnål Mercury 75 hk fyrtaktsmotor från 2008.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer ingår",
+    "included": true,
+    "kmh": 30
+   },
+   "vinsch": {
+    "evidence": "- Nästan ny 30 km/h båttrailer med vevvinsch ingår",
+    "included": true
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "Båttyp: Daycruiser",
-  "hull_source": "rule:spec",
-  "llm_reasons": [
-   "no engine year found"
-  ],
-  "needs_llm": true,
+  "hull_evidence": "a, en smidig och lättkörd daycruiser som passar perfekt för bad, fiske och dagsutflykter\nBåten är årsmodel",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
   "red_flags": [],
   "rules_version": 8,
   "swap_offered": false
@@ -83,9 +91,9 @@
  "motor_size": 75.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 0,
+  "description_chars": 1009,
   "fetched_ts": 1790522991071,
-  "text_sha": "b64e4ac4bd8fca03"
+  "text_sha": "a51f0dd61907a20b"
  },
  "price": 79000,
  "price_history": [

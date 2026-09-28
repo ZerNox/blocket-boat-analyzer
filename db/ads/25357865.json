@@ -20,6 +20,10 @@
   "engine_year_evidence": "Motortillverkare: Mercruiser 4.3 MPI, 220 hk, årsmodell 2010",
   "engine_year_source": "rule:spec",
   "equipment": {
+   "kapell": {
+    "evidence": "Fendrar, fritidsbatteri, kapell, ankare, förtöjningstampar medföljer.",
+    "included": true
+   },
    "trailer": {
     "evidence": "Besiktad trailer ingår i priset.",
     "included": true
@@ -59,9 +63,9 @@
  "motor_size": null,
  "motor_type": "Inombordare",
  "page": {
-  "description_chars": 309,
+  "description_chars": 425,
   "fetched_ts": 1790522972834,
-  "text_sha": "09ed2017b0b1d38d"
+  "text_sha": "3a35612b506bb310"
  },
  "price": 69000,
  "price_history": [

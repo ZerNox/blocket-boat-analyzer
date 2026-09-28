@@ -32,6 +32,10 @@
     "evidence": "Välutrustad med GPS, spritkök Origo samt kylskåp som drivs på batteri.",
     "included": true
    },
+   "solpanel": {
+    "evidence": "Solpanel med regulator",
+    "included": true
+   },
    "trailer": {
     "evidence": "OBS, trailer saknas.",
     "included": false

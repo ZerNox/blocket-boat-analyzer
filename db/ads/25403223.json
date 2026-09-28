@@ -35,6 +35,10 @@
    "stereo": {
     "evidence": "Radio",
     "included": true
+   },
+   "varmare": {
+    "evidence": "Ny Värmare medföljer (ej installerad)",
+    "included": true
    }
   },
   "hull": "cabin",

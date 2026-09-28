@@ -322,3 +322,12 @@ def test_hull(heading, desc, cls, hull, certain):
 def test_optional_trailer_is_not_included():
     eq = rules.extract_equipment("Båt", "Den sk 30 kärra båten står på kan, liksom tampar och annan utrustning, kan ingå för rätt köpare.")
     assert eq["trailer"]["included"] is False
+
+
+def test_equipment_section_items():
+    text = ("Ny dieselvärmare. 4000W. Victronic 1500 W AC sinusinverter m laddningsregulator. 50 W solpanel. "
+            "VHF radio samt båtradio m antenn. Simrads navigationscentra med kartplotter, ekolod radar med radom-antenn. "
+            "Elvinsch för drag av tinor.")
+    eq = rules.extract_equipment("Båt", text)
+    for item in ("varmare", "inverter", "solpanel", "vhf", "stereo", "plotter", "ekolod", "radar", "vinsch"):
+        assert eq[item]["included"], item

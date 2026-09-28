@@ -79,7 +79,7 @@
  "lat": 59.95,
  "length_ft": 20,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1998,
@@ -88,22 +88,27 @@
    "engine_maker": "Volvo penta",
    "engine_type": "inboard",
    "engine_year": null,
-   "engine_year_evidence": "Driftsäker B20 inombordare",
+   "engine_year_evidence": "Servicemanual följer med",
    "equipment": {
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "c0dc558081192635"
+  "text_sha": "c7ffabf1b51ab682"
  },
  "location": "Västerfärnebo",
  "lon": 16.29,
@@ -113,9 +118,9 @@
  "motor_size": null,
  "motor_type": "Inombordare",
  "page": {
-  "description_chars": 1064,
+  "description_chars": 1168,
   "fetched_ts": 1790523098014,
-  "text_sha": "c0dc558081192635"
+  "text_sha": "c7ffabf1b51ab682"
  },
  "price": 65000,
  "price_history": [

@@ -19,7 +19,16 @@
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell, GPS, Dynor, Badstege, Tuta, Lampor, Fender,",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Kapell, GPS, Dynor, Badstege, Tuta, Lampor, Fender,",
+    "included": true
+   }
+  },
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "Flipper 625 Dc",
@@ -50,7 +59,7 @@
  "lat": 59.33,
  "length_ft": 21,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2011,
@@ -60,22 +69,27 @@
    "engine_type": "inboard",
    "engine_year": null,
    "engine_year_evidence": "Gångtid 290 timmar. Servad enligt protokoll och nyservad för året.",
-   "engine_year_rejected": 2011,
+   "engine_year_rejected": 2022,
    "equipment": {
-    "ekolod": "not_mentioned",
+    "ekolod": "included",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
-    "kapell": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
     "landstrom": "not_mentioned",
-    "plotter": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "a0baa237a110280a"
+  "text_sha": "b0bc1834e1f5d993"
  },
  "location": "Värmdö",
  "lon": 18.63,
@@ -85,9 +99,9 @@
  "motor_size": null,
  "motor_type": "Inombordare",
  "page": {
-  "description_chars": 300,
+  "description_chars": 364,
   "fetched_ts": 1790522922332,
-  "text_sha": "a0baa237a110280a"
+  "text_sha": "b0bc1834e1f5d993"
  },
  "price": 259800,
  "price_history": [

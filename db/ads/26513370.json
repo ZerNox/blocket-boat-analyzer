@@ -31,6 +31,10 @@
    "trailer": {
     "evidence": "Smidig att sjösätta och ta upp på båtvagnen.",
     "included": true
+   },
+   "varmare": {
+    "evidence": "Stabil hardtop båt som planar snabbt, sitter skyddad tack vare hardtopen med höga friborden och tar sig in på grunda va…",
+    "included": true
    }
   },
   "hull": "cabin",
