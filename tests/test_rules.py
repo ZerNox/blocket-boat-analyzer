@@ -317,3 +317,8 @@ def test_extract_hp(heading, desc, specs, hp):
 def test_hull(heading, desc, cls, hull, certain):
     r = rules.extract_hull(heading, desc, cls)
     assert (r["hull"], r["certain"]) == (hull, certain), r
+
+
+def test_optional_trailer_is_not_included():
+    eq = rules.extract_equipment("Båt", "Den sk 30 kärra båten står på kan, liksom tampar och annan utrustning, kan ingå för rätt köpare.")
+    assert eq["trailer"]["included"] is False

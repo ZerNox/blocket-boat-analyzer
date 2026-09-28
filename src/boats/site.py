@@ -32,6 +32,7 @@ def build(cfg: dict, out: Path) -> dict:
         "min_price": cfg["ranking"]["min_price"],
         "home": cfg["search"].get("home"),
         "max_km": cfg["search"].get("max_km"),
+        "profile": cfg.get("profile", {}),
         "coverage": coverage,
         "model": model,
         "boats": ranked,

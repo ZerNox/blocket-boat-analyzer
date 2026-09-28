@@ -22,8 +22,7 @@
   "equipment": {
    "trailer": {
     "evidence": "Fogelsta 30km kärra kan ingå i priset vid smidig affär.",
-    "included": true,
-    "kmh": 30
+    "included": false
    }
   },
   "hull": "open",

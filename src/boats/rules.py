@@ -91,9 +91,10 @@ EQUIPMENT = {
 EQUIPMENT_RE = {k: re.compile(v, re.I) for k, v in EQUIPMENT.items()}
 NEG_BEFORE = re.compile(r"\b(?:utan|ej|inte|ingen|inga|exkl\w*|exklusive|förutom)\b(?:(?!\bmen\b)[^,.;\n]){0,25}$", re.I)
 NEG_AFTER = re.compile(
-    r"^[^.;\n]{0,40}?\b(?:ingår\s+(?:ej|inte)|medföljer\s+(?:ej|inte)|ej\s+med|inte\s+med|säljs\s+separat|"
+    r"^[^.;\n]{0,90}?\b(?:ingår\s+(?:ej|inte)|medföljer\s+(?:ej|inte)|ej\s+med|inte\s+med|säljs\s+separat|"
     r"kan\s+(?:köpas|fås|erhållas)|finns\s+att\s+(?:köpa|få)|tillkommer|mot\s+tillägg|extra\s+kostnad|"
-    r"(?:ingår\s+)?ej\s+i\s+priset|ingår\s+inte\s+i\s+priset|separat|saknas|finns\s+(?:ej|inte))\b",
+    r"(?:ingår\s+)?ej\s+i\s+priset|ingår\s+inte\s+i\s+priset|separat|saknas|finns\s+(?:ej|inte)|"
+    r"kan\s+(?:även\s+)?ingå|ingår\s+(?:ev|eventuellt|möjligen)\w*|för\s+rätt\s+köpare|mot\s+(?:extra\s+)?betalning)\b",
     re.I,
 )
 # "trailerbar", "plats för trailer", "trailer finns inte" style false positives.

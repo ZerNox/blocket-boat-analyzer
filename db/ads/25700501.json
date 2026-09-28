@@ -22,8 +22,7 @@
   "equipment": {
    "trailer": {
     "evidence": "Den sk 30 kärra båten står på kan, liksom tampar och annan utrustning, kan ingå för rätt köpare.",
-    "included": true,
-    "kmh": 30
+    "included": false
    }
   },
   "hull": "cabin",

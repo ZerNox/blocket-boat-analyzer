@@ -214,20 +214,39 @@ def _ridge(X: np.ndarray, y: np.ndarray, lam: float) -> tuple[np.ndarray, np.nda
     return w, mu, sd, float(y.mean())
 
 
-def _detail_features(a: dict) -> list[float]:
-    """Stage B: what the listing doesn't show but the ad text/photos did."""
-    ext = a.get("extraction") or {}
+def engine_value(hp: float | None, age: float, stroke: int | None, ev: dict) -> float:
+    if not hp:
+        return 0.0
+    new = (ev["base"] + ev["per_hp"] * hp) * (ev["two_stroke_factor"] if stroke == 2 else 1.0)
+    return new * max((1 - ev["depreciation"]) ** max(age, 0), ev["floor"])
+
+
+def engine_premium(ad: dict, ev: dict) -> float:
+    """SEK the engine is worth beyond an engine as old as the hull (what a market listing assumes).
+
+    A 2021 Suzuki 90 on a 1999 Örnvik: ~+60 000 kr. A capped estimate (Johnson on a 2014 hull) goes negative.
+    """
+    ext = ad.get("extraction") or {}
     by = ext.get("boat_year")
     ey = ext.get("engine_year") or ext.get("engine_year_est")
-    newer = min(max((ey - by), -15), 30) if (ey and by) else 0.0  # years the engine is newer than the hull
-    return [newer, 0.0 if ext.get("engine_year") else 1.0, {4: 1.0, 2: 0.0}.get(ext.get("engine_stroke"), 0.5)]
+    if not (by and ey) or ey == by:
+        return 0.0
+    hp, stroke = hp_of(ad), ext.get("engine_stroke")
+    return engine_value(hp, THIS_YEAR - ey, stroke, ev) - engine_value(hp, THIS_YEAR - by, stroke, ev)
 
 
-DETAIL_NAMES = ["motorns ålder", "motorår okänt", "fyrtakt/tvåtakt"]
+def _detail_features(a: dict) -> list[float]:
+    """Stage B: what the listing doesn't show but the ad text/photos did (engine age is priced explicitly)."""
+    ext = a.get("extraction") or {}
+    return [0.0 if ext.get("engine_year") else 1.0, {4: 1.0, 2: 0.0}.get(ext.get("engine_stroke"), 0.5)]
+
+
+DETAIL_NAMES = ["motorår okänt", "fyrtakt/tvåtakt"]
 LEVEL_LABELS = {"make": "märke", "family": "modell", "variant": "variant"}
 
 
-def comparables(r: dict, rows: list[dict], mm: "MarketModel", base_of: dict[int, float], n: int = 8) -> dict:
+def comparables(r: dict, rows: list[dict], mm: "MarketModel", base_of: dict[int, float], n: int = 8,
+                premium_of: dict[int, float] | None = None) -> dict:
     """Direct comparison with ads of the same model, each adjusted to this boat's year, hp and length.
 
     Same variant ("Sandström 560 MC") weighs 1, same family ("Sandström 560") 0.4, and weight halves
@@ -246,7 +265,9 @@ def comparables(r: dict, rows: list[dict], mm: "MarketModel", base_of: dict[int,
         else:
             continue
         w *= 0.5 ** (abs((x.get("year") or 0) - (r.get("year") or 0)) / 6) if r.get("year") else 0.5
-        adjusted = x["price"] * math.exp(own_base - base_of[x["id"]])
+        # Take the comp's own newer engine out first (when we've read its ad), then adjust year/hp/length.
+        own_engine = (premium_of or {}).get(x["id"], 0.0)
+        adjusted = max(x["price"] - own_engine, x["price"] * 0.3) * math.exp(own_base - base_of[x["id"]])
         picks.append((w, adjusted, x))
     if not picks:
         return {"n_eff": 0.0, "log_est": None, "list": []}
@@ -291,6 +312,8 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
     valid = [r for r in rows if r.get("price") and r.get("year") and 1950 <= r["year"] <= THIS_YEAR + 1]
     base_of = dict(zip((r["id"] for r in valid), mm._base(mm._X(valid)).tolist())) if valid else {}
     comp_prior = rc.get("comp_prior", 2.0)
+    evc = cfg["engine_value"]
+    premium_of = {a["ad_id"]: engine_premium(a, evc) for a in ads if a.get("extraction")}
     # Market prices already include whatever extras those boats had, so only equipment beyond the
     # typical amount changes the comparison (a trailer is normal; plotter + trailer + kapell is more).
     evs = [extras_value(a["extraction"], prices) for a in pool]
@@ -301,7 +324,7 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
         extra = ev - typical_ev
         adj.append((min(max(a["price"] - extra, a["price"] * 0.6), a["price"] * 1.4), ev, items))
         logp, rows_b, groups = mm.predict(ours[a["ad_id"]])
-        c = comparables(ours[a["ad_id"]], rows, mm, base_of)
+        c = comparables(ours[a["ad_id"]], rows, mm, base_of, premium_of=premium_of)
         if c["log_est"] is not None:
             # Direct comparables dominate as they add up; the make/type hierarchy fills in when there are few.
             w = c["n_eff"] / (c["n_eff"] + comp_prior)
@@ -327,7 +350,8 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
     out = []
     for a, (adj_price, ev, items), (logp, base_rows, groups), dz, dp, fit, comp in zip(pool, adj, preds, Zd, detail, keep, comps):
         ext = a["extraction"]
-        fair = float(math.exp(logp + dp))
+        premium = premium_of.get(a["ad_id"], 0.0)
+        fair = max(float(math.exp(logp + dp)) + premium, 1000.0)
         value = fair / adj_price - 1
         flags = list(ext.get("red_flags") or [])
         # Past 2 sd under the market a "deal" is more likely a wreck, a raft or a placeholder price:
@@ -386,6 +410,7 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
             "extras_excluded": [k for k, v in (ext.get("equipment") or {}).items() if not v.get("included")],
             "extras_value": ev,
             "extras_typical": round(typical_ev),
+            "engine_premium": round(premium),
             "adjusted_price": round(adj_price),
             "fair_price": round(fair),
             "value": round(value, 3),

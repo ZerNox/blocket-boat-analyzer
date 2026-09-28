@@ -76,10 +76,12 @@ button { background: var(--surface); color: var(--accent); border: 1px solid var
   <section class="panel">
     <div class="controls">
       <label>Vikt: pris mot marknaden <output id="o-w-value"></output><input type="range" id="w-value" min="0" max="100" value="100"></label>
-      <label>Vikt: ny motor <output id="o-w-engine"></output><input type="range" id="w-engine" min="0" max="100" value="25"></label>
+      <label>Vikt: ny motor <output id="o-w-engine"></output><input type="range" id="w-engine" min="0" max="100" value="60"></label>
+      <label>Vikt: lågt pris (nära målpris) <output id="o-w-budget"></output><input type="range" id="w-budget" min="0" max="100" value="40"></label>
       <label>Vikt: hästkrafter <output id="o-w-hp"></output><input type="range" id="w-hp" min="0" max="100" value="0"></label>
-      <label>Vikt: utrustning (trailer, plotter…) <output id="o-w-extras"></output><input type="range" id="w-extras" min="0" max="100" value="25"></label>
+      <label>Vikt: utrustning (trailer, plotter…) <output id="o-w-extras"></output><input type="range" id="w-extras" min="0" max="100" value="20"></label>
       <label>Maxpris (kr)<input type="number" id="max-price" step="5000" placeholder="alla"></label>
+      <label>Målpris, räknas som utmärkt (kr)<input type="number" id="target-price" step="5000" placeholder="inget"></label>
       <label>Postnummer (avstånd räknas härifrån) <output id="o-postcode"></output><input type="text" id="postcode" inputmode="numeric" maxlength="6" placeholder="t.ex. 44242"></label>
       <label><span id="km-label">Max avstånd (km, fågelväg)</span><input type="number" id="max-km" step="25" placeholder="alla"></label>
       <label>Båt från år (minst)<input type="number" id="min-boat" step="1" placeholder="alla"></label>
@@ -109,7 +111,7 @@ const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "
 const EXTRA_LABELS = { trailer: "trailer", plotter: "plotter/GPS", ekolod: "ekolod", kapell: "kapell", vinterkapell: "vinterkapell", elmotor: "elmotor", hjalpmotor: "hjälpmotor", vhf: "VHF", stereo: "stereo", hydraulstyrning: "hydraulstyrning", landstrom: "landström" };
 const FLAG_LABELS = { project: "renoveringsobjekt", defect: "motorfel", leak: "läckage/spricka i skrov", untested: "otestad" };
 const SRC_LABELS = { "rule:spec": "annonsfält", "rule:text": "annonstext", "rule:original": "originalmotor", "llm": "lokal AI", "rule:text+llm": "text + AI", "rule:text?": "osäker" };
-const CONTROLS = ["w-value", "w-engine", "w-hp", "w-extras", "max-price", "postcode", "max-km", "min-boat", "min-engine", "min-hp", "class", "q", "need-trailer", "known-engine", "hide-flags", "hide-unsure"];
+const CONTROLS = ["w-value", "w-engine", "w-budget", "w-hp", "w-extras", "max-price", "target-price", "postcode", "max-km", "min-boat", "min-engine", "min-hp", "class", "q", "need-trailer", "known-engine", "hide-flags", "hide-unsure"];
 let DATA = null;
 let HOME = null;
 let POSTCODES = null;
@@ -152,8 +154,10 @@ function zscores(vals) {
 }
 
 function render() {
-  const w = { value: +$("w-value").value / 100, engine: +$("w-engine").value / 100, hp: +$("w-hp").value / 100, extras: +$("w-extras").value / 100 };
-  for (const k of ["value", "engine", "hp", "extras"]) $("o-w-" + k).textContent = Math.round(w[k] * 100) + "%";
+  const w = { value: +$("w-value").value / 100, engine: +$("w-engine").value / 100, budget: +$("w-budget").value / 100,
+              hp: +$("w-hp").value / 100, extras: +$("w-extras").value / 100 };
+  for (const k of ["value", "engine", "budget", "hp", "extras"]) $("o-w-" + k).textContent = Math.round(w[k] * 100) + "%";
+  const target = +$("target-price").value || 0;
   const maxKm = +$("max-km").value || Infinity;
   const minBoat = +$("min-boat").value || 0;
   const maxPrice = +$("max-price").value || Infinity, minEngine = +$("min-engine").value || 0, minHp = +$("min-hp").value || 0;
@@ -173,10 +177,14 @@ function render() {
     (!q || [b.heading, b.make, b.location, b.engine_maker, b.ad_id].join(" ").toLowerCase().includes(adQuery(q))));
 
   const zv = zscores(boats.map((b) => b.score));
-  const ze = zscores(boats.map((b) => b.engine_year));
+  // A stated engine year counts fully; an estimate (≈) counts as three years older, it's only a guess.
+  const ze = zscores(boats.map((b) => b.engine_year || (b.engine_year_est ? b.engine_year_est - 3 : null)));
+  // At or under the target price = 1, falling linearly to 0 at the max price.
+  const top = maxPrice === Infinity ? Math.max(...boats.map((b) => b.price), target * 2) : maxPrice;
+  const zb = zscores(boats.map((b) => !target ? null : b.price <= target ? 1 : Math.max(0, 1 - (b.price - target) / Math.max(top - target, 1))));
   const zh = zscores(boats.map((b) => b.hp));
   const zx = zscores(boats.map((b) => b.extras_value));
-  boats = boats.map((b, i) => ({ ...b, composite: w.value * zv[i] + w.engine * ze[i] + w.hp * zh[i] + w.extras * zx[i] }))
+  boats = boats.map((b, i) => ({ ...b, composite: w.value * zv[i] + w.engine * ze[i] + w.budget * zb[i] + w.hp * zh[i] + w.extras * zx[i] }))
     .sort((a, b) => b.composite - a.composite);
 
   $("stats").innerHTML = `<span>Visar <b>${boats.length}</b> av ${DATA.boats.length} rankade</span>` +
@@ -221,6 +229,7 @@ function card(b, n) {
           <tr><td>Utgångspris</td><td>${kr(b.price)}</td></tr>
           <tr><td>− utrustning utöver det vanliga (${b.extras.map((k) => EXTRA_LABELS[k] || k).join(", ") || "ingen"}: ${kr(b.extras_value)}, typiskt ${kr(b.extras_typical)})</td><td>${kr(b.extras_value - b.extras_typical)}</td></tr>
           <tr><td>= jämförpris</td><td>${kr(b.adjusted_price)}</td></tr>
+          ${b.engine_premium ? `<tr><td>Motorns värde utöver en motor lika gammal som skrovet</td><td>${b.engine_premium > 0 ? "+" : ""}${kr(b.engine_premium)} (ingår i marknadspriset)</td></tr>` : ""}
           <tr><td>Marknadspris för liknande båt</td><td>${kr(b.fair_price)}</td></tr>
         </table>
         ${b.comparables.length ? `<table><tr><td colspan="3" class="muted">Jämförbara annonser av samma modell (${Math.round(b.comparables_weight * 100)} % av värderingen), priset justerat till denna båts år/hk/längd:</td></tr>` +
@@ -241,11 +250,11 @@ function card(b, n) {
 }
 
 function saveState() {
-  try { localStorage.setItem("boats-controls", JSON.stringify(Object.fromEntries(CONTROLS.map((id) => [id, $(id).type === "checkbox" ? $(id).checked : $(id).value])))); } catch (e) {}
+  try { localStorage.setItem("boats-controls-v2", JSON.stringify(Object.fromEntries(CONTROLS.map((id) => [id, $(id).type === "checkbox" ? $(id).checked : $(id).value])))); } catch (e) {}
 }
 function loadState() {
   try {
-    const s = JSON.parse(localStorage.getItem("boats-controls") || "{}");
+    const s = JSON.parse(localStorage.getItem("boats-controls-v2") || "{}");
     for (const [id, v] of Object.entries(s)) if ($(id)) $(id).type === "checkbox" ? ($(id).checked = v) : ($(id).value = v);
   } catch (e) {}
 }
@@ -263,6 +272,9 @@ fetch("boats.json").then((r) => r.json()).then((data) => {
     `Källkod: <a href="https://github.com/ZerNox/blocket-boat-analyzer">github.com/ZerNox/blocket-boat-analyzer</a>. Inte ansluten till Blocket. ` +
     `Postnummer: <a href="https://www.geonames.org/">GeoNames</a> (CC BY 4.0).`;
   if (data.max_km) $("max-km").value = data.max_km;
+  if (data.profile?.max_price) $("max-price").value = data.profile.max_price;
+  if (data.profile?.target_price) $("target-price").value = data.profile.target_price;
+  if (data.profile?.min_engine_year) $("min-engine").value = data.profile.min_engine_year;
   if (data.home) $("postcode").value = data.home.postcode;
   loadState();
   for (const id of CONTROLS) $(id).addEventListener("input", () => {

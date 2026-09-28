@@ -30,8 +30,7 @@
    },
    "trailer": {
     "evidence": "30-kärra kan ingå vid smidig affär.",
-    "included": true,
-    "kmh": 30
+    "included": false
    }
   },
   "hull": "cabin",

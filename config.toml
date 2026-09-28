@@ -59,6 +59,23 @@ comp_prior = 2.0
 market_classes = ["Hyttbåt", "Kabinbåt", "Daycruiser", "Styrpulpetbåt", "Bowrider", "Fiskebåt/Arbetsbåt"]
 market_length_ft = [14, 26]
 
+# A newer engine than the hull is worth real money on an old boat (a 5-year-old 90 hp four-stroke
+# is ~70 000 kr on its own). Value = (base + per_hp * hp) * (0.75 if two-stroke) * (1 - depreciation)^age,
+# never below floor * new price. The fair price gets (this engine's value - value of an engine as old as the hull).
+[engine_value]
+base = 30000
+per_hp = 1200
+two_stroke_factor = 0.75
+depreciation = 0.12
+floor = 0.08
+
+# Your buying profile: the site's defaults. At or under target_price counts as excellent.
+[profile]
+max_price = 200000
+target_price = 120000
+# Only boats whose ad states an engine year from this year on (estimates don't count).
+min_engine_year = 2015
+
 # Estimated used-market value (SEK) an included item adds to the deal.
 # Subtracted from the asking price before comparing boats against each other.
 [extras]

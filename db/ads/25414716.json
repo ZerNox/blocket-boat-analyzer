@@ -34,9 +34,7 @@
    },
    "trailer": {
     "evidence": "Rejäl 80 km/h-kärra 1500 kg (Brenderup från 2018 och nybesiktad) kan köpas till vettig peng vid smidig affär.",
-    "included": true,
-    "kmh": 80,
-    "year": 2018
+    "included": false
    }
   },
   "hull": "cabin",
