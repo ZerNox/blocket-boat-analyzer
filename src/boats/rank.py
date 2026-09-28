@@ -245,15 +245,27 @@ DETAIL_NAMES = ["motorår okänt", "fyrtakt/tvåtakt"]
 LEVEL_LABELS = {"make": "märke", "family": "modell", "variant": "variant"}
 
 
+def _model_number(family: str | None) -> int | None:
+    """Length-like model number: "bella 581" -> 581, "yamarin 5800" -> 580; None for "buster l"."""
+    m = re.search(r"\b[a-zåäö]{0,2}(\d{3,4})\b", family or "")
+    if not m:
+        return None
+    n = int(m.group(1))
+    n = n // 10 if n >= 1000 else n
+    return n if 350 <= n <= 800 else None
+
+
 def comparables(r: dict, rows: list[dict], mm: "MarketModel", base_of: dict[int, float], n: int = 8,
                 premium_of: dict[int, float] | None = None) -> dict:
     """Direct comparison with ads of the same model, each adjusted to this boat's year, hp and length.
 
-    Same variant ("Sandström 560 MC") weighs 1, same family ("Sandström 560") 0.4, and weight halves
-    per ~6 years of age difference. The market model is only used to adjust for those differences:
+    Same variant ("Sandström 560 MC") weighs 1, same family ("Sandström 560") 0.4, a neighbouring
+    model from the same yard ("Bella 572" for a "Bella 581": same make, model number within 30,
+    i.e. about the same length) 0.2; weight halves per ~6 years of age difference. The market model is only used to adjust for those differences:
     adjusted = comp price * exp(base(this boat) - base(comp)).
     """
     own_base = float(mm._base(mm._X([r]))[0])
+    own_num = _model_number(r.get("family"))
     picks = []
     for x in rows:
         if x["id"] == r["id"] or x.get("gone") or not x.get("price") or x["id"] not in base_of:
@@ -262,6 +274,9 @@ def comparables(r: dict, rows: list[dict], mm: "MarketModel", base_of: dict[int,
             w = 1.0
         elif r.get("family") and x.get("family") == r["family"] and not (r.get("variant") and x.get("variant")):
             w = 0.4  # same family, variant unknown on one side
+        elif (own_num and x.get("make") == r.get("make") and x.get("family") != r.get("family")
+              and (n := _model_number(x.get("family"))) and abs(n - own_num) <= 30):
+            w = 0.2  # sibling model from the same yard, about the same size
         else:
             continue
         w *= 0.5 ** (abs((x.get("year") or 0) - (r.get("year") or 0)) / 6) if r.get("year") else 0.5
