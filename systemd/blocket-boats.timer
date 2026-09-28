@@ -1,0 +1,11 @@
+[Unit]
+Description=Daily Blocket boat refresh at 06:00 Swedish time
+
+[Timer]
+OnCalendar=*-*-* 06:00 Europe/Stockholm
+# Catch up after the machine was off at 06:00.
+Persistent=true
+RandomizedDelaySec=5min
+
+[Install]
+WantedBy=timers.target

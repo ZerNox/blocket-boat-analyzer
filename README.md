@@ -92,6 +92,20 @@ Change the search in `config.toml` (`search.url`, any Blocket boat search URL). 
 The GPU is chosen by name (`device_match = "Arc"`) because Vulkan device indices change between
 boots. The GPU lock file is shared with other GPU jobs on the host.
 
+## Daily refresh
+
+`systemd/blocket-boats.{service,timer}` runs `boats market` and `boats update --publish` every day at
+06:00 Swedish time (catching up if the machine was off). Install:
+
+```bash
+cp systemd/blocket-boats.* ~/.config/systemd/user/
+systemctl --user daemon-reload && systemctl --user enable --now blocket-boats.timer
+journalctl --user -u blocket-boats.service   # last run's log
+```
+
+Blocket shows neither publication date nor price history, so `price_history` in `db/ads/` only
+covers changes seen by these runs.
+
 ## Data and privacy
 
 The repo is public, so `db/` holds only structured fields (price, year, hp, specs), the

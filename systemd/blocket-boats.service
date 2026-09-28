@@ -1,0 +1,15 @@
+[Unit]
+Description=Blocket boat analyzer: market snapshot, search, extraction, publish
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/blocket-boat-analyzer
+Environment=PATH=%h/.local/bin:/usr/local/bin:/usr/bin:/bin
+# Whole-market comparables first, then the search + model list, LLM/vision, commit and push.
+# The push triggers the GitHub Actions workflow that rebuilds the site.
+ExecStart=%h/.local/bin/uv run boats market
+ExecStart=%h/.local/bin/uv run boats update --publish
+TimeoutStartSec=3h
+Nice=10
