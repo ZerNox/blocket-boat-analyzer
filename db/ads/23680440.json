@@ -101,6 +101,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-28",
  "page": {
   "description_chars": 479,
   "fetched_ts": 1790522904529,
@@ -131,7 +132,7 @@
   "Sovplatser": "3",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/23680440",
  "width_cm": 210,
  "year": 1989

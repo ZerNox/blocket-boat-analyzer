@@ -25,6 +25,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 510 MC",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -34,6 +38,9 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Ryds 510 MC",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26829182/49fdb752-7198-4954-96ff-4319b8e460dc",
  "image_urls": [
@@ -43,9 +50,9 @@
   "https://images.blocketcdn.se/dynamic/default/item/26829182/2c2e9ecc-2310-4546-a443-ec7a93633f65",
   "https://images.blocketcdn.se/dynamic/default/item/26829182/4b5ff568-db30-4e70-b4f3-7ee121ea87ef"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-09-28T19:51:27+00:00",
  "lat": 57.6,
- "length_ft": 16,
+ "length_ft": 17,
  "llm": {
   "at": "2026-09-27",
   "model": "qwen7b-q4km",
@@ -86,11 +93,15 @@
   "fetched_ts": 1790508963299,
   "text_sha": "26ca3cb7cdaba5b3"
  },
- "price": 110000,
+ "price": 105000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 110000
+  },
+  {
+   "date": "2026-09-28",
+   "price": 105000
   }
  ],
  "specs": {
@@ -108,7 +119,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "630 kg"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26829182",
  "width_cm": 220,
  "year": 2007

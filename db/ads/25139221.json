@@ -1,0 +1,134 @@
+{
+ "ad_id": 25139221,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790586592000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha 2takt",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell tvättat och impregnerat",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80 trailer obromsad nybesiktigad nya hjullager",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 510 Ht 60 Hk",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-28T19:51:27+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Flipper 510 Ht 60 Hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25139221/29515082-c24e-492f-b89c-90395eea6c6e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25139221/29515082-c24e-492f-b89c-90395eea6c6e",
+  "https://images.blocketcdn.se/dynamic/default/item/25139221/6459080f-7c22-4e9d-9109-5adb7b5ab934",
+  "https://images.blocketcdn.se/dynamic/default/item/25139221/e5f5a362-dc86-4dc8-ba69-616a103b10f5",
+  "https://images.blocketcdn.se/dynamic/default/item/25139221/19a499d2-fef6-4b80-bc4a-0b40fcc12849",
+  "https://images.blocketcdn.se/dynamic/default/item/25139221/0086eff9-3960-47e1-a736-d610388ae226"
+ ],
+ "last_seen": "2026-09-28T19:51:27+00:00",
+ "lat": 56.13,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-28",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1985,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Yamaha 2takt",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorn ny servad",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "cf9186bf25180e49"
+ },
+ "location": "Klippan",
+ "lon": 13.15,
+ "make": "Flipper",
+ "max_speed": 27,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 202,
+  "fetched_ts": 1790625172974,
+  "text_sha": "cf9186bf25180e49"
+ },
+ "price": 44000,
+ "price_history": [
+  {
+   "date": "2026-09-28",
+   "price": 44000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit Gul",
+  "Längd i fot": "17 fot",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha 2takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "27 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25139221",
+ "width_cm": 205,
+ "year": 1985
+}

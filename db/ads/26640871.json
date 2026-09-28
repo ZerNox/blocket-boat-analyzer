@@ -22,7 +22,7 @@
   "equipment": {},
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "BELLA 601HT  YAMAHA 85HK",
+  "hull_evidence": "BELLA 601HT YAMAHA 85HK",
   "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
@@ -36,7 +36,7 @@
  "found_by": [
   "kategori"
  ],
- "heading": "BELLA 601HT  YAMAHA 85HK",
+ "heading": "BELLA 601HT YAMAHA 85HK",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26640871/863fc03c-043b-4127-bdac-db7346f521bd",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/26640871/863fc03c-043b-4127-bdac-db7346f521bd",
@@ -47,7 +47,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26640871/f2456e8a-e039-4fea-8f98-9eb4c189572b",
   "https://images.blocketcdn.se/dynamic/default/item/26640871/b7159f34-568f-4e4a-bc24-58231564777e"
  ],
- "last_seen": "2026-09-27T15:43:21+00:00",
+ "last_seen": "2026-09-28T19:51:27+00:00",
  "lat": 59.35,
  "length_ft": 19,
  "llm": {

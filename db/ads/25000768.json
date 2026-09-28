@@ -1,0 +1,136 @@
+{
+ "ad_id": 25000768,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1790530768000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Båten är nyservad på båtvarv och är utrustad med bland annat Mercury Optimax 90 hk och GPS/plotter från Raymarine.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer ingår inte",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "en praktisk och lättkörd hyttbåt som vi har tagit väl hand om. Båten är nyservad på båtvarv och är utrust",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-28T19:51:27+00:00",
+ "found_by": [
+  "Bella 572"
+ ],
+ "heading": "Rubrik: Bella 572 C 2007 – Mercury Optimax 90 hk – HÖSTPRIS 139 000 kr",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25000768/efd67407-29da-4807-b9d5-ff1326236c27",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25000768/efd67407-29da-4807-b9d5-ff1326236c27",
+  "https://images.blocketcdn.se/dynamic/default/item/25000768/9827b983-f47f-4353-94a0-a51672b2e0a9",
+  "https://images.blocketcdn.se/dynamic/default/item/25000768/2466d5fc-f424-4c0c-b467-dec976cab76a",
+  "https://images.blocketcdn.se/dynamic/default/item/25000768/4719f3fd-81f3-40d4-ad76-5a7218384918",
+  "https://images.blocketcdn.se/dynamic/default/item/25000768/97d36038-8b99-4c46-a55b-96fb582f3243"
+ ],
+ "last_seen": "2026-09-28T19:51:27+00:00",
+ "lat": 59.51,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-28",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2007,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Bella 572 C, årsmodell 2007 Mercury Optimax 90 hk",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2823206f04a509e6"
+ },
+ "location": "Åkersberga",
+ "lon": 18.43,
+ "make": "Bella",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 849,
+  "fetched_ts": 1790625171932,
+  "text_sha": "2823206f04a509e6"
+ },
+ "price": 139000,
+ "price_history": [
+  {
+   "date": "2026-09-28",
+   "price": 139000
+  }
+ ],
+ "specs": {
+  "Bredd": "208 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "65 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "16 fot",
+  "Modell": "572 C",
+  "Modellår": "2007",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "35 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "700 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25000768",
+ "width_cm": 208,
+ "year": 2007
+}

@@ -35,7 +35,7 @@
   },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "Örnvik 550 HT  höstpris 20000kr nytt pris",
+  "hull_evidence": "Örnvik 550 HT höstpris 20000kr nytt pris",
   "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
@@ -50,7 +50,7 @@
   "kategori",
   "Örnvik 550"
  ],
- "heading": "Örnvik 550 HT  höstpris 20000kr nytt pris",
+ "heading": "Örnvik 550 HT höstpris 20000kr nytt pris",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26023479/27346f91-aeb9-4142-9c16-5ad9fa57df02",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/26023479/27346f91-aeb9-4142-9c16-5ad9fa57df02",
@@ -58,7 +58,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26023479/9b152431-2ad6-4328-be35-4339e75ba704",
   "https://images.blocketcdn.se/dynamic/default/item/26023479/220f0cfd-3790-418f-a2e4-626452c18d06"
  ],
- "last_seen": "2026-09-27T15:43:21+00:00",
+ "last_seen": "2026-09-28T19:51:27+00:00",
  "lat": 56.17,
  "length_ft": 17,
  "llm": {

@@ -1,7 +1,7 @@
 {
  "ad_id": 26683056,
  "boat_class": "Styrpulpetbåt",
- "changed_ts": 1789729473000,
+ "changed_ts": 1790533028000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2007,
@@ -35,9 +35,9 @@
    }
   },
   "hull": "open",
-  "hull_certain": true,
-  "hull_evidence": "No enclosed space visible, only open cockpit and console.",
-  "hull_source": "bild",
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -50,7 +50,7 @@
  "found_by": [
   "Ryds 568"
  ],
- "heading": "Ryds 568 GTI 100 hk fyrtakt",
+ "heading": "Ryds 568 GTI 100 hk",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26683056/6fe7f34b-66de-49df-99a5-ed7857ee1046",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/26683056/6fe7f34b-66de-49df-99a5-ed7857ee1046",
@@ -59,11 +59,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26683056/d2b0df0a-cdcf-4c98-9d4a-cd95050efcd8",
   "https://images.blocketcdn.se/dynamic/default/item/26683056/408270e0-9ac1-4586-b0f1-3cdef458ebaa"
  ],
- "last_seen": "2026-09-27T15:43:21+00:00",
+ "last_seen": "2026-09-28T19:51:27+00:00",
  "lat": 57.68,
  "length_ft": 19,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-28",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2007,
@@ -78,16 +78,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
     "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "bdbce92099136361"
+  "text_sha": "44a5ba2748b0ce7f"
  },
  "location": "Göteborg",
  "lon": 12.0,
@@ -98,14 +103,18 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 1163,
-  "fetched_ts": 1790523204156,
-  "text_sha": "bdbce92099136361"
+  "fetched_ts": 1790625175671,
+  "text_sha": "44a5ba2748b0ce7f"
  },
- "price": 144000,
+ "price": 140000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 144000
+  },
+  {
+   "date": "2026-09-28",
+   "price": 140000
   }
  ],
  "specs": {

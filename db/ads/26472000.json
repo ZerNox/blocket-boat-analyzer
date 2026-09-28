@@ -91,6 +91,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-28",
  "page": {
   "description_chars": 345,
   "fetched_ts": 1790523178036,
@@ -121,7 +122,7 @@
   "Toppfart": "18 knop",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26472000",
  "width_cm": 0,
  "year": 1984

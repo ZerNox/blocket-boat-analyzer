@@ -1,0 +1,95 @@
+{
+ "ad_id": 26957025,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1790590194000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2010,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn en Mercury 75 Optimax 2 takt köpt ny 2010.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Utmärkt bromsat släp ingår.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 520 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-28T19:51:27+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Uttern 520 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26957025/6812a5f6-649a-404c-9552-893e8998f472",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26957025/6812a5f6-649a-404c-9552-893e8998f472",
+  "https://images.blocketcdn.se/dynamic/default/item/26957025/4f98a68a-9a8f-436a-9ed1-9cf7e848306f",
+  "https://images.blocketcdn.se/dynamic/default/item/26957025/3eb33bcd-0a44-4e9e-8158-b59642e2440b",
+  "https://images.blocketcdn.se/dynamic/default/item/26957025/fea3132c-fe3a-4ffd-8e77-6cef32d5421f",
+  "https://images.blocketcdn.se/dynamic/default/item/26957025/752ccb2b-a97e-43fe-99cc-6981158fd8cf"
+ ],
+ "last_seen": "2026-09-28T19:51:27+00:00",
+ "lat": 56.13,
+ "length_ft": 17,
+ "location": "Senoren",
+ "lon": 15.75,
+ "make": "Uttern",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 348,
+  "fetched_ts": 1790625184181,
+  "text_sha": "8e772ab7062631b6"
+ },
+ "price": 65000,
+ "price_history": [
+  {
+   "date": "2026-09-28",
+   "price": 65000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "520HT",
+  "Modellår": "1990",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26957025",
+ "width_cm": 210,
+ "year": 1990
+}

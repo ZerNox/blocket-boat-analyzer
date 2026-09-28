@@ -40,7 +40,7 @@
   },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "Hyttbåt m kraftigt skrov av aluminium -  Bombus Allbåt från varv i Stockholm.\nAl",
+  "hull_evidence": "Hyttbåt m kraftigt skrov av aluminium - Bombus Allbåt från varv i Stockholm.\nAlu",
   "hull_source": "rule:text",
   "llm_reasons": [],
   "needs_llm": false,
@@ -52,7 +52,7 @@
  "found_by": [
   "kategori"
  ],
- "heading": "Hyttbåt m kraftigt skrov av aluminium -  Bombus Allbåt från varv i Stockholm.",
+ "heading": "Hyttbåt m kraftigt skrov av aluminium - Bombus Allbåt från varv i Stockholm.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25878321/1d8973ec-f6b1-4f57-9758-0018c2bee45e",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/25878321/1d8973ec-f6b1-4f57-9758-0018c2bee45e",
@@ -64,7 +64,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25878321/e411b424-de89-4aa9-860d-501b0630a2a8",
   "https://images.blocketcdn.se/dynamic/default/item/25878321/6d8af875-9e63-44ca-9e36-30fb890f3d8f"
  ],
- "last_seen": "2026-09-27T15:43:21+00:00",
+ "last_seen": "2026-09-28T19:51:27+00:00",
  "lat": 59.68,
  "length_ft": 20,
  "location": "Västerås",

@@ -4,7 +4,7 @@
  "changed_ts": 1787498991000,
  "dealer_segment": "Privat",
  "extraction": {
-  "boat_year": 2006,
+  "boat_year": 2005,
   "boat_year_source": "spec",
   "engine_hours": 70,
   "engine_hp": 60,
@@ -15,7 +15,7 @@
   "engine_type_evidence": null,
   "engine_type_source": "rule:spec",
   "engine_year": null,
-  "engine_year_est": 2006,
+  "engine_year_est": 2005,
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
@@ -53,7 +53,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25973348/289b8f4b-d56d-4c7c-becc-42645fc3b632",
   "https://images.blocketcdn.se/dynamic/default/item/25973348/bc3308aa-9608-4624-9715-dc0772f1f842"
  ],
- "last_seen": "2026-09-27T15:43:21+00:00",
+ "last_seen": "2026-09-28T19:51:27+00:00",
  "lat": 59.17,
  "length_ft": 17,
  "llm": {
@@ -130,5 +130,5 @@
  "status": "active",
  "url": "https://www.blocket.se/mobility/item/25973348",
  "width_cm": 205,
- "year": 2006
+ "year": 2005
 }

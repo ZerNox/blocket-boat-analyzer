@@ -99,6 +99,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-28",
  "page": {
   "description_chars": 409,
   "fetched_ts": 1790522948941,
@@ -131,7 +132,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "560 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25229237",
  "width_cm": 205,
  "year": 2001

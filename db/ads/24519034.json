@@ -17,7 +17,7 @@
   "engine_year": 2002,
   "engine_year_est": null,
   "engine_year_est_reason": null,
-  "engine_year_evidence": "90hk Mariner 2002.",
+  "engine_year_evidence": "Uttern 5100 DC 2[tel]hk Mariner 2002.",
   "engine_year_source": "rule:text",
   "equipment": {
    "ekolod": {
@@ -48,7 +48,7 @@
   },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "Uttern 5100 DC 2001 - 90hk Mariner 2002",
+  "hull_evidence": "Uttern 5100 DC 2[tel]hk Mariner 2002",
   "hull_source": "rule:model",
   "llm_reasons": [],
   "needs_llm": false,
@@ -60,14 +60,14 @@
  "found_by": [
   "kategori"
  ],
- "heading": "Uttern 5100 DC 2001 - 90hk Mariner 2002",
+ "heading": "Uttern 5100 DC 2[tel]hk Mariner 2002",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24519034/aea8c651-ae92-4776-9f7c-52ee51b6f077",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/24519034/aea8c651-ae92-4776-9f7c-52ee51b6f077",
   "https://images.blocketcdn.se/dynamic/default/item/24519034/b4670f89-6864-4f5b-8576-6dab067b36f5",
   "https://images.blocketcdn.se/dynamic/default/item/24519034/6370fcbd-5a6c-4caf-a7ae-974dd531a127"
  ],
- "last_seen": "2026-09-27T15:43:21+00:00",
+ "last_seen": "2026-09-28T19:51:27+00:00",
  "lat": 59.75,
  "length_ft": 17,
  "location": "Norrtälje",

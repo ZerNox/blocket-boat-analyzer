@@ -26,9 +26,9 @@
    }
   },
   "hull": "open",
-  "hull_certain": false,
-  "hull_evidence": null,
-  "hull_source": "rule:guess",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space visible, only open cockpit and steering console.",
+  "hull_source": "bild",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -48,7 +48,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/23588015/8e55ec78-3a77-47ea-ab00-8b68c779832b",
   "https://images.blocketcdn.se/dynamic/default/item/23588015/01ff8a43-b1a0-4938-98b6-4b3215e7e30a"
  ],
- "last_seen": "2026-09-27T15:43:21+00:00",
+ "last_seen": "2026-09-28T19:51:27+00:00",
  "lat": 60.74,
  "length_ft": 19,
  "llm": {

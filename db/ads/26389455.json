@@ -40,7 +40,7 @@
   },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "Ryds 20 DC   2004",
+  "hull_evidence": "Ryds 20 DC 2004",
   "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
@@ -54,7 +54,7 @@
  "found_by": [
   "kategori"
  ],
- "heading": "Ryds 20 DC   2004",
+ "heading": "Ryds 20 DC 2004",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26389455/560da3bc-4ed6-4eea-88eb-aae48151a2c8",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/26389455/560da3bc-4ed6-4eea-88eb-aae48151a2c8",
@@ -66,7 +66,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26389455/84694bca-9904-4227-b5d3-0e8b99a01f55",
   "https://images.blocketcdn.se/dynamic/default/item/26389455/53b2f472-f18e-4b3e-8a87-5065e850486d"
  ],
- "last_seen": "2026-09-27T15:43:21+00:00",
+ "last_seen": "2026-09-28T19:51:27+00:00",
  "lat": 59.92,
  "length_ft": 20,
  "llm": {

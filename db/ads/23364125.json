@@ -36,7 +36,7 @@
   },
   "hull": "open",
   "hull_certain": true,
-  "hull_evidence": "Yamarin 56 SC  / Yamaha F100 DETL  / 30 Kärra  Fogelsta1400 till HÖSTPRIS",
+  "hull_evidence": "Yamarin 56 SC / Yamaha F100 DETL / 30 Kärra Fogelsta1400 till HÖSTPRIS",
   "hull_source": "rule:model",
   "llm_reasons": [],
   "needs_llm": false,
@@ -48,7 +48,7 @@
  "found_by": [
   "Yamarin 56"
  ],
- "heading": "Yamarin 56 SC  / Yamaha F100 DETL  / 30 Kärra  Fogelsta1400 till HÖSTPRIS",
+ "heading": "Yamarin 56 SC / Yamaha F100 DETL / 30 Kärra Fogelsta1400 till HÖSTPRIS",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23364125/1006b13e-c229-4ba1-87a6-6111b32fe6cb",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/23364125/1006b13e-c229-4ba1-87a6-6111b32fe6cb",
@@ -59,7 +59,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/23364125/2a1920c9-cea3-44a9-a878-956a39aa9f87",
   "https://images.blocketcdn.se/dynamic/default/item/23364125/0e94728c-5205-4729-bb11-d930ee7ad03a"
  ],
- "last_seen": "2026-09-27T15:43:21+00:00",
+ "last_seen": "2026-09-28T19:51:27+00:00",
  "lat": 57.5,
  "length_ft": 18,
  "location": "Kinna",

@@ -1,0 +1,98 @@
+{
+ "ad_id": 22514971,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790609934000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo penta",
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1976,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Hydraulisk styrning",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Hamnkapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin touchplotter med bränslegivare",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Coronet 21dc",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-28T19:51:27+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Coronet 21dc",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/22514971/2aaad4c1-26c5-4547-b559-cd3ce077474b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/22514971/2aaad4c1-26c5-4547-b559-cd3ce077474b",
+  "https://images.blocketcdn.se/dynamic/default/item/22514971/c779642b-37a8-4dc7-a5eb-a1e359bfeb1c",
+  "https://images.blocketcdn.se/dynamic/default/item/22514971/47bef374-523c-4f68-8f8e-768ee89be2cd",
+  "https://images.blocketcdn.se/dynamic/default/item/22514971/c084b37f-56bf-4bae-b92d-bb49d0ad5104",
+  "https://images.blocketcdn.se/dynamic/default/item/22514971/e5316647-a306-48c5-aa1a-612fee38430b",
+  "https://images.blocketcdn.se/dynamic/default/item/22514971/d2e24a5c-4adc-4d92-a59c-58f58af0ebeb",
+  "https://images.blocketcdn.se/dynamic/default/item/22514971/c38aefc8-cc5d-45ef-ac32-f08a635865fa"
+ ],
+ "last_seen": "2026-09-28T19:51:27+00:00",
+ "lat": 60.76,
+ "length_ft": 21,
+ "location": "Gävle",
+ "lon": 17.01,
+ "make": "Coronet",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 853,
+  "fetched_ts": 1790625168574,
+  "text_sha": "d3c0220f5b9374fb"
+ },
+ "price": 100000,
+ "price_history": [
+  {
+   "date": "2026-09-28",
+   "price": 100000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "21 fot",
+  "Modell": "21DC",
+  "Modellår": "1976",
+  "Motor inkluderad": "Nej",
+  "Motortillverkare": "Volvo penta",
+  "Motortyp": "Inombordare",
+  "Märke": "Coronet",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/22514971",
+ "width_cm": 0,
+ "year": 1976
+}

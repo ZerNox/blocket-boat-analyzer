@@ -49,14 +49,18 @@
   "kategori",
   "Flipper 570"
  ],
- "heading": "Flipper 570  60hk efi, fyrtakt",
+ "heading": "Flipper 570 60hk efi, fyrtakt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25883302/c818febd-eaa4-42dd-a7d4-d754f0d99c39",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/25883302/c818febd-eaa4-42dd-a7d4-d754f0d99c39",
   "https://images.blocketcdn.se/dynamic/default/item/25883302/a01c2a56-0f95-4205-90d9-7baf0e0bef1f",
-  "https://images.blocketcdn.se/dynamic/default/item/25883302/f2ab6a38-c0ae-4be6-8b81-da300c8af207"
+  "https://images.blocketcdn.se/dynamic/default/item/25883302/f2ab6a38-c0ae-4be6-8b81-da300c8af207",
+  "https://images.blocketcdn.se/dynamic/default/item/25883302/81f2f6ea-4a65-4000-9527-a771c318b862",
+  "https://images.blocketcdn.se/dynamic/default/item/25883302/876d679c-da2e-44a4-81bf-958e44fc841b",
+  "https://images.blocketcdn.se/dynamic/default/item/25883302/8445fba2-7883-4ed9-8467-833da01bf310",
+  "https://images.blocketcdn.se/dynamic/default/item/25883302/18abc361-ff3b-45b7-a695-a28ac31b5592"
  ],
- "last_seen": "2026-09-27T15:43:21+00:00",
+ "last_seen": "2026-09-28T19:51:27+00:00",
  "lat": 58.9,
  "length_ft": 19,
  "location": "Trosa",
@@ -71,11 +75,15 @@
   "fetched_ts": 1790523080149,
   "text_sha": "3ea46c41f8793a0c"
  },
- "price": 45000,
+ "price": 42500,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 45000
+  },
+  {
+   "date": "2026-09-28",
+   "price": 42500
   }
  ],
  "specs": {

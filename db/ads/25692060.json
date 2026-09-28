@@ -93,6 +93,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-09-28",
  "page": {
   "description_chars": 163,
   "fetched_ts": 1790523040814,
@@ -116,7 +117,7 @@
   "Märke": "Silver",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25692060",
  "width_cm": 0,
  "year": 2001

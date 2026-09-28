@@ -1,0 +1,146 @@
+{
+ "ad_id": 26932687,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790596241000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2003,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2003,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Två kapell.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin plotter med sjökort över ostkusten.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "LTC blåtand stereo med nya högtalare.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Stabil 30-trailer kan köpas till för 12 000 kr.",
+    "included": false
+   },
+   "vhf": {
+    "evidence": "VHF finns men osäker om den funkar.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 550 WA -03 m 90 hk",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-28T19:51:27+00:00",
+ "found_by": [
+  "Örnvik 550"
+ ],
+ "heading": "Örnvik 550 WA -03 m 90 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26932687/3ee982df-ae50-435c-b910-51f92ce9aac3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26932687/3ee982df-ae50-435c-b910-51f92ce9aac3",
+  "https://images.blocketcdn.se/dynamic/default/item/26932687/1826eafd-a89f-401f-898f-72ca699cde86",
+  "https://images.blocketcdn.se/dynamic/default/item/26932687/388f4e4f-e455-4b78-99ec-b710dbbca494"
+ ],
+ "last_seen": "2026-09-28T19:51:27+00:00",
+ "lat": 59.49,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-09-28",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2003,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "servad i år",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "included",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "791f64f0d83a1128"
+ },
+ "location": "Åkersberga",
+ "lon": 18.41,
+ "make": "Örnvik",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 639,
+  "fetched_ts": 1790625180107,
+  "text_sha": "791f64f0d83a1128"
+ },
+ "price": 129000,
+ "price_history": [
+  {
+   "date": "2026-09-28",
+   "price": 129000
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "45 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå",
+  "Längd i fot": "18 fot",
+  "Modell": "550 WA",
+  "Modellår": "2003",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "32 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "750 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26932687",
+ "width_cm": 230,
+ "year": 2003
+}

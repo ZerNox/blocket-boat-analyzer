@@ -1,0 +1,135 @@
+{
+ "ad_id": 26953451,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790577609000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercruiser",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Restaurerat kapell.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtkärra ingår !",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-28T19:51:27+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Bayliner 185",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26953451/76b7fff7-bd9a-47ae-aaef-5c86afbde0a9",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26953451/76b7fff7-bd9a-47ae-aaef-5c86afbde0a9",
+  "https://images.blocketcdn.se/dynamic/default/item/26953451/f7da9758-26ee-4fce-9ff1-6956bc24e2da",
+  "https://images.blocketcdn.se/dynamic/default/item/26953451/4510645b-cd0f-4b7c-9b53-4ef7889bcdea",
+  "https://images.blocketcdn.se/dynamic/default/item/26953451/ec704aa3-d198-455a-8e6b-f584b65f9088",
+  "https://images.blocketcdn.se/dynamic/default/item/26953451/1a41157c-12eb-420e-b625-1eb058a82a78",
+  "https://images.blocketcdn.se/dynamic/default/item/26953451/acf4aec3-d102-47b2-90d9-4b23b1fc0db4",
+  "https://images.blocketcdn.se/dynamic/default/item/26953451/b9f7ec02-ee0f-4914-a837-1fa9d1bf0cac",
+  "https://images.blocketcdn.se/dynamic/default/item/26953451/72ec84af-04e8-42f7-b7ae-2d7dcdfeb473",
+  "https://images.blocketcdn.se/dynamic/default/item/26953451/454c663a-6362-4480-b389-e6dabdb01a76",
+  "https://images.blocketcdn.se/dynamic/default/item/26953451/33378ccc-75ad-4573-987b-ec6b7df041a3"
+ ],
+ "last_seen": "2026-09-28T19:51:27+00:00",
+ "lat": 58.57,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-28",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mycket revovering av motor efter säsongen 2026",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "da0930334028a93a"
+ },
+ "location": "Norrköping",
+ "lon": 16.14,
+ "make": "Bayliner",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 142,
+  "fetched_ts": 1790625182942,
+  "text_sha": "da0930334028a93a"
+ },
+ "price": 86000,
+ "price_history": [
+  {
+   "date": "2026-09-28",
+   "price": 86000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "185",
+  "Modellår": "2006",
+  "Motortillverkare": "Mercruiser",
+  "Motortyp": "Inombordare",
+  "Märke": "Bayliner",
+  "Sittplatser": "8",
+  "Skrovmaterial": "Plast",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26953451",
+ "width_cm": 0,
+ "year": 2006
+}
