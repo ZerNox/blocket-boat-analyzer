@@ -77,6 +77,11 @@
    "price": 125000
   }
  ],
+ "sold": {
+  "date": "2026-09-28",
+  "days_seen": 1,
+  "last_price": 125000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
@@ -92,7 +97,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Hyttbåt"
  },
- "status": "not_in_search",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/25700501",
  "width_cm": 0,
  "year": 1999

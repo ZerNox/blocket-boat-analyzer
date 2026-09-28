@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import datetime as dt
 import random
+import re
 import sys
 import time
 from urllib.parse import parse_qsl, urlencode, urlparse
@@ -140,6 +141,25 @@ def search_models(client: Client, cfg: dict):
         print(f"  model {model}: {hits} ads", file=sys.stderr)
 
 
+def page_status(client: Client, url: str) -> str:
+    """What the ad page says now: 'sold' (SÅLD), 'inactive' (Inaktiv / removed) or 'not_in_search'."""
+    r = client.get(url)
+    if r.status_code in (404, 410):
+        return "inactive"
+    text = re.sub(r"<[^>]+>", " ", r.text)
+    if re.search(r"\bSÅLD\b", text):
+        return "sold"
+    if re.search(r"\bInaktiv\b|Sidan hittades inte", text):
+        return "inactive"
+    return "not_in_search"
+
+
+def _days(first_seen: str | None, today: str) -> int | None:
+    if not first_seen:
+        return None
+    return (dt.date.fromisoformat(today) - dt.date.fromisoformat(first_seen[:10])).days
+
+
 def _now() -> str:
     return dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
 
@@ -209,11 +229,14 @@ def update(cfg: dict, fetch_pages: bool = True, limit: int | None = None) -> dic
 
     for ad in store.all_ads():
         if ad.get("status") == "active" and ad["ad_id"] not in seen_ids:
-            # Sold, removed, or just outside the current search: db/market.jsonl tells which.
-            ad["status"] = "not_in_search"
+            # Sold ("SÅLD"), deactivated ("Inaktiv"), or still for sale but outside the search now.
+            ad["status"] = page_status(client, ad["url"])
             ad["not_in_search_since"] = today
+            if ad["status"] == "sold":
+                ad["sold"] = {"date": today, "last_price": ad.get("price"), "days_seen": _days(ad.get("first_seen"), today)}
             store.save_ad(ad)
             stats["gone"] += 1
+            stats[ad["status"]] = stats.get(ad["status"], 0) + 1
 
     if fetch_pages:
         stats["pages"] = fetch_ad_pages(client, cfg, seen_ids, limit)
