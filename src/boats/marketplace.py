@@ -53,6 +53,7 @@ def import_files(paths: list[Path], cfg: dict) -> dict:
     stats = {"files": 0, "items": 0, "new": 0, "with_text": 0, "not_on_list": 0}
     market.learn_from_store()
     wanted = models_list.families()
+    makes = {f.split()[0] for f in wanted}
     for path in paths:
         data = json.loads(path.read_text())
         if data.get("source") != "facebook-marketplace":
@@ -64,7 +65,12 @@ def import_files(paths: list[Path], cfg: dict) -> dict:
             # Same rule as the auctions: the model is on the cabin list, or its variant code says cabin.
             title_raw = it.get("title") or ""
             family, _ = market.model_keys(title_raw.split()[0] if title_raw else None, None, title_raw)
-            if store.load_ad(aid) is None and not (family in wanted or rules.HULL_CODE_CABIN.search(title_raw)):
+            listed_make = (title_raw.split()[0].lower() if title_raw else "") in makes
+            cabin_title = bool(rules.HULL_CODE_CABIN.search(title_raw) or rules.CABIN_CUE.search(title_raw))
+            on_list = family in wanted or rules.HULL_CODE_CABIN.search(title_raw)
+            # From a "Märke hytt" search the title may lack the model number: a listed make plus a
+            # cabin word in the title is enough ("Örnvik hyttbåt med Suzuki 90").
+            if store.load_ad(aid) is None and not (on_list or (listed_make and cabin_title)):
                 stats["not_on_list"] += 1
                 continue
             ad = store.load_ad(aid)
