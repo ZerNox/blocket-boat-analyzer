@@ -112,6 +112,10 @@ is the search text. The list drives:
   bookmarklet (`site/marketplace-grab.js`) that saves what you're viewing — the cards of a search
   page, or one listing's full text — as a JSON file. `boats import-marketplace` (and the daily
   run, from ~/Hämtningar or ~/Downloads) imports the ones whose model is on the list.
+  `scripts/marketplace-fetch.mjs` can also search automatically (logged out, 40 searches a day
+  rotating through the 275, 8-15 s apart, stopping at any login wall, captcha or block), but it
+  is **off** (`search.marketplace_fetch = false`): turning it on is the owner's call. Needs
+  `npm install` once (Playwright).
 
 ## Daily refresh
 

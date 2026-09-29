@@ -12,6 +12,12 @@ home = { name = "Kungälv", postcode = "44242", lat = 57.871, lon = 11.98 }
 max_km = 300
 # Facebook Marketplace city slug for the model search links on the site.
 marketplace_city = "gothenburg"
+# Automatic Marketplace search (scripts/marketplace-fetch.mjs): logged out, stops at any login wall,
+# captcha or block, pauses 8-15 s between searches. Facebook's robots.txt disallows automated access,
+# so this is OFF by default; set true to run it in the daily job.
+marketplace_fetch = false
+marketplace_max_queries = 40
+marketplace_radius_km = 500
 # Also fetch Klaravik auctions (kept only when the model is on cabin_models.csv).
 klaravik = true
 # Kronofogden web auctions (seized boats), same model-list rule; no fees are added there.

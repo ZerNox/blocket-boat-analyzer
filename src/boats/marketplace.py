@@ -140,3 +140,52 @@ def cached_text(ad: dict) -> dict | None:
         return {"heading": ad.get("heading") or "", "description": "", "specs": {}}
     d = json.loads(p.read_text())
     return {"heading": d["heading"], "description": d["description"], "specs": {}}
+
+
+# --- automatic search (scripts/marketplace-fetch.mjs), off unless search.marketplace_fetch = true ---
+
+SCRIPT = Path(__file__).resolve().parents[2] / "scripts" / "marketplace-fetch.mjs"
+AUTO_DIR = CACHE_DIR / "marketplace-auto"
+
+
+def queries() -> list[str]:
+    """Exact model searches, the same written together, and make + "hytt" (as the site's buttons)."""
+    terms = models_list.search_terms()
+    exact = [f'"{t}"' for t in terms]
+    together = [f'"{re.sub(r"\s+(?=\S*\d)", "", t, count=1)}"' for t in terms if re.search(r"\s\S*\d", t)]
+    makes = sorted({t.split()[0] for t in terms}, key=str.lower)
+    return list(dict.fromkeys(exact + together + [f"{m} hytt" for m in makes]))
+
+
+def fetch(cfg: dict) -> dict:
+    """Run the browser script over today's slice of the searches, then import what it found.
+
+    The searches rotate: each run takes the next `marketplace_max_queries`, so the whole list is
+    covered every few days at a low daily volume.
+    """
+    import subprocess
+
+    scfg = cfg["search"]
+    AUTO_DIR.mkdir(parents=True, exist_ok=True)
+    all_q = queries()
+    state = AUTO_DIR / "offset.txt"
+    offset = int(state.read_text()) if state.exists() else 0
+    n = int(scfg.get("marketplace_max_queries", 40))
+    today_q = [all_q[(offset + i) % len(all_q)] for i in range(min(n, len(all_q)))]
+    qfile = AUTO_DIR / "queries.json"
+    qfile.write_text(json.dumps(today_q, ensure_ascii=False))
+    out = AUTO_DIR / f"marketplace-auto-{dt.date.today().isoformat()}.json"
+    proc = subprocess.run(
+        ["node", str(SCRIPT), str(qfile), str(out), "--city", scfg.get("marketplace_city", "gothenburg"),
+         "--radius", str(scfg.get("marketplace_radius_km", 500)), "--max", str(n)],
+        capture_output=True, text=True, timeout=3600, cwd=SCRIPT.parents[1],
+    )
+    print(proc.stderr[-2000:], file=sys.stderr)
+    if not out.exists():
+        return {"marketplace_fetch": "failed", "error": proc.stderr[-300:]}
+    result = json.loads(out.read_text())
+    done = len(result.get("log", []))
+    state.write_text(str((offset + done) % len(all_q)))
+    stats = import_files([out], cfg)
+    stats.update({"marketplace_queries": done, "marketplace_stopped": result.get("stopped")})
+    return stats
