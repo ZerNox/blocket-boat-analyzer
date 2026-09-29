@@ -301,6 +301,10 @@ def cached_text(ad: dict) -> dict | None:
         from . import kronofogden
 
         return kronofogden.cached_text(ad)
+    if ad.get("source") == "marketplace":
+        from . import marketplace
+
+        return marketplace.cached_text(ad)
     html = store.load_page(ad["ad_id"])
     if html is None:
         return None

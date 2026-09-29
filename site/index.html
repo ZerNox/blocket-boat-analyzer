@@ -98,8 +98,11 @@ button { background: var(--surface); color: var(--accent); border: 1px solid var
 
   <details class="panel" id="mp-panel">
     <summary>Sök listans modeller på Facebook Marketplace</summary>
-    <p class="muted">Marketplace kräver inloggning och kan inte hämtas automatiskt. Knapparna öppnar en sökning per hyttbåtsmodell på listan; ställ in avstånd i Marketplace (det kommer ihåg valet).</p>
+    <p class="muted">Facebook tillåter inte automatisk hämtning. Knapparna öppnar en exakt sökning (hela Sverige) per hyttbåtsmodell på listan.</p>
     <div class="chips" id="mp-links"></div>
+    <p class="muted" style="margin-top:12px">Spara det du hittar: dra knappen <a id="mp-bookmarklet" class="chip" href="#">Spara Marketplace-annonser</a> till bokmärkesfältet.
+      Klicka på den på en sökresultatsida (sparar alla synliga annonser) eller på en annons (sparar hela texten). Filen hamnar i Hämtningar och tas in vid nästa uppdatering,
+      eller direkt med <code>uv run boats import-marketplace</code>.</p>
   </details>
 
   <section class="panel stats" id="stats"></section>
@@ -210,6 +213,7 @@ function card(b, n) {
     .concat(b.red_flags.map((f) => `<span class="chip flag">${FLAG_LABELS[f] || f}</span>`))
     .concat(b.swap_offered ? [`<span class="chip src">byte möjligt</span>`] : [])
     .concat(b.source === "klaravik" ? [`<span class="chip src">Klaravik-auktion</span>`] : [])
+    .concat(b.source === "marketplace" ? [`<span class="chip src">Marketplace</span>`] : [])
     .concat(b.source === "kronofogden" ? [`<span class="chip src" title="Exekutiv försäljning: befintligt skick, ingen ångerrätt">Kronofogden-auktion</span>`] : [])
     .concat(!b.hull_certain ? [`<span class="chip flag" title="Text, båttyp och bilder gav inget säkert besked">typ osäker${b.hull ? (b.hull === "cabin" ? " (trolig hytt)" : " (trolig öppen)") : ""}</span>`]
       : b.hull_source === "bild" ? [`<span class="chip src" title="${esc(b.hull_evidence || "")}">hytt enligt bild</span>`] : [])
@@ -284,7 +288,8 @@ fetch("boats.json").then((r) => r.json()).then((data) => {
     `Källkod: <a href="https://github.com/ZerNox/blocket-boat-analyzer">github.com/ZerNox/blocket-boat-analyzer</a>. Inte ansluten till Blocket. ` +
     `Postnummer: <a href="https://www.geonames.org/">GeoNames</a> (CC BY 4.0).`;
   $("mp-links").innerHTML = (data.models || []).map((m) =>
-    `<a class="chip" target="_blank" rel="noopener" title="${m.ads} annonser på Blocket, ${esc(m.years || "")}" href="https://www.facebook.com/marketplace/${esc(data.marketplace_city)}/search?query=${encodeURIComponent(m.search)}">${esc(m.search)}</a>`).join("");
+    `<a class="chip" target="_blank" rel="noopener" title="${m.ads} annonser på Blocket, ${esc(m.years || "")}" href="https://www.facebook.com/marketplace/category/search/?query=${encodeURIComponent(`"${m.search}"`)}">${esc(m.search)}</a>`).join("");
+  if (data.bookmarklet) $("mp-bookmarklet").setAttribute("href", data.bookmarklet);
   $("mp-panel").querySelector("summary").textContent = `Sök listans ${(data.models || []).length} hyttbåtsmodeller på Facebook Marketplace`;
   if (data.max_km) $("max-km").value = data.max_km;
   if (data.profile?.max_price) $("max-price").value = data.profile.max_price;

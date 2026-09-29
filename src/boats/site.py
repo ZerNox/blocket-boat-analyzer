@@ -5,6 +5,7 @@ from __future__ import annotations
 import datetime as dt
 import json
 import shutil
+from urllib.parse import quote
 from pathlib import Path
 
 from . import models_list, rank, store
@@ -26,6 +27,7 @@ def build(cfg: dict, out: Path) -> dict:
     out.mkdir(parents=True, exist_ok=True)
     shutil.copy(ROOT / "site" / "index.html", out / "index.html")
     shutil.copy(ROOT / "site" / "postnummer.json", out / "postnummer.json")
+    code = "\n".join(l for l in (ROOT / "site" / "marketplace-grab.js").read_text().splitlines() if not l.lstrip().startswith("//"))
     payload = {
         "generated": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat(),
         "search_url": cfg["search"]["url"],
@@ -36,6 +38,7 @@ def build(cfg: dict, out: Path) -> dict:
         "models": [{"search": r["search"], "ads": int(r.get("ads") or 0), "years": r.get("years")}
                    for r in models_list.load()],
         "marketplace_city": cfg["search"].get("marketplace_city", "gothenburg"),
+        "bookmarklet": "javascript:" + quote(code, safe=""),
         "coverage": coverage,
         "model": model,
         "boats": ranked,

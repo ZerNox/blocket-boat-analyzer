@@ -340,3 +340,12 @@ def test_motor_saknas_means_no_engine():
 def test_kronofogden_phrases():
     flags = rules.extract_red_flags("Inte startad eller funktionstestad av Kronofogden. Iakttagna brister: Skador på båt i fören.")
     assert "untested" in flags and "damage" in flags
+
+
+@pytest.mark.parametrize(
+    "text,expected",
+    [("Flipper 575 HT med Yamaha F60", "outboard"), ("Uttern med Suzuki DF50", "outboard"), ("Evinrude E-TEC 90", "outboard"),
+     ("Mercury 90 hk fyrtakt", "outboard"), ("Mercury 90", None), ("Yamaha vattenskoter", None)],
+)
+def test_outboard_by_make_or_code(text, expected):
+    assert rules.extract_engine_type("Båt", text, {}, None)["engine_type"] == expected

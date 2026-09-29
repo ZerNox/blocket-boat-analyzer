@@ -107,7 +107,11 @@ is the search text. The list drives:
   list or the variant code says cabin (DC/HT/MC/PH/WA). No fees are added; the listed defects and
   "not started or tested" become red flags.
 - **Facebook Marketplace**: robots.txt disallows all automated access (`Disallow: /`) and
-  Meta's terms prohibit collection, so the site shows one search link per model instead.
+  Meta's terms prohibit collection, so nothing here fetches from Facebook. The site has an exact,
+  nationwide search link per model (`/marketplace/category/search/?query="Örnvik 575"`) and a
+  bookmarklet (`site/marketplace-grab.js`) that saves what you're viewing — the cards of a search
+  page, or one listing's full text — as a JSON file. `boats import-marketplace` (and the daily
+  run, from ~/Hämtningar or ~/Downloads) imports the ones whose model is on the list.
 
 ## Daily refresh
 

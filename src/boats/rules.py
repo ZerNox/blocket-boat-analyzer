@@ -72,6 +72,13 @@ INBOARD_CUE = re.compile(
     r"volvo\s*penta\s*(?:md|aq|d\d)|dieselmotor\w*|jet-?drift)\b",
     re.I,
 )
+# Makes that only build outboards, and outboard model codes. Mercury also makes inboards (MerCruiser),
+# so a bare "Mercury 90" only counts with a code (F90, Optimax, Verado) or a two/four-stroke mention.
+OUTBOARD_MODEL = re.compile(
+    r"\b(?:yamaha|suzuki|honda|tohatsu|evinrude|johnson|mariner|selva|parsun|hidea)\b(?!\s+(?:vattenskoter|waverunner|jet))"
+    r"|\b(?:f|df|bf|ft)\s?\d{2,3}[a-z]{0,4}\b|\be-?tec\b|\boptimax\b|\bverado\b|\bmercury\s+\d{1,3}\s*(?:hk|hp)?\s*(?:efi\s*)?(?:[24]-?takt|fyrtakt|tvåtakt)",
+    re.I,
+)
 OUTBOARD_CUE = re.compile(r"\b(?:utombordare\w*|utombordsmotor\w*|aktersnurra\w*|utombords)\b", re.I)
 
 # Equipment: item -> (positive pattern, excluded prefixes)
@@ -339,6 +346,10 @@ def extract_engine_type(heading: str, description: str, specs: dict, search_moto
         return {"engine_type": declared_norm, "source": "rule:spec", "needs_llm": False}
     if outb and not inb:
         return {"engine_type": "outboard", "source": "rule:text", "needs_llm": False, "evidence": _around(text, outb.start())}
+    ob_model = OUTBOARD_MODEL.search(text)
+    if ob_model and not inb:
+        # "Yamaha F60", "Suzuki DF50", "Evinrude E-TEC": these makes/codes are outboards
+        return {"engine_type": "outboard", "source": "rule:model", "needs_llm": False, "evidence": _around(text, ob_model.start())}
     if inb and not outb:
         return {"engine_type": "inboard", "source": "rule:text", "needs_llm": False, "evidence": _around(text, inb.start())}
     return {"engine_type": None, "source": None, "needs_llm": True, "reason": "engine type unknown"}

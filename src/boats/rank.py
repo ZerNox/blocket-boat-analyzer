@@ -38,8 +38,10 @@ def eligible(ad: dict, cfg: dict) -> bool:
     if ext.get("hull") == "open" and ext.get("hull_certain"):
         return False  # certainly an open console boat; uncertain ones stay in, marked
     if cfg["ranking"]["outboard_only"] and ext.get("engine_type") != "outboard":
-        return False
-    if ad.get("source") in ("klaravik", "kronofogden"):
+        # A Marketplace card saved from a search page has only a title: keep it unless it's clearly inboard.
+        if not (ad.get("source") == "marketplace" and ext.get("engine_type") is None):
+            return False
+    if ad.get("source") in ("klaravik", "kronofogden", "marketplace"):
         cap = dict(parse_qsl(urlparse(cfg["search"]["url"]).query)).get("price_to")
         if cap and ad["price"] > float(cap):
             return False
