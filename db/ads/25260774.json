@@ -89,6 +89,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-29",
  "page": {
   "description_chars": 357,
   "fetched_ts": 1790522954295,
@@ -112,7 +113,7 @@
   "Märke": "Regal",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25260774",
  "width_cm": 0,
  "year": 1988

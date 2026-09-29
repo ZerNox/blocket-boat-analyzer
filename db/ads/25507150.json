@@ -25,6 +25,10 @@
     "included": true
    }
   },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Clear view of open cockpit with no enclosed cabin or hatch visible.",
+  "hull_source": "bild",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -32,6 +36,9 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "AMT 185"
+ ],
  "heading": "AMT 185 R 2019 – Suzuki DF80A – ca 70 timmar – Trailer ingår",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25507150/b9be9ff5-2427-43ed-b95e-6f8000733f42",
  "image_urls": [
@@ -43,7 +50,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25507150/88e863b2-0e4f-4a58-a954-63b18a054a08",
   "https://images.blocketcdn.se/dynamic/default/item/25507150/0901029a-8d17-406d-a47d-4bd82f978a08"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 59.81,
  "length_ft": 18,
  "location": "Vätö",
@@ -82,8 +89,21 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/25507150",
+ "vision": {
+  "at": "2026-09-29",
+  "images_sha": "1648b3f7c6496ecf",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "Clear view of open cockpit with no enclosed cabin or hatch visible.",
+   "hull_photo": 3
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 224,
  "year": 2019
 }

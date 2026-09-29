@@ -33,6 +33,10 @@
     "included": true
    }
   },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space, open cockpit with seating and console visible.",
+  "hull_source": "bild",
   "llm_reasons": [
    "spec says no engine but text describes one"
   ],
@@ -42,6 +46,9 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "Ryds 600"
+ ],
  "heading": "Ryds 600 gt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26187663/9c224e40-f7b0-4d59-b9ed-221a59c075d1",
  "image_urls": [
@@ -59,7 +66,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26187663/bc1ead42-d6dd-4325-b568-74f422da66b2",
   "https://images.blocketcdn.se/dynamic/default/item/26187663/8fda65f3-0073-4790-b212-37bfb98e7d0e"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 58.03,
  "length_ft": 20,
  "llm": {
@@ -119,8 +126,21 @@
   "Märke": "Ryds",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26187663",
+ "vision": {
+  "at": "2026-09-29",
+  "images_sha": "feadac575925c30c",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed space, open cockpit with seating and console visible.",
+   "hull_photo": 9
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 0,
  "year": 1998
 }

@@ -12,8 +12,8 @@
   "engine_maker": "Evinrude E-Tec",
   "engine_stroke": 2,
   "engine_type": "outboard",
-  "engine_type_evidence": null,
-  "engine_type_source": "llm",
+  "engine_type_evidence": "ött Sandström 560MC med 60 HK Evinrude E-Tec med få gångtimmar. 1 ägare. Båten årsmodell -16, inköpt -17 från VallenMari",
+  "engine_type_source": "rule:model",
   "engine_year": 2018,
   "engine_year_est": null,
   "engine_year_est_reason": null,
@@ -29,10 +29,8 @@
   "hull_certain": true,
   "hull_evidence": "Sandström 560MC m 60 Hk - Höstpris",
   "hull_source": "rule:model",
-  "llm_reasons": [
-   "engine type unknown"
-  ],
-  "needs_llm": true,
+  "llm_reasons": [],
+  "needs_llm": false,
   "red_flags": [],
   "rules_version": 8,
   "swap_offered": false
@@ -56,7 +54,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26630043/65187831-078c-4b5f-b81c-03324a2c2f86",
   "https://images.blocketcdn.se/dynamic/default/item/26630043/2bfe64d9-857d-4f18-b513-4e4e24fdbc4e"
  ],
- "last_seen": "2026-09-28T19:51:27+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 59.84,
  "length_ft": 19,
  "llm": {

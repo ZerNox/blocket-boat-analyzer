@@ -1,0 +1,130 @@
+{
+ "ad_id": 26744581,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789908092000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2003,
+  "boat_year_source": "spec",
+  "engine_hours": 90,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2003,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "ekolod 2 axlad mycket robust 30 kärra.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "ekolod 2 axlad mycket robust 30 kärra.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "fint skick. \nalla dynor I ruff och sittbrunn är hela och fina. \nteak detaler är ny slipat och oljat. \nbåte",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-29T04:08:01+00:00",
+ "found_by": [
+  "Uttern D55"
+ ],
+ "heading": "Uttern d55 honda 100hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26744581/8fbc152e-5749-4503-9812-a903d484de2f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26744581/8fbc152e-5749-4503-9812-a903d484de2f",
+  "https://images.blocketcdn.se/dynamic/default/item/26744581/a2463d61-f1a6-40a6-88dc-964159649a7d",
+  "https://images.blocketcdn.se/dynamic/default/item/26744581/7342c4fe-c041-4f29-994a-9e27fde5fbe1",
+  "https://images.blocketcdn.se/dynamic/default/item/26744581/4004b071-e29f-4d00-930a-6479dd664d94",
+  "https://images.blocketcdn.se/dynamic/default/item/26744581/b12a5a06-771d-45a2-a025-a92745e384e9",
+  "https://images.blocketcdn.se/dynamic/default/item/26744581/4617f392-f878-4b11-aa91-39fa65f3dee4"
+ ],
+ "last_seen": "2026-09-29T04:08:01+00:00",
+ "lat": 60.6,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-29",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2003,
+   "engine_hours": 90,
+   "engine_hp": 100,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "motorn har bara gått ca 90 timmar och är som ny.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "383c15d40690eddd"
+ },
+ "location": "Falun",
+ "lon": 15.76,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 467,
+  "fetched_ts": 1790655100063,
+  "text_sha": "383c15d40690eddd"
+ },
+ "price": 149000,
+ "price_history": [
+  {
+   "date": "2026-09-29",
+   "price": 149000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "D55",
+  "Modellår": "2003",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26744581",
+ "width_cm": 0,
+ "year": 2003
+}

@@ -7,8 +7,8 @@
   "boat_year": 2019,
   "boat_year_source": "spec",
   "engine_hours": null,
-  "engine_hp": 75,
-  "engine_hp_source": "llm",
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
@@ -19,7 +19,20 @@
   "engine_year_est_reason": "Evinrude utan E-TEC tillverkades till 2007",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "ekolod": {
+    "evidence": "dubbla garmin 92 ekolod.",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "hydraulstyrning.",
+    "included": true
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space, only open cockpit and console visible.",
+  "hull_source": "bild",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -29,6 +42,9 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Sting 600"
+ ],
  "heading": "Sting 600 PRO",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26207153/b591c3c8-17a0-4227-b69c-b8c5a9fa52f4",
  "image_urls": [
@@ -42,11 +58,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26207153/f17b0f8a-3209-4161-890e-3af42b858790",
   "https://images.blocketcdn.se/dynamic/default/item/26207153/95eff033-3dbf-4428-9348-306077aee641"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 65.6,
  "length_ft": 20,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-29",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2019,
@@ -55,22 +71,27 @@
    "engine_maker": "Evinrude",
    "engine_type": "outboard",
    "engine_year": null,
-   "engine_year_evidence": null,
+   "engine_year_evidence": "evinrude 75hk som går bra, körd på orginalolja och filter/olja är bytt varje år.",
    "equipment": {
-    "ekolod": "not_mentioned",
+    "ekolod": "included",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
-    "hydraulstyrning": "not_mentioned",
+    "hydraulstyrning": "included",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
-    "plotter": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "f6a4803504bb2538"
+  "text_sha": "2b43a7456005c345"
  },
  "location": "Luleå",
  "lon": 22.12,
@@ -106,8 +127,21 @@
   "Toppfart": "30 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26207153",
+ "vision": {
+  "at": "2026-09-29",
+  "images_sha": "86ca6435ca4fe99f",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed space, only open cockpit and console visible.",
+   "hull_photo": 2
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 230,
  "year": 2019
 }

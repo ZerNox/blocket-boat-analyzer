@@ -47,7 +47,8 @@
  },
  "first_seen": "2026-09-27T14:48:38+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Grisslan 640"
  ],
  "heading": "Grisslan 640 AC",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25974085/e6813922-7b47-41db-8fda-17246a45aec4",
@@ -62,7 +63,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25974085/93f702e4-26bc-445b-a2ca-067d134a34ac",
   "https://images.blocketcdn.se/dynamic/default/item/25974085/abfa8290-6f3e-4c9b-af74-adb462473bbe"
  ],
- "last_seen": "2026-09-28T19:51:27+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 59.23,
  "length_ft": 21,
  "llm": {

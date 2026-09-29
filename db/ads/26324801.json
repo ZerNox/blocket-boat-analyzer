@@ -1,0 +1,116 @@
+{
+ "ad_id": 26324801,
+ "boat_class": "Bowrider",
+ "changed_ts": 1788600724000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2017,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2018,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Suzuki 100 hk 2018",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin 721xs kartplotter/ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin 721xs kartplotter/ekolod",
+    "included": true
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space visible, all seating is open-air.",
+  "hull_source": "bild",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-29T04:08:01+00:00",
+ "found_by": [
+  "AMT 185"
+ ],
+ "heading": "AMT 185R 2017 | Suzuki 100 hk 2018 | Endast 94 motortimmar | Mycket fint skick",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26324801/e5368641-d353-4f14-8b43-b63076cd09eb",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26324801/e5368641-d353-4f14-8b43-b63076cd09eb",
+  "https://images.blocketcdn.se/dynamic/default/item/26324801/e7770570-2984-484c-88d9-1ca3e06db592",
+  "https://images.blocketcdn.se/dynamic/default/item/26324801/e3d24578-1641-4520-9db2-56df12d33b0c",
+  "https://images.blocketcdn.se/dynamic/default/item/26324801/7d7b7eed-f9c3-46b8-b33f-1ed435fffed2",
+  "https://images.blocketcdn.se/dynamic/default/item/26324801/531990db-d4ce-49ff-b4ee-d917c0216570",
+  "https://images.blocketcdn.se/dynamic/default/item/26324801/4fff5b6e-9b4e-437d-b9ac-9135ad68f891",
+  "https://images.blocketcdn.se/dynamic/default/item/26324801/acfe55cb-4d95-40f2-a476-0b9813ffe0aa",
+  "https://images.blocketcdn.se/dynamic/default/item/26324801/fa21d9c9-71fa-4282-896c-6ab31e8a3ae9",
+  "https://images.blocketcdn.se/dynamic/default/item/26324801/90296dd0-c133-4479-8d30-d946a87eadba"
+ ],
+ "last_seen": "2026-09-29T04:08:01+00:00",
+ "lat": 58.8,
+ "length_ft": 19,
+ "location": "Nyköping",
+ "lon": 17.12,
+ "make": "AMT",
+ "max_speed": 38,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 190,
+  "fetched_ts": 1790655094529,
+  "text_sha": "c94dd6257c4f45d8"
+ },
+ "price": 230000,
+ "price_history": [
+  {
+   "date": "2026-09-29",
+   "price": 230000
+  }
+ ],
+ "specs": {
+  "Bredd": "224 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "185R",
+  "Modellår": "2017",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "AMT",
+  "Sittplatser": "8",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "38 knop",
+  "Typ": "Bowrider",
+  "Vikt": "630 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26324801",
+ "vision": {
+  "at": "2026-09-29",
+  "images_sha": "9397695d88f2d5a2",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed space visible, all seating is open-air.",
+   "hull_photo": 5
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 224,
+ "year": 2017
+}

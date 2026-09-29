@@ -12,8 +12,8 @@
   "engine_maker": null,
   "engine_stroke": null,
   "engine_type": "outboard",
-  "engine_type_evidence": null,
-  "engine_type_source": "llm",
+  "engine_type_evidence": "ler är en kraftig 30km Motor: Mariner 45hp, 4cylinder, ny impeller, nya stift och olja. ny cdi-box. Gått mycket lite och",
+  "engine_type_source": "rule:model",
   "engine_year": null,
   "engine_year_est": 1980,
   "engine_year_est_reason": "antar originalmotor",
@@ -31,7 +31,6 @@
   "hull_evidence": "Superfin kabinbåt\nSäljes med trailer och motor.\nTrailer är en kraftig 30km\nMotor: Mariner",
   "hull_source": "rule:text",
   "llm_reasons": [
-   "engine type unknown",
    "no engine year found"
   ],
   "needs_llm": true,
@@ -55,7 +54,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26771982/962723de-f71d-4fe9-b36a-393324350eb9",
   "https://images.blocketcdn.se/dynamic/default/item/26771982/363afecc-c516-43b2-86bd-4b77dc69b90e"
  ],
- "last_seen": "2026-09-28T19:51:27+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 55.44,
  "length_ft": 18,
  "llm": {

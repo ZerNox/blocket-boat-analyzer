@@ -1,0 +1,125 @@
+{
+ "ad_id": 26629075,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1789545382000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1999,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "en smart planlösning med styrpulpet, vindruta som skyddar bra mot vind och stänk, samt goda förvaringsutr",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-29T04:08:01+00:00",
+ "found_by": [
+  "Flipper 510"
+ ],
+ "heading": "Flipper 510 med yamaha 90hk – Välutrustad och redo för sjön",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26629075/0ff76c9d-2f8a-422b-8e01-275ce5a20e59",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26629075/0ff76c9d-2f8a-422b-8e01-275ce5a20e59",
+  "https://images.blocketcdn.se/dynamic/default/item/26629075/8596c0ad-adef-4b22-94e8-f68a00e6e2c4",
+  "https://images.blocketcdn.se/dynamic/default/item/26629075/b7734fc0-d5fa-4275-99c1-c7b5ab83c185",
+  "https://images.blocketcdn.se/dynamic/default/item/26629075/f8bcc396-f343-4e40-9dc2-430cf9e8b817",
+  "https://images.blocketcdn.se/dynamic/default/item/26629075/5d242b0c-e7a2-438b-81cb-8735d1079678",
+  "https://images.blocketcdn.se/dynamic/default/item/26629075/dba93bcd-cef5-48c9-9431-9b92373434fe"
+ ],
+ "last_seen": "2026-09-29T04:08:01+00:00",
+ "lat": 57.93,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-29",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1999,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "1ce915a27d4dd14b"
+ },
+ "location": "Kode",
+ "lon": 11.76,
+ "make": "Flipper",
+ "max_speed": 34,
+ "motor_fuel": null,
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 415,
+  "fetched_ts": 1790655098553,
+  "text_sha": "1ce915a27d4dd14b"
+ },
+ "price": 69000,
+ "price_history": [
+  {
+   "date": "2026-09-29",
+   "price": 69000
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "Vit/blå",
+  "Längd i fot": "17 fot",
+  "Modell": "510",
+  "Modellår": "1999",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "34 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26629075",
+ "width_cm": 200,
+ "year": 1999
+}

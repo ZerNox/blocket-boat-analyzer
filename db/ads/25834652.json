@@ -20,6 +20,10 @@
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {},
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Boat has open cockpit, no roof or enclosed cabin visible.",
+  "hull_source": "bild",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -29,6 +33,9 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Örnvik 510"
+ ],
  "heading": "Örnvik 510 Mariner 50",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25834652/a90a17a6-ed62-4552-a6cd-a8cb8f2b769e",
  "image_urls": [
@@ -37,7 +44,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25834652/9a8c6a30-97fc-44a5-84b7-2369827f76b7",
   "https://images.blocketcdn.se/dynamic/default/item/25834652/f5bcc3b2-b139-4b91-aee9-c6d52ef595db"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 64.31,
  "length_ft": 17,
  "llm": {
@@ -99,8 +106,21 @@
   "Sovplatser": "2",
   "Typ": "Styrpulpetbåt"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/25834652",
+ "vision": {
+  "at": "2026-09-29",
+  "images_sha": "e6bc56d8549df7bd",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "Boat has open cockpit, no roof or enclosed cabin visible.",
+   "hull_photo": 1
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 0,
  "year": 1980
 }

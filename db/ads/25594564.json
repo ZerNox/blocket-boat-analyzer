@@ -1,0 +1,130 @@
+{
+ "ad_id": 25594564,
+ "boat_class": "Annat",
+ "changed_ts": 1786383932000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Garmin plotter från 2024",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Bromsad 80 kmh trailer från 2025 ingår",
+    "included": true,
+    "kmh": 80,
+    "year": 2025
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Yamarin 59 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-29T04:08:01+00:00",
+ "found_by": [
+  "Yamarin 59"
+ ],
+ "heading": "Yamarin 59 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25594564/ef2fbee9-7742-4945-a0e2-fe9b34a1c8e4",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25594564/ef2fbee9-7742-4945-a0e2-fe9b34a1c8e4",
+  "https://images.blocketcdn.se/dynamic/default/item/25594564/6e7a0c21-4b08-4f29-90b9-82d0fc7c0009",
+  "https://images.blocketcdn.se/dynamic/default/item/25594564/4bc18237-be7a-4720-a4bc-9f95ddc1a63d",
+  "https://images.blocketcdn.se/dynamic/default/item/25594564/77902b13-1211-4469-95f0-2c0edfed7b21",
+  "https://images.blocketcdn.se/dynamic/default/item/25594564/c820c597-779f-45e9-835f-da7f259be2c5",
+  "https://images.blocketcdn.se/dynamic/default/item/25594564/f54c8382-9c98-4795-8725-0d3183112a68",
+  "https://images.blocketcdn.se/dynamic/default/item/25594564/1902c354-db03-45d6-b0b3-634d173794f7"
+ ],
+ "last_seen": "2026-09-29T04:08:01+00:00",
+ "lat": 59.95,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-29",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2007,
+   "engine_hours": null,
+   "engine_hp": 100,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "excluded",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "abda70e8f0002603"
+ },
+ "location": "Knutby",
+ "lon": 18.3,
+ "make": "Yamarin",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 210,
+  "fetched_ts": 1790655091620,
+  "text_sha": "abda70e8f0002603"
+ },
+ "price": 205000,
+ "price_history": [
+  {
+   "date": "2026-09-29",
+   "price": 205000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modell": "59 HT",
+  "Modellår": "2007",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25594564",
+ "width_cm": 0,
+ "year": 2007
+}

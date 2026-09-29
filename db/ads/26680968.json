@@ -12,22 +12,20 @@
   "engine_maker": null,
   "engine_stroke": 4,
   "engine_type": "outboard",
-  "engine_type_evidence": null,
-  "engine_type_source": "llm",
+  "engine_type_evidence": "Grisslan 600 AC (1976) med Mercury 60 hk 4-takt (2018) Klassisk och robust Grisslan 600 AC med akterhytt med modern M",
+  "engine_type_source": "rule:model",
   "engine_year": 2018,
   "engine_year_est": null,
   "engine_year_est_reason": null,
   "engine_year_evidence": "Grisslan 600 AC (1976) med Mercury 60 hk 4-takt (2018).",
-  "engine_year_source": "rule:text+llm",
+  "engine_year_source": "rule:text",
   "equipment": {},
   "hull": "cabin",
   "hull_certain": true,
   "hull_evidence": "obust Grisslan 600 AC med akterhytt med modern Mercury 60 hk fyrtaktsmotor från 2018. Ett bra alternativ f",
   "hull_source": "rule:text",
-  "llm_reasons": [
-   "engine type unknown"
-  ],
-  "needs_llm": true,
+  "llm_reasons": [],
+  "needs_llm": false,
   "red_flags": [],
   "rules_version": 8,
   "swap_offered": false
@@ -47,7 +45,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26680968/96abcaa5-cd11-4c93-a449-96cf53ff66ed",
   "https://images.blocketcdn.se/dynamic/default/item/26680968/98de5f89-31d1-4f9a-9df8-ef2bb658a2ee"
  ],
- "last_seen": "2026-09-28T19:51:27+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 59.71,
  "length_ft": 20,
  "llm": {

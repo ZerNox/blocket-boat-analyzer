@@ -19,7 +19,20 @@
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
-  "equipment": {},
+  "equipment": {
+   "kapell": {
+    "evidence": "kapellet är lite slitet.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Raymarine Dragonfly 7 \" plotter.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 510HT Honda 50hk 4-takt",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -29,6 +42,9 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Flipper 510"
+ ],
  "heading": "Flipper 510HT Honda 50hk 4-takt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26271764/6603725c-aae5-4263-a92f-c1000a3edf9a",
  "image_urls": [
@@ -38,11 +54,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26271764/836deb0a-e65a-471c-8cf9-a49bc9332d19",
   "https://images.blocketcdn.se/dynamic/default/item/26271764/0c86975e-5d36-491a-89d7-fa3a282cc7c0"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 59.77,
  "length_ft": 18,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-29",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1977,
@@ -57,16 +73,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
-    "kapell": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "excluded",
     "landstrom": "not_mentioned",
-    "plotter": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "0ecf8aaf60489c98"
+  "text_sha": "000988eff012e289"
  },
  "location": "Norrtälje",
  "lon": 18.72,
@@ -104,7 +125,7 @@
   "Toppfart": "28 knop",
   "Typ": "Annat"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26271764",
  "width_cm": 0,
  "year": 1977

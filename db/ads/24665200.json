@@ -44,7 +44,8 @@
  },
  "first_seen": "2026-09-27T15:26:08+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Suvi 5050"
  ],
  "heading": "Suvi 5050 duo",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24665200/4a4a0500-ec00-4a61-90d6-b380e64b97cd",
@@ -62,7 +63,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/24665200/d301d186-a3b8-43ab-9503-b281736bbc42",
   "https://images.blocketcdn.se/dynamic/default/item/24665200/d636dd19-21b9-481d-b980-fa191b420325"
  ],
- "last_seen": "2026-09-28T19:51:27+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 59.17,
  "length_ft": 17,
  "llm": {

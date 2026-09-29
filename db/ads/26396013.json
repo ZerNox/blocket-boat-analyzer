@@ -32,8 +32,16 @@
     "evidence": "fin och stabil 30km/h kärra Medföljer även lås, kätting , tampar, ankare osv Bvsa",
     "included": true,
     "kmh": 30
+   },
+   "varmare": {
+    "evidence": "Äldre par som haft båten i 20 år innan vi tog över den.underhåll och forvaring till en marina samtidig som den inte anv…",
+    "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [
    "ambiguous engine years [1990, 2024]"
   ],
@@ -43,6 +51,9 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "Flipper 620"
+ ],
  "heading": "Flipper 620",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26396013/796d8356-4257-4729-b246-cc388e94aa2e",
  "image_urls": [
@@ -60,7 +71,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26396013/abfc8187-1acf-4a5e-beae-6b53c951594f",
   "https://images.blocketcdn.se/dynamic/default/item/26396013/b9bd2bf4-8ff9-4182-af9e-96d87cd7324c"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 58.24,
  "length_ft": 30,
  "llm": {
@@ -124,7 +135,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "850 kg"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26396013",
  "width_cm": 0,
  "year": 1980

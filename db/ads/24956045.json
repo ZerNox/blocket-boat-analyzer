@@ -51,7 +51,8 @@
  },
  "first_seen": "2026-09-27T15:26:08+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Örnvik 510"
  ],
  "heading": "Örnvik 510 med rätt motor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24956045/84c7546c-5ba3-4abe-afd1-a74d1923618a",
@@ -63,7 +64,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/24956045/6fe2aee1-e767-4b01-bd37-a3f65633b52b",
   "https://images.blocketcdn.se/dynamic/default/item/24956045/b4c6fcba-ccf6-480f-9e5a-fd411869ee5c"
  ],
- "last_seen": "2026-09-28T19:51:27+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 60.26,
  "length_ft": 17,
  "llm": {

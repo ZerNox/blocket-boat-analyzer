@@ -80,7 +80,8 @@
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Bella 581"
  ],
  "heading": "Kabinbåt Bella 581",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26245700/1f0faf51-ec5b-480d-b957-22ed26cf2077",
@@ -93,7 +94,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26245700/4942cf1b-be1f-47f1-87e8-d3f9f293ad37",
   "https://images.blocketcdn.se/dynamic/default/item/26245700/f6354bd5-0d25-4e94-90f4-2c5bf393c182"
  ],
- "last_seen": "2026-09-28T19:51:27+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 58.14,
  "length_ft": 19,
  "llm": {

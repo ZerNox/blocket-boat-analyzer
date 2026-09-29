@@ -44,7 +44,8 @@
  },
  "first_seen": "2026-09-27T15:26:08+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Örnvik 565"
  ],
  "heading": "Örnvik 565 HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25271637/1a963023-cded-4c71-b5ce-0ad651be56df",
@@ -54,7 +55,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25271637/cc83817c-e1a2-4584-a99f-dad627e8e620",
   "https://images.blocketcdn.se/dynamic/default/item/25271637/044c72e2-7c28-4da2-808b-77efea8cd47f"
  ],
- "last_seen": "2026-09-28T19:51:27+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 65.6,
  "length_ft": 19,
  "llm": {

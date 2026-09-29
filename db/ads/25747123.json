@@ -39,7 +39,8 @@
  },
  "first_seen": "2026-09-27T15:26:08+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Örnvik 510"
  ],
  "heading": "Örnvik 510 HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25747123/1840801a-5ae4-4829-8989-b846bc62e5c5",
@@ -54,7 +55,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25747123/81f731d0-79af-4e9b-89ed-1c68a9734649",
   "https://images.blocketcdn.se/dynamic/default/item/25747123/ce68c8ce-fce2-4fbb-8fea-696cce5b0355"
  ],
- "last_seen": "2026-09-28T19:51:27+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 59.3,
  "length_ft": 17,
  "llm": {

@@ -12,8 +12,8 @@
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
-  "engine_type_evidence": null,
-  "engine_type_source": "llm",
+  "engine_type_evidence": "4000kr Uttern 590 i bra skick Yamaha 90hk årsmodell 2000 Nytt kapell 2025, gamla medföljer Ny trim o tilt motor 2025 Ind",
+  "engine_type_source": "rule:model",
   "engine_year": 2000,
   "engine_year_est": 1979,
   "engine_year_est_reason": "antar originalmotor",
@@ -38,7 +38,6 @@
   "hull_evidence": "Båttyp: Kabinbåt",
   "hull_source": "rule:spec",
   "llm_reasons": [
-   "engine type unknown",
    "ambiguous engine years [2000, 2025]"
   ],
   "needs_llm": true,
@@ -61,7 +60,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25793332/2c8bd35d-2597-4814-91d2-59c08d4071b9",
   "https://images.blocketcdn.se/dynamic/default/item/25793332/4d341195-9622-452f-8ae5-b3bda7bb60dc"
  ],
- "last_seen": "2026-09-28T19:51:27+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 55.94,
  "length_ft": 19,
  "llm": {

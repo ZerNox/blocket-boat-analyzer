@@ -1,0 +1,145 @@
+{
+ "ad_id": 25327925,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1787499294000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1974,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mariner",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1974,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Raymarine Element 7Hv ekolod/plotter",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Raymarine Element 7Hv ekolod/plotter",
+    "included": true
+   },
+   "solpanel": {
+    "evidence": "solpanel,ankare,fendrar,båthake.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Neptun navy 759 obromsad 80 kärra",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 510 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-29T04:08:01+00:00",
+ "found_by": [
+  "Örnvik 510"
+ ],
+ "heading": "Örnvik 510 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25327925/8abd7c04-95dd-4d8c-ada4-51a36594fa37",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25327925/8abd7c04-95dd-4d8c-ada4-51a36594fa37",
+  "https://images.blocketcdn.se/dynamic/default/item/25327925/37f0a710-0194-4c01-9dca-c592e32f4093",
+  "https://images.blocketcdn.se/dynamic/default/item/25327925/2026b209-e6bb-46b4-a5cc-e9b95f140dca",
+  "https://images.blocketcdn.se/dynamic/default/item/25327925/600a0bc7-c127-496f-a5fc-5e83e381df4c",
+  "https://images.blocketcdn.se/dynamic/default/item/25327925/1869207b-b646-4711-b869-b6a029dc02bc",
+  "https://images.blocketcdn.se/dynamic/default/item/25327925/ae6c53d5-f897-471e-87d7-6442a1c01573",
+  "https://images.blocketcdn.se/dynamic/default/item/25327925/20dc8f41-6d9b-438a-856d-c5101f27a494",
+  "https://images.blocketcdn.se/dynamic/default/item/25327925/2b244ab6-ec25-4222-81c4-ee8e865e92b9"
+ ],
+ "last_seen": "2026-09-29T04:08:01+00:00",
+ "lat": 58.57,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-29",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1974,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mariner 4takt 40hk går fint.",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "included",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b95fda7ba6ff1e46"
+ },
+ "location": "Stigen",
+ "lon": 12.07,
+ "make": "Örnvik",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 307,
+  "fetched_ts": 1790655090075,
+  "text_sha": "b95fda7ba6ff1e46"
+ },
+ "price": 43000,
+ "price_history": [
+  {
+   "date": "2026-09-29",
+   "price": 43000
+  }
+ ],
+ "specs": {
+  "Bredd": "192 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "25 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "510",
+  "Modellår": "1974",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "400 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25327925",
+ "width_cm": 192,
+ "year": 1974
+}

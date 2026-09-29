@@ -1,0 +1,119 @@
+{
+ "ad_id": 26595561,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1789409368000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1976,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 510ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-29T04:08:01+00:00",
+ "found_by": [
+  "Örnvik 510"
+ ],
+ "heading": "Örnvik 510ht",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26595561/328e43c5-9410-4152-ab58-5ca63cb5a40c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26595561/328e43c5-9410-4152-ab58-5ca63cb5a40c",
+  "https://images.blocketcdn.se/dynamic/default/item/26595561/11846088-9e0c-4013-9c89-4a98d0d6a7a0",
+  "https://images.blocketcdn.se/dynamic/default/item/26595561/2630dc5d-bd45-4264-a634-49cdacbe7ed1"
+ ],
+ "last_seen": "2026-09-29T04:08:01+00:00",
+ "lat": 61.31,
+ "length_ft": 16,
+ "llm": {
+  "at": "2026-09-29",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1976,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "b50ebe6f20b5d96a"
+ },
+ "location": "Söderhamn",
+ "lon": 16.77,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 486,
+  "fetched_ts": 1790655097039,
+  "text_sha": "b50ebe6f20b5d96a"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-09-29",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "16 fot",
+  "Modell": "510",
+  "Modellår": "1976",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26595561",
+ "width_cm": 0,
+ "year": 1976
+}

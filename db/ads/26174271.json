@@ -60,7 +60,8 @@
  },
  "first_seen": "2026-09-27T15:26:08+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Flipper 510"
  ],
  "heading": "Flipper 510",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26174271/eb42b638-71ae-40ff-9b15-126cda1cd9ed",
@@ -90,7 +91,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26174271/ca7a7138-286e-42b4-86bd-c09d39bf6b5f",
   "https://images.blocketcdn.se/dynamic/default/item/26174271/38b3018e-5568-4ff3-b583-f217ded2660d"
  ],
- "last_seen": "2026-09-28T19:51:27+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 59.61,
  "length_ft": 17,
  "llm": {

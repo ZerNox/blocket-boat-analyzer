@@ -58,7 +58,7 @@
  ],
  "last_seen": "2026-09-29",
  "lat": 55.56,
- "length_ft": null,
+ "length_ft": 18.7,
  "location": "Simrishamn",
  "lon": 14.35,
  "make": "Finnmaster",
@@ -66,7 +66,7 @@
  "motor_type": null,
  "page": {
   "description_chars": 421,
-  "fetched_ts": 1790648097760,
+  "fetched_ts": 1790655112728,
   "text_sha": "c6617d4ec3d5a198"
  },
  "price": 46875,

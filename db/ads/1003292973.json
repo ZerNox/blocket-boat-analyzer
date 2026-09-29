@@ -1,0 +1,133 @@
+{
+ "ad_id": 1003292973,
+ "auction": {
+  "bid": 100,
+  "close": "2026-09-30T11:31:00+02:00",
+  "ended": false,
+  "fee": 1340,
+  "margin_scheme": true,
+  "next_bid": 200,
+  "reserve_reached": false,
+  "start": "2026-09-24T09:00:00+02:00",
+  "vat": 0
+ },
+ "boat_class": null,
+ "dealer_segment": "Auktion",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 35.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": "r: Volvo Penta MD17 Motortyp: Inombordare Motoreffekt (kW / hk): 35 hk Motortimmar: Okänt Drivmedel: Diesel Drivlina: Ax",
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Snipa Skilsö 23 HT med MD17 och bogpropeller",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-29",
+ "found_by": [
+  "klaravik",
+  "skilsö 23"
+ ],
+ "heading": "Snipa Skilsö 23 HT med MD17 och bogpropeller",
+ "image": "https://media.se.klaravik.com/public/productimages/51/c1/3292973/extrabilder75353847_large.jpg?v=1790195866",
+ "image_urls": [
+  "https://media.se.klaravik.com/public/productimages/51/c1/3292973/extrabilder75353847_large.jpg?v=1790195866"
+ ],
+ "last_seen": "2026-09-29",
+ "lat": 57.87,
+ "length_ft": 23.0,
+ "llm": {
+  "at": "2026-09-29",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": null,
+   "engine_hours": null,
+   "engine_hp": 35,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "9dc3cce97f702d41"
+ },
+ "location": "Kungälv",
+ "lon": 11.98,
+ "make": "Skilsö",
+ "motor_size": 35.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 524,
+  "fetched_ts": 1790655137920,
+  "text_sha": "9dc3cce97f702d41"
+ },
+ "price": 1775,
+ "price_history": [
+  {
+   "bid": 100,
+   "date": "2026-09-29",
+   "price": 1775
+  }
+ ],
+ "source": "klaravik",
+ "specs": {
+  "Antal nycklar": "1",
+  "Bredd (m)": "Ca 2,45",
+  "Båttyp": "Träbåt/snipa",
+  "Drivlina": "Axel med roder",
+  "Drivmedel": "Diesel",
+  "HT Årsmodell": "Information saknas",
+  "Lasthjälpsinformation Lasthjälp": "Lasthjälp i överenskommelse med säljaren",
+  "MD17 och bogpropeller Märke": "Skilsö",
+  "Modell": "23",
+  "Motor": "Volvo",
+  "Motoreffekt (kW / hk)": "35 hk",
+  "Motortimmar": "Okänt",
+  "Märke": "Skilsö",
+  "Mätarställning": "Okänt CE-märkt:",
+  "Mått och vikt Längd (m)": "Ca 7",
+  "Okänt Skrovnummer": "Okänt",
+  "Penta MD17 Motortyp": "Inombordare",
+  "Serienummer motor": "Okänt",
+  "Utrustad med": "- Bogpropellrar - Lanternor"
+ },
+ "status": "active",
+ "url": "https://www.klaravik.se/auktion/produkt/3292973-snipa-skilso-23-ht/",
+ "year": null
+}

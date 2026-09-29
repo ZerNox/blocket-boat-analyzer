@@ -1,0 +1,105 @@
+{
+ "ad_id": 25660366,
+ "boat_class": "Annat",
+ "changed_ts": 1786565544000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1991,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "motor mercury 90hp årsmodell 1991",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "plotter": {
+    "evidence": "plotter med sjökort över hela sveriges kustlandskap",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80km båttrailer som är ny besiktigad 12/8-26 utan anmärkningar",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Boat has open cockpit, no enclosed cabin or roof visible.",
+  "hull_source": "bild",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-29T04:08:01+00:00",
+ "found_by": [
+  "Selco 18"
+ ],
+ "heading": "Selco 18",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25660366/74967ef8-f3d4-4137-87eb-11e47aacb204",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25660366/74967ef8-f3d4-4137-87eb-11e47aacb204",
+  "https://images.blocketcdn.se/dynamic/default/item/25660366/9ddc7555-5623-47f8-9a59-478fa3a136ee",
+  "https://images.blocketcdn.se/dynamic/default/item/25660366/8122a58a-1afb-407b-a1c8-fb06330201fc",
+  "https://images.blocketcdn.se/dynamic/default/item/25660366/1e61de1e-7a0f-4162-a343-f239a80693bb"
+ ],
+ "last_seen": "2026-09-29T04:08:01+00:00",
+ "lat": 61.38,
+ "length_ft": 18,
+ "location": "Rengsjö",
+ "lon": 16.66,
+ "make": "Selco",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 238,
+  "fetched_ts": 1790655093137,
+  "text_sha": "3a6f8e8fba771970"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-09-29",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modellår": "1970",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Selco",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25660366",
+ "vision": {
+  "at": "2026-09-29",
+  "images_sha": "3d066c687e67c25c",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "Boat has open cockpit, no enclosed cabin or roof visible.",
+   "hull_photo": 2
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 0,
+ "year": 1970
+}

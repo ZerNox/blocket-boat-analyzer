@@ -32,7 +32,8 @@
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Uttern 6000"
  ],
  "heading": "Uttern 6000",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25297568/bf78b1cf-d8ef-48e1-b47a-95e19108ff90",
@@ -45,7 +46,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25297568/82674952-146e-47c6-a6f6-d27b4cfa5166",
   "https://images.blocketcdn.se/dynamic/default/item/25297568/74317cfd-9bbd-4365-8ba5-72f0146f9e14"
  ],
- "last_seen": "2026-09-28T19:51:27+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 57.64,
  "length_ft": 19,
  "llm": {

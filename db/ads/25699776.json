@@ -12,8 +12,8 @@
   "engine_maker": "Yamaha",
   "engine_stroke": null,
   "engine_type": "outboard",
-  "engine_type_evidence": null,
-  "engine_type_source": "llm",
+  "engine_type_evidence": "iler 500 Sport båt Smiler 500 Yamaha 2T 90 hk Väldigt lite gångtimmar. Automatiska trimplan. Elektronisk Motorlyft. Gar",
+  "engine_type_source": "rule:model",
   "engine_year": null,
   "engine_year_est": 2000,
   "engine_year_est_reason": "antar originalmotor",
@@ -35,7 +35,6 @@
   "hull_evidence": "Båttyp: Daycruiser",
   "hull_source": "rule:spec",
   "llm_reasons": [
-   "engine type unknown",
    "no engine year found"
   ],
   "needs_llm": true,
@@ -59,7 +58,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25699776/0960df42-60a5-4296-a611-36ec3446d77f",
   "https://images.blocketcdn.se/dynamic/default/item/25699776/f4a9b710-7e15-429d-8733-d4ab55fb66b6"
  ],
- "last_seen": "2026-09-28T19:51:27+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 57.71,
  "length_ft": 17,
  "llm": {

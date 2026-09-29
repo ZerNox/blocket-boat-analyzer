@@ -31,6 +31,10 @@
     "year": 2011
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "avorit för både fiske och övernattningar ute i skärgården. Båten har två kojplatser och en hytt som ger br",
+  "hull_source": "rule:text",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -38,6 +42,9 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Örnvik 510"
+ ],
  "heading": "ÖRNVIK 510 CRUISER MERCURY 75HP ELPTO",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25954045/6e5b3559-efd5-4940-8705-b47bbdff3447",
  "image_urls": [
@@ -50,7 +57,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25954045/3c7d5b94-2394-4561-bc38-cc7ad96b8ab7",
   "https://images.blocketcdn.se/dynamic/default/item/25954045/9b015d7b-7473-41aa-9505-6f4de6922e36"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 59.27,
  "length_ft": 17,
  "location": "Enskede",
@@ -91,7 +98,7 @@
   "Toppfart": "30 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/25954045",
  "width_cm": 233,
  "year": 2004

@@ -34,6 +34,10 @@
     "kmh": 30
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Selco 18 HT",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -43,6 +47,9 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "Selco 18"
+ ],
  "heading": "Selco 18 HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26116366/5ceab052-93a5-4ad6-9636-96748362198f",
  "image_urls": [
@@ -57,7 +64,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26116366/06f73e7d-47db-4a76-8f4f-12cdd7bf6454",
   "https://images.blocketcdn.se/dynamic/default/item/26116366/7e68f3dc-1dcc-40b1-9b7a-7499b8007c65"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-09-29T04:08:01+00:00",
  "lat": 57.91,
  "length_ft": 18,
  "llm": {
@@ -120,7 +127,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26116366",
  "width_cm": 0,
  "year": 1979

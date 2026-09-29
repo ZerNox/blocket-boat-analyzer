@@ -1,0 +1,102 @@
+{
+ "ad_id": 26389826,
+ "boat_class": "Annat",
+ "changed_ts": 1789377866000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": 390,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Årsmodell motor: 2011",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "- Garmin plotter/ekolod (inköpt 2023)",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "- Akterkapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "- Garmin plotter/ekolod (inköpt 2023)",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Yamarin 59 ht -2011 HÖSTPRIS",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-29T04:08:01+00:00",
+ "found_by": [
+  "Yamarin 59"
+ ],
+ "heading": "Yamarin 59 ht -2011 HÖSTPRIS",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26389826/35dea2ca-25ec-4254-bba7-744fc2974f81",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26389826/35dea2ca-25ec-4254-bba7-744fc2974f81",
+  "https://images.blocketcdn.se/dynamic/default/item/26389826/bf418a9e-b41c-4f2e-a9a1-efd0e570a992",
+  "https://images.blocketcdn.se/dynamic/default/item/26389826/52c2b4b1-d1c9-48d6-a957-e995223958b5",
+  "https://images.blocketcdn.se/dynamic/default/item/26389826/026fa45d-56b1-40a9-a021-7d82ff4d6c2d",
+  "https://images.blocketcdn.se/dynamic/default/item/26389826/058c09e1-0878-4ef2-a659-f47800142f4a",
+  "https://images.blocketcdn.se/dynamic/default/item/26389826/47701e8d-65a2-4819-9c36-f842eb7a7421",
+  "https://images.blocketcdn.se/dynamic/default/item/26389826/8996c920-f502-40f9-8610-0a86f2b3c75e"
+ ],
+ "last_seen": "2026-09-29T04:08:01+00:00",
+ "lat": 56.13,
+ "length_ft": 19,
+ "location": "Åstorp",
+ "lon": 12.92,
+ "make": "Yamarin",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1248,
+  "fetched_ts": 1790655095813,
+  "text_sha": "f16769b7e71fa092"
+ },
+ "price": 209000,
+ "price_history": [
+  {
+   "date": "2026-09-29",
+   "price": 209000
+  }
+ ],
+ "specs": {
+  "Bredd": "226 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "59 ht",
+  "Modellår": "2011",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Skrovmaterial": "Plast",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26389826",
+ "width_cm": 226,
+ "year": 2011
+}
