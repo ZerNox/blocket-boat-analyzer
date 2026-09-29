@@ -103,8 +103,11 @@ is the search text. The list drives:
 - **Klaravik** (`klaravik.py`): boat auctions whose model is on the list. The price used is
   bid + VAT (company sellers) + auction fee; cards show bid, end time and reserve status.
   Ended auctions are recorded as sold/unsold with the final price.
-- **Facebook Marketplace**: requires a login and prohibits automated collection, so the site
-  shows one search link per model instead.
+- **Kronofogden** (`kronofogden.py`): seized boats in web auctions (category 08). Kept when on the
+  list or the variant code says cabin (DC/HT/MC/PH/WA). No fees are added; the listed defects and
+  "not started or tested" become red flags.
+- **Facebook Marketplace**: robots.txt disallows all automated access (`Disallow: /`) and
+  Meta's terms prohibit collection, so the site shows one search link per model instead.
 
 ## Daily refresh
 

@@ -112,7 +112,9 @@ RED_FLAGS = {
               r"trasig\w*\s+(?:motor|växelhus|drev)",
     "leak": r"\bläck(?:er|ande|age|aget|te)\b(?!\s+(?:inte|ej))|\bvatten\s+i\s+(?:båten|skrovet|kölsvinet)|"
             r"\bsprick\w*\s+(?:i|på)\s+(?:skrovet|botten|kölen|akterspegeln)|\bröt(?:a|skad\w*)\b",
-    "untested": r"okänd\s+status|ej\s+provkörd|inte\s+provkörd|otestad|ej\s+testad\s+(?:i\s+sjön|motor)",
+    "untested": r"okänd\s+status|ej\s+provkörd|inte\s+provkörd|otestad|ej\s+testad\s+(?:i\s+sjön|motor)|"
+                r"inte\s+(?:startad|funktionstestad)|ej\s+(?:startad|funktionstestad)",
+    "damage": r"skador\s+på\s+(?:båt|båten|skrov|skrovet|fören|botten|gelcoat)|iakttagna\s+brister\s*:\s*\S",
     "no_engine": r"\bmotor\s+saknas\b|\butan\s+motor\b|motor\s+ingår\s+(?:ej|inte)|motorn\s+ingår\s+(?:ej|inte)|säljes\s+utan\s+motor",
 }
 RED_FLAG_RE = {k: re.compile(v, re.I) for k, v in RED_FLAGS.items()}

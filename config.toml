@@ -14,6 +14,8 @@ max_km = 300
 marketplace_city = "gothenburg"
 # Also fetch Klaravik auctions (kept only when the model is on cabin_models.csv).
 klaravik = true
+# Kronofogden web auctions (seized boats), same model-list rule; no fees are added there.
+kronofogden = true
 # Exact models similar to the target, searched by name in every boat type (catches misfiled ads).
 # Only ads whose model family matches exactly are kept. Filters below apply to these searches.
 models = [

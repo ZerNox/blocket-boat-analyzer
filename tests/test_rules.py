@@ -335,3 +335,8 @@ def test_equipment_section_items():
 
 def test_motor_saknas_means_no_engine():
     assert rules.extract_engine_type("Finnmaster 5700", "Obs! Motor saknas. Till en Finnmaster 5700WA ska man ha en motor med lång rigg.", {}, None)["engine_type"] == "none"
+
+
+def test_kronofogden_phrases():
+    flags = rules.extract_red_flags("Inte startad eller funktionstestad av Kronofogden. Iakttagna brister: Skador på båt i fören.")
+    assert "untested" in flags and "damage" in flags

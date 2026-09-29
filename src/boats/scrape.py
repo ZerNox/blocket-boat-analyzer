@@ -247,6 +247,10 @@ def update(cfg: dict, fetch_pages: bool = True, limit: int | None = None) -> dic
         from . import klaravik
 
         stats.update(klaravik.update(client, cfg))
+    if scfg.get("kronofogden", True):
+        from . import kronofogden
+
+        stats.update(kronofogden.update(client, cfg))
     return stats
 
 
@@ -293,6 +297,10 @@ def cached_text(ad: dict) -> dict | None:
         from . import klaravik
 
         return klaravik.cached_text(ad)
+    if ad.get("source") == "kronofogden":
+        from . import kronofogden
+
+        return kronofogden.cached_text(ad)
     html = store.load_page(ad["ad_id"])
     if html is None:
         return None

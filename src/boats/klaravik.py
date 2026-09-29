@@ -186,7 +186,8 @@ def update(client, cfg: dict) -> dict:
         if not p["id"]:
             continue
         family, _ = market.model_keys(p["brand"], p["model"], p["name"])
-        if family not in wanted:
+        # On the list, or a cabin variant of an otherwise open model ("Ryds 568 DC").
+        if not family or (family not in wanted and not rules.HULL_CODE_CABIN.search(f"{p['model'] or ''} {p['name']}")):
             continue
         prev = store.load_ad(ad_id(p["id"]))
         ad = to_ad(p, url, prev, today)

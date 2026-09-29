@@ -115,7 +115,7 @@ const pct = (x) => (x > 0 ? "+" : "") + Math.round(x * 100) + "%";
 const adQuery = (q) => (q.match(/item\/(\d+)/) || [null, q])[1];
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const EXTRA_LABELS = { trailer: "trailer", plotter: "plotter/GPS", ekolod: "ekolod", kapell: "kapell", vinterkapell: "vinterkapell", elmotor: "elmotor", hjalpmotor: "hjälpmotor", vhf: "VHF", stereo: "stereo", hydraulstyrning: "hydraulstyrning", landstrom: "landström", varmare: "värmare", radar: "radar", inverter: "inverter", solpanel: "solpanel", vinsch: "vinsch/ankarspel" };
-const FLAG_LABELS = { project: "renoveringsobjekt", defect: "motorfel", leak: "läckage/spricka i skrov", untested: "otestad" };
+const FLAG_LABELS = { project: "renoveringsobjekt", defect: "motorfel", leak: "läckage/spricka i skrov", untested: "otestad", damage: "skador" };
 const SRC_LABELS = { "rule:spec": "annonsfält", "rule:text": "annonstext", "rule:original": "originalmotor", "llm": "lokal AI", "rule:text+llm": "text + AI", "rule:text?": "osäker" };
 const CONTROLS = ["w-value", "w-engine", "w-budget", "w-hp", "w-extras", "max-price", "target-price", "postcode", "max-km", "min-boat", "min-engine", "min-hp", "class", "q", "need-trailer", "known-engine", "hide-flags", "hide-unsure"];
 let DATA = null;
@@ -210,6 +210,7 @@ function card(b, n) {
     .concat(b.red_flags.map((f) => `<span class="chip flag">${FLAG_LABELS[f] || f}</span>`))
     .concat(b.swap_offered ? [`<span class="chip src">byte möjligt</span>`] : [])
     .concat(b.source === "klaravik" ? [`<span class="chip src">Klaravik-auktion</span>`] : [])
+    .concat(b.source === "kronofogden" ? [`<span class="chip src" title="Exekutiv försäljning: befintligt skick, ingen ångerrätt">Kronofogden-auktion</span>`] : [])
     .concat(!b.hull_certain ? [`<span class="chip flag" title="Text, båttyp och bilder gav inget säkert besked">typ osäker${b.hull ? (b.hull === "cabin" ? " (trolig hytt)" : " (trolig öppen)") : ""}</span>`]
       : b.hull_source === "bild" ? [`<span class="chip src" title="${esc(b.hull_evidence || "")}">hytt enligt bild</span>`] : [])
     .concat(b.found_by.some((f) => f !== "kategori") && !b.found_by.includes("kategori") ? [`<span class="chip src" title="Hittad via modellistan (${esc(b.found_by.join(", "))}), annonsen ligger under annan båttyp">via modellista</span>`] : [])
@@ -252,7 +253,8 @@ function card(b, n) {
       <div class="muted">marknad ${kr(b.fair_price)}</div>
       ${hist}
       ${b.auction ? `<div class="muted">bud ${kr(b.auction.bid)} · slutar ${new Date(b.auction.close).toLocaleString("sv-SE", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" })}</div>
-        <div class="muted">priset = bud + ${b.auction.margin_scheme ? "" : `${b.auction.vat} % moms + `}avgift ${kr(b.auction.fee)}</div>
+        <div class="muted">${b.auction.fee || b.auction.vat ? `priset = bud + ${b.auction.margin_scheme ? "" : `${b.auction.vat} % moms + `}avgift ${kr(b.auction.fee)}` : "inga avgifter tillkommer"}</div>
+        ${b.auction.viewing ? `<div class="muted">visning ${esc(b.auction.viewing)}</div>` : ""}
         <div class="${b.auction.reserve_reached ? "muted" : "value neg"}">${b.auction.reserve_reached ? "reservationspris uppnått" : "reservationspris ej uppnått"}</div>` : ""}
       ${b.too_good ? `<div class="chip flag" title="Mer än 2,5 standardavvikelser under marknaden: ofta fel årtal, byte eller placeholder-pris">för bra för att vara sant?</div>` : ""}
     </div>
