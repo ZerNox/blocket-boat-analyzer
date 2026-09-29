@@ -35,9 +35,9 @@
    }
   },
   "hull": "open",
-  "hull_certain": false,
-  "hull_evidence": null,
-  "hull_source": "rule:guess",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space visible, only open cockpit and console.",
+  "hull_source": "bild",
   "llm_reasons": [
    "no engine year found"
   ],

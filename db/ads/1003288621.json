@@ -1,0 +1,95 @@
+{
+ "ad_id": 1003288621,
+ "auction": {
+  "bid": 32000,
+  "close": "2026-09-29T11:08:00+02:00",
+  "ended": false,
+  "fee": 5500,
+  "margin_scheme": false,
+  "next_bid": 32500,
+  "reserve_reached": false,
+  "start": "2026-09-22T09:00:00+02:00",
+  "vat": 25
+ },
+ "boat_class": null,
+ "dealer_segment": "Auktion",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Motorbåt Finnmaster 5700 med båttrailer",
+    "included": true,
+    "year": 2007
+   }
+  },
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-29",
+ "found_by": [
+  "klaravik",
+  "finnmaster 5700"
+ ],
+ "heading": "Motorbåt Finnmaster 5700 med båttrailer",
+ "image": "https://media.se.klaravik.com/public/productimages/32/e2/3288621/extrabilder75248583_large.jpg?v=1790055713",
+ "image_urls": [
+  "https://media.se.klaravik.com/public/productimages/32/e2/3288621/extrabilder75248583_large.jpg?v=1790055713"
+ ],
+ "last_seen": "2026-09-29",
+ "lat": 55.56,
+ "length_ft": null,
+ "location": "Simrishamn",
+ "lon": 14.35,
+ "make": "Finnmaster",
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 421,
+  "fetched_ts": 1790648097760,
+  "text_sha": "c6617d4ec3d5a198"
+ },
+ "price": 46875,
+ "price_history": [
+  {
+   "bid": 32000,
+   "date": "2026-09-29",
+   "price": 46875
+  }
+ ],
+ "source": "klaravik",
+ "specs": {
+  "Antal nycklar": "Information saknas",
+  "Bredd (m)": "2,3",
+  "Båttyp": "Motorbåt",
+  "Maxhastighet (knop)": "38",
+  "Modell": "5700",
+  "Märke": "Finnmaster",
+  "Mått och vikt Längd (m)": "5,7 m",
+  "Skrovnummer": "FI-FMSII0077L607",
+  "År": "2007"
+ },
+ "status": "active",
+ "url": "https://www.klaravik.se/auktion/produkt/3288621-motorbat-finnmaster-5700/",
+ "year": 2007
+}

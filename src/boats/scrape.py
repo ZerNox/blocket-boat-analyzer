@@ -121,8 +121,11 @@ def search_models(client: Client, cfg: dict):
     """
     from .market import model_keys  # market imports this module
 
+    from . import models_list
+
     extra = cfg["search"].get("model_filters", "")
-    for model in cfg["search"].get("models", []):
+    listed = cfg["search"].get("models", []) + models_list.search_terms()
+    for model in dict.fromkeys(listed):  # config list + cabin_models.csv, no duplicates
         make = model.split()[0]
         target, target_variant = model_keys(make, None, model)
         if not target:
@@ -228,7 +231,7 @@ def update(cfg: dict, fetch_pages: bool = True, limit: int | None = None) -> dic
         store.save_ad(ad)
 
     for ad in store.all_ads():
-        if ad.get("status") == "active" and ad["ad_id"] not in seen_ids:
+        if ad.get("status") == "active" and ad["ad_id"] not in seen_ids and ad.get("source", "blocket") == "blocket":
             # Sold ("SÅLD"), deactivated ("Inaktiv"), or still for sale but outside the search now.
             ad["status"] = page_status(client, ad["url"])
             ad["not_in_search_since"] = today
@@ -240,6 +243,10 @@ def update(cfg: dict, fetch_pages: bool = True, limit: int | None = None) -> dic
 
     if fetch_pages:
         stats["pages"] = fetch_ad_pages(client, cfg, seen_ids, limit)
+    if scfg.get("klaravik", True):
+        from . import klaravik
+
+        stats.update(klaravik.update(client, cfg))
     return stats
 
 
@@ -282,6 +289,10 @@ def fetch_ad_pages(client: Client, cfg: dict, ids, limit: int | None = None) -> 
 
 def cached_text(ad: dict) -> dict | None:
     """Heading, description and specs from the locally cached original page."""
+    if ad.get("source") == "klaravik":
+        from . import klaravik
+
+        return klaravik.cached_text(ad)
     html = store.load_page(ad["ad_id"])
     if html is None:
         return None

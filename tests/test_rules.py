@@ -331,3 +331,7 @@ def test_equipment_section_items():
     eq = rules.extract_equipment("Båt", text)
     for item in ("varmare", "inverter", "solpanel", "vhf", "stereo", "plotter", "ekolod", "radar", "vinsch"):
         assert eq[item]["included"], item
+
+
+def test_motor_saknas_means_no_engine():
+    assert rules.extract_engine_type("Finnmaster 5700", "Obs! Motor saknas. Till en Finnmaster 5700WA ska man ha en motor med lång rigg.", {}, None)["engine_type"] == "none"

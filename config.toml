@@ -10,6 +10,10 @@ delay_s = 1.2
 # Where you'd collect the boat from: the site filters on straight-line distance (adjustable there).
 home = { name = "Kungälv", postcode = "44242", lat = 57.871, lon = 11.98 }
 max_km = 300
+# Facebook Marketplace city slug for the model search links on the site.
+marketplace_city = "gothenburg"
+# Also fetch Klaravik auctions (kept only when the model is on cabin_models.csv).
+klaravik = true
 # Exact models similar to the target, searched by name in every boat type (catches misfiled ads).
 # Only ads whose model family matches exactly are kept. Filters below apply to these searches.
 models = [

@@ -7,7 +7,7 @@ import json
 import shutil
 from pathlib import Path
 
-from . import rank, store
+from . import models_list, rank, store
 from .config import ROOT
 
 
@@ -33,6 +33,9 @@ def build(cfg: dict, out: Path) -> dict:
         "home": cfg["search"].get("home"),
         "max_km": cfg["search"].get("max_km"),
         "profile": cfg.get("profile", {}),
+        "models": [{"search": r["search"], "ads": int(r.get("ads") or 0), "years": r.get("years")}
+                   for r in models_list.load()],
+        "marketplace_city": cfg["search"].get("marketplace_city", "gothenburg"),
         "coverage": coverage,
         "model": model,
         "boats": ranked,

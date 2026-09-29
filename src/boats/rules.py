@@ -113,7 +113,7 @@ RED_FLAGS = {
     "leak": r"\bläck(?:er|ande|age|aget|te)\b(?!\s+(?:inte|ej))|\bvatten\s+i\s+(?:båten|skrovet|kölsvinet)|"
             r"\bsprick\w*\s+(?:i|på)\s+(?:skrovet|botten|kölen|akterspegeln)|\bröt(?:a|skad\w*)\b",
     "untested": r"okänd\s+status|ej\s+provkörd|inte\s+provkörd|otestad|ej\s+testad\s+(?:i\s+sjön|motor)",
-    "no_engine": r"\butan\s+motor\b|motor\s+ingår\s+(?:ej|inte)|motorn\s+ingår\s+(?:ej|inte)|säljes\s+utan\s+motor",
+    "no_engine": r"\bmotor\s+saknas\b|\butan\s+motor\b|motor\s+ingår\s+(?:ej|inte)|motorn\s+ingår\s+(?:ej|inte)|säljes\s+utan\s+motor",
 }
 RED_FLAG_RE = {k: re.compile(v, re.I) for k, v in RED_FLAGS.items()}
 

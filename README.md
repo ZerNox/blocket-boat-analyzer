@@ -92,6 +92,20 @@ Change the search in `config.toml` (`search.url`, any Blocket boat search URL). 
 The GPU is chosen by name (`device_match = "Arc"`) because Vulkan device indices change between
 boots. The GPU lock file is shared with other GPU jobs on the host.
 
+## Cabin-boat model list and other sources
+
+`cabin_models.csv` lists the models that count as "like a Sandström 560 MC" (cabin boats,
+5.0-6.5 m, mostly outboard), derived from the market data and our hull analysis by
+`boats models`. Edit it by hand: `keep=no` drops a model (kept across regenerations), `search`
+is the search text. The list drives:
+
+- **Blocket**: a free-text search per model, on top of the category search.
+- **Klaravik** (`klaravik.py`): boat auctions whose model is on the list. The price used is
+  bid + VAT (company sellers) + auction fee; cards show bid, end time and reserve status.
+  Ended auctions are recorded as sold/unsold with the final price.
+- **Facebook Marketplace**: requires a login and prohibits automated collection, so the site
+  shows one search link per model instead.
+
 ## Daily refresh
 
 `systemd/blocket-boats.{service,timer}` runs `boats market` and `boats update --publish` every day at

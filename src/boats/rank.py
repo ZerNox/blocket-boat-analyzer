@@ -17,6 +17,7 @@ from __future__ import annotations
 import datetime as dt
 import math
 import re
+from urllib.parse import parse_qsl, urlparse
 
 import numpy as np
 
@@ -38,6 +39,10 @@ def eligible(ad: dict, cfg: dict) -> bool:
         return False  # certainly an open console boat; uncertain ones stay in, marked
     if cfg["ranking"]["outboard_only"] and ext.get("engine_type") != "outboard":
         return False
+    if ad.get("source") == "klaravik":
+        cap = dict(parse_qsl(urlparse(cfg["search"]["url"]).query)).get("price_to")
+        if cap and ad["price"] > float(cap):
+            return False
     model_listed = any(f != "kategori" for f in ad.get("found_by") or [])
     for field, rng in local_ranges(cfg["search"]["url"]).items():
         if field == "length" and model_listed:
@@ -408,6 +413,8 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
             "make": a.get("make"),
             "model_family": mr.get("family"),
             "found_by": a.get("found_by") or ["kategori"],
+            "source": a.get("source", "blocket"),
+            "auction": a.get("auction"),
             "hull": ext.get("hull"),
             "hull_certain": bool(ext.get("hull_certain")),
             "hull_source": ext.get("hull_source"),

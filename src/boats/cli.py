@@ -9,7 +9,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-from . import config, market, pipeline, rank, scrape, site, store
+from . import config, market, models_list, pipeline, rank, scrape, site, store
 
 
 def cmd_fetch(cfg, args):
@@ -30,6 +30,13 @@ def cmd_vision(cfg, args):
         ext = ad.get("extraction") or {}
         print(ad_id, ad.get("heading"), "|", ext.get("engine_hp"), "hk via", ext.get("engine_hp_source"),
               "|", (ad.get("vision") or {}).get("result"))
+
+
+def cmd_models(cfg, args):
+    rows = models_list.derive()
+    models_list.write(rows)
+    kept = models_list.load()
+    print(f"{len(rows)} cabin-boat model families derived, {len(kept)} kept -> {models_list.MODELS_CSV.name}")
 
 
 def cmd_market(cfg, args):
@@ -115,6 +122,9 @@ def main(argv=None):
     s = sub.add_parser("vision", help="read engine power from photos (last resort) for all or given ads")
     s.add_argument("--ad", type=int, action="append", help="ad id (repeatable); re-reads even if cached")
     s.set_defaults(fn=cmd_vision)
+
+    s = sub.add_parser("models", help="(re)derive cabin_models.csv from the data; hand edits (keep=no) are kept")
+    s.set_defaults(fn=cmd_models)
 
     s = sub.add_parser("market", help="snapshot every boat ad on Blocket (listing only) as comparables")
     s.set_defaults(fn=cmd_market)
