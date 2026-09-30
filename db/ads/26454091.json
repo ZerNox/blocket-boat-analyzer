@@ -96,6 +96,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-30",
  "page": {
   "description_chars": 889,
   "fetched_ts": 1790523173765,
@@ -126,7 +127,7 @@
   "Typ": "Daycruiser",
   "Vikt": "700 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26454091",
  "width_cm": 230,
  "year": 1967

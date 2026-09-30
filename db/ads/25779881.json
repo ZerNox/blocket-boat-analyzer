@@ -1,7 +1,7 @@
 {
  "ad_id": 25779881,
  "boat_class": "Annat",
- "changed_ts": 1788713766000,
+ "changed_ts": 1790710910000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1997,
@@ -50,11 +50,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/25779881/34a4dda6-969e-4698-882f-f2ad95350f18",
   "https://images.blocketcdn.se/dynamic/default/item/25779881/c0a27f0b-dca9-487e-87d0-e1f497441b3d"
  ],
- "last_seen": "2026-09-29T04:08:01+00:00",
+ "last_seen": "2026-09-30T04:06:26+00:00",
  "lat": 59.48,
  "length_ft": 19,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-09-30",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1997,
@@ -70,16 +70,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "excluded",
+    "varmare": "included",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "8716522cf3dfb9fc"
+  "text_sha": "2751c6e15585079d"
  },
  "location": "Åkersberga",
  "lon": 18.28,
@@ -90,8 +95,8 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 225,
-  "fetched_ts": 1790523065190,
-  "text_sha": "8716522cf3dfb9fc"
+  "fetched_ts": 1790741417222,
+  "text_sha": "2751c6e15585079d"
  },
  "price": 115000,
  "price_history": [

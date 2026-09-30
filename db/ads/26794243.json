@@ -1,7 +1,7 @@
 {
  "ad_id": 26794243,
  "boat_class": "Styrpulpetbåt",
- "changed_ts": 1790601404000,
+ "changed_ts": 1790675149000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2018,
@@ -53,7 +53,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26794243/35cc5d4f-ae7d-4f89-bc29-4371f977fa24",
   "https://images.blocketcdn.se/dynamic/default/item/26794243/d8a9f259-c68c-4722-8357-4ce4f94a1fc1"
  ],
- "last_seen": "2026-09-29T04:08:01+00:00",
+ "last_seen": "2026-09-30T04:06:26+00:00",
  "lat": 59.42,
  "length_ft": 18,
  "llm": {
@@ -93,7 +93,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 636,
-  "fetched_ts": 1790625178555,
+  "fetched_ts": 1790741418665,
   "text_sha": "7d5e328ccf36426f"
  },
  "price": 119000,

@@ -77,6 +77,12 @@
    "price": 46875
   }
  ],
+ "sold": {
+  "date": "2026-09-30",
+  "final_bid": 54000,
+  "last_price": 74375,
+  "reserve_reached": false
+ },
  "source": "klaravik",
  "specs": {
   "Antal nycklar": "Information saknas",
@@ -89,7 +95,7 @@
   "Skrovnummer": "FI-FMSII0077L607",
   "År": "2007"
  },
- "status": "active",
+ "status": "unsold",
  "url": "https://www.klaravik.se/auktion/produkt/3288621-motorbat-finnmaster-5700/",
  "year": 2007
 }

@@ -55,7 +55,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25314526/01d60346-20f0-4baa-bae8-5f0d89579780",
   "https://images.blocketcdn.se/dynamic/default/item/25314526/e8edf9c9-dfbb-49bd-8b7e-6310601a6270"
  ],
- "last_seen": "2026-09-29T04:08:01+00:00",
+ "last_seen": "2026-09-30T04:06:26+00:00",
  "lat": 59.32,
  "length_ft": 17,
  "location": "Skoghall",
@@ -70,11 +70,15 @@
   "fetched_ts": 1790522967131,
   "text_sha": "6c8f79859b98247d"
  },
- "price": 48000,
+ "price": 45000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 48000
+  },
+  {
+   "date": "2026-09-30",
+   "price": 45000
   }
  ],
  "specs": {

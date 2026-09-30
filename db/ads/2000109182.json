@@ -120,7 +120,7 @@
   "https://pic09.auction2000.online/aukpic/kfm/20260909_1451/115988_19_thumb.jpg",
   "https://pic09.auction2000.online/aukpic/kfm/20260909_1451/115988_20_thumb.jpg"
  ],
- "last_seen": "2026-09-29",
+ "last_seen": "2026-09-30",
  "lat": 59.52,
  "length_ft": 18.9,
  "llm": {
@@ -163,7 +163,7 @@
  "motor_type": null,
  "page": {
   "description_chars": 789,
-  "fetched_ts": 1790655144643,
+  "fetched_ts": 1790741469436,
   "text_sha": "653bcc3500c98b58"
  },
  "price": 150000,

@@ -1,0 +1,138 @@
+{
+ "ad_id": 27000823,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790710933000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 80,
+  "engine_hp_source": "llm",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2008,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Brenderup 80 km/h trailer ingår i priset men den är inte besiktad.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space, only open cockpit and console visible.",
+  "hull_source": "bild",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-30T04:06:26+00:00",
+ "found_by": [
+  "Yamarin 56"
+ ],
+ "heading": "Yamarin 56 CC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27000823/4a1e5b46-2cd7-4f9c-abb2-81bc247627b2",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27000823/4a1e5b46-2cd7-4f9c-abb2-81bc247627b2",
+  "https://images.blocketcdn.se/dynamic/default/item/27000823/225d252a-7a85-4b35-9c61-0a8303d333c4",
+  "https://images.blocketcdn.se/dynamic/default/item/27000823/a7aadb2a-4973-4b52-ab26-fed9c7e75a48",
+  "https://images.blocketcdn.se/dynamic/default/item/27000823/36b7c9c0-7cd3-4437-a816-ae4ac2926381",
+  "https://images.blocketcdn.se/dynamic/default/item/27000823/d071d271-d126-492b-a8e5-2e9987e62ac9",
+  "https://images.blocketcdn.se/dynamic/default/item/27000823/2c798efa-bf46-4915-b359-08b4234da037"
+ ],
+ "last_seen": "2026-09-30T04:06:26+00:00",
+ "lat": 60.6,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-09-30",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2008,
+   "engine_hours": null,
+   "engine_hp": 80,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f8d50b3d99db6628"
+ },
+ "location": "Sandviken",
+ "lon": 16.73,
+ "make": "Yamarin",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 302,
+  "fetched_ts": 1790741423778,
+  "text_sha": "f8d50b3d99db6628"
+ },
+ "price": 145000,
+ "price_history": [
+  {
+   "date": "2026-09-30",
+   "price": 145000
+  }
+ ],
+ "specs": {
+  "Bredd": "224 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modell": "56 CC",
+  "Modellår": "2008",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27000823",
+ "vision": {
+  "at": "2026-09-30",
+  "images_sha": "e9787ce9cda60262",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed space, only open cockpit and console visible.",
+   "hull_photo": 2
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 224,
+ "year": 2008
+}

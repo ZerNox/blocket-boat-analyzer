@@ -1,0 +1,120 @@
+{
+ "ad_id": 26999087,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790705086000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": 180,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury 4-takt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-30T04:06:26+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Bella 512 Excel 2006",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26999087/928ec393-8830-46a2-98f3-049b705491d7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26999087/928ec393-8830-46a2-98f3-049b705491d7",
+  "https://images.blocketcdn.se/dynamic/default/item/26999087/2a7ff94d-b969-4087-819d-41024612337e",
+  "https://images.blocketcdn.se/dynamic/default/item/26999087/14e64e75-0a3a-4c2f-b456-205743aae313",
+  "https://images.blocketcdn.se/dynamic/default/item/26999087/f9c1bf6c-1062-4301-8686-3f445eaab5b3"
+ ],
+ "last_seen": "2026-09-30T04:06:26+00:00",
+ "lat": 56.96,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-09-30",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": 180,
+   "engine_hp": 70,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "null",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "98275431b08ffafc"
+ },
+ "location": "Bolmsö",
+ "lon": 13.73,
+ "make": "Bella",
+ "max_speed": 29,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 227,
+  "fetched_ts": 1790741422565,
+  "text_sha": "98275431b08ffafc"
+ },
+ "price": 99000,
+ "price_history": [
+  {
+   "date": "2026-09-30",
+   "price": 99000
+  }
+ ],
+ "specs": {
+  "Bredd": "208 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "512 Excel Bowrider",
+  "Modellår": "2006",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Mercury 4-takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Toppfart": "29 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "520 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26999087",
+ "width_cm": 208,
+ "year": 2006
+}

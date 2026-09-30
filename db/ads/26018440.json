@@ -100,6 +100,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-09-30",
  "page": {
   "description_chars": 908,
   "fetched_ts": 1790523106864,
@@ -112,6 +113,11 @@
    "price": 30000
   }
  ],
+ "sold": {
+  "date": "2026-09-30",
+  "days_seen": 3,
+  "last_price": 30000
+ },
  "specs": {
   "Bredd": "2300 cm",
   "Båtens plats": "Sverige",
@@ -125,7 +131,7 @@
   "Märke": "Draco",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26018440",
  "width_cm": 2300,
  "year": 1980

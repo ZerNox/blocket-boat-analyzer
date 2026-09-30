@@ -100,7 +100,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
- "not_in_search_since": "2026-09-27",
+ "not_in_search_since": "2026-09-30",
  "page": {
   "description_chars": 533,
   "fetched_ts": 1790508515278,
@@ -113,6 +113,11 @@
    "price": 270000
   }
  ],
+ "sold": {
+  "date": "2026-09-30",
+  "days_seen": 3,
+  "last_price": 270000
+ },
  "specs": {
   "Bredd": "230 cm",
   "Båtens plats": "Sverige",
@@ -127,7 +132,7 @@
   "Toppfart": "30 knop",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26207153",
  "vision": {
   "at": "2026-09-29",

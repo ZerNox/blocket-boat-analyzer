@@ -75,6 +75,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-30",
  "page": {
   "description_chars": 798,
   "fetched_ts": 1790522953057,
@@ -101,7 +102,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25259674",
  "width_cm": 0,
  "year": 1982

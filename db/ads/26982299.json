@@ -1,0 +1,108 @@
+{
+ "ad_id": 26982299,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790679365000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Plotter Raymarine /ekolod medföljer.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter Raymarine /ekolod medföljer.",
+    "included": true
+   },
+   "solpanel": {
+    "evidence": "Tampar, ankare, solpanel och fendrar medföljer.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Silver Hawk 540 DC inklusive båttrailer",
+    "included": true,
+    "year": 2011
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Silver Hawk 540 DC inklusive båttrailer",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-30T04:06:26+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Silver Hawk 540 DC inklusive båttrailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26982299/03d661a6-66c9-498a-984e-dcfd614c0084",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26982299/03d661a6-66c9-498a-984e-dcfd614c0084",
+  "https://images.blocketcdn.se/dynamic/default/item/26982299/ccfd2c3b-599f-43ff-a78d-5296c90d2d48",
+  "https://images.blocketcdn.se/dynamic/default/item/26982299/425315f9-b10c-4ba6-aeeb-8171e4ad0b06",
+  "https://images.blocketcdn.se/dynamic/default/item/26982299/fa415ab0-919e-41e0-ae44-daef4a452842",
+  "https://images.blocketcdn.se/dynamic/default/item/26982299/c51c01cf-1d3c-4ff7-8ce3-d5f19ae26715",
+  "https://images.blocketcdn.se/dynamic/default/item/26982299/d59a246f-518b-4703-be01-5410e11cdd7b",
+  "https://images.blocketcdn.se/dynamic/default/item/26982299/232ba0c9-a39a-4f3f-bfe9-bd81790ddc24"
+ ],
+ "last_seen": "2026-09-30T04:06:26+00:00",
+ "lat": 59.34,
+ "length_ft": 18,
+ "location": "Gustavsberg",
+ "lon": 18.38,
+ "make": "Silver",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 656,
+  "fetched_ts": 1790741421347,
+  "text_sha": "1d814281001a8247"
+ },
+ "price": 135000,
+ "price_history": [
+  {
+   "date": "2026-09-30",
+   "price": 135000
+  }
+ ],
+ "specs": {
+  "Bredd": "217 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "Hawk",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Silver",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Daycruiser",
+  "Vikt": "540 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26982299",
+ "width_cm": 217,
+ "year": 2005
+}

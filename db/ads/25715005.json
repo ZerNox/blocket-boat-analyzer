@@ -65,6 +65,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-30",
  "page": {
   "description_chars": 1424,
   "fetched_ts": 1790508119338,
@@ -77,6 +78,11 @@
    "price": 22000
   }
  ],
+ "sold": {
+  "date": "2026-09-30",
+  "days_seen": 3,
+  "last_price": 22000
+ },
  "specs": {
   "Bredd": "210 cm",
   "Båtens plats": "Sverige",
@@ -97,7 +103,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "520 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/25715005",
  "width_cm": 210,
  "year": 1992

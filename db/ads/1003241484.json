@@ -1,0 +1,136 @@
+{
+ "ad_id": 1003241484,
+ "auction": {
+  "bid": 38000,
+  "close": "2026-10-06T10:20:00+02:00",
+  "ended": false,
+  "fee": 6000,
+  "margin_scheme": true,
+  "next_bid": 38500,
+  "reserve_reached": false,
+  "start": "2026-09-29T09:00:00+02:00",
+  "vat": 0
+ },
+ "boat_class": null,
+ "dealer_segment": "Auktion",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 135.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": "Motorbåt WA Barcon 22 WA med MerCruiser 3,0 135hk och vagn Motorbåt WA Barcon 22 WA med MerCruiser 3,0 135hk och vagn M",
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Plotter",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Motorbåt WA Barcon 22 WA med MerCruiser 3,0 135hk och vagn",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-09-30",
+ "found_by": [
+  "klaravik",
+  "barcon 22"
+ ],
+ "heading": "Motorbåt WA Barcon 22 WA med MerCruiser 3,0 135hk och vagn",
+ "image": "https://media.se.klaravik.com/public/productimages/c0/2c/3241484/extrabilder74090407_large.jpg?v=1782397747",
+ "image_urls": [
+  "https://media.se.klaravik.com/public/productimages/c0/2c/3241484/extrabilder74090407_large.jpg?v=1782397747"
+ ],
+ "last_seen": "2026-09-30",
+ "lat": 57.87,
+ "length_ft": 20.8,
+ "llm": {
+  "at": "2026-09-30",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2012,
+   "engine_hours": null,
+   "engine_hp": 135,
+   "engine_maker": "MerCruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2651e07fcddfbce6"
+ },
+ "location": "Kungälv",
+ "lon": 11.98,
+ "make": "Barcon",
+ "motor_size": 135.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 541,
+  "fetched_ts": 1790741437991,
+  "text_sha": "2651e07fcddfbce6"
+ },
+ "price": 45500,
+ "price_history": [
+  {
+   "bid": 38000,
+   "date": "2026-09-30",
+   "price": 45500
+  }
+ ],
+ "source": "klaravik",
+ "specs": {
+  "Antal nycklar": "1",
+  "Bredd (m)": "2,38",
+  "Drivlina": "Alpha",
+  "Drivmedel": "Bensin",
+  "Hästkrafter": "135",
+  "Ja Skrovnummer": "SE-BAR33158G014",
+  "Lasthjälpsinformation Lasthjälp": "Lasthjälp i överenskommelse med säljaren",
+  "Modell": "22",
+  "Motor": "MerCruiser 3,0",
+  "Märke": "Barcon",
+  "Mätarställning": "Okänt CE-märkt:",
+  "One Drev Mått och vikt Längd (m)": "6,35",
+  "Sötvattenkyld Motortyp": "Inombordare",
+  "Trailers maxhastighet (km/h)": "30",
+  "Utrustad med": "- Plotter - Dynor - Lanternor - Bagbrygga - Badstege - Ruff",
+  "WA År": "2012",
+  "År enligt": "Typskylt"
+ },
+ "status": "active",
+ "url": "https://www.klaravik.se/auktion/produkt/3241484-motorbat-wa-barcon-22-wa-med-mercruiser-30-135hk-och-vagn/",
+ "year": null
+}

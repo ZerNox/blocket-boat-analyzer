@@ -94,6 +94,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-30",
  "page": {
   "description_chars": 415,
   "fetched_ts": 1790522962741,
@@ -120,7 +121,7 @@
   "Sittplatser": "6",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25285353",
  "width_cm": 0,
  "year": 1987

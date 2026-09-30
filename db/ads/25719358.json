@@ -57,6 +57,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-30",
  "page": {
   "description_chars": 248,
   "fetched_ts": 1790508131024,
@@ -82,7 +83,7 @@
   "Märke": "Ryds",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25719358",
  "vision": {
   "at": "2026-09-27",

@@ -67,6 +67,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-30",
  "page": {
   "description_chars": 591,
   "fetched_ts": 1790522955722,
@@ -97,7 +98,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "950 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25270576",
  "width_cm": 220,
  "year": 1987

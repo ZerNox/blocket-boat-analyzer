@@ -97,6 +97,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-09-30",
  "page": {
   "description_chars": 215,
   "fetched_ts": 1790522958627,
@@ -130,7 +131,7 @@
   "Typ": "Daycruiser",
   "Vikt": "805 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25273768",
  "width_cm": 250,
  "year": 1985
