@@ -1,0 +1,102 @@
+{
+ "ad_id": 27024131,
+ "boat_class": "Annat",
+ "changed_ts": 1790790413000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "SUZUKI DF 60",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "60 hk suzuki df 60 från -05 med trimplan och eltilt , nyservad. elstart. insprutning. centralinstrument.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "fräscht kapell och dynor",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "ny plotter och gps ( 7500kr)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80 km/h båt trailer från -25 kan köpas till för 15 000kr.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Välhållen HT båt , TERHI 520 med bränslesnål fyrtakts utombordare- Höstpris!",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-01T04:05:31+00:00",
+ "found_by": [
+  "Terhi 520"
+ ],
+ "heading": "Välhållen HT båt , TERHI 520 med bränslesnål fyrtakts utombordare- Höstpris!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27024131/8ecb8d7f-2d81-429a-aff0-12ed74dc6622",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27024131/8ecb8d7f-2d81-429a-aff0-12ed74dc6622",
+  "https://images.blocketcdn.se/dynamic/default/item/27024131/d80806ef-f08d-4c7c-bf10-fbcefeb34f51",
+  "https://images.blocketcdn.se/dynamic/default/item/27024131/e34c8c8a-dcf9-4211-9801-dae4e1da71b1",
+  "https://images.blocketcdn.se/dynamic/default/item/27024131/72618947-deba-401c-9f2a-d51e754349d6"
+ ],
+ "last_seen": "2026-10-01T04:05:31+00:00",
+ "lat": 61.17,
+ "length_ft": 17,
+ "location": "Furudal",
+ "lon": 15.13,
+ "make": "Terhi",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 508,
+  "fetched_ts": 1790827756105,
+  "text_sha": "f553ec62fea2e919"
+ },
+ "price": 46500,
+ "price_history": [
+  {
+   "date": "2026-10-01",
+   "price": 46500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "VIT/ORANGRE",
+  "Längd i fot": "17 fot",
+  "Modell": "520 HT",
+  "Modellår": "1988",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "SUZUKI DF 60",
+  "Motortyp": "Utombordare",
+  "Märke": "Terhi",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "25 knop",
+  "Typ": "Annat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27024131",
+ "width_cm": 0,
+ "year": 1988
+}

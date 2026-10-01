@@ -174,12 +174,16 @@
    "price": 150000
   }
  ],
+ "sold": {
+  "date": "2026-10-01",
+  "last_price": 150000
+ },
  "source": "kronofogden",
  "specs": {
   "Modell": "568 DC",
   "Märke": "Ryds"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://auktion.kronofogden.se/auk/w.object?inC=KFM&inA=20260909_1451&inO=11",
  "year": null
 }

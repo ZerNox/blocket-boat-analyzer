@@ -110,6 +110,12 @@
    "price": 4075
   }
  ],
+ "sold": {
+  "date": "2026-10-01",
+  "final_bid": 2400,
+  "last_price": 4075,
+  "reserve_reached": false
+ },
  "source": "klaravik",
  "specs": {
   "Antal nycklar": "1",
@@ -132,7 +138,7 @@
   "Serienummer motor": "Okänt",
   "Utrustad med": "- Bogpropellrar - Lanternor"
  },
- "status": "active",
+ "status": "unsold",
  "url": "https://www.klaravik.se/auktion/produkt/3292973-snipa-skilso-23-ht/",
  "year": null
 }

@@ -1,7 +1,7 @@
 {
  "ad_id": 18490895,
  "boat_class": "Styrpulpetbåt",
- "changed_ts": 1790166083000,
+ "changed_ts": 1790770886000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2001,
@@ -55,7 +55,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/18490895/b683cd60-4c35-4cd0-9a27-c6ca7268483d",
   "https://images.blocketcdn.se/dynamic/default/item/18490895/54fc87d5-5dc5-4896-839e-d0b0a1b96a73"
  ],
- "last_seen": "2026-09-30T04:06:26+00:00",
+ "last_seen": "2026-10-01T04:05:31+00:00",
  "lat": 59.48,
  "length_ft": 18,
  "location": "Åkersberga",
@@ -67,7 +67,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 393,
-  "fetched_ts": 1790522851364,
+  "fetched_ts": 1790827751709,
   "text_sha": "3f41e6cdc7ffd3fd"
  },
  "price": 79000,

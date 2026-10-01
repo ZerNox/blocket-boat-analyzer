@@ -1,0 +1,116 @@
+{
+ "ad_id": 27026457,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790795558000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": 60,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2006,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ryds 550 DC -01, Suzuki DF90 4-takt -06.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Plotter och ekolod Garmin Echomap UHD 92 sv med sjökort.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nyare fullkapell och nytt hamnkapell.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter och ekolod Garmin Echomap UHD 92 sv med sjökort.",
+    "included": true
+   },
+   "solpanel": {
+    "evidence": "Ruff med solcellsladdad ventilation.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 550 DC -01, Suzuki DF90 4-takt -06",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-01T04:05:31+00:00",
+ "found_by": [
+  "kategori",
+  "Ryds 550"
+ ],
+ "heading": "Ryds 550 DC -01, Suzuki DF90 4-takt -06",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27026457/3b571fc7-8374-4f3b-ae9a-4e901a92c3ae",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27026457/3b571fc7-8374-4f3b-ae9a-4e901a92c3ae",
+  "https://images.blocketcdn.se/dynamic/default/item/27026457/d0f48e12-f32f-4d73-b367-31810b12ca81",
+  "https://images.blocketcdn.se/dynamic/default/item/27026457/35a8f4ff-367d-4cfb-95da-68117154d84d",
+  "https://images.blocketcdn.se/dynamic/default/item/27026457/2ee7e567-1ac0-44e5-96ed-557fb74d5a6c",
+  "https://images.blocketcdn.se/dynamic/default/item/27026457/a2f31dbb-582c-4666-89d8-5abc552346e6",
+  "https://images.blocketcdn.se/dynamic/default/item/27026457/634aebe7-9dff-4935-afe8-9c4f4b0fa343",
+  "https://images.blocketcdn.se/dynamic/default/item/27026457/36a4b87b-91c7-4ad0-a820-df88a7266361",
+  "https://images.blocketcdn.se/dynamic/default/item/27026457/1bf78b78-7c29-42b5-8474-c1b9877206a2",
+  "https://images.blocketcdn.se/dynamic/default/item/27026457/0637e56b-b648-4646-b739-aa48a373e910",
+  "https://images.blocketcdn.se/dynamic/default/item/27026457/59481c5b-8b34-4f84-a794-3b66afa4e7ca",
+  "https://images.blocketcdn.se/dynamic/default/item/27026457/594ca4f9-8844-47bb-9cdd-fa84186d96e0",
+  "https://images.blocketcdn.se/dynamic/default/item/27026457/a330a3e0-b318-4ee2-8046-1fed1446ac28",
+  "https://images.blocketcdn.se/dynamic/default/item/27026457/1d8315f4-6c1f-405a-80ca-93ae815c8442"
+ ],
+ "last_seen": "2026-10-01T04:05:31+00:00",
+ "lat": 59.52,
+ "length_ft": 18,
+ "location": "Vallentuna",
+ "lon": 18.06,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 619,
+  "fetched_ts": 1790827757531,
+  "text_sha": "d46732142b648d81"
+ },
+ "price": 92000,
+ "price_history": [
+  {
+   "date": "2026-10-01",
+   "price": 92000
+  }
+ ],
+ "specs": {
+  "Bredd": "225 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "550 DC",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "575 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27026457",
+ "width_cm": 225,
+ "year": 2001
+}

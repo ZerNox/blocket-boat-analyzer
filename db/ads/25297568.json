@@ -83,6 +83,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-01",
  "page": {
   "description_chars": 206,
   "fetched_ts": 1790507744027,
@@ -110,7 +111,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25297568",
  "width_cm": 0,
  "year": 1991

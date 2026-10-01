@@ -70,6 +70,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-01",
  "page": {
   "description_chars": 523,
   "fetched_ts": 1790507738441,
@@ -100,7 +101,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "570 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25295261",
  "width_cm": 210,
  "year": 1985

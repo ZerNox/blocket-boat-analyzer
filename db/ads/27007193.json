@@ -1,0 +1,133 @@
+{
+ "ad_id": 27007193,
+ "boat_class": "Bowrider",
+ "changed_ts": 1790756233000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2021,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha F100",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2021,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Editionpaket, akterkapell , teakpaket, dynsats, Garmin 922xs, sjökort G3, motorlås klass 3 , brandsläckare, ankare, 91 …",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "I priset ingår det en trailern Fogelsta -2021 30 km/h vagn.",
+    "included": true,
+    "kmh": 30,
+    "year": 2021
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Yamarin 56 BR",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-01T04:05:31+00:00",
+ "found_by": [
+  "Yamarin 56"
+ ],
+ "heading": "Yamarin 56 BR",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27007193/8a758969-5409-425d-af54-17715eb5e960",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27007193/8a758969-5409-425d-af54-17715eb5e960",
+  "https://images.blocketcdn.se/dynamic/default/item/27007193/930ce735-85fe-46c3-bf23-f705c315cb16",
+  "https://images.blocketcdn.se/dynamic/default/item/27007193/9e6d5c13-0502-4ba7-9791-b2ce3f4d06ca",
+  "https://images.blocketcdn.se/dynamic/default/item/27007193/1e3a95ca-2800-4b82-99f4-6f37cc92bdf0",
+  "https://images.blocketcdn.se/dynamic/default/item/27007193/bd408e9b-9dab-477c-8ca6-9f7f7bada911",
+  "https://images.blocketcdn.se/dynamic/default/item/27007193/9d2698b0-157e-4c0d-a165-4e0929f961b2",
+  "https://images.blocketcdn.se/dynamic/default/item/27007193/1dd230ea-24ac-4072-9ee9-e2d23ffa558c"
+ ],
+ "last_seen": "2026-10-01T04:05:31+00:00",
+ "lat": 65.33,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-10-01",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2021,
+   "engine_hours": null,
+   "engine_hp": 100,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortillverkare: Yamaha F100",
+   "engine_year_rejected": 2021,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d7809c3ccce06de3"
+ },
+ "location": "Piteå",
+ "lon": 21.59,
+ "make": "Yamarin",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 311,
+  "fetched_ts": 1790827753273,
+  "text_sha": "d7809c3ccce06de3"
+ },
+ "price": 295000,
+ "price_history": [
+  {
+   "date": "2026-10-01",
+   "price": 295000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "56BR",
+  "Modellår": "2021",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Yamaha F100",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Skrovmaterial": "Plast",
+  "Typ": "Bowrider"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27007193",
+ "width_cm": 0,
+ "year": 2021
+}

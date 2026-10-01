@@ -91,6 +91,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-01",
  "page": {
   "description_chars": 305,
   "fetched_ts": 1790523156615,
@@ -113,7 +114,7 @@
   "Märke": "Reinell",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26379859",
  "width_cm": 0,
  "year": 1987

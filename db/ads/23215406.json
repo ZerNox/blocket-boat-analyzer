@@ -87,6 +87,7 @@
  "motor_fuel": "Diesel",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-01",
  "page": {
   "description_chars": 102,
   "fetched_ts": 1790522889560,
@@ -117,7 +118,7 @@
   "Sovplatser": "4",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/23215406",
  "width_cm": 240,
  "year": 1979
