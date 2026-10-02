@@ -92,6 +92,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 55.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-02",
  "page": {
   "description_chars": 358,
   "fetched_ts": 1790508882907,
@@ -124,7 +125,7 @@
   "Sovplatser": "2",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26705695",
  "width_cm": 0,
  "year": 1979

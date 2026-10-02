@@ -86,6 +86,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-02",
  "page": {
   "description_chars": 604,
   "fetched_ts": 1790507459501,
@@ -111,7 +112,7 @@
   "Märke": "Ryds",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/22518149",
  "width_cm": 0,
  "year": 1972

@@ -120,6 +120,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-02",
  "page": {
   "description_chars": 919,
   "fetched_ts": 1790522897827,
@@ -149,7 +150,7 @@
   "Toppfart": "28 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/23471597",
  "width_cm": 234,
  "year": 1997

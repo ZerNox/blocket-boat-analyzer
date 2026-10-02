@@ -1,0 +1,136 @@
+{
+ "ad_id": 27037557,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790849924000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Honda",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2008,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Medföljer en 30kärra från BT-släpet.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Boat has open cockpit, no visible enclosed cabin or roof.",
+  "hull_source": "bild",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-10-02T04:06:07+00:00",
+ "found_by": [
+  "Ryds 568"
+ ],
+ "heading": "Ryds 568 gti med Honda 90",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27037557/2a27f832-7577-4585-95f2-953bf4a11e02",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27037557/2a27f832-7577-4585-95f2-953bf4a11e02",
+  "https://images.blocketcdn.se/dynamic/default/item/27037557/7041d356-b8e5-439b-bf91-3b241a790e2a",
+  "https://images.blocketcdn.se/dynamic/default/item/27037557/5c35004b-9843-414a-8925-8b6ca27bdf3e",
+  "https://images.blocketcdn.se/dynamic/default/item/27037557/ebda9ca7-4a44-43f7-acb6-4e993866e178",
+  "https://images.blocketcdn.se/dynamic/default/item/27037557/ed1fea1e-3cf9-43de-98fd-7ee33cc7f6c7"
+ ],
+ "last_seen": "2026-10-02T04:06:07+00:00",
+ "lat": 58.67,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-10-02",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2008,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor servad på firma inför denna säsong.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2619d407572fb986"
+ },
+ "location": "Oxelösund",
+ "lon": 17.07,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 560,
+  "fetched_ts": 1790914193865,
+  "text_sha": "2619d407572fb986"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-10-02",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27037557",
+ "vision": {
+  "at": "2026-10-02",
+  "images_sha": "6ec8c3bd7540c206",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "Boat has open cockpit, no visible enclosed cabin or roof.",
+   "hull_photo": 3
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 0,
+ "year": 2008
+}

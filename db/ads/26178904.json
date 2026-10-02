@@ -72,7 +72,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26178904/018ff96d-8bc4-4335-9410-60128bf722ac",
   "https://images.blocketcdn.se/dynamic/default/item/26178904/e42d9048-0a59-4a4f-af07-18a4f3df5e1a"
  ],
- "last_seen": "2026-10-01T04:05:31+00:00",
+ "last_seen": "2026-10-02T04:06:07+00:00",
  "lat": 59.11,
  "length_ft": 21,
  "llm": {
@@ -114,11 +114,15 @@
   "fetched_ts": 1790523134441,
   "text_sha": "e16e9ad9fe506f7a"
  },
- "price": 99000,
+ "price": 129000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 99000
+  },
+  {
+   "date": "2026-10-02",
+   "price": 129000
   }
  ],
  "specs": {

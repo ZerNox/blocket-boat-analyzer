@@ -83,6 +83,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-10-02",
  "page": {
   "description_chars": 98,
   "fetched_ts": 1790522907343,
@@ -107,7 +108,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "600 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/23770446",
  "vision": {
   "at": "2026-09-27",

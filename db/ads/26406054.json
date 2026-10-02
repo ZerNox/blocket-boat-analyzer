@@ -98,6 +98,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 100.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-02",
  "page": {
   "description_chars": 1061,
   "fetched_ts": 1790523162087,
@@ -110,6 +111,11 @@
    "price": 179000
   }
  ],
+ "sold": {
+  "date": "2026-10-02",
+  "days_seen": 5,
+  "last_price": 179000
+ },
  "specs": {
   "Bredd": "230 cm",
   "Båtens plats": "Sverige",
@@ -126,7 +132,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "850 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26406054",
  "width_cm": 230,
  "year": 2005

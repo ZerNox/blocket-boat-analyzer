@@ -94,6 +94,7 @@
  "motor_fuel": null,
  "motor_size": 80.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-02",
  "page": {
   "description_chars": 302,
   "fetched_ts": 1790741423778,
@@ -106,6 +107,11 @@
    "price": 145000
   }
  ],
+ "sold": {
+  "date": "2026-10-02",
+  "days_seen": 2,
+  "last_price": 145000
+ },
  "specs": {
   "Bredd": "224 cm",
   "Båtens plats": "Sverige",
@@ -118,7 +124,7 @@
   "Märke": "Yamarin",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/27000823",
  "vision": {
   "at": "2026-09-30",

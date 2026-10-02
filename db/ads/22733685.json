@@ -97,6 +97,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-02",
  "page": {
   "description_chars": 412,
   "fetched_ts": 1790522872354,
@@ -109,6 +110,11 @@
    "price": 27000
   }
  ],
+ "sold": {
+  "date": "2026-10-02",
+  "days_seen": 5,
+  "last_price": 27000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
@@ -127,7 +133,7 @@
   "Toppfart": "25 knop",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/22733685",
  "width_cm": 0,
  "year": 1987

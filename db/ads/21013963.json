@@ -1,0 +1,137 @@
+{
+ "ad_id": 21013963,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1790874464000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1983,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": "Bara att hänga på en motor 60-100hk och köra! - ombromsad 30-kärra ingår - tampar, fendrar, ankare - tätt kapell - s",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1983,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "- tätt kapell",
+    "included": true
+   },
+   "solpanel": {
+    "evidence": "solcell med regulator, batteri och kylbox",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Shetland 570 ENDAST SKROV OCH KÄRRA ej motor",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-02T04:06:07+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Shetland 570 ENDAST SKROV OCH KÄRRA ej motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/21013963/e7fa7f31-a2e2-47d2-af0e-cb8a8bca128d",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/21013963/e7fa7f31-a2e2-47d2-af0e-cb8a8bca128d",
+  "https://images.blocketcdn.se/dynamic/default/item/21013963/869cd4ed-d88f-4c7d-8cb3-ccd194b37f32",
+  "https://images.blocketcdn.se/dynamic/default/item/21013963/52edcf72-4a53-4d7e-9504-a1ee220160cf",
+  "https://images.blocketcdn.se/dynamic/default/item/21013963/f9c0d8d8-08bf-4b4c-a32b-682b3d1f3431",
+  "https://images.blocketcdn.se/dynamic/default/item/21013963/e1dad154-3268-4ab0-b945-d9308fcc388d",
+  "https://images.blocketcdn.se/dynamic/default/item/21013963/9cb98e0b-924e-48d2-bc5a-a839138fdd76",
+  "https://images.blocketcdn.se/dynamic/default/item/21013963/e1103e5a-7d73-4196-a491-b13ca392d1e7",
+  "https://images.blocketcdn.se/dynamic/default/item/21013963/3c23f90f-44c2-4e56-9ba7-bf401eb30b79"
+ ],
+ "last_seen": "2026-10-02T04:06:07+00:00",
+ "lat": 59.29,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-10-02",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1983,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "included",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "59af9ebbf29b718e"
+ },
+ "location": "Enhörna",
+ "lon": 17.43,
+ "make": "Shakespeare",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 347,
+  "fetched_ts": 1790914191238,
+  "text_sha": "59af9ebbf29b718e"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-10-02",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modell": "Shetland 570",
+  "Modellår": "1983",
+  "Motor inkluderad": "Nej",
+  "Märke": "Shakespeare",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Typ": "Kabinbåt",
+  "Vikt": "615 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/21013963",
+ "width_cm": 0,
+ "year": 1983
+}

@@ -1,0 +1,124 @@
+{
+ "ad_id": 26516428,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1790842103000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Alla dynor är i fint skick, stor solbädd i aktern med dynor, vattenskidsstång, bruceankare och ankarrulle, Garmin ekolo…",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Badstege, mugghållare, lanternor, hydraulstyrning, öppningsbar taklucka i ruffen, bord i sittbrunn, spöhållare, snurrba…",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nya rutor och dragkedjor i kapell 2026, Ny ”tempur-madrass\" till kojen inköpt 2025.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Alla dynor är i fint skick, stor solbädd i aktern med dynor, vattenskidsstång, bruceankare och ankarrulle, Garmin ekolo…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båttrailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ny ”tempur-madrass\" till kojen inköpt 2025. Alla dynor är i fint skick, stor solbädd i aktern med dynor,",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-02T04:06:07+00:00",
+ "found_by": [
+  "kategori",
+  "Örnvik 540"
+ ],
+ "heading": "Örnvik 540 cruiser",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26516428/e5113712-47ea-47b5-a861-f0a21f34341c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/e5113712-47ea-47b5-a861-f0a21f34341c",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/0dfac826-7b6c-42c9-9426-e1a51cd5ed34",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/52c0743d-ef00-4737-b520-5a91f992f598",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/4c8fbe94-f605-4204-b48b-823aa2a4a5a8",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/a07c08f4-07bb-4eb5-b542-cce441ab81cd",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/5c5dea0a-3e5c-441b-851e-cad8315b96ad",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/87c08a10-a91b-4e98-abd1-6dc5685e8477",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/8196c038-6488-47c3-9e59-61872e8eb92f",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/fe23d004-1567-4c0d-96a8-fdccbdcf3af9",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/7db60430-f1f4-4a41-8d78-1f5933bc3911",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/895d7a81-6c31-41da-a636-0da261ed2e9a",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/353168e1-a65f-41be-89b9-c61dcaa915d7",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/26d9a9a9-b693-4fb5-afec-3149c92fc0b9",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/3f07cf4c-8441-456f-97cb-a3726e91938a",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/7557e8db-66c9-4d0f-b867-49f5e77a3f09",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/a84c127b-11f5-4fce-9ae8-0e13a6430324",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/3d7bcabd-f75d-4077-9db7-7e5b59dc7ae0",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/f376c72e-6c1f-4d7b-a9ed-3d72bbd6a73f",
+  "https://images.blocketcdn.se/dynamic/default/item/26516428/f4c180d5-35a6-4cc1-8d84-96b8c09456dd"
+ ],
+ "last_seen": "2026-10-02T04:06:07+00:00",
+ "lat": 58.62,
+ "length_ft": 18,
+ "location": "Norrköping",
+ "lon": 16.34,
+ "make": "Örnvik",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1118,
+  "fetched_ts": 1790914192654,
+  "text_sha": "f526563b66fc855c"
+ },
+ "price": 119000,
+ "price_history": [
+  {
+   "date": "2026-10-02",
+   "price": 119000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "Örnvik 540 cruiser",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sovplatser": "3",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26516428",
+ "width_cm": 0,
+ "year": 2006
+}

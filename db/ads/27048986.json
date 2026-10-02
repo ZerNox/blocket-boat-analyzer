@@ -1,0 +1,118 @@
+{
+ "ad_id": 27048986,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1790871741000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2002,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "mplig motor 40-80hk Finns en Yamaha 50hk 2t som kan köpas till om om intresse finns.",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": 2002,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-02T04:06:07+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds 535 AC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27048986/7ad8ea4e-3161-452a-b6bf-5e6fb598d0ce",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27048986/7ad8ea4e-3161-452a-b6bf-5e6fb598d0ce",
+  "https://images.blocketcdn.se/dynamic/default/item/27048986/23c978b9-02c1-4754-9703-984c8b2356d1",
+  "https://images.blocketcdn.se/dynamic/default/item/27048986/56cbade1-18f0-4714-8ceb-a3201d4208d1"
+ ],
+ "last_seen": "2026-10-02T04:06:07+00:00",
+ "lat": 60.25,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-10-02",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2002,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "none",
+   "engine_year": null,
+   "engine_year_evidence": "Ej motor",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "15fee8529e335f02"
+ },
+ "location": "Östhammar",
+ "lon": 18.39,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 157,
+  "fetched_ts": 1790914195370,
+  "text_sha": "15fee8529e335f02"
+ },
+ "price": 29900,
+ "price_history": [
+  {
+   "date": "2026-10-02",
+   "price": 29900
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Längd i fot": "18 fot",
+  "Modell": "Ryds 535 FC",
+  "Modellår": "2002",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Typ": "Kabinbåt",
+  "Vikt": "500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27048986",
+ "width_cm": 200,
+ "year": 2002
+}

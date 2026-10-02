@@ -66,7 +66,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26766802/a593af36-df02-4688-9dc2-5650faa1463d",
   "https://images.blocketcdn.se/dynamic/default/item/26766802/60143979-008a-4688-8365-2f73127ca0ee"
  ],
- "last_seen": "2026-10-01T04:05:31+00:00",
+ "last_seen": "2026-10-02T04:06:07+00:00",
  "lat": 59.37,
  "length_ft": 18,
  "location": "Solna",
@@ -81,7 +81,7 @@
   "fetched_ts": 1790523216834,
   "text_sha": "ad7fd0bf54c52870"
  },
- "price": 20000,
+ "price": 24000,
  "price_history": [
   {
    "date": "2026-09-27",
@@ -90,6 +90,10 @@
   {
    "date": "2026-09-28",
    "price": 20000
+  },
+  {
+   "date": "2026-10-02",
+   "price": 24000
   }
  ],
  "specs": {
