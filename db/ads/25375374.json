@@ -87,6 +87,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-03",
  "page": {
   "description_chars": 114,
   "fetched_ts": 1790522977179,
@@ -114,7 +115,7 @@
   "Toppfart": "38 knop",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25375374",
  "width_cm": 235,
  "year": 1992

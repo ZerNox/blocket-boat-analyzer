@@ -112,6 +112,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-03",
  "page": {
   "description_chars": 333,
   "fetched_ts": 1790522970015,
@@ -143,7 +144,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "510 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25350249",
  "width_cm": 210,
  "year": 1977

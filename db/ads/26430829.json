@@ -107,6 +107,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-03",
  "page": {
   "description_chars": 202,
   "fetched_ts": 1790508687345,
@@ -119,6 +120,11 @@
    "price": 119000
   }
  ],
+ "sold": {
+  "date": "2026-10-03",
+  "days_seen": 6,
+  "last_price": 119000
+ },
  "specs": {
   "Bredd": "230 cm",
   "Båtens plats": "Sverige",
@@ -138,7 +144,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "750 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26430829",
  "width_cm": 230,
  "year": 1997

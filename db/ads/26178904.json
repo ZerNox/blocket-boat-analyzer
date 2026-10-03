@@ -1,7 +1,7 @@
 {
  "ad_id": 26178904,
  "boat_class": "Daycruiser",
- "changed_ts": 1790277620000,
+ "changed_ts": 1790938455000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2000,
@@ -72,11 +72,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26178904/018ff96d-8bc4-4335-9410-60128bf722ac",
   "https://images.blocketcdn.se/dynamic/default/item/26178904/e42d9048-0a59-4a4f-af07-18a4f3df5e1a"
  ],
- "last_seen": "2026-10-02T04:06:07+00:00",
+ "last_seen": "2026-10-03T04:06:14+00:00",
  "lat": 59.11,
  "length_ft": 21,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-03",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2000,
@@ -91,16 +91,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "included",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "e16e9ad9fe506f7a"
+  "text_sha": "8b750ed957d849bb"
  },
  "location": "Järna",
  "lon": 17.56,
@@ -110,11 +115,11 @@
  "motor_size": null,
  "motor_type": "Inombordare",
  "page": {
-  "description_chars": 1349,
-  "fetched_ts": 1790523134441,
-  "text_sha": "e16e9ad9fe506f7a"
+  "description_chars": 1406,
+  "fetched_ts": 1791000599349,
+  "text_sha": "8b750ed957d849bb"
  },
- "price": 129000,
+ "price": 89000,
  "price_history": [
   {
    "date": "2026-09-27",
@@ -123,6 +128,10 @@
   {
    "date": "2026-10-02",
    "price": 129000
+  },
+  {
+   "date": "2026-10-03",
+   "price": 89000
   }
  ],
  "specs": {

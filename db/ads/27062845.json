@@ -1,0 +1,139 @@
+{
+ "ad_id": 27062845,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1790934923000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
+  "engine_maker": "Yanmar",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2005,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Kartplotter",
+    "included": true
+   },
+   "radar": {
+    "evidence": "Radar",
+    "included": true
+   },
+   "varmare": {
+    "evidence": "Motorvärmare",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-03T04:06:14+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Minor 21 WR",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27062845/9d9489ab-36e7-4258-b54d-ff04f7423e34",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27062845/9d9489ab-36e7-4258-b54d-ff04f7423e34",
+  "https://images.blocketcdn.se/dynamic/default/item/27062845/3347503c-62ad-467c-a1a3-64d71e542873",
+  "https://images.blocketcdn.se/dynamic/default/item/27062845/568d610a-d090-4de3-b58b-e452b67c1e98",
+  "https://images.blocketcdn.se/dynamic/default/item/27062845/1d9b2cd8-d970-4339-b352-9e768493727e",
+  "https://images.blocketcdn.se/dynamic/default/item/27062845/db00c3de-200d-4555-969a-457ed2a2496d"
+ ],
+ "last_seen": "2026-10-03T04:06:14+00:00",
+ "lat": 59.11,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-10-03",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2005,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Yanmar",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "included",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "varmare": "included",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "2bd41215b684aefe"
+ },
+ "location": "Västerhaninge",
+ "lon": 18.11,
+ "make": "Minor",
+ "max_speed": 21,
+ "motor_fuel": "Diesel",
+ "motor_size": 75.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 563,
+  "fetched_ts": 1791000600761,
+  "text_sha": "2bd41215b684aefe"
+ },
+ "price": 220000,
+ "price_history": [
+  {
+   "date": "2026-10-03",
+   "price": 220000
+  }
+ ],
+ "specs": {
+  "Bredd": "235 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "Minor 21 WR",
+  "Modellår": "2005",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Yanmar",
+  "Motortyp": "Inombordare",
+  "Märke": "Minor",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "21 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "1 300 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27062845",
+ "width_cm": 235,
+ "year": 2005
+}

@@ -1,0 +1,100 @@
+{
+ "ad_id": 24494500,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1790970750000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2000,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamaha 100hk från -00",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellet behöver en rengöring och plastrutorna på kapellet skulle behövas tvättas/bytas",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "leak"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-03T04:06:14+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 630"
+ ],
+ "heading": "Flipper 630 OC 100hk Yamaha",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24494500/140adbd2-b3fe-48de-8dfd-4c734ff8f943",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24494500/140adbd2-b3fe-48de-8dfd-4c734ff8f943",
+  "https://images.blocketcdn.se/dynamic/default/item/24494500/70c2c1f0-5b4f-4b9a-b475-3b78fc5b23d0",
+  "https://images.blocketcdn.se/dynamic/default/item/24494500/fc70cf5c-35a0-4ca4-bbb9-924b860d6947",
+  "https://images.blocketcdn.se/dynamic/default/item/24494500/91ee18fb-9f67-4c44-ba37-437b8747089e",
+  "https://images.blocketcdn.se/dynamic/default/item/24494500/551267a3-ad18-453c-b300-bfdeae6d3cb2",
+  "https://images.blocketcdn.se/dynamic/default/item/24494500/086bbbba-666a-4c18-9ed4-8323a3443196",
+  "https://images.blocketcdn.se/dynamic/default/item/24494500/f1c8d6b8-810f-4bdb-9f53-5388caca852a",
+  "https://images.blocketcdn.se/dynamic/default/item/24494500/0ee4f5a4-14b3-4ad1-893b-393ec7139171",
+  "https://images.blocketcdn.se/dynamic/default/item/24494500/0617dcee-bac9-483a-8fce-dd8d7374fec7",
+  "https://images.blocketcdn.se/dynamic/default/item/24494500/01f46058-ad92-4504-8cbb-626c5088e490"
+ ],
+ "last_seen": "2026-10-03T04:06:14+00:00",
+ "lat": 59.45,
+ "length_ft": 21,
+ "location": "Åkersberga",
+ "lon": 18.2,
+ "make": "Flipper",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 492,
+  "fetched_ts": 1791000597882,
+  "text_sha": "a1cadd71db95ec9a"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-10-03",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Bredd": "240 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "75 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "21 fot",
+  "Modell": "630 OC",
+  "Modellår": "2000",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Typ": "Hyttbåt",
+  "Vikt": "910 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24494500",
+ "width_cm": 240,
+ "year": 2000
+}

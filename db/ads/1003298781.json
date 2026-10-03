@@ -1,0 +1,121 @@
+{
+ "ad_id": 1003298781,
+ "auction": {
+  "bid": 100,
+  "close": "2026-10-09T12:40:00+02:00",
+  "ended": false,
+  "fee": 7080,
+  "margin_scheme": true,
+  "next_bid": 200,
+  "reserve_reached": false,
+  "start": "2026-10-02T09:00:00+02:00",
+  "vat": 0
+ },
+ "boat_class": null,
+ "dealer_segment": "Auktion",
+ "extraction": {
+  "boat_year": 1991,
+  "boat_year_source": "spec",
+  "engine_hours": 50,
+  "engine_hp": 115.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Hyttbåt Sea Star 600S med Suzuki 115hk Hyttbåt Sea Star 600S med Suzuki 115hk Märke: Sea Star Modell: 600S År: Båt-1",
+  "engine_type_source": "rule:model",
+  "engine_year": 2022,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Hyttbåt Sea Star 600S med Suzuki 115hk Märke: Sea Star Modell: 600S År: Båt-1991 / Motor 2022 Båttyp: Styrhyttsbåt Mätarställning: Ca 50h på motor Serienummer båt: 1111 Serienumme…",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "GPS ekolod Plotter",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "GPS ekolod Plotter",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Högtalare och radio Obs, båtkärran medföljer ej.",
+    "included": false
+   },
+   "trailer": {
+    "evidence": "Högtalare och radio Obs, båtkärran medföljer ej.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Hyttbåt Sea Star 600S med Suzuki 115hk\nHyttbåt Sea Star 600S med Suzuki 115hk Mä",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-03",
+ "found_by": [
+  "klaravik",
+  "sea star 600"
+ ],
+ "heading": "Hyttbåt Sea Star 600S med Suzuki 115hk",
+ "image": "https://media.se.klaravik.com/public/productimages/08/9c/3298781/extrabilder75504846_large.jpg?v=1790835180",
+ "image_urls": [
+  "https://media.se.klaravik.com/public/productimages/08/9c/3298781/extrabilder75504846_large.jpg?v=1790835180"
+ ],
+ "last_seen": "2026-10-03",
+ "lat": 59.2,
+ "length_ft": 18.7,
+ "location": "Södertälje",
+ "lon": 17.62,
+ "make": "Sea Star",
+ "motor_size": 115.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 960,
+  "fetched_ts": 1791000642039,
+  "text_sha": "83f42b9e1003ba2e"
+ },
+ "price": 8950,
+ "price_history": [
+  {
+   "bid": 100,
+   "date": "2026-10-03",
+   "price": 8950
+  }
+ ],
+ "source": "klaravik",
+ "specs": {
+  "Antal nycklar": "2",
+  "Bredd (m)": "Ca 2,15m",
+  "Drivmedel": "Bensin",
+  "Första drift 2023 Motortyp": "4-taktsmotor",
+  "Lasthjälpsinformation Lasthjälp": "Lasthjälp i överenskommelse med säljaren",
+  "Längd (m)": "Ca 5,7m",
+  "Maxhastighet (knop)": "Närmare 40",
+  "Modell": "600S",
+  "Motor": "Suzuki 115hk. Från 2022.",
+  "Motor 2022 Båttyp": "Styrhyttsbåt",
+  "Motoreffekt (kW / hk)": "115 hk",
+  "Motortimmar": "Säljaren uppskattar motortimmarna till ca 50h sedan ny",
+  "Märke": "Sea Star",
+  "Mätarställning": "Ca 50h på motor",
+  "Mått och vikt Vikt (kg)": "Ca 80-900",
+  "Serienummer båt": "1111",
+  "Serienummer motor": "11506f-340827",
+  "Star Modell": "600S",
+  "Suzuki 115hk Märke": "Sea",
+  "År": "Båt-1991 /"
+ },
+ "status": "active",
+ "url": "https://www.klaravik.se/auktion/produkt/3298781-hyttbat-sea-star-600s-med-suzuki-115hk/",
+ "year": 1991
+}

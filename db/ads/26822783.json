@@ -54,7 +54,7 @@
  "found_by": [
   "kategori"
  ],
- "heading": "Bayliner Capri",
+ "heading": "Bayliner Capri slumpas",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26822783/24221f05-d06f-452c-ba94-f8f8eb3c85d2",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/26822783/24221f05-d06f-452c-ba94-f8f8eb3c85d2",
@@ -65,7 +65,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26822783/d29870a9-f1d0-4a66-a4ba-9e864af010be",
   "https://images.blocketcdn.se/dynamic/default/item/26822783/f2624ec8-5cf7-4025-889c-f7f6d41afacc"
  ],
- "last_seen": "2026-10-02T04:06:07+00:00",
+ "last_seen": "2026-10-03T04:06:14+00:00",
  "lat": 63.14,
  "length_ft": 18,
  "llm": {
@@ -107,11 +107,15 @@
   "fetched_ts": 1790523224883,
   "text_sha": "bef8dffe3fc0137a"
  },
- "price": 15000,
+ "price": 11000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 15000
+  },
+  {
+   "date": "2026-10-03",
+   "price": 11000
   }
  ],
  "specs": {

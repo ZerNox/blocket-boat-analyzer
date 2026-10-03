@@ -93,6 +93,7 @@
  "motor_fuel": null,
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-03",
  "page": {
   "description_chars": 60,
   "fetched_ts": 1790522884101,
@@ -116,7 +117,7 @@
   "Märke": "Uttern",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/23094880",
  "width_cm": 0,
  "year": 1985

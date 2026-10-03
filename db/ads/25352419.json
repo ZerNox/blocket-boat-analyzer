@@ -83,6 +83,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-03",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1790507790659,
@@ -108,7 +109,7 @@
   "Märke": "Ryds",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25352419",
  "width_cm": 0,
  "year": 1980
