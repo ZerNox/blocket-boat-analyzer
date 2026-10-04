@@ -95,6 +95,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-04",
  "page": {
   "description_chars": 396,
   "fetched_ts": 1790522980211,
@@ -116,7 +117,7 @@
   "Märke": "Wellcraft",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25397784",
  "width_cm": 0,
  "year": 1989

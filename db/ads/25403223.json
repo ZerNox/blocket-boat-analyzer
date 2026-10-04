@@ -82,6 +82,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 100.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-04",
  "page": {
   "description_chars": 903,
   "fetched_ts": 1790522985545,
@@ -111,7 +112,7 @@
   "Toppfart": "26 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25403223",
  "width_cm": 227,
  "year": 1987

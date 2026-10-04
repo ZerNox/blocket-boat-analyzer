@@ -1,0 +1,127 @@
+{
+ "ad_id": 27100966,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1791037692000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-04T04:07:36+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Köpes Bella c",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27100966/75f972a6-d17a-4404-93c1-187a5f981d04",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27100966/75f972a6-d17a-4404-93c1-187a5f981d04"
+ ],
+ "last_seen": "2026-10-04T04:07:36+00:00",
+ "lat": 60.16,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-10-04",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2026,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c90713ae9acfc6a1"
+ },
+ "location": "Ludvika",
+ "lon": 15.2,
+ "make": "Bella",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 0,
+  "fetched_ts": 1791087102045,
+  "text_sha": "c90713ae9acfc6a1"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-10-04",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "Köpes BELLA C",
+  "Modellår": "2026",
+  "Märke": "Bella",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27100966",
+ "vision": {
+  "at": "2026-10-04",
+  "images_sha": "c126f43c24c05abc",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "brand": null,
+   "engine_photos": [],
+   "four_stroke": null,
+   "hp": null,
+   "photo": null,
+   "text_seen": null
+  },
+  "tasks": [
+   "hp"
+  ]
+ },
+ "width_cm": 0,
+ "year": 2026
+}

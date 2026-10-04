@@ -90,6 +90,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-04",
  "page": {
   "description_chars": 176,
   "fetched_ts": 1790522986935,
@@ -114,7 +115,7 @@
   "Märke": "Askeladden",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25406701",
  "width_cm": 0,
  "year": 2001

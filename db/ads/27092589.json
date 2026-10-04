@@ -1,0 +1,109 @@
+{
+ "ad_id": 27092589,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1791025901000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Evinrude E-tec -2011",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Evinrude E-tec -2011",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Clear view of open cockpit, no enclosed cabin or hatch visible.",
+  "hull_source": "bild",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-04T04:07:36+00:00",
+ "found_by": [
+  "Ryds 530"
+ ],
+ "heading": "Ryds 530gt. Evinrude e-tec. Trailer.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27092589/e1af4f2f-0e11-428c-bab2-0c60ab251727",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27092589/e1af4f2f-0e11-428c-bab2-0c60ab251727",
+  "https://images.blocketcdn.se/dynamic/default/item/27092589/313dbf1a-c19f-4dd0-a640-1ca4172a459f",
+  "https://images.blocketcdn.se/dynamic/default/item/27092589/662f7cdd-98cc-4fa2-a9bc-f72b0980671e",
+  "https://images.blocketcdn.se/dynamic/default/item/27092589/af358a81-b9e2-4a19-8f60-bdf2d64fb799",
+  "https://images.blocketcdn.se/dynamic/default/item/27092589/a38c03c1-d23b-4f43-ade1-34dd36322c44",
+  "https://images.blocketcdn.se/dynamic/default/item/27092589/3f359168-a9dd-4b7b-87d9-929d463334dc",
+  "https://images.blocketcdn.se/dynamic/default/item/27092589/db36ff77-9693-4fa7-9b32-620e13bf4119",
+  "https://images.blocketcdn.se/dynamic/default/item/27092589/9e0cf5da-d240-4229-a78d-10907f1d3ead",
+  "https://images.blocketcdn.se/dynamic/default/item/27092589/f6da01ee-2c92-4040-80ac-a71157f390bc"
+ ],
+ "last_seen": "2026-10-04T04:07:36+00:00",
+ "lat": 59.97,
+ "length_ft": 17,
+ "location": "Väddö",
+ "lon": 18.8,
+ "make": "Ryds",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 120,
+  "fetched_ts": 1791087097809,
+  "text_sha": "263ab56414f6f149"
+ },
+ "price": 69900,
+ "price_history": [
+  {
+   "date": "2026-10-04",
+   "price": 69900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "530 gt",
+  "Modellår": "1989",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Evinrude E-tec -2011",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Toppfart": "32 knop",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27092589",
+ "vision": {
+  "at": "2026-10-04",
+  "images_sha": "85f2ece9f54cbf8d",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "Clear view of open cockpit, no enclosed cabin or hatch visible.",
+   "hull_photo": 1
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 0,
+ "year": 1989
+}

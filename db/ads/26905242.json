@@ -1,7 +1,7 @@
 {
  "ad_id": 26905242,
  "boat_class": "Kabinbåt",
- "changed_ts": 1790432044000,
+ "changed_ts": 1791036783000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1979,
@@ -21,7 +21,7 @@
   "engine_year_source": "rule:text",
   "equipment": {
    "ekolod": {
-    "evidence": "Det ingår en gps ”Humminbird Helix7”, täckställning och presenning.",
+    "evidence": "Det ingår en gps ”Humminbird Helix7”, tampar, 2st ankare, täckställning och presenning.",
     "included": true
    },
    "kapell": {
@@ -29,7 +29,7 @@
     "included": true
    },
    "plotter": {
-    "evidence": "Det ingår en gps ”Humminbird Helix7”, täckställning och presenning.",
+    "evidence": "Det ingår en gps ”Humminbird Helix7”, tampar, 2st ankare, täckställning och presenning.",
     "included": true
    },
    "trailer": {
@@ -37,7 +37,7 @@
     "included": false
    },
    "vinterkapell": {
-    "evidence": "Det ingår en gps ”Humminbird Helix7”, täckställning och presenning.",
+    "evidence": "Det ingår en gps ”Humminbird Helix7”, tampar, 2st ankare, täckställning och presenning.",
     "included": true
    }
   },
@@ -67,7 +67,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26905242/52a67b69-a470-4a42-8db3-eca90700bd7d",
   "https://images.blocketcdn.se/dynamic/default/item/26905242/a6c64717-b939-4bb9-9c1f-41fb7ae63f70"
  ],
- "last_seen": "2026-10-03T04:06:14+00:00",
+ "last_seen": "2026-10-04T04:07:36+00:00",
  "lat": 59.2,
  "length_ft": 18,
  "location": "Vendelsö",
@@ -78,9 +78,9 @@
  "motor_size": 70.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 417,
-  "fetched_ts": 1790523236176,
-  "text_sha": "cba110383b0fa742"
+  "description_chars": 429,
+  "fetched_ts": 1791087093583,
+  "text_sha": "b77e134a500b05ec"
  },
  "price": 23000,
  "price_history": [

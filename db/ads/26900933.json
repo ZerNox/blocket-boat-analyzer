@@ -1,7 +1,7 @@
 {
  "ad_id": 26900933,
  "boat_class": "Kabinbåt",
- "changed_ts": 1790424438000,
+ "changed_ts": 1791029175000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1980,
@@ -61,7 +61,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26900933/7b2a4651-1435-4282-a546-84481456df6a",
   "https://images.blocketcdn.se/dynamic/default/item/26900933/0b7ec56b-8c3a-48a8-8003-a858971448c8"
  ],
- "last_seen": "2026-10-03T04:06:14+00:00",
+ "last_seen": "2026-10-04T04:07:36+00:00",
  "lat": 59.37,
  "length_ft": 21,
  "location": "Värmdö",
@@ -73,7 +73,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 502,
-  "fetched_ts": 1790523233460,
+  "fetched_ts": 1791087092312,
   "text_sha": "fc190860c7625f24"
  },
  "price": 69000,

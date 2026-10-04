@@ -1,0 +1,97 @@
+{
+ "ad_id": 27057981,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1791019295000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1999,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2000,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Fin HT båt med Mercury 60 2-takt från 2000 i fint skick.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellet är fixat förra året.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30 trailer ingår.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-04T04:07:36+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Hansvik HT18",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27057981/73c96522-0769-4ae4-9751-d1ffa25de294",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27057981/73c96522-0769-4ae4-9751-d1ffa25de294",
+  "https://images.blocketcdn.se/dynamic/default/item/27057981/9ed24540-d617-44a4-bb80-8a1995f61f30",
+  "https://images.blocketcdn.se/dynamic/default/item/27057981/8630c1ee-c4ab-466e-ad3b-f555ac21bcc3",
+  "https://images.blocketcdn.se/dynamic/default/item/27057981/523b31fd-543b-4338-acfd-8e44d6f241f6",
+  "https://images.blocketcdn.se/dynamic/default/item/27057981/69d2d99a-aaba-4e89-a40d-ec1131162f97"
+ ],
+ "last_seen": "2026-10-04T04:07:36+00:00",
+ "lat": 59.31,
+ "length_ft": 18,
+ "location": "Djurhamn",
+ "lon": 18.7,
+ "make": "Hansvik",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 162,
+  "fetched_ts": 1791087094871,
+  "text_sha": "f0f1e5b22752674e"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-10-04",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "HT18",
+  "Modellår": "1999",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Hansvik",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27057981",
+ "width_cm": 0,
+ "year": 1999
+}

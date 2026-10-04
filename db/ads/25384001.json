@@ -85,6 +85,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-10-04",
  "page": {
   "description_chars": 75,
   "fetched_ts": 1790522978738,
@@ -107,7 +108,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25384001",
  "vision": {
   "at": "2026-09-27",

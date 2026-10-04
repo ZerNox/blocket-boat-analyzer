@@ -1,0 +1,138 @@
+{
+ "ad_id": 26522332,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1791026901000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1977,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1977,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-04T04:07:36+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Båt med vagn objekt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26522332/6ae0ce84-10d0-4814-b9f3-ae6658ab4bf6",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26522332/6ae0ce84-10d0-4814-b9f3-ae6658ab4bf6",
+  "https://images.blocketcdn.se/dynamic/default/item/26522332/13db000d-d0a9-46cd-8965-1d884d4a6a36",
+  "https://images.blocketcdn.se/dynamic/default/item/26522332/78adcac5-37b2-4b26-84db-1d367d4bd20c",
+  "https://images.blocketcdn.se/dynamic/default/item/26522332/18cb0762-982e-4731-a759-e8de86ba0998",
+  "https://images.blocketcdn.se/dynamic/default/item/26522332/96e9f732-8eaf-4769-882a-9d8d954d1ae3",
+  "https://images.blocketcdn.se/dynamic/default/item/26522332/d503c3a3-0149-410c-89af-77c45d3e67bc",
+  "https://images.blocketcdn.se/dynamic/default/item/26522332/ea5f7da8-4c39-4e36-9189-b0a272d4d606",
+  "https://images.blocketcdn.se/dynamic/default/item/26522332/ceac1c97-153e-4917-947e-2f7535f587a1"
+ ],
+ "last_seen": "2026-10-04T04:07:36+00:00",
+ "lat": 63.27,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-10-04",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1977,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "780bb79c6c0ec6fe"
+ },
+ "location": "Lit",
+ "lon": 14.93,
+ "make": "Monark",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 89,
+  "fetched_ts": 1791087089182,
+  "text_sha": "780bb79c6c0ec6fe"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-10-04",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "17 fot",
+  "Modell": "Camping",
+  "Modellår": "1977",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Monark",
+  "Skrovmaterial": "Plast",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26522332",
+ "vision": {
+  "at": "2026-10-04",
+  "images_sha": "4b2a937291e05d91",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "brand": "EVINRUDE",
+   "engine_photos": [
+    2
+   ],
+   "four_stroke": null,
+   "hp": null,
+   "photo": 2,
+   "text_seen": "EVINRUDE VRO"
+  },
+  "tasks": [
+   "hp"
+  ]
+ },
+ "width_cm": 0,
+ "year": 1977
+}

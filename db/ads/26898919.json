@@ -1,7 +1,7 @@
 {
  "ad_id": 26898919,
  "boat_class": "Hyttbåt",
- "changed_ts": 1790422042000,
+ "changed_ts": 1791031300000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1989,
@@ -58,11 +58,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26898919/a8e7d197-e25b-4697-a1ec-a4a8e01dcab1",
   "https://images.blocketcdn.se/dynamic/default/item/26898919/eae8222c-28ec-4ded-8253-bcfacdbaee62"
  ],
- "last_seen": "2026-10-03T04:06:14+00:00",
+ "last_seen": "2026-10-04T04:07:36+00:00",
  "lat": 59.12,
  "length_ft": 17,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-04",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1989,
@@ -77,16 +77,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "excluded",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "b199fd2ee8a7d9ff"
+  "text_sha": "d14b384584042d83"
  },
  "location": "Säffle",
  "lon": 13.07,
@@ -97,14 +102,18 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 485,
-  "fetched_ts": 1790509010827,
-  "text_sha": "b199fd2ee8a7d9ff"
+  "fetched_ts": 1791087090772,
+  "text_sha": "d14b384584042d83"
  },
- "price": 95000,
+ "price": 89000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 95000
+  },
+  {
+   "date": "2026-10-04",
+   "price": 89000
   }
  ],
  "specs": {

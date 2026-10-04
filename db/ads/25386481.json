@@ -76,6 +76,7 @@
  "motor_fuel": null,
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-04",
  "page": {
   "description_chars": 490,
   "fetched_ts": 1790507828315,
@@ -100,7 +101,7 @@
   "Toppfart": "32 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25386481",
  "width_cm": 0,
  "year": 1985

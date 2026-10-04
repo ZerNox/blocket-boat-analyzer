@@ -1,0 +1,95 @@
+{
+ "ad_id": 27086877,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1791022477000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": 255,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Både båt och motor 2008.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Båtkärran",
+    "included": true
+   },
+   "vinterkapell": {
+    "evidence": "Ev kan ställning o presenning ingå.",
+    "included": true
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Yamarin 56SC 100hk",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-04T04:07:36+00:00",
+ "found_by": [
+  "Yamarin 56"
+ ],
+ "heading": "Yamarin 56SC 100hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27086877/f8a873ce-792a-4769-b4dc-248a4a0bf008",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27086877/f8a873ce-792a-4769-b4dc-248a4a0bf008",
+  "https://images.blocketcdn.se/dynamic/default/item/27086877/8fef800c-ffb0-4a87-81e6-781c90ac69d1",
+  "https://images.blocketcdn.se/dynamic/default/item/27086877/957655b9-0b45-4075-a398-48870ee33192",
+  "https://images.blocketcdn.se/dynamic/default/item/27086877/bf13d5a7-f259-41a0-afdd-3ff943ed8fba",
+  "https://images.blocketcdn.se/dynamic/default/item/27086877/753c1399-cd9e-4dc7-b1e2-604150a43163",
+  "https://images.blocketcdn.se/dynamic/default/item/27086877/603292c9-ddc4-42cf-bd80-fda95b628289",
+  "https://images.blocketcdn.se/dynamic/default/item/27086877/f33da396-19c1-437d-92bd-babff4a59a8c"
+ ],
+ "last_seen": "2026-10-04T04:07:36+00:00",
+ "lat": 57.51,
+ "length_ft": 18,
+ "location": "Särö",
+ "lon": 11.98,
+ "make": "Yamarin",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 521,
+  "fetched_ts": 1791087096430,
+  "text_sha": "e33b85b783b15279"
+ },
+ "price": 165000,
+ "price_history": [
+  {
+   "date": "2026-10-04",
+   "price": 165000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "56SC",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27086877",
+ "width_cm": 0,
+ "year": 2008
+}
