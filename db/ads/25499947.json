@@ -44,7 +44,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25499947/394f3062-a13a-4b63-a286-f43e5a5c5463",
   "https://images.blocketcdn.se/dynamic/default/item/25499947/7311ba03-87c1-41f2-8150-4d558f6cf14a"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.35,
  "length_ft": 21,
  "location": "Solna",
@@ -56,7 +56,7 @@
  "motor_type": null,
  "page": {
   "description_chars": 372,
-  "fetched_ts": 1790523006881,
+  "fetched_ts": 1791173612999,
   "text_sha": "c9c157495603dd4e"
  },
  "price": 10000,

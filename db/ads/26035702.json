@@ -17,7 +17,7 @@
   "engine_year": 2008,
   "engine_year_est": null,
   "engine_year_est_reason": null,
-  "engine_year_evidence": "Säljer en Örnvik 555 WA , årsmodell 2007, med Mercury EFI 100 hk fyrtaktsmotor från 2008.",
+  "engine_year_evidence": "fyrtaktsmotor från 2008.Mycket trevlig och mångsidig båt som passar bra för fiske, bad, vattensport och utflykter.",
   "engine_year_source": "rule:text",
   "equipment": {
    "ekolod": {
@@ -29,7 +29,7 @@
     "included": true
    },
    "kapell": {
-    "evidence": "Kapell: Kapellet lämnades förra året in till en kapellverkstad, där samtliga fönster i huvuddelen byttes och sömmarna s…",
+    "evidence": "Kapell:",
     "included": true
    },
    "plotter": {
@@ -73,7 +73,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26035702/a2955cb0-74ca-4bfe-87fc-8b6fbe2fecd3",
   "https://images.blocketcdn.se/dynamic/default/item/26035702/ee945fd9-40d9-4355-bbb7-48273a8ff853"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 57.81,
  "length_ft": 18,
  "location": "Harestad",
@@ -84,15 +84,19 @@
  "motor_size": 100.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 1902,
-  "fetched_ts": 1790523109496,
-  "text_sha": "ddb263746a1fd01a"
+  "description_chars": 1992,
+  "fetched_ts": 1791173736432,
+  "text_sha": "97f091d471241596"
  },
- "price": 120000,
+ "price": 110000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 120000
+  },
+  {
+   "date": "2026-10-05",
+   "price": 110000
   }
  ],
  "specs": {

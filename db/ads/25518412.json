@@ -58,7 +58,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25518412/fd0cbe09-186c-47fe-9a9c-8b2199b0a5f3",
   "https://images.blocketcdn.se/dynamic/default/item/25518412/2dbece2c-05af-4544-99f2-9d0f89f2ce96"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 60.47,
  "length_ft": 18,
  "location": "Borlänge",
@@ -70,7 +70,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 846,
-  "fetched_ts": 1790523013902,
+  "fetched_ts": 1791173621546,
   "text_sha": "1e73aeb0481cc3bf"
  },
  "price": 58000,

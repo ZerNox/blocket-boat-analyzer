@@ -57,7 +57,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/22627734/1659df69-ecd9-4a88-9551-c7eb33393a4b",
   "https://images.blocketcdn.se/dynamic/default/item/22627734/bedd66fb-886a-4cfe-8019-f530c48467f7"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 58.22,
  "length_ft": 17,
  "location": "Ljungskile",
@@ -69,7 +69,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 1012,
-  "fetched_ts": 1790522869606,
+  "fetched_ts": 1791173525692,
   "text_sha": "5374ee9e96696be1"
  },
  "price": 125000,

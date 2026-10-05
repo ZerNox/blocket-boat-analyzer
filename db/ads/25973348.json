@@ -54,15 +54,15 @@
   "https://images.blocketcdn.se/dynamic/default/item/25973348/289b8f4b-d56d-4c7c-becc-42645fc3b632",
   "https://images.blocketcdn.se/dynamic/default/item/25973348/bc3308aa-9608-4624-9715-dc0772f1f842"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.17,
  "length_ft": 17,
  "llm": {
-  "at": "2026-09-28",
+  "at": "2026-10-05",
   "model": "qwen7b-q4km",
   "result": {
-   "boat_year": 2006,
-   "engine_hours": null,
+   "boat_year": 2005,
+   "engine_hours": 70,
    "engine_hp": 60,
    "engine_maker": "Mercery",
    "engine_type": "outboard",
@@ -87,7 +87,7 @@
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "df40e67f04dfee5c"
+  "text_sha": "b6c50d0779fbe987"
  },
  "location": "Brandbergen",
  "lon": 18.18,
@@ -98,8 +98,8 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 153,
-  "fetched_ts": 1790523092482,
-  "text_sha": "df40e67f04dfee5c"
+  "fetched_ts": 1791173716085,
+  "text_sha": "b6c50d0779fbe987"
  },
  "price": 99000,
  "price_history": [
@@ -116,7 +116,7 @@
   "Färg": "Vit/blå",
   "Längd i fot": "17 fot",
   "Modell": "515",
-  "Modellår": "2006",
+  "Modellår": "2005",
   "Motor inkluderad": "Ja",
   "Motorstorlek": "60 hk",
   "Motortillverkare": "Mercery",

@@ -39,7 +39,7 @@
  "heading": "Cri Cat motorbåt",
  "image": null,
  "image_urls": [],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.33,
  "length_ft": 20,
  "location": "Värmdö",
@@ -51,7 +51,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 61,
-  "fetched_ts": 1790523016661,
+  "fetched_ts": 1791173622773,
   "text_sha": "d2b80ba561a24d72"
  },
  "price": 15000,

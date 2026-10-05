@@ -48,7 +48,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25462230/773c8244-59e2-4a73-aec3-b79b72eb0fef",
   "https://images.blocketcdn.se/dynamic/default/item/25462230/2af72e98-efec-43b9-b855-794fb2b98d83"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 58.75,
  "length_ft": 17,
  "location": "Finspång",
@@ -60,7 +60,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 357,
-  "fetched_ts": 1790507891828,
+  "fetched_ts": 1791173600268,
   "text_sha": "14601ff063c869d1"
  },
  "price": 50000,

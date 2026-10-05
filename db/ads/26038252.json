@@ -62,7 +62,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26038252/8a8e705e-bb28-4a74-b708-bba451ca1bb7",
   "https://images.blocketcdn.se/dynamic/default/item/26038252/4fea5eeb-bcd8-41cb-869f-afb777601e05"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 57.38,
  "length_ft": 18,
  "location": "Fårbo",
@@ -74,7 +74,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 394,
-  "fetched_ts": 1790523110716,
+  "fetched_ts": 1791173737784,
   "text_sha": "6389997752355532"
  },
  "price": 75000,

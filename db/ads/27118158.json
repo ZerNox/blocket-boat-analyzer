@@ -1,0 +1,132 @@
+{
+ "ad_id": 27118158,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791104956000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 135.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2008,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "En trevlig och lättkörd daycruiser med bra sittutrymmen, kapell och ruff med möjlighet till övernattning.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin GPS/plotter",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Bålsta Släpet LGF1500U båtvagn med stödhjul ingår",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 18 DC 2008, 135 hk inombordare, inkl LGF-vagn",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-05T04:07:56+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds 18 DC 2008, 135 hk inombordare, inkl LGF-vagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27118158/a3143434-dda7-4c5e-848d-bdd575b30cca",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27118158/a3143434-dda7-4c5e-848d-bdd575b30cca",
+  "https://images.blocketcdn.se/dynamic/default/item/27118158/dbd4d08c-ddd9-49ed-a0b8-b4c7155a858a",
+  "https://images.blocketcdn.se/dynamic/default/item/27118158/7abe4daf-65a1-4375-89cb-1b3072c467bd",
+  "https://images.blocketcdn.se/dynamic/default/item/27118158/20365028-9a89-437a-b80f-c222731f850e",
+  "https://images.blocketcdn.se/dynamic/default/item/27118158/5a0e01c9-aab0-4cee-833d-13f35d6f93de",
+  "https://images.blocketcdn.se/dynamic/default/item/27118158/2c9aa18e-8718-4b0e-832b-6005a87e7875",
+  "https://images.blocketcdn.se/dynamic/default/item/27118158/63ca5778-9a9e-4bc9-8e72-452638c6950c",
+  "https://images.blocketcdn.se/dynamic/default/item/27118158/b9124c73-7977-47e6-ba9f-6d0011659d55"
+ ],
+ "last_seen": "2026-10-05T04:07:56+00:00",
+ "lat": 58.57,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-10-05",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2008,
+   "engine_hours": null,
+   "engine_hp": 135,
+   "engine_maker": "MerCruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "MerCruiser 3.0 135 hk. köpt ny 2019.",
+   "engine_year_rejected": 2019,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "da441736ef0c49b3"
+ },
+ "location": "Norrköping",
+ "lon": 16.28,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 1153,
+  "fetched_ts": 1791173906179,
+  "text_sha": "da441736ef0c49b3"
+ },
+ "price": 179000,
+ "price_history": [
+  {
+   "date": "2026-10-05",
+   "price": 179000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motortyp": "Inombordare",
+  "Märke": "Ryds",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27118158",
+ "width_cm": 0,
+ "year": 2008
+}

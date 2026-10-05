@@ -45,7 +45,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25457457/bf6a4ebc-279c-4b7c-a4a1-013725d2b93f",
   "https://images.blocketcdn.se/dynamic/default/item/25457457/60e9216e-6918-4c26-9f7d-e9ae47a21df8"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.36,
  "length_ft": 20,
  "location": "Lidingö",
@@ -57,7 +57,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 154,
-  "fetched_ts": 1790507885917,
+  "fetched_ts": 1791173595808,
   "text_sha": "4ea55fcc666092e7"
  },
  "price": 45000,

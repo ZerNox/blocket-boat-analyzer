@@ -66,7 +66,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/22038736/76e18c83-a6a6-4980-a7a7-c948dbd70f70",
   "https://images.blocketcdn.se/dynamic/default/item/22038736/99603d9c-63ef-432e-bb8b-7f97e62df318"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 57.2,
  "length_ft": 18,
  "location": "Åskloster",
@@ -78,7 +78,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 1364,
-  "fetched_ts": 1790522862757,
+  "fetched_ts": 1791173519560,
   "text_sha": "08376049a6a98752"
  },
  "price": 111000,

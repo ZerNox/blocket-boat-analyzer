@@ -50,7 +50,7 @@
  "heading": "Monark. Med Volvo B18 motor",
  "image": null,
  "image_urls": [],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 62.94,
  "length_ft": 18,
  "llm": {
@@ -89,7 +89,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 331,
-  "fetched_ts": 1790520971666,
+  "fetched_ts": 1791173818400,
   "text_sha": "b490689d984ae6ff"
  },
  "price": 11000,

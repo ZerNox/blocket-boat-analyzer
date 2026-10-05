@@ -100,6 +100,7 @@
  "motor_fuel": null,
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-05",
  "page": {
   "description_chars": 888,
   "fetched_ts": 1790523119759,
@@ -112,6 +113,11 @@
    "price": 65000
   }
  ],
+ "sold": {
+  "date": "2026-10-05",
+  "days_seen": 8,
+  "last_price": 65000
+ },
  "specs": {
   "Bredd": "220 cm",
   "Båtens plats": "Sverige",
@@ -130,7 +136,7 @@
   "Toppfart": "38 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26088468",
  "width_cm": 220,
  "year": 1992

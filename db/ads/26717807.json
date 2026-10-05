@@ -58,11 +58,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26717807/b5306e5b-90eb-4a9e-8a95-6855cb7c158e",
   "https://images.blocketcdn.se/dynamic/default/item/26717807/e30a2510-93da-432d-803f-b7897e4d81a0"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.37,
  "length_ft": 21,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-05",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1976,
@@ -77,16 +77,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "excluded",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "3a815fbc95ff9ba3"
+  "text_sha": "6c3b0014ece601c6"
  },
  "location": "Lidingö",
  "lon": 18.19,
@@ -96,9 +101,9 @@
  "motor_size": null,
  "motor_type": "Inombordare",
  "page": {
-  "description_chars": 876,
-  "fetched_ts": 1790523208314,
-  "text_sha": "3a815fbc95ff9ba3"
+  "description_chars": 799,
+  "fetched_ts": 1791173871852,
+  "text_sha": "6c3b0014ece601c6"
  },
  "price": 20000,
  "price_history": [

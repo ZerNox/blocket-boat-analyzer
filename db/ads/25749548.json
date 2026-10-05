@@ -29,7 +29,7 @@
     "included": true
    },
    "trailer": {
-    "evidence": "- trailer bromsad 80km/h ingår.",
+    "evidence": "båten är upptagen och finns tillgänglig på trailer.",
     "included": true,
     "kmh": 80
    }
@@ -57,11 +57,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/25749548/d5852b76-9b5e-4e5b-9e58-1f64ec6f31a2",
   "https://images.blocketcdn.se/dynamic/default/item/25749548/58ad48d4-996e-44c2-8898-3649c394ac51"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 56.11,
  "length_ft": 17,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-05",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1974,
@@ -70,22 +70,28 @@
    "engine_maker": "Mercruiser",
    "engine_type": "inboard",
    "engine_year": null,
-   "engine_year_evidence": "Motortyp: Inombordare",
+   "engine_year_evidence": "ny bottenmålning inkl drev våren 2026",
+   "engine_year_rejected": 2026,
    "equipment": {
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "b5888abb12f7373a"
+  "text_sha": "cdb0e08f5bb2e70b"
  },
  "location": "Domsten",
  "lon": 12.62,
@@ -95,9 +101,9 @@
  "motor_size": null,
  "motor_type": "Inombordare",
  "page": {
-  "description_chars": 496,
-  "fetched_ts": 1790523056916,
-  "text_sha": "b5888abb12f7373a"
+  "description_chars": 571,
+  "fetched_ts": 1791173659607,
+  "text_sha": "cdb0e08f5bb2e70b"
  },
  "price": 48000,
  "price_history": [

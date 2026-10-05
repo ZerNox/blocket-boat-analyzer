@@ -51,7 +51,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26014203/074800f8-dc62-41a6-b51e-17449ccaaf5a",
   "https://images.blocketcdn.se/dynamic/default/item/26014203/715119c5-6d85-42af-b449-0e5e4e6cc7ac"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 57.8,
  "length_ft": 18,
  "location": "Hisings Kärra",
@@ -63,7 +63,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 428,
-  "fetched_ts": 1790523103713,
+  "fetched_ts": 1791173730745,
   "text_sha": "937391cc53b5ec9d"
  },
  "price": 24900,

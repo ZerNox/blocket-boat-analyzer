@@ -90,6 +90,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-05",
  "page": {
   "description_chars": 1009,
   "fetched_ts": 1790522991071,
@@ -118,7 +119,7 @@
   "Typ": "Daycruiser",
   "Vikt": "490 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25431621",
  "width_cm": 208,
  "year": 2006

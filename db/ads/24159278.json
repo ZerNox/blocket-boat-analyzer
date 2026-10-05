@@ -47,7 +47,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/24159278/4853828b-7065-4d15-8494-d7f228d6bcea",
   "https://images.blocketcdn.se/dynamic/default/item/24159278/179b293b-adec-4284-b128-9615f7fe9408"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 56.05,
  "length_ft": 20,
  "location": "Gualöv",
@@ -59,7 +59,7 @@
  "motor_type": "Inombordare",
  "page": {
   "description_chars": 180,
-  "fetched_ts": 1790522926323,
+  "fetched_ts": 1791173566293,
   "text_sha": "00c6643186e3a18c"
  },
  "price": 15000,

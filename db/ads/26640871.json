@@ -48,11 +48,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26640871/f2456e8a-e039-4fea-8f98-9eb4c189572b",
   "https://images.blocketcdn.se/dynamic/default/item/26640871/b7159f34-568f-4e4a-bc24-58231564777e"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.35,
  "length_ft": 19,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-05",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1990,
@@ -67,16 +67,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "e2f850df01e62e12"
+  "text_sha": "99ccca4a2410d935"
  },
  "location": "Stockholm",
  "lon": 18.05,
@@ -87,8 +92,8 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 354,
-  "fetched_ts": 1790523197489,
-  "text_sha": "e2f850df01e62e12"
+  "fetched_ts": 1791173855669,
+  "text_sha": "99ccca4a2410d935"
  },
  "price": 49500,
  "price_history": [

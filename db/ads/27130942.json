@@ -1,0 +1,91 @@
+{
+ "ad_id": 27130942,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1791122166000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": 30,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "arin Hardtop Säljes med 70 hk Suzuki 5 år gammal 4-taktare som gått ca 30 timmar. Fogelsta båtvagn med nya däck 2026 och",
+  "engine_type_source": "rule:model",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljes med 70 hk Suzuki 5 år gammal 4-taktare som gått ca 30 timmar.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Fogelsta båtvagn med nya däck 2026 och nya hjullager 2025.",
+    "included": true,
+    "year": 2026
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "MV Marin Hardtop\nSäljes med 70 hk Suzuki 5 år gammal 4-taktare som gått ca 30 timmar. Fog",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-05T04:07:56+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "MV Marin Hardtop",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27130942/4c66dd6f-3993-43f0-9ba4-6f801684e4d0",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27130942/4c66dd6f-3993-43f0-9ba4-6f801684e4d0",
+  "https://images.blocketcdn.se/dynamic/default/item/27130942/aab4ff82-455b-49e5-bebd-a7148f899655",
+  "https://images.blocketcdn.se/dynamic/default/item/27130942/08aea537-d667-4630-8836-2dfe02cb6fce",
+  "https://images.blocketcdn.se/dynamic/default/item/27130942/9af7eae9-d080-4f56-8c63-4e9f2515a042"
+ ],
+ "last_seen": "2026-10-05T04:07:56+00:00",
+ "lat": 58.82,
+ "length_ft": 18,
+ "location": "Västerljung",
+ "lon": 17.48,
+ "make": "MV",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 70.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 183,
+  "fetched_ts": 1791173911853,
+  "text_sha": "a20064d2c71600d5"
+ },
+ "price": 139000,
+ "price_history": [
+  {
+   "date": "2026-10-05",
+   "price": 139000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "HT 5400",
+  "Modellår": "2007",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Suzuki",
+  "Märke": "MV",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27130942",
+ "width_cm": 0,
+ "year": 2007
+}

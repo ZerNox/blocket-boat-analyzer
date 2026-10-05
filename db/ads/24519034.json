@@ -68,7 +68,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/24519034/b4670f89-6864-4f5b-8576-6dab067b36f5",
   "https://images.blocketcdn.se/dynamic/default/item/24519034/6370fcbd-5a6c-4caf-a7ae-974dd531a127"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.75,
  "length_ft": 17,
  "location": "Norrtälje",
@@ -80,8 +80,8 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 679,
-  "fetched_ts": 1790522935878,
-  "text_sha": "42d53f39810ead53"
+  "fetched_ts": 1791173575699,
+  "text_sha": "1f7ba98cb71c0d9c"
  },
  "price": 78000,
  "price_history": [

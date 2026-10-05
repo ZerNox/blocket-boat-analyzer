@@ -1,0 +1,106 @@
+{
+ "ad_id": 27125476,
+ "boat_class": "Powerboat",
+ "changed_ts": 1791113892000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1967,
+  "boat_year_source": "spec",
+  "engine_hours": 9,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Suzuki",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2023,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten rustades upp 2023 och fick då en ny Suzuki DF80ATL, 80 hk, årsmodell 2023.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "* Trailer ingår ej",
+    "included": false
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed cabin, just open cockpit with blue canopy for sun protection.",
+  "hull_source": "bild",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-05T04:07:56+00:00",
+ "found_by": [
+  "Fjordling 17"
+ ],
+ "heading": "Fjordling 17 Cabriolet/Sport -67 – unik klassiker med nästan ny Suzuki 80 hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27125476/09e026c3-d819-4633-b293-d699493ee222",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27125476/09e026c3-d819-4633-b293-d699493ee222",
+  "https://images.blocketcdn.se/dynamic/default/item/27125476/482fd948-b9ab-43f5-b419-7712f02894d0",
+  "https://images.blocketcdn.se/dynamic/default/item/27125476/95b16fd4-8c24-4b86-ac0e-7fa54b30679b",
+  "https://images.blocketcdn.se/dynamic/default/item/27125476/b8113418-2204-4bd3-b145-6276437b86c3",
+  "https://images.blocketcdn.se/dynamic/default/item/27125476/00cb4535-731a-4595-bce9-643c424847f8",
+  "https://images.blocketcdn.se/dynamic/default/item/27125476/875b4909-1bbc-4460-bf29-7d9392df75c9",
+  "https://images.blocketcdn.se/dynamic/default/item/27125476/f680db34-8a07-4692-8ee0-b785a769df43"
+ ],
+ "last_seen": "2026-10-05T04:07:56+00:00",
+ "lat": 59.26,
+ "length_ft": 1,
+ "location": "Ingarö",
+ "lon": 18.42,
+ "make": "Fjordling",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1345,
+  "fetched_ts": 1791173908966,
+  "text_sha": "8660d377a1397938"
+ },
+ "price": 150000,
+ "price_history": [
+  {
+   "date": "2026-10-05",
+   "price": 150000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "1 fot",
+  "Modell": "Fjordling 17 Cabriolet/Sport",
+  "Modellår": "1967",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Fjordling",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Powerboat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27125476",
+ "vision": {
+  "at": "2026-10-05",
+  "images_sha": "17a2de9b2d4dbc60",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed cabin, just open cockpit with blue canopy for sun protection.",
+   "hull_photo": 1
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 0,
+ "year": 1967
+}

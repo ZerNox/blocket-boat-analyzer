@@ -59,7 +59,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25461918/a247195f-a581-4c59-a82a-fef5e720ec0e",
   "https://images.blocketcdn.se/dynamic/default/item/25461918/57c0db18-b8a8-44ba-b185-02e05635100c"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.5,
  "length_ft": 17,
  "location": "Karlstad",
@@ -71,7 +71,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 791,
-  "fetched_ts": 1790522999716,
+  "fetched_ts": 1791173598729,
   "text_sha": "7bec26302cd1f462"
  },
  "price": 65000,

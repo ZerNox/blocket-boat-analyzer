@@ -1,0 +1,133 @@
+{
+ "ad_id": 27146738,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791145297000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "OBS ingen kärra finns till båten",
+    "included": false
+   }
+  },
+  "hull": "open",
+  "hull_certain": false,
+  "hull_evidence": "Photo 2 shows open cockpit, no roof or enclosed space.",
+  "hull_source": "bild",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-05T04:07:56+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ockelbo T16 ”gärna byte”",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27146738/1b6d3028-0ed9-432c-b2c8-26d8dc1ac701",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27146738/1b6d3028-0ed9-432c-b2c8-26d8dc1ac701",
+  "https://images.blocketcdn.se/dynamic/default/item/27146738/aa5ded26-1187-40aa-8818-f8202307616a",
+  "https://images.blocketcdn.se/dynamic/default/item/27146738/be7777b8-edeb-41a7-b4f6-a80223ad0bfa"
+ ],
+ "last_seen": "2026-10-05T04:07:56+00:00",
+ "lat": 58.36,
+ "length_ft": null,
+ "llm": {
+  "at": "2026-10-05",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1970,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "fb6e873eb4ef201f"
+ },
+ "location": "Linköping",
+ "lon": 15.71,
+ "make": "Ockelbo",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 352,
+  "fetched_ts": 1791173915756,
+  "text_sha": "fb6e873eb4ef201f"
+ },
+ "price": 14000,
+ "price_history": [
+  {
+   "date": "2026-10-05",
+   "price": 14000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Modell": "T16",
+  "Modellår": "1970",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ockelbo",
+  "Sittplatser": "5",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27146738",
+ "vision": {
+  "at": "2026-10-05",
+  "images_sha": "d6288a34d23d7288",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "Photo 2 shows open cockpit, no roof or enclosed space.",
+   "hull_photo": 2
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 0,
+ "year": 1970
+}

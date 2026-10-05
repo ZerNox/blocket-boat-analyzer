@@ -1,0 +1,100 @@
+{
+ "ad_id": 27139835,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1791132316000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1999,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer av min Ömo 640 med en Mercury 60hk 2-takt ifrån 1999.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Fräscha dynor finns samt kapell och presenning att dra över.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Står på en rejält hemmabyggd trailer.",
+    "included": true
+   },
+   "vinterkapell": {
+    "evidence": "Fräscha dynor finns samt kapell och presenning att dra över.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-05T04:07:56+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ömo 640 Mercury 60hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27139835/192d0a3b-a376-4c47-92f0-91982d69e88e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27139835/192d0a3b-a376-4c47-92f0-91982d69e88e",
+  "https://images.blocketcdn.se/dynamic/default/item/27139835/672b9e38-985a-4dc2-93ea-ecc8afcccc65",
+  "https://images.blocketcdn.se/dynamic/default/item/27139835/6fa9afed-3cf9-4093-ba76-8386fc6b8afa",
+  "https://images.blocketcdn.se/dynamic/default/item/27139835/fedcb549-3d21-41f6-8663-1aeb8dac181f",
+  "https://images.blocketcdn.se/dynamic/default/item/27139835/1dfe6719-def2-4056-822b-ce2132008bab"
+ ],
+ "last_seen": "2026-10-05T04:07:56+00:00",
+ "lat": 56.38,
+ "length_ft": 21,
+ "location": "Kyrkhult",
+ "lon": 14.59,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 444,
+  "fetched_ts": 1791173914544,
+  "text_sha": "48855977aab1d520"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-10-05",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "21 fot",
+  "Modell": "Ömo 640",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27139835",
+ "width_cm": 0,
+ "year": 1978
+}

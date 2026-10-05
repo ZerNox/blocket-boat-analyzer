@@ -50,11 +50,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26829182/2c2e9ecc-2310-4546-a443-ec7a93633f65",
   "https://images.blocketcdn.se/dynamic/default/item/26829182/4b5ff568-db30-4e70-b4f3-7ee121ea87ef"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 57.6,
  "length_ft": 17,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-05",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2007,
@@ -69,16 +69,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
     "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "26ca3cb7cdaba5b3"
+  "text_sha": "d3bb538a683de505"
  },
  "location": "Donsö",
  "lon": 11.82,
@@ -90,8 +95,8 @@
  "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 223,
-  "fetched_ts": 1790508963299,
-  "text_sha": "26ca3cb7cdaba5b3"
+  "fetched_ts": 1791173889277,
+  "text_sha": "d3bb538a683de505"
  },
  "price": 95000,
  "price_history": [
@@ -112,7 +117,7 @@
   "Bredd": "220 cm",
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
-  "Längd i fot": "16 fot",
+  "Längd i fot": "17 fot",
   "Modell": "510 MC",
   "Modellår": "2007",
   "Motorstorlek": "60 hk",

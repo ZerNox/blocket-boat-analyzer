@@ -49,7 +49,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26016586/d3c68193-caa6-480c-a77e-812ea15eca35",
   "https://images.blocketcdn.se/dynamic/default/item/26016586/7fafb1dd-2306-4249-b5f9-8a038d4d61be"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 66.61,
  "length_ft": 18,
  "location": "Jokkmokk",
@@ -61,7 +61,7 @@
  "motor_type": null,
  "page": {
   "description_chars": 268,
-  "fetched_ts": 1790523105277,
+  "fetched_ts": 1791173732100,
   "text_sha": "6a78ae1e7654641a"
  },
  "price": 20000,

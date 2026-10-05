@@ -1,7 +1,7 @@
 {
  "ad_id": 26543259,
  "boat_class": "Hyttbåt",
- "changed_ts": 1790482106000,
+ "changed_ts": 1791086888000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2000,
@@ -39,17 +39,17 @@
  "heading": "KÖPES SEA STAR 600 fyrtaktare",
  "image": null,
  "image_urls": [],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.61,
  "length_ft": 18,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-05",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2000,
    "engine_hours": null,
    "engine_hp": 90,
-   "engine_maker": "Sea Star",
+   "engine_maker": "Fyrtaktare",
    "engine_type": "outboard",
    "engine_year": null,
    "engine_year_evidence": null,
@@ -58,16 +58,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "d386f3a92d393761"
+  "text_sha": "95b2bdc952f7141b"
  },
  "location": "Bergshamra",
  "lon": 18.7,
@@ -78,8 +83,8 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 33,
-  "fetched_ts": 1790520996996,
-  "text_sha": "d386f3a92d393761"
+  "fetched_ts": 1791173834624,
+  "text_sha": "95b2bdc952f7141b"
  },
  "price": 0,
  "price_history": [

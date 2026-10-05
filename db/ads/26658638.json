@@ -51,7 +51,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26658638/5746b543-0ec1-4a0c-897e-2ad977a7d173",
   "https://images.blocketcdn.se/dynamic/default/item/26658638/4b2d64fe-b0d0-4134-b2d0-b8193fc44cb5"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 58.45,
  "length_ft": 19,
  "location": "Vadstena",
@@ -63,7 +63,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 326,
-  "fetched_ts": 1790508848616,
+  "fetched_ts": 1791173859781,
   "text_sha": "2cdb0c322c23b78b"
  },
  "price": 50000,

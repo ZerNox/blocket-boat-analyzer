@@ -55,11 +55,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26168183/c85f3339-73b6-4e06-a650-9319a7e77f4c",
   "https://images.blocketcdn.se/dynamic/default/item/26168183/ec1807c2-e4ab-46e7-8f0d-ddd17e07e2ff"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 58.19,
  "length_ft": 19,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-05",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1979,
@@ -74,16 +74,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
-    "trailer": "excluded",
+    "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "f9b07ec7d5e458fd"
+  "text_sha": "60b18a5c5ad81e7b"
  },
  "location": "Nossebro",
  "lon": 12.73,
@@ -94,8 +99,8 @@
  "motor_type": null,
  "page": {
   "description_chars": 177,
-  "fetched_ts": 1790508502377,
-  "text_sha": "f9b07ec7d5e458fd"
+  "fetched_ts": 1791173755978,
+  "text_sha": "60b18a5c5ad81e7b"
  },
  "price": 75000,
  "price_history": [

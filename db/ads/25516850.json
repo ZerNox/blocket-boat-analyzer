@@ -72,7 +72,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25516850/2e36f07c-ecdd-48a7-b619-11333dec073a",
   "https://images.blocketcdn.se/dynamic/default/item/25516850/ab5a9ba2-4c20-4e65-b07c-28cd501f55af"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 58.43,
  "length_ft": 18,
  "location": "Hunnebostrand",
@@ -84,7 +84,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 905,
-  "fetched_ts": 1790523012441,
+  "fetched_ts": 1791173620090,
   "text_sha": "a4845db56f2f2fed"
  },
  "price": 130000,

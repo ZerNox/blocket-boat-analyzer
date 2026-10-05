@@ -51,11 +51,11 @@
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/25783709/98690d0b-2e3b-4701-b454-4c10368f6774"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 56.13,
  "length_ft": 17,
  "llm": {
-  "at": "2026-09-28",
+  "at": "2026-10-05",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2016,
@@ -84,7 +84,7 @@
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "54a9a3fe5b9c7199"
+  "text_sha": "4f694014788f519c"
  },
  "location": "Senoren",
  "lon": 15.75,
@@ -95,8 +95,8 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 43,
-  "fetched_ts": 1790508192935,
-  "text_sha": "54a9a3fe5b9c7199"
+  "fetched_ts": 1791173669814,
+  "text_sha": "4f694014788f519c"
  },
  "price": 130000,
  "price_history": [

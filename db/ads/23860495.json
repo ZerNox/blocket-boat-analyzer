@@ -91,6 +91,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-05",
  "page": {
   "description_chars": 117,
   "fetched_ts": 1790522912667,
@@ -118,7 +119,7 @@
   "Toppfart": "25 knop",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/23860495",
  "width_cm": 0,
  "year": 1999

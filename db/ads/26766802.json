@@ -7,13 +7,13 @@
   "boat_year": 1980,
   "boat_year_source": "spec",
   "engine_hours": null,
-  "engine_hp": null,
-  "engine_hp_source": null,
+  "engine_hp": 55.0,
+  "engine_hp_source": "rule:text",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
-  "engine_type": "none",
-  "engine_type_evidence": null,
-  "engine_type_source": "rule:spec",
+  "engine_type": "outboard",
+  "engine_type_evidence": "l del annat följer med båten. Yamaha 55hk, startar och går som den ska med intern bensintank i rostfritt. Parasoll, anka",
+  "engine_type_source": "llm",
   "engine_year": null,
   "engine_year_est": 1980,
   "engine_year_est_reason": "antar originalmotor",
@@ -21,15 +21,15 @@
   "engine_year_source": null,
   "equipment": {
    "ekolod": {
-    "evidence": "Ekolod, kokplatta, bestick, tallrikar, plastglas,ihopfällbar grill, parasoll, ankare med kätting och ankarlina, förtöjn…",
+    "evidence": "Ekolod, kök, bestick, tallrikar, plastglas,ihopfällbar grill. tillsammans med en hel del annat följer med båten.",
     "included": true
    },
    "kapell": {
-    "evidence": "Orginaltyg under överdragsklädseln. välvårdad inredning och fint undertak med ny ventilation. kapell i bra skick.",
+    "evidence": "Blått kapell i bra skick med dragkedja på sidorna och bak.",
     "included": true
    },
    "trailer": {
-    "evidence": "Släpvagn ingår.",
+    "evidence": "Parasoll, ankare med kätting och ankarlina, förtöjningoch släpvagn ingår.",
     "included": true
    }
   },
@@ -37,8 +37,11 @@
   "hull_certain": true,
   "hull_evidence": "Uttern 560 Ht.",
   "hull_source": "rule:model",
-  "llm_reasons": [],
-  "needs_llm": false,
+  "llm_reasons": [
+   "spec says no engine but text describes one",
+   "no engine year found"
+  ],
+  "needs_llm": true,
   "red_flags": [],
   "rules_version": 8,
   "swap_offered": false
@@ -66,9 +69,41 @@
   "https://images.blocketcdn.se/dynamic/default/item/26766802/a593af36-df02-4688-9dc2-5650faa1463d",
   "https://images.blocketcdn.se/dynamic/default/item/26766802/60143979-008a-4688-8365-2f73127ca0ee"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.37,
  "length_ft": 18,
+ "llm": {
+  "at": "2026-10-05",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 55,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d7c65956303ab97d"
+ },
  "location": "Solna",
  "lon": 17.99,
  "make": "Uttern",
@@ -77,9 +112,9 @@
  "motor_size": 55.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 408,
-  "fetched_ts": 1790523216834,
-  "text_sha": "ad7fd0bf54c52870"
+  "description_chars": 679,
+  "fetched_ts": 1791173880258,
+  "text_sha": "d7c65956303ab97d"
  },
  "price": 24000,
  "price_history": [

@@ -17,7 +17,7 @@
   "engine_year": 2007,
   "engine_year_est": null,
   "engine_year_est_reason": null,
-  "engine_year_evidence": "Motorn är från 2007, Yamaha 50hk, fyrtakt.",
+  "engine_year_evidence": "Motorn är från 2007, Yamaha 50hk, fyrtakt med endast 131 motortimmar.",
   "engine_year_source": "rule:text",
   "equipment": {
    "trailer": {
@@ -60,7 +60,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26603722/c4caac2f-e84a-4808-b8b0-d1289ecae506",
   "https://images.blocketcdn.se/dynamic/default/item/26603722/688473a2-29ea-4d28-a159-543e4d9c7db6"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 57.11,
  "length_ft": 17,
  "location": "Varberg",
@@ -71,9 +71,9 @@
  "motor_size": 50.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 985,
-  "fetched_ts": 1790508818160,
-  "text_sha": "5b847c623eb7d131"
+  "description_chars": 1085,
+  "fetched_ts": 1791173849713,
+  "text_sha": "2aa6a7160f6fd764"
  },
  "price": 70000,
  "price_history": [

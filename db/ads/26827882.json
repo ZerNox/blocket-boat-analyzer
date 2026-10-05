@@ -63,11 +63,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26827882/96179c81-1993-4833-a74c-22d1f231ede2",
   "https://images.blocketcdn.se/dynamic/default/item/26827882/c8e9ad4b-c500-497c-8830-e73d3faa8fdf"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 62.55,
  "length_ft": 18,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-05",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1980,
@@ -82,16 +82,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "eb4d08385d8c567c"
+  "text_sha": "a23747ae9bd6169c"
  },
  "location": "Ånge",
  "lon": 15.64,
@@ -101,9 +106,9 @@
  "motor_size": 55.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 183,
-  "fetched_ts": 1790508961755,
-  "text_sha": "eb4d08385d8c567c"
+  "description_chars": 189,
+  "fetched_ts": 1791173887827,
+  "text_sha": "a23747ae9bd6169c"
  },
  "price": 19000,
  "price_history": [

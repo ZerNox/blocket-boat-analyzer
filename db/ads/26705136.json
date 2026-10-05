@@ -59,7 +59,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26705136/00891415-ec5d-4b0d-b7e7-2985be2d4545",
   "https://images.blocketcdn.se/dynamic/default/item/26705136/d2ad02c4-8b0d-4926-94b1-c6ec7c32fe98"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.76,
  "length_ft": 18,
  "location": "Gottröra",
@@ -70,9 +70,9 @@
  "motor_size": 80.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 586,
-  "fetched_ts": 1790523206802,
-  "text_sha": "97dc362d0e91d519"
+  "description_chars": 526,
+  "fetched_ts": 1791173870579,
+  "text_sha": "8bcd0b587bd0c179"
  },
  "price": 140000,
  "price_history": [

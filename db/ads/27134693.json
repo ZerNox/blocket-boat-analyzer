@@ -1,0 +1,101 @@
+{
+ "ad_id": 27134693,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791125925000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": 200,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mercury 60 hk fyrtakt, gått strax över 200h, ca 20h i vår ägo. års 2004",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Plotter, ekolod och digitalt sjökort",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nyrenoverat kapell, fönster, och impregnerat.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter, ekolod och digitalt sjökort",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Hirvas 575 + Mercury 60hk + Trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-05T04:07:56+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Hirvas 575 + Mercury 60hk + Trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27134693/7d09e682-40e4-4147-9fda-8c365af82033",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27134693/7d09e682-40e4-4147-9fda-8c365af82033",
+  "https://images.blocketcdn.se/dynamic/default/item/27134693/69b04731-da7f-477c-8e9d-ff7d3dc8ff38"
+ ],
+ "last_seen": "2026-10-05T04:07:56+00:00",
+ "lat": 58.82,
+ "length_ft": 18,
+ "location": "Västerljung",
+ "lon": 17.48,
+ "make": "Herva",
+ "max_speed": 20,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 776,
+  "fetched_ts": 1791173913265,
+  "text_sha": "b5cf53fafdcb7730"
+ },
+ "price": 79000,
+ "price_history": [
+  {
+   "date": "2026-10-05",
+   "price": 79000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "Hirvas 575",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Herva",
+  "Toppfart": "20 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27134693",
+ "width_cm": 0,
+ "year": 1990
+}

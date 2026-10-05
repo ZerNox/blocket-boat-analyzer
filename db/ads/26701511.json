@@ -59,7 +59,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26701511/c9bb0694-c4a0-4ab3-8020-769ffbd51163",
   "https://images.blocketcdn.se/dynamic/default/item/26701511/0d11a158-1ba4-4056-8b42-a1a179ca0622"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 58.65,
  "length_ft": 20,
  "location": "Åby",
@@ -71,7 +71,7 @@
  "motor_type": null,
  "page": {
   "description_chars": 549,
-  "fetched_ts": 1790521038221,
+  "fetched_ts": 1791173869165,
   "text_sha": "43ecf51dddc2dc2e"
  },
  "price": 149000,

@@ -66,11 +66,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26389455/84694bca-9904-4227-b5d3-0e8b99a01f55",
   "https://images.blocketcdn.se/dynamic/default/item/26389455/53b2f472-f18e-4b3e-8a87-5065e850486d"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.92,
  "length_ft": 20,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-05",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2004,
@@ -86,16 +86,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "a7ce72e97779f642"
+  "text_sha": "eabfb02cab6e74bf"
  },
  "location": "Väddö",
  "lon": 18.94,
@@ -106,8 +111,8 @@
  "motor_type": null,
  "page": {
   "description_chars": 648,
-  "fetched_ts": 1790523159352,
-  "text_sha": "a7ce72e97779f642"
+  "fetched_ts": 1791173802725,
+  "text_sha": "eabfb02cab6e74bf"
  },
  "price": 155000,
  "price_history": [

@@ -54,6 +54,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-05",
  "page": {
   "description_chars": 163,
   "fetched_ts": 1790507946722,
@@ -81,7 +82,7 @@
   "Toppfart": "26 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25517169",
  "width_cm": 220,
  "year": 1994

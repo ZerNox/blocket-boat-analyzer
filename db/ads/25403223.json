@@ -1,7 +1,7 @@
 {
  "ad_id": 25403223,
  "boat_class": "Hyttbåt",
- "changed_ts": 1790501706000,
+ "changed_ts": 1791090057000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1987,
@@ -72,7 +72,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25403223/d176ccf0-34dc-4205-b7ff-99954e2bf362",
   "https://images.blocketcdn.se/dynamic/default/item/25403223/70a847d6-b5f1-4aaa-a8fd-ca7c3a76dbe6"
  ],
- "last_seen": "2026-10-03T04:06:14+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.47,
  "length_ft": 21,
  "location": "Åkersberga",
@@ -85,14 +85,18 @@
  "not_in_search_since": "2026-10-04",
  "page": {
   "description_chars": 903,
-  "fetched_ts": 1790522985545,
+  "fetched_ts": 1791173587118,
   "text_sha": "b9700319abca7385"
  },
- "price": 132000,
+ "price": 129000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 132000
+  },
+  {
+   "date": "2026-10-05",
+   "price": 129000
   }
  ],
  "specs": {
@@ -112,7 +116,7 @@
   "Toppfart": "26 knop",
   "Typ": "Hyttbåt"
  },
- "status": "inactive",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/25403223",
  "width_cm": 227,
  "year": 1987

@@ -43,7 +43,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26385115/a44b6432-074f-4356-8eb5-94e53238c5d1",
   "https://images.blocketcdn.se/dynamic/default/item/26385115/8fb0d43b-d64c-4a44-b850-876766afbabb"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.26,
  "length_ft": 20,
  "location": "Runmarö",
@@ -55,7 +55,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 405,
-  "fetched_ts": 1790508651357,
+  "fetched_ts": 1791173800158,
   "text_sha": "889a557f0bb83715"
  },
  "price": 100000,

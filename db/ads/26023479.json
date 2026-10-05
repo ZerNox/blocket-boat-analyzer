@@ -58,11 +58,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26023479/9b152431-2ad6-4328-be35-4339e75ba704",
   "https://images.blocketcdn.se/dynamic/default/item/26023479/220f0cfd-3790-418f-a2e4-626452c18d06"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 56.17,
  "length_ft": 17,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-05",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1980,
@@ -77,16 +77,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "excluded",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "584afbc7a5caa018"
+  "text_sha": "be08428e89650624"
  },
  "location": "Näsum",
  "lon": 14.5,
@@ -97,8 +102,8 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 220,
-  "fetched_ts": 1790523108250,
-  "text_sha": "584afbc7a5caa018"
+  "fetched_ts": 1791173733425,
+  "text_sha": "be08428e89650624"
  },
  "price": 20000,
  "price_history": [

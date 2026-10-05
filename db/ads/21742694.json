@@ -31,7 +31,7 @@
   },
   "hull": "open",
   "hull_certain": true,
-  "hull_evidence": "BUD MOTTAGES! Örnvik 580 styrpulpetbåt & rostfri dieseltank\nSäljer en rejäl, stabil och rymlig \nÖ\nrnvik s",
+  "hull_evidence": "BUD MOTTAGES! Örnvik 580 styrpulpetbåt & rostfri dieseltank\nSISTA CHANSEN!!!! Nu är det sista chansen att",
   "hull_source": "rule:text",
   "llm_reasons": [
    "no engine year found"
@@ -56,11 +56,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/21742694/32c2a625-961e-4e23-a14f-f027b90e4312",
   "https://images.blocketcdn.se/dynamic/default/item/21742694/dd937531-0fd4-485a-b6fd-1f53b47536d2"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 57.78,
  "length_ft": 20,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-05",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1970,
@@ -70,22 +70,26 @@
    "engine_type": "outboard",
    "engine_year": null,
    "engine_year_evidence": "Suzuki motor medföljer (50 hästkrafter, körd 86 timmar).",
-   "engine_year_rejected": 2020,
    "equipment": {
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "included",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "included",
     "stereo": "not_mentioned",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "9a49e4cc0f7c111c"
+  "text_sha": "2a03c2d754cf8ea1"
  },
  "location": "Torslanda",
  "lon": 11.83,
@@ -96,9 +100,9 @@
  "motor_type": "Utombordare",
  "not_in_search_since": "2026-09-27",
  "page": {
-  "description_chars": 951,
-  "fetched_ts": 1790507428559,
-  "text_sha": "9a49e4cc0f7c111c"
+  "description_chars": 1168,
+  "fetched_ts": 1791173516638,
+  "text_sha": "2a03c2d754cf8ea1"
  },
  "price": 74000,
  "price_history": [

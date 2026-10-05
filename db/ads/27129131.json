@@ -1,0 +1,99 @@
+{
+ "ad_id": 27129131,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1791121255000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1987,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mariner",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1999,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "4 takts Mariner från 1999.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod och 30 km/h kärra ingår.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ekolod och 30 km/h kärra ingår.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Praktisk kabinbåt med Mariner 50hk 4-takt\nPraktisk och välvårdad kabinbåt med låsbar dörr",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-05T04:07:56+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Praktisk kabinbåt med Mariner 50hk 4-takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27129131/e5ccecfb-db1c-44a8-854c-7b3aefcd161b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27129131/e5ccecfb-db1c-44a8-854c-7b3aefcd161b",
+  "https://images.blocketcdn.se/dynamic/default/item/27129131/b6ac1952-44d5-47a5-9695-4253a0f800e4",
+  "https://images.blocketcdn.se/dynamic/default/item/27129131/5cfb94f6-7b2b-4ec2-8004-3d5f3e8d5009",
+  "https://images.blocketcdn.se/dynamic/default/item/27129131/0a664bb1-3576-439a-a631-589637003ef2",
+  "https://images.blocketcdn.se/dynamic/default/item/27129131/886bef5f-75af-4329-9a20-e2a6323d2c33"
+ ],
+ "last_seen": "2026-10-05T04:07:56+00:00",
+ "lat": 59.31,
+ "length_ft": 18,
+ "location": "Kristinehamn",
+ "lon": 14.14,
+ "make": "Hansvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 123,
+  "fetched_ts": 1791173910515,
+  "text_sha": "72d9952f4ca67c22"
+ },
+ "price": 62000,
+ "price_history": [
+  {
+   "date": "2026-10-05",
+   "price": 62000
+  }
+ ],
+ "specs": {
+  "Bredd": "212 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "18 Combi",
+  "Modellår": "1987",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Hansvik",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27129131",
+ "width_cm": 212,
+ "year": 1987
+}

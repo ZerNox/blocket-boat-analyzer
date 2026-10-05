@@ -49,7 +49,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/23887578/58740326-0b42-4685-8f12-7b940186edd6",
   "https://images.blocketcdn.se/dynamic/default/item/23887578/cd2d9604-16da-4395-b88a-700dbf052b46"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.14,
  "length_ft": 19,
  "location": "Säffle",
@@ -61,7 +61,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 129,
-  "fetched_ts": 1790522913964,
+  "fetched_ts": 1791173554227,
   "text_sha": "cd3bb72aa501ff8b"
  },
  "price": 35000,

@@ -72,6 +72,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-05",
  "page": {
   "description_chars": 559,
   "fetched_ts": 1790522908649,
@@ -100,7 +101,7 @@
   "Toppfart": "30 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/23854650",
  "width_cm": 224,
  "year": 2008

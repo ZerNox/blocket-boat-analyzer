@@ -59,7 +59,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/24106906/631d8c9a-8bea-4a19-91d0-d559a9cb6714",
   "https://images.blocketcdn.se/dynamic/default/item/24106906/6765b680-d6eb-4f3e-878f-42f30be48f75"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 57.7,
  "length_ft": 18,
  "location": "Härryda",
@@ -71,7 +71,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 880,
-  "fetched_ts": 1790522920822,
+  "fetched_ts": 1791173561042,
   "text_sha": "5927e78d0876d3be"
  },
  "price": 54000,

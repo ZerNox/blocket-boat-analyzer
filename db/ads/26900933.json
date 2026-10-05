@@ -61,7 +61,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26900933/7b2a4651-1435-4282-a546-84481456df6a",
   "https://images.blocketcdn.se/dynamic/default/item/26900933/0b7ec56b-8c3a-48a8-8003-a858971448c8"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.37,
  "length_ft": 21,
  "location": "Värmdö",
@@ -76,11 +76,15 @@
   "fetched_ts": 1791087092312,
   "text_sha": "fc190860c7625f24"
  },
- "price": 69000,
+ "price": 59000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 69000
+  },
+  {
+   "date": "2026-10-05",
+   "price": 59000
   }
  ],
  "specs": {

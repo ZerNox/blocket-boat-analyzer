@@ -93,6 +93,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-05",
  "page": {
   "description_chars": 276,
   "fetched_ts": 1790507867832,
@@ -117,7 +118,7 @@
   "Märke": "Örnvik",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25436542",
  "width_cm": 0,
  "year": 1975

@@ -64,6 +64,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-05",
  "page": {
   "description_chars": 211,
   "fetched_ts": 1790508308792,
@@ -76,6 +77,11 @@
    "price": 55000
   }
  ],
+ "sold": {
+  "date": "2026-10-05",
+  "days_seen": 8,
+  "last_price": 55000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
@@ -89,7 +95,7 @@
   "Toppfart": "25 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/25927256",
  "width_cm": 0,
  "year": 1980

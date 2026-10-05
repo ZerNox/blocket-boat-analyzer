@@ -62,7 +62,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25043077/d1c48d71-ed22-4e03-99bc-5f85aa9d6d59",
   "https://images.blocketcdn.se/dynamic/default/item/25043077/711d0a65-1d58-4c7d-971b-20c10fcddef4"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 58.39,
  "length_ft": 18,
  "location": "Vargön",
@@ -74,7 +74,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 275,
-  "fetched_ts": 1790522942977,
+  "fetched_ts": 1791173581437,
   "text_sha": "7de80bd0117c357e"
  },
  "price": 56500,

@@ -55,7 +55,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25491791/5a483456-e8ff-451e-9d23-e057ce2ea65f",
   "https://images.blocketcdn.se/dynamic/default/item/25491791/bd1941a1-a056-4363-bfe1-d748178eea72"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 58.84,
  "length_ft": 18,
  "location": "Nynäshamn",
@@ -67,7 +67,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 125,
-  "fetched_ts": 1790507921834,
+  "fetched_ts": 1791173610270,
   "text_sha": "de31030181e10b71"
  },
  "price": 140000,

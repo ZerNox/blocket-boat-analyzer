@@ -75,6 +75,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 100.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-05",
  "page": {
   "description_chars": 1022,
   "fetched_ts": 1790522988317,
@@ -104,7 +105,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "720 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25414716",
  "width_cm": 226,
  "year": 2009

@@ -67,7 +67,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25842807/53ca130c-e1d6-46b1-b3b9-890292ea18a0",
   "https://images.blocketcdn.se/dynamic/default/item/25842807/60b00fdd-dbed-42bc-be00-61e289bfe16f"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 58.9,
  "length_ft": 19,
  "location": "Trosa",
@@ -79,7 +79,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 423,
-  "fetched_ts": 1790508245028,
+  "fetched_ts": 1791173685413,
   "text_sha": "5cb34635ff0d973e"
  },
  "price": 190000,

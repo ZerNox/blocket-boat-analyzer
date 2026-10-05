@@ -64,7 +64,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25890007/a9a26c52-7d55-44e2-b8ef-2421bb1e7dd9",
   "https://images.blocketcdn.se/dynamic/default/item/25890007/6e430c98-3ce9-4eae-b12d-84cba377dbd1"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.48,
  "length_ft": 20,
  "location": "Täby",
@@ -76,7 +76,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 1258,
-  "fetched_ts": 1790523082958,
+  "fetched_ts": 1791173697521,
   "text_sha": "dd9e5bd082f4b209"
  },
  "price": 59000,

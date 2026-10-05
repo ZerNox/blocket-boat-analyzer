@@ -42,7 +42,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26797323/bcfcc359-4c15-4bac-983f-9d2c8e893aca",
   "https://images.blocketcdn.se/dynamic/default/item/26797323/9265459e-5e7e-42ea-85df-a3c9e5fdaef3"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 55.89,
  "length_ft": 19,
  "location": "Landskrona",
@@ -54,7 +54,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 81,
-  "fetched_ts": 1790508947772,
+  "fetched_ts": 1791173883359,
   "text_sha": "0b612eb8e2fbf868"
  },
  "price": 36000,

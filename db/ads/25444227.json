@@ -57,7 +57,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25444227/f085f36c-d871-48c4-95a2-9543921fe1cf",
   "https://images.blocketcdn.se/dynamic/default/item/25444227/ecbe0ce8-b652-4e22-9a6d-f55a90ab15ca"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.57,
  "length_ft": 18,
  "location": "Bålsta",
@@ -69,7 +69,7 @@
  "motor_type": null,
  "page": {
   "description_chars": 422,
-  "fetched_ts": 1790520697692,
+  "fetched_ts": 1791173588506,
   "text_sha": "2e01ec140623ce0e"
  },
  "price": 69000,

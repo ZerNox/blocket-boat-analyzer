@@ -61,7 +61,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26670433/8396bf77-ad25-4335-bee7-50261441d04e",
   "https://images.blocketcdn.se/dynamic/default/item/26670433/53bf9030-38a9-44c2-af82-9563cf61e650"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 57.67,
  "length_ft": 19,
  "location": "Västra Frölunda",
@@ -73,7 +73,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 361,
-  "fetched_ts": 1790523201449,
+  "fetched_ts": 1791173863742,
   "text_sha": "abe1f8c886f93fc5"
  },
  "price": 95000,

@@ -62,7 +62,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26598290/cb6cd07c-7922-4f18-95e9-3b90f4da2a70",
   "https://images.blocketcdn.se/dynamic/default/item/26598290/7883f2f4-8069-4f3b-bfba-9d591d2d019a"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 57.85,
  "length_ft": 21,
  "location": "Kärna",
@@ -74,8 +74,8 @@
  "motor_type": "Inombordare",
  "page": {
   "description_chars": 1191,
-  "fetched_ts": 1790521019730,
-  "text_sha": "14194424f3d7b528"
+  "fetched_ts": 1791173846832,
+  "text_sha": "68eef08623326d6a"
  },
  "price": 50000,
  "price_history": [

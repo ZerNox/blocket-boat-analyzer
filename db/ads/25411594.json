@@ -92,6 +92,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-05",
  "page": {
   "description_chars": 439,
   "fetched_ts": 1790507846491,
@@ -116,7 +117,7 @@
   "Märke": "Övriga",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25411594",
  "width_cm": 0,
  "year": 1986

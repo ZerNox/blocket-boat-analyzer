@@ -72,7 +72,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26934523/e299d723-00b6-4daa-9d16-9aa1a70872aa",
   "https://images.blocketcdn.se/dynamic/default/item/26934523/bdc5e1b9-c383-45a4-9fc8-21a3f6a49ab2"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 59.61,
  "length_ft": 18,
  "location": "Västerås",
@@ -84,14 +84,18 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 864,
-  "fetched_ts": 1790523240227,
+  "fetched_ts": 1791173903329,
   "text_sha": "0277df760096a563"
  },
- "price": 25000,
+ "price": 20000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 25000
+  },
+  {
+   "date": "2026-10-05",
+   "price": 20000
   }
  ],
  "specs": {

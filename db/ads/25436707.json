@@ -70,6 +70,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-05",
  "page": {
   "description_chars": 161,
   "fetched_ts": 1790507869379,
@@ -96,7 +97,7 @@
   "Märke": "Uttern",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25436707",
  "width_cm": 235,
  "year": 1985

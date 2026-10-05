@@ -1,0 +1,93 @@
+{
+ "ad_id": 27120790,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1791107895000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Äldre gps, åror",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "ägare hade plastat på en akterhytt som jag tog bort, påbörjade plastarbete och målning men jag hade aldri",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-05T04:07:56+00:00",
+ "found_by": [
+  "Örnvik 580"
+ ],
+ "heading": "Örnvik 580",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27120790/4fb481bb-2af9-41cd-bd09-4128e912beab",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27120790/4fb481bb-2af9-41cd-bd09-4128e912beab",
+  "https://images.blocketcdn.se/dynamic/default/item/27120790/67bdc889-fef3-418e-90b2-13f5f4d4ec64",
+  "https://images.blocketcdn.se/dynamic/default/item/27120790/560e89b3-c8ce-43c6-b787-0d9d45959cd2"
+ ],
+ "last_seen": "2026-10-05T04:07:56+00:00",
+ "lat": 59.27,
+ "length_ft": 19,
+ "location": "Sandhamn",
+ "lon": 19.02,
+ "make": "Örnvik",
+ "max_speed": 34,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 486,
+  "fetched_ts": 1791173907725,
+  "text_sha": "6dbae5d727d6739b"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-10-05",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "45 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "580",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "34 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "400 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27120790",
+ "width_cm": 220,
+ "year": 1978
+}

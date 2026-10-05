@@ -27,6 +27,10 @@
    "landstrom": {
     "evidence": "- Ny usb-laddare",
     "included": true
+   },
+   "trailer": {
+    "evidence": "30-trailer kan köpas till för 5.000kr.",
+    "included": false
    }
   },
   "hull": "cabin",
@@ -57,11 +61,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/25803232/5d4cbfad-a642-4f10-b881-f7e73ad56daa",
   "https://images.blocketcdn.se/dynamic/default/item/25803232/fbde7d1a-1382-4a67-a531-86153c8ca6b2"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 58.28,
  "length_ft": 18,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-05",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1989,
@@ -70,22 +74,27 @@
    "engine_maker": "Volvo Penta",
    "engine_type": "inboard",
    "engine_year": null,
-   "engine_year_evidence": "Motorn renoverades (finns dokumenterat med bilder/kvitton). - Nyslipad vevaxel - Nya vev och ramlager - Nya beg. vevstakar - Nya packningar samt tätningsringar - Ny oljetrycksgiva…",
+   "engine_year_evidence": "Motorn renoverades (finns dokumenterat med bilder/kvitton). Följande gjordes: - Nyslipad vevaxel - Nya vev och ramlager - Nya beg. vevstakar - Nya packningar samt tätningsringar -…",
    "equipment": {
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
-    "trailer": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "9e139e1017950365"
+  "text_sha": "8e121f0efd687bca"
  },
  "location": "Lysekil",
  "lon": 11.44,
@@ -95,9 +104,9 @@
  "motor_size": null,
  "motor_type": "Inombordare",
  "page": {
-  "description_chars": 1387,
-  "fetched_ts": 1790523068150,
-  "text_sha": "9e139e1017950365"
+  "description_chars": 1427,
+  "fetched_ts": 1791173674300,
+  "text_sha": "8e121f0efd687bca"
  },
  "price": 67000,
  "price_history": [

@@ -22,7 +22,7 @@
   "equipment": {},
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "Båt\nFamiljebåt med kabin i gott skick, ingen motor. Byta mot en bil",
+  "hull_evidence": "Båt\nFamiljebåt med kabin i gott skick, ingen motor. Byta mot en bil…",
   "hull_source": "rule:text",
   "llm_reasons": [
    "engine type unknown",
@@ -46,11 +46,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26440724/7b46f412-47c4-4ca8-a365-91576d05f782",
   "https://images.blocketcdn.se/dynamic/default/item/26440724/ab029ddf-bd94-42aa-ab67-557a29693fb2"
  ],
- "last_seen": "2026-10-04T04:07:36+00:00",
+ "last_seen": "2026-10-05T04:07:56+00:00",
  "lat": 58.38,
  "length_ft": 17,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-05",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2000,
@@ -65,16 +65,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "f99e891c48f84cdd"
+  "text_sha": "c2ab030694c045dd"
  },
  "location": "Linköping",
  "lon": 15.57,
@@ -84,9 +89,9 @@
  "motor_size": null,
  "motor_type": null,
  "page": {
-  "description_chars": 63,
-  "fetched_ts": 1790523170765,
-  "text_sha": "f99e891c48f84cdd"
+  "description_chars": 64,
+  "fetched_ts": 1791173816964,
+  "text_sha": "c2ab030694c045dd"
  },
  "price": 13800,
  "price_history": [
