@@ -57,7 +57,7 @@
  "image_urls": [
   "https://media.se.klaravik.com/public/productimages/c0/2c/3241484/extrabilder74090407_large.jpg?v=1782397747"
  ],
- "last_seen": "2026-10-05",
+ "last_seen": "2026-10-06",
  "lat": 57.87,
  "length_ft": 20.8,
  "llm": {
@@ -99,7 +99,7 @@
  "motor_type": null,
  "page": {
   "description_chars": 541,
-  "fetched_ts": 1791173933803,
+  "fetched_ts": 1791260012678,
   "text_sha": "2651e07fcddfbce6"
  },
  "price": 53000,

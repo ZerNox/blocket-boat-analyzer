@@ -1,0 +1,89 @@
+{
+ "ad_id": 27156435,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791197584000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": 363,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha F100",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2012,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båt 2005, motor 2012.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt originalkapell -25",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-06T04:08:54+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Yamarin 5930 med nyare motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27156435/684d41ae-5f2c-4ea1-b549-f2db483d0319",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27156435/684d41ae-5f2c-4ea1-b549-f2db483d0319",
+  "https://images.blocketcdn.se/dynamic/default/item/27156435/5accaf58-41bd-48a2-a7f9-b24d9cd92c1b",
+  "https://images.blocketcdn.se/dynamic/default/item/27156435/3133b8d3-086e-4507-9af2-c202a767da96",
+  "https://images.blocketcdn.se/dynamic/default/item/27156435/6ea74a5d-be67-4866-8cb0-e0b08123a308"
+ ],
+ "last_seen": "2026-10-06T04:08:54+00:00",
+ "lat": 59.45,
+ "length_ft": 19,
+ "location": "Åkersberga",
+ "lon": 18.2,
+ "make": "Yamarin",
+ "max_speed": 30,
+ "motor_fuel": null,
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 178,
+  "fetched_ts": 1791259990286,
+  "text_sha": "9bf1982ea8d86620"
+ },
+ "price": 169000,
+ "price_history": [
+  {
+   "date": "2026-10-06",
+   "price": 169000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modell": "5930 (59HT)",
+  "Modellår": "2005",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Yamaha F100",
+  "Motortyp": "Utombordare",
+  "Märke": "Yamarin",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27156435",
+ "width_cm": 0,
+ "year": 2005
+}

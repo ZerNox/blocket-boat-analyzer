@@ -52,7 +52,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25660366/8122a58a-1afb-407b-a1c8-fb06330201fc",
   "https://images.blocketcdn.se/dynamic/default/item/25660366/1e61de1e-7a0f-4162-a343-f239a80693bb"
  ],
- "last_seen": "2026-10-05T04:07:56+00:00",
+ "last_seen": "2026-10-06T04:08:54+00:00",
  "lat": 61.38,
  "length_ft": 18,
  "location": "Rengsjö",
@@ -64,7 +64,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 238,
-  "fetched_ts": 1790655093137,
+  "fetched_ts": 1791259968986,
   "text_sha": "3a6f8e8fba771970"
  },
  "price": 45000,

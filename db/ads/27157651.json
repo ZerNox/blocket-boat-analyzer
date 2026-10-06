@@ -1,0 +1,135 @@
+{
+ "ad_id": 27157651,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1791203577000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "MB 220 d",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Kyl, Gasolspis med ugn, Gps Plotter, Fendrar, tampar.",
+    "included": true
+   },
+   "varmare": {
+    "evidence": "Vallas diesel värmare.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-06T04:08:54+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Örnvik 660 Scandinavia",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27157651/0ed4452c-0904-42ca-a1d1-64d68033019c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27157651/0ed4452c-0904-42ca-a1d1-64d68033019c",
+  "https://images.blocketcdn.se/dynamic/default/item/27157651/8afc84b6-2464-4d10-a0bd-e06cadbfd2c3",
+  "https://images.blocketcdn.se/dynamic/default/item/27157651/5ad238b3-41d5-40ff-9384-303d9ab92aa1",
+  "https://images.blocketcdn.se/dynamic/default/item/27157651/9aae9f55-4c19-4a65-8e61-921cbc4e5951",
+  "https://images.blocketcdn.se/dynamic/default/item/27157651/f839580f-8cda-46ff-a9fc-5515f2df2dd7",
+  "https://images.blocketcdn.se/dynamic/default/item/27157651/b63a6b72-51bc-4061-98c3-a292a1325f3f",
+  "https://images.blocketcdn.se/dynamic/default/item/27157651/559d2174-4523-418d-a312-4dc9b39cf5a5"
+ ],
+ "last_seen": "2026-10-06T04:08:54+00:00",
+ "lat": 59.92,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-10-06",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1989,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "MB",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "included",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "308ed3b182d2c8e8"
+ },
+ "location": "Sala",
+ "lon": 16.59,
+ "make": "Örnvik",
+ "max_speed": 15,
+ "motor_fuel": "Diesel",
+ "motor_size": 90.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 215,
+  "fetched_ts": 1791259991745,
+  "text_sha": "308ed3b182d2c8e8"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-10-06",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Diesel",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "660 Scandinavia",
+  "Modellår": "1989",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "MB 220 d",
+  "Motortyp": "Inombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "5",
+  "Toppfart": "15 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27157651",
+ "width_cm": 0,
+ "year": 1989
+}

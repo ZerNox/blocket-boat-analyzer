@@ -1,7 +1,7 @@
 {
  "ad_id": 25139221,
  "boat_class": "Daycruiser",
- "changed_ts": 1790586592000,
+ "changed_ts": 1791191320000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1985,
@@ -56,7 +56,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25139221/19a499d2-fef6-4b80-bc4a-0b40fcc12849",
   "https://images.blocketcdn.se/dynamic/default/item/25139221/0086eff9-3960-47e1-a736-d610388ae226"
  ],
- "last_seen": "2026-10-05T04:07:56+00:00",
+ "last_seen": "2026-10-06T04:08:54+00:00",
  "lat": 56.13,
  "length_ft": 17,
  "llm": {
@@ -100,7 +100,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 202,
-  "fetched_ts": 1790625172974,
+  "fetched_ts": 1791259965146,
   "text_sha": "cf9186bf25180e49"
  },
  "price": 44000,

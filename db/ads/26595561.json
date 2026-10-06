@@ -45,7 +45,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26595561/11846088-9e0c-4013-9c89-4a98d0d6a7a0",
   "https://images.blocketcdn.se/dynamic/default/item/26595561/2630dc5d-bd45-4264-a634-49cdacbe7ed1"
  ],
- "last_seen": "2026-10-05T04:07:56+00:00",
+ "last_seen": "2026-10-06T04:08:54+00:00",
  "lat": 61.31,
  "length_ft": 16,
  "llm": {
@@ -89,7 +89,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 486,
-  "fetched_ts": 1790655097039,
+  "fetched_ts": 1791259974684,
   "text_sha": "b50ebe6f20b5d96a"
  },
  "price": 15000,

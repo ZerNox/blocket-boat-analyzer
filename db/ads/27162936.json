@@ -1,0 +1,134 @@
+{
+ "ad_id": 27162936,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1791210179000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2003,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 75,
+  "engine_hp_source": "llm",
+  "engine_maker": "E-tec",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2003,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Trailer nybesiktigad 80 km ingår.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 510 MC",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-06T04:08:54+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds 510 MC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27162936/60689375-6ff9-4503-be70-a0fe192b5671",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27162936/60689375-6ff9-4503-be70-a0fe192b5671",
+  "https://images.blocketcdn.se/dynamic/default/item/27162936/4cd5f79a-4ae1-42dc-a93e-f0b369e4ec11",
+  "https://images.blocketcdn.se/dynamic/default/item/27162936/23658d18-8e68-4ed5-9ce8-d664b0aa52be",
+  "https://images.blocketcdn.se/dynamic/default/item/27162936/a7f594cd-f141-4d02-b08a-fed716b90af4",
+  "https://images.blocketcdn.se/dynamic/default/item/27162936/5f332f3d-903e-4fa4-99e1-7d70f094ea16",
+  "https://images.blocketcdn.se/dynamic/default/item/27162936/9774a6a1-79cc-44ad-b290-0ed825ec9f97",
+  "https://images.blocketcdn.se/dynamic/default/item/27162936/c842a2b4-1754-4b0e-adf8-7ee318c6a4ce",
+  "https://images.blocketcdn.se/dynamic/default/item/27162936/ced33ea0-8b13-4b4c-86eb-a5ad34b918d7",
+  "https://images.blocketcdn.se/dynamic/default/item/27162936/c9d5a33e-3130-43d5-8a74-f5f84e68fa74",
+  "https://images.blocketcdn.se/dynamic/default/item/27162936/39cc6a60-e951-4600-863c-f400e29a8989",
+  "https://images.blocketcdn.se/dynamic/default/item/27162936/877cc83c-d81f-41cd-9967-b5b391e38364",
+  "https://images.blocketcdn.se/dynamic/default/item/27162936/81c89a20-10be-4369-b3b2-1c8fc9776349"
+ ],
+ "last_seen": "2026-10-06T04:08:54+00:00",
+ "lat": 60.78,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-10-06",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2003,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "E-tec",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8d5249707c828fad"
+ },
+ "location": "Siljansnäs",
+ "lon": 14.85,
+ "make": "Ryds",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 33,
+  "fetched_ts": 1791259993182,
+  "text_sha": "8d5249707c828fad"
+ },
+ "price": 89000,
+ "price_history": [
+  {
+   "date": "2026-10-06",
+   "price": 89000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "510 MC",
+  "Modellår": "2003",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "E-tec",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Plast",
+  "Toppfart": "32 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27162936",
+ "width_cm": 0,
+ "year": 2003
+}

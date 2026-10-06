@@ -101,7 +101,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Utombordare",
- "not_in_search_since": "2026-09-27",
+ "not_in_search_since": "2026-10-06",
  "page": {
   "description_chars": 579,
   "fetched_ts": 1791173751684,
@@ -114,6 +114,11 @@
    "price": 15000
   }
  ],
+ "sold": {
+  "date": "2026-10-06",
+  "days_seen": 9,
+  "last_price": 15000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
@@ -127,7 +132,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26116366",
  "width_cm": 0,
  "year": 1979

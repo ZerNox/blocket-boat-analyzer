@@ -56,7 +56,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26324801/fa21d9c9-71fa-4282-896c-6ab31e8a3ae9",
   "https://images.blocketcdn.se/dynamic/default/item/26324801/90296dd0-c133-4479-8d30-d946a87eadba"
  ],
- "last_seen": "2026-10-05T04:07:56+00:00",
+ "last_seen": "2026-10-06T04:08:54+00:00",
  "lat": 58.8,
  "length_ft": 19,
  "location": "Nyköping",
@@ -68,7 +68,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 190,
-  "fetched_ts": 1790655094529,
+  "fetched_ts": 1791259972065,
   "text_sha": "c94dd6257c4f45d8"
  },
  "price": 230000,

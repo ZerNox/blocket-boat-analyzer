@@ -19,7 +19,16 @@
   "engine_year_est_reason": null,
   "engine_year_evidence": "Båt o motor el start( 4 år gammal och servad varje år på båtservice) åror,fendrar samt laddstation för mob.",
   "engine_year_source": "rule:text",
-  "equipment": {},
+  "equipment": {
+   "trailer": {
+    "evidence": "Lanternena är inte inkopplade för jag han inte göra klart det samt att jag inte åker ut på natten...Motorn kostade 38 0…",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -27,17 +36,25 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "kategori"
+ ],
  "heading": "Hard topp båt säljes plus motor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26885939/ecf4fd1d-594e-456d-9227-a9da91d7d688",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/26885939/ecf4fd1d-594e-456d-9227-a9da91d7d688",
-  "https://images.blocketcdn.se/dynamic/default/item/26885939/5e4c19fb-e1b4-47df-a66e-c4adb3e03fd7",
   "https://images.blocketcdn.se/dynamic/default/item/26885939/d69c4976-318e-4bbe-a809-ebde3c6e4982",
-  "https://images.blocketcdn.se/dynamic/default/item/26885939/6331e9cb-c82b-4132-9ec6-e0a6431aa79b"
+  "https://images.blocketcdn.se/dynamic/default/item/26885939/6331e9cb-c82b-4132-9ec6-e0a6431aa79b",
+  "https://images.blocketcdn.se/dynamic/default/item/26885939/57d5b5a5-3be4-4040-a290-5f616b4a4901",
+  "https://images.blocketcdn.se/dynamic/default/item/26885939/358aa0ba-e7f9-487e-a23e-e95bd54ab2f2",
+  "https://images.blocketcdn.se/dynamic/default/item/26885939/756dcb38-14b2-4e2b-a379-bac69ad49a37",
+  "https://images.blocketcdn.se/dynamic/default/item/26885939/4dc90ff3-aaa9-4230-a068-ea21497c2f43",
+  "https://images.blocketcdn.se/dynamic/default/item/26885939/47ef3ba9-9c9c-43a7-a4f1-16a35ffe69a2",
+  "https://images.blocketcdn.se/dynamic/default/item/26885939/7b76c702-3246-41b5-9c0e-68fd1652d7fe"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-10-06T04:08:54+00:00",
  "lat": 57.65,
- "length_ft": 480,
+ "length_ft": 17,
  "location": "Mölndal",
  "lon": 11.96,
  "make": "Ryds",
@@ -47,35 +64,59 @@
  "motor_type": "Utombordare",
  "not_in_search_since": "2026-09-27",
  "page": {
-  "description_chars": 488,
-  "fetched_ts": 1790521077533,
-  "text_sha": "e9c72756675bea15"
+  "description_chars": 559,
+  "fetched_ts": 1791259981858,
+  "text_sha": "389d8377bd03fae2"
  },
- "price": 24000,
+ "price": 23900,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 24000
+  },
+  {
+   "date": "2026-10-06",
+   "price": 23900
   }
  ],
  "specs": {
+  "Bredd": "180 cm",
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
   "Färg": "Ljus gul",
-  "Längd i fot": "480 fot",
+  "Längd i fot": "17 fot",
   "Modell": "Tummlare",
   "Modellår": "1970",
   "Motor inkluderad": "Ja",
   "Motortillverkare": "Merkery",
   "Motortyp": "Utombordare",
   "Märke": "Ryds",
-  "Sittplatser": "6",
+  "Sittplatser": "5",
   "Skrovmaterial": "Glasfiber",
   "Sovplatser": "2",
-  "Typ": "Hyttbåt"
+  "Typ": "Hyttbåt",
+  "Vikt": "380 kg"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26885939",
- "width_cm": 0,
+ "vision": {
+  "at": "2026-10-06",
+  "images_sha": "0528a7f56f310d34",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "brand": null,
+   "engine_photos": [
+    5
+   ],
+   "four_stroke": null,
+   "hp": null,
+   "photo": 5,
+   "text_seen": "DIN"
+  },
+  "tasks": [
+   "hp"
+  ]
+ },
+ "width_cm": 180,
  "year": 1970
 }

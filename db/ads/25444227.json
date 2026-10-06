@@ -67,6 +67,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-10-06",
  "page": {
   "description_chars": 422,
   "fetched_ts": 1791173588506,
@@ -91,7 +92,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "720 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25444227",
  "width_cm": 218,
  "year": 1998

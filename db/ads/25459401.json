@@ -96,6 +96,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-06",
  "page": {
   "description_chars": 884,
   "fetched_ts": 1791173597244,
@@ -125,7 +126,7 @@
   "Toppfart": "30 knop",
   "Typ": "Bowrider"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25459401",
  "width_cm": 220,
  "year": 2001

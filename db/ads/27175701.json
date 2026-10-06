@@ -1,0 +1,128 @@
+{
+ "ad_id": 27175701,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791240629000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
+  "engine_maker": "Johnsson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Havsrocka med fräscht kapell säljes med defekt motor.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-06T04:08:54+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Hösterbjudande, havsrocka med reservdelsmotor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27175701/0c13d413-0f68-4f33-9784-1f0c066a42b8",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27175701/0c13d413-0f68-4f33-9784-1f0c066a42b8",
+  "https://images.blocketcdn.se/dynamic/default/item/27175701/22ba71ae-b19a-4240-80f6-dad4fb5a21c6"
+ ],
+ "last_seen": "2026-10-06T04:08:54+00:00",
+ "lat": 59.46,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-10-06",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Johnsson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Ny relingslist monterad av firma, 2026, 5800kr",
+   "engine_year_rejected": 2026,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8f0fbdefc4d0fb82"
+ },
+ "location": "Täby",
+ "lon": 18.08,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 200,
+  "fetched_ts": 1791259995855,
+  "text_sha": "8f0fbdefc4d0fb82"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-10-06",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "Röd",
+  "Längd i fot": "17 fot",
+  "Modell": "Havsrocka",
+  "Modellår": "1980",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Johnsson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Typ": "Daycruiser",
+  "Vikt": "500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27175701",
+ "width_cm": 205,
+ "year": 1980
+}

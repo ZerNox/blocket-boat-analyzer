@@ -76,7 +76,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26945189/c3461758-23a4-4994-83a4-4cdd8a2f9666",
   "https://images.blocketcdn.se/dynamic/default/item/26945189/387447ef-0316-4c8c-8335-1c741ef922cd"
  ],
- "last_seen": "2026-10-05T04:07:56+00:00",
+ "last_seen": "2026-10-06T04:08:54+00:00",
  "lat": 59.37,
  "length_ft": 20,
  "location": "Eskilstuna",
@@ -88,7 +88,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 460,
-  "fetched_ts": 1790625181448,
+  "fetched_ts": 1791259984536,
   "text_sha": "ff04f62ec29e05fe"
  },
  "price": 33000,

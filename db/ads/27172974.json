@@ -1,0 +1,138 @@
+{
+ "ad_id": 27172974,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791231175000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1993,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1993,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell i orginalutförande (2021)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer (kan ingå vid smidig affär)",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 530DC 90hk",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-10-06T04:08:54+00:00",
+ "found_by": [
+  "kategori",
+  "Ryds 530"
+ ],
+ "heading": "Ryds 530DC 90hk",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27172974/9045cd85-9142-4610-87af-8790eddbd2a0",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27172974/9045cd85-9142-4610-87af-8790eddbd2a0",
+  "https://images.blocketcdn.se/dynamic/default/item/27172974/0331fb26-d305-4a49-8bd0-69600495fb78",
+  "https://images.blocketcdn.se/dynamic/default/item/27172974/4eeaa713-0202-4271-b98d-3b0f4724ee7a",
+  "https://images.blocketcdn.se/dynamic/default/item/27172974/7ebce584-f044-4ea9-814c-e8541913bf72",
+  "https://images.blocketcdn.se/dynamic/default/item/27172974/2b502cc6-62c1-40eb-8c22-f2a0be239bfc",
+  "https://images.blocketcdn.se/dynamic/default/item/27172974/25026e2c-1d40-4441-b3c7-22009082124d",
+  "https://images.blocketcdn.se/dynamic/default/item/27172974/eae29275-5d5c-452f-9e89-3afa5dc75ff2"
+ ],
+ "last_seen": "2026-10-06T04:08:54+00:00",
+ "lat": 59.47,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-10-06",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1993,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor: Mercury 90hk ELPTO, 2-takt Tillverkningsår 2002",
+   "engine_year_rejected": 2002,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3829869c8cc54344"
+ },
+ "location": "Österskär",
+ "lon": 18.31,
+ "make": "Ryds",
+ "max_speed": 32,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1303,
+  "fetched_ts": 1791259994636,
+  "text_sha": "3829869c8cc54344"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-10-06",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Bredd": "202 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "530 DC",
+  "Modellår": "1993",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "32 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "600 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27172974",
+ "width_cm": 202,
+ "year": 1993
+}

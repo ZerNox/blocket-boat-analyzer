@@ -69,6 +69,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-06",
  "page": {
   "description_chars": 791,
   "fetched_ts": 1791173598729,
@@ -96,7 +97,7 @@
   "Typ": "Daycruiser",
   "Vikt": "400 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25461918",
  "width_cm": 210,
  "year": 2011

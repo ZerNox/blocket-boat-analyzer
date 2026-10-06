@@ -102,6 +102,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-10-06",
  "page": {
   "description_chars": 987,
   "fetched_ts": 1791173837138,
@@ -114,6 +115,11 @@
    "price": 22000
   }
  ],
+ "sold": {
+  "date": "2026-10-06",
+  "days_seen": 9,
+  "last_price": 22000
+ },
  "specs": {
   "Bredd": "203 cm",
   "Båtens plats": "Sverige",
@@ -126,7 +132,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "300 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26561460",
  "width_cm": 203,
  "year": 1980

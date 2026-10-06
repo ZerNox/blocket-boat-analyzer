@@ -1,0 +1,128 @@
+{
+ "ad_id": 27152325,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1791190109000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 80,
+  "engine_hp_source": "llm",
+  "engine_maker": "Yanmar",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": "a mot grövre aluminiumbåt med utombordare ev. med bogramp , mellanskilllnad betalas.",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1998,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "declared inboard but text says 'utombordare'",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": true
+ },
+ "first_seen": "2026-10-06T04:08:54+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Skärgårds-pickup",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27152325/e9f5d4a4-f38d-4a9d-a7f1-0ba565397032",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27152325/e9f5d4a4-f38d-4a9d-a7f1-0ba565397032",
+  "https://images.blocketcdn.se/dynamic/default/item/27152325/ee40ebce-d1af-42f0-9eca-769a1dde1826",
+  "https://images.blocketcdn.se/dynamic/default/item/27152325/7b3eed9d-9bd7-4cfa-b5ba-d762d5bd8a93",
+  "https://images.blocketcdn.se/dynamic/default/item/27152325/252f68df-d08d-4d75-b70a-d0235d468cb2",
+  "https://images.blocketcdn.se/dynamic/default/item/27152325/172fe5a1-cb6c-406e-a319-c39f18db7e8a",
+  "https://images.blocketcdn.se/dynamic/default/item/27152325/eceebae4-550c-453b-9fde-a7e2d2a0dded"
+ ],
+ "last_seen": "2026-10-06T04:08:54+00:00",
+ "lat": 58.61,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-10-06",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1998,
+   "engine_hours": null,
+   "engine_hp": 80,
+   "engine_maker": "Yanmar",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3be2edc9f69b4ace"
+ },
+ "location": "Norrköping",
+ "lon": 16.26,
+ "make": "Korsø",
+ "max_speed": 20,
+ "motor_fuel": "Diesel",
+ "motor_size": 80.0,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 273,
+  "fetched_ts": 1791259988927,
+  "text_sha": "3be2edc9f69b4ace"
+ },
+ "price": 230000,
+ "price_history": [
+  {
+   "date": "2026-10-06",
+   "price": 230000
+  }
+ ],
+ "specs": {
+  "Bredd": "248 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Drivmedel": "Diesel",
+  "Längd i fot": "21 fot",
+  "Modell": "Korsö 610 C",
+  "Modellår": "1998",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Yanmar",
+  "Motortyp": "Inombordare",
+  "Märke": "Korsø",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "20 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "1 250 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27152325",
+ "width_cm": 248,
+ "year": 1998
+}
