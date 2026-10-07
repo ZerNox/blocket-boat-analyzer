@@ -1,7 +1,7 @@
 {
  "ad_id": 26804749,
  "boat_class": "Kabinbåt",
- "changed_ts": 1790698002000,
+ "changed_ts": 1791302811000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1977,
@@ -54,7 +54,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26804749/95c4c684-8bc0-4941-bb19-cfe7027b7c0e",
   "https://images.blocketcdn.se/dynamic/default/item/26804749/ca4ed2e5-dd5d-47a6-9604-0b1c15729dc2"
  ],
- "last_seen": "2026-10-06T04:08:54+00:00",
+ "last_seen": "2026-10-07T04:06:53+00:00",
  "lat": 59.61,
  "length_ft": 19,
  "location": "Hallstahammar",
@@ -66,7 +66,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 1252,
-  "fetched_ts": 1790741419964,
+  "fetched_ts": 1791346238686,
   "text_sha": "589a6e82e3c899b2"
  },
  "price": 75000,

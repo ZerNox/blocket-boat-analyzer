@@ -92,6 +92,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-07",
  "page": {
   "description_chars": 429,
   "fetched_ts": 1791173893406,
@@ -113,7 +114,7 @@
   "Märke": "Sea Ray",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26865123",
  "width_cm": 2400,
  "year": 1989

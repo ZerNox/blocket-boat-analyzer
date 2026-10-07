@@ -120,6 +120,12 @@
    "price": 53000
   }
  ],
+ "sold": {
+  "date": "2026-10-07",
+  "final_bid": 67000,
+  "last_price": 74500,
+  "reserve_reached": false
+ },
  "source": "klaravik",
  "specs": {
   "Antal nycklar": "1",
@@ -140,7 +146,7 @@
   "WA År": "2012",
   "År enligt": "Typskylt"
  },
- "status": "active",
+ "status": "unsold",
  "url": "https://www.klaravik.se/auktion/produkt/3241484-motorbat-wa-barcon-22-wa-med-mercruiser-30-135hk-och-vagn/",
  "year": null
 }

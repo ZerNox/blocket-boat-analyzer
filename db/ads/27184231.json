@@ -1,0 +1,148 @@
+{
+ "ad_id": 27184231,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791285969000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1998,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1998,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Gps och Ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nytt kapell 2025. (20.000 kr)",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Gps och Ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80 km trailer ingår (Obesiktigad)",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "s Mercury\n5 platser och 3 sovplatser\nNytt kapell 2025. (20.000 kr)\nNyservad i år (stift,bränslefilter, ren",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-07T04:06:53+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Crescent Crown till höstpris",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27184231/90101b72-2a58-4c8c-8d5c-626caa3b6860",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27184231/90101b72-2a58-4c8c-8d5c-626caa3b6860",
+  "https://images.blocketcdn.se/dynamic/default/item/27184231/50c74c87-7eca-455b-9b39-3b6d8683e7f2",
+  "https://images.blocketcdn.se/dynamic/default/item/27184231/601fbee4-ab6f-4298-b238-2e928a11ab5a",
+  "https://images.blocketcdn.se/dynamic/default/item/27184231/3b71307a-4639-46e2-a26f-c2e604c3b18a",
+  "https://images.blocketcdn.se/dynamic/default/item/27184231/4ba211dc-8a2d-4834-9b5d-54245d4e2c0c",
+  "https://images.blocketcdn.se/dynamic/default/item/27184231/23617f38-accb-4d80-978e-202afdd78a90",
+  "https://images.blocketcdn.se/dynamic/default/item/27184231/722788ab-71bd-48a0-8905-6ea41845e15c",
+  "https://images.blocketcdn.se/dynamic/default/item/27184231/28a42f8a-eb13-4583-a390-1bedd1fce5ab",
+  "https://images.blocketcdn.se/dynamic/default/item/27184231/2bb499ea-7d53-4f3c-8ed6-33a6fd40a274"
+ ],
+ "last_seen": "2026-10-07T04:06:53+00:00",
+ "lat": 59.21,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-10-07",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1998,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Nyservad i år (stift,bränslefilter, rengjorda förgasare, ny tändspole)",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3081c90c6252424e"
+ },
+ "location": "Tyresö",
+ "lon": 18.32,
+ "make": "Crescent",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 707,
+  "fetched_ts": 1791346245993,
+  "text_sha": "3081c90c6252424e"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-10-07",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Bredd": "236 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "Crown Pelle Petterson",
+  "Modellår": "1998",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "3",
+  "Toppfart": "25 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27184231",
+ "width_cm": 236,
+ "year": 1998
+}

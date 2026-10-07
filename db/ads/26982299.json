@@ -1,7 +1,7 @@
 {
  "ad_id": 26982299,
  "boat_class": "Daycruiser",
- "changed_ts": 1790679365000,
+ "changed_ts": 1791284090000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2005,
@@ -65,7 +65,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26982299/232ba0c9-a39a-4f3f-bfe9-bd81790ddc24",
   "https://images.blocketcdn.se/dynamic/default/item/26982299/05b1b7c6-db96-46a9-9133-703a82dc3c8f"
  ],
- "last_seen": "2026-10-06T04:08:54+00:00",
+ "last_seen": "2026-10-07T04:06:53+00:00",
  "lat": 59.34,
  "length_ft": 18,
  "location": "Gustavsberg",
@@ -76,9 +76,9 @@
  "motor_size": 90.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 656,
-  "fetched_ts": 1790741421347,
-  "text_sha": "1d814281001a8247"
+  "description_chars": 761,
+  "fetched_ts": 1791346241747,
+  "text_sha": "3238a3c6333b13cb"
  },
  "price": 135000,
  "price_history": [

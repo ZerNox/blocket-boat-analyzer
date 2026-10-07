@@ -4,7 +4,7 @@
  "changed_ts": 1788935448000,
  "dealer_segment": "Privat",
  "extraction": {
-  "boat_year": 2000,
+  "boat_year": 2010,
   "boat_year_source": "spec",
   "engine_hours": null,
   "engine_hp": null,
@@ -15,7 +15,7 @@
   "engine_type_evidence": null,
   "engine_type_source": "llm",
   "engine_year": null,
-  "engine_year_est": 2000,
+  "engine_year_est": 2010,
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
@@ -46,7 +46,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26440724/7b46f412-47c4-4ca8-a365-91576d05f782",
   "https://images.blocketcdn.se/dynamic/default/item/26440724/ab029ddf-bd94-42aa-ab67-557a29693fb2"
  ],
- "last_seen": "2026-10-06T04:08:54+00:00",
+ "last_seen": "2026-10-07T04:06:53+00:00",
  "lat": 58.38,
  "length_ft": 17,
  "llm": {
@@ -118,5 +118,5 @@
  "status": "active",
  "url": "https://www.blocket.se/mobility/item/26440724",
  "width_cm": 0,
- "year": 2000
+ "year": 2010
 }

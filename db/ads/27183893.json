@@ -1,0 +1,135 @@
+{
+ "ad_id": 27183893,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1791287453000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1973,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 75.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Volvo Penta 4-cyl. -75 hk diesel, AQD21A",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1973,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "- Heltäckande kapell som skyddar vid dåligt väder",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Albin 21 + trailer",
+    "included": true
+   },
+   "vinsch": {
+    "evidence": "- 2-växlade vinschar med broms",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "3113526\n- Ankare + rep\n- Toalett\n- Pentry med plats för gasolkök\n- Diskbänk med 2 kranar, färskvatten + s",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-07T04:06:53+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Albin 21 + trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27183893/94e20714-31d2-405c-82fb-7ff71960b54c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27183893/94e20714-31d2-405c-82fb-7ff71960b54c"
+ ],
+ "last_seen": "2026-10-07T04:06:53+00:00",
+ "lat": 59.27,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-10-07",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1973,
+   "engine_hours": null,
+   "engine_hp": 75,
+   "engine_maker": "Volvo Penta",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Präntat på motorblocket: 118 samt ovanför 3113526",
+   "engine_year_rejected": 1973,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d53299f452cd0bb9"
+ },
+ "location": "Örebro",
+ "lon": 15.26,
+ "make": "Albin",
+ "max_speed": null,
+ "motor_fuel": "Diesel",
+ "motor_size": 75.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 1203,
+  "fetched_ts": 1791346244780,
+  "text_sha": "d53299f452cd0bb9"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-10-07",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Djupgående": "80 cm",
+  "Drivmedel": "Diesel",
+  "Färg": "vit",
+  "Längd i fot": "21 fot",
+  "Modell": "21",
+  "Modellår": "1973",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Volvo Penta 4-cyl. -75 hk diesel, AQD21A",
+  "Märke": "Albin",
+  "Sittplatser": "4",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Typ": "Kabinbåt",
+  "Vikt": "1 500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27183893",
+ "width_cm": 0,
+ "year": 1973
+}

@@ -71,7 +71,7 @@
  "image_urls": [
   "https://media.se.klaravik.com/public/productimages/08/9c/3298781/extrabilder75504846_large.jpg?v=1790835180"
  ],
- "last_seen": "2026-10-06",
+ "last_seen": "2026-10-07",
  "lat": 59.2,
  "length_ft": 18.7,
  "location": "Södertälje",
@@ -81,7 +81,7 @@
  "motor_type": null,
  "page": {
   "description_chars": 960,
-  "fetched_ts": 1791260004620,
+  "fetched_ts": 1791346258006,
   "text_sha": "83f42b9e1003ba2e"
  },
  "price": 114350,

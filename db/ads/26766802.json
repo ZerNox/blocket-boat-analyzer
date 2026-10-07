@@ -111,6 +111,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 55.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-07",
  "page": {
   "description_chars": 679,
   "fetched_ts": 1791173880258,
@@ -131,6 +132,11 @@
    "price": 24000
   }
  ],
+ "sold": {
+  "date": "2026-10-07",
+  "days_seen": 10,
+  "last_price": 24000
+ },
  "specs": {
   "Bredd": "220 cm",
   "Båtens plats": "Sverige",
@@ -150,7 +156,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "530 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26766802",
  "width_cm": 220,
  "year": 1980

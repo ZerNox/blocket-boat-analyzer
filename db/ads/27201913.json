@@ -1,0 +1,104 @@
+{
+ "ad_id": 27201913,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1791323080000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1988,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mariner 4 takt",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn är en 60 hk mariner från 2004 som vi servat själva varje år under vår ägo i 5 år.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Den är försedd med länspump och en Garmin plotter med ekolod.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Den är försedd med länspump och en Garmin plotter med ekolod.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ev kan en 80 trailer säljas i samband med affären som är i mycket bra skick med självreglerande stödrullar både fram oc…",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Hyttbåt Väddö 560\nSäljer vår hyttbåt då vi bytt till en större båt. Den har fung",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-07T04:06:53+00:00",
+ "found_by": [
+  "kategori",
+  "Väddö 560"
+ ],
+ "heading": "Hyttbåt Väddö 560",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27201913/a21a849c-7cc6-48d9-aa6d-2c4a6c269191",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27201913/a21a849c-7cc6-48d9-aa6d-2c4a6c269191",
+  "https://images.blocketcdn.se/dynamic/default/item/27201913/76d6e023-4d15-449b-b79e-8339485a88dc",
+  "https://images.blocketcdn.se/dynamic/default/item/27201913/bcf8305d-7377-4a3b-81ad-b8af4f6dfe44",
+  "https://images.blocketcdn.se/dynamic/default/item/27201913/0567e31b-82d4-4c14-8da1-d88b89c7d0b6",
+  "https://images.blocketcdn.se/dynamic/default/item/27201913/bcf9b405-fdcd-4cb8-bd98-730fda1574ef",
+  "https://images.blocketcdn.se/dynamic/default/item/27201913/4ee2ed0f-e09e-402d-be0e-c434306d3c67"
+ ],
+ "last_seen": "2026-10-07T04:06:53+00:00",
+ "lat": 57.64,
+ "length_ft": 18,
+ "location": "Gunnebo",
+ "lon": 16.61,
+ "make": "Väddö",
+ "max_speed": 26,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1023,
+  "fetched_ts": 1791346248916,
+  "text_sha": "051ee766aaadcbf4"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-10-07",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit/röd",
+  "Längd i fot": "18 fot",
+  "Modell": "560 Akterhytt",
+  "Modellår": "1988",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mariner 4 takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Väddö",
+  "Toppfart": "26 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "650 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27201913",
+ "width_cm": 220,
+ "year": 1988
+}

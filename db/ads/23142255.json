@@ -102,6 +102,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 100.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-07",
  "page": {
   "description_chars": 199,
   "fetched_ts": 1791173540369,
@@ -132,7 +133,7 @@
   "Typ": "Daycruiser",
   "Vikt": "520 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/23142255",
  "width_cm": 215,
  "year": 1980

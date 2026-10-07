@@ -1,0 +1,145 @@
+{
+ "ad_id": 27194599,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1791304568000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin Echomap plotter2019 och hydraulisk styrning.",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Garmin Echomap plotter2019 och hydraulisk styrning.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Båten är utrustad med fullt dyn sett, hamnkapell och solkapell.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin Echomap plotter2019 och hydraulisk styrning.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båten står på en bromsad kärra som kan köpas till eller lånas för transport.",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Finnmaster 5700 WA med 100 HK Yamaha Fyrtakt",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-07T04:06:53+00:00",
+ "found_by": [
+  "kategori",
+  "Finnmaster 5700"
+ ],
+ "heading": "Finnmaster 5700 WA med 100 HK Yamaha Fyrtakt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27194599/4d7e38a1-4e62-4f77-be6d-a783be84ac1f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27194599/4d7e38a1-4e62-4f77-be6d-a783be84ac1f",
+  "https://images.blocketcdn.se/dynamic/default/item/27194599/9692dd3b-4b47-45a4-991c-d629e14290b2",
+  "https://images.blocketcdn.se/dynamic/default/item/27194599/dbfad3ea-ea65-48ba-a7bd-ce5b3a235ef9",
+  "https://images.blocketcdn.se/dynamic/default/item/27194599/539018d2-c2df-462c-acc0-61f14a944d7b"
+ ],
+ "last_seen": "2026-10-07T04:06:53+00:00",
+ "lat": 57.5,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-10-07",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2007,
+   "engine_hours": null,
+   "engine_hp": 100,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "c755f0b903286db7"
+ },
+ "location": "Skene",
+ "lon": 12.65,
+ "make": "Finnmaster",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 444,
+  "fetched_ts": 1791346247337,
+  "text_sha": "c755f0b903286db7"
+ },
+ "price": 167000,
+ "price_history": [
+  {
+   "date": "2026-10-07",
+   "price": 167000
+  }
+ ],
+ "specs": {
+  "Bredd": "230 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "5700 WA",
+  "Modellår": "2007",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnmaster",
+  "Sittplatser": "5",
+  "Sovplatser": "2",
+  "Toppfart": "28 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "850 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27194599",
+ "width_cm": 230,
+ "year": 2007
+}

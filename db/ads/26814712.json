@@ -1,0 +1,134 @@
+{
+ "ad_id": 26814712,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791265378000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "VOLVO",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Säljer Ockelbo DC21 , med nytt kapell , Sjösättningsvagn, litet släp 720 kg , nästan oanvänt tält för båt, uppläggnings…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Säljer Ockelbo DC21 , med nytt kapell , Sjösättningsvagn, litet släp 720 kg , nästan oanvänt tält för båt, uppläggnings…",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "OCKELBO DC 21",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-07T04:06:53+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "OCKELBO DC 21",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26814712/4f277aee-1fbf-4675-ab18-bd127efeb4ad",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26814712/4f277aee-1fbf-4675-ab18-bd127efeb4ad",
+  "https://images.blocketcdn.se/dynamic/default/item/26814712/591c07af-ad30-4bcf-8474-b0aacd61c2ed",
+  "https://images.blocketcdn.se/dynamic/default/item/26814712/df8e631b-b479-4b83-89c1-81783ce583f4"
+ ],
+ "last_seen": "2026-10-07T04:06:53+00:00",
+ "lat": 63.18,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-10-07",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "VOLVO",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3eeb40e9d516738c"
+ },
+ "location": "Frösön",
+ "lon": 14.61,
+ "make": "Ockelbo",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 530,
+  "fetched_ts": 1791346240262,
+  "text_sha": "3eeb40e9d516738c"
+ },
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-10-07",
+   "price": 30000
+  }
+ ],
+ "specs": {
+  "Bredd": "245 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "VIT GRÖN",
+  "Längd i fot": "21 fot",
+  "Modell": "DC21",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "VOLVO",
+  "Motortyp": "Inombordare",
+  "Märke": "Ockelbo",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Typ": "Daycruiser",
+  "Vikt": "1 400 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26814712",
+ "width_cm": 245,
+ "year": 1978
+}

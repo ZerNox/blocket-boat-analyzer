@@ -91,6 +91,7 @@
  "motor_fuel": null,
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-07",
  "page": {
   "description_chars": 636,
   "fetched_ts": 1790741418665,
@@ -103,6 +104,11 @@
    "price": 119000
   }
  ],
+ "sold": {
+  "date": "2026-10-07",
+  "days_seen": 10,
+  "last_price": 119000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Längd i fot": "18 fot",
@@ -114,7 +120,7 @@
   "Märke": "Sandström",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26794243",
  "width_cm": 0,
  "year": 2018
