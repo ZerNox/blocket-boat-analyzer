@@ -68,6 +68,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-08",
  "page": {
   "description_chars": 846,
   "fetched_ts": 1791173621546,
@@ -96,7 +97,7 @@
   "Typ": "Daycruiser",
   "Vikt": "510 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25518412",
  "width_cm": 210,
  "year": 2001

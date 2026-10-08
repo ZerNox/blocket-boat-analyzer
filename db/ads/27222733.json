@@ -1,0 +1,104 @@
+{
+ "ad_id": 27222733,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791393877000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1976,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": "gstödet. 5 ägare totalt Motor+Drev: Volvo Penta AQ170 + 280 drev Längd: 6,4 m Bredd: 2,5 m Djupgående: 0,7 m Vikt: 1400",
+  "engine_type_source": "rule:text",
+  "engine_year": 2025,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "- Ny olja i motor och drev 2025",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "- Garmin Ekolod",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "- Garmin Plotter",
+    "included": true
+   },
+   "solpanel": {
+    "evidence": "- Solceller",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "- Bluetooth stereo + Högtalare",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer",
+    "included": true
+   },
+   "varmare": {
+    "evidence": "- Diesel värmare",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Fjord 21 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-08T04:06:13+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Fjord 21 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27222733/2c46c32b-de45-4b72-bae6-39c91c6767c7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27222733/2c46c32b-de45-4b72-bae6-39c91c6767c7",
+  "https://images.blocketcdn.se/dynamic/default/item/27222733/b51f182f-3485-4873-8704-e56a4aa5b444",
+  "https://images.blocketcdn.se/dynamic/default/item/27222733/eded9833-4815-4911-8cf4-be4373b2991a",
+  "https://images.blocketcdn.se/dynamic/default/item/27222733/b2508f70-2775-4a8b-804d-1880173d73f5"
+ ],
+ "last_seen": "2026-10-08T04:06:13+00:00",
+ "lat": 56.32,
+ "length_ft": 21,
+ "location": "Hjärnarp",
+ "lon": 12.91,
+ "make": "Fjord",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 1237,
+  "fetched_ts": 1791432603658,
+  "text_sha": "a5ead87be9375c41"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-10-08",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "21 fot",
+  "Modellår": "1976",
+  "Motor inkluderad": "Ja",
+  "Märke": "Fjord",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27222733",
+ "width_cm": 0,
+ "year": 1976
+}

@@ -49,6 +49,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-08",
  "page": {
   "description_chars": 61,
   "fetched_ts": 1791173622773,
@@ -77,7 +78,7 @@
   "Typ": "Daycruiser",
   "Vikt": "450 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25533754",
  "width_cm": 240,
  "year": 1985

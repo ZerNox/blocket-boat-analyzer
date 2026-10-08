@@ -104,6 +104,7 @@
  "motor_fuel": null,
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-08",
  "page": {
   "description_chars": 618,
   "fetched_ts": 1791173617202,
@@ -131,7 +132,7 @@
   "Toppfart": "32 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25511443",
  "width_cm": 0,
  "year": 1997

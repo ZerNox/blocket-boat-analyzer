@@ -1,13 +1,13 @@
 {
- "ad_id": 27018742,
+ "ad_id": 27213815,
  "boat_class": "Daycruiser",
- "changed_ts": 1790781908000,
+ "changed_ts": 1791377008000,
  "dealer_segment": "Privat",
  "extraction": {
-  "boat_year": 1990,
+  "boat_year": 2024,
   "boat_year_source": "spec",
   "engine_hours": null,
-  "engine_hp": 90,
+  "engine_hp": 50,
   "engine_hp_source": "llm",
   "engine_maker": "Yamaha",
   "engine_stroke": null,
@@ -15,7 +15,7 @@
   "engine_type_evidence": null,
   "engine_type_source": "rule:spec",
   "engine_year": null,
-  "engine_year_est": 1990,
+  "engine_year_est": 2024,
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
@@ -32,30 +32,30 @@
   "rules_version": 8,
   "swap_offered": false
  },
- "first_seen": "2026-10-01T04:05:31+00:00",
+ "first_seen": "2026-10-08T04:06:13+00:00",
  "found_by": [
-  "kategori",
-  "Flipper 575"
+  "kategori"
  ],
- "heading": "Flipper 575 -90 med 30-vagn",
- "image": "https://images.blocketcdn.se/dynamic/default/item/27018742/3f7769dd-446d-4397-9ca9-50e4df92c21e",
+ "heading": "Nästan ny Buster L2 till salu med 30km båtsläp.",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27213815/aee6a445-07c2-414b-b3f5-0240b9416616",
  "image_urls": [
-  "https://images.blocketcdn.se/dynamic/default/item/27018742/3f7769dd-446d-4397-9ca9-50e4df92c21e",
-  "https://images.blocketcdn.se/dynamic/default/item/27018742/b0a8cdbb-70dc-49a7-bbb3-57101ebcc39b",
-  "https://images.blocketcdn.se/dynamic/default/item/27018742/25bff9c0-c89b-49e1-b397-b4e613a94a3e",
-  "https://images.blocketcdn.se/dynamic/default/item/27018742/564da9c6-c8e2-4424-913f-cfd9677a9c98",
-  "https://images.blocketcdn.se/dynamic/default/item/27018742/33838847-82d7-49df-9c5f-d32d9cc0dce1"
+  "https://images.blocketcdn.se/dynamic/default/item/27213815/aee6a445-07c2-414b-b3f5-0240b9416616",
+  "https://images.blocketcdn.se/dynamic/default/item/27213815/be85db98-2afe-4c82-8412-fa9ba767b12e",
+  "https://images.blocketcdn.se/dynamic/default/item/27213815/2103f2c1-e0eb-448e-903e-80b071309bf7",
+  "https://images.blocketcdn.se/dynamic/default/item/27213815/7506c31b-8c82-42d3-b929-43ee88c54f01",
+  "https://images.blocketcdn.se/dynamic/default/item/27213815/db2faa04-d39e-415b-84bc-8a3273352f51",
+  "https://images.blocketcdn.se/dynamic/default/item/27213815/64d01320-0b3b-4e2c-a8ed-947a54f77f00"
  ],
  "last_seen": "2026-10-08T04:06:13+00:00",
- "lat": 59.74,
- "length_ft": 19,
+ "lat": 59.3,
+ "length_ft": 17,
  "llm": {
   "at": "2026-10-08",
   "model": "qwen7b-q4km",
   "result": {
-   "boat_year": 1990,
+   "boat_year": 2024,
    "engine_hours": null,
-   "engine_hp": 90,
+   "engine_hp": 50,
    "engine_maker": "Yamaha",
    "engine_type": "outboard",
    "engine_year": null,
@@ -72,55 +72,53 @@
     "radar": "not_mentioned",
     "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
-    "trailer": "excluded",
+    "trailer": "not_mentioned",
     "varmare": "not_mentioned",
     "vhf": "not_mentioned",
     "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "827cad3a18773338"
+  "text_sha": "84ceaa4e6a3efe40"
  },
- "location": "Norrtälje",
- "lon": 18.94,
- "make": "Flipper",
- "max_speed": 25,
+ "location": "Arboga",
+ "lon": 15.77,
+ "make": "Buster",
+ "max_speed": null,
  "motor_fuel": "Bensin",
- "motor_size": 90.0,
+ "motor_size": 50.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 469,
-  "fetched_ts": 1791432597982,
-  "text_sha": "827cad3a18773338"
+  "description_chars": 0,
+  "fetched_ts": 1791432602126,
+  "text_sha": "84ceaa4e6a3efe40"
  },
- "price": 52000,
+ "price": 270000,
  "price_history": [
   {
-   "date": "2026-10-01",
-   "price": 52000
+   "date": "2026-10-08",
+   "price": 270000
   }
  ],
  "specs": {
-  "Bredd": "205 cm",
+  "Bredd": "200 cm",
   "Båtens plats": "Sverige",
-  "Djupgående": "35 cm",
   "Drivmedel": "Bensin",
-  "Längd i fot": "19 fot",
-  "Modell": "575",
-  "Modellår": "1990",
+  "Färg": "Grå",
+  "Längd i fot": "17 fot",
+  "Modell": "L 2",
+  "Modellår": "2024",
   "Motor inkluderad": "Ja",
-  "Motorstorlek": "90 hk",
+  "Motorstorlek": "50 hk",
   "Motortillverkare": "Yamaha",
   "Motortyp": "Utombordare",
-  "Märke": "Flipper",
-  "Sittplatser": "6",
-  "Sovplatser": "2",
-  "Toppfart": "25 knop",
-  "Typ": "Daycruiser",
-  "Vikt": "550 kg"
+  "Märke": "Buster",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Aluminium",
+  "Typ": "Daycruiser"
  },
  "status": "active",
- "url": "https://www.blocket.se/mobility/item/27018742",
- "width_cm": 205,
- "year": 1990
+ "url": "https://www.blocket.se/mobility/item/27213815",
+ "width_cm": 200,
+ "year": 2024
 }

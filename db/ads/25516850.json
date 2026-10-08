@@ -82,6 +82,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-08",
  "page": {
   "description_chars": 905,
   "fetched_ts": 1791173620090,
@@ -114,7 +115,7 @@
   "Typ": "Daycruiser",
   "Vikt": "650 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25516850",
  "width_cm": 207,
  "year": 2018

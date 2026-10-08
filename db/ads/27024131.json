@@ -65,6 +65,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-08",
  "page": {
   "description_chars": 508,
   "fetched_ts": 1790827756105,
@@ -77,6 +78,11 @@
    "price": 46500
   }
  ],
+ "sold": {
+  "date": "2026-10-08",
+  "days_seen": 7,
+  "last_price": 46500
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
@@ -95,7 +101,7 @@
   "Toppfart": "25 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/27024131",
  "width_cm": 0,
  "year": 1988

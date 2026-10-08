@@ -60,7 +60,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": "Utombordare",
- "not_in_search_since": "2026-09-27",
+ "not_in_search_since": "2026-10-08",
  "page": {
   "description_chars": 347,
   "fetched_ts": 1791173614243,
@@ -89,7 +89,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25507150",
  "vision": {
   "at": "2026-09-29",

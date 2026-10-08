@@ -4,7 +4,7 @@
  "changed_ts": 1791055278000,
  "dealer_segment": "Privat",
  "extraction": {
-  "boat_year": 1985,
+  "boat_year": 1975,
   "boat_year_source": "spec",
   "engine_hours": null,
   "engine_hp": null,
@@ -15,7 +15,7 @@
   "engine_type_evidence": null,
   "engine_type_source": "rule:spec",
   "engine_year": null,
-  "engine_year_est": 1985,
+  "engine_year_est": 1975,
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
@@ -52,7 +52,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27098913/477a5495-b0b7-4053-9beb-45dfe98c3a0b",
   "https://images.blocketcdn.se/dynamic/default/item/27098913/be80aeb1-f5b3-470f-96ac-f637ce4b0a39"
  ],
- "last_seen": "2026-10-07T04:06:53+00:00",
+ "last_seen": "2026-10-08T04:06:13+00:00",
  "lat": 56.14,
  "length_ft": 18,
  "llm": {
@@ -119,5 +119,5 @@
  "status": "active",
  "url": "https://www.blocket.se/mobility/item/27098913",
  "width_cm": 0,
- "year": 1985
+ "year": 1975
 }

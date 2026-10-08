@@ -1,12 +1,12 @@
 {
  "ad_id": 1003298781,
  "auction": {
-  "bid": 105500,
+  "bid": 107500,
   "close": "2026-10-09T12:40:00+02:00",
   "ended": false,
   "fee": 7080,
   "margin_scheme": true,
-  "next_bid": 106500,
+  "next_bid": 108500,
   "reserve_reached": false,
   "start": "2026-10-02T09:00:00+02:00",
   "vat": 0
@@ -71,7 +71,7 @@
  "image_urls": [
   "https://media.se.klaravik.com/public/productimages/08/9c/3298781/extrabilder75504846_large.jpg?v=1790835180"
  ],
- "last_seen": "2026-10-07",
+ "last_seen": "2026-10-08",
  "lat": 59.2,
  "length_ft": 18.7,
  "location": "Södertälje",
@@ -81,10 +81,10 @@
  "motor_type": null,
  "page": {
   "description_chars": 960,
-  "fetched_ts": 1791346258006,
+  "fetched_ts": 1791432609326,
   "text_sha": "83f42b9e1003ba2e"
  },
- "price": 114350,
+ "price": 116350,
  "price_history": [
   {
    "bid": 100,
@@ -95,6 +95,11 @@
    "bid": 105500,
    "date": "2026-10-04",
    "price": 114350
+  },
+  {
+   "bid": 107500,
+   "date": "2026-10-08",
+   "price": 116350
   }
  ],
  "source": "klaravik",

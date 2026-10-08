@@ -60,6 +60,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-08",
  "page": {
   "description_chars": 619,
   "fetched_ts": 1791173618717,
@@ -92,7 +93,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "600 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25513883",
  "width_cm": 220,
  "year": 1967

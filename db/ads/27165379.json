@@ -1,0 +1,130 @@
+{
+ "ad_id": 27165379,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791404338000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1986,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha F100 AET 1999",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1999,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Yamaha F100 AET 1999",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell 2021",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin 6-tums plotter (2026)",
+    "included": true
+   },
+   "solpanel": {
+    "evidence": "Solcellspaket flexibla (2026)",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Fusion stereo och högtalare (2025)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Flipper 620 + Yamaha F100 4-takt inkl båtvagn",
+    "included": true
+   },
+   "varmare": {
+    "evidence": "Wallas fotogenvärmare",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "h monterade däcksluckor i hardtop (mycket trevligt).\nWallas fotogenvärmare\nNy huvudströmbrytare och kablag",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-08T04:06:13+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 620"
+ ],
+ "heading": "Flipper 620 + Yamaha F100 4-takt inkl båtvagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27165379/6fca346f-49bd-4aaf-8c7b-e49969dd785a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/6fca346f-49bd-4aaf-8c7b-e49969dd785a",
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/b5299ec1-5293-463a-8bf2-80e9787b6917",
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/27ba260a-82d1-42aa-b1cc-927cbeec81eb",
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/8124c113-9318-4728-845d-72a2a5676335",
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/cdbf0b24-a3b0-4374-992f-177cdc37a1d3",
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/ea25b23e-da7f-4339-a33f-8cbdb813a0b9",
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/dced5eb0-cceb-4314-8279-0b3914dd0c97",
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/e19af797-27e3-4f13-bf3f-e20b6168aac6",
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/16291406-f7ab-40a2-8b29-9d61276798c4",
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/c32a5469-c33d-443e-9098-8c553a1737c2",
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/666cb1c9-4d95-4019-a78e-26c1e38680b9",
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/c4e7be08-83e2-4c8b-9c76-f084723fb49c",
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/7236f36c-72f2-4593-a040-da8c8f571658",
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/b8fb321d-7e15-4f08-8ebb-d1440941f647",
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/e7810112-16a7-400d-b35a-7820afc03d5e",
+  "https://images.blocketcdn.se/dynamic/default/item/27165379/e9b0fba5-35b8-48a7-b6fa-2a1bf32ec827"
+ ],
+ "last_seen": "2026-10-08T04:06:13+00:00",
+ "lat": 59.33,
+ "length_ft": 20,
+ "location": "Värmdö",
+ "lon": 18.53,
+ "make": "Flipper",
+ "max_speed": 26,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 429,
+  "fetched_ts": 1791432600966,
+  "text_sha": "a80c26b89d406f79"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-10-08",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Bredd": "240 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "40 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Röd/vit",
+  "Längd i fot": "20 fot",
+  "Modell": "620",
+  "Modellår": "1986",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Yamaha F100 AET 1999",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "26 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "1 000 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27165379",
+ "width_cm": 240,
+ "year": 1986
+}

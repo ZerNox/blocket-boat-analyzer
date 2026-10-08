@@ -80,6 +80,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-08",
  "page": {
   "description_chars": 359,
   "fetched_ts": 1791173615776,
@@ -107,7 +108,7 @@
   "Toppfart": "30 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25507219",
  "width_cm": 0,
  "year": 1986
