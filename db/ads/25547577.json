@@ -58,6 +58,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-10-09",
  "page": {
   "description_chars": 223,
   "fetched_ts": 1791173624084,
@@ -79,7 +80,7 @@
   "Märke": "Ryds",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25547577",
  "width_cm": 0,
  "year": 2010

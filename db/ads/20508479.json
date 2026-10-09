@@ -1,0 +1,132 @@
+{
+ "ad_id": 20508479,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1791466246000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Johnsson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell 2019.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-09T04:06:03+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Trubadur",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/20508479/a5d8b325-95ac-452e-acc9-0ac7cb41cd1c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/20508479/a5d8b325-95ac-452e-acc9-0ac7cb41cd1c",
+  "https://images.blocketcdn.se/dynamic/default/item/20508479/aa719227-2ae0-4718-ac91-c154170b67e5",
+  "https://images.blocketcdn.se/dynamic/default/item/20508479/73e22ab8-bca6-4b5a-8d39-70983f16a646",
+  "https://images.blocketcdn.se/dynamic/default/item/20508479/c891bee7-eb5f-4c69-9be8-b3d694c29e10",
+  "https://images.blocketcdn.se/dynamic/default/item/20508479/0fca0b8f-6486-41fc-88ee-8999dba4b729",
+  "https://images.blocketcdn.se/dynamic/default/item/20508479/cdf906e0-ed57-491b-9a81-ba88af674385",
+  "https://images.blocketcdn.se/dynamic/default/item/20508479/410f17f2-7bbb-4fd8-8b9d-7828537f1086",
+  "https://images.blocketcdn.se/dynamic/default/item/20508479/f948708a-ba93-4e41-a548-7e4dbae49d1e"
+ ],
+ "last_seen": "2026-10-09T04:06:03+00:00",
+ "lat": 58.54,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-10-09",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Johnsson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "270e579b8722826e"
+ },
+ "location": "Mölltorp",
+ "lon": 14.4,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 270,
+  "fetched_ts": 1791518977563,
+  "text_sha": "270e579b8722826e"
+ },
+ "price": 12500,
+ "price_history": [
+  {
+   "date": "2026-10-09",
+   "price": 12500
+  }
+ ],
+ "specs": {
+  "Bredd": "200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Gyl/Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "Trubadur",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Johnsson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "3",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/20508479",
+ "width_cm": 200,
+ "year": 1980
+}

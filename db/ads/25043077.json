@@ -62,7 +62,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25043077/d1c48d71-ed22-4e03-99bc-5f85aa9d6d59",
   "https://images.blocketcdn.se/dynamic/default/item/25043077/711d0a65-1d58-4c7d-971b-20c10fcddef4"
  ],
- "last_seen": "2026-10-08T04:06:13+00:00",
+ "last_seen": "2026-10-09T04:06:03+00:00",
  "lat": 58.39,
  "length_ft": 18,
  "location": "Vargön",
@@ -77,11 +77,15 @@
   "fetched_ts": 1791173581437,
   "text_sha": "7de80bd0117c357e"
  },
- "price": 56500,
+ "price": 50000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 56500
+  },
+  {
+   "date": "2026-10-09",
+   "price": 50000
   }
  ],
  "specs": {

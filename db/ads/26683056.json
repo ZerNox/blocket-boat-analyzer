@@ -101,6 +101,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 100.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-09",
  "page": {
   "description_chars": 1163,
   "fetched_ts": 1791259977483,
@@ -117,6 +118,11 @@
    "price": 140000
   }
  ],
+ "sold": {
+  "date": "2026-10-09",
+  "days_seen": 12,
+  "last_price": 140000
+ },
  "specs": {
   "Bredd": "218 cm",
   "Båtens plats": "Sverige",
@@ -132,7 +138,7 @@
   "Märke": "Ryds",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26683056",
  "vision": {
   "at": "2026-09-27",
