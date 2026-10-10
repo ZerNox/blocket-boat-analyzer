@@ -29,6 +29,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "White boat has enclosed cabin with windows and roof visible.",
+  "hull_source": "bild",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -38,13 +42,17 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Ryds Camping",
+  "Ryds camping"
+ ],
  "heading": "Ryds camping 560",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26540991/fed18a3a-72f0-4679-aa08-7f434345de9e",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/26540991/fed18a3a-72f0-4679-aa08-7f434345de9e",
   "https://images.blocketcdn.se/dynamic/default/item/26540991/026224b5-9b25-4d4c-94da-3ca37239726a"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 63.16,
  "length_ft": 18,
  "llm": {
@@ -84,7 +92,7 @@
  "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 601,
-  "fetched_ts": 1790508773729,
+  "fetched_ts": 1791605588790,
   "text_sha": "1bf884aed1c4c628"
  },
  "price": 25000,
@@ -108,8 +116,21 @@
   "Märke": "Ryds",
   "Typ": "Annat"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26540991",
+ "vision": {
+  "at": "2026-10-10",
+  "images_sha": "a94a4a89f4233faa",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "cabin",
+   "hull_evidence": "White boat has enclosed cabin with windows and roof visible.",
+   "hull_photo": 0
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 220,
  "year": 1976
 }

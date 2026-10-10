@@ -46,14 +46,14 @@
   "Uttern 5500"
  ],
  "heading": "Uttern 5500 DC",
- "image": "https://images.blocketcdn.se/dynamic/default/item/26535051/9f479246-d524-4556-a8f6-dc71530c4ba2",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26535051/08d0c976-0de1-4a4a-b47d-fbd510e1fd0b",
  "image_urls": [
-  "https://images.blocketcdn.se/dynamic/default/item/26535051/9f479246-d524-4556-a8f6-dc71530c4ba2",
   "https://images.blocketcdn.se/dynamic/default/item/26535051/08d0c976-0de1-4a4a-b47d-fbd510e1fd0b",
+  "https://images.blocketcdn.se/dynamic/default/item/26535051/9f479246-d524-4556-a8f6-dc71530c4ba2",
   "https://images.blocketcdn.se/dynamic/default/item/26535051/aeb15286-4f33-4ec6-a3d6-4ae1088b7a6f",
   "https://images.blocketcdn.se/dynamic/default/item/26535051/037aab84-12c6-44b0-b97e-017c9eccf258"
  ],
- "last_seen": "2026-10-09T04:06:03+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 56.33,
  "length_ft": 18,
  "location": "Rödeby",
@@ -68,11 +68,15 @@
   "fetched_ts": 1791173833417,
   "text_sha": "5c801c70824025d1"
  },
- "price": 129000,
+ "price": 122000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 129000
+  },
+  {
+   "date": "2026-10-10",
+   "price": 122000
   }
  ],
  "specs": {

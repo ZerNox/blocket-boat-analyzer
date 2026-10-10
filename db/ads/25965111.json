@@ -33,6 +33,10 @@
     "included": true
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Interior shows enclosed space with seating and windows.",
+  "hull_source": "bild",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -42,6 +46,10 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Ryds Camping",
+  "Ryds camping"
+ ],
  "heading": "Ryds camping",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25965111/b849f49a-24d6-409c-9647-285952f41414",
  "image_urls": [
@@ -51,7 +59,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25965111/3e1b19cc-5008-48ec-aaaf-2b2743dbba5d",
   "https://images.blocketcdn.se/dynamic/default/item/25965111/4b2bc664-0efe-4ce6-96da-7f762b9e4136"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 58.51,
  "length_ft": 18,
  "llm": {
@@ -91,7 +99,7 @@
  "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 165,
-  "fetched_ts": 1790508331431,
+  "fetched_ts": 1791605581796,
   "text_sha": "653a047a5515990c"
  },
  "price": 29000,
@@ -115,8 +123,21 @@
   "Toppfart": "20 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/25965111",
+ "vision": {
+  "at": "2026-10-10",
+  "images_sha": "cd250a6cc4c76b98",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "cabin",
+   "hull_evidence": "Interior shows enclosed space with seating and windows.",
+   "hull_photo": 2
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 0,
  "year": 1978
 }

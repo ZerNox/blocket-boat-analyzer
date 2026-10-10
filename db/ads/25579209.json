@@ -102,6 +102,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-10",
  "page": {
   "description_chars": 493,
   "fetched_ts": 1791173636878,
@@ -131,7 +132,7 @@
   "Toppfart": "40 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25579209",
  "width_cm": 2450,
  "year": 1988

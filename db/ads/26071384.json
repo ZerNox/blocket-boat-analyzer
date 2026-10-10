@@ -30,6 +30,10 @@
     "kmh": 30
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "vändigt, nyklädda dynor i ruff, svart textil, originaldynor i yttre utrymmet i vit vinyl, något fläckiga.",
+  "hull_source": "rule:text",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -37,6 +41,10 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "Ryds Camping",
+  "Ryds camping"
+ ],
  "heading": "Ryds camping inkl Laxåtrailer, utan motor",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26071384/85697718-7142-4da2-835c-8d8837ba45c4",
  "image_urls": [
@@ -49,7 +57,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26071384/b8adafb5-11ef-4b4d-8512-1023f4510488",
   "https://images.blocketcdn.se/dynamic/default/item/26071384/eb243e0c-8a91-4d20-a586-15c375c5bda7"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 59.74,
  "length_ft": 19,
  "location": "Norrtälje",
@@ -62,7 +70,7 @@
  "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 527,
-  "fetched_ts": 1790520890791,
+  "fetched_ts": 1791605583076,
   "text_sha": "b93b97bbe856b49f"
  },
  "price": 10000,
@@ -84,7 +92,7 @@
   "Sovplatser": "3",
   "Typ": "Annat"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26071384",
  "width_cm": 220,
  "year": 1976

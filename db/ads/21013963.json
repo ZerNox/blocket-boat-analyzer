@@ -63,7 +63,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/21013963/e1103e5a-7d73-4196-a491-b13ca392d1e7",
   "https://images.blocketcdn.se/dynamic/default/item/21013963/3c23f90f-44c2-4e56-9ba7-bf401eb30b79"
  ],
- "last_seen": "2026-10-09T04:06:03+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 59.29,
  "length_ft": 19,
  "llm": {
@@ -107,7 +107,7 @@
  "motor_type": null,
  "page": {
   "description_chars": 347,
-  "fetched_ts": 1790914191238,
+  "fetched_ts": 1791605573092,
   "text_sha": "59af9ebbf29b718e"
  },
  "price": 15000,

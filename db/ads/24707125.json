@@ -12,8 +12,8 @@
   "engine_maker": null,
   "engine_stroke": 2,
   "engine_type": "outboard",
-  "engine_type_evidence": null,
-  "engine_type_source": "llm",
+  "engine_type_evidence": "lett båtpaket: Ryds Camping + Yamaha 90hk & Registrerad trailer (2009) Höstpris 32.000 kr! Dags att sälja vårt pålitliga",
+  "engine_type_source": "rule:model",
   "engine_year": null,
   "engine_year_est": 1977,
   "engine_year_est_reason": "antar originalmotor",
@@ -35,8 +35,11 @@
     "year": 2009
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Photo 6 shows enclosed cabin with windows and steering console.",
+  "hull_source": "bild",
   "llm_reasons": [
-   "engine type unknown",
    "no engine year found"
   ],
   "needs_llm": true,
@@ -45,6 +48,10 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "Ryds Camping",
+  "Ryds camping"
+ ],
  "heading": "Komplett båtpaket: Ryds Camping + Yamaha 90hk & Registrerad trailer (2009)",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24707125/5a93ca62-4aeb-4504-87fc-97f6c0ac7fdf",
  "image_urls": [
@@ -56,7 +63,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/24707125/3d547525-391d-4a20-9341-f38aaccd17b5",
   "https://images.blocketcdn.se/dynamic/default/item/24707125/18bd0b17-2e13-498c-8552-a21c1aaab48c"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 59.01,
  "length_ft": 18,
  "llm": {
@@ -97,7 +104,7 @@
  "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 1291,
-  "fetched_ts": 1790520641949,
+  "fetched_ts": 1791605575971,
   "text_sha": "43a7e778d1d7ddb7"
  },
  "price": 32000,
@@ -118,8 +125,21 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/24707125",
+ "vision": {
+  "at": "2026-10-10",
+  "images_sha": "f8b4976ab4e6943f",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "cabin",
+   "hull_evidence": "Photo 6 shows enclosed cabin with windows and steering console.",
+   "hull_photo": 6
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 0,
  "year": 1977
 }

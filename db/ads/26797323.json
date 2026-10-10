@@ -32,7 +32,9 @@
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Ryds Camping",
+  "Ryds camping"
  ],
  "heading": "Ryds camping",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26797323/94b7d50d-4756-4cc3-bbc6-80f1486f0fcf",
@@ -42,7 +44,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26797323/bcfcc359-4c15-4bac-983f-9d2c8e893aca",
   "https://images.blocketcdn.se/dynamic/default/item/26797323/9265459e-5e7e-42ea-85df-a3c9e5fdaef3"
  ],
- "last_seen": "2026-10-09T04:06:03+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 55.89,
  "length_ft": 19,
  "location": "Landskrona",

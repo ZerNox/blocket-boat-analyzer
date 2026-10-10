@@ -1,10 +1,10 @@
 {
  "ad_id": 25547577,
  "boat_class": "Daycruiser",
- "changed_ts": 1786275658000,
+ "changed_ts": 1791551303000,
  "dealer_segment": "Privat",
  "extraction": {
-  "boat_year": 2010,
+  "boat_year": 1995,
   "boat_year_source": "spec",
   "engine_hours": null,
   "engine_hp": null,
@@ -15,7 +15,7 @@
   "engine_type_evidence": null,
   "engine_type_source": "rule:spec",
   "engine_year": null,
-  "engine_year_est": 2010,
+  "engine_year_est": 1995,
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
@@ -48,7 +48,7 @@
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/25547577/fe4068df-1a97-4d27-89e5-82f2e0a39b5e"
  ],
- "last_seen": "2026-10-08T04:06:13+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 60.36,
  "length_ft": 17,
  "location": "Idkerberget",
@@ -60,9 +60,9 @@
  "motor_type": null,
  "not_in_search_since": "2026-10-09",
  "page": {
-  "description_chars": 223,
-  "fetched_ts": 1791173624084,
-  "text_sha": "8c2eb78afb908d6d"
+  "description_chars": 192,
+  "fetched_ts": 1791605577522,
+  "text_sha": "7793e2f77c74f467"
  },
  "price": 4000,
  "price_history": [
@@ -75,13 +75,13 @@
   "Båtens plats": "Sverige",
   "Längd i fot": "17 fot",
   "Modell": "530ht",
-  "Modellår": "2010",
+  "Modellår": "1995",
   "Motor inkluderad": "Nej",
   "Märke": "Ryds",
   "Typ": "Daycruiser"
  },
- "status": "inactive",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/25547577",
  "width_cm": 0,
- "year": 2010
+ "year": 1995
 }

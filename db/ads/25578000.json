@@ -62,6 +62,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-10",
  "page": {
   "description_chars": 1486,
   "fetched_ts": 1791173635369,
@@ -92,7 +93,7 @@
   "Typ": "Daycruiser",
   "Vikt": "1 100 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25578000",
  "width_cm": 250,
  "year": 2002

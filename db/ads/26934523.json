@@ -72,7 +72,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26934523/e299d723-00b6-4daa-9d16-9aa1a70872aa",
   "https://images.blocketcdn.se/dynamic/default/item/26934523/bdc5e1b9-c383-45a4-9fc8-21a3f6a49ab2"
  ],
- "last_seen": "2026-10-09T04:06:03+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 59.61,
  "length_ft": 18,
  "location": "Västerås",
@@ -87,7 +87,7 @@
   "fetched_ts": 1791173903329,
   "text_sha": "0277df760096a563"
  },
- "price": 190006,
+ "price": 19000,
  "price_history": [
   {
    "date": "2026-09-27",
@@ -100,6 +100,10 @@
   {
    "date": "2026-10-09",
    "price": 190006
+  },
+  {
+   "date": "2026-10-10",
+   "price": 19000
   }
  ],
  "specs": {

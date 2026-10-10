@@ -30,6 +30,10 @@
     "kmh": 80
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds Camping 560HT",
+  "hull_source": "rule:model",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -39,6 +43,10 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Ryds Camping",
+  "Ryds camping"
+ ],
  "heading": "Ryds Camping 560HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25832982/1bda0202-66d9-4634-aee6-04ba89a0b1e2",
  "image_urls": [
@@ -48,7 +56,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25832982/afef2e57-2e78-43b4-8913-4a4154dd32a6",
   "https://images.blocketcdn.se/dynamic/default/item/25832982/02001279-a769-4097-b322-ec29a6b0e524"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 63.12,
  "length_ft": 19,
  "llm": {
@@ -88,14 +96,18 @@
  "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 865,
-  "fetched_ts": 1790508236804,
+  "fetched_ts": 1791605578929,
   "text_sha": "7b32b16d8c2bba66"
  },
- "price": 16000,
+ "price": 14000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 16000
+  },
+  {
+   "date": "2026-10-10",
+   "price": 14000
   }
  ],
  "specs": {
@@ -113,7 +125,7 @@
   "Toppfart": "24 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/25832982",
  "width_cm": 220,
  "year": 1980

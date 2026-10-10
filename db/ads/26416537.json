@@ -34,7 +34,8 @@
  },
  "first_seen": "2026-09-27T15:26:08+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Ryds triss"
  ],
  "heading": "Ryds Triss 57 HT",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26416537/5c47b9d7-4489-43f2-8cec-b5d668b63b83",
@@ -45,7 +46,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26416537/7b8d1b82-5c80-4be2-a8a0-64fbc2857261",
   "https://images.blocketcdn.se/dynamic/default/item/26416537/b0e06853-c1ea-4d5d-83dd-377db7ff2dce"
  ],
- "last_seen": "2026-10-09T04:06:03+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 57.65,
  "length_ft": 19,
  "llm": {

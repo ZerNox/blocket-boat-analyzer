@@ -100,6 +100,7 @@
  "motor_fuel": null,
  "motor_size": 100.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-10",
  "page": {
   "description_chars": 210,
   "fetched_ts": 1791259967701,
@@ -123,7 +124,7 @@
   "Märke": "Yamarin",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25594564",
  "width_cm": 0,
  "year": 2007

@@ -69,6 +69,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-10",
  "page": {
   "description_chars": 1304,
   "fetched_ts": 1791173638092,
@@ -97,7 +98,7 @@
   "Typ": "Daycruiser",
   "Vikt": "900 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25584902",
  "width_cm": 220,
  "year": 1990

@@ -41,7 +41,9 @@
  },
  "first_seen": "2026-09-27T15:26:08+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Ryds Camping",
+  "Ryds camping"
  ],
  "heading": "Ryds Camping med Mercury 70hk -09",
  "image": "https://images.blocketcdn.se/dynamic/default/item/22902395/7e495aa3-fac5-484c-843b-57ce3b97f062",
@@ -51,7 +53,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/22902395/13be0382-e8ef-43e0-acd6-52c916bf6b37",
   "https://images.blocketcdn.se/dynamic/default/item/22902395/b4b385de-8d15-4026-9d88-0780954320b0"
  ],
- "last_seen": "2026-10-09T04:06:03+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 56.05,
  "length_ft": 19,
  "location": "Helsingborg",
@@ -66,11 +68,15 @@
   "fetched_ts": 1791173532896,
   "text_sha": "fb4ebabec1644f7c"
  },
- "price": 45000,
+ "price": 40000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 45000
+  },
+  {
+   "date": "2026-10-10",
+   "price": 40000
   }
  ],
  "specs": {

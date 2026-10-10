@@ -20,6 +20,10 @@
   "engine_year_evidence": null,
   "engine_year_source": null,
   "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Photo 1 shows enclosed cabin with windows and roof.",
+  "hull_source": "bild",
   "llm_reasons": [
    "engine type unknown",
    "no engine year found"
@@ -30,15 +34,51 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T14:48:38+00:00",
+ "found_by": [
+  "Ryds Camping",
+  "Ryds camping"
+ ],
  "heading": "Ryds camping båt Värmdö",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26549754/eee266b1-cfca-471a-b619-aeb2f922f6bb",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/26549754/eee266b1-cfca-471a-b619-aeb2f922f6bb",
   "https://images.blocketcdn.se/dynamic/default/item/26549754/d56f19ab-4dcb-4b2d-afdd-797867e3df3f"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 59.39,
  "length_ft": 16,
+ "llm": {
+  "at": "2026-10-10",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5e661ac05b47b017"
+ },
  "location": "Värmdö",
  "lon": 18.53,
  "make": "Ryds",
@@ -49,7 +89,7 @@
  "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 0,
-  "fetched_ts": 1790520998586,
+  "fetched_ts": 1791605590347,
   "text_sha": "5e661ac05b47b017"
  },
  "price": 15000,
@@ -67,8 +107,30 @@
   "Märke": "Ryds",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26549754",
+ "vision": {
+  "at": "2026-10-10",
+  "images_sha": "d7e0fd566aea7dc5",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "brand": "YAMAHA",
+   "engine_photos": [
+    0
+   ],
+   "four_stroke": null,
+   "hp": null,
+   "hull": "cabin",
+   "hull_evidence": "Photo 1 shows enclosed cabin with windows and roof.",
+   "hull_photo": 1,
+   "photo": 0,
+   "text_seen": "YAMAHA"
+  },
+  "tasks": [
+   "hp",
+   "hull"
+  ]
+ },
  "width_cm": 0,
  "year": 1978
 }

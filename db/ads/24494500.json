@@ -1,7 +1,7 @@
 {
  "ad_id": 24494500,
  "boat_class": "Hyttbåt",
- "changed_ts": 1790970750000,
+ "changed_ts": 1791575501000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2000,
@@ -56,7 +56,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/24494500/0617dcee-bac9-483a-8fce-dd8d7374fec7",
   "https://images.blocketcdn.se/dynamic/default/item/24494500/01f46058-ad92-4504-8cbb-626c5088e490"
  ],
- "last_seen": "2026-10-09T04:06:03+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 59.45,
  "length_ft": 21,
  "location": "Åkersberga",
@@ -68,7 +68,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 492,
-  "fetched_ts": 1791000597882,
+  "fetched_ts": 1791605574683,
   "text_sha": "a1cadd71db95ec9a"
  },
  "price": 125000,

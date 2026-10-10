@@ -56,7 +56,9 @@
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Ryds Camping",
+  "Ryds camping"
  ],
  "heading": "Ryds Camping 70 HK Johnson",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25802326/c8410976-87b1-4636-bf60-37fbd90742bc",
@@ -72,7 +74,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25802326/d3cd3fec-f759-4910-9a0a-55ac08acd6b1",
   "https://images.blocketcdn.se/dynamic/default/item/25802326/868fb782-703c-4689-928f-f6261c45cb71"
  ],
- "last_seen": "2026-10-09T04:06:03+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 59.58,
  "length_ft": 19,
  "llm": {

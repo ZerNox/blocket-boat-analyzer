@@ -1,0 +1,143 @@
+{
+ "ad_id": 27263160,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1791548819000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60,
+  "engine_hp_source": "llm",
+  "engine_maker": "Suzuki 4 takt",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1979,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell, ankare med blylina, liten plotter medföljer, Nyservad 4-takts motor, Badstege, tampar och fendrar.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Nytt kapell, ankare med blylina, liten plotter medföljer, Nyservad 4-takts motor, Badstege, tampar och fendrar.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Runnö 19 inkl Thule båtkärra!",
+    "included": true,
+    "year": 2013
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-10T04:08:50+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Runnö 19 inkl Thule båtkärra! Höstklipp!",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27263160/3be1982d-63d0-4f0b-9411-5399e9dcb05e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27263160/3be1982d-63d0-4f0b-9411-5399e9dcb05e",
+  "https://images.blocketcdn.se/dynamic/default/item/27263160/e7882ea2-bf2b-4bd4-b52d-b1f86fb42faf",
+  "https://images.blocketcdn.se/dynamic/default/item/27263160/7004c6d0-5b88-44d9-8706-d3f14fb2c419",
+  "https://images.blocketcdn.se/dynamic/default/item/27263160/8340806a-0055-4d6b-bdbe-8fb662f0a80f",
+  "https://images.blocketcdn.se/dynamic/default/item/27263160/7e15458b-8ac7-4918-93bf-3852729d39db",
+  "https://images.blocketcdn.se/dynamic/default/item/27263160/838a2bfe-8751-4115-af8b-302866650598",
+  "https://images.blocketcdn.se/dynamic/default/item/27263160/ca305e06-4f19-4c9a-942b-23c5f46cc04c",
+  "https://images.blocketcdn.se/dynamic/default/item/27263160/dc4b8ffd-0361-470d-b026-e1fef48b557c"
+ ],
+ "last_seen": "2026-10-10T04:08:50+00:00",
+ "lat": 57.8,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-10-10",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1979,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Suzuki 4 takt",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Nyservad 4-takts motor",
+   "engine_year_rejected": 2023,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "18f45e54d0559766"
+ },
+ "location": "Olofstorp",
+ "lon": 12.18,
+ "make": "Övriga",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 387,
+  "fetched_ts": 1791605598699,
+  "text_sha": "18f45e54d0559766"
+ },
+ "price": 55500,
+ "price_history": [
+  {
+   "date": "2026-10-10",
+   "price": 55500
+  }
+ ],
+ "specs": {
+  "Bredd": "221 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit & mörkblå",
+  "Längd i fot": "19 fot",
+  "Modell": "Runnö 19",
+  "Modellår": "1979",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Suzuki 4 takt",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "525 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27263160",
+ "width_cm": 221,
+ "year": 1979
+}

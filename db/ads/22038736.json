@@ -76,6 +76,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-10",
  "page": {
   "description_chars": 1364,
   "fetched_ts": 1791173519560,
@@ -108,7 +109,7 @@
   "Typ": "Daycruiser",
   "Vikt": "540 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/22038736",
  "width_cm": 220,
  "year": 2005

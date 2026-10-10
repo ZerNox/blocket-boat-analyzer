@@ -21,10 +21,15 @@
   "engine_year_source": "rule:text",
   "equipment": {
    "trailer": {
-    "evidence": "Kärra ingår.",
-    "included": true
+    "evidence": "30 Kärra ingår.",
+    "included": true,
+    "kmh": 30
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Interior shows enclosed seating with curtains and windows.",
+  "hull_source": "bild",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -32,6 +37,10 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Ryds Camping",
+  "Ryds camping"
+ ],
  "heading": "Ryds Camping",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26433057/3dece6c1-b1bb-4882-b350-1ee094050e9d",
  "image_urls": [
@@ -43,7 +52,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26433057/f678fe16-cc1c-441d-8229-ef60021649c9",
   "https://images.blocketcdn.se/dynamic/default/item/26433057/df94a0c4-a07d-458e-be87-a2fa3650bb79"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 59.38,
  "length_ft": 18,
  "location": "Hässelby",
@@ -55,15 +64,19 @@
  "motor_type": "Utombordare",
  "not_in_search_since": "2026-09-27",
  "page": {
-  "description_chars": 101,
-  "fetched_ts": 1790508690062,
-  "text_sha": "dbe015db8dd11abd"
+  "description_chars": 114,
+  "fetched_ts": 1791605586081,
+  "text_sha": "9073ef0d7151f799"
  },
- "price": 29000,
+ "price": 25000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 29000
+  },
+  {
+   "date": "2026-10-10",
+   "price": 25000
   }
  ],
  "specs": {
@@ -86,8 +99,21 @@
   "Typ": "Annat",
   "Vikt": "620 kg"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26433057",
+ "vision": {
+  "at": "2026-10-10",
+  "images_sha": "e1dce28f014761b1",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "cabin",
+   "hull_evidence": "Interior shows enclosed seating with curtains and windows.",
+   "hull_photo": 5
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 220,
  "year": 1976
 }

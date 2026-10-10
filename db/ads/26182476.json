@@ -54,7 +54,9 @@
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Ryds Camping",
+  "Ryds camping"
  ],
  "heading": "Ryds camping 565 med 80hk Mercury",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26182476/b29a6e4a-0b88-4c69-a331-07f6fc107046",
@@ -66,7 +68,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26182476/6db00a88-452c-4e1d-aa1e-53cc8550664d",
   "https://images.blocketcdn.se/dynamic/default/item/26182476/14bce41f-f346-457c-ae8a-8989e7d3ce73"
  ],
- "last_seen": "2026-10-09T04:06:03+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 59.33,
  "length_ft": 19,
  "llm": {

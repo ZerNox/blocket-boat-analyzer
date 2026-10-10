@@ -38,6 +38,10 @@
     "kmh": 80
    }
   },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Interior shows enclosed cabin with windows and seating.",
+  "hull_source": "bild",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -47,6 +51,10 @@
   "swap_offered": false
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
+ "found_by": [
+  "Ryds Camping",
+  "Ryds camping"
+ ],
  "heading": "Ryds camping -74 inkl. 80-trailer",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25895629/04b8c3b9-95ce-42ac-b4b7-746180942b02",
  "image_urls": [
@@ -56,11 +64,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/25895629/f1284a5c-d912-47e4-9bd2-d78c98b23d62",
   "https://images.blocketcdn.se/dynamic/default/item/25895629/2c71f46d-0bb3-49aa-8619-67fd0c0c7065"
  ],
- "last_seen": "2026-09-27T14:53:04+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 58.4,
  "length_ft": 20,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-10",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1974,
@@ -76,16 +84,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "included",
+    "inverter": "not_mentioned",
     "kapell": "excluded",
     "landstrom": "not_mentioned",
     "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "4e9077df942661ff"
+  "text_sha": "ed290370174ab313"
  },
  "location": "Vänersborg",
  "lon": 12.32,
@@ -97,7 +110,7 @@
  "not_in_search_since": "2026-09-27",
  "page": {
   "description_chars": 482,
-  "fetched_ts": 1790508286825,
+  "fetched_ts": 1791605580478,
   "text_sha": "ed290370174ab313"
  },
  "price": 36990,
@@ -123,8 +136,21 @@
   "Toppfart": "23 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/25895629",
+ "vision": {
+  "at": "2026-10-10",
+  "images_sha": "85665c807656510c",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "cabin",
+   "hull_evidence": "Interior shows enclosed cabin with windows and seating.",
+   "hull_photo": 1
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
  "width_cm": 0,
  "year": 1974
 }

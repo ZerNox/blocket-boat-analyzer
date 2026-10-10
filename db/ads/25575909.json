@@ -109,6 +109,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-10",
  "page": {
   "description_chars": 366,
   "fetched_ts": 1791173633818,
@@ -149,7 +150,7 @@
   "Typ": "Daycruiser",
   "Vikt": "450 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25575909",
  "width_cm": 203,
  "year": 1996

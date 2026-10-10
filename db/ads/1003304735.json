@@ -1,0 +1,114 @@
+{
+ "ad_id": 1003304735,
+ "auction": {
+  "bid": 15500,
+  "close": "2026-10-16T09:36:00+02:00",
+  "ended": false,
+  "fee": 6980,
+  "margin_scheme": true,
+  "next_bid": 16000,
+  "reserve_reached": false,
+  "start": "2026-10-09T09:00:00+02:00",
+  "vat": 0
+ },
+ "boat_class": null,
+ "dealer_segment": "Auktion",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": 382,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": "or: 1B1691450 Motor: Merccury Optimax 90 hk Motortyp: 2-taktsmotor Motoreffekt (kW / hk): 90 hk Drivmedel: Bensin Antal",
+  "engine_type_source": "rule:model",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten måste vara avhämtad senast 30/10-26 Motorbåt Silverhawk 540 DC Mercury 90 hk med trailer Märke: Silverhawk Modell: 540 DC Mercury 90 hk År: 2008 År enligt: Typskylt Båttyp: …",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Larmin GPS",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Motorbåt Silverhawk 540 DC Mercury 90 hk med trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Motorbåt Silverhawk 540 DC Mercury 90 hk med trailer",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-10",
+ "found_by": [
+  "klaravik",
+  "silverhawk 540"
+ ],
+ "heading": "Motorbåt Silverhawk 540 DC Mercury 90 hk med trailer",
+ "image": "https://media.se.klaravik.com/public/productimages/46/b1/3304735/extrabilder75650209_large.jpg?v=1791463869",
+ "image_urls": [
+  "https://media.se.klaravik.com/public/productimages/46/b1/3304735/extrabilder75650209_large.jpg?v=1791463869"
+ ],
+ "last_seen": "2026-10-10",
+ "lat": 59.62,
+ "length_ft": null,
+ "location": "Västerås",
+ "lon": 16.55,
+ "make": "Silverhawk",
+ "motor_size": 90.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 754,
+  "fetched_ts": 1791605615801,
+  "text_sha": "f3bca3b0474a30f3"
+ },
+ "price": 24225,
+ "price_history": [
+  {
+   "bid": 15500,
+   "date": "2026-10-10",
+   "price": 24225
+  }
+ ],
+ "source": "klaravik",
+ "specs": {
+  "Antal nycklar": "1",
+  "Båttyp": "Motorbåt",
+  "DC Mercury 90 hk År": "2008",
+  "Drivmedel": "Bensin",
+  "Ja Serienummer båt": "FISLVA1718K708",
+  "Lasthjälpsinformation Lasthjälp": "Lasthjälp i överenskommelse med säljaren",
+  "Mercury 90 hk med trailer Märke": "Silverhawk",
+  "Modell": "540",
+  "Motor": "Merccury",
+  "Motoreffekt (kW / hk)": "90 hk",
+  "Märke": "Silverhawk",
+  "Mätarställning": "382 h CE-märkt:",
+  "Optimax 90 hk Motortyp": "2-taktsmotor",
+  "Serienummer motor": "1B1691450",
+  "Trailers maxhastighet (km/h)": "30",
+  "År enligt": "Typskylt"
+ },
+ "status": "active",
+ "url": "https://www.klaravik.se/auktion/produkt/3304735-motorbat-silverhawk-540/",
+ "year": null
+}

@@ -105,6 +105,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-10",
  "page": {
   "description_chars": 379,
   "fetched_ts": 1791173632368,
@@ -135,7 +136,7 @@
   "Sovplatser": "2",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25572406",
  "width_cm": 0,
  "year": 1978

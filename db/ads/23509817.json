@@ -110,6 +110,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-10",
  "page": {
   "description_chars": 590,
   "fetched_ts": 1791173550294,
@@ -137,7 +138,7 @@
   "Toppfart": "30 knop",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/23509817",
  "width_cm": 0,
  "year": 2002

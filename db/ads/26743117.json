@@ -34,7 +34,9 @@
  },
  "first_seen": "2026-09-27T15:26:08+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Ryds Camping",
+  "Ryds camping"
  ],
  "heading": "Säljer ryds camping LÄS beskrivning",
  "image": "https://images.blocketcdn.se/dynamic/default/item/26743117/634671ba-4f9d-4ae8-a5c3-3f764ba0b3f6",
@@ -45,7 +47,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26743117/18a1bde9-847e-4c55-99d1-617925b41031",
   "https://images.blocketcdn.se/dynamic/default/item/26743117/a2965531-b5c3-4260-ae83-cddddb52be79"
  ],
- "last_seen": "2026-10-09T04:06:03+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 59.01,
  "length_ft": 19,
  "llm": {
@@ -87,7 +89,7 @@
   "fetched_ts": 1791173876121,
   "text_sha": "d091d0a1268c14f1"
  },
- "price": 11500,
+ "price": 10500,
  "price_history": [
   {
    "date": "2026-09-27",
@@ -96,6 +98,10 @@
   {
    "date": "2026-10-07",
    "price": 11500
+  },
+  {
+   "date": "2026-10-10",
+   "price": 10500
   }
  ],
  "specs": {

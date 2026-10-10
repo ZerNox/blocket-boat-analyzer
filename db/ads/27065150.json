@@ -1,0 +1,112 @@
+{
+ "ad_id": 27065150,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1790941556000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1985,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2000,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Fin utflyktsbåt för 6 personer från mitten av 1980 talet ,motorn är från 2000",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellet är nytt och oanvänt.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Nybesiktigad bromsad Brenderup trailer godkänd för 80 km/h medföljer .",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed cabin, only open cockpit with steering console visible.",
+  "hull_source": "bild",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-10T04:08:50+00:00",
+ "found_by": [
+  "Ryds triss"
+ ],
+ "heading": "Ryds Triss 52ST",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27065150/ff2978d7-792a-480c-a589-2e9b10793f47",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27065150/ff2978d7-792a-480c-a589-2e9b10793f47",
+  "https://images.blocketcdn.se/dynamic/default/item/27065150/4e23cf09-5d75-4bd9-9ecf-2fbd0ecbf550",
+  "https://images.blocketcdn.se/dynamic/default/item/27065150/17e0a7d4-aec1-4b04-8ff8-ef940ebc4130",
+  "https://images.blocketcdn.se/dynamic/default/item/27065150/f033fe93-8893-4424-ad38-01dc98f9749e",
+  "https://images.blocketcdn.se/dynamic/default/item/27065150/f86f2cf1-860f-4c11-9fd2-3544b6ba8be0",
+  "https://images.blocketcdn.se/dynamic/default/item/27065150/440cade7-2820-43f6-87ba-0f954573d259",
+  "https://images.blocketcdn.se/dynamic/default/item/27065150/53aa3732-ddc0-46c7-91dc-94c8402adce4"
+ ],
+ "last_seen": "2026-10-10T04:08:50+00:00",
+ "lat": 57.73,
+ "length_ft": 17,
+ "location": "Torslanda",
+ "lon": 11.79,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 638,
+  "fetched_ts": 1791605594487,
+  "text_sha": "3b05613d618e9439"
+ },
+ "price": 40000,
+ "price_history": [
+  {
+   "date": "2026-10-10",
+   "price": 40000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "Triss 52ST",
+  "Modellår": "1985",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "570 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27065150",
+ "vision": {
+  "at": "2026-10-10",
+  "images_sha": "6070dca9630862b3",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed cabin, only open cockpit with steering console visible.",
+   "hull_photo": 5
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 0,
+ "year": 1985
+}

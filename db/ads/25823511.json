@@ -46,7 +46,9 @@
  },
  "first_seen": "2026-09-27T11:08:04+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Ryds Camping",
+  "Ryds camping"
  ],
  "heading": "Ryds Camping säljes!",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25823511/3782d62f-0d29-486b-a321-f924e9a4f35c",
@@ -58,7 +60,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25823511/412c6aa3-4a20-4b0e-9346-ca944a9181d4",
   "https://images.blocketcdn.se/dynamic/default/item/25823511/57b81941-24d5-4547-9f6d-2abc9cc43d1c"
  ],
- "last_seen": "2026-10-09T04:06:03+00:00",
+ "last_seen": "2026-10-10T04:08:50+00:00",
  "lat": 59.26,
  "length_ft": 19,
  "llm": {

@@ -107,6 +107,12 @@
    "price": 119850
   }
  ],
+ "sold": {
+  "date": "2026-10-10",
+  "final_bid": 130000,
+  "last_price": 138850,
+  "reserve_reached": false
+ },
  "source": "klaravik",
  "specs": {
   "Antal nycklar": "2",
@@ -130,7 +136,7 @@
   "Suzuki 115hk Märke": "Sea",
   "År": "Båt-1991 /"
  },
- "status": "active",
+ "status": "unsold",
  "url": "https://www.klaravik.se/auktion/produkt/3298781-hyttbat-sea-star-600s-med-suzuki-115hk/",
  "year": 1991
 }

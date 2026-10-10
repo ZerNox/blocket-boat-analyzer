@@ -91,6 +91,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-10",
  "page": {
   "description_chars": 868,
   "fetched_ts": 1791173639361,
@@ -118,7 +119,7 @@
   "Sittplatser": "7",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25588220",
  "width_cm": 0,
  "year": 1975

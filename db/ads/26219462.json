@@ -107,6 +107,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": null,
+ "not_in_search_since": "2026-10-10",
  "page": {
   "description_chars": 310,
   "fetched_ts": 1791173768935,
@@ -119,6 +120,11 @@
    "price": 110000
   }
  ],
+ "sold": {
+  "date": "2026-10-10",
+  "days_seen": 13,
+  "last_price": 110000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
@@ -135,7 +141,7 @@
   "Toppfart": "17 knop",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26219462",
  "width_cm": 0,
  "year": 1991
