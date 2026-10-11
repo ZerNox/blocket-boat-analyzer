@@ -1,0 +1,138 @@
+{
+ "ad_id": 27283300,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791621550000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "open",
+  "hull_certain": false,
+  "hull_evidence": "No enclosed cabin, only open cockpit and console visible.",
+  "hull_source": "bild",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-11T04:08:47+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Uttern 5000 dc",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27283300/76b5d75d-bc4a-4941-9297-0abd73602afd",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27283300/76b5d75d-bc4a-4941-9297-0abd73602afd",
+  "https://images.blocketcdn.se/dynamic/default/item/27283300/76f88595-4808-4b42-b0b2-227ce24d3d72",
+  "https://images.blocketcdn.se/dynamic/default/item/27283300/c3a75b39-51fa-4149-9c55-3567546c6595",
+  "https://images.blocketcdn.se/dynamic/default/item/27283300/ccb8a057-68be-4439-83ad-12286da0440b",
+  "https://images.blocketcdn.se/dynamic/default/item/27283300/9f6a1659-16ea-4320-8157-9d700ea596d1",
+  "https://images.blocketcdn.se/dynamic/default/item/27283300/3bfdc839-2e3f-48fe-acc7-12807ff0f1a4",
+  "https://images.blocketcdn.se/dynamic/default/item/27283300/523d3adb-7e9e-4ef2-a7f8-02de5cd84a77",
+  "https://images.blocketcdn.se/dynamic/default/item/27283300/9ed332a0-f7e4-4151-b25c-08e073f74e6c",
+  "https://images.blocketcdn.se/dynamic/default/item/27283300/7d951ed9-4b8c-4d6a-88f6-8780685f989f"
+ ],
+ "last_seen": "2026-10-11T04:08:47+00:00",
+ "lat": 61.89,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-10-11",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1989,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "4d2353fd6313015b"
+ },
+ "location": "Stocka",
+ "lon": 17.36,
+ "make": "Uttern",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 288,
+  "fetched_ts": 1791691970670,
+  "text_sha": "4d2353fd6313015b"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-10-11",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "5000 dc",
+  "Modellår": "1989",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27283300",
+ "vision": {
+  "at": "2026-10-11",
+  "images_sha": "721b4858f2ba2f89",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed cabin, only open cockpit and console visible.",
+   "hull_photo": 6
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 0,
+ "year": 1989
+}

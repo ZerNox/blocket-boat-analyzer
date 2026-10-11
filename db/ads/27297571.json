@@ -1,0 +1,124 @@
+{
+ "ad_id": 27297571,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791642210000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell, med avtagbara sido fönster.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern DC 5500, 4takt, 80vagn",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-11T04:08:47+00:00",
+ "found_by": [
+  "kategori",
+  "Uttern 5500"
+ ],
+ "heading": "Uttern DC 5500, 4takt, 80vagn",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27297571/65e80c90-027a-4e1f-8795-f9ef3f08fedf",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27297571/65e80c90-027a-4e1f-8795-f9ef3f08fedf",
+  "https://images.blocketcdn.se/dynamic/default/item/27297571/00f1a330-7a8c-4850-b0dc-9bfd4da15473",
+  "https://images.blocketcdn.se/dynamic/default/item/27297571/70d5bbb1-fe05-4dc5-9e47-0feb69636622"
+ ],
+ "last_seen": "2026-10-11T04:08:47+00:00",
+ "lat": 63.72,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-10-11",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": null,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Årsmodell 2000",
+   "engine_year_rejected": 2000,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "included",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "160aa38eea27b8f3"
+ },
+ "location": "Holmsund",
+ "lon": 20.43,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 623,
+  "fetched_ts": 1791691973399,
+  "text_sha": "160aa38eea27b8f3"
+ },
+ "price": 118000,
+ "price_history": [
+  {
+   "date": "2026-10-11",
+   "price": 118000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "DC 5500",
+  "Modellår": "2000",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27297571",
+ "width_cm": 0,
+ "year": 2000
+}

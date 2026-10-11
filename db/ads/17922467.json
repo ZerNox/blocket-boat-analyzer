@@ -1,0 +1,128 @@
+{
+ "ad_id": 17922467,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1791620097000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Volvo",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Finns även en kapellställning till .",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båten säljes med trailer ( 30 vagn) och säljes i befintligt skick .",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "en kapellställning till . Toalett finns. Behöver nytt kapell och omvårdnad.",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-11T04:08:47+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Fjord 21",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/17922467/ce8b0f91-b8d9-4d2a-a2c6-6acb5b7bc48e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/17922467/ce8b0f91-b8d9-4d2a-a2c6-6acb5b7bc48e",
+  "https://images.blocketcdn.se/dynamic/default/item/17922467/35e2e4b4-105f-4af1-8b62-9ec2313af3cf",
+  "https://images.blocketcdn.se/dynamic/default/item/17922467/2812f3d5-9375-42b9-b766-6a7248179ba3",
+  "https://images.blocketcdn.se/dynamic/default/item/17922467/df7816cd-2542-431e-a53a-5d4ca46fd02e",
+  "https://images.blocketcdn.se/dynamic/default/item/17922467/6a641d5a-84d3-488f-8c67-6c28cedb4e00",
+  "https://images.blocketcdn.se/dynamic/default/item/17922467/efa698a1-3d7e-4e25-af97-a71c5ef88b1a"
+ ],
+ "last_seen": "2026-10-11T04:08:47+00:00",
+ "lat": 60.57,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-10-11",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Volvo",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "3e69aed6712b7110"
+ },
+ "location": "Falun",
+ "lon": 15.67,
+ "make": "Fjord",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 179,
+  "fetched_ts": 1791691953954,
+  "text_sha": "3e69aed6712b7110"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-10-11",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "21 fot",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Volvo",
+  "Motortyp": "Inombordare",
+  "Märke": "Fjord",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/17922467",
+ "width_cm": 0,
+ "year": 1980
+}

@@ -11,9 +11,9 @@
   "engine_hp_source": null,
   "engine_maker": null,
   "engine_stroke": null,
-  "engine_type": null,
+  "engine_type": "outboard",
   "engine_type_evidence": null,
-  "engine_type_source": null,
+  "engine_type_source": "llm",
   "engine_year": null,
   "engine_year_est": null,
   "engine_year_est_reason": null,
@@ -42,18 +42,18 @@
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/27100966/75f972a6-d17a-4404-93c1-187a5f981d04"
  ],
- "last_seen": "2026-10-10T04:08:50+00:00",
+ "last_seen": "2026-10-11T04:08:47+00:00",
  "lat": 60.16,
  "length_ft": 17,
  "llm": {
-  "at": "2026-10-04",
+  "at": "2026-10-11",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2026,
    "engine_hours": null,
    "engine_hp": null,
-   "engine_maker": null,
-   "engine_type": "unknown",
+   "engine_maker": "Bella",
+   "engine_type": "outboard",
    "engine_year": null,
    "engine_year_evidence": null,
    "equipment": {
@@ -68,14 +68,14 @@
     "radar": "not_mentioned",
     "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
-    "trailer": "not_mentioned",
+    "trailer": "excluded",
     "varmare": "not_mentioned",
     "vhf": "not_mentioned",
     "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "c90713ae9acfc6a1"
+  "text_sha": "8ffaffe4272a1c6e"
  },
  "location": "Ludvika",
  "lon": 15.2,
@@ -86,8 +86,8 @@
  "motor_type": null,
  "page": {
   "description_chars": 0,
-  "fetched_ts": 1791087102045,
-  "text_sha": "c90713ae9acfc6a1"
+  "fetched_ts": 1791691967881,
+  "text_sha": "8ffaffe4272a1c6e"
  },
  "price": 15000,
  "price_history": [
@@ -99,8 +99,9 @@
  "specs": {
   "Båtens plats": "Sverige",
   "Längd i fot": "17 fot",
-  "Modell": "Köpes BELLA C",
+  "Modell": "Köpes BELLA 571c-572c",
   "Modellår": "2026",
+  "Motor inkluderad": "Ja",
   "Märke": "Bella",
   "Typ": "Hyttbåt"
  },

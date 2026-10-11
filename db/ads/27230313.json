@@ -1,0 +1,95 @@
+{
+ "ad_id": 27230313,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1791644028000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Tohatsu",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2007,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer en Örnvik 540 med Tohatsu 40 hk utombordsmotor från 2007.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin plotter/ekolod finns installerad men fungerar inte.",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Båten har hydraulstyrning, dubbla batterier och elektrisk länspump.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin plotter/ekolod finns installerad men fungerar inte.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båt utan båttrailer blir 30000 kr",
+    "included": false
+   }
+  },
+  "hull": "open",
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-11T04:08:47+00:00",
+ "found_by": [
+  "Örnvik 540"
+ ],
+ "heading": "Örnvik 540 med Tohatsu 40 hk och båtkärra",
+ "image": null,
+ "image_urls": [],
+ "last_seen": "2026-10-11T04:08:47+00:00",
+ "lat": 57.65,
+ "length_ft": 18,
+ "location": "Fotö",
+ "lon": 11.65,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 794,
+  "fetched_ts": 1791691969332,
+  "text_sha": "e826b88a8182c6d2"
+ },
+ "price": 42000,
+ "price_history": [
+  {
+   "date": "2026-10-11",
+   "price": 42000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modellår": "2007",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Tohatsu",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27230313",
+ "width_cm": 0,
+ "year": 2007
+}

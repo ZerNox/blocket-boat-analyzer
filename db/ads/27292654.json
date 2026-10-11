@@ -1,0 +1,105 @@
+{
+ "ad_id": 27292654,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1791634698000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2010,
+  "boat_year_source": "spec",
+  "engine_hours": 240,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorbåt Sandström 560 Classic årsmodell 2010 med Mercury 50 hk EFI årsmodell 2011 ca 240 gångtimmar.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Ingen trailer.",
+    "included": false
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Clear view of cockpit and steering console, no enclosed cabin visible.",
+  "hull_source": "bild",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-11T04:08:47+00:00",
+ "found_by": [
+  "Sandström 560"
+ ],
+ "heading": "Sandström 560 Classic",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27292654/a7211865-62f6-4c7d-9662-49cd2f785689",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27292654/a7211865-62f6-4c7d-9662-49cd2f785689",
+  "https://images.blocketcdn.se/dynamic/default/item/27292654/ed23e4e4-df87-4bae-a1b7-df50a36aa0a6",
+  "https://images.blocketcdn.se/dynamic/default/item/27292654/3eeb0350-e66b-4242-ad99-cbfb368bbd65",
+  "https://images.blocketcdn.se/dynamic/default/item/27292654/48d24047-dcee-49d6-b5f1-860c01bfce27",
+  "https://images.blocketcdn.se/dynamic/default/item/27292654/2d59209e-bc3e-4654-9ef0-fbd3b46ad200",
+  "https://images.blocketcdn.se/dynamic/default/item/27292654/7889446f-c9fb-43a5-8d50-5f053c05975e"
+ ],
+ "last_seen": "2026-10-11T04:08:47+00:00",
+ "lat": 57.71,
+ "length_ft": 18,
+ "location": "Göteborg",
+ "lon": 12.05,
+ "make": "Sandström",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1532,
+  "fetched_ts": 1791691972181,
+  "text_sha": "23eca6bc35ff4907"
+ },
+ "price": 84000,
+ "price_history": [
+  {
+   "date": "2026-10-11",
+   "price": 84000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "560 Classic",
+  "Modellår": "2010",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Sandström",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27292654",
+ "vision": {
+  "at": "2026-10-11",
+  "images_sha": "eedc08bec34cc56d",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "Clear view of cockpit and steering console, no enclosed cabin visible.",
+   "hull_photo": 5
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 210,
+ "year": 2010
+}
