@@ -1,0 +1,58 @@
+{
+ "ad_id": 2214762036047038,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:20.300Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 620\""
+ ],
+ "heading": "Flipper 620",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/756525981_1036551892459620_345546507020711796_n.jpg?stp=c88.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=0te0LmhP1RsQ7kNvwHe9a6C&_nc_oc=Adps66HQ7MkmjmGIGOrRqY7kk3pqaDMu9sYqrewj6iGtAIUrJGYUf0MFfmwblEy9tFE&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=O-bBeYFo3pRVQeDtyOVvWw&_nc_ss=7f289&oh=00_AQOQS8Xep5qLNVlDaToqcFsijOIZ46Kj1XMQ0UD6Rpo7-A&oe=6AD22875",
+ "last_seen": "2026-10-12",
+ "lat": 59.27,
+ "location": "Örebro",
+ "lon": 15.21,
+ "make": "Flipper",
+ "motor_size": null,
+ "price": 135000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 135000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/2214762036047038/"
+}

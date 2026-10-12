@@ -1,0 +1,64 @@
+{
+ "ad_id": 1215127550777020,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Örnvik 530 HT – Yamaha F70 AETL-B (2013), nyservad, plotter & kapell",
+  "engine_type_source": "rule:model",
+  "engine_year": 2013,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamaha F70 AETL-B (2013), nyservad, plotter & kapell.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Yamaha F70 AETL-B (2013), nyservad, plotter & kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Yamaha F70 AETL-B (2013), nyservad, plotter & kapell",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 530 HT – Yamaha F70 AETL-B (2013), nyservad, plotter & kapell",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:19:01.240Z",
+ "found_by": [
+  "marketplace",
+  "\"Örnvik 530\""
+ ],
+ "heading": "Örnvik 530 HT – Yamaha F70 AETL-B (2013), nyservad, plotter & kapell",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/775281745_1319650239998268_8160611847085539287_n.jpg?stp=c101.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=A8y9S0RISqQQ7kNvwEdpki7&_nc_oc=AdoE2dFdoOImTUks7MJjDsJ_L8zYdka1zQBVx0v4YVjQOk_-Iez4e2t_Yc69Cx5_Ync&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=OhHiMyR15KvxRuXazY4EHw&_nc_ss=7f289&oh=00_AQNOSnSrakZaSMTrK39DlUvgxR2xoXsND1StdlRmcomZpA&oe=6AD22F4D",
+ "last_seen": "2026-10-12",
+ "lat": 59.35,
+ "location": "Bromma",
+ "lon": 17.92,
+ "make": "Örnvik",
+ "motor_size": 70.0,
+ "price": 89000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 89000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1215127550777020/"
+}

@@ -58,7 +58,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27134693/7d09e682-40e4-4147-9fda-8c365af82033",
   "https://images.blocketcdn.se/dynamic/default/item/27134693/69b04731-da7f-477c-8e9d-ff7d3dc8ff38"
  ],
- "last_seen": "2026-10-11T04:08:47+00:00",
+ "last_seen": "2026-10-12T04:21:20+00:00",
  "lat": 58.82,
  "length_ft": 18,
  "location": "Västerljung",
@@ -70,7 +70,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 776,
-  "fetched_ts": 1791173913265,
+  "fetched_ts": 1791779426661,
   "text_sha": "b5cf53fafdcb7730"
  },
  "price": 79000,

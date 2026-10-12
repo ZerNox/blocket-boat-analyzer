@@ -1,0 +1,58 @@
+{
+ "ad_id": 1542749426713959,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 640 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:20.300Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 620\""
+ ],
+ "heading": "Flipper 640 HT",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/748278411_917008343987027_5678276983903980561_n.jpg?stp=c0.151.261.261a_dst-jpg_p261x260_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=sIzooiLwUloQ7kNvwFl4DKn&_nc_oc=AdpCuVNsY-zCJ28U9EReYE6TgB5JSs_5vBS-tTG9gQ241qenm2RjpaN1OEOOlGimkDA&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=O-bBeYFo3pRVQeDtyOVvWw&_nc_ss=7f289&oh=00_AQPvELUQDrtbP5QB3tQ8o6fBOj1ehVgQHjXM0KjGQD2AKw&oe=6AD2289D",
+ "last_seen": "2026-10-12",
+ "lat": 59.33,
+ "location": "Stockholm",
+ "lon": 18.06,
+ "make": "Flipper",
+ "motor_size": null,
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 55000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1542749426713959/"
+}

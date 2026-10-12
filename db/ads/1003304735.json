@@ -1,12 +1,12 @@
 {
  "ad_id": 1003304735,
  "auction": {
-  "bid": 25500,
+  "bid": 48500,
   "close": "2026-10-16T09:36:00+02:00",
   "ended": false,
   "fee": 6980,
   "margin_scheme": true,
-  "next_bid": 26000,
+  "next_bid": 49000,
   "reserve_reached": false,
   "start": "2026-10-09T09:00:00+02:00",
   "vat": 0
@@ -68,7 +68,7 @@
  "image_urls": [
   "https://media.se.klaravik.com/public/productimages/46/b1/3304735/extrabilder75650209_large.jpg?v=1791463869"
  ],
- "last_seen": "2026-10-11",
+ "last_seen": "2026-10-12",
  "lat": 59.62,
  "length_ft": null,
  "location": "Västerås",
@@ -78,10 +78,10 @@
  "motor_type": null,
  "page": {
   "description_chars": 754,
-  "fetched_ts": 1791691986735,
+  "fetched_ts": 1791779440248,
   "text_sha": "f3bca3b0474a30f3"
  },
- "price": 34225,
+ "price": 57225,
  "price_history": [
   {
    "bid": 15500,
@@ -92,6 +92,11 @@
    "bid": 25500,
    "date": "2026-10-11",
    "price": 34225
+  },
+  {
+   "bid": 48500,
+   "date": "2026-10-12",
+   "price": 57225
   }
  ],
  "source": "klaravik",

@@ -1,0 +1,57 @@
+{
+ "ad_id": 1094469896633438,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Flipper 575 och nästan ny Hidea fyrtakts motor.",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:11:44.240Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 575\""
+ ],
+ "heading": "Flipper 575 och nästan ny Hidea fyrtakts motor.",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.30808-6/830160914_10243735410270306_2480254082180058603_n.jpg?stp=c561.0.918.918a_dst-jpg_tt6&cstp=mx918x918&ctp=s261x260&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=oABE5tfDFKsQ7kNvwF0x-wS&_nc_oc=AdqHUobobIb--T0RHiNwb7XVEeEIb8tko0USZ1OkoHZQu28HfDEx4Zz3CrHHTMuG6uk&_nc_zt=23&_nc_ht=scontent.farn1-2.fna&_nc_gid=blXdEHvVAjiOki_XG6IZlg&_nc_ss=7f289&oh=00_AQPdEELBBX4mFOPgp_pnTqOmIJpS3U5caynAqCGrSW8uNA&oe=6AD23FC5",
+ "last_seen": "2026-10-12",
+ "lat": 57.9,
+ "location": "Gamleby",
+ "lon": 16.4,
+ "make": "Flipper",
+ "motor_size": null,
+ "price": 50000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 50000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1094469896633438/"
+}

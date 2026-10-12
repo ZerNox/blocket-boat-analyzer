@@ -1,0 +1,58 @@
+{
+ "ad_id": 893412713586716,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:18:43.865Z",
+ "found_by": [
+  "marketplace",
+  "\"Uttern 6300\""
+ ],
+ "heading": "Uttern 6300",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/784664974_1548515709776626_5756290960451945890_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=nxYKddvV4RUQ7kNvwGjiajp&_nc_oc=AdoNVjxb6MZPIHyukI1Do0ByZd2FvuiqPBtnTsJTUqif4NfghcZ3alQLL2B8j6C8C6c&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=Y_41evwUL6cgOiyeNSVYIQ&_nc_ss=7f289&oh=00_AQMThdq7Ns6TJHquEXbSboK1Pzi9rPJxPaZS3uKuyogm4Q&oe=6AD23B4A",
+ "last_seen": "2026-10-12",
+ "lat": 57.57,
+ "location": "Lindome",
+ "lon": 12.08,
+ "make": "Uttern",
+ "motor_size": null,
+ "price": 90000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 90000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/893412713586716/"
+}

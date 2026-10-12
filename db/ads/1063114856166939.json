@@ -1,0 +1,57 @@
+{
+ "ad_id": 1063114856166939,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 115.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Micore 65 CC R-design -24 Honda 115 hk white DBW",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:16:50.059Z",
+ "found_by": [
+  "marketplace",
+  "\"Micore 65\""
+ ],
+ "heading": "Micore 65 CC R-design -24 Honda 115 hk white DBW",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t45.5328-4/772467624_1553374122318563_6498341062293423299_n.jpg?stp=c120.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=247b10&_nc_ohc=J8f_lMONzpEQ7kNvwEzBlc3&_nc_oc=AdrLRpzmIaPSb3pl_a9RdQdPdnCFIEfM8LKjWM2vt7GUvLDjOdVgtpdLsFzfs3USgz4&_nc_zt=23&_nc_ht=scontent.farn1-2.fna&_nc_gid=O9ZAw06hBz9O4eeYYxxdeA&_nc_ss=7f289&oh=00_AQNHJTMtIuau1TUihH855vWVlPWNQvKonBaapqg5cEs29w&oe=6AD2220D",
+ "last_seen": "2026-10-12",
+ "lat": 59.42,
+ "location": "Skattkärr",
+ "lon": 13.63,
+ "make": "Micore",
+ "motor_size": 115.0,
+ "price": 395000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 395000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1063114856166939/"
+}

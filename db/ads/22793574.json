@@ -102,6 +102,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-12",
  "page": {
   "description_chars": 164,
   "fetched_ts": 1791173528514,
@@ -114,6 +115,11 @@
    "price": 30000
   }
  ],
+ "sold": {
+  "date": "2026-10-12",
+  "days_seen": 15,
+  "last_price": 30000
+ },
  "specs": {
   "Bredd": "220 cm",
   "Båtens plats": "Sverige",
@@ -131,7 +137,7 @@
   "Toppfart": "32 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/22793574",
  "width_cm": 220,
  "year": 1980

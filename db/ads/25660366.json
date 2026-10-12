@@ -62,6 +62,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-12",
  "page": {
   "description_chars": 238,
   "fetched_ts": 1791259968986,
@@ -85,7 +86,7 @@
   "Märke": "Selco",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25660366",
  "vision": {
   "at": "2026-09-29",

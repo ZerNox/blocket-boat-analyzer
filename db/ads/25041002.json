@@ -1,0 +1,120 @@
+{
+ "ad_id": 25041002,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791706048000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 530DC",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:21:20+00:00",
+ "found_by": [
+  "kategori",
+  "Ryds 530"
+ ],
+ "heading": "Ryds 530DC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25041002/7e017910-4d52-41eb-a0d9-d05d85c3562f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25041002/7e017910-4d52-41eb-a0d9-d05d85c3562f",
+  "https://images.blocketcdn.se/dynamic/default/item/25041002/4ef9ebc7-61a6-4952-a81f-b42ff6913ea5",
+  "https://images.blocketcdn.se/dynamic/default/item/25041002/d094dcab-c5c7-48c3-80dd-8013ea90600e"
+ ],
+ "last_seen": "2026-10-12T04:21:20+00:00",
+ "lat": 60.01,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-10-12",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Utombordare",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "be72ae354d70a3ad"
+ },
+ "location": "Väddö",
+ "lon": 18.82,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 431,
+  "fetched_ts": 1791779163734,
+  "text_sha": "be72ae354d70a3ad"
+ },
+ "price": 33000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 33000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "530DC",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Sovplatser": "2",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/25041002",
+ "width_cm": 0,
+ "year": 1990
+}

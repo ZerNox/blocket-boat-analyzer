@@ -1,0 +1,58 @@
+{
+ "ad_id": 996644876445753,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 620 - 20 / DC och GTX",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:17:23.686Z",
+ "found_by": [
+  "marketplace",
+  "\"Ryds 620\""
+ ],
+ "heading": "Ryds 620 - 20 / DC och GTX",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/732151648_1335309151357690_2425371665637615004_n.jpg?stp=c36.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=8Fet1AL6YEIQ7kNvwFiQliy&_nc_oc=AdrvJLdTE_Er61RlByqEjyC-ODqQObh5cZq44Oo4OgE53lk5ORBMJZ3n_mngApXml5Y&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=IlbVzCL8fXYPoyfe6K7lCg&_nc_ss=7f289&oh=00_AQOzjMtERfiUSX1qRsLVOT_eHmP_g4ZZB2Lo53YPdWAsJA&oe=6AD24CED",
+ "last_seen": "2026-10-12",
+ "lat": 57.71,
+ "location": "Göteborg",
+ "lon": 11.97,
+ "make": "Ryds",
+ "motor_size": null,
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 10000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/996644876445753/"
+}

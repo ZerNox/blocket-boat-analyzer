@@ -35,9 +35,9 @@
    }
   },
   "hull": "open",
-  "hull_certain": true,
-  "hull_evidence": "Clear view of cockpit and no enclosed cabin or hatch visible.",
-  "hull_source": "bild",
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -57,11 +57,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26785333/b43b347f-e43f-4db5-a6c9-939db8a76ae7",
   "https://images.blocketcdn.se/dynamic/default/item/26785333/b7ba7aa7-f964-400d-a168-852f586ea71d"
  ],
- "last_seen": "2026-10-11T04:08:47+00:00",
+ "last_seen": "2026-10-12T04:21:20+00:00",
  "lat": 59.54,
  "length_ft": 19,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-12",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2005,
@@ -76,16 +76,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "f47b3de5b7580c4b"
+  "text_sha": "ad3ce48f7c771c99"
  },
  "location": "Blidö",
  "lon": 19.26,
@@ -96,8 +101,8 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 181,
-  "fetched_ts": 1791173881809,
-  "text_sha": "f47b3de5b7580c4b"
+  "fetched_ts": 1791779398898,
+  "text_sha": "ad3ce48f7c771c99"
  },
  "price": 80000,
  "price_history": [

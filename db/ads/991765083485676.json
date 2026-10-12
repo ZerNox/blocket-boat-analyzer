@@ -1,0 +1,58 @@
+{
+ "ad_id": 991765083485676,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:15:50.115Z",
+ "found_by": [
+  "marketplace",
+  "\"Finnsport 650\""
+ ],
+ "heading": "Finnsport 650 AC",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.30808-6/742619703_27219406891091607_5000877528194130516_n.jpg?stp=c664.0.1080.1080a_dst-jpg_tt6&cstp=mx1080x1080&ctp=s261x260&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=3psEH4VPDtwQ7kNvwGvjoz4&_nc_oc=AdqWWUGrcWKKk0XugdxROWvKKCSI877F3Uuiejl2is996Q2QZCSedcGPVNdcdtSg0cE&_nc_zt=23&_nc_ht=scontent.farn1-2.fna&_nc_gid=ejdZ0tUnVsUwSMMfxexUvQ&_nc_ss=7f289&oh=00_AQNzzXPSLRx_GuFC4svVFYfwR6-vXbY0oMDIeuWQKy_cwA&oe=6AD22129",
+ "last_seen": "2026-10-12",
+ "lat": 58.52,
+ "location": "Norsholm",
+ "lon": 15.97,
+ "make": "Finnsport",
+ "motor_size": null,
+ "price": 65000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 65000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/991765083485676/"
+}

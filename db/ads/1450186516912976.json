@@ -1,0 +1,57 @@
+{
+ "ad_id": 1450186516912976,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": 2010,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Yamarin 64DC 2008 motor 2010.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Yamarin 64DC 2008 motor 2010",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:02.417Z",
+ "found_by": [
+  "marketplace",
+  "\"Yamarin 63\""
+ ],
+ "heading": "Yamarin 64DC 2008 motor 2010",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/726525533_1669453380778952_4593350165702095089_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=OzUdOnyDjYUQ7kNvwEWvpz1&_nc_oc=Adrm_yl8eyQjm2g2sOF_5EQYaG7xN4ZWS-C8mQPePzEIXo4n_YBSC8BRDixpLdcL4oE&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=8dkVWvgT-KlWi3sTCouRfA&_nc_ss=7f289&oh=00_AQOtgqnlB2zgpsN172U2ParIyuDu4FTpOFpfdNvIZF1J7Q&oe=6AD22CDE",
+ "last_seen": "2026-10-12",
+ "lat": 58.75,
+ "location": "Nyköping",
+ "lon": 17.01,
+ "make": "Yamarin",
+ "motor_size": null,
+ "price": 250000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 250000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1450186516912976/"
+}

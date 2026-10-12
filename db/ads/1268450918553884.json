@@ -1,0 +1,57 @@
+{
+ "ad_id": 1268450918553884,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Flipper 630oc Yamaha F100",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:40.785Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 630\""
+ ],
+ "heading": "Flipper 630oc Yamaha F100",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.30808-6/774869095_10165181796757349_7773032051617922152_n.jpg?stp=c250.0.1500.1500a_dst-jpg_tt6&cstp=mx1500x1500&ctp=s261x260&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=ulnuPzkppKoQ7kNvwGveZuc&_nc_oc=AdoBA63huzkPQ5BlwOWm4kgA8zreHnO58lA6A6lKZx7MGc3D8fVcaDN3WSjot75GIEo&_nc_zt=23&_nc_ht=scontent.farn1-2.fna&_nc_gid=z2Y6nBPrO6LQQ-fZVEhTWw&_nc_ss=7f289&oh=00_AQNKpyJ0dqTAsYv9dhlJ36rp0pID3J8KnfECALj58blUhw&oe=6AD2485C",
+ "last_seen": "2026-10-12",
+ "lat": 58.42,
+ "location": "Linghem",
+ "lon": 15.64,
+ "make": "Flipper",
+ "motor_size": 100.0,
+ "price": 175000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 175000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1268450918553884/"
+}

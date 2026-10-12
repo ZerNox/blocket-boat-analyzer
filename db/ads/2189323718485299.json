@@ -1,0 +1,58 @@
+{
+ "ad_id": 2189323718485299,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "1990 Uttern 560 ht (hardtop)",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:15:33.130Z",
+ "found_by": [
+  "marketplace",
+  "\"Uttern 560\""
+ ],
+ "heading": "1990 Uttern 560 ht (hardtop)",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/738570805_885931974562558_7915840013946914375_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=qaBq4O22nmwQ7kNvwFVJuNw&_nc_oc=Adom6L4BnbKK5b7oNLkJeoSUOHpTfUl6KFglBwkm5AkKm5d4eIDmJossXd43aOJui-s&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=eRqkCRV4zzmDks_0_7CPtw&_nc_ss=7f289&oh=00_AQNXfYV9gtjrgEZNmhpVJ7AtPvz3kvHDPyhSDCMdLcaksQ&oe=6AD22E82",
+ "last_seen": "2026-10-12",
+ "lat": 59.38,
+ "location": "Karlstad",
+ "lon": 13.5,
+ "make": "1990",
+ "motor_size": null,
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 60000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/2189323718485299/"
+}

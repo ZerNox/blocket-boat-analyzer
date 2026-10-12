@@ -47,7 +47,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25863894/50391446-bb29-4d38-920b-3795c8d2299d",
   "https://images.blocketcdn.se/dynamic/default/item/25863894/eda07d22-e0f3-4872-8eeb-3951cd80f92d"
  ],
- "last_seen": "2026-10-11T04:08:47+00:00",
+ "last_seen": "2026-10-12T04:21:20+00:00",
  "lat": 59.63,
  "length_ft": 17,
  "location": "Bålsta",
@@ -59,7 +59,7 @@
  "motor_type": "Inombordare",
  "page": {
   "description_chars": 864,
-  "fetched_ts": 1791173690949,
+  "fetched_ts": 1791779219978,
   "text_sha": "43e6e752135b0b0f"
  },
  "price": 95000,

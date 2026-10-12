@@ -1,0 +1,63 @@
+{
+ "ad_id": 1098417559239878,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 35.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Ht båt ÖRNVIK 550 motor 35hk, släp",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ht båt ÖRNVIK 550 motor 35hk, släp",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:19:24.264Z",
+ "found_by": [
+  "marketplace",
+  "\"Örnvik 550\""
+ ],
+ "heading": "Ht båt ÖRNVIK 550 motor 35hk, släp",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/833945576_2602740246835950_6471270072572026703_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=42uwaG2p-TMQ7kNvwEG3JrM&_nc_oc=AdoaYiAVpc1LuBf9NzX1RNDWrsprGBtEjXZLz0Au5cPM05mEi0rNGDFTSTnSr1gjXHk&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=EdavmIf0X4iVoUogVfmkcQ&_nc_ss=7f289&oh=00_AQOghnnUOj4TfTPR3Bmu9EkuUhElaiCLcpb7bvjgezKCkw&oe=6AD24988",
+ "last_seen": "2026-10-12",
+ "lat": 56.32,
+ "location": "Vejbystrand",
+ "lon": 12.77,
+ "make": "Ht",
+ "motor_size": 35.0,
+ "price": 17000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 17000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1098417559239878/"
+}

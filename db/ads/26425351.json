@@ -56,7 +56,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26425351/56628b83-7671-4b75-a3a6-f9c6c2c94c40",
   "https://images.blocketcdn.se/dynamic/default/item/26425351/8f3d5d48-004b-4af9-be21-6d776a84945b"
  ],
- "last_seen": "2026-10-11T04:08:47+00:00",
+ "last_seen": "2026-10-12T04:21:20+00:00",
  "lat": 58.68,
  "length_ft": 21,
  "location": "Åby",
@@ -67,9 +67,9 @@
  "motor_size": null,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 440,
-  "fetched_ts": 1791173809893,
-  "text_sha": "f9565bb2085197a7"
+  "description_chars": 481,
+  "fetched_ts": 1791779332560,
+  "text_sha": "9b1d5f39a89dcbf9"
  },
  "price": 265000,
  "price_history": [

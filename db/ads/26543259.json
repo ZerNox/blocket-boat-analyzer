@@ -39,7 +39,7 @@
  "heading": "KÖPES SEA STAR 600 fyrtaktare",
  "image": null,
  "image_urls": [],
- "last_seen": "2026-10-11T04:08:47+00:00",
+ "last_seen": "2026-10-12T04:21:20+00:00",
  "lat": 59.61,
  "length_ft": 18,
  "llm": {
@@ -83,7 +83,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 33,
-  "fetched_ts": 1791173834624,
+  "fetched_ts": 1791779357080,
   "text_sha": "95b2bdc952f7141b"
  },
  "price": 0,

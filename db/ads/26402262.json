@@ -81,6 +81,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-12",
  "page": {
   "description_chars": 309,
   "fetched_ts": 1791173805720,
@@ -93,6 +94,11 @@
    "price": 128000
   }
  ],
+ "sold": {
+  "date": "2026-10-12",
+  "days_seen": 15,
+  "last_price": 128000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
@@ -109,7 +115,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "660 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26402262",
  "width_cm": 0,
  "year": 2012

@@ -1,0 +1,58 @@
+{
+ "ad_id": 1957982324912702,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Yamarin 76 DC NYTT PRIS",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:13:13.901Z",
+ "found_by": [
+  "marketplace",
+  "\"Yamarin 65\""
+ ],
+ "heading": "Yamarin 76 DC NYTT PRIS",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.30808-6/780422325_10239070764281979_10023230329192157_n.jpg?stp=c0.169.1537.1537a_dst-jpg_tt6&cstp=mx1537x1537&ctp=s261x260&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=nC8nxpazJl4Q7kNvwGLBv5O&_nc_oc=AdpyyCPeg_uoy5z8s9eDZFGBPAPbYrJfeJuWLMmGdIOTDhCu-gWSYlhTYMRjHdwEVPg&_nc_zt=23&_nc_ht=scontent.farn1-2.fna&_nc_gid=Wb5V5cqsvGDQTCUHtWxuTg&_nc_ss=7f289&oh=00_AQNnrpggNZBBVfk8fSxAXHwME0zXFf102DMnQxwF7EjKvQ&oe=6AD2430B",
+ "last_seen": "2026-10-12",
+ "lat": 57.87,
+ "location": "Kungälv",
+ "lon": 11.98,
+ "make": "Yamarin",
+ "motor_size": null,
+ "price": 399000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 399000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1957982324912702/"
+}

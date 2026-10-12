@@ -1,0 +1,58 @@
+{
+ "ad_id": 1958202681345186,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 138.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:59.111Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 640\""
+ ],
+ "heading": "Flipper 640 Aq145 /volvo b230 /138 hk",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/758744533_1534660947650494_3510370478238790177_n.jpg?stp=c0.152.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=1H6PZ3OpyBMQ7kNvwGK4IpY&_nc_oc=AdqOaKGdpv607BFdAa6yN4k21EVH-_eQ5M6gqQFKuY4l99B1njtZpnGKfsXeP_rVUg4&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=KUx1rrunwJ5Va1wmxuwwmg&_nc_ss=7f289&oh=00_AQO4G1Hhvr6uXQRbKuiPlfwnk2IOu4IYaj9rZDGCw_vILQ&oe=6AD22771",
+ "last_seen": "2026-10-12",
+ "lat": 61.73,
+ "location": "Hudiksvall",
+ "lon": 17.1,
+ "make": "Flipper",
+ "motor_size": 138.0,
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 55000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1958202681345186/"
+}

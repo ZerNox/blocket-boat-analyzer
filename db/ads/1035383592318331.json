@@ -1,0 +1,57 @@
+{
+ "ad_id": 1035383592318331,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Yamarin 59 Ht 100 hk Yamaha",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Yamarin 59 Ht 100 hk Yamaha",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:02.417Z",
+ "found_by": [
+  "marketplace",
+  "\"Yamarin 63\""
+ ],
+ "heading": "Yamarin 59 Ht 100 hk Yamaha",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/733642273_1358815879510269_8934494005194845507_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=GJ-hfNact2kQ7kNvwGTlEbi&_nc_oc=AdqEA-LnBy5K5eiTAB7IGW0o9vaOqgrPgyIhq1uicr9J7p7FxCmNM6chBKAo1LBLh8A&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=8dkVWvgT-KlWi3sTCouRfA&_nc_ss=7f289&oh=00_AQO5EXKoXl2vqclCaoIqvoWcSfpgKJOFKHomyuy19lkVjg&oe=6AD22F52",
+ "last_seen": "2026-10-12",
+ "lat": 59.62,
+ "location": "Blidö",
+ "lon": 18.89,
+ "make": "Yamarin",
+ "motor_size": 100.0,
+ "price": 210000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 210000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1035383592318331/"
+}

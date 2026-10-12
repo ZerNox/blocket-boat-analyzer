@@ -1,0 +1,58 @@
+{
+ "ad_id": 1640334687826667,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "1976 Örnvik 550 ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:10:33.043Z",
+ "found_by": [
+  "marketplace",
+  "\"Örnvik 510\""
+ ],
+ "heading": "1976 Örnvik 550 ht",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/759479766_1285071750188721_9174064285173859473_n.jpg?stp=c0.0.261.261a_dst-jpg_p261x260_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=aqj0DtTxamsQ7kNvwEitkhZ&_nc_oc=AdrzaAn-xcb7Jseq1TQSX-Qcb0MvAoQND7Pa3Hh7Ek0eRbRrAZoSsHLoIooAmkZmyF0&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=eFuaeC4Ymvw81S7QzFBwJw&_nc_ss=7f289&oh=00_AQNcbCHt35wVSujXz79wz8ft6T1e02cMweo5WLQoyzzQXQ&oe=6AD215D2",
+ "last_seen": "2026-10-12",
+ "lat": 57.71,
+ "location": "Göteborg",
+ "lon": 11.97,
+ "make": "1976",
+ "motor_size": null,
+ "price": 20000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 20000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1640334687826667/"
+}

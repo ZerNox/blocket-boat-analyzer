@@ -1,0 +1,58 @@
+{
+ "ad_id": 1694090921726641,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 20 dc",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:17:23.686Z",
+ "found_by": [
+  "marketplace",
+  "\"Ryds 620\""
+ ],
+ "heading": "Ryds 20 dc",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.30808-6/726827344_2438263276667993_8496972031615154749_n.jpg?stp=c0.141.1344.1344a_dst-jpg_tt6&cstp=mx1344x1344&ctp=s261x260&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=uGTC8TFJsAAQ7kNvwEvgy-U&_nc_oc=AdrQG7zHPyTw55WOLTsfO9DxQj8_WB0GtiVI_7qWdKalxm74XWMUN7Fj482smRwsdBo&_nc_zt=23&_nc_ht=scontent.farn1-2.fna&_nc_gid=IlbVzCL8fXYPoyfe6K7lCg&_nc_ss=7f289&oh=00_AQPCgDdVMWfyDMQjc9VWllFGpXwdkQ057ksx2S6cv2DHSA&oe=6AD24400",
+ "last_seen": "2026-10-12",
+ "lat": 58.57,
+ "location": "Färgelanda",
+ "lon": 11.99,
+ "make": "Ryds",
+ "motor_size": null,
+ "price": 170000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 170000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1694090921726641/"
+}

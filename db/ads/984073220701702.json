@@ -1,0 +1,58 @@
+{
+ "ad_id": 984073220701702,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 120.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:20.299Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 620\""
+ ],
+ "heading": "Flipper 620 120hp",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.30808-6/732103220_2890057508006919_4505673229794962235_n.jpg?stp=c280.0.720.720a_dst-jpg_tt6&cstp=mx720x720&ctp=s261x260&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=e8X_-SDJKVQQ7kNvwG0GAAO&_nc_oc=AdooGYC5t39kNo45AH4_PDWUabhwCqKFuMz4NAcPQ6bZzoigcDuj0ICZuJ0BljHL2xA&_nc_zt=23&_nc_ht=scontent.farn1-2.fna&_nc_gid=O-bBeYFo3pRVQeDtyOVvWw&_nc_ss=7f289&oh=00_AQOhh8I-e1w63Wb5zqVu1VBTpeypDDZnoPzpwzvDVnMiMQ&oe=6AD243A4",
+ "last_seen": "2026-10-12",
+ "lat": 59.86,
+ "location": "Uppsala",
+ "lon": 17.64,
+ "make": "Flipper",
+ "motor_size": 120.0,
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 80000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/984073220701702/"
+}

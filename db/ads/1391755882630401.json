@@ -1,0 +1,58 @@
+{
+ "ad_id": 1391755882630401,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 535 ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:19:01.240Z",
+ "found_by": [
+  "marketplace",
+  "\"Örnvik 530\""
+ ],
+ "heading": "Örnvik 535 ht",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/789612875_1389332789407726_1724427323049915353_n.jpg?stp=c0.149.261.261a_dst-jpg_p261x260_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=5188K6jIaX4Q7kNvwGXO2eJ&_nc_oc=Adpag99b3jhiiRemOES3oF4k4QGHrYDHphHp-2zVt32hPHoh1g5K5-mz1qFzINwNSfU&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=OhHiMyR15KvxRuXazY4EHw&_nc_ss=7f289&oh=00_AQMWj_cuoUf9wPhpXwxRRmf9z5PbblmEqV61tbsuHTseRg&oe=6AD248EE",
+ "last_seen": "2026-10-12",
+ "lat": 57.72,
+ "location": "Borås",
+ "lon": 12.94,
+ "make": "Örnvik",
+ "motor_size": null,
+ "price": 18000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 18000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1391755882630401/"
+}

@@ -1,0 +1,63 @@
+{
+ "ad_id": 1114272961002061,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellbågar Yamarin 59 HT!",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Kapellbågar Yamarin 59 HT!",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:10:49.374Z",
+ "found_by": [
+  "marketplace",
+  "\"Yamarin 59\""
+ ],
+ "heading": "Kapellbågar Yamarin 59 HT!",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/825266379_1605109291268169_622165512879702498_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=ZKaQ8PMr9QAQ7kNvwFiB6fO&_nc_oc=Adq00_i7TdK3Xu5MjTV4wgBsHcWEg41lb9lqupQT65Iy7D2SJnJPB8b5kQLgYSKej44&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=8ZSWY2JGgV5w-wTjduJbzg&_nc_ss=7f289&oh=00_AQNkKsS3hpOWz_Ixt_-HROP7McrMAXGtU1fToBM0rOqD4w&oe=6AD233BE",
+ "last_seen": "2026-10-12",
+ "lat": 59.25,
+ "location": "Sköndal",
+ "lon": 18.12,
+ "make": "Kapellbågar",
+ "motor_size": null,
+ "price": 1500,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 1500
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1114272961002061/"
+}

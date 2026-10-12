@@ -98,6 +98,7 @@
  "motor_fuel": "Diesel",
  "motor_size": 75.0,
  "motor_type": null,
+ "not_in_search_since": "2026-10-12",
  "page": {
   "description_chars": 1203,
   "fetched_ts": 1791346244780,
@@ -110,6 +111,11 @@
    "price": 15000
   }
  ],
+ "sold": {
+  "date": "2026-10-12",
+  "days_seen": 5,
+  "last_price": 15000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Djupgående": "80 cm",
@@ -128,7 +134,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "1 500 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/27183893",
  "width_cm": 0,
  "year": 1973

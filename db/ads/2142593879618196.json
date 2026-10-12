@@ -1,0 +1,62 @@
+{
+ "ad_id": 2142593879618196,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 85.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": "rnvik 550 säljes komplett med Suzuki 85 hk 2-takt och trailer/iläggningsvagn",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Örnvik 550 säljes komplett med Suzuki 85 hk 2-takt och trailer/iläggningsvagn",
+    "included": true
+   }
+  },
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:19:24.264Z",
+ "found_by": [
+  "marketplace",
+  "\"Örnvik 550\""
+ ],
+ "heading": "Örnvik 550 säljes komplett med Suzuki 85 hk 2-takt och trailer/iläggningsvagn",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.30808-6/721576099_10228791578727594_2493890519968048962_n.jpg?stp=c128.0.765.765a_dst-jpg_tt6&cstp=mx765x765&ctp=s261x260&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=AXpArshpYQsQ7kNvwEHkGaK&_nc_oc=AdrFocN-ZFvgytzyoUrteZwzUVwyOw7oZ1ZxdLfC23vC2MNsupJ8B3XRsLuphFFYyJw&_nc_zt=23&_nc_ht=scontent.farn1-2.fna&_nc_gid=EdavmIf0X4iVoUogVfmkcQ&_nc_ss=7f289&oh=00_AQMMs1ddeQ1Ip2CMk74XFWCuPCacUMTGT70ZpkXfGGOYqg&oe=6AD2420F",
+ "last_seen": "2026-10-12",
+ "lat": 61.47,
+ "location": "Arbrå",
+ "lon": 16.38,
+ "make": "Örnvik",
+ "motor_size": 85.0,
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 35000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/2142593879618196/"
+}

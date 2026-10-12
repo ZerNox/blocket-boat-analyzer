@@ -1,0 +1,57 @@
+{
+ "ad_id": 1041315051747454,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 115.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Bella 640 HT med Yamaha 115hk motor",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Bella 640 HT med Yamaha 115hk motor",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:10:16.090Z",
+ "found_by": [
+  "marketplace",
+  "\"Bella 640\""
+ ],
+ "heading": "Bella 640 HT med Yamaha 115hk motor",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/742020290_1510450163622588_4770797269851160955_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=jztLq_-0GccQ7kNvwGqvcak&_nc_oc=AdoeLldwksPfbBjG9x2gS8RC7ff5zofpPDIeKznCh5j6pXK2SMePps2hK6qY7qvYAkc&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=LHG_XDfjdbUT62YGJzMdLw&_nc_ss=7f289&oh=00_AQOo4MHNgvQvF8EmPHXtdZ_lG0bElvjjZjbVkB9zVsxZ4Q&oe=6AD22ECD",
+ "last_seen": "2026-10-12",
+ "lat": 59.78,
+ "location": "Fjärdhundra",
+ "lon": 16.93,
+ "make": "Bella",
+ "motor_size": 115.0,
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 75000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1041315051747454/"
+}

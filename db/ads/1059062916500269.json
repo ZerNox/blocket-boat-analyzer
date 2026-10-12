@@ -1,0 +1,58 @@
+{
+ "ad_id": 1059062916500269,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:14:36.331Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 535\""
+ ],
+ "heading": "Flipper 510",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/741454032_1400366771919248_3575375709859374328_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=DkFOhl3PcAQQ7kNvwHWks2i&_nc_oc=AdpwrDqXmgMwOqv-DWrIib139ZXOLnnITzhFlO6lcq4zCz5KRfc6wfBXc34ZAZYrtL0&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=PoZ6nWLbwSFDQq78j3vDqw&_nc_ss=7f289&oh=00_AQPBWwzBYXqUY8AFrNnfsl9zdRa1u96q5xRVNjwkA99cvw&oe=6AD2409A",
+ "last_seen": "2026-10-12",
+ "lat": 59.71,
+ "location": "Örsundsbro",
+ "lon": 17.29,
+ "make": "Flipper",
+ "motor_size": null,
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 35000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1059062916500269/"
+}

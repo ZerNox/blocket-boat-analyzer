@@ -1,0 +1,58 @@
+{
+ "ad_id": 2042484183026901,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:20.299Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 620\""
+ ],
+ "heading": "Flipper 620",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/768317218_28905340135738600_939244200316117105_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=NSGVNeEcWkoQ7kNvwGN3nCL&_nc_oc=AdrtYdJqANXgonLhbeTurvcJoVbq10R-TI6SQb8-CwXZiGvu-55kaRj6TK77G8oIJJs&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=O-bBeYFo3pRVQeDtyOVvWw&_nc_ss=7f289&oh=00_AQMM_Xw0oaChEHO2qG4fM3h5RL0BHNN-GByaUz30bz9RZQ&oe=6AD21DA4",
+ "last_seen": "2026-10-12",
+ "lat": 59.03,
+ "location": "Bengtsfors",
+ "lon": 12.23,
+ "make": "Flipper",
+ "motor_size": null,
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 75000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/2042484183026901/"
+}

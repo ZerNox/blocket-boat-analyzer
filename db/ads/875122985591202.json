@@ -1,0 +1,58 @@
+{
+ "ad_id": 875122985591202,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 510ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:10:33.043Z",
+ "found_by": [
+  "marketplace",
+  "\"Örnvik 510\""
+ ],
+ "heading": "Flipper 510ht",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/835098531_1646616167167743_2570704607626732898_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=YrtDhnQQZLQQ7kNvwFU0H0l&_nc_oc=Adon-Sgitq36mB3tqlfBYXDN1DfoMQlokwI5Z0oQPwXlo9cd-iyfRpb3fcbl9w03LaA&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=eFuaeC4Ymvw81S7QzFBwJw&_nc_ss=7f289&oh=00_AQMb8j9B7v0bQKKirJkA1obF6jA3CiWc1Gu4ZMvAHT-sqA&oe=6AD2386D",
+ "last_seen": "2026-10-12",
+ "lat": 60.0,
+ "location": "Fagersta",
+ "lon": 15.79,
+ "make": "Flipper",
+ "motor_size": null,
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 55000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/875122985591202/"
+}

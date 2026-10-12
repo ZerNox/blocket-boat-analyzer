@@ -1,0 +1,58 @@
+{
+ "ad_id": 2159293248318854,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 80.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:08:42.195Z",
+ "found_by": [
+  "marketplace",
+  "\"Ryds camping\""
+ ],
+ "heading": "Ryds camping 565 med mercury 80 hk",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.30808-6/831641570_10164461598256865_4780903638988134098_n.jpg?stp=c0.359.912.912a_dst-jpg_tt6&cstp=mx912x912&ctp=s261x260&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=au9uhHug7KsQ7kNvwHoBnYU&_nc_oc=AdoaPIPZnHgyJqVWGncqMigov13pHJp7s0Z43uYZd-hd_JasbpOZRM0zzUFPAXjQYg4&_nc_zt=23&_nc_ht=scontent.farn1-2.fna&_nc_gid=-K5m3v1APAWkEsEd1deJWg&_nc_ss=7f289&oh=00_AQN_eM5OYRTJ0WDk_VIpJNjporTAAy_eQPaLTopnoqCCig&oe=6AD21724",
+ "last_seen": "2026-10-12",
+ "lat": 59.32,
+ "location": "Skoghall",
+ "lon": 13.47,
+ "make": "Ryds",
+ "motor_size": 80.0,
+ "price": 13000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 13000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/2159293248318854/"
+}

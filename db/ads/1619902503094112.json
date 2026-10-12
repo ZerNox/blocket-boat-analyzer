@@ -1,0 +1,64 @@
+{
+ "ad_id": 1619902503094112,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Uttern 560ht med 30-trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 560ht med 30-trailer",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:15:33.130Z",
+ "found_by": [
+  "marketplace",
+  "\"Uttern 560\""
+ ],
+ "heading": "Uttern 560ht med 30-trailer",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.30808-6/806280554_10162718854027687_1429560295373054052_n.jpg?stp=c538.0.924.924a_dst-jpg_tt6&cstp=mx924x924&ctp=s261x260&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=G8n1Iw2R5EgQ7kNvwEay7sh&_nc_oc=Adqc3km4jIjxO2luPPcClznK2VdYjWgsUBRaki6EvnTTbaQL6MxOFkqgaAH2IQu1xfE&_nc_zt=23&_nc_ht=scontent.farn1-2.fna&_nc_gid=eRqkCRV4zzmDks_0_7CPtw&_nc_ss=7f289&oh=00_AQNfn1aY8tHU2qKAPfc7wplbLuO3JIoo_woalCyJBUxPow&oe=6AD24349",
+ "last_seen": "2026-10-12",
+ "lat": 55.98,
+ "location": "Rinkaby",
+ "lon": 14.27,
+ "make": "Uttern",
+ "motor_size": null,
+ "price": 23000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 23000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1619902503094112/"
+}

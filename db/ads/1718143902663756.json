@@ -1,0 +1,57 @@
+{
+ "ad_id": 1718143902663756,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 300.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "TPRIS! Flipper 670 DC Mercury Verado 300hk",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "HÖSTPRIS! Flipper 670 DC Mercury Verado 300hk",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:40.785Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 630\""
+ ],
+ "heading": "HÖSTPRIS! Flipper 670 DC Mercury Verado 300hk",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.30808-6/751001357_4072356353073871_4536438056812601363_n.jpg?stp=c0.416.1080.1080a_dst-jpg_tt6&cstp=mx1080x1080&ctp=s261x260&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=LNLSC02sUrsQ7kNvwEc-Pmi&_nc_oc=Adqbcrkc5qkZjKyHCbNP7B_lvopAh7xNqrtfWMcUelDZmxx1UqdItxHte5wv18oRgmE&_nc_zt=23&_nc_ht=scontent.farn1-2.fna&_nc_gid=z2Y6nBPrO6LQQ-fZVEhTWw&_nc_ss=7f289&oh=00_AQPk8HF7grCAQbPPyT_0Oq3OOQ9RLpXbF83QevqnjqxOeg&oe=6AD21BCD",
+ "last_seen": "2026-10-12",
+ "lat": 58.07,
+ "location": "Stenungsund",
+ "lon": 11.82,
+ "make": "HÖSTPRIS!",
+ "motor_size": 300.0,
+ "price": 500000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 500000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1718143902663756/"
+}

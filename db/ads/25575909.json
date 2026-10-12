@@ -1,7 +1,7 @@
 {
  "ad_id": 25575909,
  "boat_class": "Daycruiser",
- "changed_ts": 1789648193000,
+ "changed_ts": 1791705050000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1996,
@@ -28,10 +28,6 @@
     "evidence": "Populär smidig allroundbåt fin och välutrustad mycket gjort förra året .Båtbotten renslipades grundades med epoxi samt …",
     "included": true
    },
-   "kapell": {
-    "evidence": "Populär smidig allroundbåt fin och välutrustad mycket gjort förra året .Båtbotten renslipades grundades med epoxi samt …",
-    "included": true
-   },
    "plotter": {
     "evidence": "Populär smidig allroundbåt fin och välutrustad mycket gjort förra året .Båtbotten renslipades grundades med epoxi samt …",
     "included": true
@@ -44,7 +40,7 @@
   },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "styrning Nyklädda dynor i ruff .Ny elpanel ledlampor och strålkastare .Motor servades i höstas med olje sa",
+  "hull_evidence": "styrning Nyklädda dynor i ruff .Ny elpanel ledlampor och strålkastare .Lowrance ekolod Ankare fendrar och",
   "hull_source": "rule:text",
   "llm_reasons": [
    "no engine year found"
@@ -59,24 +55,23 @@
   "kategori"
  ],
  "heading": "Ryds motorbåt",
- "image": "https://images.blocketcdn.se/dynamic/default/item/25575909/73352c97-2229-4117-8388-0c8922cc0005",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25575909/8b1e00c4-1285-4851-a55e-de08f8a90ada",
  "image_urls": [
-  "https://images.blocketcdn.se/dynamic/default/item/25575909/73352c97-2229-4117-8388-0c8922cc0005",
-  "https://images.blocketcdn.se/dynamic/default/item/25575909/332b6d73-7655-484f-9bad-9932b2defb54",
   "https://images.blocketcdn.se/dynamic/default/item/25575909/8b1e00c4-1285-4851-a55e-de08f8a90ada",
   "https://images.blocketcdn.se/dynamic/default/item/25575909/2811ec5e-2d38-415d-a25b-fd7930490f59",
   "https://images.blocketcdn.se/dynamic/default/item/25575909/19207502-7411-4cf4-9771-948f18fa99de",
   "https://images.blocketcdn.se/dynamic/default/item/25575909/e59a5b9a-4bce-437f-bb8d-327c91c0bbc6",
   "https://images.blocketcdn.se/dynamic/default/item/25575909/bcd38e9d-3b0b-4170-99fb-d7ab12607e5c",
-  "https://images.blocketcdn.se/dynamic/default/item/25575909/eb0eb364-dcfd-4824-8ac0-48ea81bacd98",
   "https://images.blocketcdn.se/dynamic/default/item/25575909/d0f62e9a-2dc2-4e12-8ce7-a655a7a571e0",
-  "https://images.blocketcdn.se/dynamic/default/item/25575909/556971ec-dfdd-4280-bc99-1d96fc0ca56e"
+  "https://images.blocketcdn.se/dynamic/default/item/25575909/556971ec-dfdd-4280-bc99-1d96fc0ca56e",
+  "https://images.blocketcdn.se/dynamic/default/item/25575909/65a3bb6a-14a4-4822-8065-20550e33f2dd",
+  "https://images.blocketcdn.se/dynamic/default/item/25575909/6f4a62dc-f7c6-402b-95d4-8a9ae7802736"
  ],
- "last_seen": "2026-10-09T04:06:03+00:00",
+ "last_seen": "2026-10-12T04:21:20+00:00",
  "lat": 58.59,
  "length_ft": 17,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-12",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1996,
@@ -85,22 +80,27 @@
    "engine_maker": "Suzuki",
    "engine_type": "outboard",
    "engine_year": null,
-   "engine_year_evidence": "Motor servades i höstas med olje samt filterbyte ny impeller och packningar.",
+   "engine_year_evidence": null,
    "equipment": {
     "ekolod": "included",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "included",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
     "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
-    "trailer": "included",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "3b883bf907bb5d9e"
+  "text_sha": "03554dc2d7ad2ce4"
  },
  "location": "Lidköping",
  "lon": 13.04,
@@ -111,11 +111,11 @@
  "motor_type": "Utombordare",
  "not_in_search_since": "2026-10-10",
  "page": {
-  "description_chars": 366,
-  "fetched_ts": 1791173633818,
-  "text_sha": "3b883bf907bb5d9e"
+  "description_chars": 278,
+  "fetched_ts": 1791779173875,
+  "text_sha": "03554dc2d7ad2ce4"
  },
- "price": 56000,
+ "price": 55000,
  "price_history": [
   {
    "date": "2026-09-27",
@@ -128,6 +128,10 @@
   {
    "date": "2026-10-06",
    "price": 56000
+  },
+  {
+   "date": "2026-10-12",
+   "price": 55000
   }
  ],
  "specs": {
@@ -150,7 +154,7 @@
   "Typ": "Daycruiser",
   "Vikt": "450 kg"
  },
- "status": "inactive",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/25575909",
  "width_cm": 203,
  "year": 1996

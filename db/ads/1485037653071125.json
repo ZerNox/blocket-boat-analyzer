@@ -1,0 +1,58 @@
+{
+ "ad_id": 1485037653071125,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "2004 Flipper 630 ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:40.785Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 630\""
+ ],
+ "heading": "2004 Flipper 630 ht",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/680134994_1157096826543155_8704764284185181207_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=1giwFjxDgBkQ7kNvwEPQ2DY&_nc_oc=Adp9_910_XSWM-GqG_v08TQZ1va-RRiARgholJZSqzhoGUc90oJWGmQjRs-sO3-El7o&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=z2Y6nBPrO6LQQ-fZVEhTWw&_nc_ss=7f289&oh=00_AQOAbZ9xd2kI1cDM-9NAEgFQihSgyRlg-BPRha8woNmruA&oe=6AD21DF8",
+ "last_seen": "2026-10-12",
+ "lat": null,
+ "location": "Skarpö",
+ "lon": null,
+ "make": "2004",
+ "motor_size": null,
+ "price": 220000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 220000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1485037653071125/"
+}

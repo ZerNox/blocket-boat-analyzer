@@ -1,0 +1,58 @@
+{
+ "ad_id": 1316063383940873,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:20.299Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 620\""
+ ],
+ "heading": "Flipper 620",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/761584755_1340128824943121_8857755122105230190_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=zNMulHfCUwoQ7kNvwE5gscx&_nc_oc=Ado3nhS43EcA8EcFOU-Mpb7t_oQ_Kkei3d-095YDca7OI26VHMh0QBESttq_LTLfoDw&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=O-bBeYFo3pRVQeDtyOVvWw&_nc_ss=7f289&oh=00_AQPxd3IfJU9qhnSXyqXN1KLQkPWfg3YMAFVCIRf2dGAU9w&oe=6AD22418",
+ "last_seen": "2026-10-12",
+ "lat": 58.38,
+ "location": "Vänersborg",
+ "lon": 12.32,
+ "make": "Flipper",
+ "motor_size": null,
+ "price": 79000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 79000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1316063383940873/"
+}

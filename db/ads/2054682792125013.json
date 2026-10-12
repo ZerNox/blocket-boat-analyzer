@@ -1,0 +1,63 @@
+{
+ "ad_id": 2054682792125013,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Uttern 5500 DC ink trailer",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 5500 DC ink trailer",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:11:25.117Z",
+ "found_by": [
+  "marketplace",
+  "\"Uttern D55\""
+ ],
+ "heading": "Uttern 5500 DC ink trailer",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/684211918_3065287070321963_5040799389765423041_n.jpg?stp=c0.151.261.261a_dst-jpg_p261x260_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=ReceLVTMsAIQ7kNvwEJqMgM&_nc_oc=AdpFSjEv5mJypMZhgwnBszCJoz3LsRYXdK86-32nwlt-9MuiLiRbTSGYNGXAIM7ssfs&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=B6Sd6MAdraHlZauCi4qcVg&_nc_ss=7f289&oh=00_AQMZCBynDO-g4mPahGu3fHKjzzxwd8RHZUcHXdqW37VXIQ&oe=6AD2190D",
+ "last_seen": "2026-10-12",
+ "lat": 58.36,
+ "location": "Kungshamn",
+ "lon": 11.26,
+ "make": "Uttern",
+ "motor_size": null,
+ "price": 99900,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 99900
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/2054682792125013/"
+}

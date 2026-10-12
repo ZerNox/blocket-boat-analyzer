@@ -1,0 +1,58 @@
+{
+ "ad_id": 1021842367130127,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 510. HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:10:33.043Z",
+ "found_by": [
+  "marketplace",
+  "\"Örnvik 510\""
+ ],
+ "heading": "Örnvik 510. HT",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/763098281_1535765797495352_2481991136912172531_n.jpg?stp=c0.101.261.261a_dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=mfcnuQ_vdv8Q7kNvwGd9xAr&_nc_oc=Adqbt6vtK_FUZaGCUVHJ0PYgrdpiYAKxtEgLU8Rc7MtyWjY-eq-eJn7xS548_VLiM4s&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=eFuaeC4Ymvw81S7QzFBwJw&_nc_ss=7f289&oh=00_AQPBi4D3OoKYqGUHcoB8MOBEm6VMeic-uoXB4yyu3enl0Q&oe=6AD21A67",
+ "last_seen": "2026-10-12",
+ "lat": 60.95,
+ "location": "Norrsundet",
+ "lon": 17.13,
+ "make": "Örnvik",
+ "motor_size": null,
+ "price": 6000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 6000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1021842367130127/"
+}

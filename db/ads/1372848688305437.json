@@ -1,0 +1,58 @@
+{
+ "ad_id": 1372848688305437,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:20:23.417Z",
+ "found_by": [
+  "marketplace",
+  "\"Fjordling 17\""
+ ],
+ "heading": "Ockelbo T17 i",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/761285551_1395585472480039_7555131472247690450_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=NmynB5fh1x8Q7kNvwEY0-Nb&_nc_oc=AdrItPLXGpOPZpPUB4OL6bzSqNa2fLMBaGdBIyYBCQpd5xzg7o3j3VNAowtdV2UNjRY&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=dmGO0k-_aNIiksvYob3xcQ&_nc_ss=7f289&oh=00_AQOsAdXlFuOjN8_h1lPH1pUvQFaX0hqzW9BLQIBQHDiSaQ&oe=6AD2182C",
+ "last_seen": "2026-10-12",
+ "lat": 57.87,
+ "location": "Kungälv",
+ "lon": 11.98,
+ "make": "Ockelbo",
+ "motor_size": null,
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 55000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1372848688305437/"
+}

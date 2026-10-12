@@ -1,0 +1,58 @@
+{
+ "ad_id": 932383259329199,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 630 HT Väldigt bra skick!",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:20.299Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 620\""
+ ],
+ "heading": "Flipper 630 HT Väldigt bra skick!",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/793203939_913734691418062_760244168239271309_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=fzYFyLvW-6sQ7kNvwEHXtfF&_nc_oc=Adpms2-bNE4mZRpnKwK0hv73AQowlzNwtITm39fH23Nao6_WXbRzxD7vw-GqUkoEGLI&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=O-bBeYFo3pRVQeDtyOVvWw&_nc_ss=7f289&oh=00_AQN8lSc8p-j0Jo40AvNq7n3sr15U87GlEs6CAa9nWDwFFQ&oe=6AD216D4",
+ "last_seen": "2026-10-12",
+ "lat": 57.93,
+ "location": "Alingsås",
+ "lon": 12.53,
+ "make": "Flipper",
+ "motor_size": null,
+ "price": 99000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 99000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/932383259329199/"
+}

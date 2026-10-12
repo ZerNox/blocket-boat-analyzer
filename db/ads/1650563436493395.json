@@ -1,0 +1,57 @@
+{
+ "ad_id": 1650563436493395,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Sandström 560 Tohatsu 60 hk",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:15:13.695Z",
+ "found_by": [
+  "marketplace",
+  "\"Sandström 560\""
+ ],
+ "heading": "Sandström 560 Tohatsu 60 hk",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/818365447_1630258655367106_5803905549390719368_n.jpg?stp=c0.0.261.261a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=5m95V9ufyFgQ7kNvwERo-Iw&_nc_oc=Adq2sHODPzk7hO7VdzWjrXRdGMyKVODU7mc4JPh9FinHdT8zp5pRYcjNAp58WBSjoDE&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=Jv1xX-8MZqr2qqaSKDY29w&_nc_ss=7f289&oh=00_AQPPPHkNUNLNO3zMYa4pnugwErT74Iluiw_m9FdpIc25fA&oe=6AD24CBF",
+ "last_seen": "2026-10-12",
+ "lat": 57.71,
+ "location": "Bohus-Björkö",
+ "lon": 11.64,
+ "make": "Sandström",
+ "motor_size": 60.0,
+ "price": 219000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 219000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1650563436493395/"
+}

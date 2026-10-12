@@ -1,0 +1,64 @@
+{
+ "ad_id": 1629141661492651,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 65.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Fogelsta 30-kärra",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Komplett & nyservad Örnvik 530 HT (65hk) inkl. Fogelsta 30-kärra",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:19:01.240Z",
+ "found_by": [
+  "marketplace",
+  "\"Örnvik 530\""
+ ],
+ "heading": "Komplett & nyservad Örnvik 530 HT (65hk) inkl. Fogelsta 30-kärra",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/719649228_27376474958613340_7111514328798787582_n.jpg?stp=c0.101.261.261a_dst-jpg_p261x260_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=OUUe5OftnH8Q7kNvwHsFLye&_nc_oc=AdprrU7Kxv57VHPYKrVuTvpGvZs4p-p9RSGRAwukaV2IY5oYAKqwu4B2byjwzLdNET8&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=OhHiMyR15KvxRuXazY4EHw&_nc_ss=7f289&oh=00_AQNbJ4U7R_C9Eij7eTZNzdUDNF8yP9xaBNgtP-456PhgsA&oe=6AD21C16",
+ "last_seen": "2026-10-12",
+ "lat": 58.71,
+ "location": "Töreboda",
+ "lon": 14.13,
+ "make": "Komplett",
+ "motor_size": 65.0,
+ "price": 30000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 30000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1629141661492651/"
+}

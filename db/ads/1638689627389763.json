@@ -1,0 +1,57 @@
+{
+ "ad_id": 1638689627389763,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Flipper Flash 6m DC Mercury 90 4takt",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper Flash 6m DC Mercury 90 4takt",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:20.299Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 620\""
+ ],
+ "heading": "Flipper Flash 6m DC Mercury 90 4takt",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/687486809_1500624328316405_8773827657997464639_n.jpg?stp=c101.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=4efi1mTBwFoQ7kNvwEihY76&_nc_oc=Adr6n3jWHc9iMvd_DtwjdVtrTx3GcKlWVic64iuJSdsBBoYsAECQ1sW5pS2UN9XBhtQ&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=O-bBeYFo3pRVQeDtyOVvWw&_nc_ss=7f289&oh=00_AQOSH09rGyEfKXEoLytee07hMDADNnJ9_dzfLZoabf4YaQ&oe=6AD21935",
+ "last_seen": "2026-10-12",
+ "lat": 57.32,
+ "location": "Frillesås",
+ "lon": 12.17,
+ "make": "Flipper",
+ "motor_size": null,
+ "price": 59000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 59000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1638689627389763/"
+}

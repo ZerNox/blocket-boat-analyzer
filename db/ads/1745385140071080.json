@@ -1,0 +1,58 @@
+{
+ "ad_id": 1745385140071080,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Yamarin 64DC 2008",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:13:35.500Z",
+ "found_by": [
+  "marketplace",
+  "\"Yamarin 64\""
+ ],
+ "heading": "Yamarin 64DC 2008",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/782208527_1713472763042867_1109336105844928924_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=h6rQUf2hGB8Q7kNvwGbRMWi&_nc_oc=Adr0Zosp4XCTGyFJ2284cnQEk6PM19XEpZoNUX7Gk5U7qVq2Rr_QTryCFX2UQfUMCzw&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=k_EZo2Cwlr6p9Y--Hn_HLQ&_nc_ss=7f289&oh=00_AQP_NM3GtCU1vNS9ed_kKHocSX9QwFDblaTvBpJviHixhQ&oe=6AD24882",
+ "last_seen": "2026-10-12",
+ "lat": 57.71,
+ "location": "Göteborg",
+ "lon": 11.97,
+ "make": "Yamarin",
+ "motor_size": null,
+ "price": 280000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 280000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1745385140071080/"
+}

@@ -12,12 +12,12 @@
   "engine_maker": null,
   "engine_stroke": null,
   "engine_type": "outboard",
-  "engine_type_evidence": "id. kärra ingår. Har även en Evinrude 175hk 2003 som kan säljas med och då blir priset 100k Ring vid intresse! 0768434",
+  "engine_type_evidence": "id. kärra ingår. Har även en Evinrude 175hk 2003 som kan säljas med för rätt pris. Gärna bytes mot annan båt! Ring vi",
   "engine_type_source": "rule:model",
   "engine_year": 2003,
   "engine_year_est": null,
   "engine_year_est_reason": null,
-  "engine_year_evidence": "Har även en Evinrude 175hk 2003 som kan säljas med och då blir priset 100k",
+  "engine_year_evidence": "Har även en Evinrude 175hk 2003 som kan säljas med för rätt pris.",
   "engine_year_source": "rule:text",
   "equipment": {
    "trailer": {
@@ -35,7 +35,7 @@
    "project"
   ],
   "rules_version": 8,
-  "swap_offered": false
+  "swap_offered": true
  },
  "first_seen": "2026-09-27T14:48:38+00:00",
  "found_by": [
@@ -47,7 +47,7 @@
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/26662692/da0a09f2-1e1b-4a96-a9b6-46e8dd1995b7"
  ],
- "last_seen": "2026-10-11T04:08:47+00:00",
+ "last_seen": "2026-10-12T04:21:20+00:00",
  "lat": 59.44,
  "length_ft": 17,
  "llm": {
@@ -85,9 +85,9 @@
  "motor_size": null,
  "motor_type": null,
  "page": {
-  "description_chars": 254,
-  "fetched_ts": 1791173861108,
-  "text_sha": "510b9e88b3b21bd5"
+  "description_chars": 273,
+  "fetched_ts": 1791779380958,
+  "text_sha": "67d1318ff41a0e8b"
  },
  "price": 40000,
  "price_history": [

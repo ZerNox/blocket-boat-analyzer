@@ -1,0 +1,58 @@
+{
+ "ad_id": 1062912346367413,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 550 ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:19:24.264Z",
+ "found_by": [
+  "marketplace",
+  "\"Örnvik 550\""
+ ],
+ "heading": "Örnvik 550 ht",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/825274192_2968104580205027_2034023723350585885_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=cLRU7jnRcgwQ7kNvwFxVisE&_nc_oc=Adq-kQ5d5ikEmKEaQF704jfsoAsdixwWMY6DhvtQ0KR6MJ4dILonaB73xEQTg9cOP1Y&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=EdavmIf0X4iVoUogVfmkcQ&_nc_ss=7f289&oh=00_AQMSU11QuskVShP9opxjXv13_EEXRlMfrgsTg863oznPIQ&oe=6AD24356",
+ "last_seen": "2026-10-12",
+ "lat": 61.3,
+ "location": "Söderhamn",
+ "lon": 17.06,
+ "make": "Örnvik",
+ "motor_size": null,
+ "price": 24000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 24000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1062912346367413/"
+}

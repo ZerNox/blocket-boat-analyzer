@@ -1,0 +1,58 @@
+{
+ "ad_id": 1922247541788924,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Sandström 5.60 mc",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:15:13.695Z",
+ "found_by": [
+  "marketplace",
+  "\"Sandström 560\""
+ ],
+ "heading": "Sandström 5.60 mc",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/740249344_3553605028142303_8860134336210520861_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=64sPn_z8bCUQ7kNvwEBil3P&_nc_oc=AdroUv26uEEA_c8fxjUq3cSv_3lLNzyvgvO-MZOn4r1JiwESjZS6vVFtPlJKQ6I__Yk&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=Jv1xX-8MZqr2qqaSKDY29w&_nc_ss=7f289&oh=00_AQMbB7_QO11ZtCQWXhXOZfxSYnKvKjyz2mracOaajEAnvA&oe=6AD22095",
+ "last_seen": "2026-10-12",
+ "lat": 59.42,
+ "location": "Kungsör",
+ "lon": 16.1,
+ "make": "Sandström",
+ "motor_size": null,
+ "price": 120000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 120000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1922247541788924/"
+}

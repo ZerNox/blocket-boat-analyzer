@@ -1,0 +1,58 @@
+{
+ "ad_id": 1861069191226274,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "2008 Flipper 640 ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:59.111Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 640\""
+ ],
+ "heading": "2008 Flipper 640 ht",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/704682031_872996805815103_2687316284977911674_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=hCSysGxXH_QQ7kNvwHXOF2Y&_nc_oc=Adp8p4gUmYgZaZoPqXDnS5xMh5-JjJ4X_7dUo21D7sl3xad1xEFaAGC3C_NJ1ctschQ&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=KUx1rrunwJ5Va1wmxuwwmg&_nc_ss=7f289&oh=00_AQPibS-818t21UvSKwdUkGGjFHiahXHRu5Nx8HZAZr5-fw&oe=6AD21EAD",
+ "last_seen": "2026-10-12",
+ "lat": 59.33,
+ "location": "Stockholm",
+ "lon": 18.06,
+ "make": "2008",
+ "motor_size": null,
+ "price": 22000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 22000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1861069191226274/"
+}

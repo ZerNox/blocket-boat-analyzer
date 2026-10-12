@@ -1,0 +1,58 @@
+{
+ "ad_id": 27544102665210310,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:16:27.719Z",
+ "found_by": [
+  "marketplace",
+  "\"Uttern D65\""
+ ],
+ "heading": "Uttern s65",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/752833211_2125179228209550_9135462615332091941_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=PQ04D29kvfIQ7kNvwFpBzIF&_nc_oc=AdrzAhfOCSf-xU16XRIIGQwOwuSUGzFiDbMUzVG2J2KI3zXLCtvIviHwN7Y8QofojEk&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=oEMQLchZcvO44NfJfQH4Bw&_nc_ss=7f289&oh=00_AQNamJC30HHvp2sE7Qtrg2d8eClw12jxkXoGDAnOpwNVHQ&oe=6AD23BDD",
+ "last_seen": "2026-10-12",
+ "lat": 57.71,
+ "location": "Göteborg",
+ "lon": 11.97,
+ "make": "Uttern",
+ "motor_size": null,
+ "price": 650000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 650000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/27544102665210310/"
+}

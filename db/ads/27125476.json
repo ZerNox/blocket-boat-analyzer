@@ -50,7 +50,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27125476/875b4909-1bbc-4460-bf29-7d9392df75c9",
   "https://images.blocketcdn.se/dynamic/default/item/27125476/f680db34-8a07-4692-8ee0-b785a769df43"
  ],
- "last_seen": "2026-10-11T04:08:47+00:00",
+ "last_seen": "2026-10-12T04:21:20+00:00",
  "lat": 59.26,
  "length_ft": 1,
  "location": "Ingarö",
@@ -61,9 +61,9 @@
  "motor_size": 80.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 1345,
-  "fetched_ts": 1791173908966,
-  "text_sha": "8660d377a1397938"
+  "description_chars": 1344,
+  "fetched_ts": 1791779422674,
+  "text_sha": "77a0dc86cc37f6ca"
  },
  "price": 150000,
  "price_history": [

@@ -1,0 +1,58 @@
+{
+ "ad_id": 1069242905802848,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:08:42.195Z",
+ "found_by": [
+  "marketplace",
+  "\"Ryds camping\""
+ ],
+ "heading": "Ryds camping",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/782208582_28267906229488387_8135324887628540818_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=EYlEzU5F6eoQ7kNvwHmEb00&_nc_oc=Ado_gS91_6H49JIEQ4Sdhk5OCalGjxgRmTaVi91ciHzIaJsc2SjhRIYpQV8sFIF0tIo&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=-K5m3v1APAWkEsEd1deJWg&_nc_ss=7f289&oh=00_AQN6GIt-r8Mthc_NXwA4zAoqXsASYembO9vpGf2HMoJg1Q&oe=6AD23950",
+ "last_seen": "2026-10-12",
+ "lat": 58.02,
+ "location": "Gränna",
+ "lon": 14.47,
+ "make": "Ryds",
+ "motor_size": null,
+ "price": 27000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 27000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1069242905802848/"
+}

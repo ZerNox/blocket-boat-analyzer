@@ -13,7 +13,7 @@
   "engine_stroke": null,
   "engine_type": "none",
   "engine_type_evidence": null,
-  "engine_type_source": "llm",
+  "engine_type_source": "rule:spec",
   "engine_year": null,
   "engine_year_est": 2010,
   "engine_year_est_reason": "antar originalmotor",
@@ -24,11 +24,8 @@
   "hull_certain": true,
   "hull_evidence": "Båt\nFamiljebåt med kabin i gott skick, ingen motor. Byta mot en bil…",
   "hull_source": "rule:text",
-  "llm_reasons": [
-   "engine type unknown",
-   "no engine year found"
-  ],
-  "needs_llm": true,
+  "llm_reasons": [],
+  "needs_llm": false,
   "red_flags": [],
   "rules_version": 8,
   "swap_offered": true
@@ -46,7 +43,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26440724/7b46f412-47c4-4ca8-a365-91576d05f782",
   "https://images.blocketcdn.se/dynamic/default/item/26440724/ab029ddf-bd94-42aa-ab67-557a29693fb2"
  ],
- "last_seen": "2026-10-11T04:08:47+00:00",
+ "last_seen": "2026-10-12T04:21:20+00:00",
  "lat": 58.38,
  "length_ft": 17,
  "llm": {
@@ -90,8 +87,8 @@
  "motor_type": null,
  "page": {
   "description_chars": 64,
-  "fetched_ts": 1791173816964,
-  "text_sha": "c2ab030694c045dd"
+  "fetched_ts": 1791779340008,
+  "text_sha": "0c568dd44f469b8c"
  },
  "price": 13800,
  "price_history": [
@@ -111,7 +108,8 @@
  "specs": {
   "Båtens plats": "Sverige",
   "Längd i fot": "17 fot",
-  "Modellår": "2000",
+  "Modellår": "2010",
+  "Motor inkluderad": "Nej",
   "Märke": "Ryds",
   "Typ": "Kabinbåt"
  },

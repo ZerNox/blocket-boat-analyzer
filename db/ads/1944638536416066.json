@@ -1,0 +1,57 @@
+{
+ "ad_id": 1944638536416066,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Flipper 510HT. Mariner 115 4-takt Ny besiktad 80 vagn",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 510HT. Mariner 115 4-takt Ny besiktad 80 vagn",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:20.300Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 620\""
+ ],
+ "heading": "Flipper 510HT. Mariner 115 4-takt Ny besiktad 80 vagn",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/672661055_832761765898681_6417210190171033114_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=z-liQtiSMVcQ7kNvwEE7o-s&_nc_oc=Adr3aVOOSXCH0DSFkwAsESworFuua6RXh9Cu48gwnKba8XPqJLSB02bm3Mi2iRwU8eI&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=O-bBeYFo3pRVQeDtyOVvWw&_nc_ss=7f289&oh=00_AQOMnU2msyVQCim-PmTpS5F9MxiwxVkKuVZcGXyfnKlYxA&oe=6AD234C5",
+ "last_seen": "2026-10-12",
+ "lat": 60.67,
+ "location": "Gävle",
+ "lon": 17.14,
+ "make": "Flipper",
+ "motor_size": null,
+ "price": 65000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 65000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1944638536416066/"
+}

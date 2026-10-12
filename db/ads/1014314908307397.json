@@ -1,0 +1,63 @@
+{
+ "ad_id": 1014314908307397,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Ryds Camping 560 Ht -74 /Båtvagn",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds Camping 560 Ht -74 /Båtvagn",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:08:42.195Z",
+ "found_by": [
+  "marketplace",
+  "\"Ryds camping\""
+ ],
+ "heading": "Ryds Camping 560 Ht -74 /Båtvagn",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/767001872_1568618024597840_4056849326468917541_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=PeezmoebA-wQ7kNvwHKHou-&_nc_oc=AdoiupvG1TWxJZ87zwIZyOdrKQ0WgCinSSB3IGeoQS1aWbwgj5xMoF1piXdOWDVX9Jo&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=-K5m3v1APAWkEsEd1deJWg&_nc_ss=7f289&oh=00_AQM1yy3z3-l2c5l1oCuRxbyvXTaTeAHpmK1s_0ghTTjTpw&oe=6AD217CD",
+ "last_seen": "2026-10-12",
+ "lat": 59.62,
+ "location": "Västerås",
+ "lon": 16.55,
+ "make": "Ryds",
+ "motor_size": null,
+ "price": 10000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 10000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1014314908307397/"
+}

@@ -1,0 +1,64 @@
+{
+ "ad_id": 1279977180689789,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Flipper 535, 80-trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:09:40.785Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 630\""
+ ],
+ "heading": "Flipper 535, 80-trailer",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/749258424_2087102672198476_6087604360880562898_n.jpg?stp=c43.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=fD4DOL7murUQ7kNvwHF0BUh&_nc_oc=AdoG6FtbfQFTXXmYK5DODgZtoO98letKV_J2MLDGdIdhjQkOclqXngHnlfwbM6IUnDA&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=z2Y6nBPrO6LQQ-fZVEhTWw&_nc_ss=7f289&oh=00_AQMrJF5ZBX_d7blibbJ-UQXfGMog9AA-ERlzOOXb6qnQOQ&oe=6AD21556",
+ "last_seen": "2026-10-12",
+ "lat": 55.7,
+ "location": "Lund",
+ "lon": 13.19,
+ "make": "Flipper",
+ "motor_size": null,
+ "price": 70000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 70000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1279977180689789/"
+}

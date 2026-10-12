@@ -1,0 +1,58 @@
+{
+ "ad_id": 1068119005829702,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "1991 Uttern 520 ht",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:16:27.719Z",
+ "found_by": [
+  "marketplace",
+  "\"Uttern D65\""
+ ],
+ "heading": "1991 Uttern 520 ht",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.30808-6/812940887_10175386711515123_9113833456205329307_n.jpg?stp=c163.0.874.874a_dst-jpg_tt6&cstp=mx874x874&ctp=s261x260&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=h1EAxka8N_gQ7kNvwEOCAJ2&_nc_oc=AdrUij70AsEwAMb9mCgxZZLC8rLVei0FBcYbsJ_2W_KkMLPvS068DUy4pclsBlTtv5Y&_nc_zt=23&_nc_ht=scontent.farn1-2.fna&_nc_gid=oEMQLchZcvO44NfJfQH4Bw&_nc_ss=7f289&oh=00_AQMw4YT4rDMv8Eim4OflgEcDsTL_sTbHOnOcUGQH-j8zZA&oe=6AD2487E",
+ "last_seen": "2026-10-12",
+ "lat": 59.33,
+ "location": "Stockholm",
+ "lon": 18.06,
+ "make": "1991",
+ "motor_size": null,
+ "price": 32000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 32000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1068119005829702/"
+}

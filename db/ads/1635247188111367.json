@@ -1,0 +1,57 @@
+{
+ "ad_id": 1635247188111367,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 130.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": "▪️Yamarin 6110 DC Yamaha F130-2017 få gångtimmar",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "▪️Yamarin 6110 DC Yamaha F130-2017 få gångtimmar",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:10:49.374Z",
+ "found_by": [
+  "marketplace",
+  "\"Yamarin 59\""
+ ],
+ "heading": "▪️Yamarin 6110 DC Yamaha F130-2017 få gångtimmar",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.30808-6/753241982_10163064606793404_3753064362113530152_n.jpg?stp=c586.0.877.877a_dst-jpg_tt6&cstp=mx877x877&ctp=s261x260&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=5tUrLdo7XzIQ7kNvwE_e2uI&_nc_oc=AdpX54OugHWJ3sY9AYGOBf_Xb-7hyDG9NyWoJ72WEdc3I7f6uUcM1bWA_OjwRjUq1Gc&_nc_zt=23&_nc_ht=scontent.farn1-2.fna&_nc_gid=8ZSWY2JGgV5w-wTjduJbzg&_nc_ss=7f289&oh=00_AQNsivcypLqiQr_FnfkrkRb4E2CN-ZA-ag9EbZq4AZjk2g&oe=6AD21CDE",
+ "last_seen": "2026-10-12",
+ "lat": 56.07,
+ "location": "Färlöv",
+ "lon": 14.08,
+ "make": "▪️Yamarin",
+ "motor_size": 130.0,
+ "price": 224000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 224000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1635247188111367/"
+}

@@ -1,0 +1,57 @@
+{
+ "ad_id": 2508265569620003,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Flipper 575 HT med Yamaha 70 hk",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 575 HT med Yamaha 70 hk",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:11:44.240Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 575\""
+ ],
+ "heading": "Flipper 575 HT med Yamaha 70 hk",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/766287905_1827632231557176_254946228864100166_n.jpg?stp=c131.0.260.260a_dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=JouYjtTG1ooQ7kNvwHQtPLt&_nc_oc=Adpi2OAKLKPeqzwn41oOlr8BJ6P9hu9dhP18PJXf27F2PBR9KIFteIvyjBYo78qYtTE&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=blXdEHvVAjiOki_XG6IZlg&_nc_ss=7f289&oh=00_AQN6Oni132VMb1XJZmS8_9IsDQW2N83y5RrnIlQSMgR-PA&oe=6AD232FE",
+ "last_seen": "2026-10-12",
+ "lat": 59.33,
+ "location": "Stockholm",
+ "lon": 18.06,
+ "make": "Flipper",
+ "motor_size": 70.0,
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 45000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/2508265569620003/"
+}

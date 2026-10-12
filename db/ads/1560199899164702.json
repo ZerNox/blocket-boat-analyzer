@@ -1,0 +1,57 @@
+{
+ "ad_id": 1560199899164702,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 4,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": 2016,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Uttern 590, Mercury 4-takt 100hk 2016.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "hull": null,
+  "hull_certain": false,
+  "hull_evidence": null,
+  "hull_source": "rule:guess",
+  "llm_reasons": [
+   "engine type unknown"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:20:45.819Z",
+ "found_by": [
+  "marketplace",
+  "\"Uttern 590\""
+ ],
+ "heading": "Uttern 590, Mercury 4-takt 100hk 2016",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/757596635_1967330687270857_1231713295194418367_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=A0adIPSGeegQ7kNvwGyO1U1&_nc_oc=Adq1sj33mb4E5rhHfjYTG-s6gtaSaOMlClZopCG7aM_ZGE-O5w4Dnl9sps01CCstPMU&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=MJSC4K2q3A7vE8fP6pklVQ&_nc_ss=7f289&oh=00_AQMecEJfDvoRudw4kPtRbGmOqG-itGzPmnXReMWX8Y11qg&oe=6AD233B0",
+ "last_seen": "2026-10-12",
+ "lat": 59.37,
+ "location": "Eskilstuna",
+ "lon": 16.51,
+ "make": "Uttern",
+ "motor_size": 100.0,
+ "price": 85000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 85000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1560199899164702/"
+}

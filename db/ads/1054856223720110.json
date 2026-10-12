@@ -1,0 +1,62 @@
+{
+ "ad_id": 1054856223720110,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Flipper 575 HT -93 med Yamaha 90 hk + bromsad trailer",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Flipper 575 HT -93 med Yamaha 90 hk + bromsad trailer",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 575 HT -93 med Yamaha 90 hk + bromsad trailer",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:11:44.240Z",
+ "found_by": [
+  "marketplace",
+  "\"Flipper 575\""
+ ],
+ "heading": "Flipper 575 HT -93 med Yamaha 90 hk + bromsad trailer",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.84726-6/746493919_2898587093828901_6778495361895968913_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=92e707&_nc_ohc=id-EWGU49-EQ7kNvwEOVGOQ&_nc_oc=Adqy4iCT9D6I1f5_Ac4xQxjSsxG_7ijepewbLruveM91JzJCIb31Bn0l8Dxz-BlQFqY&_nc_zt=14&_nc_ht=scontent.farn1-2.fna&_nc_gid=blXdEHvVAjiOki_XG6IZlg&_nc_ss=7f289&oh=00_AQOW5Z0-TA2FcmMf2GNlGlm6JEmYjbimBnFpsegs_TSHqg&oe=6AD219AE",
+ "last_seen": "2026-10-12",
+ "lat": 59.22,
+ "location": "Stora Mellösa",
+ "lon": 15.5,
+ "make": "Flipper",
+ "motor_size": 90.0,
+ "price": 78000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 78000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1054856223720110/"
+}

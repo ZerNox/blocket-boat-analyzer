@@ -1,0 +1,58 @@
+{
+ "ad_id": 1690913035314289,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 590 kabin",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-12T04:18:43.865Z",
+ "found_by": [
+  "marketplace",
+  "\"Uttern 6300\""
+ ],
+ "heading": "Uttern 590 kabin",
+ "image": "https://scontent.farn1-2.fna.fbcdn.net/v/t39.30808-6/808847580_4044844605822009_7198397729580041013_n.jpg?stp=c125.0.750.750a_dst-jpg_tt6&cstp=mx750x750&ctp=s261x260&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=454cf4&_nc_ohc=_DUHPBD-jO0Q7kNvwEvcCYp&_nc_oc=AdpmRJQVWa9bAzF9w7T_PvpEXhYkmB-0-4cSeCOd0QsEroXwkYuy_DiMWcqBh4R529o&_nc_zt=23&_nc_ht=scontent.farn1-2.fna&_nc_gid=Y_41evwUL6cgOiyeNSVYIQ&_nc_ss=7f289&oh=00_AQNOI1h2eaQEcKclytzp8IDqqXXH7VYZZMdgEnxCX548yA&oe=6AD23AAC",
+ "last_seen": "2026-10-12",
+ "lat": 57.0,
+ "location": "Hyltebruk",
+ "lon": 13.24,
+ "make": "Uttern",
+ "motor_size": null,
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-10-12",
+   "price": 45000
+  }
+ ],
+ "source": "marketplace",
+ "specs": {},
+ "status": "active",
+ "url": "https://www.facebook.com/marketplace/item/1690913035314289/"
+}
