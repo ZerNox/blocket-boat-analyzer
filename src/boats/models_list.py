@@ -1,8 +1,8 @@
 """The cabin-boat model list: which models count as "like a Sandström 560 MC".
 
 Derived from the data (whole-market listings + our own hull analysis), then hand-edited:
-cabin_models.csv is the one list the Blocket model search, Klaravik and the Marketplace
-links all use. `boats models` regenerates it; rows with keep=no are remembered across runs.
+cabin_models.csv is the one list the Blocket model search, Klaravik and Kronofogden
+all use. `boats models` regenerates it; rows with keep=no are remembered across runs.
 """
 
 from __future__ import annotations

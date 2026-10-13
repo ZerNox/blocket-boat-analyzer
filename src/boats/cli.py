@@ -9,7 +9,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-from . import config, market, marketplace, models_list, pipeline, rank, scrape, site, store
+from . import config, market, models_list, pipeline, rank, scrape, site, store
 
 
 def cmd_fetch(cfg, args):
@@ -30,14 +30,6 @@ def cmd_vision(cfg, args):
         ext = ad.get("extraction") or {}
         print(ad_id, ad.get("heading"), "|", ext.get("engine_hp"), "hk via", ext.get("engine_hp_source"),
               "|", (ad.get("vision") or {}).get("result"))
-
-
-def cmd_import_marketplace(cfg, args):
-    files = [Path(f) for f in args.files] or marketplace.inbox_files()
-    if not files:
-        print(f"no marketplace-*.json in {marketplace.INBOX} or {marketplace.INBOX_FALLBACK}")
-        return
-    print(json.dumps(marketplace.import_files(files, cfg)))
 
 
 def cmd_models(cfg, args):
@@ -103,15 +95,7 @@ def cmd_publish(cfg, args):
     print(msg)
 
 
-def cmd_marketplace_fetch(cfg, args):
-    print(json.dumps(marketplace.fetch(cfg), ensure_ascii=False))
-
-
 def cmd_update(cfg, args):
-    if cfg["search"].get("marketplace_fetch"):  # off by default: the owner turns it on in config.toml
-        print(json.dumps(marketplace.fetch(cfg), ensure_ascii=False))
-    if marketplace.inbox_files():  # listings saved with the Marketplace bookmarklet
-        print(json.dumps(marketplace.import_files(marketplace.inbox_files(), cfg)))
     cmd_fetch(cfg, argparse.Namespace(no_pages=False, limit=None))
     cmd_extract(cfg, argparse.Namespace(no_llm=args.no_llm, llm_all=False, limit=None, no_vision=False))
     if args.publish:
@@ -138,13 +122,6 @@ def main(argv=None):
     s = sub.add_parser("vision", help="read engine power from photos (last resort) for all or given ads")
     s.add_argument("--ad", type=int, action="append", help="ad id (repeatable); re-reads even if cached")
     s.set_defaults(fn=cmd_vision)
-
-    s = sub.add_parser("import-marketplace", help="import JSON saved with the Marketplace bookmarklet (default: ~/Hämtningar, ~/Downloads)")
-    s.add_argument("files", nargs="*")
-    s.set_defaults(fn=cmd_import_marketplace)
-
-    s = sub.add_parser("marketplace-fetch", help="search Marketplace (logged out) over today's slice of the model list and import")
-    s.set_defaults(fn=cmd_marketplace_fetch)
 
     s = sub.add_parser("models", help="(re)derive cabin_models.csv from the data; hand edits (keep=no) are kept")
     s.set_defaults(fn=cmd_models)

@@ -96,19 +96,6 @@ button { background: var(--surface); color: var(--accent); border: 1px solid var
     </div>
   </section>
 
-  <details class="panel" id="mp-panel" open>
-    <summary>Sök listans modeller på Facebook Marketplace</summary>
-    <p class="muted">Facebook tillåter inte automatisk hämtning. Knapparna öppnar en exakt sökning (hela Sverige) per hyttbåtsmodell på listan.</p>
-    <div class="chips" id="mp-links"></div>
-    <p class="muted" style="margin:10px 0 4px">Utökat: samma modeller skrivna ihop (”Örnvik575”)</p>
-    <div class="chips" id="mp-links-nospace"></div>
-    <p class="muted" style="margin:10px 0 4px">Utökat: märke + hytt, för annonser utan modellnummer i rubriken</p>
-    <div class="chips" id="mp-links-make"></div>
-    <p class="muted" style="margin-top:12px">Spara det du hittar: dra knappen <a id="mp-bookmarklet" class="chip" href="#">Spara Marketplace-annonser</a> till bokmärkesfältet.
-      Klicka på den på en sökresultatsida (sparar alla synliga annonser) eller på en annons (sparar hela texten). Filen hamnar i Hämtningar och tas in vid nästa uppdatering,
-      eller direkt med <code>uv run boats import-marketplace</code>.</p>
-  </details>
-
   <section class="panel stats" id="stats"></section>
   <section id="list"></section>
 
@@ -217,7 +204,6 @@ function card(b, n) {
     .concat(b.red_flags.map((f) => `<span class="chip flag">${FLAG_LABELS[f] || f}</span>`))
     .concat(b.swap_offered ? [`<span class="chip src">byte möjligt</span>`] : [])
     .concat(b.source === "klaravik" ? [`<span class="chip src">Klaravik-auktion</span>`] : [])
-    .concat(b.source === "marketplace" ? [`<span class="chip src">Marketplace</span>`] : [])
     .concat(b.source === "kronofogden" ? [`<span class="chip src" title="Exekutiv försäljning: befintligt skick, ingen ångerrätt">Kronofogden-auktion</span>`] : [])
     .concat(!b.hull_certain ? [`<span class="chip flag" title="Text, båttyp och bilder gav inget säkert besked">typ osäker${b.hull ? (b.hull === "cabin" ? " (trolig hytt)" : " (trolig öppen)") : ""}</span>`]
       : b.hull_source === "bild" ? [`<span class="chip src" title="${esc(b.hull_evidence || "")}">hytt enligt bild</span>`] : [])
@@ -291,18 +277,6 @@ fetch("boats.json").then((r) => r.json()).then((data) => {
   $("footer").innerHTML = `Utrustning värderas som: ${ex}. Motorår tolkas med regler, och med lokal AI (Qwen 7B, verifierat mot citat ur annonsen) där reglerna inte räcker. ` +
     `Källkod: <a href="https://github.com/ZerNox/blocket-boat-analyzer">github.com/ZerNox/blocket-boat-analyzer</a>. Inte ansluten till Blocket. ` +
     `Postnummer: <a href="https://www.geonames.org/">GeoNames</a> (CC BY 4.0).`;
-  const mpUrl = (q) => `https://www.facebook.com/marketplace/category/search/?query=${encodeURIComponent(q)}`;
-  const mpLink = (label, q, title = "") => `<a class="chip" target="_blank" rel="noopener" title="${esc(title)}" href="${mpUrl(q)}">${esc(label)}</a>`;
-  const models = data.models || [];
-  $("mp-links").innerHTML = models.map((m) => mpLink(m.search, `"${m.search}"`, `${m.ads} annonser på Blocket, ${m.years || ""}`)).join("");
-  // "Örnvik 575" -> "Örnvik575": sellers write it both ways
-  $("mp-links-nospace").innerHTML = models.filter((m) => /\s\S*\d/.test(m.search))
-    .map((m) => { const q = m.search.replace(/\s+(?=\S*\d)/, ""); return mpLink(q, `"${q}"`); }).join("");
-  // One search per make: "Örnvik hytt" catches "Fin hyttbåt, Örnvik, Suzuki 90"
-  const makes = [...new Set(models.map((m) => m.search.split(/\s+/)[0]))].sort((a, b) => a.localeCompare(b, "sv"));
-  $("mp-links-make").innerHTML = makes.map((mk) => mpLink(`${mk} hytt`, `${mk} hytt`)).join("");
-  if (data.bookmarklet) $("mp-bookmarklet").setAttribute("href", data.bookmarklet);
-  $("mp-panel").querySelector("summary").textContent = `Sök listans ${(data.models || []).length} hyttbåtsmodeller på Facebook Marketplace`;
   if (data.max_km) $("max-km").value = data.max_km;
   if (data.profile?.max_price) $("max-price").value = data.profile.max_price;
   if (data.profile?.target_price) $("target-price").value = data.profile.target_price;

@@ -1,9 +1,0 @@
-{
-  "name": "blocket-boat-analyzer-scripts",
-  "private": true,
-  "type": "module",
-  "description": "Browser scripts (Facebook Marketplace fetch). Python lives in src/boats.",
-  "dependencies": {
-    "playwright": "1.56.0"
-  }
-}
