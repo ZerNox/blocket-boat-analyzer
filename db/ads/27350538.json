@@ -1,0 +1,136 @@
+{
+ "ad_id": 27350538,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1791798119000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70,
+  "engine_hp_source": "llm",
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Komplett med dynor och alldeles nytt kapell som inte ens är monterat (dyrt).",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Örnvik 530 inkl Fågelsta trailer",
+    "included": true,
+    "kmh": 30
+   },
+   "vinterkapell": {
+    "evidence": "På köpet får du en Fågelsta 30-trailer, nästan oanvänd, och vinterpresenning.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "er\nPlatsbrist, säljer vår kabinbåt. Inte startad denna säsong, behöver städning (stått utomhus). Komplett",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "untested"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-13T04:07:30+00:00",
+ "found_by": [
+  "kategori",
+  "Örnvik 530"
+ ],
+ "heading": "Örnvik 530 inkl Fågelsta trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27350538/d8a3bb63-b3a1-4b0f-87e7-ba81bf7afc38",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27350538/d8a3bb63-b3a1-4b0f-87e7-ba81bf7afc38",
+  "https://images.blocketcdn.se/dynamic/default/item/27350538/7eb26072-3bdc-4cbd-b341-bdedd59c4352",
+  "https://images.blocketcdn.se/dynamic/default/item/27350538/f0d3f941-4793-4c75-94b6-2ca3dcb23810"
+ ],
+ "last_seen": "2026-10-13T04:07:30+00:00",
+ "lat": 58.9,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-10-13",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e99b5e35587e3afc"
+ },
+ "location": "Trosa",
+ "lon": 17.6,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 378,
+  "fetched_ts": 1791864680879,
+  "text_sha": "e99b5e35587e3afc"
+ },
+ "price": 23000,
+ "price_history": [
+  {
+   "date": "2026-10-13",
+   "price": 23000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "530",
+  "Modellår": "1978",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27350538",
+ "width_cm": 0,
+ "year": 1978
+}

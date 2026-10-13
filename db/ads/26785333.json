@@ -35,9 +35,9 @@
    }
   },
   "hull": "open",
-  "hull_certain": false,
-  "hull_evidence": null,
-  "hull_source": "rule:guess",
+  "hull_certain": true,
+  "hull_evidence": "Clear view of cockpit and no enclosed cabin or hatch visible.",
+  "hull_source": "bild",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -57,7 +57,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26785333/b43b347f-e43f-4db5-a6c9-939db8a76ae7",
   "https://images.blocketcdn.se/dynamic/default/item/26785333/b7ba7aa7-f964-400d-a168-852f586ea71d"
  ],
- "last_seen": "2026-10-12T04:21:20+00:00",
+ "last_seen": "2026-10-13T04:07:30+00:00",
  "lat": 59.54,
  "length_ft": 19,
  "llm": {

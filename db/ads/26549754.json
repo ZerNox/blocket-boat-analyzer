@@ -86,7 +86,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
- "not_in_search_since": "2026-09-27",
+ "not_in_search_since": "2026-10-13",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1791605590347,
@@ -107,7 +107,7 @@
   "Märke": "Ryds",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26549754",
  "vision": {
   "at": "2026-10-10",

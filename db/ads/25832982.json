@@ -93,7 +93,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
- "not_in_search_since": "2026-09-27",
+ "not_in_search_since": "2026-10-13",
  "page": {
   "description_chars": 865,
   "fetched_ts": 1791605578929,
@@ -125,7 +125,7 @@
   "Toppfart": "24 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25832982",
  "width_cm": 220,
  "year": 1980

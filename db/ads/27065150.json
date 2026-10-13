@@ -65,6 +65,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-13",
  "page": {
   "description_chars": 638,
   "fetched_ts": 1791605594487,
@@ -92,7 +93,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "570 kg"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/27065150",
  "vision": {
   "at": "2026-10-10",

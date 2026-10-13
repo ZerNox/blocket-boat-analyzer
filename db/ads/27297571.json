@@ -39,7 +39,8 @@
  },
  "first_seen": "2026-10-11T04:08:47+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Uttern 5500"
  ],
  "heading": "Uttern DC 5500, 4takt, 80vagn",
  "image": "https://images.blocketcdn.se/dynamic/default/item/27297571/65e80c90-027a-4e1f-8795-f9ef3f08fedf",
@@ -48,7 +49,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27297571/00f1a330-7a8c-4850-b0dc-9bfd4da15473",
   "https://images.blocketcdn.se/dynamic/default/item/27297571/70d5bbb1-fe05-4dc5-9e47-0feb69636622"
  ],
- "last_seen": "2026-10-12T04:21:20+00:00",
+ "last_seen": "2026-10-13T04:07:30+00:00",
  "lat": 63.72,
  "length_ft": 18,
  "llm": {

@@ -101,7 +101,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
- "not_in_search_since": "2026-09-27",
+ "not_in_search_since": "2026-10-13",
  "page": {
   "description_chars": 1291,
   "fetched_ts": 1791605575971,
@@ -125,7 +125,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/24707125",
  "vision": {
   "at": "2026-10-10",

@@ -107,7 +107,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
- "not_in_search_since": "2026-09-27",
+ "not_in_search_since": "2026-10-13",
  "page": {
   "description_chars": 482,
   "fetched_ts": 1791605580478,
@@ -136,7 +136,7 @@
   "Toppfart": "23 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/25895629",
  "vision": {
   "at": "2026-10-10",

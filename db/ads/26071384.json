@@ -67,7 +67,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
- "not_in_search_since": "2026-09-27",
+ "not_in_search_since": "2026-10-13",
  "page": {
   "description_chars": 527,
   "fetched_ts": 1791605583076,
@@ -92,7 +92,7 @@
   "Sovplatser": "3",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "not_in_search",
  "url": "https://www.blocket.se/mobility/item/26071384",
  "width_cm": 220,
  "year": 1976

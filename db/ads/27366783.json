@@ -1,0 +1,152 @@
+{
+ "ad_id": 27366783,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791828725000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2011,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2003,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Honda BF90A, 90 hk fyrtakt (cirka 2003)",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Lowrance HDS7 plotter/ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Båten har fem sittplatser, ruff med två sovplatser och kapell.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance HDS7 plotter/ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer ingår",
+    "included": true,
+    "kmh": 30
+   },
+   "vinterkapell": {
+    "evidence": "Båten har vinterförvarats på land under uppspänd presenning och motorn har spolats med sötvatten vid upptagning.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "ör dagsutflykter, bad och övernattning.\nBåten har fem sittplatser, ruff med två sovplatser och kapell.\nUtr",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "engine 2003 older than boat 2011"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-13T04:07:30+00:00",
+ "found_by": [
+  "kategori",
+  "Ryds 568"
+ ],
+ "heading": "Ryds 568 DCI 2011 – Honda 90 hk – Trailer ingår",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27366783/aee722a5-9602-43d6-aaa5-867889478318",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27366783/aee722a5-9602-43d6-aaa5-867889478318",
+  "https://images.blocketcdn.se/dynamic/default/item/27366783/db8f56aa-8837-4aec-b12e-059b70b6e849",
+  "https://images.blocketcdn.se/dynamic/default/item/27366783/5da7c594-d83e-4f75-a56f-854f2e7d3651",
+  "https://images.blocketcdn.se/dynamic/default/item/27366783/ae00ddcd-563e-4317-bd0f-5c9433222d7d",
+  "https://images.blocketcdn.se/dynamic/default/item/27366783/23e66f59-b921-4942-a77d-aa02691fd83e",
+  "https://images.blocketcdn.se/dynamic/default/item/27366783/92036789-517f-4a79-afb2-410271141ae4",
+  "https://images.blocketcdn.se/dynamic/default/item/27366783/e7ccc4b0-863b-446b-a879-2211579a2f07"
+ ],
+ "last_seen": "2026-10-13T04:07:30+00:00",
+ "lat": 58.28,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-10-13",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2011,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Honda",
+   "engine_type": "outboard",
+   "engine_year": 2003,
+   "engine_year_evidence": "Honda BF90A, 90 hk fyrtakt (cirka 2003)",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "400cf87f342d9f70"
+ },
+ "location": "Valdemarsvik",
+ "lon": 16.78,
+ "make": "Ryds",
+ "max_speed": 29,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1471,
+  "fetched_ts": 1791864682220,
+  "text_sha": "400cf87f342d9f70"
+ },
+ "price": 115000,
+ "price_history": [
+  {
+   "date": "2026-10-13",
+   "price": 115000
+  }
+ ],
+ "specs": {
+  "Bredd": "217 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "568 DCI",
+  "Modellår": "2011",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "29 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "800 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27366783",
+ "width_cm": 217,
+ "year": 2011
+}
