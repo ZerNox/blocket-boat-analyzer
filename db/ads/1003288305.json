@@ -1,0 +1,144 @@
+{
+ "ad_id": 1003288305,
+ "auction": {
+  "bid": 30500,
+  "close": "2026-10-20T09:48:00+02:00",
+  "ended": false,
+  "fee": 7740,
+  "margin_scheme": false,
+  "next_bid": 31000,
+  "reserve_reached": false,
+  "start": "2026-10-13T09:00:00+02:00",
+  "vat": 0
+ },
+ "boat_class": null,
+ "dealer_segment": "Auktion",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": 150,
+  "engine_hp": 150.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": "r båt: UA YBE76932A516 Motor: Evinrude 150 H.O Motortyp: 2-taktsmotor Motoreffekt (kW / hk): 150 hk Maxhastighet (knop):",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Plotter Raymarine från 2025",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ribbåt med trailer Grand Golden Line G650 MC",
+    "included": true,
+    "year": 2016
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ribbåt med trailer Grand Golden Line G650 MC",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-14",
+ "found_by": [
+  "klaravik",
+  "grand golden"
+ ],
+ "heading": "Ribbåt med trailer Grand Golden Line G650 MC",
+ "image": "https://media.se.klaravik.com/public/productimages/3d/5e/3288305/extrabilder75239324_large.jpg?v=1789649471",
+ "image_urls": [
+  "https://media.se.klaravik.com/public/productimages/3d/5e/3288305/extrabilder75239324_large.jpg?v=1789649471"
+ ],
+ "last_seen": "2026-10-14",
+ "lat": 56.83,
+ "length_ft": 21.3,
+ "llm": {
+  "at": "2026-10-14",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2016,
+   "engine_hours": null,
+   "engine_hp": 150,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor: Evinrude 150 H.O",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "excluded",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "35b232e3ac8e146e"
+ },
+ "location": "Ljungby",
+ "lon": 13.94,
+ "make": "Grand",
+ "motor_size": 150.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 545,
+  "fetched_ts": 1791950992828,
+  "text_sha": "35b232e3ac8e146e"
+ },
+ "price": 40175,
+ "price_history": [
+  {
+   "bid": 30500,
+   "date": "2026-10-14",
+   "price": 40175
+  }
+ ],
+ "source": "klaravik",
+ "specs": {
+  "Antal nycklar": "1",
+  "Bredd (m)": "2,60 m",
+  "Båttyp": "RIB",
+  "Drivmedel": "Bensin",
+  "Grand Golden Line G650 MC Märke": "Grand",
+  "Ja Serienummer båt": "UA",
+  "Lasthjälpsinformation Lasthjälp": "Lasthjälp i överenskommelse med säljaren",
+  "Line G650 MC År": "2016",
+  "Maxhastighet (knop)": "Ca 40 knop",
+  "Modell": "Golden",
+  "Motoreffekt (kW / hk)": "150 hk",
+  "Motortyp": "2-taktsmotor",
+  "Märke": "Grand",
+  "Mätarställning": "Okänt CE-märkt:",
+  "Mått och vikt Längd (m)": "6,50",
+  "YBE76932A516 Motor": "Evinrude 150 H.O"
+ },
+ "status": "active",
+ "url": "https://www.klaravik.se/auktion/produkt/3288305-ribbat-med-trailer-grand-golden-line-g650-mc/",
+ "year": null
+}

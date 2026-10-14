@@ -1,0 +1,131 @@
+{
+ "ad_id": 27387843,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1791906655000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Inget kapell finns",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30 kärra ingår",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Hyttbåt med Yamaha 4 takt\n4-takt 60hk fyrtakt\nGår super i sjön och lastar mycket",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-14T04:05:30+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Hyttbåt med Yamaha 4 takt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27387843/bc5ee72f-0a92-45ea-a3de-4836c2fdbfb5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27387843/bc5ee72f-0a92-45ea-a3de-4836c2fdbfb5",
+  "https://images.blocketcdn.se/dynamic/default/item/27387843/5396a307-ed1c-401b-961e-24023865a9a4",
+  "https://images.blocketcdn.se/dynamic/default/item/27387843/fe126df6-66db-462a-a374-e72c76b58df7"
+ ],
+ "last_seen": "2026-10-14T04:05:30+00:00",
+ "lat": 59.8,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-10-14",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "inverter": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "92ae3f361c000f12"
+ },
+ "location": "Rånäs",
+ "lon": 18.28,
+ "make": "Örnvik",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 207,
+  "fetched_ts": 1791950974601,
+  "text_sha": "92ae3f361c000f12"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-10-14",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "20 fot",
+  "Modell": "580",
+  "Modellår": "1980",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Toppfart": "25 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27387843",
+ "width_cm": 0,
+ "year": 1980
+}

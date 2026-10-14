@@ -1,0 +1,148 @@
+{
+ "ad_id": 1003287786,
+ "auction": {
+  "bid": 41000,
+  "close": "2026-10-20T09:23:00+02:00",
+  "ended": false,
+  "fee": 6980,
+  "margin_scheme": false,
+  "next_bid": 41500,
+  "reserve_reached": false,
+  "start": "2026-10-13T09:00:00+02:00",
+  "vat": 25
+ },
+ "boat_class": null,
+ "dealer_segment": "Auktion",
+ "extraction": {
+  "boat_year": 2022,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 200.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "ch - Självläns -Förberedd för Honda motor, 90-200hk -För 8 personer - maxlast 1054kg",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": 2022,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "GPS ekolod Garmin",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "GPS ekolod Garmin",
+    "included": true
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space, open cockpit with console and seating.",
+  "hull_source": "bild",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-14",
+ "found_by": [
+  "klaravik",
+  "cremo 650"
+ ],
+ "heading": "Motorbåt Cremo 650CC",
+ "image": "https://media.se.klaravik.com/public/productimages/6e/9b/3287786/extrabilder75226040_large.jpg?v=1789636458",
+ "image_urls": [
+  "https://media.se.klaravik.com/public/productimages/6e/9b/3287786/extrabilder75226040_large.jpg?v=1789636458"
+ ],
+ "last_seen": "2026-10-14",
+ "lat": 57.27,
+ "length_ft": 21.3,
+ "llm": {
+  "at": "2026-10-14",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2022,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Cremo",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "53e6a3e1a5e5a000"
+ },
+ "location": "Oskarshamn",
+ "lon": 16.45,
+ "make": "Cremo",
+ "motor_size": 200.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 483,
+  "fetched_ts": 1791950987615,
+  "text_sha": "53e6a3e1a5e5a000"
+ },
+ "price": 59975,
+ "price_history": [
+  {
+   "bid": 41000,
+   "date": "2026-10-14",
+   "price": 59975
+  }
+ ],
+ "source": "klaravik",
+ "specs": {
+  "Antal nycklar": "Information saknas",
+  "Bredd (m)": "2.50m",
+  "Båttyp": "Motorbåt",
+  "Information om lasthjälp": "Truck",
+  "Lasthjälpsinformation Lasthjälp": "Lasthjälp erbjuds",
+  "Modell": "650CC",
+  "Motorbåt Cremo 650CC Märke": "Cremo",
+  "Märke": "Cremo",
+  "Mått och vikt Längd (m)": "6.50m",
+  "Skrovnummer": "SE-CREAX119J122",
+  "År": "2022",
+  "Övriga mått": "Tankvolym: 145L"
+ },
+ "status": "active",
+ "url": "https://www.klaravik.se/auktion/produkt/3287786-motorbat-cremo-650cc/",
+ "vision": {
+  "at": "2026-10-14",
+  "images_sha": "371696ce3981dbc6",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed space, open cockpit with console and seating.",
+   "hull_photo": 0
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "year": 2022
+}

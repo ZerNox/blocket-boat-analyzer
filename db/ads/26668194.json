@@ -95,6 +95,7 @@
  "motor_fuel": "Diesel",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-14",
  "page": {
   "description_chars": 985,
   "fetched_ts": 1791779382277,
@@ -107,6 +108,11 @@
    "price": 155000
   }
  ],
+ "sold": {
+  "date": "2026-10-14",
+  "days_seen": 17,
+  "last_price": 155000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Drivmedel": "Diesel",
@@ -121,7 +127,7 @@
   "Toppfart": "25 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26668194",
  "width_cm": 0,
  "year": 2005

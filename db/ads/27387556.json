@@ -1,0 +1,137 @@
+{
+ "ad_id": 27387556,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791903351000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2019,
+  "boat_year_source": "spec",
+  "engine_hours": 8,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2019,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "* Ekolod",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "*Kapell",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "* Trailer ingår",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-14T04:05:30+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Buster LX",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27387556/60ff93ac-63f0-4a2f-9be5-d93cce87ddc5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27387556/60ff93ac-63f0-4a2f-9be5-d93cce87ddc5",
+  "https://images.blocketcdn.se/dynamic/default/item/27387556/52aa1aab-342d-455d-8a97-a7a009123f3d",
+  "https://images.blocketcdn.se/dynamic/default/item/27387556/309e8a8c-c863-4a09-8701-526553856bc6",
+  "https://images.blocketcdn.se/dynamic/default/item/27387556/653071a2-886d-47cb-a9ea-5a7e4a4f64dd",
+  "https://images.blocketcdn.se/dynamic/default/item/27387556/d6841bb0-9101-4edb-88c0-1f7b307ab065",
+  "https://images.blocketcdn.se/dynamic/default/item/27387556/441e56c0-fd66-4ed4-9f3c-63faa4aad701",
+  "https://images.blocketcdn.se/dynamic/default/item/27387556/8d3fcbb5-ab9c-4923-b71b-d62abaaca321",
+  "https://images.blocketcdn.se/dynamic/default/item/27387556/e4fae028-111d-4997-b658-d44167bf90eb"
+ ],
+ "last_seen": "2026-10-14T04:05:30+00:00",
+ "lat": 59.53,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-10-14",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2019,
+   "engine_hours": 54,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Gångtid: endast 54,8 timmar",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "4e3c8059151edca8"
+ },
+ "location": "Vallentuna",
+ "lon": 18.18,
+ "make": "Buster",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 755,
+  "fetched_ts": 1791950973273,
+  "text_sha": "4e3c8059151edca8"
+ },
+ "price": 255000,
+ "price_history": [
+  {
+   "date": "2026-10-14",
+   "price": 255000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Svart/Aliminium",
+  "Längd i fot": "17 fot",
+  "Modell": "Buster LX",
+  "Modellår": "2019",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Buster",
+  "Skrovmaterial": "Aluminium",
+  "Toppfart": "25 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "500 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27387556",
+ "width_cm": 0,
+ "year": 2019
+}

@@ -1,0 +1,131 @@
+{
+ "ad_id": 23485167,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1791897596000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1991,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1991,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "båten är i fint bruksskick, står på land på 30km/h kärra som medföljer, fick den i inbyte i höstas har inte använt båte…",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-14T04:05:30+00:00",
+ "found_by": [
+  "kategori",
+  "Finnsport 650"
+ ],
+ "heading": "Finnsport 650 ac",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/23485167/41c1e183-696d-4c33-a13d-2388d5fb8b63",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/23485167/41c1e183-696d-4c33-a13d-2388d5fb8b63",
+  "https://images.blocketcdn.se/dynamic/default/item/23485167/96c10506-7737-4532-b811-a3ae40b21e79",
+  "https://images.blocketcdn.se/dynamic/default/item/23485167/4b497fa5-cd61-4f0b-aaf2-129384f0d775",
+  "https://images.blocketcdn.se/dynamic/default/item/23485167/1f69f423-ff60-4844-87f2-8b252e2be839",
+  "https://images.blocketcdn.se/dynamic/default/item/23485167/fb7aecff-129d-4a27-9a07-736a2cefdbbe",
+  "https://images.blocketcdn.se/dynamic/default/item/23485167/4cf36cd2-b7d8-46ce-a771-42fcd5328392",
+  "https://images.blocketcdn.se/dynamic/default/item/23485167/c0150a68-a5e6-4683-b521-6e9fab00720e",
+  "https://images.blocketcdn.se/dynamic/default/item/23485167/a4a6f6f7-0763-4c42-829e-e79260e19efd"
+ ],
+ "last_seen": "2026-10-14T04:05:30+00:00",
+ "lat": 59.1,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-10-14",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1991,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Yamha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "båten är i fint bruksskick, står på land på 30km/h kärra som medföljer, fick den i inbyte i höstas har inte använt båten själv provkördes dock vid bytet och allt lirade som det ska",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "d471fa0a6e00b9a3"
+ },
+ "location": "Gnesta",
+ "lon": 17.22,
+ "make": "Finnsport",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 264,
+  "fetched_ts": 1791950946383,
+  "text_sha": "d471fa0a6e00b9a3"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-10-14",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Bredd": "248 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "21 fot",
+  "Modellår": "1991",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Yamha",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnsport",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "4",
+  "Typ": "Kabinbåt",
+  "Vikt": "1 000 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/23485167",
+ "width_cm": 248,
+ "year": 1991
+}

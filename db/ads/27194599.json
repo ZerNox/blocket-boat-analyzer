@@ -1,7 +1,7 @@
 {
  "ad_id": 27194599,
  "boat_class": "Kabinbåt",
- "changed_ts": 1791728358000,
+ "changed_ts": 1791909350000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2007,
@@ -66,7 +66,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27194599/dbfad3ea-ea65-48ba-a7bd-ce5b3a235ef9",
   "https://images.blocketcdn.se/dynamic/default/item/27194599/539018d2-c2df-462c-acc0-61f14a944d7b"
  ],
- "last_seen": "2026-10-13T04:07:30+00:00",
+ "last_seen": "2026-10-14T04:05:30+00:00",
  "lat": 57.5,
  "length_ft": 18,
  "llm": {
@@ -110,7 +110,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 444,
-  "fetched_ts": 1791779430351,
+  "fetched_ts": 1791950971677,
   "text_sha": "f7e588844c3d3da1"
  },
  "price": 167000,

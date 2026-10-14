@@ -100,6 +100,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-14",
  "page": {
   "description_chars": 779,
   "fetched_ts": 1791779179485,
@@ -127,7 +128,7 @@
   "Märke": "Fjord Terne",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25701407",
  "width_cm": 238,
  "year": 1980

@@ -92,6 +92,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-14",
  "page": {
   "description_chars": 1564,
   "fetched_ts": 1791779136993,
@@ -125,7 +126,7 @@
   "Typ": "Annat",
   "Vikt": "650 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/23446367",
  "width_cm": 210,
  "year": 1977

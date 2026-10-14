@@ -1,7 +1,7 @@
 {
  "ad_id": 25570892,
  "boat_class": "Fiskebåt/Arbetsbåt",
- "changed_ts": 1786341030000,
+ "changed_ts": 1791907897000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1980,
@@ -56,7 +56,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25570892/20452648-00c0-48af-b7a7-4f76eab68ff5",
   "https://images.blocketcdn.se/dynamic/default/item/25570892/a56bd58b-74a4-4d95-989e-a6484de8e8e5"
  ],
- "last_seen": "2026-10-09T04:06:03+00:00",
+ "last_seen": "2026-10-14T04:05:30+00:00",
  "lat": 55.44,
  "length_ft": 19,
  "location": "Höllviken",
@@ -69,7 +69,7 @@
  "not_in_search_since": "2026-10-10",
  "page": {
   "description_chars": 539,
-  "fetched_ts": 1791173630827,
+  "fetched_ts": 1791950950700,
   "text_sha": "d50eb385d4b15210"
  },
  "price": 90000,
@@ -94,7 +94,7 @@
   "Typ": "Fiskebåt/Arbetsbåt",
   "Vikt": "520 kg"
  },
- "status": "inactive",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/25570892",
  "width_cm": 215,
  "year": 1980
