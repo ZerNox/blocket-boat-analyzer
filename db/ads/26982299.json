@@ -65,7 +65,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26982299/d59a246f-518b-4703-be01-5410e11cdd7b",
   "https://images.blocketcdn.se/dynamic/default/item/26982299/232ba0c9-a39a-4f3f-bfe9-bd81790ddc24"
  ],
- "last_seen": "2026-10-14T04:05:30+00:00",
+ "last_seen": "2026-10-15T04:08:22+00:00",
  "lat": 59.34,
  "length_ft": 18,
  "location": "Gustavsberg",
@@ -76,9 +76,9 @@
  "motor_size": 90.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 761,
-  "fetched_ts": 1791346241747,
-  "text_sha": "3238a3c6333b13cb"
+  "description_chars": 762,
+  "fetched_ts": 1792037524134,
+  "text_sha": "7dce8acb0c6bab72"
  },
  "price": 135000,
  "price_history": [

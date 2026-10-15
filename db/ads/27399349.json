@@ -1,0 +1,131 @@
+{
+ "ad_id": 27399349,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1791957477000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercruiser v6",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2001,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Medföljer rejäl trailer (30km/h)",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Maxum 2100sc",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-15T04:08:22+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Maxum 2100sc",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27399349/300b4c23-81d4-4156-9f8a-679ae58c0d79",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27399349/300b4c23-81d4-4156-9f8a-679ae58c0d79",
+  "https://images.blocketcdn.se/dynamic/default/item/27399349/83eb986f-598f-438f-9e1c-6d9f2bf4daf5",
+  "https://images.blocketcdn.se/dynamic/default/item/27399349/99c43a35-41d1-4897-81bf-8b97fccb6954",
+  "https://images.blocketcdn.se/dynamic/default/item/27399349/194f13f2-4614-4987-bb34-fd2c9e4a86f5",
+  "https://images.blocketcdn.se/dynamic/default/item/27399349/c1f41c8b-5cc4-452b-8568-b1a084c24a37",
+  "https://images.blocketcdn.se/dynamic/default/item/27399349/342a5df6-41d8-4f4d-bf59-891ebcacea8e",
+  "https://images.blocketcdn.se/dynamic/default/item/27399349/17c92bd1-2408-4eeb-bcb3-49cb82a617b1"
+ ],
+ "last_seen": "2026-10-15T04:08:22+00:00",
+ "lat": 60.81,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-10-15",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2001,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercruiser v6",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f08d4bb487744fd3"
+ },
+ "location": "Sollerön",
+ "lon": 14.47,
+ "make": "Maxum",
+ "max_speed": 33,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "page": {
+  "description_chars": 68,
+  "fetched_ts": 1792037536241,
+  "text_sha": "f08d4bb487744fd3"
+ },
+ "price": 100000,
+ "price_history": [
+  {
+   "date": "2026-10-15",
+   "price": 100000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Djupgående": "70 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "21 fot",
+  "Modell": "2100sc",
+  "Modellår": "2001",
+  "Motortillverkare": "Mercruiser v6",
+  "Motortyp": "Inombordare",
+  "Märke": "Maxum",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "33 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "2 000 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27399349",
+ "width_cm": 0,
+ "year": 2001
+}

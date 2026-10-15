@@ -46,11 +46,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/27018742/564da9c6-c8e2-4424-913f-cfd9677a9c98",
   "https://images.blocketcdn.se/dynamic/default/item/27018742/33838847-82d7-49df-9c5f-d32d9cc0dce1"
  ],
- "last_seen": "2026-10-14T04:05:30+00:00",
+ "last_seen": "2026-10-15T04:08:22+00:00",
  "lat": 59.74,
  "length_ft": 19,
  "llm": {
-  "at": "2026-10-08",
+  "at": "2026-10-15",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1990,
@@ -59,7 +59,8 @@
    "engine_maker": "Yamaha",
    "engine_type": "outboard",
    "engine_year": null,
-   "engine_year_evidence": null,
+   "engine_year_evidence": "Ny motor 2024",
+   "engine_year_rejected": 2024,
    "equipment": {
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
@@ -79,7 +80,7 @@
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "827cad3a18773338"
+  "text_sha": "1045a4032a10a807"
  },
  "location": "Norrtälje",
  "lon": 18.94,
@@ -89,9 +90,9 @@
  "motor_size": 90.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 469,
-  "fetched_ts": 1791432597982,
-  "text_sha": "827cad3a18773338"
+  "description_chars": 440,
+  "fetched_ts": 1792037527962,
+  "text_sha": "1045a4032a10a807"
  },
  "price": 45000,
  "price_history": [

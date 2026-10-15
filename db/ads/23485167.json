@@ -97,6 +97,7 @@
  "motor_fuel": null,
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-15",
  "page": {
   "description_chars": 264,
   "fetched_ts": 1791950946383,
@@ -109,6 +110,11 @@
    "price": 25000
   }
  ],
+ "sold": {
+  "date": "2026-10-15",
+  "days_seen": 1,
+  "last_price": 25000
+ },
  "specs": {
   "Bredd": "248 cm",
   "Båtens plats": "Sverige",
@@ -124,7 +130,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "1 000 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/23485167",
  "width_cm": 248,
  "year": 1991

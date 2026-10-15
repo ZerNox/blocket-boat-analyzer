@@ -4,7 +4,7 @@
  "changed_ts": 1791903351000,
  "dealer_segment": "Privat",
  "extraction": {
-  "boat_year": 2019,
+  "boat_year": 2016,
   "boat_year_source": "spec",
   "engine_hours": 8,
   "engine_hp": 50.0,
@@ -15,7 +15,7 @@
   "engine_type_evidence": null,
   "engine_type_source": "rule:spec",
   "engine_year": null,
-  "engine_year_est": 2019,
+  "engine_year_est": 2016,
   "engine_year_est_reason": "antar originalmotor",
   "engine_year_evidence": null,
   "engine_year_source": null,
@@ -61,7 +61,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27387556/8d3fcbb5-ab9c-4923-b71b-d62abaaca321",
   "https://images.blocketcdn.se/dynamic/default/item/27387556/e4fae028-111d-4997-b658-d44167bf90eb"
  ],
- "last_seen": "2026-10-14T04:05:30+00:00",
+ "last_seen": "2026-10-15T04:08:22+00:00",
  "lat": 59.53,
  "length_ft": 17,
  "llm": {
@@ -108,11 +108,15 @@
   "fetched_ts": 1791950973273,
   "text_sha": "4e3c8059151edca8"
  },
- "price": 255000,
+ "price": 239000,
  "price_history": [
   {
    "date": "2026-10-14",
    "price": 255000
+  },
+  {
+   "date": "2026-10-15",
+   "price": 239000
   }
  ],
  "specs": {
@@ -133,5 +137,5 @@
  "status": "active",
  "url": "https://www.blocket.se/mobility/item/27387556",
  "width_cm": 0,
- "year": 2019
+ "year": 2016
 }

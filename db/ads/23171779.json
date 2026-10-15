@@ -94,6 +94,7 @@
  "motor_fuel": "Diesel",
  "motor_size": 44.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-15",
  "page": {
   "description_chars": 61,
   "fetched_ts": 1791779131191,
@@ -123,7 +124,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "1 300 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/23171779",
  "width_cm": 245,
  "year": 2002

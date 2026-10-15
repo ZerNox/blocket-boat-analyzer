@@ -59,7 +59,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27201913/bcf9b405-fdcd-4cb8-bd98-730fda1574ef",
   "https://images.blocketcdn.se/dynamic/default/item/27201913/4ee2ed0f-e09e-402d-be0e-c434306d3c67"
  ],
- "last_seen": "2026-10-14T04:05:30+00:00",
+ "last_seen": "2026-10-15T04:08:22+00:00",
  "lat": 57.64,
  "length_ft": 18,
  "location": "Gunnebo",
@@ -71,7 +71,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 1023,
-  "fetched_ts": 1791346248916,
+  "fetched_ts": 1792037533197,
   "text_sha": "051ee766aaadcbf4"
  },
  "price": 55000,
