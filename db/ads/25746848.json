@@ -95,6 +95,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": null,
+ "not_in_search_since": "2026-10-16",
  "page": {
   "description_chars": 155,
   "fetched_ts": 1791779186579,
@@ -121,7 +122,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25746848",
  "width_cm": 0,
  "year": 1990

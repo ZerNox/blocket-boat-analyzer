@@ -53,6 +53,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-16",
  "page": {
   "description_chars": 45,
   "fetched_ts": 1791779362914,
@@ -79,7 +80,7 @@
   "Märke": "Örnvik",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26594758",
  "width_cm": 200,
  "year": 1975

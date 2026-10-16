@@ -1,7 +1,7 @@
 {
  "ad_id": 25749548,
  "boat_class": "Daycruiser",
- "changed_ts": 1787474597000,
+ "changed_ts": 1792064520000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1974,
@@ -55,13 +55,20 @@
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/25749548/dee54b65-2407-442d-90fc-fa7147e2d2ad",
   "https://images.blocketcdn.se/dynamic/default/item/25749548/d5852b76-9b5e-4e5b-9e58-1f64ec6f31a2",
-  "https://images.blocketcdn.se/dynamic/default/item/25749548/58ad48d4-996e-44c2-8898-3649c394ac51"
+  "https://images.blocketcdn.se/dynamic/default/item/25749548/58ad48d4-996e-44c2-8898-3649c394ac51",
+  "https://images.blocketcdn.se/dynamic/default/item/25749548/e7216892-fb42-428f-9079-076f1f8fe2bf",
+  "https://images.blocketcdn.se/dynamic/default/item/25749548/0bb6e505-fa89-43be-8d0b-f4880f4da1f7",
+  "https://images.blocketcdn.se/dynamic/default/item/25749548/952170c7-1b06-42e7-9a99-466d6e476c33",
+  "https://images.blocketcdn.se/dynamic/default/item/25749548/b0ac226e-193f-4aba-afe9-3d9e6f790747",
+  "https://images.blocketcdn.se/dynamic/default/item/25749548/b9c498a0-612e-421d-a5b3-2278ce77b43b",
+  "https://images.blocketcdn.se/dynamic/default/item/25749548/52c047f3-3ce0-4f65-816d-6ace625e8e5b",
+  "https://images.blocketcdn.se/dynamic/default/item/25749548/2bf9e604-0dad-4aed-b0f4-9b5a251d546d"
  ],
- "last_seen": "2026-10-15T04:08:22+00:00",
+ "last_seen": "2026-10-16T04:05:21+00:00",
  "lat": 56.11,
  "length_ft": 17,
  "llm": {
-  "at": "2026-10-05",
+  "at": "2026-10-16",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1974,
@@ -91,7 +98,7 @@
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "cdb0e08f5bb2e70b"
+  "text_sha": "90a9037b0ee85bdd"
  },
  "location": "Domsten",
  "lon": 12.62,
@@ -101,9 +108,9 @@
  "motor_size": null,
  "motor_type": "Inombordare",
  "page": {
-  "description_chars": 571,
-  "fetched_ts": 1791779189123,
-  "text_sha": "cdb0e08f5bb2e70b"
+  "description_chars": 614,
+  "fetched_ts": 1792123747141,
+  "text_sha": "90a9037b0ee85bdd"
  },
  "price": 48000,
  "price_history": [

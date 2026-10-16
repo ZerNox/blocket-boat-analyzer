@@ -83,6 +83,7 @@
  "motor_fuel": null,
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-16",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1791779140141,
@@ -110,7 +111,7 @@
   "Toppfart": "29 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/23857393",
  "width_cm": 225,
  "year": 2006

@@ -1,7 +1,7 @@
 {
  "ad_id": 25760835,
  "boat_class": "Styrpulpetbåt",
- "changed_ts": 1788776270000,
+ "changed_ts": 1792083773000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2009,
@@ -29,7 +29,7 @@
     "included": true
    },
    "trailer": {
-    "evidence": "Ryds 568 Crossmax + Fogelsta Släpvagn (80km/h)",
+    "evidence": "Ryds 568 GTI + Fogelsta Släpvagn (80km/h)",
     "included": true,
     "kmh": 80
    }
@@ -48,7 +48,7 @@
  "found_by": [
   "Ryds 568"
  ],
- "heading": "Ryds 568 Crossmax + Fogelsta Släpvagn (80km/h)",
+ "heading": "Ryds 568 GTI + Fogelsta Släpvagn (80km/h)",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25760835/42d23376-15be-42fa-856d-eb45b86fb613",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/25760835/42d23376-15be-42fa-856d-eb45b86fb613",
@@ -60,7 +60,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25760835/098188e0-9fea-4eb9-8d97-1e411a3eb1e4",
   "https://images.blocketcdn.se/dynamic/default/item/25760835/3fd5fc46-35b5-4dec-bc14-5038c26a3039"
  ],
- "last_seen": "2026-10-15T04:08:22+00:00",
+ "last_seen": "2026-10-16T04:05:21+00:00",
  "lat": 56.15,
  "length_ft": 19,
  "location": "Viken",
@@ -71,9 +71,9 @@
  "motor_size": 90.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 903,
-  "fetched_ts": 1791779190368,
-  "text_sha": "9089bf6a3550ef33"
+  "description_chars": 919,
+  "fetched_ts": 1792123748405,
+  "text_sha": "6319961a6081ad35"
  },
  "price": 160000,
  "price_history": [
@@ -86,7 +86,7 @@
   "Bredd": "218 cm",
   "Båtens plats": "Sverige",
   "Längd i fot": "19 fot",
-  "Modell": "568 Crossmax",
+  "Modell": "568 GTI",
   "Modellår": "2009",
   "Motorstorlek": "90 hk",
   "Motortillverkare": "Evinrude",

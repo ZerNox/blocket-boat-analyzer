@@ -1,0 +1,81 @@
+{
+ "ad_id": 27425996,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1792055505000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2004,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "UTTERN",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "2004, utrustad med en Mercury-utombordsmotor på 60 hk, även den från 2004. Fakta om båten: 🚤 Modell: A56 📅 Årsmodell: 20",
+  "engine_type_source": "rule:text",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Nu finns möjlighet att köpa en båt av årsmodell 2004, utrustad med en Mercury-utombordsmotor på 60 hk, även den från 2004.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "ALU\nNu säljer vi vår fina styrpulpet 🚤 \nNu finns möjlighet att köpa en båt av årsmodell 2004, utrustad med",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-16T04:05:21+00:00",
+ "found_by": [
+  "Uttern 560"
+ ],
+ "heading": "FIN UTTERN 560 TILL SALU",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27425996/975d9d3f-a8b9-4fc9-8a47-560ecdbc6033",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27425996/975d9d3f-a8b9-4fc9-8a47-560ecdbc6033",
+  "https://images.blocketcdn.se/dynamic/default/item/27425996/9c71ff42-7fe8-45b1-8817-4014aa0eb8b5",
+  "https://images.blocketcdn.se/dynamic/default/item/27425996/1fa6a5ea-66ba-4d53-b176-276a1c1f9492"
+ ],
+ "last_seen": "2026-10-16T04:05:21+00:00",
+ "lat": 57.04,
+ "length_ft": 18,
+ "location": "Tvååker",
+ "lon": 12.41,
+ "make": "Uttern",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 536,
+  "fetched_ts": 1792123751221,
+  "text_sha": "d612c97a0aedc13c"
+ },
+ "price": 80000,
+ "price_history": [
+  {
+   "date": "2026-10-16",
+   "price": 80000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "VIT",
+  "Längd i fot": "18 fot",
+  "Modell": "560",
+  "Modellår": "2004",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "UTTERN",
+  "Märke": "Uttern",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27425996",
+ "width_cm": 0,
+ "year": 2004
+}

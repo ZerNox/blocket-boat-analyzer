@@ -1,0 +1,122 @@
+{
+ "ad_id": 24301347,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1792080054000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 115.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": "rmes Utrustning: Motor 115 hk Mariner 2-takt. startar och går bra. 80 kärra obes (1100 kg) båt som behöver lite städning",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "båt som behöver lite städning, samt nytt kapell.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "kan säljas utan kärran, då 5000 billigare",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-16T04:05:21+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "A. Hellas Hermes",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/24301347/248c1e55-a37e-4ef2-993f-5bcb041b2c58",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/24301347/248c1e55-a37e-4ef2-993f-5bcb041b2c58",
+  "https://images.blocketcdn.se/dynamic/default/item/24301347/3481d3d3-2193-4c7c-8967-9f9faf31d8f1",
+  "https://images.blocketcdn.se/dynamic/default/item/24301347/034357c8-4d28-43b0-a69a-8d7cc59f6727",
+  "https://images.blocketcdn.se/dynamic/default/item/24301347/811ca9c5-4655-4dfb-aa07-b8bb69296fbb",
+  "https://images.blocketcdn.se/dynamic/default/item/24301347/f782ff36-f499-4ab9-a889-386ab30dba7b"
+ ],
+ "last_seen": "2026-10-16T04:05:21+00:00",
+ "lat": 56.54,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-10-16",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 115,
+   "engine_maker": "Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor 115 hk Mariner 2-takt.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "10b4dbb4f0220808"
+ },
+ "location": "Älmhult",
+ "lon": 14.2,
+ "make": "H-Båt",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 233,
+  "fetched_ts": 1792123745523,
+  "text_sha": "10b4dbb4f0220808"
+ },
+ "price": 26000,
+ "price_history": [
+  {
+   "date": "2026-10-16",
+   "price": 26000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "20 fot",
+  "Modellår": "1990",
+  "Märke": "H-Båt",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/24301347",
+ "width_cm": 0,
+ "year": 1990
+}

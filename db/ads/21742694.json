@@ -98,7 +98,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
- "not_in_search_since": "2026-09-27",
+ "not_in_search_since": "2026-10-16",
  "page": {
   "description_chars": 1168,
   "fetched_ts": 1791779116260,
@@ -128,7 +128,7 @@
   "Märke": "Örnvik",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/21742694",
  "width_cm": 0,
  "year": 1970

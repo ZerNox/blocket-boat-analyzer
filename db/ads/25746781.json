@@ -73,6 +73,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-16",
  "page": {
   "description_chars": 1625,
   "fetched_ts": 1791779185082,
@@ -98,7 +99,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25746781",
  "width_cm": 0,
  "year": 1985

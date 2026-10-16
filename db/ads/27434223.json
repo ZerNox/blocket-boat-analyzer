@@ -1,0 +1,92 @@
+{
+ "ad_id": 27434223,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1792070486000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2011,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Båten är utrustad med en 4-takt 50hk Yamaha utombordsmotor från 2011 med ett hamnsläp.",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "kött motorbåt Uttern 6300 weekendcruiser\nFin och välskött Uttern 6300. Båten är utrustad med en 4-takt 50h",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-16T04:05:21+00:00",
+ "found_by": [
+  "kategori",
+  "Uttern 6300"
+ ],
+ "heading": "Välskött motorbåt Uttern 6300 weekendcruiser",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27434223/e025892e-295e-4c00-816f-bf5e3e30d640",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27434223/e025892e-295e-4c00-816f-bf5e3e30d640",
+  "https://images.blocketcdn.se/dynamic/default/item/27434223/76d8e056-d231-4a2b-9d13-fd22ea50e8f6",
+  "https://images.blocketcdn.se/dynamic/default/item/27434223/89971b08-9118-4d15-a0d5-4672a9a35f2f",
+  "https://images.blocketcdn.se/dynamic/default/item/27434223/6444c931-4fce-48b5-b90b-4bc8c9c43ca2"
+ ],
+ "last_seen": "2026-10-16T04:05:21+00:00",
+ "lat": 55.4,
+ "length_ft": 21,
+ "location": "Höllviken",
+ "lon": 12.95,
+ "make": "Uttern",
+ "max_speed": 12,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 368,
+  "fetched_ts": 1792123752639,
+  "text_sha": "6b8c9a781db5b7a5"
+ },
+ "price": 95000,
+ "price_history": [
+  {
+   "date": "2026-10-16",
+   "price": 95000
+  }
+ ],
+ "specs": {
+  "Bredd": "260 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "60 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Off white",
+  "Längd i fot": "21 fot",
+  "Modell": "6300",
+  "Modellår": "1989",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "8",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "12 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "1 300 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27434223",
+ "width_cm": 260,
+ "year": 1989
+}

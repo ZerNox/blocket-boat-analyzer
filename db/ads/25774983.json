@@ -107,6 +107,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-16",
  "page": {
   "description_chars": 913,
   "fetched_ts": 1791779194307,
@@ -136,7 +137,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25774983",
  "width_cm": 0,
  "year": 2000

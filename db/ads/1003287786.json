@@ -114,6 +114,12 @@
    "price": 59975
   }
  ],
+ "sold": {
+  "date": "2026-10-16",
+  "final_bid": 41000,
+  "last_price": 59975,
+  "reserve_reached": false
+ },
  "source": "klaravik",
  "specs": {
   "Antal nycklar": "Information saknas",
@@ -129,7 +135,7 @@
   "År": "2022",
   "Övriga mått": "Tankvolym: 145L"
  },
- "status": "active",
+ "status": "unsold",
  "url": "https://www.klaravik.se/auktion/produkt/3287786-motorbat-cremo-650cc/",
  "vision": {
   "at": "2026-10-14",
