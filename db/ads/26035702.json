@@ -83,6 +83,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 100.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-17",
  "page": {
   "description_chars": 1994,
   "fetched_ts": 1791779263584,
@@ -99,6 +100,11 @@
    "price": 110000
   }
  ],
+ "sold": {
+  "date": "2026-10-17",
+  "days_seen": 20,
+  "last_price": 110000
+ },
  "specs": {
   "Bredd": "229 cm",
   "Båtens plats": "Sverige",
@@ -120,7 +126,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "800 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26035702",
  "width_cm": 229,
  "year": 2007

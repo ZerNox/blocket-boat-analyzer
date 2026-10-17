@@ -57,6 +57,7 @@
  "motor_fuel": "Diesel",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-17",
  "page": {
   "description_chars": 180,
   "fetched_ts": 1791779149379,
@@ -86,7 +87,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "2 000 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/24159278",
  "width_cm": 260,
  "year": 2000

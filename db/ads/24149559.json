@@ -111,6 +111,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-17",
  "page": {
   "description_chars": 545,
   "fetched_ts": 1791779146901,
@@ -139,7 +140,7 @@
   "Sovplatser": "2",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/24149559",
  "width_cm": 0,
  "year": 2004

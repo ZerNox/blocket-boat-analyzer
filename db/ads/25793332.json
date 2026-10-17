@@ -97,6 +97,7 @@
  "motor_fuel": null,
  "motor_size": 90.0,
  "motor_type": null,
+ "not_in_search_since": "2026-10-17",
  "page": {
   "description_chars": 314,
   "fetched_ts": 1791779200289,
@@ -122,7 +123,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "840 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25793332",
  "width_cm": 250,
  "year": 1979

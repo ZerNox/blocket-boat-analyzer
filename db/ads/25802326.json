@@ -1,7 +1,7 @@
 {
  "ad_id": 25802326,
  "boat_class": "Hyttbåt",
- "changed_ts": 1787593650000,
+ "changed_ts": 1792173817000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1978,
@@ -72,7 +72,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25802326/d3cd3fec-f759-4910-9a0a-55ac08acd6b1",
   "https://images.blocketcdn.se/dynamic/default/item/25802326/868fb782-703c-4689-928f-f6261c45cb71"
  ],
- "last_seen": "2026-10-16T04:05:21+00:00",
+ "last_seen": "2026-10-17T04:05:20+00:00",
  "lat": 59.58,
  "length_ft": 19,
  "llm": {
@@ -116,14 +116,18 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 574,
-  "fetched_ts": 1791779201592,
+  "fetched_ts": 1792210143308,
   "text_sha": "66799bd3a3aa6b0a"
  },
- "price": 45000,
+ "price": 38000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 45000
+  },
+  {
+   "date": "2026-10-17",
+   "price": 38000
   }
  ],
  "specs": {

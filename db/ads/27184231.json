@@ -109,6 +109,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-17",
  "page": {
   "description_chars": 707,
   "fetched_ts": 1792037531958,
@@ -141,7 +142,7 @@
   "Toppfart": "25 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/27184231",
  "width_cm": 236,
  "year": 1998

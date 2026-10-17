@@ -119,6 +119,12 @@
    "price": 90725
   }
  ],
+ "sold": {
+  "date": "2026-10-17",
+  "final_bid": 84000,
+  "last_price": 92725,
+  "reserve_reached": true
+ },
  "source": "klaravik",
  "specs": {
   "Antal nycklar": "1",
@@ -138,7 +144,7 @@
   "Trailers maxhastighet (km/h)": "30",
   "År enligt": "Typskylt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.klaravik.se/auktion/produkt/3304735-motorbat-silverhawk-540/",
  "year": null
 }

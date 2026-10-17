@@ -102,6 +102,7 @@
  "motor_fuel": null,
  "motor_size": 55.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-17",
  "page": {
   "description_chars": 476,
   "fetched_ts": 1791779395949,
@@ -125,7 +126,7 @@
   "Märke": "Minor",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26754104",
  "width_cm": 0,
  "year": 1985

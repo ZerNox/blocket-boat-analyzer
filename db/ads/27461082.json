@@ -1,0 +1,135 @@
+{
+ "ad_id": 27461082,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1792160498000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2000,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "- Nya rutor kapell & impregnering",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds 550 DC / Johnsson 90 / Trailer",
+    "included": true,
+    "kmh": 30,
+    "year": 2025
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 550 DC / Johnsson 90 / Trailer - HÖSTPRIS",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-17T04:05:20+00:00",
+ "found_by": [
+  "kategori",
+  "Ryds 550"
+ ],
+ "heading": "Ryds 550 DC / Johnsson 90 / Trailer - HÖSTPRIS",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27461082/fc9ecc1e-2cba-408c-a366-497f9fc10570",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27461082/fc9ecc1e-2cba-408c-a366-497f9fc10570",
+  "https://images.blocketcdn.se/dynamic/default/item/27461082/43f36d99-45a8-4d6c-bafd-d5474a38268d",
+  "https://images.blocketcdn.se/dynamic/default/item/27461082/9eb45fa4-7627-49d0-a9eb-7a9a7ef43d0c",
+  "https://images.blocketcdn.se/dynamic/default/item/27461082/e57c5d7e-1552-4813-b623-9b0162e48d60",
+  "https://images.blocketcdn.se/dynamic/default/item/27461082/d8db39d3-f8ee-4a17-ac6a-b3fc4b8546a9",
+  "https://images.blocketcdn.se/dynamic/default/item/27461082/e9d7795e-5bb3-4ad8-a7ae-843efe6b66c3",
+  "https://images.blocketcdn.se/dynamic/default/item/27461082/49085013-b65a-471d-aa67-387af71b398a"
+ ],
+ "last_seen": "2026-10-17T04:05:20+00:00",
+ "lat": 59.63,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-10-17",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2000,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "30d990b46ad8fe01"
+ },
+ "location": "Västerås",
+ "lon": 16.54,
+ "make": "Ryds",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 435,
+  "fetched_ts": 1792210148907,
+  "text_sha": "30d990b46ad8fe01"
+ },
+ "price": 62900,
+ "price_history": [
+  {
+   "date": "2026-10-17",
+   "price": 62900
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "550 DC",
+  "Modellår": "2000",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27461082",
+ "width_cm": 0,
+ "year": 2000
+}
