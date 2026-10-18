@@ -1,0 +1,147 @@
+{
+ "ad_id": 27476298,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1792227547000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2001,
+  "boat_year_source": "spec",
+  "engine_hours": 20,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury / Mariner",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2001,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod och fiskesökare från Humminbird.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Dessutom ingår ett robust vinter- och transportpresenning till förarplatsen samt ett extra bimini.",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Diverse 12-voltsuttag för eventuella laddare eller kylbox finns också.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "För transport ingår en bromsad 80-trailer.",
+    "included": true,
+    "kmh": 80
+   },
+   "vinterkapell": {
+    "evidence": "Dessutom ingår ett robust vinter- och transportpresenning till förarplatsen samt ett extra bimini.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "och två förvaringsfack i styrhytten. \nDen 60 liter stora aluminiumtanken är fast monterad. Ekolod och fis",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "ambiguous engine years [2001, 2024]"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-18T04:08:02+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Finnmaster 520 Troller",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27476298/c396e12e-f24d-4bea-93a7-9adde8731f5a",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27476298/c396e12e-f24d-4bea-93a7-9adde8731f5a",
+  "https://images.blocketcdn.se/dynamic/default/item/27476298/7d981ac6-60df-48e3-b3a4-d939188c329f",
+  "https://images.blocketcdn.se/dynamic/default/item/27476298/edbcbc7c-e417-4f70-9608-de002b14224c",
+  "https://images.blocketcdn.se/dynamic/default/item/27476298/b463f7fa-c514-436b-9350-003b75fcacae",
+  "https://images.blocketcdn.se/dynamic/default/item/27476298/46561594-6c65-4763-8472-244452d3fdec"
+ ],
+ "last_seen": "2026-10-18T04:08:02+00:00",
+ "lat": 56.96,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-10-18",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2001,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Mercury / Mariner",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor tillverkningsår 2001",
+   "engine_year_rejected": 2001,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "included"
+   }
+  },
+  "text_sha": "2a3d56ad34760815"
+ },
+ "location": "Bolmsö",
+ "lon": 13.73,
+ "make": "Finnmaster",
+ "max_speed": 26,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1421,
+  "fetched_ts": 1792296713803,
+  "text_sha": "2a3d56ad34760815"
+ },
+ "price": 110000,
+ "price_history": [
+  {
+   "date": "2026-10-18",
+   "price": 110000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "35 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "Troller 520",
+  "Modellår": "2001",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury / Mariner",
+  "Motortyp": "Utombordare",
+  "Märke": "Finnmaster",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "26 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27476298",
+ "width_cm": 210,
+ "year": 2001
+}

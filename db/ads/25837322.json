@@ -89,6 +89,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-18",
  "page": {
   "description_chars": 127,
   "fetched_ts": 1791779212901,
@@ -110,7 +111,7 @@
   "Märke": "Maxum",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25837322",
  "width_cm": 0,
  "year": 1994

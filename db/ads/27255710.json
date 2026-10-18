@@ -40,7 +40,7 @@
  "heading": "ockelbo t17",
  "image": null,
  "image_urls": [],
- "last_seen": "2026-10-17T04:05:20+00:00",
+ "last_seen": "2026-10-18T04:08:02+00:00",
  "lat": 59.44,
  "length_ft": 17,
  "llm": {
@@ -84,7 +84,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 0,
-  "fetched_ts": 1791605597138,
+  "fetched_ts": 1792296710995,
   "text_sha": "48d2b96c712bfe08"
  },
  "price": 38000,

@@ -108,6 +108,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 100.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-18",
  "page": {
   "description_chars": 444,
   "fetched_ts": 1791950971677,
@@ -138,7 +139,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "850 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/27194599",
  "width_cm": 230,
  "year": 2007

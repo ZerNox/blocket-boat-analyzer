@@ -77,6 +77,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 100.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-18",
  "page": {
   "description_chars": 970,
   "fetched_ts": 1791779211372,
@@ -105,7 +106,7 @@
   "Toppfart": "40 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25834950",
  "width_cm": 0,
  "year": 2012
