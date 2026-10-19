@@ -116,6 +116,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-19",
  "page": {
   "description_chars": 2669,
   "fetched_ts": 1791779129961,
@@ -141,7 +142,7 @@
   "Sittplatser": "8",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/23156449",
  "width_cm": 0,
  "year": 1998

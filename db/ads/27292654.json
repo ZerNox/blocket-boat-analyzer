@@ -9,8 +9,8 @@
   "engine_hours": 240,
   "engine_hp": 50.0,
   "engine_hp_source": "rule:text",
-  "engine_maker": "Mercury",
-  "engine_stroke": null,
+  "engine_maker": "Mercury 4-takt",
+  "engine_stroke": 4,
   "engine_type": "outboard",
   "engine_type_evidence": null,
   "engine_type_source": "rule:spec",
@@ -56,7 +56,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27292654/b21c3c59-2f4f-43b4-bb16-78eb6758dc90",
   "https://images.blocketcdn.se/dynamic/default/item/27292654/3e6b291f-2c84-423f-8ca8-18de65579fd8"
  ],
- "last_seen": "2026-10-18T04:08:02+00:00",
+ "last_seen": "2026-10-19T04:06:33+00:00",
  "lat": 57.71,
  "length_ft": 18,
  "location": "Göteborg",
@@ -67,9 +67,9 @@
  "motor_size": 50.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 1532,
-  "fetched_ts": 1791691972181,
-  "text_sha": "23eca6bc35ff4907"
+  "description_chars": 1488,
+  "fetched_ts": 1792383023866,
+  "text_sha": "8d2a43b11a50cd8d"
  },
  "price": 84000,
  "price_history": [
@@ -87,7 +87,7 @@
   "Modellår": "2010",
   "Motor inkluderad": "Ja",
   "Motorstorlek": "50 hk",
-  "Motortillverkare": "Mercury",
+  "Motortillverkare": "Mercury 4-takt",
   "Motortyp": "Utombordare",
   "Märke": "Sandström",
   "Typ": "Styrpulpetbåt"

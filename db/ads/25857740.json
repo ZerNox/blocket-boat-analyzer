@@ -86,6 +86,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-19",
  "page": {
   "description_chars": 68,
   "fetched_ts": 1791779217161,
@@ -112,7 +113,7 @@
   "Märke": "Uttern",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25857740",
  "width_cm": 220,
  "year": 2005

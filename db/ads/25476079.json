@@ -1,7 +1,7 @@
 {
  "ad_id": 25476079,
  "boat_class": "Hyttbåt",
- "changed_ts": 1786084794000,
+ "changed_ts": 1792346402000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2007,
@@ -21,7 +21,7 @@
   "engine_year_source": "rule:text",
   "equipment": {
    "ekolod": {
-    "evidence": "Lowrens Eagle ekolod",
+    "evidence": "Lowrens Eagle ekolod med givare",
     "included": true
    },
    "trailer": {
@@ -46,33 +46,35 @@
   "Ideal 550"
  ],
  "heading": "Ideal 550MC hyttbåt",
- "image": "https://images.blocketcdn.se/dynamic/default/item/25476079/61282fdb-941c-4d35-8239-7d7ff2ca8e01",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/25476079/a90165aa-efe5-49ce-8f6c-7e6b48f98fc0",
  "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/25476079/a90165aa-efe5-49ce-8f6c-7e6b48f98fc0",
   "https://images.blocketcdn.se/dynamic/default/item/25476079/61282fdb-941c-4d35-8239-7d7ff2ca8e01",
-  "https://images.blocketcdn.se/dynamic/default/item/25476079/5159b27c-3bd1-4916-a4e2-3d86cca6a69e",
   "https://images.blocketcdn.se/dynamic/default/item/25476079/b42036ab-6a1c-42dd-900d-d919d8e191e3",
-  "https://images.blocketcdn.se/dynamic/default/item/25476079/b5988bfa-d626-44fb-8522-4155ebd7205f",
-  "https://images.blocketcdn.se/dynamic/default/item/25476079/98fb3711-5e36-4334-85d5-1a110438234e",
-  "https://images.blocketcdn.se/dynamic/default/item/25476079/a0c3150a-41d1-47d6-ad72-7e8c21b6984d",
-  "https://images.blocketcdn.se/dynamic/default/item/25476079/887d7ae7-705b-492c-94f8-b599289b58d7"
+  "https://images.blocketcdn.se/dynamic/default/item/25476079/887d7ae7-705b-492c-94f8-b599289b58d7",
+  "https://images.blocketcdn.se/dynamic/default/item/25476079/f96fbcd4-4d40-4e04-ab53-3c13e96ef943",
+  "https://images.blocketcdn.se/dynamic/default/item/25476079/a624be78-874e-49e1-9b34-995180dd9494",
+  "https://images.blocketcdn.se/dynamic/default/item/25476079/7da829ff-071a-4c71-9fce-c854b678cfdc",
+  "https://images.blocketcdn.se/dynamic/default/item/25476079/5f631fe8-da90-42bf-9065-e93599bc888a",
+  "https://images.blocketcdn.se/dynamic/default/item/25476079/4bc57d68-d133-422e-b8e7-afd2ed36cb22"
  ],
- "last_seen": "2026-10-06T04:08:54+00:00",
+ "last_seen": "2026-10-19T04:06:33+00:00",
  "lat": 59.15,
  "length_ft": 18,
  "location": "Dalarö",
  "lon": 18.37,
  "make": "Ideal",
- "max_speed": 23,
+ "max_speed": 22,
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
  "not_in_search_since": "2026-10-07",
  "page": {
-  "description_chars": 339,
-  "fetched_ts": 1791173605854,
-  "text_sha": "3afb0c76bcfc7fc8"
+  "description_chars": 313,
+  "fetched_ts": 1792383009185,
+  "text_sha": "92464860fc4c77b8"
  },
- "price": 70000,
+ "price": 80000,
  "price_history": [
   {
    "date": "2026-09-27",
@@ -85,6 +87,10 @@
   {
    "date": "2026-10-06",
    "price": 70000
+  },
+  {
+   "date": "2026-10-19",
+   "price": 80000
   }
  ],
  "specs": {
@@ -100,10 +106,10 @@
   "Motortyp": "Utombordare",
   "Märke": "Ideal",
   "Skrovmaterial": "Glasfiber",
-  "Toppfart": "23 knop",
+  "Toppfart": "22 knop",
   "Typ": "Hyttbåt"
  },
- "status": "inactive",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/25476079",
  "width_cm": 0,
  "year": 2007

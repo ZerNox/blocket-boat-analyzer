@@ -63,6 +63,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-19",
  "page": {
   "description_chars": 1027,
   "fetched_ts": 1792210146044,
@@ -75,6 +76,11 @@
    "price": 32000
   }
  ],
+ "sold": {
+  "date": "2026-10-19",
+  "days_seen": 10,
+  "last_price": 32000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
@@ -90,7 +96,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/27246705",
  "width_cm": 0,
  "year": 1990

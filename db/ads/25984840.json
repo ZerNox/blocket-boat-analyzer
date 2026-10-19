@@ -91,6 +91,7 @@
  "motor_fuel": null,
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-19",
  "page": {
   "description_chars": 126,
   "fetched_ts": 1791779250889,
@@ -114,7 +115,7 @@
   "Märke": "Ideal",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25984840",
  "width_cm": 0,
  "year": 2006

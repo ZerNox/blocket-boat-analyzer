@@ -54,7 +54,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27086877/603292c9-ddc4-42cf-bd80-fda95b628289",
   "https://images.blocketcdn.se/dynamic/default/item/27086877/f33da396-19c1-437d-92bd-babff4a59a8c"
  ],
- "last_seen": "2026-10-18T04:08:02+00:00",
+ "last_seen": "2026-10-19T04:06:33+00:00",
  "lat": 57.51,
  "length_ft": 18,
  "location": "Särö",
@@ -66,7 +66,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 521,
-  "fetched_ts": 1791691962473,
+  "fetched_ts": 1792383016783,
   "text_sha": "e33b85b783b15279"
  },
  "price": 165000,

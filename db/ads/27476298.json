@@ -110,6 +110,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-19",
  "page": {
   "description_chars": 1421,
   "fetched_ts": 1792296713803,
@@ -140,7 +141,7 @@
   "Toppfart": "26 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/27476298",
  "width_cm": 210,
  "year": 2001

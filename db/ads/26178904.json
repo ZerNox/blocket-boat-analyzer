@@ -1,7 +1,7 @@
 {
  "ad_id": 26178904,
  "boat_class": "Daycruiser",
- "changed_ts": 1792177341000,
+ "changed_ts": 1792308042000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2000,
@@ -72,11 +72,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26178904/018ff96d-8bc4-4335-9410-60128bf722ac",
   "https://images.blocketcdn.se/dynamic/default/item/26178904/e42d9048-0a59-4a4f-af07-18a4f3df5e1a"
  ],
- "last_seen": "2026-10-18T04:08:02+00:00",
+ "last_seen": "2026-10-19T04:06:33+00:00",
  "lat": 59.11,
  "length_ft": 21,
  "llm": {
-  "at": "2026-10-17",
+  "at": "2026-10-19",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2000,
@@ -105,7 +105,7 @@
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "4f374091f499bbcc"
+  "text_sha": "e0e28d408e83042e"
  },
  "location": "Järna",
  "lon": 17.56,
@@ -116,10 +116,10 @@
  "motor_type": "Inombordare",
  "page": {
   "description_chars": 1657,
-  "fetched_ts": 1792210144547,
-  "text_sha": "4f374091f499bbcc"
+  "fetched_ts": 1792383010586,
+  "text_sha": "e0e28d408e83042e"
  },
- "price": 89000,
+ "price": 79900,
  "price_history": [
   {
    "date": "2026-09-27",
@@ -132,12 +132,16 @@
   {
    "date": "2026-10-03",
    "price": 89000
+  },
+  {
+   "date": "2026-10-19",
+   "price": 79900
   }
  ],
  "specs": {
   "Båtens plats": "Sverige",
   "Längd i fot": "21 fot",
-  "Modell": "2300 SC - MerCruiser 5.7 V8 - Inkl Rejäl trailer",
+  "Modell": "2300 SC - MerCruiser 5.7 V8 - SISTA CHANSEN!",
   "Modellår": "2000",
   "Motortillverkare": "Mercruiser",
   "Motortyp": "Inombordare",

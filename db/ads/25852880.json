@@ -64,6 +64,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-19",
  "page": {
   "description_chars": 467,
   "fetched_ts": 1791779215680,
@@ -92,7 +93,7 @@
   "Sovplatser": "2",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25852880",
  "width_cm": 0,
  "year": 1975
