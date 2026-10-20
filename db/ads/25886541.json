@@ -88,6 +88,7 @@
  "motor_fuel": null,
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-20",
  "page": {
   "description_chars": 459,
   "fetched_ts": 1791779225976,
@@ -113,7 +114,7 @@
   "Toppfart": "32 knop",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25886541",
  "width_cm": 220,
  "year": 1975

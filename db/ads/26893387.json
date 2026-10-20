@@ -69,6 +69,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-10-20",
  "page": {
   "description_chars": 263,
   "fetched_ts": 1791779409538,
@@ -81,6 +82,11 @@
    "price": 55000
   }
  ],
+ "sold": {
+  "date": "2026-10-20",
+  "days_seen": 23,
+  "last_price": 55000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Längd i fot": "18 fot",
@@ -89,7 +95,7 @@
   "Märke": "Örnvik",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26893387",
  "width_cm": 0,
  "year": 2008

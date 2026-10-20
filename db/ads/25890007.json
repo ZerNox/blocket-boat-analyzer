@@ -74,6 +74,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-20",
  "page": {
   "description_chars": 1258,
   "fetched_ts": 1791779227408,
@@ -102,7 +103,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25890007",
  "width_cm": 240,
  "year": 1983

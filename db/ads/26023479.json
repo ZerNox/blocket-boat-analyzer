@@ -58,11 +58,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26023479/9b152431-2ad6-4328-be35-4339e75ba704",
   "https://images.blocketcdn.se/dynamic/default/item/26023479/220f0cfd-3790-418f-a2e4-626452c18d06"
  ],
- "last_seen": "2026-10-19T04:06:33+00:00",
+ "last_seen": "2026-10-20T04:08:08+00:00",
  "lat": 56.17,
  "length_ft": 17,
  "llm": {
-  "at": "2026-10-05",
+  "at": "2026-10-20",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1980,
@@ -71,7 +71,7 @@
    "engine_maker": "Mercury",
    "engine_type": "outboard",
    "engine_year": null,
-   "engine_year_evidence": null,
+   "engine_year_evidence": "Motorstorlek: 50 hk Motortillverkare: Mercury 4-takt Motortyp: Utombordare",
    "equipment": {
     "ekolod": "included",
     "elmotor": "not_mentioned",
@@ -80,7 +80,7 @@
     "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
-    "plotter": "included",
+    "plotter": "excluded",
     "radar": "not_mentioned",
     "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
@@ -91,7 +91,7 @@
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "be08428e89650624"
+  "text_sha": "ceadb76bbf245ef3"
  },
  "location": "Näsum",
  "lon": 14.5,
@@ -102,8 +102,8 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 220,
-  "fetched_ts": 1791779260886,
-  "text_sha": "be08428e89650624"
+  "fetched_ts": 1792469575234,
+  "text_sha": "ceadb76bbf245ef3"
  },
  "price": 20000,
  "price_history": [

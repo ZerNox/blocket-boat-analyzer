@@ -33,7 +33,7 @@
     "included": true
    },
    "trailer": {
-    "evidence": "Båten kördes upp till Östhammar i helgen och ligger där på kärra över vintern.",
+    "evidence": "Båten kördes upp till Östhammar och ligger där på kärra över vintern.",
     "included": true
    }
   },
@@ -64,11 +64,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/24956045/6fe2aee1-e767-4b01-bd37-a3f65633b52b",
   "https://images.blocketcdn.se/dynamic/default/item/24956045/b4c6fcba-ccf6-480f-9e5a-fd411869ee5c"
  ],
- "last_seen": "2026-10-19T04:06:33+00:00",
+ "last_seen": "2026-10-20T04:08:08+00:00",
  "lat": 60.26,
  "length_ft": 17,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-20",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2005,
@@ -83,16 +83,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "excluded",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "excluded"
    }
   },
-  "text_sha": "462689334e46718d"
+  "text_sha": "22b67a859402f906"
  },
  "location": "Östhammar",
  "lon": 18.38,
@@ -102,9 +107,9 @@
  "motor_size": 90.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 1259,
-  "fetched_ts": 1791779162302,
-  "text_sha": "462689334e46718d"
+  "description_chars": 1250,
+  "fetched_ts": 1792469530750,
+  "text_sha": "22b67a859402f906"
  },
  "price": 79000,
  "price_history": [

@@ -61,7 +61,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26630070/c40b5b33-ffa2-48d5-8a22-ef9fc381b078",
   "https://images.blocketcdn.se/dynamic/default/item/26630070/aae481f7-06e5-4b90-aa75-e2ccbcda46f1"
  ],
- "last_seen": "2026-10-19T04:06:33+00:00",
+ "last_seen": "2026-10-20T04:08:08+00:00",
  "lat": 58.48,
  "length_ft": 21,
  "location": "Söderköping",
@@ -73,7 +73,7 @@
  "motor_type": "Inombordare",
  "page": {
   "description_chars": 1056,
-  "fetched_ts": 1791779372915,
+  "fetched_ts": 1792469680117,
   "text_sha": "562259bd9da2775c"
  },
  "price": 149000,

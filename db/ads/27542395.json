@@ -1,0 +1,137 @@
+{
+ "ad_id": 27542395,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1792413552000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod och badstege",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Säljer en Sälö 17 med nytt hamnkapell.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Samt 30 kärra",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-20T04:08:08+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Daycruser Ryds sälö 17",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27542395/99a1e27a-058f-4553-a0e9-5aabb63a7f32",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27542395/99a1e27a-058f-4553-a0e9-5aabb63a7f32",
+  "https://images.blocketcdn.se/dynamic/default/item/27542395/9b9bcd6e-6ba9-4bdc-8350-2af36b282e93",
+  "https://images.blocketcdn.se/dynamic/default/item/27542395/7e6d8de4-8b0c-4ff9-9684-5ad9ea25a0a9",
+  "https://images.blocketcdn.se/dynamic/default/item/27542395/8ea5660e-abd1-4e88-9e24-bf1f5adae01a",
+  "https://images.blocketcdn.se/dynamic/default/item/27542395/c1a67d06-deac-4dca-bb09-a6ca143fd11a",
+  "https://images.blocketcdn.se/dynamic/default/item/27542395/44d3cddf-c99e-4882-913c-d0f71b14e560",
+  "https://images.blocketcdn.se/dynamic/default/item/27542395/c4879f89-41f5-4123-9065-5bd0c6cb5633"
+ ],
+ "last_seen": "2026-10-20T04:08:08+00:00",
+ "lat": 58.53,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-10-20",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motorstorlek: 40 hk 2 takt",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "58863872804302a7"
+ },
+ "location": "Götene",
+ "lon": 13.47,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 347,
+  "fetched_ts": 1792469732381,
+  "text_sha": "58863872804302a7"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-10-20",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Bredd": "180 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "Sälö 17",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27542395",
+ "width_cm": 180,
+ "year": 1978
+}

@@ -6,7 +6,7 @@
  "extraction": {
   "boat_year": 1980,
   "boat_year_source": "spec",
-  "engine_hours": null,
+  "engine_hours": 60000,
   "engine_hp": 115.0,
   "engine_hp_source": "rule:text",
   "engine_maker": "Jonsson",
@@ -71,15 +71,15 @@
   "https://images.blocketcdn.se/dynamic/default/item/26396013/abfc8187-1acf-4a5e-beae-6b53c951594f",
   "https://images.blocketcdn.se/dynamic/default/item/26396013/b9bd2bf4-8ff9-4182-af9e-96d87cd7324c"
  ],
- "last_seen": "2026-10-19T04:06:33+00:00",
+ "last_seen": "2026-10-20T04:08:08+00:00",
  "lat": 58.24,
  "length_ft": 30,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-20",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1980,
-   "engine_hours": null,
+   "engine_hours": 60000,
    "engine_hp": 115,
    "engine_maker": "Jonsson",
    "engine_type": "outboard",
@@ -90,16 +90,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "included",
     "trailer": "not_mentioned",
+    "varmare": "included",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "8fbe29efb2f9a906"
+  "text_sha": "a1ced1774d17b14a"
  },
  "location": "Boxholm",
  "lon": 15.06,
@@ -110,9 +115,9 @@
  "motor_type": "Utombordare",
  "not_in_search_since": "2026-09-27",
  "page": {
-  "description_chars": 750,
-  "fetched_ts": 1791779328092,
-  "text_sha": "8fbe29efb2f9a906"
+  "description_chars": 772,
+  "fetched_ts": 1792469641959,
+  "text_sha": "a1ced1774d17b14a"
  },
  "price": 62000,
  "price_history": [

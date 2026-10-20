@@ -1,0 +1,152 @@
+{
+ "ad_id": 27550606,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1792429661000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": 10,
+  "engine_hp": 100,
+  "engine_hp_source": "llm",
+  "engine_maker": "Johnson GT100",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1996,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapellet behöver bytas (ca 9.000:-) men kan behandlas samt sys 10-15cm,",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Series/Boatnav plotter med Cmap-kort för östra Sverige medföljer.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båten finns på Torsö straxt utanför Mariestad och står på en 30-kärra som ingår.",
+    "included": true,
+    "kmh": 30
+   },
+   "vinterkapell": {
+    "evidence": "Sedan jag tog upp den har det blivit påslag invändigt då den stått under presenning, vilket jag skall tvätta bort med ä…",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-20T04:08:08+00:00",
+ "found_by": [
+  "kategori",
+  "Crescent 590"
+ ],
+ "heading": "Crescent 590 Höstklipp ?",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27550606/741785b1-e94e-47bd-a894-370af09c1539",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27550606/741785b1-e94e-47bd-a894-370af09c1539",
+  "https://images.blocketcdn.se/dynamic/default/item/27550606/3727e1b3-a084-46ff-ae92-3e96df7bbd1e",
+  "https://images.blocketcdn.se/dynamic/default/item/27550606/e555ef9d-5bae-401f-9426-bd300b9413a5",
+  "https://images.blocketcdn.se/dynamic/default/item/27550606/321a6744-642a-4488-b8db-b4ec82acfb76",
+  "https://images.blocketcdn.se/dynamic/default/item/27550606/edec0f30-7942-4889-9d38-ef35c6df0fb2",
+  "https://images.blocketcdn.se/dynamic/default/item/27550606/05c5ada5-c476-4ff1-89b2-4edcdccd643c",
+  "https://images.blocketcdn.se/dynamic/default/item/27550606/925b44e8-0f8f-4719-95bb-47437a3be29f",
+  "https://images.blocketcdn.se/dynamic/default/item/27550606/8267c167-c5c9-4e55-936e-c51d08b2f7c3",
+  "https://images.blocketcdn.se/dynamic/default/item/27550606/e740b02c-c52e-4385-9ae0-ea3c8bcd9861",
+  "https://images.blocketcdn.se/dynamic/default/item/27550606/b005c90c-df1b-409b-a189-14614cec640a",
+  "https://images.blocketcdn.se/dynamic/default/item/27550606/4cc57a88-ef7f-4fc7-a324-cc0b40798d30",
+  "https://images.blocketcdn.se/dynamic/default/item/27550606/a20a59ca-9962-4d30-b7b1-5f96891bb0d1"
+ ],
+ "last_seen": "2026-10-20T04:08:08+00:00",
+ "lat": 58.72,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-10-20",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1996,
+   "engine_hours": 10,
+   "engine_hp": 100,
+   "engine_maker": "Johnson",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "excluded",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "98e9cee79fc59594"
+ },
+ "location": "Mariestad",
+ "lon": 13.82,
+ "make": "Crescent",
+ "max_speed": 35,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1096,
+  "fetched_ts": 1792469733603,
+  "text_sha": "98e9cee79fc59594"
+ },
+ "price": 75000,
+ "price_history": [
+  {
+   "date": "2026-10-20",
+   "price": 75000
+  }
+ ],
+ "specs": {
+  "Bredd": "235 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "20 fot",
+  "Modell": "Celeste 590 Crown",
+  "Modellår": "1996",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Johnson GT100",
+  "Motortyp": "Utombordare",
+  "Märke": "Crescent",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "35 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "700 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27550606",
+ "width_cm": 235,
+ "year": 1996
+}

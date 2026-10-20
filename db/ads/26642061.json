@@ -51,7 +51,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26642061/7e0833bf-f154-47f3-af30-b9f5106b1e9f",
   "https://images.blocketcdn.se/dynamic/default/item/26642061/5f4d8abf-70b9-4fbc-8311-f13af202fa29"
  ],
- "last_seen": "2026-10-19T04:06:33+00:00",
+ "last_seen": "2026-10-20T04:08:08+00:00",
  "lat": 61.73,
  "length_ft": 21,
  "location": "Delsbo",
@@ -62,9 +62,9 @@
  "motor_size": 90.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 172,
-  "fetched_ts": 1791779376947,
-  "text_sha": "6bcc4e1532ca5e72"
+  "description_chars": 186,
+  "fetched_ts": 1792469684563,
+  "text_sha": "9d03207140c247ea"
  },
  "price": 75000,
  "price_history": [
@@ -84,7 +84,7 @@
   "Motortillverkare": "Honda",
   "Motortyp": "Utombordare",
   "Märke": "Uttern",
-  "Toppfart": "28 knop",
+  "Toppfart": "26 knop",
   "Typ": "Kabinbåt"
  },
  "status": "active",

@@ -70,11 +70,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/27366783/92036789-517f-4a79-afb2-410271141ae4",
   "https://images.blocketcdn.se/dynamic/default/item/27366783/e7ccc4b0-863b-446b-a879-2211579a2f07"
  ],
- "last_seen": "2026-10-19T04:06:33+00:00",
+ "last_seen": "2026-10-20T04:08:08+00:00",
  "lat": 58.28,
  "length_ft": 19,
  "llm": {
-  "at": "2026-10-13",
+  "at": "2026-10-20",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2011,
@@ -103,7 +103,7 @@
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "400cf87f342d9f70"
+  "text_sha": "e0a1983b3e92a7cb"
  },
  "location": "Valdemarsvik",
  "lon": 16.78,
@@ -113,15 +113,19 @@
  "motor_size": 90.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 1471,
-  "fetched_ts": 1791864682220,
-  "text_sha": "400cf87f342d9f70"
+  "description_chars": 1426,
+  "fetched_ts": 1792469730922,
+  "text_sha": "e0a1983b3e92a7cb"
  },
- "price": 115000,
+ "price": 109000,
  "price_history": [
   {
    "date": "2026-10-13",
    "price": 115000
+  },
+  {
+   "date": "2026-10-20",
+   "price": 109000
   }
  ],
  "specs": {

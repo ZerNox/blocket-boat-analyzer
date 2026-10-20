@@ -58,11 +58,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26903513/2292c5a9-473f-4290-b539-88521380a9bc",
   "https://images.blocketcdn.se/dynamic/default/item/26903513/ebb786b6-e258-4088-9c05-2005ea7c7fab"
  ],
- "last_seen": "2026-10-19T04:06:33+00:00",
+ "last_seen": "2026-10-20T04:08:08+00:00",
  "lat": 59.95,
  "length_ft": 18,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-20",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1978,
@@ -77,16 +77,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "791bbee0229169ef"
+  "text_sha": "f8be9036409854cc"
  },
  "location": "Heby",
  "lon": 16.86,
@@ -96,9 +101,9 @@
  "motor_size": 60.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 549,
-  "fetched_ts": 1791779410999,
-  "text_sha": "791bbee0229169ef"
+  "description_chars": 592,
+  "fetched_ts": 1792469707891,
+  "text_sha": "f8be9036409854cc"
  },
  "price": 25000,
  "price_history": [

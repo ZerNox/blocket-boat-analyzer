@@ -1,0 +1,108 @@
+{
+ "ad_id": 27555196,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1792436079000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2005,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor 40 hk Evinrude E-tec -05 och en mycket fin 80 km/h 750 kg obromsad båtvagn finska Muuli V750LP.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Lowrance Elite 9 TI 2 / ROW AI 3-IN-1 plotter GPS och ekolod i samma enhet.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Lowrance Elite 9 TI 2 / ROW AI 3-IN-1 plotter GPS och ekolod i samma enhet.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Pris 83 000 kr utan båtvagn.",
+    "included": false
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "vinrude E-tec\nFin båt med mittpulpet för utflykter, fiske och bad. Motor 40 hk Evinrude E-tec -05 och en m",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-20T04:08:08+00:00",
+ "found_by": [
+  "Ideal 550"
+ ],
+ "heading": "Ideal 550S med 40hk Evinrude E-tec",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27555196/dffa830b-33e0-4272-96bc-72a7179de298",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27555196/dffa830b-33e0-4272-96bc-72a7179de298",
+  "https://images.blocketcdn.se/dynamic/default/item/27555196/72b47c41-ba4f-4b68-b3e5-0763e9ac9349",
+  "https://images.blocketcdn.se/dynamic/default/item/27555196/3d4e5fe2-8ccc-492a-b67c-7f643b5c7688",
+  "https://images.blocketcdn.se/dynamic/default/item/27555196/5267cd7b-26d2-4397-8e01-67e66509d360",
+  "https://images.blocketcdn.se/dynamic/default/item/27555196/5692e625-2ef9-48ab-af7c-e34dbcf80822",
+  "https://images.blocketcdn.se/dynamic/default/item/27555196/d2b3c860-41f8-4919-aaed-09eb81e990a5",
+  "https://images.blocketcdn.se/dynamic/default/item/27555196/d88a646c-a841-4ff1-bdbc-20ed5b81ea35",
+  "https://images.blocketcdn.se/dynamic/default/item/27555196/8e1c1128-ca6d-4a5b-b1cb-bf6cd4f9dd11",
+  "https://images.blocketcdn.se/dynamic/default/item/27555196/de81e416-6e85-4951-bc8a-97ba946d3ae3",
+  "https://images.blocketcdn.se/dynamic/default/item/27555196/d01f08f5-aee3-4701-bf93-74eb62cc3d80",
+  "https://images.blocketcdn.se/dynamic/default/item/27555196/7edc1208-5390-46df-b185-6f212e0146c7",
+  "https://images.blocketcdn.se/dynamic/default/item/27555196/634aa323-39e6-4239-bd49-be657b18df21",
+  "https://images.blocketcdn.se/dynamic/default/item/27555196/3829da31-adff-42c6-a25a-6c3516afe0b9",
+  "https://images.blocketcdn.se/dynamic/default/item/27555196/a8419b00-72e6-4fc5-81c5-015c2795cf1d"
+ ],
+ "last_seen": "2026-10-20T04:08:08+00:00",
+ "lat": 65.3,
+ "length_ft": 18,
+ "location": "Piteå",
+ "lon": 21.5,
+ "make": "Ideal",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 1147,
+  "fetched_ts": 1792469734962,
+  "text_sha": "aec879e05d477ac8"
+ },
+ "price": 83000,
+ "price_history": [
+  {
+   "date": "2026-10-20",
+   "price": 83000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "550 S",
+  "Modellår": "2005",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Ideal",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27555196",
+ "width_cm": 0,
+ "year": 2005
+}
