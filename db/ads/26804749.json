@@ -21,7 +21,7 @@
   "engine_year_source": "rule:spec",
   "equipment": {
    "plotter": {
-    "evidence": "Jag har uppgraderat med hydralstyrning (2[tel] kr), Lowrance Elite 7 tum (2[tel] kr), nya stolar (2018), mm.",
+    "evidence": "Oerhört pålitlig motor som alltid har startat och som går bäst på 98 oktan (pga förgasare).Jag har uppgraderat med hydr…",
     "included": true
    },
    "trailer": {
@@ -54,7 +54,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26804749/95c4c684-8bc0-4941-bb19-cfe7027b7c0e",
   "https://images.blocketcdn.se/dynamic/default/item/26804749/ca4ed2e5-dd5d-47a6-9604-0b1c15729dc2"
  ],
- "last_seen": "2026-10-20T04:08:08+00:00",
+ "last_seen": "2026-10-23T21:02:43+00:00",
  "lat": 59.61,
  "length_ft": 19,
  "location": "Hallstahammar",
@@ -65,9 +65,9 @@
  "motor_size": 80.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 1252,
-  "fetched_ts": 1791950958850,
-  "text_sha": "589a6e82e3c899b2"
+  "description_chars": 1173,
+  "fetched_ts": 1792789617470,
+  "text_sha": "ebf40e9ef1580c1f"
  },
  "price": 60000,
  "price_history": [

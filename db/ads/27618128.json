@@ -1,0 +1,159 @@
+{
+ "ad_id": 27618128,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1792675076000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2006,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2006,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "GPS och ekolod hjälper till med navigeringen och visar djup och vattentemperatur.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "GPS och ekolod hjälper till med navigeringen och visar djup och vattentemperatur.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer med vinsch och rullar finns, vilket gör sjösättning och upptagning smidig.",
+    "included": true
+   },
+   "vinsch": {
+    "evidence": "Trailer med vinsch och rullar finns, vilket gör sjösättning och upptagning smidig.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Visible enclosed cabin with windows and roof in multiple photos.",
+  "hull_source": "bild",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-23T21:02:43+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "En smart och praktisk liten familjebåt med mycket utrustning ev byte",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27618128/9baa867a-e8c6-4249-8151-6ac02500de76",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27618128/9baa867a-e8c6-4249-8151-6ac02500de76",
+  "https://images.blocketcdn.se/dynamic/default/item/27618128/7fc77284-ae22-4971-9eee-41d5e8bf2d50",
+  "https://images.blocketcdn.se/dynamic/default/item/27618128/a7264bbf-423e-4c34-9491-d4fb0cd23257",
+  "https://images.blocketcdn.se/dynamic/default/item/27618128/b519c1f8-29d1-42f8-88d9-d4911f446c05",
+  "https://images.blocketcdn.se/dynamic/default/item/27618128/39c225e4-d764-4fd6-b7cb-52606a7a40d2",
+  "https://images.blocketcdn.se/dynamic/default/item/27618128/7163340b-e267-4dec-83bb-f14c903f6f23",
+  "https://images.blocketcdn.se/dynamic/default/item/27618128/0af8a580-7f8e-4d59-8e9e-dcba8d3defb4",
+  "https://images.blocketcdn.se/dynamic/default/item/27618128/ef8d96c8-d863-4213-80c7-9146520c9a65",
+  "https://images.blocketcdn.se/dynamic/default/item/27618128/53c04dc3-f268-48db-b52f-6075365ac968",
+  "https://images.blocketcdn.se/dynamic/default/item/27618128/af9d79cd-9b1e-48db-b5cb-cd637b71773b",
+  "https://images.blocketcdn.se/dynamic/default/item/27618128/eaa4149d-228c-43a4-93c4-4b9eec6995a8"
+ ],
+ "last_seen": "2026-10-23T21:02:43+00:00",
+ "lat": 58.03,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-10-23",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2006,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "included",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a0556445e6d5e55b"
+ },
+ "location": "Höviksnäs",
+ "lon": 11.76,
+ "make": "Ideal",
+ "max_speed": 24,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 2675,
+  "fetched_ts": 1792789653428,
+  "text_sha": "a0556445e6d5e55b"
+ },
+ "price": 78500,
+ "price_history": [
+  {
+   "date": "2026-10-23",
+   "price": 78500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "Classic 550 HT",
+  "Modellår": "2006",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Ideal",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "3",
+  "Toppfart": "24 knop",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27618128",
+ "vision": {
+  "at": "2026-10-23",
+  "images_sha": "72ec71ab5e2e41e5",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "cabin",
+   "hull_evidence": "Visible enclosed cabin with windows and roof in multiple photos.",
+   "hull_photo": 9
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 0,
+ "year": 2006
+}

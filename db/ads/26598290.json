@@ -72,6 +72,7 @@
  "motor_fuel": "Diesel",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-23",
  "page": {
   "description_chars": 1191,
   "fetched_ts": 1792469675840,
@@ -100,7 +101,7 @@
   "Toppfart": "6 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26598290",
  "width_cm": 240,
  "year": 1979

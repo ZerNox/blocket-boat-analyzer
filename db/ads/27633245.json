@@ -1,0 +1,102 @@
+{
+ "ad_id": 27633245,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1792760008000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1989,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Välvårdad Uttern 520 HT-89, Evinrude 70Hk-89.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Ekolod, o diverse tillbehör.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Fungerande kapell men behöver en översyn.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtkärra 30 km.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Välvårdad Uttern 520 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-23T21:02:43+00:00",
+ "found_by": [
+  "kategori",
+  "Uttern 520"
+ ],
+ "heading": "Välvårdad Uttern 520 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27633245/26d56a44-a75d-4c84-b66a-6fdc756ba04b",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27633245/26d56a44-a75d-4c84-b66a-6fdc756ba04b",
+  "https://images.blocketcdn.se/dynamic/default/item/27633245/d55de34e-9930-43da-91f1-ff00c3e743ae",
+  "https://images.blocketcdn.se/dynamic/default/item/27633245/23b47d3f-ba8d-404b-8081-06aa86e7a524",
+  "https://images.blocketcdn.se/dynamic/default/item/27633245/d8dbbd92-22c7-4422-b37a-38ef106874ff"
+ ],
+ "last_seen": "2026-10-23T21:02:43+00:00",
+ "lat": 57.73,
+ "length_ft": 17,
+ "location": "Västervik",
+ "lon": 16.66,
+ "make": "Uttern",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 349,
+  "fetched_ts": 1792789654625,
+  "text_sha": "6c085e08a76c20d2"
+ },
+ "price": 46000,
+ "price_history": [
+  {
+   "date": "2026-10-23",
+   "price": 46000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "520 HT",
+  "Modellår": "1989",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sovplatser": "2",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27633245",
+ "width_cm": 210,
+ "year": 1989
+}

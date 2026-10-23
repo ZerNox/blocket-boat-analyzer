@@ -144,6 +144,12 @@
    "price": 139675
   }
  ],
+ "sold": {
+  "date": "2026-10-23",
+  "final_bid": 171000,
+  "last_price": 180675,
+  "reserve_reached": false
+ },
  "source": "klaravik",
  "specs": {
   "Antal nycklar": "1",
@@ -163,7 +169,7 @@
   "Mått och vikt Längd (m)": "6,50",
   "YBE76932A516 Motor": "Evinrude 150 H.O"
  },
- "status": "active",
+ "status": "unsold",
  "url": "https://www.klaravik.se/auktion/produkt/3288305-ribbat-med-trailer-grand-golden-line-g650-mc/",
  "year": null
 }

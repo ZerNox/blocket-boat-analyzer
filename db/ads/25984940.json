@@ -117,6 +117,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-23",
  "page": {
   "description_chars": 1168,
   "fetched_ts": 1792469567045,
@@ -145,7 +146,7 @@
   "Toppfart": "15 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25984940",
  "width_cm": 200,
  "year": 1998

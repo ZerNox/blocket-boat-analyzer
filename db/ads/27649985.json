@@ -1,0 +1,85 @@
+{
+ "ad_id": 27649985,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1792778235000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1973,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1973,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Hyttbåt utan motor\nKom med bud, annars plockar jag bort det som är värt att spar",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-23T21:02:43+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Hyttbåt utan motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27649985/6fd55a9a-62fd-4403-a2b0-74c2c1ea6958",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27649985/6fd55a9a-62fd-4403-a2b0-74c2c1ea6958",
+  "https://images.blocketcdn.se/dynamic/default/item/27649985/ee91dafb-a246-45e2-bfb1-e5b607f5844d",
+  "https://images.blocketcdn.se/dynamic/default/item/27649985/82539158-4acf-4735-8080-7859dbe63d9b",
+  "https://images.blocketcdn.se/dynamic/default/item/27649985/09c11fea-c366-4362-a15b-0cc0581b0248",
+  "https://images.blocketcdn.se/dynamic/default/item/27649985/016cecb6-286c-457a-802f-96669222ccdf",
+  "https://images.blocketcdn.se/dynamic/default/item/27649985/1d41126e-cb29-4644-8dd2-2c1419b97315",
+  "https://images.blocketcdn.se/dynamic/default/item/27649985/d01eb517-071a-4b44-810b-66da37200f92",
+  "https://images.blocketcdn.se/dynamic/default/item/27649985/7c0c8749-0744-438c-bc80-0134b7d566bd",
+  "https://images.blocketcdn.se/dynamic/default/item/27649985/74c51c79-8fd1-4418-bbca-cd21d336af28"
+ ],
+ "last_seen": "2026-10-23T21:02:43+00:00",
+ "lat": 59.3,
+ "length_ft": 21,
+ "location": "Värmdö",
+ "lon": 18.54,
+ "make": "Ockelbo",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 74,
+  "fetched_ts": 1792789657576,
+  "text_sha": "c8617d4118d05ca0"
+ },
+ "price": 1000,
+ "price_history": [
+  {
+   "date": "2026-10-23",
+   "price": 1000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "21 fot",
+  "Modell": "C21",
+  "Modellår": "1973",
+  "Motor inkluderad": "Nej",
+  "Märke": "Ockelbo",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27649985",
+ "width_cm": 0,
+ "year": 1973
+}

@@ -106,6 +106,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-23",
  "page": {
   "description_chars": 1469,
   "fetched_ts": 1792469552859,
@@ -134,7 +135,7 @@
   "Typ": "Daycruiser",
   "Vikt": "1 100 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25938597",
  "width_cm": 240,
  "year": 1975

@@ -80,7 +80,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27165379/e7810112-16a7-400d-b35a-7820afc03d5e",
   "https://images.blocketcdn.se/dynamic/default/item/27165379/e9b0fba5-35b8-48a7-b6fa-2a1bf32ec827"
  ],
- "last_seen": "2026-10-20T04:08:08+00:00",
+ "last_seen": "2026-10-23T21:02:43+00:00",
  "lat": 59.33,
  "length_ft": 20,
  "location": "Värmdö",
@@ -92,7 +92,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 429,
-  "fetched_ts": 1792037530582,
+  "fetched_ts": 1792789634397,
   "text_sha": "a80c26b89d406f79"
  },
  "price": 80000,

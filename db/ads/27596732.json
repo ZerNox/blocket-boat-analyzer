@@ -1,0 +1,138 @@
+{
+ "ad_id": 27596732,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1792596655000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": null,
+  "engine_type_evidence": null,
+  "engine_type_source": null,
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båt + kärra slumpas ut",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "engine type unknown",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-23T21:02:43+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Båt + kärra slumpas ut",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27596732/63310917-45e3-4166-9c4c-f88730e0d1a6",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27596732/63310917-45e3-4166-9c4c-f88730e0d1a6",
+  "https://images.blocketcdn.se/dynamic/default/item/27596732/e020cf8f-6f02-41b4-8eb5-93810ebd1f40",
+  "https://images.blocketcdn.se/dynamic/default/item/27596732/f658a3c6-1dff-476c-aee7-dc2889e434e6",
+  "https://images.blocketcdn.se/dynamic/default/item/27596732/1a7ca09e-4c4b-4462-afcd-c7395898f38a"
+ ],
+ "last_seen": "2026-10-23T21:02:43+00:00",
+ "lat": 57.72,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-10-23",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1800,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "unknown",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "ccc6229e3c9ae422"
+ },
+ "location": "Jönköping",
+ "lon": 14.11,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "page": {
+  "description_chars": 198,
+  "fetched_ts": 1792789650654,
+  "text_sha": "ccc6229e3c9ae422"
+ },
+ "price": 9000,
+ "price_history": [
+  {
+   "date": "2026-10-23",
+   "price": 9000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "18 fot",
+  "Modell": "Rpg03",
+  "Modellår": "1800",
+  "Motor inkluderad": "Ja",
+  "Märke": "Örnvik",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27596732",
+ "vision": {
+  "at": "2026-10-23",
+  "images_sha": "c4b76c42b449e4c5",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "brand": "Johnson",
+   "engine_photos": [
+    2
+   ],
+   "four_stroke": null,
+   "hp": null,
+   "photo": 2,
+   "text_seen": "Johnson"
+  },
+  "tasks": [
+   "hp"
+  ]
+ },
+ "width_cm": 0,
+ "year": 1800
+}

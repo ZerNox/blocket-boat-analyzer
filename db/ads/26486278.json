@@ -78,6 +78,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-23",
  "page": {
   "description_chars": 443,
   "fetched_ts": 1792469657478,
@@ -90,6 +91,11 @@
    "price": 32900
   }
  ],
+ "sold": {
+  "date": "2026-10-23",
+  "days_seen": 26,
+  "last_price": 32900
+ },
  "specs": {
   "Bredd": "230 cm",
   "Båtens plats": "Sverige",
@@ -107,7 +113,7 @@
   "Toppfart": "23 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26486278",
  "width_cm": 230,
  "year": 1993

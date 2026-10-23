@@ -43,7 +43,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27434223/89971b08-9118-4d15-a0d5-4672a9a35f2f",
   "https://images.blocketcdn.se/dynamic/default/item/27434223/6444c931-4fce-48b5-b90b-4bc8c9c43ca2"
  ],
- "last_seen": "2026-10-20T04:08:08+00:00",
+ "last_seen": "2026-10-23T21:02:43+00:00",
  "lat": 55.4,
  "length_ft": 21,
  "location": "Höllviken",
@@ -55,7 +55,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 368,
-  "fetched_ts": 1792123752639,
+  "fetched_ts": 1792789646355,
   "text_sha": "6b8c9a781db5b7a5"
  },
  "price": 95000,

@@ -103,6 +103,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-23",
  "page": {
   "description_chars": 182,
   "fetched_ts": 1792469558629,
@@ -136,7 +137,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "500 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25968849",
  "width_cm": 200,
  "year": 1992

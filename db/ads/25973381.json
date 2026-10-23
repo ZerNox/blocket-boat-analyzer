@@ -95,6 +95,7 @@
  "motor_fuel": null,
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-23",
  "page": {
   "description_chars": 282,
   "fetched_ts": 1792469561236,
@@ -119,7 +120,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "500 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25973381",
  "width_cm": 0,
  "year": 2023

@@ -36,7 +36,7 @@
   },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "Bella 572C hyttbåt\nSparsamt använd trevlig båt. Många användningsområden med denna båt, fis",
+  "hull_evidence": "Bella 572C hyttbåt / säljes eller bytes\nSparsamt använd trevlig båt. Många användningsområd",
   "hull_source": "rule:text",
   "llm_reasons": [],
   "needs_llm": false,
@@ -49,7 +49,7 @@
   "kategori",
   "Bella 572"
  ],
- "heading": "Bella 572C hyttbåt",
+ "heading": "Bella 572C hyttbåt / säljes eller bytes",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25842807/30e5056d-187e-4d33-9920-7f40ad6bd648",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/25842807/30e5056d-187e-4d33-9920-7f40ad6bd648",
@@ -67,7 +67,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25842807/53ca130c-e1d6-46b1-b3b9-890292ea18a0",
   "https://images.blocketcdn.se/dynamic/default/item/25842807/60b00fdd-dbed-42bc-be00-61e289bfe16f"
  ],
- "last_seen": "2026-10-20T04:08:08+00:00",
+ "last_seen": "2026-10-23T21:02:43+00:00",
  "lat": 58.9,
  "length_ft": 19,
  "location": "Trosa",
@@ -82,11 +82,15 @@
   "fetched_ts": 1792469541775,
   "text_sha": "5cb34635ff0d973e"
  },
- "price": 190000,
+ "price": 180000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 190000
+  },
+  {
+   "date": "2026-10-23",
+   "price": 180000
   }
  ],
  "specs": {

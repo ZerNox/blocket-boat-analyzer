@@ -94,6 +94,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-23",
  "page": {
   "description_chars": 446,
   "fetched_ts": 1792469547375,
@@ -124,7 +125,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "400 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25904897",
  "width_cm": 192,
  "year": 1975

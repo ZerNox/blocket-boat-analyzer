@@ -54,11 +54,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/25000768/4719f3fd-81f3-40d4-ad76-5a7218384918",
   "https://images.blocketcdn.se/dynamic/default/item/25000768/97d36038-8b99-4c46-a55b-96fb582f3243"
  ],
- "last_seen": "2026-10-20T04:08:08+00:00",
+ "last_seen": "2026-10-23T21:02:43+00:00",
  "lat": 59.51,
  "length_ft": 16,
  "llm": {
-  "at": "2026-09-28",
+  "at": "2026-10-23",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2007,
@@ -67,7 +67,7 @@
    "engine_maker": "Mercury",
    "engine_type": "outboard",
    "engine_year": null,
-   "engine_year_evidence": "Bella 572 C, årsmodell 2007 Mercury Optimax 90 hk",
+   "engine_year_evidence": "Båten är nyservad på båtvarv",
    "equipment": {
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
@@ -87,7 +87,7 @@
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "2823206f04a509e6"
+  "text_sha": "56abc31ccd1cba71"
  },
  "location": "Åkersberga",
  "lon": 18.43,
@@ -98,8 +98,8 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 849,
-  "fetched_ts": 1791950947806,
-  "text_sha": "2823206f04a509e6"
+  "fetched_ts": 1792789603706,
+  "text_sha": "56abc31ccd1cba71"
  },
  "price": 139000,
  "price_history": [

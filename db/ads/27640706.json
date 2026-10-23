@@ -1,0 +1,141 @@
+{
+ "ad_id": 27640706,
+ "boat_class": "Powerboat",
+ "changed_ts": 1792758341000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1967,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1967,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell med bågar (kapell behöver tvättas)",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer medföljer EJ",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Fjordling 17 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-23T21:02:43+00:00",
+ "found_by": [
+  "Fjordling 17"
+ ],
+ "heading": "Fjordling 17 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27640706/40fe1068-a71d-4417-9ceb-600d3d9d128e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27640706/40fe1068-a71d-4417-9ceb-600d3d9d128e",
+  "https://images.blocketcdn.se/dynamic/default/item/27640706/ae2e77c4-ba5b-4ce4-8c2b-2150fb1928b5",
+  "https://images.blocketcdn.se/dynamic/default/item/27640706/7f7b7e1d-206d-4341-84c8-3657a07851d5",
+  "https://images.blocketcdn.se/dynamic/default/item/27640706/abfda9d9-a670-4a63-8f73-fd37d7c04f96"
+ ],
+ "last_seen": "2026-10-23T21:02:43+00:00",
+ "lat": 59.52,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-10-23",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1967,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": null,
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "5f300b2f27163841"
+ },
+ "location": "Vallentuna",
+ "lon": 18.11,
+ "make": "Fjordling",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 483,
+  "fetched_ts": 1792789656209,
+  "text_sha": "5f300b2f27163841"
+ },
+ "price": 45000,
+ "price_history": [
+  {
+   "date": "2026-10-23",
+   "price": 45000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "17 HT",
+  "Modellår": "1967",
+  "Motortyp": "Utombordare",
+  "Märke": "Fjordling",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Powerboat"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27640706",
+ "vision": {
+  "at": "2026-10-23",
+  "images_sha": "6d2e9d1b69151b21",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "brand": null,
+   "engine_photos": [],
+   "four_stroke": null,
+   "hp": null,
+   "photo": null,
+   "text_seen": null
+  },
+  "tasks": [
+   "hp"
+  ]
+ },
+ "width_cm": 0,
+ "year": 1967
+}

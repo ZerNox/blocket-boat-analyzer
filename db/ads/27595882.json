@@ -1,0 +1,142 @@
+{
+ "ad_id": 27595882,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1792592077000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "mercruiser",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1996,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Båten står på en boggietrailer 80 km nyrenoverad för 16.000 kr är för tillfället obesiktigad har bara rullat ca 16 mil.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-23T21:02:43+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Bayliner cierra",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27595882/8872ad7c-84ef-4aec-af1f-37b2907a0bf9",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27595882/8872ad7c-84ef-4aec-af1f-37b2907a0bf9",
+  "https://images.blocketcdn.se/dynamic/default/item/27595882/8a2a1b5a-6390-4106-815a-3f1540efce33",
+  "https://images.blocketcdn.se/dynamic/default/item/27595882/5096b23b-38e0-4eee-92f3-b11ce1a2ec5d"
+ ],
+ "last_seen": "2026-10-23T21:02:43+00:00",
+ "lat": 57.11,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-10-23",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1996,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "mercruiser",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "643455468f2d0e78"
+ },
+ "location": "Forsheda",
+ "lon": 13.83,
+ "make": "Bayliner",
+ "max_speed": 206,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 600,
+  "fetched_ts": 1792789649269,
+  "text_sha": "643455468f2d0e78"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-10-23",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "blå vit",
+  "Längd i fot": "20 fot",
+  "Modell": "cierra",
+  "Modellår": "1996",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "mercruiser",
+  "Motortyp": "Utombordare",
+  "Märke": "Bayliner",
+  "Sittplatser": "6",
+  "Sovplatser": "4",
+  "Toppfart": "206 knop",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27595882",
+ "vision": {
+  "at": "2026-10-23",
+  "images_sha": "2e16d28774d5fb72",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "brand": null,
+   "engine_photos": [],
+   "four_stroke": null,
+   "hp": null,
+   "photo": null,
+   "text_seen": null
+  },
+  "tasks": [
+   "hp"
+  ]
+ },
+ "width_cm": 0,
+ "year": 1996
+}

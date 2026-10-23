@@ -79,6 +79,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-23",
  "page": {
   "description_chars": 168,
   "fetched_ts": 1792469504772,
@@ -109,7 +110,7 @@
   "Toppfart": "30 knop",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/22169573",
  "width_cm": 215239,
  "year": 2007
