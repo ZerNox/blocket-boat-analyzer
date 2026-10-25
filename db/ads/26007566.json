@@ -1,7 +1,7 @@
 {
  "ad_id": 26007566,
  "boat_class": "Hyttbåt",
- "changed_ts": 1787596461000,
+ "changed_ts": 1792832486000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1991,
@@ -67,7 +67,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26007566/1d911fd2-415a-40e2-acbe-a557fed9ca7f",
   "https://images.blocketcdn.se/dynamic/default/item/26007566/4b1e7dc6-5077-49de-bd24-1d121eb351d9"
  ],
- "last_seen": "2026-10-20T04:08:08+00:00",
+ "last_seen": "2026-10-25T05:07:30+00:00",
  "lat": 58.82,
  "length_ft": 17,
  "llm": {
@@ -108,7 +108,7 @@
  "not_in_search_since": "2026-10-23",
  "page": {
   "description_chars": 319,
-  "fetched_ts": 1792469571121,
+  "fetched_ts": 1792905061174,
   "text_sha": "2ef6f7efe62dd183"
  },
  "price": 25000,
@@ -140,7 +140,7 @@
   "Toppfart": "27 knop",
   "Typ": "Hyttbåt"
  },
- "status": "inactive",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26007566",
  "width_cm": 0,
  "year": 1991

@@ -77,6 +77,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-25",
  "page": {
   "description_chars": 423,
   "fetched_ts": 1792469541775,
@@ -112,7 +113,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "700 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25842807",
  "width_cm": 208,
  "year": 2008

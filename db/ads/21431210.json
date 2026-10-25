@@ -110,6 +110,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-25",
  "page": {
   "description_chars": 794,
   "fetched_ts": 1792469501822,
@@ -141,7 +142,7 @@
   "Toppfart": "25 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/21431210",
  "width_cm": 240,
  "year": 1977

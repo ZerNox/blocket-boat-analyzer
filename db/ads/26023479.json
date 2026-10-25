@@ -100,6 +100,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-25",
  "page": {
   "description_chars": 220,
   "fetched_ts": 1792469575234,
@@ -130,7 +131,7 @@
   "Toppfart": "20 knop",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26023479",
  "width_cm": 203,
  "year": 1980

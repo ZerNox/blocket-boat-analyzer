@@ -61,6 +61,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-25",
  "page": {
   "description_chars": 428,
   "fetched_ts": 1792469572373,
@@ -86,7 +87,7 @@
   "Märke": "Örnvik",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26014203",
  "width_cm": 0,
  "year": 1980

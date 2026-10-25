@@ -1,0 +1,134 @@
+{
+ "ad_id": 27660860,
+ "boat_class": "Annat",
+ "changed_ts": 1792839308000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2008,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90,
+  "engine_hp_source": "llm",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2008,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Dynor och kapellösning",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "are: Max 6 personer\nAntal kojplatser: 2 kojplatser i ruffen (plus möjlighet till extra bädd/soldäck i sitt",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-25T05:07:30+00:00",
+ "found_by": [
+  "Örnvik 540"
+ ],
+ "heading": "Örnvik 540 Cruiser / Quicksilver 540",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27660860/e8738697-a418-4e7c-83d8-d25fdce24ea2",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27660860/e8738697-a418-4e7c-83d8-d25fdce24ea2",
+  "https://images.blocketcdn.se/dynamic/default/item/27660860/fb739c7e-0b37-4b74-ae2b-c9bd0e59b0a3",
+  "https://images.blocketcdn.se/dynamic/default/item/27660860/6e4f87c9-2cc0-4d46-bb54-1f9ce450194b",
+  "https://images.blocketcdn.se/dynamic/default/item/27660860/69035426-5bc7-461f-b012-18975c520eb9",
+  "https://images.blocketcdn.se/dynamic/default/item/27660860/4c780132-c2fc-40f7-b429-aaecc63e5dde"
+ ],
+ "last_seen": "2026-10-25T05:07:30+00:00",
+ "lat": 57.86,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-10-25",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2008,
+   "engine_hours": null,
+   "engine_hp": 90,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "not_mentioned",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "8ba8d985d4da906d"
+ },
+ "location": "Gråbo",
+ "lon": 12.31,
+ "make": "Örnvik",
+ "max_speed": 26,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 326,
+  "fetched_ts": 1792905071029,
+  "text_sha": "8ba8d985d4da906d"
+ },
+ "price": 125000,
+ "price_history": [
+  {
+   "date": "2026-10-25",
+   "price": 125000
+  }
+ ],
+ "specs": {
+  "Bredd": "2470 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "50 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "540",
+  "Modellår": "2008",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Sittplatser": "6",
+  "Sovplatser": "4",
+  "Toppfart": "26 knop",
+  "Typ": "Annat",
+  "Vikt": "820 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27660860",
+ "width_cm": 2470,
+ "year": 2008
+}

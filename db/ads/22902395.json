@@ -1,7 +1,7 @@
 {
  "ad_id": 22902395,
  "boat_class": "Kabinbåt",
- "changed_ts": 1790517828000,
+ "changed_ts": 1792839721000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1979,
@@ -51,7 +51,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/22902395/13be0382-e8ef-43e0-acd6-52c916bf6b37",
   "https://images.blocketcdn.se/dynamic/default/item/22902395/b4b385de-8d15-4026-9d88-0780954320b0"
  ],
- "last_seen": "2026-10-24T04:08:35+00:00",
+ "last_seen": "2026-10-25T05:07:30+00:00",
  "lat": 56.05,
  "length_ft": 19,
  "location": "Helsingborg",
@@ -63,7 +63,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 278,
-  "fetched_ts": 1792469508941,
+  "fetched_ts": 1792905055940,
   "text_sha": "fb4ebabec1644f7c"
  },
  "price": 40000,

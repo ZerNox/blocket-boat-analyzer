@@ -59,6 +59,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-10-25",
  "page": {
   "description_chars": 268,
   "fetched_ts": 1792469573705,
@@ -80,7 +81,7 @@
   "Märke": "Skibsplast",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26016586",
  "width_cm": 0,
  "year": 1983

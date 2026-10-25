@@ -62,11 +62,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/27263160/ca305e06-4f19-4c9a-942b-23c5f46cc04c",
   "https://images.blocketcdn.se/dynamic/default/item/27263160/dc4b8ffd-0361-470d-b026-e1fef48b557c"
  ],
- "last_seen": "2026-10-24T04:08:35+00:00",
+ "last_seen": "2026-10-25T05:07:30+00:00",
  "lat": 57.8,
  "length_ft": 19,
  "llm": {
-  "at": "2026-10-10",
+  "at": "2026-10-25",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1979,
@@ -96,7 +96,7 @@
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "18f45e54d0559766"
+  "text_sha": "ed18659ed1dbc44b"
  },
  "location": "Olofstorp",
  "lon": 12.18,
@@ -107,8 +107,8 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 387,
-  "fetched_ts": 1792296712300,
-  "text_sha": "18f45e54d0559766"
+  "fetched_ts": 1792905069520,
+  "text_sha": "ed18659ed1dbc44b"
  },
  "price": 55500,
  "price_history": [
@@ -131,7 +131,7 @@
   "Märke": "Övriga",
   "Sittplatser": "6",
   "Skrovmaterial": "Glasfiber",
-  "Sovplatser": "2",
+  "Sovplatser": "4",
   "Toppfart": "30 knop",
   "Typ": "Kabinbåt",
   "Vikt": "525 kg"

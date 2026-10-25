@@ -79,6 +79,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-10-25",
  "page": {
   "description_chars": 226,
   "fetched_ts": 1792469576649,
@@ -100,7 +101,7 @@
   "Märke": "Ryds",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26032098",
  "vision": {
   "at": "2026-09-27",

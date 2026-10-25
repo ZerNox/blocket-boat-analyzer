@@ -1,7 +1,7 @@
 {
  "ad_id": 23857393,
  "boat_class": "Hyttbåt",
- "changed_ts": 1786896230000,
+ "changed_ts": 1792824252000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2006,
@@ -46,7 +46,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/23857393/e7378960-858d-4ce6-b7ea-9241b77faa6f",
   "https://images.blocketcdn.se/dynamic/default/item/23857393/177211c8-05b9-48c0-8ceb-8176bcbb9770"
  ],
- "last_seen": "2026-10-15T04:08:22+00:00",
+ "last_seen": "2026-10-25T05:07:30+00:00",
  "lat": 60.17,
  "length_ft": 21,
  "llm": {
@@ -86,7 +86,7 @@
  "not_in_search_since": "2026-10-16",
  "page": {
   "description_chars": 0,
-  "fetched_ts": 1791779140141,
+  "fetched_ts": 1792905057010,
   "text_sha": "b04bad3df2d506f4"
  },
  "price": 130000,
@@ -111,7 +111,7 @@
   "Toppfart": "29 knop",
   "Typ": "Hyttbåt"
  },
- "status": "inactive",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/23857393",
  "width_cm": 225,
  "year": 2006

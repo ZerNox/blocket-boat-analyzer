@@ -72,6 +72,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-25",
  "page": {
   "description_chars": 394,
   "fetched_ts": 1792469578087,
@@ -101,7 +102,7 @@
   "Toppfart": "30 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26038252",
  "width_cm": 220,
  "year": 1996
