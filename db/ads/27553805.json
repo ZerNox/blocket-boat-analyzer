@@ -1,7 +1,7 @@
 {
  "ad_id": 27553805,
  "boat_class": "Kabinbåt",
- "changed_ts": 1792518279000,
+ "changed_ts": 1792933686000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1991,
@@ -55,7 +55,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27553805/b5519668-5e5a-4a5a-aeba-cee3f5d87cf1",
   "https://images.blocketcdn.se/dynamic/default/item/27553805/ba565f3f-eb9d-4e2b-84cd-f598cb9d71b4"
  ],
- "last_seen": "2026-10-25T05:07:30+00:00",
+ "last_seen": "2026-10-26T05:05:28+00:00",
  "lat": 59.71,
  "length_ft": 21,
  "location": "Rimbo",
@@ -67,14 +67,18 @@
  "motor_type": null,
  "page": {
   "description_chars": 198,
-  "fetched_ts": 1792789647927,
+  "fetched_ts": 1792991347840,
   "text_sha": "702c591025ed91f6"
  },
- "price": 26000,
+ "price": 19900,
  "price_history": [
   {
    "date": "2026-10-23",
    "price": 26000
+  },
+  {
+   "date": "2026-10-26",
+   "price": 19900
   }
  ],
  "specs": {

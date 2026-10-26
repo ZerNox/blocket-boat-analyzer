@@ -58,7 +58,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25476079/5f631fe8-da90-42bf-9065-e93599bc888a",
   "https://images.blocketcdn.se/dynamic/default/item/25476079/4bc57d68-d133-422e-b8e7-afd2ed36cb22"
  ],
- "last_seen": "2026-10-25T05:07:30+00:00",
+ "last_seen": "2026-10-26T05:05:28+00:00",
  "lat": 59.15,
  "length_ft": 18,
  "location": "Dalarö",
@@ -71,7 +71,7 @@
  "not_in_search_since": "2026-10-07",
  "page": {
   "description_chars": 313,
-  "fetched_ts": 1792383009185,
+  "fetched_ts": 1792991331627,
   "text_sha": "92464860fc4c77b8"
  },
  "price": 80000,

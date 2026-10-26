@@ -68,6 +68,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-26",
  "page": {
   "description_chars": 1191,
   "fetched_ts": 1792469580883,
@@ -101,7 +102,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "520 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26057401",
  "width_cm": 220,
  "year": 1990

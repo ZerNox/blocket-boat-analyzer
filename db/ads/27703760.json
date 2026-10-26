@@ -1,0 +1,143 @@
+{
+ "ad_id": 27703760,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1792939065000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 40.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "k från 04a ny impeller olja i drevet och stift i våras går felfritt. Ingen Trim Tilt. Står på land nu och säljs utan tra",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Står på land nu och säljs utan trailer.",
+    "included": false
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "Boat has open cockpit, no enclosed cabin or roof visible.",
+  "hull_source": "bild",
+  "llm_reasons": [
+   "declared outboard but text says 'drevet'",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-26T05:05:28+00:00",
+ "found_by": [
+  "Örnvik 580"
+ ],
+ "heading": "Örnvik 580",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27703760/5d330371-d44a-42f4-9b0d-6d5a8579246e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27703760/5d330371-d44a-42f4-9b0d-6d5a8579246e",
+  "https://images.blocketcdn.se/dynamic/default/item/27703760/618f8e07-fb83-4d83-b6b6-7674cc9c241b",
+  "https://images.blocketcdn.se/dynamic/default/item/27703760/82044657-2df6-4be4-8c41-6057052b532d",
+  "https://images.blocketcdn.se/dynamic/default/item/27703760/381029ff-b62e-493c-82c8-c2ea8b7a779b",
+  "https://images.blocketcdn.se/dynamic/default/item/27703760/931cf5cb-bdcd-478a-af81-488a55f60f4d",
+  "https://images.blocketcdn.se/dynamic/default/item/27703760/c7814e2a-8b7b-4925-9f3e-44ee3298aa9f"
+ ],
+ "last_seen": "2026-10-26T05:05:28+00:00",
+ "lat": 58.07,
+ "length_ft": 20,
+ "llm": {
+  "at": "2026-10-26",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 40,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "ny impeller olja i drevet och stift i våras går felfritt. Ingen Trim Tilt.",
+   "engine_year_rejected": 2004,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "89fcd766c384e6d3"
+ },
+ "location": "Stenungsund",
+ "lon": 11.83,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 260,
+  "fetched_ts": 1792991353774,
+  "text_sha": "89fcd766c384e6d3"
+ },
+ "price": 24000,
+ "price_history": [
+  {
+   "date": "2026-10-26",
+   "price": 24000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå",
+  "Längd i fot": "20 fot",
+  "Modell": "580",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27703760",
+ "vision": {
+  "at": "2026-10-26",
+  "images_sha": "e5c3e07018f66357",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "Boat has open cockpit, no enclosed cabin or roof visible.",
+   "hull_photo": 2
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 220,
+ "year": 1980
+}

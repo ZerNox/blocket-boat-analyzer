@@ -92,6 +92,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 75.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-26",
  "page": {
   "description_chars": 209,
   "fetched_ts": 1792469582080,
@@ -119,7 +120,7 @@
   "Toppfart": "32 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26062699",
  "width_cm": 0,
  "year": 2004

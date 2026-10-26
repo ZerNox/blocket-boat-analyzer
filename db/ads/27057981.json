@@ -53,7 +53,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27057981/523b31fd-543b-4338-acfd-8e44d6f241f6",
   "https://images.blocketcdn.se/dynamic/default/item/27057981/69d2d99a-aaba-4e89-a40d-ec1131162f97"
  ],
- "last_seen": "2026-10-25T05:07:30+00:00",
+ "last_seen": "2026-10-26T05:05:28+00:00",
  "lat": 59.31,
  "length_ft": 18,
  "location": "Djurhamn",
@@ -65,7 +65,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 162,
-  "fetched_ts": 1792383015365,
+  "fetched_ts": 1792991337289,
   "text_sha": "f0f1e5b22752674e"
  },
  "price": 35000,

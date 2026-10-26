@@ -1,0 +1,137 @@
+{
+ "ad_id": 27691776,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1792926097000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Bra kapell.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Mercury 50 hp utombordare med elstart, servad som det ska, den gör ca, 20-30 knop beroende på vind, och antal personer …",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "BÅT\nEn fin och välskött hardtop båt, en hel del bytt, nya dynor i vit läder för 12000kr, ny länspump, ny",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-26T05:05:28+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "BÅT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27691776/a470f070-b080-473c-b24c-464835a3ab2e",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27691776/a470f070-b080-473c-b24c-464835a3ab2e",
+  "https://images.blocketcdn.se/dynamic/default/item/27691776/f440de52-063e-4cef-8d05-34ff4aa69195",
+  "https://images.blocketcdn.se/dynamic/default/item/27691776/f2f0ae9f-4c1a-446f-9b40-76ee695ef1e4",
+  "https://images.blocketcdn.se/dynamic/default/item/27691776/205c25d8-b488-40f1-957d-4b7543077c9c",
+  "https://images.blocketcdn.se/dynamic/default/item/27691776/b4287631-013a-4734-b375-94b0119c2919",
+  "https://images.blocketcdn.se/dynamic/default/item/27691776/11f24219-94be-4010-a0c9-821b2c1780a0",
+  "https://images.blocketcdn.se/dynamic/default/item/27691776/bd412218-17b4-44cd-9a8e-e6c7f2d348f9"
+ ],
+ "last_seen": "2026-10-26T05:05:28+00:00",
+ "lat": 60.94,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-10-26",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1980,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "servad som det ska",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "66a94cb20998b478"
+ },
+ "location": "Nusnäs",
+ "lon": 14.72,
+ "make": "Uttern",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "page": {
+  "description_chars": 375,
+  "fetched_ts": 1792991350885,
+  "text_sha": "66a94cb20998b478"
+ },
+ "price": 48000,
+ "price_history": [
+  {
+   "date": "2026-10-26",
+   "price": 48000
+  }
+ ],
+ "specs": {
+  "Bredd": "2200 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "19 fot",
+  "Modell": "560 hardtop",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Sittplatser": "8",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "450 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27691776",
+ "width_cm": 2200,
+ "year": 1980
+}

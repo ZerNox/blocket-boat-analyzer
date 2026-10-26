@@ -1,7 +1,7 @@
 {
  "ad_id": 26730609,
  "boat_class": "Kabinbåt",
- "changed_ts": 1789889178000,
+ "changed_ts": 1792929384000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1992,
@@ -59,7 +59,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26730609/99a0015e-1efc-4d5d-aba8-41e109c1bd72",
   "https://images.blocketcdn.se/dynamic/default/item/26730609/b94675ae-323c-44ca-a903-2c78a47ef863"
  ],
- "last_seen": "2026-10-25T05:07:30+00:00",
+ "last_seen": "2026-10-26T05:05:28+00:00",
  "lat": 58.94,
  "length_ft": 21,
  "llm": {
@@ -98,14 +98,18 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 327,
-  "fetched_ts": 1792469695342,
+  "fetched_ts": 1792991334432,
   "text_sha": "3a6fe9bf4faa43ee"
  },
- "price": 65000,
+ "price": 50000,
  "price_history": [
   {
    "date": "2026-09-27",
    "price": 65000
+  },
+  {
+   "date": "2026-10-26",
+   "price": 50000
   }
  ],
  "specs": {
