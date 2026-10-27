@@ -52,3 +52,15 @@ def test_parse_reads_utrustning_section():
             '<section><h2 class="t3 mb-0">Utrustning</h2><div data-testid="expandable-section"><div><p>Ny dieselvärmare. Radar.</p></div></div></section>')
     d = parse_item(html)["description"]
     assert "Fin båt." in d and "Utrustning:" in d and "dieselvärmare" in d
+
+
+def test_search_models_loads_named_vocabulary(monkeypatch):
+    from boats import models_list, scrape
+
+    market.NAMED_MODELS.clear()  # a fresh `boats update` process has learned nothing yet
+    monkeypatch.setattr(market, "learn_from_store", lambda: market.learn_named_models([("Ryds", "Camping")]))
+    monkeypatch.setattr(models_list, "search_terms", lambda: [])
+    doc = {"id": "1", "make": "Ryds", "heading": "Ryds Camping 560 med 60hk"}
+    monkeypatch.setattr(scrape, "search", lambda client, url: [doc])
+    cfg = {"search": {"models": ["Ryds Camping"], "model_filters": ""}}
+    assert list(scrape.search_models(None, cfg)) == [("Ryds Camping", doc)]

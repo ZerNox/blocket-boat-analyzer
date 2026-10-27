@@ -119,9 +119,11 @@ def search_models(client: Client, cfg: dict):
 
     Catches ads the seller filed under the wrong type or length ("Annat", "8 ft"). Yields (model, doc).
     """
-    from .market import model_keys  # market imports this module
+    from .market import learn_from_store, model_keys  # market imports this module
 
     from . import models_list
+
+    learn_from_store()  # number-less names ("Ryds Camping") only parse once the vocabulary is loaded
 
     extra = cfg["search"].get("model_filters", "")
     listed = cfg["search"].get("models", []) + models_list.search_terms()
