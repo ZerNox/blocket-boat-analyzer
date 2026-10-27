@@ -72,7 +72,7 @@ def load_page(ad_id: int | str) -> str | None:
     return gzip.decompress(p.read_bytes()).decode() if p.exists() else None
 
 
-_PHONE = re.compile(r"(?:\+46|0)[\d\s-]{6,14}\d")
+_PHONE = re.compile(r"(?<![\d+])(?:\+46|0)[\d\s-]{6,14}\d")  # not inside a number: "2026-10-29 13" is a date
 _EMAIL = re.compile(r"\S+@\S+\.\w+")
 
 

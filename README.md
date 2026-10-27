@@ -106,6 +106,17 @@ is the search text. The list drives:
 - **Kronofogden** (`kronofogden.py`): seized boats in web auctions (category 08). Kept when on the
   list or the variant code says cabin (DC/HT/MC/PH/WA). No fees are added; the listed defects and
   "not started or tested" become red flags.
+- **Tovek** (`tovek.py`): bankruptcy/company auctions. No boat category, so every running
+  auction's lots are read and boat titles kept by the same list rule. Price = bid + VAT (per item,
+  0 % = margin scheme) + slagavgift incl. VAT.
+- **Budi** (`budi.py`) and **Netauktion** (`netauktion.py`): their boat categories, same list rule.
+  Price = bid + VAT when the seller is a company + the buyer/service fee incl. VAT.
+- **Company ads on Blocket**: kept only when "auktion" appears in the ad (company name, heading,
+  description or specs). The verdict per ad version is cached in `cache/dealer_checked.json`.
+
+Every auction is flagged on the site ("… · priset kan ändras"): the price is the current bid and
+moves until the auction ends. A source that fails (site change) is logged and skipped, not fatal.
+Kvibergs and PS Auction are not included: both sit behind a bot challenge (Cloudflare / AWS WAF).
 
 ## Daily refresh
 

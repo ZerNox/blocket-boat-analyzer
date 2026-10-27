@@ -77,7 +77,8 @@ def parse_object(page: str) -> dict:
 def wanted(title: str, description: str) -> str | None:
     """The model family when it's on the cabin list, or when its variant code says cabin."""
     make = title.split()[0] if title else None
-    for cand in (title, re.sub(r"^(?:Motorbåt|Båt|Hyttbåt|Kabinbåt)\s+", "", title, flags=re.I)):
+    # Boat-type word first ("Motorbåt Ryds 568 DC"): try without it, else it would be read as the make.
+    for cand in (re.sub(r"^(?:Motorbåt|Båt|Hyttbåt|Kabinbåt)\s+", "", title, flags=re.I), title):
         make = cand.split()[0] if cand else make
         family, _ = market.model_keys(make, None, cand)
         if family and (family in models_list.families() or rules.HULL_CODE_CABIN.search(cand)):

@@ -9,6 +9,8 @@ cap are split into price bands.
 from __future__ import annotations
 
 import datetime as dt
+import importlib
+import json
 import random
 import re
 import sys
@@ -27,6 +29,11 @@ SEARCH_KEYS = {"boat": "SEARCH_ID_BOAT_USED"}
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36"
 PAGE_CAP = 50
 PRICE_MAX = 1_000_000
+# Auction sources with their own modules; each has update(client, cfg) and cached_text(ad).
+AUCTION_SOURCES = ("klaravik", "kronofogden", "tovek", "budi", "netauktion")
+# A company ad is kept only when the ad says it is an auction ("auktion", "nätauktion", "auktioneras").
+AUKTION = re.compile(r"auktion", re.I)
+DEALER_CHECKED = "dealer_checked.json"
 
 
 class Client:
@@ -146,6 +153,33 @@ def search_models(client: Client, cfg: dict):
         print(f"  model {model}: {hits} ads", file=sys.stderr)
 
 
+def _without_dealer_filter(url: str) -> str:
+    """The search URL with dealer_segment dropped: company ads come back too, checked by dealer_auktion."""
+    u = urlparse(url)
+    return u._replace(query=urlencode([(k, v) for k, v in parse_qsl(u.query) if k != "dealer_segment"])).geturl()
+
+
+def dealer_auktion(client: Client, d: dict, checked: dict) -> bool:
+    """A company ad counts only when "auktion" is in the ad: company name, heading, description or specs.
+
+    The page is fetched once per ad version; `checked` (ad id -> [changed ts, verdict]) is kept in cache/.
+    """
+    if AUKTION.search(f"{d.get('organisation_name') or ''} {d.get('heading') or ''}"):
+        return True
+    key = str(d["id"])
+    if key in checked and checked[key][0] == d.get("timestamp"):
+        return checked[key][1]
+    r = client.get(d.get("canonical_url") or ITEM.format(id=d["id"]))
+    if r.status_code != 200:
+        return False
+    parsed = parse_item(r.text)
+    hit = bool(AUKTION.search(f"{parsed['description']} {' '.join(map(str, parsed['specs'].values()))}"))
+    checked[key] = [d.get("timestamp"), hit]
+    if hit:
+        store.save_page(int(d["id"]), r.text)
+    return hit
+
+
 def page_status(client: Client, url: str) -> str:
     """What the ad page says now: 'sold' (SÅLD), 'inactive' (Inaktiv / removed) or 'not_in_search'."""
     r = client.get(url)
@@ -182,6 +216,7 @@ def _search_fields(d: dict) -> dict:
         "lat": round(coords["lat"], 2) if coords.get("lat") is not None else None,
         "lon": round(coords["lon"], 2) if coords.get("lon") is not None else None,
         "dealer_segment": d.get("dealer_segment"),
+        "organisation_name": d.get("organisation_name"),
         "price": (d.get("price") or {}).get("amount"),
         "year": d.get("year"),
         "motor_type": d.get("motor_type"),
@@ -203,13 +238,27 @@ def update(cfg: dict, fetch_pages: bool = True, limit: int | None = None) -> dic
     today = run_start[:10]
 
     print("searching…", file=sys.stderr)
+    dealers = scfg.get("dealer_auktion", True)
+    url = _without_dealer_filter(scfg["url"]) if dealers else scfg["url"]
+    if dealers:
+        cfg = {**cfg, "search": {**scfg, "model_filters": _without_dealer_filter("?" + scfg.get("model_filters", ""))[1:]}}
+    checked_path = store.CACHE_DIR / DEALER_CHECKED
+    checked = json.loads(checked_path.read_text()) if checked_path.exists() else {}
+
+    def keep(d: dict) -> bool:
+        return d.get("dealer_segment", "Privat") == "Privat" or (dealers and dealer_auktion(client, d, checked))
+
     found: dict[str, dict] = {}
-    for d in search(client, scfg["url"]):
-        if all(in_range(d.get(f), rng) for f, rng in local_ranges(scfg["url"]).items()):
+    for d in search(client, url):
+        if all(in_range(d.get(f), rng) for f, rng in local_ranges(url).items()) and keep(d):
             found[d["id"]] = {**d, "_found_by": ["kategori"]}
     for model, d in search_models(client, cfg):
+        if d["id"] not in found and not keep(d):
+            continue
         entry = found.setdefault(d["id"], {**d, "_found_by": []})
         entry["_found_by"].append(model)
+    checked_path.parent.mkdir(parents=True, exist_ok=True)
+    checked_path.write_text(json.dumps(checked))
     docs = list(found.values())
     stats = {"seen": len(docs), "new": 0, "price_changes": 0, "gone": 0, "pages": 0,
              "found_by_model_only": sum(1 for d in docs if "kategori" not in d["_found_by"])}
@@ -245,14 +294,13 @@ def update(cfg: dict, fetch_pages: bool = True, limit: int | None = None) -> dic
 
     if fetch_pages:
         stats["pages"] = fetch_ad_pages(client, cfg, seen_ids, limit)
-    if scfg.get("klaravik", True):
-        from . import klaravik
-
-        stats.update(klaravik.update(client, cfg))
-    if scfg.get("kronofogden", True):
-        from . import kronofogden
-
-        stats.update(kronofogden.update(client, cfg))
+    for source in AUCTION_SOURCES:
+        if scfg.get(source, True):
+            try:  # one auction site changing its markup must not stop the daily run
+                stats.update(importlib.import_module(f".{source}", __package__).update(client, cfg))
+            except Exception as e:
+                print(f"  {source}: FAILED {e!r}", file=sys.stderr)
+                stats[f"{source}_error"] = repr(e)[:200]
     return stats
 
 
@@ -295,14 +343,8 @@ def fetch_ad_pages(client: Client, cfg: dict, ids, limit: int | None = None) -> 
 
 def cached_text(ad: dict) -> dict | None:
     """Heading, description and specs from the locally cached original page."""
-    if ad.get("source") == "klaravik":
-        from . import klaravik
-
-        return klaravik.cached_text(ad)
-    if ad.get("source") == "kronofogden":
-        from . import kronofogden
-
-        return kronofogden.cached_text(ad)
+    if ad.get("source") in AUCTION_SOURCES:
+        return importlib.import_module(f".{ad['source']}", __package__).cached_text(ad)
     html = store.load_page(ad["ad_id"])
     if html is None:
         return None

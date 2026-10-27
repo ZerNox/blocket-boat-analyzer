@@ -14,6 +14,12 @@ max_km = 300
 klaravik = true
 # Kronofogden web auctions (seized boats), same model-list rule; no fees are added there.
 kronofogden = true
+# Tovek (tovek.se), Budi (budi.se) and Netauktion (netauktion.se) auctions, same model-list rule; buyer fee and VAT added to the bid.
+tovek = true
+budi = true
+netauktion = true
+# Company ads: kept only when "auktion" appears in the ad (company name, heading, description, specs).
+dealer_auktion = true
 # Exact models similar to the target, searched by name in every boat type (catches misfiled ads).
 # Only ads whose model family matches exactly are kept. Filters below apply to these searches.
 models = [

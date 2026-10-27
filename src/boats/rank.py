@@ -23,6 +23,7 @@ import numpy as np
 
 from . import market, rules
 from .config import in_range, local_ranges
+from .scrape import AUCTION_SOURCES
 
 THIS_YEAR = dt.date.today().year
 MIN_CLASS = 20  # a boat type needs this many market ads to get its own coefficient
@@ -39,7 +40,7 @@ def eligible(ad: dict, cfg: dict) -> bool:
         return False  # certainly an open console boat; uncertain ones stay in, marked
     if cfg["ranking"]["outboard_only"] and ext.get("engine_type") != "outboard":
         return False
-    if ad.get("source") in ("klaravik", "kronofogden"):
+    if ad.get("source") in AUCTION_SOURCES:
         cap = dict(parse_qsl(urlparse(cfg["search"]["url"]).query)).get("price_to")
         if cap and ad["price"] > float(cap):
             return False
@@ -415,6 +416,9 @@ def rank(ads: list[dict], cfg: dict) -> tuple[list[dict], dict]:
             "found_by": a.get("found_by") or ["kategori"],
             "source": a.get("source", "blocket"),
             "auction": a.get("auction"),
+            # Auction prices move until the hammer falls: the site flags these.
+            "auktion": a.get("source") in AUCTION_SOURCES or a.get("dealer_segment") == "Företag",
+            "organisation_name": a.get("organisation_name"),
             "hull": ext.get("hull"),
             "hull_certain": bool(ext.get("hull_certain")),
             "hull_source": ext.get("hull_source"),
