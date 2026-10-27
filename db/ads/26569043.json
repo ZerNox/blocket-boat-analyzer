@@ -83,11 +83,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26569043/86e21d68-090d-4ede-a4bd-ac8b6b6634b1",
   "https://images.blocketcdn.se/dynamic/default/item/26569043/e2adbcbe-9efe-4b0d-9f73-2a4100acb037"
  ],
- "last_seen": "2026-10-26T05:05:28+00:00",
+ "last_seen": "2026-10-27T05:06:28+00:00",
  "lat": 59.02,
  "length_ft": 21,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-27",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1992,
@@ -103,16 +103,21 @@
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "included",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "included",
     "stereo": "not_mentioned",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "e15cf34901ef6ff6"
+  "text_sha": "4d03c259631e4eda"
  },
  "location": "Hölö",
  "lon": 17.54,
@@ -122,9 +127,9 @@
  "motor_size": 100.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 1234,
-  "fetched_ts": 1792469668586,
-  "text_sha": "e15cf34901ef6ff6"
+  "description_chars": 1189,
+  "fetched_ts": 1793077901261,
+  "text_sha": "4d03c259631e4eda"
  },
  "price": 94000,
  "price_history": [

@@ -1,7 +1,7 @@
 {
  "ad_id": 27555196,
  "boat_class": "Styrpulpetbåt",
- "changed_ts": 1792436079000,
+ "changed_ts": 1793040819000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2005,
@@ -65,7 +65,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27555196/3829da31-adff-42c6-a25a-6c3516afe0b9",
   "https://images.blocketcdn.se/dynamic/default/item/27555196/a8419b00-72e6-4fc5-81c5-015c2795cf1d"
  ],
- "last_seen": "2026-10-26T05:05:28+00:00",
+ "last_seen": "2026-10-27T05:06:28+00:00",
  "lat": 65.3,
  "length_ft": 18,
  "location": "Piteå",
@@ -77,7 +77,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 1147,
-  "fetched_ts": 1792469734962,
+  "fetched_ts": 1793077961030,
   "text_sha": "aec879e05d477ac8"
  },
  "price": 83000,

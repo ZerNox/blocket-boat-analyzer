@@ -39,7 +39,7 @@
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/26550319/971fbdca-d97f-49e0-8dec-971a4f9df3a0"
  ],
- "last_seen": "2026-10-26T05:05:28+00:00",
+ "last_seen": "2026-10-27T05:06:28+00:00",
  "lat": 59.42,
  "length_ft": 19,
  "location": "Täby",
@@ -51,7 +51,7 @@
  "motor_type": null,
  "page": {
   "description_chars": 327,
-  "fetched_ts": 1792469667243,
+  "fetched_ts": 1793077899818,
   "text_sha": "a603e0678f69ddf5"
  },
  "price": 0,

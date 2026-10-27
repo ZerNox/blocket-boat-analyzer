@@ -39,8 +39,8 @@
   },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "ack vare den asymmetriska hytten (walkaround på båda sidor) rör man sig tryggt och enkelt fram till fördäc",
-  "hull_source": "rule:text",
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
   "llm_reasons": [
    "no engine year found"
   ],
@@ -66,35 +66,40 @@
   "https://images.blocketcdn.se/dynamic/default/item/24343984/612f78bc-0ae2-4459-9aca-1302fd853024",
   "https://images.blocketcdn.se/dynamic/default/item/24343984/26545d6a-93f7-4533-a770-121a1440d039"
  ],
- "last_seen": "2026-10-26T05:05:28+00:00",
+ "last_seen": "2026-10-27T05:06:28+00:00",
  "lat": 58.27,
  "length_ft": 21,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-10-27",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2006,
    "engine_hours": 400,
    "engine_hp": 100,
-   "engine_maker": "VW TDI 100-5",
+   "engine_maker": "VW TDI",
    "engine_type": "inboard",
    "engine_year": null,
-   "engine_year_evidence": "Gångtimmar: 400 timmar",
+   "engine_year_evidence": "Motor: Inombordare diesel, 100 hk (VW Marine tdi 100-5)",
    "equipment": {
     "ekolod": "included",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "included",
+    "inverter": "not_mentioned",
     "kapell": "not_mentioned",
     "landstrom": "not_mentioned",
     "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "not_mentioned",
+    "varmare": "included",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "db9aa9b7652675b0"
+  "text_sha": "93a87187c60757f0"
  },
  "location": "Lysekil",
  "lon": 11.42,
@@ -104,9 +109,9 @@
  "motor_size": 100.0,
  "motor_type": "Inombordare",
  "page": {
-  "description_chars": 1073,
-  "fetched_ts": 1792469522418,
-  "text_sha": "db9aa9b7652675b0"
+  "description_chars": 507,
+  "fetched_ts": 1793077809874,
+  "text_sha": "93a87187c60757f0"
  },
  "price": 165000,
  "price_history": [

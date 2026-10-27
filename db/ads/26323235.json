@@ -51,7 +51,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26323235/5b2e20bd-f862-4269-8880-1515945eeb3e",
   "https://images.blocketcdn.se/dynamic/default/item/26323235/0fe7ebfd-9a62-4538-adb9-d201f0c7688b"
  ],
- "last_seen": "2026-10-26T05:05:28+00:00",
+ "last_seen": "2026-10-27T05:06:28+00:00",
  "lat": 59.27,
  "length_ft": 18,
  "location": "Bandhagen",
@@ -63,7 +63,7 @@
  "motor_type": "Utombordare",
  "page": {
   "description_chars": 519,
-  "fetched_ts": 1792469621903,
+  "fetched_ts": 1793077856403,
   "text_sha": "a475be17de4f012a"
  },
  "price": 69000,

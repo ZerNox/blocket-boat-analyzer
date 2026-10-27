@@ -58,11 +58,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26717807/b5306e5b-90eb-4a9e-8a95-6855cb7c158e",
   "https://images.blocketcdn.se/dynamic/default/item/26717807/e30a2510-93da-432d-803f-b7897e4d81a0"
  ],
- "last_seen": "2026-10-26T05:05:28+00:00",
+ "last_seen": "2026-10-27T05:06:28+00:00",
  "lat": 59.37,
  "length_ft": 21,
  "llm": {
-  "at": "2026-10-05",
+  "at": "2026-10-27",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1976,
@@ -91,7 +91,7 @@
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "6c3b0014ece601c6"
+  "text_sha": "0a1a8c66cb428001"
  },
  "location": "Lidingö",
  "lon": 18.19,
@@ -101,9 +101,9 @@
  "motor_size": null,
  "motor_type": "Inombordare",
  "page": {
-  "description_chars": 799,
-  "fetched_ts": 1792469694009,
-  "text_sha": "6c3b0014ece601c6"
+  "description_chars": 769,
+  "fetched_ts": 1793077924528,
+  "text_sha": "0a1a8c66cb428001"
  },
  "price": 20000,
  "price_history": [

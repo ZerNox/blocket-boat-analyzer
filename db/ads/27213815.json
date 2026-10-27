@@ -88,6 +88,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-27",
  "page": {
   "description_chars": 0,
   "fetched_ts": 1792789638898,
@@ -117,7 +118,7 @@
   "Skrovmaterial": "Aluminium",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/27213815",
  "width_cm": 200,
  "year": 2024

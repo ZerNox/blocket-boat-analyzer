@@ -12,7 +12,7 @@
   "engine_maker": "Evinrude",
   "engine_stroke": null,
   "engine_type": "outboard",
-  "engine_type_evidence": "omhändertagen väl. Motorn och drev går utan problem. Ny el dragen i båten med möjlighet att ladda via USB och 12V, ledl",
+  "engine_type_evidence": "omhändertagen väl. Motorn och drev går utan problem. VRO systemet utbytt till ny modern bränslepump med manuell oljebla",
   "engine_type_source": "llm",
   "engine_year": null,
   "engine_year_est": 1978,
@@ -58,11 +58,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26903513/2292c5a9-473f-4290-b539-88521380a9bc",
   "https://images.blocketcdn.se/dynamic/default/item/26903513/ebb786b6-e258-4088-9c05-2005ea7c7fab"
  ],
- "last_seen": "2026-10-26T05:05:28+00:00",
+ "last_seen": "2026-10-27T05:06:28+00:00",
  "lat": 59.95,
  "length_ft": 18,
  "llm": {
-  "at": "2026-10-20",
+  "at": "2026-10-27",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1978,
@@ -71,7 +71,7 @@
    "engine_maker": "Evinrude",
    "engine_type": "outboard",
    "engine_year": null,
-   "engine_year_evidence": "Ny el dragen i båten med möjlighet att ladda via USB och 12V, ledlampor i tak, lanternor, Ankar, fendrar osv följer med.",
+   "engine_year_evidence": "Motortyp: Utombordare",
    "equipment": {
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
@@ -91,7 +91,7 @@
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "f8be9036409854cc"
+  "text_sha": "005320ed8ef29892"
  },
  "location": "Heby",
  "lon": 16.86,
@@ -101,9 +101,9 @@
  "motor_size": 60.0,
  "motor_type": "Utombordare",
  "page": {
-  "description_chars": 592,
-  "fetched_ts": 1792469707891,
-  "text_sha": "f8be9036409854cc"
+  "description_chars": 666,
+  "fetched_ts": 1793077937213,
+  "text_sha": "005320ed8ef29892"
  },
  "price": 25000,
  "price_history": [
