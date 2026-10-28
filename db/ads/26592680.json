@@ -50,7 +50,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26592680/0d59a177-afbb-4612-9661-30ea3ae20e83",
   "https://images.blocketcdn.se/dynamic/default/item/26592680/ae26dfac-ff9a-4ece-9612-e7666eef2daa"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 64.94,
  "length_ft": 17,
  "location": "Byske",
@@ -60,6 +60,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "organisation_name": null,
  "page": {
   "description_chars": 401,
   "fetched_ts": 1793077902593,

@@ -52,7 +52,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26433057/f678fe16-cc1c-441d-8229-ef60021649c9",
   "https://images.blocketcdn.se/dynamic/default/item/26433057/df94a0c4-a07d-458e-be87-a2fa3650bb79"
  ],
- "last_seen": "2026-10-12T04:21:20+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 59.38,
  "length_ft": 18,
  "location": "Hässelby",
@@ -63,9 +63,10 @@
  "motor_size": 70.0,
  "motor_type": "Utombordare",
  "not_in_search_since": "2026-10-13",
+ "organisation_name": null,
  "page": {
   "description_chars": 114,
-  "fetched_ts": 1791605586081,
+  "fetched_ts": 1793081537080,
   "text_sha": "9073ef0d7151f799"
  },
  "price": 25000,
@@ -99,7 +100,7 @@
   "Typ": "Annat",
   "Vikt": "620 kg"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26433057",
  "vision": {
   "at": "2026-10-10",

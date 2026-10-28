@@ -55,7 +55,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27065150/440cade7-2820-43f6-87ba-0f954573d259",
   "https://images.blocketcdn.se/dynamic/default/item/27065150/53aa3732-ddc0-46c7-91dc-94c8402adce4"
  ],
- "last_seen": "2026-10-12T04:21:20+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 57.73,
  "length_ft": 17,
  "location": "Torslanda",
@@ -66,9 +66,10 @@
  "motor_size": 50.0,
  "motor_type": "Utombordare",
  "not_in_search_since": "2026-10-13",
+ "organisation_name": null,
  "page": {
   "description_chars": 638,
-  "fetched_ts": 1791605594487,
+  "fetched_ts": 1793081541448,
   "text_sha": "3b05613d618e9439"
  },
  "price": 40000,
@@ -93,7 +94,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "570 kg"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/27065150",
  "vision": {
   "at": "2026-10-10",

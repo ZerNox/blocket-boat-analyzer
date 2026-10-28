@@ -43,7 +43,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26385115/a44b6432-074f-4356-8eb5-94e53238c5d1",
   "https://images.blocketcdn.se/dynamic/default/item/26385115/8fb0d43b-d64c-4a44-b850-876766afbabb"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 59.26,
  "length_ft": 20,
  "location": "Runmarö",
@@ -53,6 +53,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "organisation_name": null,
  "page": {
   "description_chars": 405,
   "fetched_ts": 1793077871606,

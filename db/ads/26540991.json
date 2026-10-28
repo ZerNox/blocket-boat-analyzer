@@ -52,7 +52,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26540991/fed18a3a-72f0-4679-aa08-7f434345de9e",
   "https://images.blocketcdn.se/dynamic/default/item/26540991/026224b5-9b25-4d4c-94da-3ca37239726a"
  ],
- "last_seen": "2026-10-12T04:21:20+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 63.16,
  "length_ft": 18,
  "llm": {
@@ -90,9 +90,10 @@
  "motor_size": 70.0,
  "motor_type": "Utombordare",
  "not_in_search_since": "2026-10-13",
+ "organisation_name": null,
  "page": {
   "description_chars": 601,
-  "fetched_ts": 1791605588790,
+  "fetched_ts": 1793081538385,
   "text_sha": "1bf884aed1c4c628"
  },
  "price": 25000,
@@ -116,7 +117,7 @@
   "Märke": "Ryds",
   "Typ": "Annat"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26540991",
  "vision": {
   "at": "2026-10-10",

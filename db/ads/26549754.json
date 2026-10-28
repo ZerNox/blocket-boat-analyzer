@@ -44,7 +44,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26549754/eee266b1-cfca-471a-b619-aeb2f922f6bb",
   "https://images.blocketcdn.se/dynamic/default/item/26549754/d56f19ab-4dcb-4b2d-afdd-797867e3df3f"
  ],
- "last_seen": "2026-10-12T04:21:20+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 59.39,
  "length_ft": 16,
  "llm": {
@@ -87,9 +87,10 @@
  "motor_size": null,
  "motor_type": null,
  "not_in_search_since": "2026-10-13",
+ "organisation_name": null,
  "page": {
   "description_chars": 0,
-  "fetched_ts": 1791605590347,
+  "fetched_ts": 1793081539939,
   "text_sha": "5e661ac05b47b017"
  },
  "price": 15000,
@@ -107,7 +108,7 @@
   "Märke": "Ryds",
   "Typ": "Småbåt/Gummibåt"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26549754",
  "vision": {
   "at": "2026-10-10",

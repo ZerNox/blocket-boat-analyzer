@@ -60,7 +60,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/21425244/cd58029e-3130-426f-94f4-afd49b7cc7d8",
   "https://images.blocketcdn.se/dynamic/default/item/21425244/28540d40-c28c-4f6c-8b67-de4bac45f34d"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 61.3,
  "length_ft": 21,
  "llm": {
@@ -97,6 +97,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": "Utombordare",
+ "organisation_name": null,
  "page": {
   "description_chars": 633,
   "fetched_ts": 1793077792111,

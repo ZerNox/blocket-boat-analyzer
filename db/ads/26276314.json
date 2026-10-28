@@ -63,7 +63,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26276314/e7cb15cc-0c1d-4fab-a5ea-1c866f62f340",
   "https://images.blocketcdn.se/dynamic/default/item/26276314/7c069830-4bad-4d03-b84d-9a730ed4b941"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 59.41,
  "length_ft": 19,
  "location": "Karlstad",
@@ -73,6 +73,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 100.0,
  "motor_type": "Utombordare",
+ "organisation_name": null,
  "page": {
   "description_chars": 182,
   "fetched_ts": 1793077850913,

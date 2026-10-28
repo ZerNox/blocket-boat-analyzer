@@ -48,7 +48,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27130942/08aea537-d667-4630-8836-2dfe02cb6fce",
   "https://images.blocketcdn.se/dynamic/default/item/27130942/9af7eae9-d080-4f56-8c63-4e9f2515a042"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 58.82,
  "length_ft": 18,
  "location": "Västerljung",
@@ -58,6 +58,7 @@
  "motor_fuel": null,
  "motor_size": 70.0,
  "motor_type": null,
+ "organisation_name": null,
  "page": {
   "description_chars": 183,
   "fetched_ts": 1793077948561,

@@ -52,7 +52,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26885939/47ef3ba9-9c9c-43a7-a4f1-16a35ffe69a2",
   "https://images.blocketcdn.se/dynamic/default/item/26885939/7b76c702-3246-41b5-9c0e-68fd1652d7fe"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 57.65,
  "length_ft": 17,
  "location": "Mölndal",
@@ -63,6 +63,7 @@
  "motor_size": null,
  "motor_type": "Utombordare",
  "not_in_search_since": "2026-09-27",
+ "organisation_name": null,
  "page": {
   "description_chars": 559,
   "fetched_ts": 1792789620361,

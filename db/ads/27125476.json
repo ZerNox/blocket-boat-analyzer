@@ -50,7 +50,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27125476/875b4909-1bbc-4460-bf29-7d9392df75c9",
   "https://images.blocketcdn.se/dynamic/default/item/27125476/f680db34-8a07-4692-8ee0-b785a769df43"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 59.26,
  "length_ft": 1,
  "location": "Ingarö",
@@ -60,6 +60,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 80.0,
  "motor_type": "Utombordare",
+ "organisation_name": null,
  "page": {
   "description_chars": 1344,
   "fetched_ts": 1793077945831,

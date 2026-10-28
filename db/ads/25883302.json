@@ -60,7 +60,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25883302/8445fba2-7883-4ed9-8467-833da01bf310",
   "https://images.blocketcdn.se/dynamic/default/item/25883302/18abc361-ff3b-45b7-a695-a28ac31b5592"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-27T06:04:23+00:00",
  "lat": 58.9,
  "length_ft": 19,
  "location": "Trosa",
@@ -70,6 +70,8 @@
  "motor_fuel": null,
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-28",
+ "organisation_name": null,
  "page": {
   "description_chars": 321,
   "fetched_ts": 1793077825623,
@@ -98,7 +100,7 @@
   "Märke": "Flipper",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/25883302",
  "width_cm": 0,
  "year": 1975

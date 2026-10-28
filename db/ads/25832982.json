@@ -1,7 +1,7 @@
 {
  "ad_id": 25832982,
  "boat_class": "Styrpulpetbåt",
- "changed_ts": 1787077537000,
+ "changed_ts": 1792473455000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1980,
@@ -56,7 +56,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25832982/afef2e57-2e78-43b4-8913-4a4154dd32a6",
   "https://images.blocketcdn.se/dynamic/default/item/25832982/02001279-a769-4097-b322-ec29a6b0e524"
  ],
- "last_seen": "2026-10-12T04:21:20+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 63.12,
  "length_ft": 19,
  "llm": {
@@ -94,12 +94,13 @@
  "motor_size": 70.0,
  "motor_type": "Utombordare",
  "not_in_search_since": "2026-10-13",
+ "organisation_name": null,
  "page": {
   "description_chars": 865,
-  "fetched_ts": 1791605578929,
+  "fetched_ts": 1793081535847,
   "text_sha": "7b32b16d8c2bba66"
  },
- "price": 14000,
+ "price": 12000,
  "price_history": [
   {
    "date": "2026-09-27",
@@ -108,6 +109,10 @@
   {
    "date": "2026-10-10",
    "price": 14000
+  },
+  {
+   "date": "2026-10-27",
+   "price": 12000
   }
  ],
  "specs": {
@@ -125,7 +130,7 @@
   "Toppfart": "24 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/25832982",
  "width_cm": 220,
  "year": 1980

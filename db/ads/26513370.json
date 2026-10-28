@@ -67,7 +67,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26513370/4fbfe24f-84eb-46ce-ba4a-219b7355c0f7",
   "https://images.blocketcdn.se/dynamic/default/item/26513370/ef0198ee-4b91-418a-b3a0-cd810de356d5"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 59.33,
  "length_ft": 18,
  "location": "Värmdö",
@@ -77,6 +77,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "organisation_name": null,
  "page": {
   "description_chars": 733,
   "fetched_ts": 1793077891503,

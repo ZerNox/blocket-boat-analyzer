@@ -50,7 +50,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27596732/f658a3c6-1dff-476c-aee7-dc2889e434e6",
   "https://images.blocketcdn.se/dynamic/default/item/27596732/1a7ca09e-4c4b-4462-afcd-c7395898f38a"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-27T06:04:23+00:00",
  "lat": 57.72,
  "length_ft": 18,
  "llm": {
@@ -92,6 +92,8 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-10-28",
+ "organisation_name": null,
  "page": {
   "description_chars": 198,
   "fetched_ts": 1792789650654,
@@ -113,7 +115,7 @@
   "Märke": "Örnvik",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/27596732",
  "vision": {
   "at": "2026-10-23",

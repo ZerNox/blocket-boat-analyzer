@@ -53,7 +53,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26905168/0cafd649-0148-44ce-8ab3-42db556d18b0",
   "https://images.blocketcdn.se/dynamic/default/item/26905168/a6dd9f6e-afb1-48f0-9a9b-07843866a292"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 57.2,
  "length_ft": 17,
  "location": "Åskloster",
@@ -63,6 +63,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "organisation_name": null,
  "page": {
   "description_chars": 510,
   "fetched_ts": 1793077938633,

@@ -63,7 +63,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/24707125/3d547525-391d-4a20-9341-f38aaccd17b5",
   "https://images.blocketcdn.se/dynamic/default/item/24707125/18bd0b17-2e13-498c-8552-a21c1aaab48c"
  ],
- "last_seen": "2026-10-12T04:21:20+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 59.01,
  "length_ft": 18,
  "llm": {
@@ -102,9 +102,10 @@
  "motor_size": null,
  "motor_type": null,
  "not_in_search_since": "2026-10-13",
+ "organisation_name": null,
  "page": {
   "description_chars": 1291,
-  "fetched_ts": 1791605575971,
+  "fetched_ts": 1793081534350,
   "text_sha": "43a7e778d1d7ddb7"
  },
  "price": 32000,
@@ -125,7 +126,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Annat"
  },
- "status": "not_in_search",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/24707125",
  "vision": {
   "at": "2026-10-10",

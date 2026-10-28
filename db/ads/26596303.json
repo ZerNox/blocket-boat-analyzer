@@ -52,7 +52,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26596303/4c219c16-1b86-49ac-9139-212be37c4f1e",
   "https://images.blocketcdn.se/dynamic/default/item/26596303/18d0dbb8-d456-4d35-a441-1937b37aae8a"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 59.6,
  "length_ft": 17,
  "location": "Västerås",
@@ -62,6 +62,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "organisation_name": null,
  "page": {
   "description_chars": 175,
   "fetched_ts": 1793077903890,

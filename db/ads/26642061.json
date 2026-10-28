@@ -51,7 +51,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26642061/7e0833bf-f154-47f3-af30-b9f5106b1e9f",
   "https://images.blocketcdn.se/dynamic/default/item/26642061/5f4d8abf-70b9-4fbc-8311-f13af202fa29"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 61.73,
  "length_ft": 21,
  "location": "Delsbo",
@@ -61,6 +61,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "organisation_name": null,
  "page": {
   "description_chars": 186,
   "fetched_ts": 1793077915174,

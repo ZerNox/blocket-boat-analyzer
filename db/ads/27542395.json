@@ -48,7 +48,8 @@
  },
  "first_seen": "2026-10-20T04:08:08+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Ryds sälö"
  ],
  "heading": "Daycruser Ryds sälö 17",
  "image": "https://images.blocketcdn.se/dynamic/default/item/27542395/99a1e27a-058f-4553-a0e9-5aabb63a7f32",
@@ -61,7 +62,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27542395/44d3cddf-c99e-4882-913c-d0f71b14e560",
   "https://images.blocketcdn.se/dynamic/default/item/27542395/c4879f89-41f5-4123-9065-5bd0c6cb5633"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 58.53,
  "length_ft": 17,
  "llm": {
@@ -103,6 +104,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "organisation_name": null,
  "page": {
   "description_chars": 347,
   "fetched_ts": 1793077958123,

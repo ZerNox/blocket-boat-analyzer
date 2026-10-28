@@ -38,7 +38,9 @@
  },
  "first_seen": "2026-09-27T15:26:08+00:00",
  "found_by": [
-  "kategori"
+  "kategori",
+  "Ryds Camping",
+  "Ryds camping"
  ],
  "heading": "Ryds Camping 76, med utombordare och 30-kärra.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/23887578/4449543c-fb1f-4536-b253-7658577e5e7e",
@@ -49,7 +51,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/23887578/58740326-0b42-4685-8f12-7b940186edd6",
   "https://images.blocketcdn.se/dynamic/default/item/23887578/cd2d9604-16da-4395-b88a-700dbf052b46"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 59.14,
  "length_ft": 19,
  "location": "Säffle",
@@ -60,6 +62,7 @@
  "motor_size": 60.0,
  "motor_type": "Utombordare",
  "not_in_search_since": "2026-10-09",
+ "organisation_name": null,
  "page": {
   "description_chars": 129,
   "fetched_ts": 1792789601049,

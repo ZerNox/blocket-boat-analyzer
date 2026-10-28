@@ -66,7 +66,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/24343984/612f78bc-0ae2-4459-9aca-1302fd853024",
   "https://images.blocketcdn.se/dynamic/default/item/24343984/26545d6a-93f7-4533-a770-121a1440d039"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 58.27,
  "length_ft": 21,
  "llm": {
@@ -108,6 +108,7 @@
  "motor_fuel": "Diesel",
  "motor_size": 100.0,
  "motor_type": "Inombordare",
+ "organisation_name": null,
  "page": {
   "description_chars": 507,
   "fetched_ts": 1793077809874,

@@ -57,7 +57,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27633245/23b47d3f-ba8d-404b-8081-06aa86e7a524",
   "https://images.blocketcdn.se/dynamic/default/item/27633245/d8dbbd92-22c7-4422-b37a-38ef106874ff"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 57.73,
  "length_ft": 17,
  "location": "Västervik",
@@ -67,6 +67,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "organisation_name": null,
  "page": {
   "description_chars": 349,
   "fetched_ts": 1792789654625,

@@ -47,7 +47,7 @@
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/26662692/da0a09f2-1e1b-4a96-a9b6-46e8dd1995b7"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 59.44,
  "length_ft": 17,
  "llm": {
@@ -84,6 +84,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "organisation_name": null,
  "page": {
   "description_chars": 273,
   "fetched_ts": 1793077919258,

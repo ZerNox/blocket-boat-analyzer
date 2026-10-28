@@ -57,7 +57,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26220338/1f58a792-8afa-4f8c-8c6b-10ddd0e3aa21",
   "https://images.blocketcdn.se/dynamic/default/item/26220338/449de9cc-6815-4a38-8c40-907145ee0809"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 60.57,
  "length_ft": 17,
  "location": "Forsbacka",
@@ -67,6 +67,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "organisation_name": null,
  "page": {
   "description_chars": 329,
   "fetched_ts": 1793077842538,

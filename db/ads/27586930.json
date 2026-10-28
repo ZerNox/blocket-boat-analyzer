@@ -1,0 +1,162 @@
+{
+ "ad_id": 27586930,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1792574324000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1990,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "mercury",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1990,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "två stycken ekolod ekolod med ramfästen:",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "elmotor motorguide x15-80fw 60 24v gps med snabbfäste samt kontrollers",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "elmotor motorguide x15-80fw 60 24v gps med snabbfäste samt kontrollers",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "båtsläpvagnen är en 80 vagn",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "No enclosed space, only open cockpit and console visible.",
+  "hull_source": "bild",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-27T06:04:23+00:00",
+ "found_by": [
+  "Ryds triss"
+ ],
+ "heading": "Ryds triss 52",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27586930/db794b40-3692-4db8-a53e-1bed852c9098",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27586930/db794b40-3692-4db8-a53e-1bed852c9098",
+  "https://images.blocketcdn.se/dynamic/default/item/27586930/24d76f98-866d-414f-aed5-25dde1a63c61",
+  "https://images.blocketcdn.se/dynamic/default/item/27586930/4487a572-bb84-40dd-9296-5ce541c40fcd",
+  "https://images.blocketcdn.se/dynamic/default/item/27586930/6f483ff9-f5ac-45ba-8899-e557a7eb718b",
+  "https://images.blocketcdn.se/dynamic/default/item/27586930/a82189bd-68f6-4bbd-82b7-35e3ba6ecd69",
+  "https://images.blocketcdn.se/dynamic/default/item/27586930/39f3503d-a050-4345-8c67-0acd47b86276",
+  "https://images.blocketcdn.se/dynamic/default/item/27586930/20ac85ea-7471-46f9-9ad5-34d43854968b",
+  "https://images.blocketcdn.se/dynamic/default/item/27586930/885a04ba-e330-4ebe-9812-6e07f794ea47",
+  "https://images.blocketcdn.se/dynamic/default/item/27586930/4447f988-80bc-46cf-ad94-b99d64625102",
+  "https://images.blocketcdn.se/dynamic/default/item/27586930/7ac558c7-ee10-4fa6-a5c2-574dd995a608",
+  "https://images.blocketcdn.se/dynamic/default/item/27586930/67a38b6a-5c46-4535-b449-d651ad969740",
+  "https://images.blocketcdn.se/dynamic/default/item/27586930/bdfb7a30-2d92-4b42-8698-0d5b8201cece"
+ ],
+ "last_seen": "2026-10-28T05:08:29+00:00",
+ "lat": 58.22,
+ "length_ft": 17,
+ "llm": {
+  "at": "2026-10-28",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1990,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "mercury",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "och en 60 hk äldre Mercury",
+   "engine_year_rejected": 1990,
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "included",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "f1b8ba54bbf2cf4b"
+ },
+ "location": "Åtvidaberg",
+ "lon": 16.03,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 1031,
+  "fetched_ts": 1793081542736,
+  "text_sha": "f1b8ba54bbf2cf4b"
+ },
+ "price": 76000,
+ "price_history": [
+  {
+   "date": "2026-10-27",
+   "price": 76000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "vit",
+  "Längd i fot": "17 fot",
+  "Modell": "triss 52",
+  "Modellår": "1990",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27586930",
+ "vision": {
+  "at": "2026-10-28",
+  "images_sha": "d02eaa6c66305a6f",
+  "model": "Qwen3VL-8B-Instruct-Q4_K_M",
+  "result": {
+   "hull": "open",
+   "hull_evidence": "No enclosed space, only open cockpit and console visible.",
+   "hull_photo": 1
+  },
+  "tasks": [
+   "hull"
+  ]
+ },
+ "width_cm": 220,
+ "year": 1990
+}

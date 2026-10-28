@@ -55,7 +55,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/21345831/ddc4f900-b397-45ae-89d0-c5894677fae9",
   "https://images.blocketcdn.se/dynamic/default/item/21345831/c160f047-bd5c-4fab-a608-e27a815da55e"
  ],
- "last_seen": "2026-10-27T05:06:28+00:00",
+ "last_seen": "2026-10-28T05:08:29+00:00",
  "lat": 59.25,
  "length_ft": 18,
  "llm": {
@@ -92,6 +92,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "organisation_name": null,
  "page": {
   "description_chars": 317,
   "fetched_ts": 1793077790666,
