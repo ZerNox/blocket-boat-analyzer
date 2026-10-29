@@ -1,0 +1,136 @@
+{
+ "ad_id": 27773291,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1793180687000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Johnson 70 hk VRO",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "na säsong byttes impeller och drevolja, och båten bottenmålades. Termostaten byttes i somras och motorn är genomkörd med",
+  "engine_type_source": "llm",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "plotter": {
+    "evidence": "Plotter",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Solvigg 18 med Johnson 70 hk VRO + 80-trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Kabinbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "declared outboard but text says 'drevolja'",
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-29T05:04:05+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "HÖSTPRIS! Solvigg 18 med Johnson 70 hk VRO + 80-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27773291/54e77ec7-5e72-48c4-99a5-fbc8b8042fb3",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27773291/54e77ec7-5e72-48c4-99a5-fbc8b8042fb3",
+  "https://images.blocketcdn.se/dynamic/default/item/27773291/37eb6016-4cc9-4c16-9c88-f26c5651e190",
+  "https://images.blocketcdn.se/dynamic/default/item/27773291/7fcc73f8-df98-4c21-a69c-f22fdd3da29d",
+  "https://images.blocketcdn.se/dynamic/default/item/27773291/47e89a2d-97b2-45e3-8e2a-f26ffb57edc4",
+  "https://images.blocketcdn.se/dynamic/default/item/27773291/99b650a2-498a-4a51-95f1-085abfd5893b",
+  "https://images.blocketcdn.se/dynamic/default/item/27773291/6e9f4cd7-fef9-4c0c-8d73-c0acfd84554b"
+ ],
+ "last_seen": "2026-10-29T05:04:05+00:00",
+ "lat": 57.8,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-10-29",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Johnson 70 hk VRO",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "521cbbcc24b2f6d8"
+ },
+ "location": "Floda",
+ "lon": 12.35,
+ "make": "Övriga",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 1270,
+  "fetched_ts": 1793250472704,
+  "text_sha": "521cbbcc24b2f6d8"
+ },
+ "price": 38000,
+ "price_history": [
+  {
+   "date": "2026-10-29",
+   "price": 38000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "18 fot",
+  "Modell": "Solvigg 18",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Johnson 70 hk VRO",
+  "Motortyp": "Utombordare",
+  "Märke": "Övriga",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Toppfart": "30 knop",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27773291",
+ "width_cm": 0,
+ "year": 1978
+}

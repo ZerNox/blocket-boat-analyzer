@@ -75,6 +75,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-29",
  "organisation_name": null,
  "page": {
   "description_chars": 1147,
@@ -88,6 +89,11 @@
    "price": 83000
   }
  ],
+ "sold": {
+  "date": "2026-10-29",
+  "days_seen": 9,
+  "last_price": 83000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
@@ -102,7 +108,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/27555196",
  "width_cm": 0,
  "year": 2005

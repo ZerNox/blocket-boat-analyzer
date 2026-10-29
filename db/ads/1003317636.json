@@ -1,12 +1,12 @@
 {
  "ad_id": 1003317636,
  "auction": {
-  "bid": 500,
+  "bid": 62000,
   "close": "2026-11-03T12:06:00+01:00",
   "ended": false,
   "fee": 7180,
   "margin_scheme": true,
-  "next_bid": 600,
+  "next_bid": 63000,
   "reserve_reached": false,
   "start": "2026-10-27T09:00:00+01:00",
   "vat": 0
@@ -60,7 +60,7 @@
  "image_urls": [
   "https://media.se.klaravik.com/public/productimages/20/64/3317636/extrabilder75963113_large.jpg?v=1793084568"
  ],
- "last_seen": "2026-10-28",
+ "last_seen": "2026-10-29",
  "lat": 58.75,
  "length_ft": null,
  "location": "Nyköping",
@@ -70,15 +70,20 @@
  "motor_type": null,
  "page": {
   "description_chars": 819,
-  "fetched_ts": 1793164360715,
+  "fetched_ts": 1793250479755,
   "text_sha": "ac7e4d28d7ec6043"
  },
- "price": 9475,
+ "price": 70975,
  "price_history": [
   {
    "bid": 500,
    "date": "2026-10-28",
    "price": 9475
+  },
+  {
+   "bid": 62000,
+   "date": "2026-10-29",
+   "price": 70975
   }
  ],
  "source": "klaravik",

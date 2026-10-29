@@ -63,6 +63,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-29",
  "organisation_name": null,
  "page": {
   "description_chars": 238,
@@ -88,7 +89,7 @@
   "Märke": "Crescent",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26139078",
  "width_cm": 0,
  "year": 1980

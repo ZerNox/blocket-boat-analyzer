@@ -1,0 +1,98 @@
+{
+ "ad_id": 19615877,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1793212323000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1996,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Bella 601 motor Evinrude oceanpro 90hk 1996 höstpris.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "trailer": {
+    "evidence": "Båtvagn 30km/h kan säljas med båten för 10000kr.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-29T05:04:05+00:00",
+ "found_by": [
+  "kategori",
+  "Bella 601"
+ ],
+ "heading": "Bella 601 motor Evinrude oceanpro 90hk 1996 höstpris",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/19615877/40c1d919-de96-449d-be95-3031391d81ae",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/19615877/40c1d919-de96-449d-be95-3031391d81ae",
+  "https://images.blocketcdn.se/dynamic/default/item/19615877/fc54768f-2375-4376-adb5-6d0b9a0c4282",
+  "https://images.blocketcdn.se/dynamic/default/item/19615877/7ca73e55-9b6a-4cf1-9544-d9afe2e66633",
+  "https://images.blocketcdn.se/dynamic/default/item/19615877/ff71cde8-f3ef-4d58-ae7d-89143f0fa5c5",
+  "https://images.blocketcdn.se/dynamic/default/item/19615877/5e3a5fa9-8330-46fd-9f86-bbc595194239",
+  "https://images.blocketcdn.se/dynamic/default/item/19615877/2bdd7080-226b-4653-aa1a-87650d282850",
+  "https://images.blocketcdn.se/dynamic/default/item/19615877/d69bfd3d-0adc-4dd3-9327-f6727452d7d3",
+  "https://images.blocketcdn.se/dynamic/default/item/19615877/6b8784b5-d36d-4c23-9812-ab645a8c992f",
+  "https://images.blocketcdn.se/dynamic/default/item/19615877/20ca073c-08fb-4bdb-8ead-916b19d62a84"
+ ],
+ "last_seen": "2026-10-29T05:04:05+00:00",
+ "lat": 59.27,
+ "length_ft": 20,
+ "location": "Bandhagen",
+ "lon": 18.05,
+ "make": "Bella",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 737,
+  "fetched_ts": 1793250471318,
+  "text_sha": "40c9bd4998f17491"
+ },
+ "price": 59900,
+ "price_history": [
+  {
+   "date": "2026-10-29",
+   "price": 59900
+  }
+ ],
+ "specs": {
+  "Bredd": "225 cm",
+  "Båtens plats": "Sverige",
+  "Längd i fot": "20 fot",
+  "Modell": "601HT",
+  "Modellår": "1996",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/19615877",
+ "width_cm": 225,
+ "year": 1996
+}
