@@ -102,6 +102,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-10-30",
  "organisation_name": null,
  "page": {
   "description_chars": 513,
@@ -135,7 +136,7 @@
   "Toppfart": "25 knop",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26170770",
  "width_cm": 0,
  "year": 1976

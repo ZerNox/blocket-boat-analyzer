@@ -97,6 +97,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-10-30",
  "organisation_name": null,
  "page": {
   "description_chars": 308,
@@ -118,7 +119,7 @@
   "Märke": "Ryds",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/22873439",
  "width_cm": 0,
  "year": 1989

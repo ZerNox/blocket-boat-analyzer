@@ -1,7 +1,7 @@
 {
  "ad_id": 25760835,
  "boat_class": "Styrpulpetbåt",
- "changed_ts": 1792688516000,
+ "changed_ts": 1793293307000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2009,
@@ -60,7 +60,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25760835/098188e0-9fea-4eb9-8d97-1e411a3eb1e4",
   "https://images.blocketcdn.se/dynamic/default/item/25760835/3fd5fc46-35b5-4dec-bc14-5038c26a3039"
  ],
- "last_seen": "2026-10-29T05:04:05+00:00",
+ "last_seen": "2026-10-30T05:06:53+00:00",
  "lat": 56.15,
  "length_ft": 19,
  "location": "Viken",
@@ -73,7 +73,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 919,
-  "fetched_ts": 1792789609184,
+  "fetched_ts": 1793337050279,
   "text_sha": "6319961a6081ad35"
  },
  "price": 160000,

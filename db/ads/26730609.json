@@ -96,6 +96,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-10-30",
  "organisation_name": null,
  "page": {
   "description_chars": 327,
@@ -113,6 +114,11 @@
    "price": 50000
   }
  ],
+ "sold": {
+  "date": "2026-10-30",
+  "days_seen": 33,
+  "last_price": 50000
+ },
  "specs": {
   "Bredd": "265 cm",
   "Båtens plats": "Sverige",
@@ -129,7 +135,7 @@
   "Toppfart": "27 knop",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26730609",
  "width_cm": 265,
  "year": 1992
