@@ -61,11 +61,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/27392755/f93ee7fe-88e2-4b4a-ac60-ac5c20d6297d",
   "https://images.blocketcdn.se/dynamic/default/item/27392755/4aa3e085-567f-49fc-b83c-591f5641db02"
  ],
- "last_seen": "2026-10-30T05:06:53+00:00",
+ "last_seen": "2026-10-31T05:06:41+00:00",
  "lat": 58.71,
  "length_ft": 19,
  "llm": {
-  "at": "2026-10-14",
+  "at": "2026-10-31",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1998,
@@ -94,7 +94,7 @@
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "43643cf9fe9737b1"
+  "text_sha": "3c5f13cae73140c6"
  },
  "location": "Mariestad",
  "lon": 13.83,
@@ -106,8 +106,8 @@
  "organisation_name": null,
  "page": {
   "description_chars": 277,
-  "fetched_ts": 1792789641739,
-  "text_sha": "43643cf9fe9737b1"
+  "fetched_ts": 1793423466162,
+  "text_sha": "3c5f13cae73140c6"
  },
  "price": 78000,
  "price_history": [

@@ -51,7 +51,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/23887578/58740326-0b42-4685-8f12-7b940186edd6",
   "https://images.blocketcdn.se/dynamic/default/item/23887578/cd2d9604-16da-4395-b88a-700dbf052b46"
  ],
- "last_seen": "2026-10-30T05:06:53+00:00",
+ "last_seen": "2026-10-31T05:06:41+00:00",
  "lat": 59.14,
  "length_ft": 19,
  "location": "Säffle",
@@ -65,7 +65,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 129,
-  "fetched_ts": 1792789601049,
+  "fetched_ts": 1793423425006,
   "text_sha": "cd3bb72aa501ff8b"
  },
  "price": 35000,

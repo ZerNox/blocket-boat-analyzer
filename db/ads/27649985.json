@@ -47,7 +47,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27649985/7c0c8749-0744-438c-bc80-0134b7d566bd",
   "https://images.blocketcdn.se/dynamic/default/item/27649985/74c51c79-8fd1-4418-bbca-cd21d336af28"
  ],
- "last_seen": "2026-10-30T05:06:53+00:00",
+ "last_seen": "2026-10-31T05:06:41+00:00",
  "lat": 59.3,
  "length_ft": 21,
  "location": "Värmdö",
@@ -60,7 +60,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 74,
-  "fetched_ts": 1792789657576,
+  "fetched_ts": 1793423477475,
   "text_sha": "c8617d4118d05ca0"
  },
  "price": 1000,

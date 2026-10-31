@@ -104,7 +104,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
- "not_in_search_since": "2026-09-27",
+ "not_in_search_since": "2026-10-31",
  "organisation_name": null,
  "page": {
   "description_chars": 415,
@@ -127,7 +127,7 @@
   "Märke": "Ryds",
   "Typ": "Fiskebåt/Arbetsbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26187663",
  "vision": {
   "at": "2026-09-29",

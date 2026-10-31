@@ -1,0 +1,111 @@
+{
+ "ad_id": 27826021,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1793356009000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1982,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Johnson",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Johnson 90 hk 2-takt, årsmodell 2005/2006",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin Echomap plotter och ekolod.",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "Hydraulisk styrning.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell är ok skick.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin Echomap plotter och ekolod.",
+    "included": true
+   },
+   "solpanel": {
+    "evidence": "Solpanel.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Inklusive bromsad 80-trailer.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 570 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-31T05:06:41+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds 570 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27826021/be0ff2fe-6602-486a-8190-9a4465d0308f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27826021/be0ff2fe-6602-486a-8190-9a4465d0308f",
+  "https://images.blocketcdn.se/dynamic/default/item/27826021/68a4a056-806e-4c67-a4d1-69d548ab38e4"
+ ],
+ "last_seen": "2026-10-31T05:06:41+00:00",
+ "lat": 56.17,
+ "length_ft": 19,
+ "location": "Lerberget",
+ "lon": 12.57,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 658,
+  "fetched_ts": 1793423480176,
+  "text_sha": "0c67f81f5a8afc35"
+ },
+ "price": 55000,
+ "price_history": [
+  {
+   "date": "2026-10-31",
+   "price": 55000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modellår": "1982",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "9",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27826021",
+ "width_cm": 215,
+ "year": 1982
+}

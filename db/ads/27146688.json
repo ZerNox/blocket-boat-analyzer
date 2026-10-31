@@ -1,0 +1,135 @@
+{
+ "ad_id": 27146688,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1793382416000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": 250,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercury",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Ny servad motor 2 takt mercury optimax från 2008 bränsle snål drar lite mindre än 1 l sjömilen.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Nytt kapell 2022",
+    "included": true
+   },
+   "landstrom": {
+    "evidence": "Kontakt för Landström",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30-80 trailer o bromsad , o reggad mycket fin 300-400kg",
+    "included": true,
+    "kmh": 80
+   },
+   "varmare": {
+    "evidence": "Renoverad värmare wallas 1800b drivs av fotogen",
+    "included": true
+   },
+   "vinsch": {
+    "evidence": "Lite trasig kåpa vid vinschen på trailern men funkar som den ska.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "h bytta lister \nUtbäddbar sovhytt med nya dynor i mitten anpassad för bli en 160 säng med brädor i mitten.",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-10-31T05:06:41+00:00",
+ "found_by": [
+  "kategori",
+  "Uttern 630"
+ ],
+ "heading": "Uttern 630",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27146688/c8ffd26e-d674-48f6-be82-041fe5eb0bba",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/c8ffd26e-d674-48f6-be82-041fe5eb0bba",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/53d57d51-6aed-4048-998e-a083d9050b01",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/85638e98-d1ec-4230-8f6d-3e8baff00bac",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/47a9f3ca-f3d7-4bce-acd1-c289df9be6a7",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/7ff802bc-441e-414c-8fe4-00c2cb1ee3b5",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/75f5ff1b-ecc4-4232-9d4b-a8cd1e90a320",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/6fdb925c-37c9-48e2-8950-a4abeaa415ab",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/8bd5a1a9-5422-4830-8a5f-11f3e51e558b",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/aac99ea9-1fa3-4f32-8093-26b9e5381e7f",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/e24fc36d-5488-4091-9085-11ff2c17f639",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/95c2abec-d01c-4a85-90cd-809622e28f13",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/dfaa9c5a-0b7b-4866-9f87-07ddcef3be49",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/1bf9d5e8-7f79-4316-9c05-37e6921cc328",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/fb82ad36-6cfd-4174-94d9-091852b5e277",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/86a23935-938e-4ee0-bf24-4300dfbe673b",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/5771afc5-bfad-4080-a426-0492250d4be2",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/9de56af5-509e-49df-ac83-e4ac9afad792",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/30b2f3af-983c-4928-99e0-49016a116187",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/5ca455d8-2414-450c-9237-ef2240274729",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/7857cfd6-c961-4b5a-bf02-a8b4dbecdf92",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/b0545ad8-ab55-4089-9705-925d4b6a05d4",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/e7b9049b-c08b-4661-849b-aed821b052e2",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/3daeee3e-eb4d-4db5-b3be-70328b86a4d9",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/7a55cf43-8c18-45e4-a576-edb450f730f8",
+  "https://images.blocketcdn.se/dynamic/default/item/27146688/423c3b3a-e87b-49f2-9dc0-3c4463b6a383"
+ ],
+ "last_seen": "2026-10-31T05:06:41+00:00",
+ "lat": 65.62,
+ "length_ft": 21,
+ "location": "Luleå",
+ "lon": 22.15,
+ "make": "Uttern",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 2175,
+  "fetched_ts": 1793423456207,
+  "text_sha": "5023c7bdf9564d0a"
+ },
+ "price": 58000,
+ "price_history": [
+  {
+   "date": "2026-10-31",
+   "price": 58000
+  }
+ ],
+ "specs": {
+  "Bredd": "260 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "630 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "630",
+  "Modellår": "1978",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "4",
+  "Toppfart": "30 knop",
+  "Typ": "Hyttbåt",
+  "Vikt": "1 100 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27146688",
+ "width_cm": 260,
+ "year": 1978
+}
