@@ -67,6 +67,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-01",
  "organisation_name": null,
  "page": {
   "description_chars": 329,
@@ -99,7 +100,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "500 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26220338",
  "width_cm": 215,
  "year": 1977
