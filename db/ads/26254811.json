@@ -82,6 +82,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-11-02",
  "organisation_name": null,
  "page": {
   "description_chars": 0,
@@ -113,7 +114,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "900 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26254811",
  "width_cm": 2500,
  "year": 1977

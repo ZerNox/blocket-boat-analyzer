@@ -84,6 +84,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-11-02",
  "organisation_name": null,
  "page": {
   "description_chars": 273,
@@ -109,7 +110,7 @@
   "Märke": "Fjordling",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26662692",
  "width_cm": 0,
  "year": 1966

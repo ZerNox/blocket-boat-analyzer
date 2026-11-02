@@ -84,7 +84,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
- "not_in_search_since": "2026-10-11",
+ "not_in_search_since": "2026-11-02",
  "organisation_name": null,
  "page": {
   "description_chars": 270,
@@ -111,9 +111,9 @@
   }
  ],
  "sold": {
-  "date": "2026-10-11",
-  "days_seen": 14,
-  "last_price": 10500
+  "date": "2026-11-02",
+  "days_seen": 36,
+  "last_price": 9000
  },
  "specs": {
   "Båtens plats": "Sverige",
@@ -134,7 +134,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "600 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26743117",
  "width_cm": 0,
  "year": 1995

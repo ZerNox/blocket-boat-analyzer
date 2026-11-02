@@ -96,6 +96,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-02",
  "organisation_name": null,
  "page": {
   "description_chars": 849,
@@ -109,6 +110,11 @@
    "price": 139000
   }
  ],
+ "sold": {
+  "date": "2026-11-02",
+  "days_seen": 35,
+  "last_price": 139000
+ },
  "specs": {
   "Bredd": "208 cm",
   "Båtens plats": "Sverige",
@@ -130,7 +136,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "700 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/25000768",
  "width_cm": 208,
  "year": 2007

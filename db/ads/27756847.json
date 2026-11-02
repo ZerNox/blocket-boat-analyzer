@@ -1,0 +1,116 @@
+{
+ "ad_id": 27756847,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1793268882000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury  50hp EFI 4-taktare, el-tilt med trolling mode. 2016",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2016,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Mercury 50hp EFI 4-taktare, el-tilt med trolling mode. 2016",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Två plottrar (Garmin) m alla tänkbara finesser, som sjökort, GPS, fishfinder, olika ekolod & frekvenser.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Dessutom får man med en nästan helt ny och kraftig elmotor, använd 3 gånger (Watersnake, 2024) som man bara hänger på e…",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nytt kapell, 2025, tillverkat och monterat av Inge Flatmo, Textilia Inredningar, i Kälarne.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Två plottrar (Garmin) m alla tänkbara finesser, som sjökort, GPS, fishfinder, olika ekolod & frekvenser.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtvagn (30km) m helgummi-hjul (på de två mindre hjulen som båten dras upp på och sedan står på, kullås samt härdad kät…",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-02T05:05:34+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Välutrustad familje & fiskebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27756847/5c198133-20de-4b44-b27e-a4aa5613d8a7",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27756847/5c198133-20de-4b44-b27e-a4aa5613d8a7",
+  "https://images.blocketcdn.se/dynamic/default/item/27756847/f4c8aa5a-7b53-4701-b923-f55837f91b57",
+  "https://images.blocketcdn.se/dynamic/default/item/27756847/5fad3e4d-afce-436c-a527-d7210b43ea90",
+  "https://images.blocketcdn.se/dynamic/default/item/27756847/1fedb1ee-83dd-49e3-bc20-00d2ef718249",
+  "https://images.blocketcdn.se/dynamic/default/item/27756847/3aed73c7-5fac-450e-864f-90a1f833ba71",
+  "https://images.blocketcdn.se/dynamic/default/item/27756847/dcd673ce-d0b9-48eb-bacd-132c009f251b",
+  "https://images.blocketcdn.se/dynamic/default/item/27756847/e5b0d3d2-6253-47b2-9e0f-d03b8914370c"
+ ],
+ "last_seen": "2026-11-02T05:05:34+00:00",
+ "lat": 63.25,
+ "length_ft": 17,
+ "location": "Mattmar",
+ "lon": 13.97,
+ "make": "Flipper",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 1376,
+  "fetched_ts": 1793596196905,
+  "text_sha": "7638ba69f77ea791"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-11-02",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "510 ht",
+  "Modellår": "1979",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury  50hp EFI 4-taktare, el-tilt med trolling mode. 2016",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "530 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27756847",
+ "width_cm": 205,
+ "year": 1979
+}

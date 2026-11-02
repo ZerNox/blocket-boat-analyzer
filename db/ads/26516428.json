@@ -37,7 +37,7 @@
     "included": true
    },
    "trailer": {
-    "evidence": "Båttrailer",
+    "evidence": "Örnvik 540 från 2007 Mercury 2 takt 90, 2006 Båttrailer Båten är även känd som Quicksilver 540 Cruiser.",
     "included": true,
     "kmh": 30
    }
@@ -80,7 +80,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26516428/f376c72e-6c1f-4d7b-a9ed-3d72bbd6a73f",
   "https://images.blocketcdn.se/dynamic/default/item/26516428/f4c180d5-35a6-4cc1-8d84-96b8c09456dd"
  ],
- "last_seen": "2026-11-01T05:05:40+00:00",
+ "last_seen": "2026-11-02T05:05:34+00:00",
  "lat": 58.62,
  "length_ft": 18,
  "location": "Norrköping",
@@ -92,9 +92,9 @@
  "motor_type": "Utombordare",
  "organisation_name": null,
  "page": {
-  "description_chars": 1118,
-  "fetched_ts": 1792905062538,
-  "text_sha": "f526563b66fc855c"
+  "description_chars": 1183,
+  "fetched_ts": 1793596172323,
+  "text_sha": "cbbb111c10a2ca98"
  },
  "price": 119000,
  "price_history": [

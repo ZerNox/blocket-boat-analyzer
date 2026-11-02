@@ -63,6 +63,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-02",
  "organisation_name": null,
  "page": {
   "description_chars": 120,
@@ -84,6 +85,11 @@
    "price": 60000
   }
  ],
+ "sold": {
+  "date": "2026-11-02",
+  "days_seen": 29,
+  "last_price": 60000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
@@ -98,7 +104,7 @@
   "Toppfart": "32 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/27092589",
  "vision": {
   "at": "2026-10-04",

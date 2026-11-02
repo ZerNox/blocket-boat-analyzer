@@ -90,6 +90,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 100.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-02",
  "organisation_name": null,
  "page": {
   "description_chars": 429,
@@ -103,6 +104,11 @@
    "price": 80000
   }
  ],
+ "sold": {
+  "date": "2026-11-02",
+  "days_seen": 25,
+  "last_price": 80000
+ },
  "specs": {
   "Bredd": "240 cm",
   "Båtens plats": "Sverige",
@@ -124,7 +130,7 @@
   "Typ": "Daycruiser",
   "Vikt": "1 000 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/27165379",
  "width_cm": 240,
  "year": 1986

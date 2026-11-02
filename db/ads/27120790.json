@@ -46,7 +46,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27120790/67bdc889-fef3-418e-90b2-13f5f4d4ec64",
   "https://images.blocketcdn.se/dynamic/default/item/27120790/560e89b3-c8ce-43c6-b787-0d9d45959cd2"
  ],
- "last_seen": "2026-11-01T05:05:40+00:00",
+ "last_seen": "2026-11-02T05:05:34+00:00",
  "lat": 59.27,
  "length_ft": 19,
  "location": "Sandhamn",
@@ -62,11 +62,15 @@
   "fetched_ts": 1793077944350,
   "text_sha": "6dbae5d727d6739b"
  },
- "price": 45000,
+ "price": 40000,
  "price_history": [
   {
    "date": "2026-10-05",
    "price": 45000
+  },
+  {
+   "date": "2026-11-02",
+   "price": 40000
   }
  ],
  "specs": {

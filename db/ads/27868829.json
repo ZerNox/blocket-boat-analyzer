@@ -1,0 +1,100 @@
+{
+ "ad_id": 27868829,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1793525322000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1989,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 90.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1989,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell i bra skick.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Fogelsta 80km/h kärra.",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Ryds 570DC",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-02T05:05:34+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds 570DC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27868829/c708fef6-7051-4812-a109-951d633a13f1",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27868829/c708fef6-7051-4812-a109-951d633a13f1",
+  "https://images.blocketcdn.se/dynamic/default/item/27868829/3e1cdbf6-fab6-4c6c-87bd-f86c1f016cd4",
+  "https://images.blocketcdn.se/dynamic/default/item/27868829/a0b2754c-e433-492a-b2c7-15c02521d722",
+  "https://images.blocketcdn.se/dynamic/default/item/27868829/caf694f3-91f1-46b8-a1ce-ecd72553b512",
+  "https://images.blocketcdn.se/dynamic/default/item/27868829/b4af1ee0-325a-4929-973b-91556d2c77fd"
+ ],
+ "last_seen": "2026-11-02T05:05:34+00:00",
+ "lat": 59.68,
+ "length_ft": 19,
+ "location": "Skokloster",
+ "lon": 17.61,
+ "make": "Ryds",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 150,
+  "fetched_ts": 1793596198374,
+  "text_sha": "87f943c86dd66a84"
+ },
+ "price": 72000,
+ "price_history": [
+  {
+   "date": "2026-11-02",
+   "price": 72000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "570DC",
+  "Modellår": "1989",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "2",
+  "Toppfart": "28 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "650 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27868829",
+ "width_cm": 0,
+ "year": 1989
+}

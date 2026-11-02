@@ -1,7 +1,7 @@
 {
  "ad_id": 27696329,
  "boat_class": "Kabinbåt",
- "changed_ts": 1792930501000,
+ "changed_ts": 1793535273000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1985,
@@ -50,7 +50,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27696329/94196548-e802-4b8e-92d4-8d9028cd52a2",
   "https://images.blocketcdn.se/dynamic/default/item/27696329/4697bf10-15fe-4453-b2a2-7089fbeeabef"
  ],
- "last_seen": "2026-11-01T05:05:40+00:00",
+ "last_seen": "2026-11-02T05:05:34+00:00",
  "lat": 59.38,
  "length_ft": 18,
  "llm": {
@@ -95,7 +95,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 123,
-  "fetched_ts": 1792991352251,
+  "fetched_ts": 1793596195433,
   "text_sha": "c0780500d2c07e40"
  },
  "price": 19000,
