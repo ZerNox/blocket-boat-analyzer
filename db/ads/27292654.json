@@ -66,6 +66,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-03",
  "organisation_name": null,
  "page": {
   "description_chars": 1488,
@@ -93,7 +94,7 @@
   "Märke": "Sandström",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/27292654",
  "vision": {
   "at": "2026-10-11",

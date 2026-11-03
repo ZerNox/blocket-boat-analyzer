@@ -72,6 +72,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-03",
  "organisation_name": null,
  "page": {
   "description_chars": 533,
@@ -108,7 +109,7 @@
   "Sovplatser": "4",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26288028",
  "width_cm": 220,
  "year": 1977
