@@ -101,6 +101,12 @@
    "price": 76975
   }
  ],
+ "sold": {
+  "date": "2026-11-04",
+  "final_bid": 146000,
+  "last_price": 154975,
+  "reserve_reached": false
+ },
  "source": "klaravik",
  "specs": {
   "Antal nycklar": "1",
@@ -118,7 +124,7 @@
   "År": "1996",
   "Övriga mått": "Djupgående 86cm"
  },
- "status": "active",
+ "status": "unsold",
  "url": "https://www.klaravik.se/auktion/produkt/3317636-bat-bayliner-trophy-2352wa/",
  "year": 1996
 }

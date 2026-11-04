@@ -1,7 +1,7 @@
 {
  "ad_id": 26276314,
  "boat_class": "Hyttbåt",
- "changed_ts": 1789052980000,
+ "changed_ts": 1793689116000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2001,
@@ -63,7 +63,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26276314/e7cb15cc-0c1d-4fab-a5ea-1c866f62f340",
   "https://images.blocketcdn.se/dynamic/default/item/26276314/7c069830-4bad-4d03-b84d-9a730ed4b941"
  ],
- "last_seen": "2026-11-02T05:05:34+00:00",
+ "last_seen": "2026-11-04T05:07:37+00:00",
  "lat": 59.41,
  "length_ft": 19,
  "location": "Karlstad",
@@ -77,7 +77,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 182,
-  "fetched_ts": 1793077850913,
+  "fetched_ts": 1793769099042,
   "text_sha": "bd20e646f7d76ccc"
  },
  "price": 230000,
@@ -105,7 +105,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "720 kg"
  },
- "status": "inactive",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26276314",
  "width_cm": 2180,
  "year": 2001

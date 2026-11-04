@@ -50,7 +50,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26829182/2c2e9ecc-2310-4546-a443-ec7a93633f65",
   "https://images.blocketcdn.se/dynamic/default/item/26829182/4b5ff568-db30-4e70-b4f3-7ee121ea87ef"
  ],
- "last_seen": "2026-11-03T05:04:36+00:00",
+ "last_seen": "2026-11-04T05:07:37+00:00",
  "lat": 57.6,
  "length_ft": 17,
  "llm": {
@@ -96,7 +96,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 223,
-  "fetched_ts": 1793077931983,
+  "fetched_ts": 1793769173623,
   "text_sha": "d3bb538a683de505"
  },
  "price": 90000,

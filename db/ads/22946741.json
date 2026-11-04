@@ -99,6 +99,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-04",
  "organisation_name": null,
  "page": {
   "description_chars": 997,
@@ -130,7 +131,7 @@
   "Toppfart": "33 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/22946741",
  "width_cm": 217,
  "year": 2010

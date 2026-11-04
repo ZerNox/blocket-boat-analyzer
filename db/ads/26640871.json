@@ -90,6 +90,7 @@
  "motor_fuel": null,
  "motor_size": 85.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-04",
  "organisation_name": null,
  "page": {
   "description_chars": 354,
@@ -115,7 +116,7 @@
   "Toppfart": "35 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26640871",
  "width_cm": 0,
  "year": 1990

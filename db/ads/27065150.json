@@ -11,21 +11,21 @@
   "engine_hp_source": null,
   "engine_maker": "Johnson",
   "engine_stroke": null,
-  "engine_type": "outboard",
+  "engine_type": "none",
   "engine_type_evidence": null,
-  "engine_type_source": "rule:spec",
-  "engine_year": 2000,
-  "engine_year_est": null,
-  "engine_year_est_reason": null,
-  "engine_year_evidence": "Fin utflyktsbåt för 6 personer från mitten av 1980 talet ,motorn är från 2000",
-  "engine_year_source": "rule:text",
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1985,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
   "equipment": {
    "kapell": {
-    "evidence": "Kapellet är nytt och oanvänt.",
+    "evidence": "Kapellet är nytt .",
     "included": true
    },
    "trailer": {
-    "evidence": "Nybesiktigad bromsad Brenderup trailer godkänd för 80 km/h medföljer .",
+    "evidence": "Nybesiktigad bromsad Brenderup trailer godkänd för 80 km/h .",
     "included": true,
     "kmh": 80
    }
@@ -57,7 +57,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27065150/09ae202d-54ed-4ea4-878c-a915b793ae9f",
   "https://images.blocketcdn.se/dynamic/default/item/27065150/9f5d6d6f-3e26-46bd-bb66-0f9fe542560c"
  ],
- "last_seen": "2026-11-03T05:04:36+00:00",
+ "last_seen": "2026-11-04T05:07:37+00:00",
  "lat": 57.73,
  "length_ft": 17,
  "location": "Torslanda",
@@ -70,9 +70,9 @@
  "not_in_search_since": "2026-10-13",
  "organisation_name": null,
  "page": {
-  "description_chars": 638,
-  "fetched_ts": 1793081541448,
-  "text_sha": "3b05613d618e9439"
+  "description_chars": 831,
+  "fetched_ts": 1793769184833,
+  "text_sha": "adf3208088ad655c"
  },
  "price": 40000,
  "price_history": [

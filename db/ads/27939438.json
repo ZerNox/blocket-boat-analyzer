@@ -1,0 +1,99 @@
+{
+ "ad_id": 27939438,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1793707030000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Tohatsu 40",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "Örnvik 510 ht trailer tohatsu 40 trim o tilt Bra kapell. Bra skick behöver bottenmålning. 30 trailer rullar perf",
+  "engine_type_source": "rule:model",
+  "engine_year": 2004,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Tohatsu 40 trim o tilt välv skick år 2004.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Bra kapell.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Örnvik 510 ht trailer tohatsu 40 trim o tilt",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Örnvik 510 ht trailer tohatsu 40 trim o tilt",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-04T05:07:37+00:00",
+ "found_by": [
+  "kategori",
+  "Örnvik 510"
+ ],
+ "heading": "Örnvik 510 ht trailer tohatsu 40 trim o tilt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27939438/5cd4d23f-cf8e-4570-91e0-101b14aae5aa",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27939438/5cd4d23f-cf8e-4570-91e0-101b14aae5aa",
+  "https://images.blocketcdn.se/dynamic/default/item/27939438/c25e45e0-6ec4-489c-be65-7660a6ae40e0",
+  "https://images.blocketcdn.se/dynamic/default/item/27939438/ecb4f9ba-aa71-4cc5-ba9f-fdd4b7393c85",
+  "https://images.blocketcdn.se/dynamic/default/item/27939438/c03d85a2-d979-4cda-8177-8eea21f7c47a"
+ ],
+ "last_seen": "2026-11-04T05:07:37+00:00",
+ "lat": 57.72,
+ "length_ft": 17,
+ "location": "Göteborg",
+ "lon": 11.94,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 40.0,
+ "motor_type": null,
+ "organisation_name": null,
+ "page": {
+  "description_chars": 125,
+  "fetched_ts": 1793769203056,
+  "text_sha": "29c4ce4c1e318e12"
+ },
+ "price": 15500,
+ "price_history": [
+  {
+   "date": "2026-11-04",
+   "price": 15500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "17 fot",
+  "Modell": "510 ht",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "40 hk",
+  "Motortillverkare": "Tohatsu 40",
+  "Märke": "Örnvik",
+  "Sittplatser": "25",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "3",
+  "Typ": "Kabinbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27939438",
+ "width_cm": 0,
+ "year": 1980
+}
