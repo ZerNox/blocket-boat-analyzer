@@ -103,6 +103,7 @@
  "motor_fuel": "Diesel",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-11-05",
  "organisation_name": null,
  "page": {
   "description_chars": 1517,
@@ -136,7 +137,7 @@
   "Sovplatser": "4",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26358033",
  "width_cm": 225,
  "year": 1985

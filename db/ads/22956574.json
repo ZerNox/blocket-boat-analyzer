@@ -111,6 +111,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-11-05",
  "organisation_name": null,
  "page": {
   "description_chars": 1213,
@@ -139,7 +140,7 @@
   "Toppfart": "33 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/22956574",
  "width_cm": 0,
  "year": 2011

@@ -1,0 +1,120 @@
+{
+ "ad_id": 27966383,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1793796525000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury  50hp EFI 4-taktare, el-tilt med trolling mode. 2016",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2016,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Mercury 50hp EFI 4-taktare, el-tilt med trolling mode. 2016",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Två plottrar (Garmin) m alla tänkbara finesser, som sjökort, GPS, fishfinder, olika ekolod & frekvenser.",
+    "included": true
+   },
+   "elmotor": {
+    "evidence": "Dessutom får man med en helt ny och kraftig elmotor, använd 2 gånger på prov (Watersnake, 2024) som man bara hänger på …",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Nytt kapell, 2026, tillverkat och monterat av Inge Flatmo, Textilia Inredningar, i Kälarne.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Två plottrar (Garmin) m alla tänkbara finesser, som sjökort, GPS, fishfinder, olika ekolod & frekvenser.",
+    "included": true
+   },
+   "solpanel": {
+    "evidence": "Dessutom får man med en helt ny och kraftig elmotor, använd 2 gånger på prov (Watersnake, 2024) som man bara hänger på …",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båtvagn (30km) m helgummi-hjul (på de två mindre hjulen som båten dras upp på och sedan står på, kullås samt härdad kät…",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-05T21:30:39+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Välskött o välutrustad familje/fiskebåt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27966383/3ba85eb0-dd6d-4acb-8331-b5b44b3416db",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27966383/3ba85eb0-dd6d-4acb-8331-b5b44b3416db",
+  "https://images.blocketcdn.se/dynamic/default/item/27966383/b394edf8-aa3f-4f66-9d9a-a737cfd14c11",
+  "https://images.blocketcdn.se/dynamic/default/item/27966383/7fb397fb-0eba-4f8a-b95c-fa315d51991c",
+  "https://images.blocketcdn.se/dynamic/default/item/27966383/35e86640-7d32-4f46-8fc6-15ea1034667c",
+  "https://images.blocketcdn.se/dynamic/default/item/27966383/16808a91-902b-4271-b450-f223e18c524e",
+  "https://images.blocketcdn.se/dynamic/default/item/27966383/a5f81159-5847-4816-a135-8d48a6db5dfa",
+  "https://images.blocketcdn.se/dynamic/default/item/27966383/990c4c57-bb09-45ef-bb9f-fe86dd24b33e"
+ ],
+ "last_seen": "2026-11-05T21:30:39+00:00",
+ "lat": 63.25,
+ "length_ft": 17,
+ "location": "Mattmar",
+ "lon": 13.97,
+ "make": "Flipper",
+ "max_speed": 30,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 1539,
+  "fetched_ts": 1793914480744,
+  "text_sha": "768beb2b9c9b4b6c"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-11-05",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "510 HT",
+  "Modellår": "1979",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Mercury  50hp EFI 4-taktare, el-tilt med trolling mode. 2016",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "4",
+  "Toppfart": "30 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "550 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27966383",
+ "width_cm": 205,
+ "year": 1979
+}

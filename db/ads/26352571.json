@@ -85,6 +85,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-11-05",
  "organisation_name": null,
  "page": {
   "description_chars": 483,
@@ -106,7 +107,7 @@
   "Märke": "Ockelbo",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26352571",
  "width_cm": 0,
  "year": 1974

@@ -59,6 +59,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-11-05",
  "organisation_name": null,
  "page": {
   "description_chars": 178,
@@ -88,7 +89,7 @@
   "Typ": "Daycruiser",
   "Vikt": "300 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/24628122",
  "width_cm": 200,
  "year": 2015

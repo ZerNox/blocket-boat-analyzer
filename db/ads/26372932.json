@@ -96,6 +96,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-11-05",
  "organisation_name": null,
  "page": {
   "description_chars": 490,
@@ -125,7 +126,7 @@
   "Toppfart": "35 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26372932",
  "width_cm": 242,
  "year": 2000

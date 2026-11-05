@@ -1,0 +1,131 @@
+{
+ "ad_id": 27997721,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1793891821000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 70.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Jofa Winth 555/Evinrude 70 hk m bromsad 80-trailer",
+    "included": true,
+    "kmh": 80
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "bromsad 80-trailer\n5,5 m hardtop utombordare med bromsad 80-trailer o 70 hk Evinrude säljes pga för lite",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-05T21:30:39+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Jofa Winth 555/Evinrude 70 hk m bromsad 80-trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/27997721/eeb3535a-5d5c-48a7-8e7e-a7cb37e5d6fd",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/27997721/eeb3535a-5d5c-48a7-8e7e-a7cb37e5d6fd",
+  "https://images.blocketcdn.se/dynamic/default/item/27997721/f90f3555-ed74-4983-b370-2f993af38137",
+  "https://images.blocketcdn.se/dynamic/default/item/27997721/87027538-12bd-4730-b431-a462dbb39334"
+ ],
+ "last_seen": "2026-11-05T21:30:39+00:00",
+ "lat": 55.99,
+ "length_ft": 18,
+ "llm": {
+  "at": "2026-11-05",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 70,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": null,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "a203f00820d6dbee"
+ },
+ "location": "Råå",
+ "lon": 12.75,
+ "make": "Joda",
+ "max_speed": 25,
+ "motor_fuel": "Bensin",
+ "motor_size": 70.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 162,
+  "fetched_ts": 1793914482204,
+  "text_sha": "a203f00820d6dbee"
+ },
+ "price": 35000,
+ "price_history": [
+  {
+   "date": "2026-11-05",
+   "price": 35000
+  }
+ ],
+ "specs": {
+  "Bredd": "255 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "30 cm",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "Winth",
+  "Modellår": "1978",
+  "Motorstorlek": "70 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Joda",
+  "Sittplatser": "7",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "5",
+  "Toppfart": "25 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "550 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/27997721",
+ "width_cm": 255,
+ "year": 1978
+}

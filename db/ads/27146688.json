@@ -86,7 +86,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27146688/7a55cf43-8c18-45e4-a576-edb450f730f8",
   "https://images.blocketcdn.se/dynamic/default/item/27146688/423c3b3a-e87b-49f2-9dc0-3c4463b6a383"
  ],
- "last_seen": "2026-11-04T05:07:37+00:00",
+ "last_seen": "2026-11-05T21:30:39+00:00",
  "lat": 65.62,
  "length_ft": 21,
  "location": "Luleå",
@@ -102,11 +102,15 @@
   "fetched_ts": 1793423456207,
   "text_sha": "5023c7bdf9564d0a"
  },
- "price": 58000,
+ "price": 55000,
  "price_history": [
   {
    "date": "2026-10-31",
    "price": 58000
+  },
+  {
+   "date": "2026-11-05",
+   "price": 55000
   }
  ],
  "specs": {
