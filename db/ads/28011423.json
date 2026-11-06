@@ -1,0 +1,135 @@
+{
+ "ad_id": 28011423,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1793934786000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1972,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Chrysler v8",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1972,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Hyfsat helt kapell",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Albin 21 med trailer",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "ell\nTydligen helt oanvänd toalett\nMotorn ska fungera, dock behöver man dra lite el för att få igång den\nFö",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [
+   "project"
+  ],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-06T05:05:58+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Albin 21 med trailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/28011423/b02fc1bc-a33f-4de2-9e39-b26166115bf6",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/28011423/b02fc1bc-a33f-4de2-9e39-b26166115bf6",
+  "https://images.blocketcdn.se/dynamic/default/item/28011423/52fdf363-da30-4e19-83a6-d8e76ebcb8bc",
+  "https://images.blocketcdn.se/dynamic/default/item/28011423/a1e31dd2-3965-41f3-ad61-d71ca4762652",
+  "https://images.blocketcdn.se/dynamic/default/item/28011423/735b6d84-c811-4e14-a7a4-b36350ac03db",
+  "https://images.blocketcdn.se/dynamic/default/item/28011423/42e54867-f938-4f89-95c5-98ab708f60eb"
+ ],
+ "last_seen": "2026-11-06T05:05:58+00:00",
+ "lat": 59.2,
+ "length_ft": 21,
+ "llm": {
+  "at": "2026-11-06",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1972,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Chrysler v8",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Inombordare",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "aa5078bccb5a45b2"
+ },
+ "location": "Södertälje",
+ "lon": 17.65,
+ "make": "Albin",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 193,
+  "fetched_ts": 1793941764996,
+  "text_sha": "aa5078bccb5a45b2"
+ },
+ "price": 5000,
+ "price_history": [
+  {
+   "date": "2026-11-06",
+   "price": 5000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "21 fot",
+  "Modell": "21",
+  "Modellår": "1972",
+  "Motor inkluderad": "Ja",
+  "Motortillverkare": "Chrysler v8",
+  "Motortyp": "Inombordare",
+  "Märke": "Albin",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Plast",
+  "Sovplatser": "2",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/28011423",
+ "width_cm": 0,
+ "year": 1972
+}
