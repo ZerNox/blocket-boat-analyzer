@@ -1,0 +1,87 @@
+{
+ "ad_id": 28050109,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1794058960000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1993,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Sitter en Yamaha 60hk från 1993 .",
+  "engine_year_source": "rule:text",
+  "equipment": {},
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Nordkapp 17 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-08T05:08:02+00:00",
+ "found_by": [
+  "Nordkapp 17"
+ ],
+ "heading": "Nordkapp 17 HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/28050109/4af58017-0424-4a49-a0b8-a47e2d52fcf1",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/28050109/4af58017-0424-4a49-a0b8-a47e2d52fcf1",
+  "https://images.blocketcdn.se/dynamic/default/item/28050109/e89ab9f2-1679-49cf-ba7f-6589c5652e1c",
+  "https://images.blocketcdn.se/dynamic/default/item/28050109/a63cb08f-3503-4537-88d5-9a86b039ca0d",
+  "https://images.blocketcdn.se/dynamic/default/item/28050109/7b00237d-68df-4ed6-b389-d7d43d0099a6"
+ ],
+ "last_seen": "2026-11-08T05:08:02+00:00",
+ "lat": 56.01,
+ "length_ft": 17,
+ "location": "Helsingborg",
+ "lon": 12.8,
+ "make": "Nordkapp",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 333,
+  "fetched_ts": 1794114756523,
+  "text_sha": "bf88de2798a5a6b2"
+ },
+ "price": 13000,
+ "price_history": [
+  {
+   "date": "2026-11-08",
+   "price": 13000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "Nordkapp 17 HT",
+  "Modellår": "1970",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Nordkapp",
+  "Sittplatser": "6",
+  "Sovplatser": "2",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/28050109",
+ "width_cm": 0,
+ "year": 1970
+}

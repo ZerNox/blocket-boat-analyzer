@@ -1,0 +1,122 @@
+{
+ "ad_id": 28016535,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1794070548000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1965,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 150.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mb om 617 88- 150 hk",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1965,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "Ok skrov + trailer roligt oldtimer ring [tel] för mer inf",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-08T05:08:02+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Om 617 turbo + Cascade 19",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/28016535/8d64f743-c5a6-47df-87a0-a93b2fc05bfe",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/28016535/8d64f743-c5a6-47df-87a0-a93b2fc05bfe",
+  "https://images.blocketcdn.se/dynamic/default/item/28016535/2b7aa706-9a6b-4e2e-a4fb-ae129ac36828",
+  "https://images.blocketcdn.se/dynamic/default/item/28016535/5423fea8-17cd-4528-907a-e435cdca1269",
+  "https://images.blocketcdn.se/dynamic/default/item/28016535/171330b2-784f-4ed4-b7c0-75ba5597ae13"
+ ],
+ "last_seen": "2026-11-08T05:08:02+00:00",
+ "lat": 55.93,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-11-08",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1965,
+   "engine_hours": null,
+   "engine_hp": 150,
+   "engine_maker": "Mb",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Mb om 617 88- 150 hk",
+   "engine_year_rejected": 1988,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "987415d20c833842"
+ },
+ "location": "Härslöv",
+ "lon": 12.88,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 176,
+  "fetched_ts": 1794114753717,
+  "text_sha": "987415d20c833842"
+ },
+ "price": 15000,
+ "price_history": [
+  {
+   "date": "2026-11-08",
+   "price": 15000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "19 fot",
+  "Modell": "Cascade 19 om 617",
+  "Modellår": "1965",
+  "Motortillverkare": "Mb om 617 88- 150 hk",
+  "Motortyp": "Inombordare",
+  "Märke": "Övriga",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/28016535",
+ "width_cm": 0,
+ "year": 1965
+}

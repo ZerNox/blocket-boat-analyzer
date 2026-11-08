@@ -88,6 +88,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-11-08",
  "organisation_name": null,
  "page": {
   "description_chars": 224,
@@ -117,7 +118,7 @@
   "Toppfart": "7 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26434710",
  "width_cm": 202,
  "year": 1975

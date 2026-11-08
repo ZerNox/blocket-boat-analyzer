@@ -32,7 +32,7 @@
   },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "Hyttbåt – Mercury 60 hk\nUtrustning:\nHyttbåt – Mercury 60 hk -91 – mycket utrustn",
+  "hull_evidence": "Hyttbåt – Mercury 60 hk\nHyttbåt – Mercury 60 hk -91 – mycket utrustning ingår\nTr",
   "hull_source": "rule:text",
   "llm_reasons": [],
   "needs_llm": false,
@@ -56,7 +56,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25779856/a0fb0622-0059-4df5-8c19-86de5f41818f",
   "https://images.blocketcdn.se/dynamic/default/item/25779856/f5661916-0da3-47b3-9a54-fea832625d7b"
  ],
- "last_seen": "2026-11-07T05:03:34+00:00",
+ "last_seen": "2026-11-08T05:08:02+00:00",
  "lat": 59.58,
  "length_ft": 17,
  "llm": {
@@ -96,9 +96,9 @@
  "not_in_search_since": "2026-10-16",
  "organisation_name": null,
  "page": {
-  "description_chars": 833,
-  "fetched_ts": 1793423434015,
-  "text_sha": "a187430bd1d1a2b2"
+  "description_chars": 1372,
+  "fetched_ts": 1794114716105,
+  "text_sha": "1967b844e4d434b5"
  },
  "price": 30000,
  "price_history": [

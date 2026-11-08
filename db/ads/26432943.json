@@ -70,6 +70,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-08",
  "organisation_name": null,
  "page": {
   "description_chars": 1317,
@@ -100,7 +101,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "1 000 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26432943",
  "width_cm": 240,
  "year": 1984

@@ -66,6 +66,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-08",
  "organisation_name": null,
  "page": {
   "description_chars": 458,
@@ -99,7 +100,7 @@
   "Toppfart": "46 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26425351",
  "width_cm": 2400,
  "year": 2010

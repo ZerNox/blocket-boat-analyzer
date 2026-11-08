@@ -1,0 +1,96 @@
+{
+ "ad_id": 28045232,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1794051473000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2000,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Johnson",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1999,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Fin båt med 2 takt Johnson 90 från 1999 fin plotter fishfinder kan ingå",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Fin båt med 2 takt Johnson 90 från 1999 fin plotter fishfinder kan ingå",
+    "included": false
+   },
+   "plotter": {
+    "evidence": "Fin båt med 2 takt Johnson 90 från 1999 fin plotter fishfinder kan ingå",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Hyttbåt",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-08T05:08:02+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Ryds 510 rc",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/28045232/487279ca-7560-4113-96d4-f142c214d094",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/28045232/487279ca-7560-4113-96d4-f142c214d094",
+  "https://images.blocketcdn.se/dynamic/default/item/28045232/00cfb324-0bba-4c3c-a11e-81fc70cd8ea5",
+  "https://images.blocketcdn.se/dynamic/default/item/28045232/ddaa6624-5bfc-4bbd-ab78-224f40596711",
+  "https://images.blocketcdn.se/dynamic/default/item/28045232/5b2c8c2c-03d9-45bd-91ba-ea988860b955"
+ ],
+ "last_seen": "2026-11-08T05:08:02+00:00",
+ "lat": 59.31,
+ "length_ft": 17,
+ "location": "Nacka",
+ "lon": 18.21,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 90.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 91,
+  "fetched_ts": 1794114755052,
+  "text_sha": "3e049730c6f9ce62"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-11-08",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "Ryds 510 mc",
+  "Modellår": "2000",
+  "Motorstorlek": "90 hk",
+  "Motortillverkare": "Johnson",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "4",
+  "Sovplatser": "1",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/28045232",
+ "width_cm": 220,
+ "year": 2000
+}

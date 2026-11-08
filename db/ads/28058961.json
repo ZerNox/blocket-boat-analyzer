@@ -1,0 +1,98 @@
+{
+ "ad_id": 28058961,
+ "boat_class": "Småbåt/Gummibåt",
+ "changed_ts": 1794072542000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1996,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Yamaha",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 1996,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Säljer nu vår trevliga och välskötta Flipper 510 HT från 1996 med en pigg och pålitlig Yamaha 60 hk 2-takt (även den från 1996) samt en fräsch 80 km/h obromsad Fogelsta EU-trailer…",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "plotter": {
+    "evidence": "* Garmin GPS",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Säljer nu vår trevliga och välskötta Flipper 510 HT från 1996 med en pigg och pålitlig Yamaha 60 hk 2-takt (även den fr…",
+    "included": true,
+    "kmh": 80,
+    "year": 2021
+   },
+   "vinsch": {
+    "evidence": "* Skick: I mycket gott skick, hjullager och vinsch fungerar fint.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Flipper 510HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-08T05:08:02+00:00",
+ "found_by": [
+  "Flipper 510"
+ ],
+ "heading": "Flipper 510HT",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/28058961/66e46e47-443f-403c-a683-57ca2a81a200",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/28058961/66e46e47-443f-403c-a683-57ca2a81a200",
+  "https://images.blocketcdn.se/dynamic/default/item/28058961/bc2ba34d-b6e2-417c-a0ce-661921606528",
+  "https://images.blocketcdn.se/dynamic/default/item/28058961/f75faa32-cca1-4caa-accb-5b0caab1f1fd"
+ ],
+ "last_seen": "2026-11-08T05:08:02+00:00",
+ "lat": 59.89,
+ "length_ft": 17,
+ "location": "Almunge",
+ "lon": 18.08,
+ "make": "Flipper",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 749,
+  "fetched_ts": 1794114757739,
+  "text_sha": "dd0dc118032c812e"
+ },
+ "price": 52000,
+ "price_history": [
+  {
+   "date": "2026-11-08",
+   "price": 52000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "510HT",
+  "Modellår": "1996",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Yamaha",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Typ": "Småbåt/Gummibåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/28058961",
+ "width_cm": 0,
+ "year": 1996
+}

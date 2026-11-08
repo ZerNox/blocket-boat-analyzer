@@ -42,7 +42,7 @@
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/27820847/b29fe2a5-95c7-4e9e-af09-79aab58a5bc2"
  ],
- "last_seen": "2026-11-07T05:03:34+00:00",
+ "last_seen": "2026-11-08T05:08:02+00:00",
  "lat": 59.71,
  "length_ft": 19,
  "llm": {
@@ -87,7 +87,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 779,
-  "fetched_ts": 1793423478775,
+  "fetched_ts": 1794114750639,
   "text_sha": "37c7f0b32b551621"
  },
  "price": 54900,
