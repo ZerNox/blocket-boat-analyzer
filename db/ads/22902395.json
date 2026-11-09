@@ -53,7 +53,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/22902395/13be0382-e8ef-43e0-acd6-52c916bf6b37",
   "https://images.blocketcdn.se/dynamic/default/item/22902395/b4b385de-8d15-4026-9d88-0780954320b0"
  ],
- "last_seen": "2026-11-08T05:08:02+00:00",
+ "last_seen": "2026-11-09T05:05:50+00:00",
  "lat": 56.05,
  "length_ft": 19,
  "location": "Helsingborg",
@@ -66,7 +66,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 278,
-  "fetched_ts": 1793596165664,
+  "fetched_ts": 1794200975990,
   "text_sha": "fb4ebabec1644f7c"
  },
  "price": 40000,

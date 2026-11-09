@@ -96,6 +96,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-09",
  "organisation_name": null,
  "page": {
   "description_chars": 199,
@@ -124,7 +125,7 @@
   "Toppfart": "25 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26915015",
  "width_cm": 520,
  "year": 1989

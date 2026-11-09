@@ -116,6 +116,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-09",
  "organisation_name": null,
  "page": {
   "description_chars": 574,
@@ -133,6 +134,11 @@
    "price": 38000
   }
  ],
+ "sold": {
+  "date": "2026-11-09",
+  "days_seen": 43,
+  "last_price": 38000
+ },
  "specs": {
   "Bredd": "220 cm",
   "Båtens plats": "Sverige",
@@ -153,7 +159,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "625 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/25802326",
  "width_cm": 220,
  "year": 1978

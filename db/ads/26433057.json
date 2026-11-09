@@ -62,7 +62,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
- "not_in_search_since": "2026-10-13",
+ "not_in_search_since": "2026-11-09",
  "organisation_name": null,
  "page": {
   "description_chars": 114,
@@ -100,7 +100,7 @@
   "Typ": "Annat",
   "Vikt": "620 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26433057",
  "vision": {
   "at": "2026-10-10",

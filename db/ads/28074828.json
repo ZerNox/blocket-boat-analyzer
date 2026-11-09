@@ -1,0 +1,142 @@
+{
+ "ad_id": 28074828,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1794145167000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1979,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50,
+  "engine_hp_source": "llm",
+  "engine_maker": "Suzuki",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "vad varje år med ny a oljor i drev och motor samt filter. Större service gjord ifjol med ny impeller och nya anoder. Mot",
+  "engine_type_source": "llm",
+  "engine_year": 2005,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motor är från 2005 och har alltid gått klockrent i min ägo.",
+  "engine_year_source": "rule:text+llm",
+  "equipment": {
+   "hydraulstyrning": {
+    "evidence": "Hydraulstyrning.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell är från 2021 och är högre än original, behöver en tvätt samt en ny ruta på ena sidan.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Bluetooth stereo, Plotter Garmin eccomap 7” med gt56 givare.",
+    "included": true
+   },
+   "stereo": {
+    "evidence": "Bluetooth stereo, Plotter Garmin eccomap 7” med gt56 givare.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Båten står på en obromsad kärra som klarar båtar en bra bit över 6 meter.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "e och bad och det går att övernatta i den.",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "declared outboard but text says 'drev'"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-09T05:05:50+00:00",
+ "found_by": [
+  "Flipper 570"
+ ],
+ "heading": "Flipper 570 trolling",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/28074828/98f38dd7-00b2-44e5-85c8-a67bf017cd40",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/28074828/98f38dd7-00b2-44e5-85c8-a67bf017cd40",
+  "https://images.blocketcdn.se/dynamic/default/item/28074828/5ae9caa2-8584-4056-b917-8b70bf99e5a2",
+  "https://images.blocketcdn.se/dynamic/default/item/28074828/1f3a7e4b-a364-4160-a6fe-b9c7bad377b8",
+  "https://images.blocketcdn.se/dynamic/default/item/28074828/f68dfb25-a767-4aa9-9bc6-8a983c4c664d",
+  "https://images.blocketcdn.se/dynamic/default/item/28074828/62a78765-18eb-45df-9909-1ba9bbb36a49",
+  "https://images.blocketcdn.se/dynamic/default/item/28074828/dafddec1-be1f-47c2-8e3b-4b9e292f6609",
+  "https://images.blocketcdn.se/dynamic/default/item/28074828/c96c86d0-dbc7-4adf-a1b4-01766cba5484"
+ ],
+ "last_seen": "2026-11-09T05:05:50+00:00",
+ "lat": 58.45,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-11-09",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1979,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Suzuki",
+   "engine_type": "outboard",
+   "engine_year": 2005,
+   "engine_year_evidence": "Motor är från 2005 och har alltid gått klockrent i min ägo.",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "included",
+    "trailer": "excluded",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "63ffcf64e62585f4"
+ },
+ "location": "Vinninga",
+ "lon": 13.26,
+ "make": "Flipper",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 50.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 934,
+  "fetched_ts": 1794200986039,
+  "text_sha": "63ffcf64e62585f4"
+ },
+ "price": 65000,
+ "price_history": [
+  {
+   "date": "2026-11-09",
+   "price": 65000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "570",
+  "Modellår": "1979",
+  "Motorstorlek": "50 hk",
+  "Motortillverkare": "Suzuki",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/28074828",
+ "width_cm": 0,
+ "year": 1979
+}

@@ -95,6 +95,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-09",
  "organisation_name": null,
  "page": {
   "description_chars": 483,
@@ -108,6 +109,11 @@
    "price": 45000
   }
  ],
+ "sold": {
+  "date": "2026-11-09",
+  "days_seen": 17,
+  "last_price": 45000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Färg": "Vit",
@@ -119,7 +125,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Powerboat"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/27640706",
  "vision": {
   "at": "2026-10-23",

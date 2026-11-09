@@ -87,6 +87,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-11-09",
  "organisation_name": null,
  "page": {
   "description_chars": 106,
@@ -111,7 +112,7 @@
   "Sovplatser": "1",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26374277",
  "width_cm": 0,
  "year": 1985

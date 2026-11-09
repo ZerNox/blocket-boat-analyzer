@@ -101,6 +101,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-09",
  "organisation_name": null,
  "page": {
   "description_chars": 435,
@@ -114,6 +115,11 @@
    "price": 62900
   }
  ],
+ "sold": {
+  "date": "2026-11-09",
+  "days_seen": 23,
+  "last_price": 62900
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
@@ -129,7 +135,7 @@
   "Toppfart": "30 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/27461082",
  "width_cm": 0,
  "year": 2000

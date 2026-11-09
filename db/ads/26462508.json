@@ -66,6 +66,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-09",
  "organisation_name": null,
  "page": {
   "description_chars": 627,
@@ -94,7 +95,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26462508",
  "width_cm": 206,
  "year": 1995
