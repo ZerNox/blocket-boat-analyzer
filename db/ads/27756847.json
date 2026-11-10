@@ -67,7 +67,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/27756847/dcd673ce-d0b9-48eb-bacd-132c009f251b",
   "https://images.blocketcdn.se/dynamic/default/item/27756847/e5b0d3d2-6253-47b2-9e0f-d03b8914370c"
  ],
- "last_seen": "2026-11-09T05:05:50+00:00",
+ "last_seen": "2026-11-10T05:04:07+00:00",
  "lat": 63.25,
  "length_ft": 17,
  "location": "Mattmar",
@@ -79,9 +79,9 @@
  "motor_type": "Utombordare",
  "organisation_name": null,
  "page": {
-  "description_chars": 1376,
-  "fetched_ts": 1793596196905,
-  "text_sha": "7638ba69f77ea791"
+  "description_chars": 1399,
+  "fetched_ts": 1794287277080,
+  "text_sha": "4aa77b0d61b008d4"
  },
  "price": 60000,
  "price_history": [

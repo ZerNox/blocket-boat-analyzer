@@ -40,7 +40,7 @@
  "heading": "ockelbo t17",
  "image": null,
  "image_urls": [],
- "last_seen": "2026-11-09T05:05:50+00:00",
+ "last_seen": "2026-11-10T05:04:07+00:00",
  "lat": 59.44,
  "length_ft": 17,
  "llm": {
@@ -85,7 +85,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 0,
-  "fetched_ts": 1793596185915,
+  "fetched_ts": 1794287268428,
   "text_sha": "48d2b96c712bfe08"
  },
  "price": 38000,

@@ -1,7 +1,7 @@
 {
  "ad_id": 26389826,
  "boat_class": "Annat",
- "changed_ts": 1789377866000,
+ "changed_ts": 1794227888000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2011,
@@ -58,7 +58,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26389826/47701e8d-65a2-4819-9c36-f842eb7a7421",
   "https://images.blocketcdn.se/dynamic/default/item/26389826/8996c920-f502-40f9-8610-0a86f2b3c75e"
  ],
- "last_seen": "2026-11-06T05:05:58+00:00",
+ "last_seen": "2026-11-10T05:04:07+00:00",
  "lat": 56.13,
  "length_ft": 19,
  "location": "Åstorp",
@@ -72,8 +72,8 @@
  "organisation_name": null,
  "page": {
   "description_chars": 1248,
-  "fetched_ts": 1793423438276,
-  "text_sha": "f16769b7e71fa092"
+  "fetched_ts": 1794287257146,
+  "text_sha": "753309865c9168ef"
  },
  "price": 209000,
  "price_history": [
@@ -90,6 +90,7 @@
   "Längd i fot": "19 fot",
   "Modell": "59 ht",
   "Modellår": "2011",
+  "Motor inkluderad": "Ja",
   "Motorstorlek": "100 hk",
   "Motortillverkare": "Yamaha",
   "Motortyp": "Utombordare",
@@ -97,7 +98,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Annat"
  },
- "status": "inactive",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26389826",
  "width_cm": 226,
  "year": 2011

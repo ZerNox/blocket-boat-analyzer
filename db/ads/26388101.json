@@ -82,6 +82,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-10",
  "organisation_name": null,
  "page": {
   "description_chars": 669,
@@ -113,7 +114,7 @@
   "Toppfart": "25 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26388101",
  "width_cm": 180,
  "year": 2000
