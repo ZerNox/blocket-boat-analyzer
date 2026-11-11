@@ -1,0 +1,153 @@
+{
+ "ad_id": 1003330611,
+ "auction": {
+  "bid": 600,
+  "close": "2026-11-16T09:10:00+01:00",
+  "ended": false,
+  "fee": 3670,
+  "margin_scheme": false,
+  "next_bid": 700,
+  "reserve_reached": false,
+  "start": "2026-11-10T09:00:00+01:00",
+  "vat": 25
+ },
+ "boat_class": null,
+ "dealer_segment": "Auktion",
+ "extraction": {
+  "boat_year": null,
+  "boat_year_source": null,
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": "enummer båt: Övermålat Motor: Yamaha 50 hk förgasarmotor Drivmedel: Bensin Mått och vikt Vikt (kg): Ca 400 kg Längd (m):",
+  "engine_type_source": "rule:model",
+  "engine_year": null,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "Garmin echoMAP DV-GPS",
+    "included": true
+   },
+   "hydraulstyrning": {
+    "evidence": "BayStar hydraulisk styrning",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Kapell",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin echoMAP DV-GPS",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Trailer medföljer ej!",
+    "included": false
+   },
+   "varmare": {
+    "evidence": "Wallas 1300 värmare (ca 2 år gammal)",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båt Flipper 510 HT",
+  "hull_source": "rule:model",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-11",
+ "found_by": [
+  "klaravik",
+  "flipper 510"
+ ],
+ "heading": "Båt Flipper 510 HT",
+ "image": "https://media.se.klaravik.com/public/productimages/7e/a1/3330611/extrabilder76280886_large.jpg?v=1794297286",
+ "image_urls": [
+  "https://media.se.klaravik.com/public/productimages/7e/a1/3330611/extrabilder76280886_large.jpg?v=1794297286"
+ ],
+ "last_seen": "2026-11-11",
+ "lat": 59.76,
+ "length_ft": 16.7,
+ "llm": {
+  "at": "2026-11-11",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": null,
+   "engine_hours": null,
+   "engine_hp": 50,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motor: Yamaha 50 hk förgasarmotor",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "included",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "excluded",
+    "varmare": "included",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "e8bd7f21b10e2be5"
+ },
+ "location": "Norrtälje",
+ "lon": 18.7,
+ "make": "Flipper",
+ "motor_size": 50.0,
+ "motor_type": null,
+ "page": {
+  "description_chars": 694,
+  "fetched_ts": 1794377563910,
+  "text_sha": "e8bd7f21b10e2be5"
+ },
+ "price": 5338,
+ "price_history": [
+  {
+   "bid": 600,
+   "date": "2026-11-11",
+   "price": 5338
+  }
+ ],
+ "source": "klaravik",
+ "specs": {
+  "Antal nycklar": "1",
+  "Bredd (m)": "2 m",
+  "Båt Flipper 510 HT Märke": "Flipper",
+  "Båttyp": "Motorbåt",
+  "Drivmedel": "Bensin",
+  "HT Årsmodell": "Information saknas",
+  "Lasthjälpsinformation Lasthjälp": "Lasthjälp i överenskommelse med säljaren",
+  "Längd (m)": "5,10 m",
+  "Modell": "510",
+  "Motor": "Yamaha 50 hk förgasarmotor",
+  "Märke": "Flipper",
+  "Mått och vikt Vikt (kg)": "Ca 400 kg",
+  "Serienummer båt": "Övermålat",
+  "Typskylt": "Saknas"
+ },
+ "status": "active",
+ "url": "https://www.klaravik.se/auktion/produkt/3330611-bat-flipper-510-ht/",
+ "year": null
+}

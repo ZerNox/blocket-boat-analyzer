@@ -72,7 +72,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26934523/e299d723-00b6-4daa-9d16-9aa1a70872aa",
   "https://images.blocketcdn.se/dynamic/default/item/26934523/bdc5e1b9-c383-45a4-9fc8-21a3f6a49ab2"
  ],
- "last_seen": "2026-11-10T05:04:07+00:00",
+ "last_seen": "2026-11-11T06:07:27+00:00",
  "lat": 59.61,
  "length_ft": 18,
  "location": "Västerås",
@@ -85,7 +85,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 864,
-  "fetched_ts": 1793769183412,
+  "fetched_ts": 1794377521040,
   "text_sha": "0277df760096a563"
  },
  "price": 15000,

@@ -58,6 +58,7 @@
  "motor_fuel": null,
  "motor_size": 70.0,
  "motor_type": null,
+ "not_in_search_since": "2026-11-11",
  "organisation_name": null,
  "page": {
   "description_chars": 183,
@@ -85,7 +86,7 @@
   "Skrovmaterial": "Plast",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/27130942",
  "width_cm": 0,
  "year": 2007

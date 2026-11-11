@@ -1,0 +1,94 @@
+{
+ "ad_id": 28150764,
+ "boat_class": "Hyttbåt",
+ "changed_ts": 1794354221000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1994,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2002,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mycket trevlig hyttbåt med en Mercury 60hk fyrtaktare med insprutning från 2002 som marchar fint i 20-23knop.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "plotter": {
+    "evidence": "Plotter",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Bålsta båtvagn kan köpas till båten för 12000kr",
+    "included": false
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "fi fyrtakt\nMycket trevlig hyttbåt med en Mercury 60hk fyrtaktare med insprutning från 2002 som marchar fin",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-11T06:07:27+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Bella 581 L med Mercury F60 Efi fyrtakt",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/28150764/90e95a25-4433-4a41-9468-a23240dc094f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/28150764/90e95a25-4433-4a41-9468-a23240dc094f",
+  "https://images.blocketcdn.se/dynamic/default/item/28150764/7b4479d0-f9d7-49ee-9ea1-606caf266307",
+  "https://images.blocketcdn.se/dynamic/default/item/28150764/8985c6f0-2bdf-4241-9346-098f30a90cdb"
+ ],
+ "last_seen": "2026-11-11T06:07:27+00:00",
+ "lat": 59.27,
+ "length_ft": 19,
+ "location": "Bandhagen",
+ "lon": 18.05,
+ "make": "Bella",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 576,
+  "fetched_ts": 1794377541637,
+  "text_sha": "f0b0042b79447717"
+ },
+ "price": 60000,
+ "price_history": [
+  {
+   "date": "2026-11-11",
+   "price": 60000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "581 L",
+  "Modellår": "1994",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Mercury",
+  "Motortyp": "Utombordare",
+  "Märke": "Bella",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Hyttbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/28150764",
+ "width_cm": 0,
+ "year": 1994
+}

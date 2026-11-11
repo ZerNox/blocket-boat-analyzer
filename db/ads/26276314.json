@@ -63,7 +63,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26276314/e7cb15cc-0c1d-4fab-a5ea-1c866f62f340",
   "https://images.blocketcdn.se/dynamic/default/item/26276314/7c069830-4bad-4d03-b84d-9a730ed4b941"
  ],
- "last_seen": "2026-11-10T05:04:07+00:00",
+ "last_seen": "2026-11-11T06:07:27+00:00",
  "lat": 59.41,
  "length_ft": 19,
  "location": "Karlstad",
@@ -77,7 +77,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 182,
-  "fetched_ts": 1793769099042,
+  "fetched_ts": 1794377476188,
   "text_sha": "bd20e646f7d76ccc"
  },
  "price": 230000,

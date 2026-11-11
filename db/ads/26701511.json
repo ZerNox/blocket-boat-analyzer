@@ -59,7 +59,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/26701511/c9bb0694-c4a0-4ab3-8020-769ffbd51163",
   "https://images.blocketcdn.se/dynamic/default/item/26701511/0d11a158-1ba4-4056-8b42-a1a179ca0622"
  ],
- "last_seen": "2026-11-10T05:04:07+00:00",
+ "last_seen": "2026-11-11T06:07:27+00:00",
  "lat": 58.65,
  "length_ft": 20,
  "location": "Åby",
@@ -72,7 +72,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 549,
-  "fetched_ts": 1793769165419,
+  "fetched_ts": 1794377503939,
   "text_sha": "43ecf51dddc2dc2e"
  },
  "price": 149000,

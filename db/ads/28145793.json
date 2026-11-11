@@ -1,0 +1,137 @@
+{
+ "ad_id": 28145793,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1794337587000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1978,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Evinrude",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1978,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "ekolod": {
+    "evidence": "* Ekolod",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "Ryds camping med motor och båttrailer",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "plats och möjlighet till övernattning.\nUtrustning och information:\n* Ryds Camping, ca årsmodell 1978\n* Ev",
+  "hull_source": "rule:text",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-11T06:07:27+00:00",
+ "found_by": [
+  "Ryds Camping",
+  "Ryds camping"
+ ],
+ "heading": "Ryds camping med motor och båttrailer",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/28145793/1fa01546-c896-407a-b478-5eaef209d550",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/28145793/1fa01546-c896-407a-b478-5eaef209d550",
+  "https://images.blocketcdn.se/dynamic/default/item/28145793/08257d14-0687-4d6c-bb09-f3e82221f080",
+  "https://images.blocketcdn.se/dynamic/default/item/28145793/eab9762d-df36-44ca-ba76-4f99eaa58e9e",
+  "https://images.blocketcdn.se/dynamic/default/item/28145793/3c14089f-05e8-4881-905b-2b51248f25ee",
+  "https://images.blocketcdn.se/dynamic/default/item/28145793/846141fb-ebb8-482d-a742-36404f4495ab",
+  "https://images.blocketcdn.se/dynamic/default/item/28145793/b0a37fc1-3c97-43c1-8683-918f9c65d709",
+  "https://images.blocketcdn.se/dynamic/default/item/28145793/978859be-4a8e-45ec-aabe-250125de5b18",
+  "https://images.blocketcdn.se/dynamic/default/item/28145793/0c0b8faf-5d6e-4e15-9146-e913e81aabd8",
+  "https://images.blocketcdn.se/dynamic/default/item/28145793/f0ff2371-8930-453b-8e42-283be557cf0c"
+ ],
+ "last_seen": "2026-11-11T06:07:27+00:00",
+ "lat": 60.51,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-11-11",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1978,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Evinrude",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "Evinrude 60 hk tvåtaktsmotor",
+   "equipment": {
+    "ekolod": "included",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "included",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "4ec9b10f7f74cc8a"
+ },
+ "location": "Borlänge",
+ "lon": 15.54,
+ "make": "Ryds",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 723,
+  "fetched_ts": 1794377540229,
+  "text_sha": "4ec9b10f7f74cc8a"
+ },
+ "price": 27000,
+ "price_history": [
+  {
+   "date": "2026-11-11",
+   "price": 27000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "Camping",
+  "Modellår": "1978",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Evinrude",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Skrovmaterial": "Glasfiber",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "650 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/28145793",
+ "width_cm": 220,
+ "year": 1978
+}
