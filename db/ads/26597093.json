@@ -54,6 +54,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-15",
  "organisation_name": null,
  "page": {
   "description_chars": 406,
@@ -84,7 +85,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "700 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26597093",
  "width_cm": 225,
  "year": 1992

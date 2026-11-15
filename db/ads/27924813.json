@@ -89,6 +89,7 @@
  "motor_fuel": null,
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-15",
  "organisation_name": null,
  "page": {
   "description_chars": 893,
@@ -102,6 +103,11 @@
    "price": 0
   }
  ],
+ "sold": {
+  "date": "2026-11-15",
+  "days_seen": 12,
+  "last_price": 0
+ },
  "specs": {
   "Bredd": "205 cm",
   "Båtens plats": "Sverige",
@@ -115,7 +121,7 @@
   "Märke": "Solvik",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/27924813",
  "width_cm": 205,
  "year": 1970

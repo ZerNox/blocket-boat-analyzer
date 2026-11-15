@@ -89,7 +89,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 70.0,
  "motor_type": "Utombordare",
- "not_in_search_since": "2026-10-13",
+ "not_in_search_since": "2026-11-15",
  "organisation_name": null,
  "page": {
   "description_chars": 601,
@@ -117,7 +117,7 @@
   "Märke": "Ryds",
   "Typ": "Annat"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26540991",
  "vision": {
   "at": "2026-10-10",

@@ -1,0 +1,111 @@
+{
+ "ad_id": 28195309,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1794506893000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": 179,
+  "engine_hp": 100.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Mercury EFI 100hk",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2008,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Mercury EFI 100hk 4-taktare årsmodell 2008.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell över styrpulpet till akterspegel.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Garmin GPSMAP 400/500-serie.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30-kärra med nya hjullager, med manuell vinsch.",
+    "included": true,
+    "kmh": 30
+   },
+   "vinsch": {
+    "evidence": "30-kärra med nya hjullager, med manuell vinsch.",
+    "included": true
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "0/500-serie.\n Kapell över styrpulpet till akterspegel.\n Lanternor (original 2st).\n Ankare.\n Securmark.\n Fi",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-15T03:19:27+00:00",
+ "found_by": [
+  "Ryds 568"
+ ],
+ "heading": "Ryds 568GTI 2007",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/28195309/239d69a3-107c-458e-b913-9a465771b32c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/28195309/239d69a3-107c-458e-b913-9a465771b32c",
+  "https://images.blocketcdn.se/dynamic/default/item/28195309/bd9ec5cc-0547-4562-9527-3bcfc1050ae5",
+  "https://images.blocketcdn.se/dynamic/default/item/28195309/4a51fa33-e7f0-474a-9f5e-fe9742b0b1c6",
+  "https://images.blocketcdn.se/dynamic/default/item/28195309/c8a986e2-a732-4c79-bfc0-8b4f2278e861",
+  "https://images.blocketcdn.se/dynamic/default/item/28195309/16393ac6-6b16-4f23-9f99-6c58cec9e736",
+  "https://images.blocketcdn.se/dynamic/default/item/28195309/2db304f4-2490-46e6-988d-a1ef4a615662"
+ ],
+ "last_seen": "2026-11-15T03:19:27+00:00",
+ "lat": 58.65,
+ "length_ft": 19,
+ "location": "Hällekis",
+ "lon": 13.43,
+ "make": "Ryds",
+ "max_speed": 38,
+ "motor_fuel": "Bensin",
+ "motor_size": 100.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 932,
+  "fetched_ts": 1794713038905,
+  "text_sha": "1029c326461a6316"
+ },
+ "price": 145000,
+ "price_history": [
+  {
+   "date": "2026-11-15",
+   "price": 145000
+  }
+ ],
+ "specs": {
+  "Bredd": "220 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "19 fot",
+  "Modell": "568GTI",
+  "Modellår": "2007",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "100 hk",
+  "Motortillverkare": "Mercury EFI 100hk",
+  "Motortyp": "Utombordare",
+  "Märke": "Ryds",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "38 knop",
+  "Typ": "Styrpulpetbåt",
+  "Vikt": "695 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/28195309",
+ "width_cm": 220,
+ "year": 2007
+}

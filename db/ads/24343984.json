@@ -108,7 +108,7 @@
  "motor_fuel": "Diesel",
  "motor_size": 100.0,
  "motor_type": "Inombordare",
- "not_in_search_since": "2026-10-31",
+ "not_in_search_since": "2026-11-15",
  "organisation_name": null,
  "page": {
   "description_chars": 550,
@@ -138,6 +138,11 @@
    "price": 160000
   }
  ],
+ "sold": {
+  "date": "2026-11-15",
+  "days_seen": 49,
+  "last_price": 160000
+ },
  "specs": {
   "Bredd": "254 cm",
   "Båtens plats": "Sverige",
@@ -159,7 +164,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "1 600 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/24343984",
  "width_cm": 254,
  "year": 2006

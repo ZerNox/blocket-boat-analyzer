@@ -33,7 +33,7 @@
     "included": true
    },
    "trailer": {
-    "evidence": "Trailer 80 km/h",
+    "evidence": "Ryds camping, Mercury 90 hk, Trailer 80km.",
     "included": true,
     "kmh": 80
    }
@@ -54,7 +54,7 @@
   "Ryds Camping",
   "Ryds camping"
  ],
- "heading": "Ryds camping Mercury 90 hk",
+ "heading": "Ryds camping, Mercury 90 hk, Trailer 80km.",
  "image": "https://images.blocketcdn.se/dynamic/default/item/25261963/9c517391-dce4-42e0-99f6-dfac094cfea0",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/25261963/9c517391-dce4-42e0-99f6-dfac094cfea0",
@@ -65,15 +65,16 @@
   "https://images.blocketcdn.se/dynamic/default/item/25261963/fb9dbb44-c4c9-4072-91b6-faa21bfcc336",
   "https://images.blocketcdn.se/dynamic/default/item/25261963/ed260084-60c4-440b-a2ba-5a5c15d5bae5",
   "https://images.blocketcdn.se/dynamic/default/item/25261963/c4472a16-4224-410a-88c4-ae73ce2325e5",
-  "https://images.blocketcdn.se/dynamic/default/item/25261963/242d37ad-a8e3-4419-961f-3277b21ccb56"
+  "https://images.blocketcdn.se/dynamic/default/item/25261963/242d37ad-a8e3-4419-961f-3277b21ccb56",
+  "https://images.blocketcdn.se/dynamic/default/item/25261963/b364f44d-acbc-494b-8a15-4ba8bd664bf7"
  ],
- "last_seen": "2026-11-11T06:07:27+00:00",
+ "last_seen": "2026-11-15T03:19:27+00:00",
  "lat": 56.09,
  "length_ft": 19,
  "location": "Bromölla",
  "lon": 14.46,
  "make": "Ryds",
- "max_speed": null,
+ "max_speed": 34,
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
@@ -83,11 +84,15 @@
   "fetched_ts": 1794200979726,
   "text_sha": "4c981567d5eeb2ae"
  },
- "price": 67000,
+ "price": 64000,
  "price_history": [
   {
    "date": "2026-11-09",
    "price": 67000
+  },
+  {
+   "date": "2026-11-15",
+   "price": 64000
   }
  ],
  "specs": {

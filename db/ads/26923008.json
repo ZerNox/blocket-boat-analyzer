@@ -1,0 +1,95 @@
+{
+ "ad_id": 26923008,
+ "boat_class": "Styrpulpetbåt",
+ "changed_ts": 1794594041000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": 50.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1980,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "trailer": {
+    "evidence": "I köpet ingår även en väl underhållen, numera 30-trailer, godkänt lås för motorn på akterspegeln, godkänt lås och kätti…",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "open",
+  "hull_certain": true,
+  "hull_evidence": "tabil och väl underhållen styrpulpetbåt, Örnvik 540, som varit i familjens ägo sedan 80-talet.\nSäljs utan",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-15T03:19:27+00:00",
+ "found_by": [
+  "Örnvik 540"
+ ],
+ "heading": "Rejäl, välvårdad och uppdaterad Örnvik 540 utan motor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/26923008/d639b0b3-aaf7-42cb-b97e-e038b58c5ada",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/26923008/d639b0b3-aaf7-42cb-b97e-e038b58c5ada",
+  "https://images.blocketcdn.se/dynamic/default/item/26923008/07eb9339-6ad2-4a01-bce4-2eb52905ee69",
+  "https://images.blocketcdn.se/dynamic/default/item/26923008/431e115e-3e76-4312-aea8-554b542240bd",
+  "https://images.blocketcdn.se/dynamic/default/item/26923008/e64d048c-4428-4867-918c-7b8ecb307b87",
+  "https://images.blocketcdn.se/dynamic/default/item/26923008/9d7d80e4-801f-4581-887e-b52d20ac7790",
+  "https://images.blocketcdn.se/dynamic/default/item/26923008/f2add766-69d6-4203-9ccd-11be0b677109",
+  "https://images.blocketcdn.se/dynamic/default/item/26923008/5feb90db-3987-46fe-a2f1-9abc4887550e",
+  "https://images.blocketcdn.se/dynamic/default/item/26923008/1c4d27d3-c9be-4ccb-97f3-c33e694c4ead",
+  "https://images.blocketcdn.se/dynamic/default/item/26923008/5536ef9f-2cfe-47c2-8cc2-95f0bd0e1a24"
+ ],
+ "last_seen": "2026-11-15T03:19:27+00:00",
+ "lat": 57.4,
+ "length_ft": 17,
+ "location": "Onsala",
+ "lon": 12.01,
+ "make": "Örnvik",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "organisation_name": null,
+ "page": {
+  "description_chars": 1119,
+  "fetched_ts": 1794713029192,
+  "text_sha": "77e4f4fa1aac2021"
+ },
+ "price": 25000,
+ "price_history": [
+  {
+   "date": "2026-11-15",
+   "price": 25000
+  }
+ ],
+ "specs": {
+  "Bredd": "204 cm",
+  "Båtens plats": "Sverige",
+  "Färg": "vitt, grått , rött",
+  "Längd i fot": "17 fot",
+  "Modell": "540",
+  "Modellår": "1980",
+  "Motor inkluderad": "Nej",
+  "Märke": "Örnvik",
+  "Skrovmaterial": "Plast",
+  "Typ": "Styrpulpetbåt"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/26923008",
+ "width_cm": 204,
+ "year": 1980
+}

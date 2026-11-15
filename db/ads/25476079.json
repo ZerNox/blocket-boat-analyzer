@@ -68,7 +68,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 40.0,
  "motor_type": "Utombordare",
- "not_in_search_since": "2026-10-07",
+ "not_in_search_since": "2026-11-15",
  "organisation_name": null,
  "page": {
   "description_chars": 313,
@@ -98,6 +98,11 @@
    "price": 60000
   }
  ],
+ "sold": {
+  "date": "2026-11-15",
+  "days_seen": 49,
+  "last_price": 60000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
@@ -114,7 +119,7 @@
   "Toppfart": "22 knop",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/25476079",
  "width_cm": 0,
  "year": 2007

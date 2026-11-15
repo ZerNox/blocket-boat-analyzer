@@ -4,7 +4,7 @@
  "changed_ts": 1794072542000,
  "dealer_segment": "Privat",
  "extraction": {
-  "boat_year": 1996,
+  "boat_year": 1986,
   "boat_year_source": "spec",
   "engine_hours": null,
   "engine_hp": 60.0,
@@ -54,9 +54,13 @@
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/28058961/66e46e47-443f-403c-a683-57ca2a81a200",
   "https://images.blocketcdn.se/dynamic/default/item/28058961/bc2ba34d-b6e2-417c-a0ce-661921606528",
-  "https://images.blocketcdn.se/dynamic/default/item/28058961/f75faa32-cca1-4caa-accb-5b0caab1f1fd"
+  "https://images.blocketcdn.se/dynamic/default/item/28058961/f75faa32-cca1-4caa-accb-5b0caab1f1fd",
+  "https://images.blocketcdn.se/dynamic/default/item/28058961/061715ba-0125-4303-8c37-856a6ae1a72c",
+  "https://images.blocketcdn.se/dynamic/default/item/28058961/08ec1bb9-658c-425a-b132-da6edd918576",
+  "https://images.blocketcdn.se/dynamic/default/item/28058961/d56d0162-0f4a-4407-9847-d753837c40c3",
+  "https://images.blocketcdn.se/dynamic/default/item/28058961/a2820ce6-9449-4735-ab5f-2c587161827f"
  ],
- "last_seen": "2026-11-11T06:07:27+00:00",
+ "last_seen": "2026-11-15T03:19:27+00:00",
  "lat": 59.89,
  "length_ft": 17,
  "location": "Almunge",
@@ -94,5 +98,5 @@
  "status": "active",
  "url": "https://www.blocket.se/mobility/item/28058961",
  "width_cm": 0,
- "year": 1996
+ "year": 1986
 }

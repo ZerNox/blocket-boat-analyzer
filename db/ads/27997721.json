@@ -24,11 +24,15 @@
     "evidence": "Jofa Winth 555/Evinrude 70 hk m bromsad 80-trailer",
     "included": true,
     "kmh": 80
+   },
+   "vinsch": {
+    "evidence": "5,5 m hardtop utombordare med bromsad 80-trailer m vinsch o 70 hk Evinrude säljes pga för lite tid.",
+    "included": true
    }
   },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "bromsad 80-trailer\n5,5 m hardtop utombordare med bromsad 80-trailer o 70 hk Evinrude säljes pga för lite",
+  "hull_evidence": "bromsad 80-trailer\n5,5 m hardtop utombordare med bromsad 80-trailer m vinsch o 70 hk Evinrude säljes pga",
   "hull_source": "rule:text",
   "llm_reasons": [
    "no engine year found"
@@ -66,11 +70,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/27997721/b078ea84-78c0-4846-9dbe-ed559834e404",
   "https://images.blocketcdn.se/dynamic/default/item/27997721/344a4b3e-c7c6-4171-bcdd-138264d7888b"
  ],
- "last_seen": "2026-11-11T06:07:27+00:00",
+ "last_seen": "2026-11-15T03:19:27+00:00",
  "lat": 55.99,
  "length_ft": 18,
  "llm": {
-  "at": "2026-11-05",
+  "at": "2026-11-15",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 1978,
@@ -95,11 +99,11 @@
     "trailer": "included",
     "varmare": "not_mentioned",
     "vhf": "not_mentioned",
-    "vinsch": "not_mentioned",
+    "vinsch": "included",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "a203f00820d6dbee"
+  "text_sha": "094c62dc8e5e2861"
  },
  "location": "Råå",
  "lon": 12.75,
@@ -110,9 +114,9 @@
  "motor_type": "Utombordare",
  "organisation_name": null,
  "page": {
-  "description_chars": 162,
-  "fetched_ts": 1793914482204,
-  "text_sha": "a203f00820d6dbee"
+  "description_chars": 171,
+  "fetched_ts": 1794713036269,
+  "text_sha": "094c62dc8e5e2861"
  },
  "price": 35000,
  "price_history": [

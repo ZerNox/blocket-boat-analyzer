@@ -65,13 +65,11 @@
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/27966383/3ba85eb0-dd6d-4acb-8331-b5b44b3416db",
   "https://images.blocketcdn.se/dynamic/default/item/27966383/b394edf8-aa3f-4f66-9d9a-a737cfd14c11",
-  "https://images.blocketcdn.se/dynamic/default/item/27966383/7fb397fb-0eba-4f8a-b95c-fa315d51991c",
   "https://images.blocketcdn.se/dynamic/default/item/27966383/35e86640-7d32-4f46-8fc6-15ea1034667c",
   "https://images.blocketcdn.se/dynamic/default/item/27966383/16808a91-902b-4271-b450-f223e18c524e",
-  "https://images.blocketcdn.se/dynamic/default/item/27966383/a5f81159-5847-4816-a135-8d48a6db5dfa",
-  "https://images.blocketcdn.se/dynamic/default/item/27966383/990c4c57-bb09-45ef-bb9f-fe86dd24b33e"
+  "https://images.blocketcdn.se/dynamic/default/item/27966383/a5f81159-5847-4816-a135-8d48a6db5dfa"
  ],
- "last_seen": "2026-11-11T06:07:27+00:00",
+ "last_seen": "2026-11-15T03:19:27+00:00",
  "lat": 63.25,
  "length_ft": 17,
  "location": "Mattmar",
@@ -84,7 +82,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 1539,
-  "fetched_ts": 1793914480744,
+  "fetched_ts": 1794713034890,
   "text_sha": "768beb2b9c9b4b6c"
  },
  "price": 60000,

@@ -57,6 +57,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-11-15",
  "organisation_name": null,
  "page": {
   "description_chars": 74,
@@ -70,6 +71,11 @@
    "price": 1000
   }
  ],
+ "sold": {
+  "date": "2026-11-15",
+  "days_seen": 23,
+  "last_price": 1000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Längd i fot": "21 fot",
@@ -79,7 +85,7 @@
   "Märke": "Ockelbo",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/27649985",
  "width_cm": 0,
  "year": 1973
