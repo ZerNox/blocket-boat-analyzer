@@ -88,6 +88,7 @@
  "motor_fuel": null,
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-16",
  "organisation_name": null,
  "page": {
   "description_chars": 415,
@@ -119,7 +120,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "450 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26629075",
  "width_cm": 200,
  "year": 1999

@@ -21,15 +21,19 @@
   "engine_year_source": "rule:text",
   "equipment": {
    "ekolod": {
-    "evidence": "Utrustning som medföljer : Fendrar, ankare, ekolod, gps, länspump, stereo, låskätting, hänglås och flytvästar.",
+    "evidence": "Utrustning som medföljer : Fendrar, ankare, ekolod, Garmin gps, länspump, stereo, låskätting, hänglås och flytvästar.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "Servad inför varje säsong samt impregnerat kapellet varje vår.",
     "included": true
    },
    "plotter": {
-    "evidence": "Utrustning som medföljer : Fendrar, ankare, ekolod, gps, länspump, stereo, låskätting, hänglås och flytvästar.",
+    "evidence": "Utrustning som medföljer : Fendrar, ankare, ekolod, Garmin gps, länspump, stereo, låskätting, hänglås och flytvästar.",
     "included": true
    },
    "stereo": {
-    "evidence": "Utrustning som medföljer : Fendrar, ankare, ekolod, gps, länspump, stereo, låskätting, hänglås och flytvästar.",
+    "evidence": "Utrustning som medföljer : Fendrar, ankare, ekolod, Garmin gps, länspump, stereo, låskätting, hänglås och flytvästar.",
     "included": true
    },
    "trailer": {
@@ -40,8 +44,8 @@
   },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "Båttyp: Daycruiser",
-  "hull_source": "rule:spec",
+  "hull_evidence": "s camping 1979\nInnertak i ruff är nymålad.\nMercury 90 hk, 2-takt, årsmodell 2005, enbart körd i insjö.\nSer",
+  "hull_source": "rule:text",
   "llm_reasons": [],
   "needs_llm": false,
   "red_flags": [],
@@ -68,7 +72,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25261963/242d37ad-a8e3-4419-961f-3277b21ccb56",
   "https://images.blocketcdn.se/dynamic/default/item/25261963/b364f44d-acbc-494b-8a15-4ba8bd664bf7"
  ],
- "last_seen": "2026-11-15T05:03:55+00:00",
+ "last_seen": "2026-11-17T08:03:59+00:00",
  "lat": 56.09,
  "length_ft": 19,
  "location": "Bromölla",
@@ -80,9 +84,9 @@
  "motor_type": "Utombordare",
  "organisation_name": null,
  "page": {
-  "description_chars": 450,
-  "fetched_ts": 1794200979726,
-  "text_sha": "4c981567d5eeb2ae"
+  "description_chars": 914,
+  "fetched_ts": 1794816419083,
+  "text_sha": "82e62634592ba05c"
  },
  "price": 64000,
  "price_history": [
@@ -111,6 +115,7 @@
   "Sittplatser": "5",
   "Skrovmaterial": "Plast",
   "Sovplatser": "4",
+  "Toppfart": "34 knop",
   "Typ": "Daycruiser",
   "Vikt": "620 kg"
  },

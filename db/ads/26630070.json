@@ -71,6 +71,7 @@
  "motor_fuel": "Diesel",
  "motor_size": 60.0,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-11-16",
  "organisation_name": null,
  "page": {
   "description_chars": 1028,
@@ -105,7 +106,7 @@
   "Typ": "Hyttbåt",
   "Vikt": "1 500 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26630070",
  "width_cm": 235,
  "year": 1989

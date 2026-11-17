@@ -1,0 +1,86 @@
+{
+ "ad_id": 28289089,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1794772193000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1970,
+  "boat_year_source": "spec",
+  "engine_hours": null,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": null,
+  "engine_stroke": null,
+  "engine_type": "none",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 1970,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "Tvådelat kapell med bågar.",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Norcem Day 21 DC",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-16T08:03:13+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Norcem Day 21 DC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/28289089/bb453483-8e6a-4b48-be77-2969d1c9283c",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/28289089/bb453483-8e6a-4b48-be77-2969d1c9283c",
+  "https://images.blocketcdn.se/dynamic/default/item/28289089/88206459-5c5c-400d-a324-052ace64b80e",
+  "https://images.blocketcdn.se/dynamic/default/item/28289089/e34ed1ee-599c-4802-9077-e8904a2491b9"
+ ],
+ "last_seen": "2026-11-17T08:03:59+00:00",
+ "lat": 58.86,
+ "length_ft": 20,
+ "location": "Vrena",
+ "lon": 16.7,
+ "make": "Övriga",
+ "max_speed": null,
+ "motor_fuel": null,
+ "motor_size": null,
+ "motor_type": null,
+ "organisation_name": null,
+ "page": {
+  "description_chars": 326,
+  "fetched_ts": 1794816461197,
+  "text_sha": "3139bc82a7fb257f"
+ },
+ "price": 500,
+ "price_history": [
+  {
+   "date": "2026-11-16",
+   "price": 500
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Längd i fot": "20 fot",
+  "Modellår": "1970",
+  "Motor inkluderad": "Nej",
+  "Märke": "Övriga",
+  "Sittplatser": "2",
+  "Sovplatser": "2",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/28289089",
+ "width_cm": 0,
+ "year": 1970
+}

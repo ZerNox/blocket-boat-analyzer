@@ -14,18 +14,18 @@
   "engine_type": "outboard",
   "engine_type_evidence": null,
   "engine_type_source": "rule:spec",
-  "engine_year": 1996,
-  "engine_year_est": null,
-  "engine_year_est_reason": null,
-  "engine_year_evidence": "Säljer nu vår trevliga och välskötta Flipper 510 HT från 1996 med en pigg och pålitlig Yamaha 60 hk 2-takt (även den från 1996) samt en fräsch 80 km/h obromsad Fogelsta EU-trailer…",
-  "engine_year_source": "rule:text",
+  "engine_year": null,
+  "engine_year_est": 1986,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
   "equipment": {
    "plotter": {
     "evidence": "* Garmin GPS",
     "included": true
    },
    "trailer": {
-    "evidence": "Säljer nu vår trevliga och välskötta Flipper 510 HT från 1996 med en pigg och pålitlig Yamaha 60 hk 2-takt (även den fr…",
+    "evidence": "Säljer nu vår trevliga och välskötta Flipper 510 HT från 1986 en pigg och pålitlig Yamaha 60 hk 2-takt (samt en fräsch …",
     "included": true,
     "kmh": 80,
     "year": 2021
@@ -39,8 +39,10 @@
   "hull_certain": true,
   "hull_evidence": "Flipper 510HT",
   "hull_source": "rule:model",
-  "llm_reasons": [],
-  "needs_llm": false,
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
   "red_flags": [],
   "rules_version": 8,
   "swap_offered": false
@@ -60,9 +62,42 @@
   "https://images.blocketcdn.se/dynamic/default/item/28058961/d56d0162-0f4a-4407-9847-d753837c40c3",
   "https://images.blocketcdn.se/dynamic/default/item/28058961/a2820ce6-9449-4735-ab5f-2c587161827f"
  ],
- "last_seen": "2026-11-15T05:03:55+00:00",
+ "last_seen": "2026-11-17T08:03:59+00:00",
  "lat": 59.89,
  "length_ft": 17,
+ "llm": {
+  "at": "2026-11-17",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 1986,
+   "engine_hours": null,
+   "engine_hp": 60,
+   "engine_maker": "Yamaha",
+   "engine_type": "outboard",
+   "engine_year": null,
+   "engine_year_evidence": "* Årsmodell: 1996",
+   "engine_year_rejected": 1996,
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "included",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "included",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "06e8efbc9992f6f4"
+ },
  "location": "Almunge",
  "lon": 18.08,
  "make": "Flipper",
@@ -72,9 +107,9 @@
  "motor_type": "Utombordare",
  "organisation_name": null,
  "page": {
-  "description_chars": 749,
-  "fetched_ts": 1794114757739,
-  "text_sha": "dd0dc118032c812e"
+  "description_chars": 725,
+  "fetched_ts": 1794816459657,
+  "text_sha": "06e8efbc9992f6f4"
  },
  "price": 52000,
  "price_history": [
@@ -88,7 +123,7 @@
   "Drivmedel": "Bensin",
   "Längd i fot": "17 fot",
   "Modell": "510HT",
-  "Modellår": "1996",
+  "Modellår": "1986",
   "Motorstorlek": "60 hk",
   "Motortillverkare": "Yamaha",
   "Motortyp": "Utombordare",
