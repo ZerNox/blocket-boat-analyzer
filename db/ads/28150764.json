@@ -50,7 +50,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/28150764/7b4479d0-f9d7-49ee-9ea1-606caf266307",
   "https://images.blocketcdn.se/dynamic/default/item/28150764/8985c6f0-2bdf-4241-9346-098f30a90cdb"
  ],
- "last_seen": "2026-11-17T08:03:59+00:00",
+ "last_seen": "2026-11-18T08:03:08+00:00",
  "lat": 59.27,
  "length_ft": 19,
  "location": "Bandhagen",
@@ -63,7 +63,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 576,
-  "fetched_ts": 1794377541637,
+  "fetched_ts": 1794989246479,
   "text_sha": "f0b0042b79447717"
  },
  "price": 60000,

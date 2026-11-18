@@ -1,0 +1,108 @@
+{
+ "ad_id": 28332385,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1794938639000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1995,
+  "boat_year_source": "spec",
+  "engine_hours": 50,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Evinrude etec",
+  "engine_stroke": 2,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2021,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motorn köpte jag ny 2021 och den har servats samt gått ca:50 h.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "ekolod": {
+    "evidence": "Allt fungerar till båten, lanternor, trimmätare och trimplan, gps, ekolod, tiltmätare mm.",
+    "included": true
+   },
+   "kapell": {
+    "evidence": "30 kärra och nytvättat/nyimpregnerat tätt kapell ingår också.",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "Allt fungerar till båten, lanternor, trimmätare och trimplan, gps, ekolod, tiltmätare mm.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "30 kärra och nytvättat/nyimpregnerat tätt kapell ingår också.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Uttern 5200 DC",
+  "hull_source": "rule:model",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-18T08:03:08+00:00",
+ "found_by": [
+  "kategori",
+  "Uttern 5200"
+ ],
+ "heading": "Uttern 5200 DC",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/28332385/3a8b6425-b241-4d26-bc36-ba06ea80f288",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/28332385/3a8b6425-b241-4d26-bc36-ba06ea80f288",
+  "https://images.blocketcdn.se/dynamic/default/item/28332385/7867eaaa-0bbf-4b13-a8b2-e2724c0c1f67",
+  "https://images.blocketcdn.se/dynamic/default/item/28332385/92ae25b8-963c-4f02-a74c-bb771ec658a6",
+  "https://images.blocketcdn.se/dynamic/default/item/28332385/730930ad-9447-4063-8257-51e8d3f581a6"
+ ],
+ "last_seen": "2026-11-18T08:03:08+00:00",
+ "lat": 59.37,
+ "length_ft": 17,
+ "location": "Karlstad",
+ "lon": 13.47,
+ "make": "Uttern",
+ "max_speed": 36,
+ "motor_fuel": "Bensin",
+ "motor_size": 75.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 767,
+  "fetched_ts": 1794989249292,
+  "text_sha": "8cfff54fb061ac8e"
+ },
+ "price": 114000,
+ "price_history": [
+  {
+   "date": "2026-11-18",
+   "price": 114000
+  }
+ ],
+ "specs": {
+  "Bredd": "210 cm",
+  "Båtens plats": "Sverige",
+  "Djupgående": "51 cm",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "17 fot",
+  "Modell": "5200 DC",
+  "Modellår": "1995",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "75 hk",
+  "Motortillverkare": "Evinrude etec",
+  "Motortyp": "Utombordare",
+  "Märke": "Uttern",
+  "Toppfart": "36 knop",
+  "Typ": "Daycruiser",
+  "Vikt": "685 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/28332385",
+ "width_cm": 210,
+ "year": 1995
+}

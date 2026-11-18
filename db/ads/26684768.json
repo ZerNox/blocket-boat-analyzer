@@ -55,6 +55,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": null,
+ "not_in_search_since": "2026-11-18",
  "organisation_name": null,
  "page": {
   "description_chars": 106,
@@ -79,7 +80,7 @@
   "Sittplatser": "4",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26684768",
  "width_cm": 0,
  "year": 1969

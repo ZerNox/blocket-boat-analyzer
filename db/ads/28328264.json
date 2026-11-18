@@ -1,0 +1,98 @@
+{
+ "ad_id": 28328264,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1794918969000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 1980,
+  "boat_year_source": "spec",
+  "engine_hours": 50,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Honda",
+  "engine_stroke": 4,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2023,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Nu finns möjligheten att köpa en fin flipper 575 med en modern fyrtaktsmotor som endast är 3 år gammal och gått ca 50 timmar.",
+  "engine_year_source": "rule:text",
+  "equipment": {
+   "kapell": {
+    "evidence": "Kapell finns men behöver sys till lite.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "båten säljes med ett 80 trailer (Variant ocean 1000 ifrån 2021) som dock är obes.",
+    "included": true,
+    "kmh": 80,
+    "year": 2021
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-18T08:03:08+00:00",
+ "found_by": [
+  "kategori",
+  "Flipper 575"
+ ],
+ "heading": "Flipper 575 med 3 år gammal 4-taktsmotor",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/28328264/99786a21-08b1-439e-9f1b-e6aeabe2793f",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/28328264/99786a21-08b1-439e-9f1b-e6aeabe2793f",
+  "https://images.blocketcdn.se/dynamic/default/item/28328264/9806b4bc-968d-44a2-8646-4f2ffec7f175",
+  "https://images.blocketcdn.se/dynamic/default/item/28328264/fe8cff2a-7f31-492a-adf9-914cb701fc0c",
+  "https://images.blocketcdn.se/dynamic/default/item/28328264/178ab78f-c86e-4d37-9f8f-9376f89ed363",
+  "https://images.blocketcdn.se/dynamic/default/item/28328264/8f7fad2c-9572-4bf0-826e-e255d79dfd6e"
+ ],
+ "last_seen": "2026-11-18T08:03:08+00:00",
+ "lat": 59.25,
+ "length_ft": 19,
+ "location": "Tyresö",
+ "lon": 18.26,
+ "make": "Flipper",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": 80.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 488,
+  "fetched_ts": 1794989247818,
+  "text_sha": "b6c1bdac50e9c466"
+ },
+ "price": 69000,
+ "price_history": [
+  {
+   "date": "2026-11-18",
+   "price": 69000
+  }
+ ],
+ "specs": {
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Längd i fot": "19 fot",
+  "Modell": "575",
+  "Modellår": "1980",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "80 hk",
+  "Motortillverkare": "Honda",
+  "Motortyp": "Utombordare",
+  "Märke": "Flipper",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/28328264",
+ "width_cm": 0,
+ "year": 1980
+}
