@@ -85,6 +85,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 100.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-19",
  "organisation_name": null,
  "page": {
   "description_chars": 219,
@@ -113,7 +114,7 @@
   "Toppfart": "32 knop",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26731751",
  "width_cm": 0,
  "year": 2008

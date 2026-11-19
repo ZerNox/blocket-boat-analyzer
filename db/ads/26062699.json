@@ -1,7 +1,7 @@
 {
  "ad_id": 26062699,
  "boat_class": "Styrpulpetbåt",
- "changed_ts": 1787769822000,
+ "changed_ts": 1795072449000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2004,
@@ -54,11 +54,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26062699/13d27936-79a0-4043-81f5-a6a3a69b19d1",
   "https://images.blocketcdn.se/dynamic/default/item/26062699/90374b5c-3c1a-4bd7-a89d-ee794a6aad3b"
  ],
- "last_seen": "2026-10-25T05:07:30+00:00",
+ "last_seen": "2026-11-19T08:03:05+00:00",
  "lat": 56.2,
  "length_ft": 18,
  "llm": {
-  "at": "2026-09-27",
+  "at": "2026-11-19",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2004,
@@ -67,23 +67,27 @@
    "engine_maker": "Mercury",
    "engine_type": "outboard",
    "engine_year": null,
-   "engine_year_evidence": "75hk Mercury 4-Stroke (lev Nyservad).",
-   "engine_year_rejected": 2023,
+   "engine_year_evidence": "Nyservad",
    "equipment": {
     "ekolod": "not_mentioned",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
     "kapell": "included",
     "landstrom": "not_mentioned",
     "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
     "stereo": "not_mentioned",
     "trailer": "included",
+    "varmare": "not_mentioned",
     "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "7136c26700f64be6"
+  "text_sha": "b960911044edaae0"
  },
  "location": "Karlskrona",
  "lon": 15.61,
@@ -93,10 +97,11 @@
  "motor_size": 75.0,
  "motor_type": "Utombordare",
  "not_in_search_since": "2026-10-26",
+ "organisation_name": null,
  "page": {
-  "description_chars": 209,
-  "fetched_ts": 1792469582080,
-  "text_sha": "7136c26700f64be6"
+  "description_chars": 194,
+  "fetched_ts": 1795075597959,
+  "text_sha": "b960911044edaae0"
  },
  "price": 119900,
  "price_history": [
@@ -120,7 +125,7 @@
   "Toppfart": "32 knop",
   "Typ": "Styrpulpetbåt"
  },
- "status": "inactive",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/26062699",
  "width_cm": 0,
  "year": 2004
