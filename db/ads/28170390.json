@@ -1,0 +1,115 @@
+{
+ "ad_id": 28170390,
+ "boat_class": "Kabinbåt",
+ "changed_ts": 1795106080000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2025,
+  "boat_year_source": "spec",
+  "engine_hours": 8,
+  "engine_hp": 60.0,
+  "engine_hp_source": "rule:text",
+  "engine_maker": "Honda årsmodell 2026",
+  "engine_stroke": null,
+  "engine_type": "outboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": 2026,
+  "engine_year_est": null,
+  "engine_year_est_reason": null,
+  "engine_year_evidence": "Motortillverkare: Honda årsmodell 2026",
+  "engine_year_source": "rule:spec",
+  "equipment": {
+   "ekolod": {
+    "evidence": "80 km båttrailer Fogelsta, kabinvärmare Wallas 1300 med defroster, passagerare stol likt förarens, Garmin Echomap, moto…",
+    "included": true
+   },
+   "plotter": {
+    "evidence": "80 km båttrailer Fogelsta, kabinvärmare Wallas 1300 med defroster, passagerare stol likt förarens, Garmin Echomap, moto…",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "80 km båt trailer och extra utrustning",
+    "included": true,
+    "kmh": 80
+   },
+   "varmare": {
+    "evidence": "80 km båttrailer Fogelsta, kabinvärmare Wallas 1300 med defroster, passagerare stol likt förarens, Garmin Echomap, moto…",
+    "included": true
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Sandströms 565 CC kabin inkl. 80 km båt trailer och extra utrustning\nHar du tankar om en båt för f",
+  "hull_source": "rule:text",
+  "llm_reasons": [],
+  "needs_llm": false,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-20T08:03:05+00:00",
+ "found_by": [
+  "kategori",
+  "Sandström 565"
+ ],
+ "heading": "Sandströms 565 CC kabin inkl. 80 km båt trailer och extra utrustning",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/28170390/c5e6d3be-8d5a-4000-a48d-c03eb5813c11",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/28170390/c5e6d3be-8d5a-4000-a48d-c03eb5813c11",
+  "https://images.blocketcdn.se/dynamic/default/item/28170390/6495fa75-6fb1-47fd-9b09-786a1055894d",
+  "https://images.blocketcdn.se/dynamic/default/item/28170390/5df63f28-07e7-4e0e-968e-3fdd73f997c7",
+  "https://images.blocketcdn.se/dynamic/default/item/28170390/8716b384-e8b8-4072-9a63-d2115059464b",
+  "https://images.blocketcdn.se/dynamic/default/item/28170390/728b0c0e-7443-4590-9f15-c9b2b50819f6",
+  "https://images.blocketcdn.se/dynamic/default/item/28170390/e232cd4b-9e77-40f7-bac2-ae84c608f369",
+  "https://images.blocketcdn.se/dynamic/default/item/28170390/ba38510e-c6e4-4717-b0af-6f6af1c904c9",
+  "https://images.blocketcdn.se/dynamic/default/item/28170390/f9185d3f-961b-432c-815e-9e50f84ae0c3",
+  "https://images.blocketcdn.se/dynamic/default/item/28170390/79df1367-6046-4c02-8f07-e0376d4d855f"
+ ],
+ "last_seen": "2026-11-20T08:03:05+00:00",
+ "lat": 56.26,
+ "length_ft": 18,
+ "location": "Ängelholm",
+ "lon": 12.86,
+ "make": "Sandström",
+ "max_speed": 28,
+ "motor_fuel": "Bensin",
+ "motor_size": 60.0,
+ "motor_type": "Utombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 1093,
+  "fetched_ts": 1795161995563,
+  "text_sha": "5d20a312385220ad"
+ },
+ "price": 298000,
+ "price_history": [
+  {
+   "date": "2026-11-20",
+   "price": 298000
+  }
+ ],
+ "specs": {
+  "Bredd": "205 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Vit",
+  "Längd i fot": "18 fot",
+  "Modell": "565CC",
+  "Modellår": "2025",
+  "Motor inkluderad": "Ja",
+  "Motorstorlek": "60 hk",
+  "Motortillverkare": "Honda årsmodell 2026",
+  "Motortyp": "Utombordare",
+  "Märke": "Sandström",
+  "Sittplatser": "6",
+  "Skrovmaterial": "Glasfiber",
+  "Toppfart": "28 knop",
+  "Typ": "Kabinbåt",
+  "Vikt": "530 kg"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/28170390",
+ "width_cm": 205,
+ "year": 2025
+}

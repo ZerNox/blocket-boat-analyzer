@@ -72,6 +72,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 100.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-20",
  "organisation_name": null,
  "page": {
   "description_chars": 932,
@@ -85,6 +86,11 @@
    "price": 145000
   }
  ],
+ "sold": {
+  "date": "2026-11-20",
+  "days_seen": 5,
+  "last_price": 145000
+ },
  "specs": {
   "Bredd": "220 cm",
   "Båtens plats": "Sverige",
@@ -104,7 +110,7 @@
   "Typ": "Styrpulpetbåt",
   "Vikt": "695 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/28195309",
  "width_cm": 220,
  "year": 2007

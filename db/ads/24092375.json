@@ -92,6 +92,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-11-20",
  "organisation_name": null,
  "page": {
   "description_chars": 793,
@@ -122,7 +123,7 @@
   "Sovplatser": "4",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/24092375",
  "width_cm": 230,
  "year": 1979

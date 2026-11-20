@@ -76,6 +76,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 90.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-20",
  "organisation_name": null,
  "page": {
   "description_chars": 658,
@@ -104,7 +105,7 @@
   "Sovplatser": "4",
   "Typ": "Hyttbåt"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/27826021",
  "width_cm": 215,
  "year": 1982
