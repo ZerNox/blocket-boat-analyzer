@@ -1,7 +1,7 @@
 {
  "ad_id": 28170390,
  "boat_class": "Kabinbåt",
- "changed_ts": 1795106080000,
+ "changed_ts": 1795202893000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 2025,
@@ -66,7 +66,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/28170390/f9185d3f-961b-432c-815e-9e50f84ae0c3",
   "https://images.blocketcdn.se/dynamic/default/item/28170390/79df1367-6046-4c02-8f07-e0376d4d855f"
  ],
- "last_seen": "2026-11-20T08:03:05+00:00",
+ "last_seen": "2026-11-21T08:03:04+00:00",
  "lat": 56.26,
  "length_ft": 18,
  "location": "Ängelholm",
@@ -79,7 +79,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 1093,
-  "fetched_ts": 1795161995563,
+  "fetched_ts": 1795248392303,
   "text_sha": "5d20a312385220ad"
  },
  "price": 298000,
