@@ -64,6 +64,7 @@
  "motor_fuel": null,
  "motor_size": 40.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-22",
  "organisation_name": null,
  "page": {
   "description_chars": 209,
@@ -92,7 +93,7 @@
   "Typ": "Kabinbåt",
   "Vikt": "675 kg"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26800372",
  "width_cm": 215,
  "year": 1985

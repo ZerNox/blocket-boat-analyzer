@@ -93,6 +93,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-22",
  "organisation_name": null,
  "page": {
   "description_chars": 71,
@@ -110,6 +111,11 @@
    "price": 20000
   }
  ],
+ "sold": {
+  "date": "2026-11-22",
+  "days_seen": 56,
+  "last_price": 20000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
@@ -126,7 +132,7 @@
   "Skrovmaterial": "Glasfiber",
   "Typ": "Kabinbåt"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/26377574",
  "width_cm": 0,
  "year": 1974

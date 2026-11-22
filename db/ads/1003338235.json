@@ -1,12 +1,12 @@
 {
  "ad_id": 1003338235,
  "auction": {
-  "bid": 3200,
+  "bid": 10000,
   "close": "2026-11-25T10:17:00+01:00",
   "ended": false,
   "fee": 3320,
   "margin_scheme": false,
-  "next_bid": 3400,
+  "next_bid": 10500,
   "reserve_reached": false,
   "start": "2026-11-19T09:00:00+01:00",
   "vat": 25
@@ -77,7 +77,7 @@
  "image_urls": [
   "https://media.se.klaravik.com/public/productimages/80/29/3338235/extrabilder76451695_large.jpg?v=1794995347"
  ],
- "last_seen": "2026-11-21",
+ "last_seen": "2026-11-22",
  "lat": 59.76,
  "length_ft": 16.7,
  "llm": {
@@ -119,10 +119,10 @@
  "motor_type": null,
  "page": {
   "description_chars": 694,
-  "fetched_ts": 1795248403882,
+  "fetched_ts": 1795334815417,
   "text_sha": "e8bd7f21b10e2be5"
  },
- "price": 8150,
+ "price": 16650,
  "price_history": [
   {
    "bid": 200,
@@ -133,6 +133,11 @@
    "bid": 3200,
    "date": "2026-11-21",
    "price": 8150
+  },
+  {
+   "bid": 10000,
+   "date": "2026-11-22",
+   "price": 16650
   }
  ],
  "source": "klaravik",

@@ -95,6 +95,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-11-22",
  "organisation_name": null,
  "page": {
   "description_chars": 276,
@@ -124,7 +125,7 @@
   "Sovplatser": "4",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/20392924",
  "width_cm": 0,
  "year": 1997
