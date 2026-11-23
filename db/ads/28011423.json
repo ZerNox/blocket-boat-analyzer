@@ -99,6 +99,7 @@
  "motor_fuel": "Bensin",
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-11-23",
  "organisation_name": null,
  "page": {
   "description_chars": 193,
@@ -116,6 +117,11 @@
    "price": 1000
   }
  ],
+ "sold": {
+  "date": "2026-11-23",
+  "days_seen": 17,
+  "last_price": 1000
+ },
  "specs": {
   "Båtens plats": "Sverige",
   "Drivmedel": "Bensin",
@@ -132,7 +138,7 @@
   "Sovplatser": "2",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/28011423",
  "width_cm": 0,
  "year": 1972

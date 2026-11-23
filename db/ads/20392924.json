@@ -1,7 +1,7 @@
 {
  "ad_id": 20392924,
  "boat_class": "Daycruiser",
- "changed_ts": 1790146569000,
+ "changed_ts": 1795337726000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1997,
@@ -53,7 +53,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/20392924/61460059-1bf4-4219-9985-da4ab7a28d2f",
   "https://images.blocketcdn.se/dynamic/default/item/20392924/e9e4c865-4077-4ad0-b01b-23a36f296dd1"
  ],
- "last_seen": "2026-11-21T08:03:04+00:00",
+ "last_seen": "2026-11-23T08:02:57+00:00",
  "lat": 56.49,
  "length_ft": 19,
  "llm": {
@@ -99,7 +99,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 276,
-  "fetched_ts": 1794989200347,
+  "fetched_ts": 1795421189195,
   "text_sha": "3f9218dc86106181"
  },
  "price": 55000,
@@ -125,7 +125,7 @@
   "Sovplatser": "4",
   "Typ": "Daycruiser"
  },
- "status": "inactive",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/20392924",
  "width_cm": 0,
  "year": 1997
