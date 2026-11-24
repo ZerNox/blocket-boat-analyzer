@@ -46,7 +46,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/28289089/88206459-5c5c-400d-a324-052ace64b80e",
   "https://images.blocketcdn.se/dynamic/default/item/28289089/e34ed1ee-599c-4802-9077-e8904a2491b9"
  ],
- "last_seen": "2026-11-23T08:02:57+00:00",
+ "last_seen": "2026-11-24T08:03:02+00:00",
  "lat": 58.86,
  "length_ft": 20,
  "location": "Vrena",
@@ -59,7 +59,7 @@
  "organisation_name": null,
  "page": {
   "description_chars": 326,
-  "fetched_ts": 1794816461197,
+  "fetched_ts": 1795507635864,
   "text_sha": "3139bc82a7fb257f"
  },
  "price": 500,

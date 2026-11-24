@@ -1,7 +1,7 @@
 {
  "ad_id": 24390608,
  "boat_class": "Daycruiser",
- "changed_ts": 1788506835000,
+ "changed_ts": 1795505881000,
  "dealer_segment": "Privat",
  "extraction": {
   "boat_year": 1986,
@@ -27,11 +27,13 @@
   },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "Legend Daycruiser 21\nSnyggt båtskrov med en rejäl och stabil trailer säljes utan motor,",
+  "hull_evidence": "Legend Daycruiser 21 Projekt\nVinterprojekt?\nSnyggt båtskrov med en rejäl och stabil tra",
   "hull_source": "rule:text",
   "llm_reasons": [],
   "needs_llm": false,
-  "red_flags": [],
+  "red_flags": [
+   "project"
+  ],
   "rules_version": 8,
   "swap_offered": false
  },
@@ -39,7 +41,7 @@
  "found_by": [
   "kategori"
  ],
- "heading": "Legend Daycruiser 21",
+ "heading": "Legend Daycruiser 21 Projekt",
  "image": "https://images.blocketcdn.se/dynamic/default/item/24390608/612b5f5b-7a20-4f95-b49b-33915c52fe3e",
  "image_urls": [
   "https://images.blocketcdn.se/dynamic/default/item/24390608/612b5f5b-7a20-4f95-b49b-33915c52fe3e",
@@ -49,7 +51,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/24390608/a682d22b-7005-46b4-bba5-807507f9b04f",
   "https://images.blocketcdn.se/dynamic/default/item/24390608/40df6977-237e-4cef-9af4-54089654da35"
  ],
- "last_seen": "2026-10-27T06:04:23+00:00",
+ "last_seen": "2026-11-24T08:03:02+00:00",
  "lat": 60.38,
  "length_ft": 21,
  "location": "Äppelbo",
@@ -62,9 +64,9 @@
  "not_in_search_since": "2026-10-28",
  "organisation_name": null,
  "page": {
-  "description_chars": 162,
-  "fetched_ts": 1793077812752,
-  "text_sha": "112a9118e1cbaf5a"
+  "description_chars": 177,
+  "fetched_ts": 1795507597708,
+  "text_sha": "c4a99af9ecc66eaf"
  },
  "price": 15000,
  "price_history": [
@@ -87,7 +89,7 @@
   "Märke": "Övriga",
   "Typ": "Daycruiser"
  },
- "status": "inactive",
+ "status": "active",
  "url": "https://www.blocket.se/mobility/item/24390608",
  "width_cm": 0,
  "year": 1986

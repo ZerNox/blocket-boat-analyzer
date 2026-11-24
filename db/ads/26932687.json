@@ -25,7 +25,7 @@
     "included": true
    },
    "plotter": {
-    "evidence": "Garmin plotter med sjökort över ostkusten.",
+    "evidence": "Garmin 62Cv plotter med sjökort över ostkusten, snabbläste och skyddskåpa.",
     "included": true
    },
    "stereo": {
@@ -64,11 +64,11 @@
   "https://images.blocketcdn.se/dynamic/default/item/26932687/1826eafd-a89f-401f-898f-72ca699cde86",
   "https://images.blocketcdn.se/dynamic/default/item/26932687/388f4e4f-e455-4b78-99ec-b710dbbca494"
  ],
- "last_seen": "2026-11-23T08:02:57+00:00",
+ "last_seen": "2026-11-24T08:03:02+00:00",
  "lat": 59.49,
  "length_ft": 18,
  "llm": {
-  "at": "2026-09-28",
+  "at": "2026-11-24",
   "model": "qwen7b-q4km",
   "result": {
    "boat_year": 2003,
@@ -79,7 +79,7 @@
    "engine_year": null,
    "engine_year_evidence": "servad i år",
    "equipment": {
-    "ekolod": "not_mentioned",
+    "ekolod": "included",
     "elmotor": "not_mentioned",
     "hjalpmotor": "not_mentioned",
     "hydraulstyrning": "not_mentioned",
@@ -97,7 +97,7 @@
     "vinterkapell": "not_mentioned"
    }
   },
-  "text_sha": "791f64f0d83a1128"
+  "text_sha": "cf3a2ddb15e19f7d"
  },
  "location": "Åkersberga",
  "lon": 18.41,
@@ -108,9 +108,9 @@
  "motor_type": "Utombordare",
  "organisation_name": null,
  "page": {
-  "description_chars": 639,
-  "fetched_ts": 1794816433058,
-  "text_sha": "791f64f0d83a1128"
+  "description_chars": 660,
+  "fetched_ts": 1795507611545,
+  "text_sha": "cf3a2ddb15e19f7d"
  },
  "price": 129000,
  "price_history": [

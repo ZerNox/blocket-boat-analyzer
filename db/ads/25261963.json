@@ -17,7 +17,7 @@
   "engine_year": 2005,
   "engine_year_est": null,
   "engine_year_est_reason": null,
-  "engine_year_evidence": "Mercury 90 hk, 2-takt, årsmodell 2005, enbart körd i insjö.",
+  "engine_year_evidence": "Mercury 90 hk, 2-takt, årsmodell 2005, toppfart på cirka 25",
   "engine_year_source": "rule:text",
   "equipment": {
    "ekolod": {
@@ -44,7 +44,7 @@
   },
   "hull": "cabin",
   "hull_certain": true,
-  "hull_evidence": "s camping 1979\nInnertak i ruff är nymålad.\nMercury 90 hk, 2-takt, årsmodell 2005, enbart körd i insjö.\nSer",
+  "hull_evidence": "s camping 1979\nInnertak i ruff är nymålad.\nMercury 90 hk, 2-takt, årsmodell 2005, toppfart på cirka 25 - 3",
   "hull_source": "rule:text",
   "llm_reasons": [],
   "needs_llm": false,
@@ -72,7 +72,7 @@
   "https://images.blocketcdn.se/dynamic/default/item/25261963/242d37ad-a8e3-4419-961f-3277b21ccb56",
   "https://images.blocketcdn.se/dynamic/default/item/25261963/b364f44d-acbc-494b-8a15-4ba8bd664bf7"
  ],
- "last_seen": "2026-11-23T08:02:57+00:00",
+ "last_seen": "2026-11-24T08:03:02+00:00",
  "lat": 56.09,
  "length_ft": 19,
  "location": "Bromölla",
@@ -84,9 +84,9 @@
  "motor_type": "Utombordare",
  "organisation_name": null,
  "page": {
-  "description_chars": 914,
-  "fetched_ts": 1794816419083,
-  "text_sha": "82e62634592ba05c"
+  "description_chars": 967,
+  "fetched_ts": 1795507600300,
+  "text_sha": "668b110d55aa9d22"
  },
  "price": 64000,
  "price_history": [
