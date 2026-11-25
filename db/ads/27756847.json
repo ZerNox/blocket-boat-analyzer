@@ -79,7 +79,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 50.0,
  "motor_type": "Utombordare",
- "not_in_search_since": "2026-11-23",
+ "not_in_search_since": "2026-11-25",
  "organisation_name": null,
  "page": {
   "description_chars": 1399,
@@ -93,6 +93,11 @@
    "price": 60000
   }
  ],
+ "sold": {
+  "date": "2026-11-25",
+  "days_seen": 23,
+  "last_price": 60000
+ },
  "specs": {
   "Bredd": "205 cm",
   "Båtens plats": "Sverige",
@@ -112,7 +117,7 @@
   "Typ": "Daycruiser",
   "Vikt": "530 kg"
  },
- "status": "active",
+ "status": "sold",
  "url": "https://www.blocket.se/mobility/item/27756847",
  "width_cm": 205,
  "year": 1979
