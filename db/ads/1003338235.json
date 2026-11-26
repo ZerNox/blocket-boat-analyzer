@@ -155,6 +155,12 @@
    "price": 21275
   }
  ],
+ "sold": {
+  "date": "2026-11-26",
+  "final_bid": 18000,
+  "last_price": 26650,
+  "reserve_reached": false
+ },
  "source": "klaravik",
  "specs": {
   "Antal nycklar": "1",
@@ -172,7 +178,7 @@
   "Serienummer båt": "Övermålat",
   "Typskylt": "Saknas"
  },
- "status": "active",
+ "status": "unsold",
  "url": "https://www.klaravik.se/auktion/produkt/3338235-bat-flipper-510-ht/",
  "year": null
 }

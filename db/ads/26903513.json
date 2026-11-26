@@ -100,6 +100,7 @@
  "motor_fuel": "Bensin",
  "motor_size": 60.0,
  "motor_type": "Utombordare",
+ "not_in_search_since": "2026-11-26",
  "organisation_name": null,
  "page": {
   "description_chars": 666,
@@ -142,7 +143,7 @@
   "Toppfart": "20 knop",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/26903513",
  "width_cm": 0,
  "year": 1978

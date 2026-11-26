@@ -1,0 +1,133 @@
+{
+ "ad_id": 28544213,
+ "boat_class": "Daycruiser",
+ "changed_ts": 1795623270000,
+ "dealer_segment": "Privat",
+ "extraction": {
+  "boat_year": 2007,
+  "boat_year_source": "spec",
+  "engine_hours": 20,
+  "engine_hp": null,
+  "engine_hp_source": null,
+  "engine_maker": "Mercruiser",
+  "engine_stroke": null,
+  "engine_type": "inboard",
+  "engine_type_evidence": null,
+  "engine_type_source": "rule:spec",
+  "engine_year": null,
+  "engine_year_est": 2007,
+  "engine_year_est_reason": "antar originalmotor",
+  "engine_year_evidence": null,
+  "engine_year_source": null,
+  "equipment": {
+   "kapell": {
+    "evidence": "* Ett hål i kapellet, bild skickas vid intresse.",
+    "included": true
+   },
+   "trailer": {
+    "evidence": "En fin 30-kärra från Tiki Trailer med belysning ingår i priset.",
+    "included": true,
+    "kmh": 30
+   }
+  },
+  "hull": "cabin",
+  "hull_certain": true,
+  "hull_evidence": "Båttyp: Daycruiser",
+  "hull_source": "rule:spec",
+  "llm_reasons": [
+   "no engine year found"
+  ],
+  "needs_llm": true,
+  "red_flags": [],
+  "rules_version": 8,
+  "swap_offered": false
+ },
+ "first_seen": "2026-11-26T08:02:56+00:00",
+ "found_by": [
+  "kategori"
+ ],
+ "heading": "Bayliner Discovery",
+ "image": "https://images.blocketcdn.se/dynamic/default/item/28544213/55807b73-df76-4f30-af0b-635aa09ad7d5",
+ "image_urls": [
+  "https://images.blocketcdn.se/dynamic/default/item/28544213/55807b73-df76-4f30-af0b-635aa09ad7d5",
+  "https://images.blocketcdn.se/dynamic/default/item/28544213/6750149c-60ec-49fa-b159-f2a20abadcab",
+  "https://images.blocketcdn.se/dynamic/default/item/28544213/62f29f13-cb88-4272-87a7-4692d21c21f2",
+  "https://images.blocketcdn.se/dynamic/default/item/28544213/bb23a683-2efc-470c-8a77-6988304b7bdf",
+  "https://images.blocketcdn.se/dynamic/default/item/28544213/f6271518-6874-40e3-86c4-1410d03cd125"
+ ],
+ "last_seen": "2026-11-26T08:02:56+00:00",
+ "lat": 59.44,
+ "length_ft": 19,
+ "llm": {
+  "at": "2026-11-26",
+  "model": "qwen7b-q4km",
+  "result": {
+   "boat_year": 2007,
+   "engine_hours": null,
+   "engine_hp": null,
+   "engine_maker": "Mercruiser",
+   "engine_type": "inboard",
+   "engine_year": null,
+   "engine_year_evidence": "Motortyp: Inombordare",
+   "equipment": {
+    "ekolod": "not_mentioned",
+    "elmotor": "not_mentioned",
+    "hjalpmotor": "not_mentioned",
+    "hydraulstyrning": "not_mentioned",
+    "inverter": "not_mentioned",
+    "kapell": "not_mentioned",
+    "landstrom": "not_mentioned",
+    "plotter": "not_mentioned",
+    "radar": "not_mentioned",
+    "solpanel": "not_mentioned",
+    "stereo": "not_mentioned",
+    "trailer": "included",
+    "varmare": "not_mentioned",
+    "vhf": "not_mentioned",
+    "vinsch": "not_mentioned",
+    "vinterkapell": "not_mentioned"
+   }
+  },
+  "text_sha": "42a7adfa964c626a"
+ },
+ "location": "Köping",
+ "lon": 15.96,
+ "make": "Bayliner",
+ "max_speed": null,
+ "motor_fuel": "Bensin",
+ "motor_size": null,
+ "motor_type": "Inombordare",
+ "organisation_name": null,
+ "page": {
+  "description_chars": 747,
+  "fetched_ts": 1795680410005,
+  "text_sha": "42a7adfa964c626a"
+ },
+ "price": 110000,
+ "price_history": [
+  {
+   "date": "2026-11-26",
+   "price": 110000
+  }
+ ],
+ "specs": {
+  "Bredd": "215 cm",
+  "Båtens plats": "Sverige",
+  "Drivmedel": "Bensin",
+  "Färg": "Blå/vit",
+  "Längd i fot": "19 fot",
+  "Modell": "Discovery 192",
+  "Modellår": "2007",
+  "Motortillverkare": "Mercruiser",
+  "Motortyp": "Inombordare",
+  "Märke": "Bayliner",
+  "Sittplatser": "5",
+  "Skrovmaterial": "Glasfiber",
+  "Sovplatser": "3",
+  "Typ": "Daycruiser"
+ },
+ "status": "active",
+ "url": "https://www.blocket.se/mobility/item/28544213",
+ "width_cm": 215,
+ "year": 2007
+}
