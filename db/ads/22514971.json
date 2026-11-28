@@ -68,6 +68,7 @@
  "motor_fuel": null,
  "motor_size": null,
  "motor_type": "Inombordare",
+ "not_in_search_since": "2026-11-28",
  "organisation_name": null,
  "page": {
   "description_chars": 853,
@@ -92,7 +93,7 @@
   "Märke": "Coronet",
   "Typ": "Daycruiser"
  },
- "status": "active",
+ "status": "inactive",
  "url": "https://www.blocket.se/mobility/item/22514971",
  "width_cm": 0,
  "year": 1976
